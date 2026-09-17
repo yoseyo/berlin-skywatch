@@ -1,23 +1,59 @@
 {
   "flights": [
     {
-      "callsign": "DLH2HH",
+      "callsign": "NOZ1123",
+      "country": "Norway",
+      "lat": 52.4226,
+      "lon": 13.0161,
+      "altKm": 3.6,
+      "speedKmh": 601,
+      "heading": 305
+    },
+    {
+      "callsign": "CHX100",
       "country": "Germany",
-      "lat": 52.3755,
-      "lon": 13.5957,
+      "lat": 52.4884,
+      "lon": 13.4505,
       "altKm": 0.4,
       "speedKmh": 252,
+      "heading": 41
+    },
+    {
+      "callsign": "ICE14T",
+      "country": "Iceland",
+      "lat": 52.3675,
+      "lon": 13.5613,
+      "altKm": 0.2,
+      "speedKmh": 266,
       "heading": 249
     },
     {
-      "callsign": "TVF97PR",
-      "country": "France",
-      "lat": 52.3322,
-      "lon": 13.3247,
-      "altKm": 2.0,
-      "speedKmh": 413,
-      "heading": 250
+      "callsign": "DLH6UT",
+      "country": "Germany",
+      "lat": 52.6363,
+      "lon": 13.0988,
+      "altKm": 11.5,
+      "speedKmh": 878,
+      "heading": 51
+    },
+    {
+      "callsign": "DEIZT",
+      "country": "Germany",
+      "lat": 52.6595,
+      "lon": 13.3956,
+      "altKm": 0.9,
+      "speedKmh": 300,
+      "heading": 47
+    },
+    {
+      "callsign": "AYJ384",
+      "country": "Germany",
+      "lat": 52.3506,
+      "lon": 13.4138,
+      "altKm": 1.7,
+      "speedKmh": 390,
+      "heading": 249
     }
   ],
-  "updated_at": "2026-09-17T10:57:02.376602Z"
+  "updated_at": "2026-09-17T11:07:06.450989Z"
 }
