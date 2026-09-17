@@ -406,19 +406,20 @@
   }
 
   // ---------- Live fetch ----------
+  var lastUpdatedAt = null; // detects whether a fetch actually brought new data, or just re-served the same file
+
   function fetchLive(){
     return fetch(DATA_URL + "?t=" + Date.now())
       .then(function(res){
         if (!res.ok) throw new Error("HTTP " + res.status);
         return res.json();
-      })
-      .then(function(json){ return json.flights || []; });
+      });
   }
 
-  function applyFlights(flights, demo){
+  function applyFlights(flights, demo, freshFix){
     var callsigns = flights.map(function(f){ return f.callsign; });
     removeStaleMarkers(callsigns);
-    if (!demo){
+    if (!demo && freshFix){
       liveBase = {};
       var t = performance.now();
       flights.forEach(function(f){
@@ -427,7 +428,10 @@
     }
     flights.forEach(function(f){
       var marker = ensureMarker(f.callsign, demo);
-      setMarkerPosition(marker, f.lat, f.lon, f.heading);
+      // Only snap the marker to this fetched fix on a genuinely new fix (or in demo
+      // mode). If this poll just re-served the same stale file, the animate() loop
+      // already owns this marker's dead-reckoned position — don't yank it backward.
+      if (demo || freshFix) setMarkerPosition(marker, f.lat, f.lon, f.heading);
       marker.bindPopup(popupHtml(f));
       marker.setTooltipContent(Math.round(f.speedKmh) + " km/h");
     });
@@ -436,11 +440,15 @@
   }
 
   function poll(){
-    fetchLive().then(function(flights){
+    fetchLive().then(function(json){
       setStatus("live");
-      applyFlights(flights, false);
+      var flights = json.flights || [];
+      var freshFix = json.updated_at !== lastUpdatedAt;
+      lastUpdatedAt = json.updated_at;
+      applyFlights(flights, false, freshFix);
     }).catch(function(){
       setStatus("demo");
+      lastUpdatedAt = null; // so the next real fix, whenever it lands, is always treated as fresh
       // demo positions are driven continuously by the animation loop below;
       // just make sure markers/table/ticker reflect a fresh snapshot now.
       var now = performance.now() / 1000;
@@ -449,7 +457,7 @@
         return { callsign: d.callsign, country: d.country, lat: p.lat, lon: p.lon,
                   altKm: d.altKm, speedKmh: d.speedKmh, heading: p.heading };
       });
-      applyFlights(flights, true);
+      applyFlights(flights, true, true);
     });
   }
 
