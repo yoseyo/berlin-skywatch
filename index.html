@@ -159,14 +159,20 @@
 
   <p class="footnote">
     <b>How this works:</b> a scheduled GitHub Actions workflow polls
-    <code>opensky-network.org/api/states/all</code> for Berlin's bounding box every minute from GitHub's own
-    runners, and commits the result to <code>data/latest.json</code> in this repo. This page just fetches that
-    static file — on load, and every 20 seconds after — so there's no CORS problem and no server to run: the
-    browser never talks to OpenSky directly. Between fetches, each marker keeps moving on its own, dead-reckoned
-    from its last known position using its reported heading and speed (shown in the tag beside each plane), so
-    motion stays smooth even though the underlying data only updates periodically. If that file is ever
-    unreachable (or hasn't been generated yet), the dashboard falls back to a small set of animated stand-in
-    flights, clearly marked <b>DEMO DATA</b> above, so the page never sits there broken.
+    <code>opensky-network.org/api/states/all</code> for Berlin's bounding box every 5 minutes from GitHub's own
+    runners (GitHub's practical floor for schedules — a 1-minute cron was tested and never actually fired), and
+    commits the result to <code>data/latest.json</code> in this repo. This page just fetches that static file —
+    on load, and every 60 seconds after — so there's no CORS problem and no server to run: the browser never
+    talks to OpenSky directly. Between fetches, each marker keeps moving on its own, dead-reckoned from its last
+    known fix using its reported heading and real speed (shown in the tag beside each plane), so motion is
+    continuous even though the underlying data only updates every few minutes. The "on approach" / "climbing
+    away" / "cruising" line in the narration and popups is a heuristic read of heading and altitude relative to
+    Berlin's airport (BER) — <b>not</b> a real flight plan; OpenSky's free tier has no route data, and its
+    historical-flights endpoint outright refuses anonymous requests. Operators are guessed from a small known-
+    airline lookup table; an all-letters callsign with no flight number is flagged as a private aircraft's
+    registration rather than "unidentified." If the data file is ever unreachable (or hasn't been generated yet),
+    the dashboard falls back to a small set of animated stand-in flights, clearly marked <b>DEMO DATA</b> above,
+    so the page never sits there broken.
   </p>
 
 </div>
@@ -176,8 +182,9 @@
   "use strict";
 
   var DATA_URL = "./data/latest.json";
-  var POLL_MS = 20000;
+  var POLL_MS = 60000;
   var BERLIN_CENTER = [52.52, 13.405];
+  var BER_AIRPORT = [52.3667, 13.5033]; // EDDB — Berlin Brandenburg
 
   var AIRLINES = {
     DLH:["Lufthansa","Germany"], EWG:["Eurowings","Germany"], CFG:["Condor","Germany"],
@@ -186,13 +193,18 @@
     UAE:["Emirates","UAE"], QTR:["Qatar Airways","Qatar"], ANA:["All Nippon Airways","Japan"],
     SAS:["SAS","Scandinavia"], LOT:["LOT Polish","Poland"], WZZ:["Wizz Air","Hungary"],
     SWR:["Swiss","Switzerland"], AUA:["Austrian","Austria"], PGT:["Pegasus","Türkiye"],
-    UAL:["United","USA"], DAL:["Delta","USA"], SIA:["Singapore Airlines","Singapore"]
+    UAL:["United","USA"], DAL:["Delta","USA"], SIA:["Singapore Airlines","Singapore"],
+    IBE:["Iberia","Spain"], VLG:["Vueling","Spain"], AZA:["ITA Airways","Italy"],
+    TAP:["TAP Air Portugal","Portugal"], FIN:["Finnair","Finland"], BEL:["Brussels Airlines","Belgium"],
+    ICE:["Icelandair","Iceland"], NAX:["Norwegian","Norway"], ACA:["Air Canada","Canada"],
+    JAL:["Japan Airlines","Japan"], CPA:["Cathay Pacific","Hong Kong"], MSR:["EgyptAir","Egypt"],
+    ETH:["Ethiopian Airlines","Ethiopia"], ELY:["El Al","Israel"], GIA:["Garuda Indonesia","Indonesia"]
   };
 
   var reduced = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // ---------- Map setup ----------
-  var map = L.map("map", { zoomControl: true, attributionControl: true }).setView(BERLIN_CENTER, 11.5);
+  var map = L.map("map", { zoomControl: true, attributionControl: true }).setView(BERLIN_CENTER, 15);
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors",
     maxZoom: 19
@@ -219,6 +231,33 @@
   function guessAirline(callsign){
     var prefix = (callsign || "").trim().slice(0, 3).toUpperCase();
     return AIRLINES[prefix] || null;
+  }
+  function isRegistrationStyle(callsign){
+    // Airline flight callsigns always carry a flight number; an all-letters
+    // callsign is almost always an aircraft broadcasting its tail registration
+    // (private/GA), not a scheduled flight we failed to look up.
+    return /^[A-Z]+$/.test((callsign || "").trim()) && callsign.trim().length >= 4;
+  }
+  function operatorLabel(callsign){
+    var guess = guessAirline(callsign);
+    if (guess) return "looks like " + guess[0] + " (" + guess[1] + ")";
+    if (isRegistrationStyle(callsign)) return "a private aircraft (reg. " + callsign + ")";
+    return "an operator we don't recognize";
+  }
+  function angleDiff(a, b){
+    var d = Math.abs(a - b) % 360;
+    return d > 180 ? 360 - d : d;
+  }
+  // Not real route data (OpenSky's free tier has none) — a heuristic read of
+  // where the aircraft is and which way it's pointed, relative to BER.
+  function routeHint(f){
+    var toBER = bearingBetween(f.lat, f.lon, BER_AIRPORT[0], BER_AIRPORT[1]);
+    var fromBER = bearingBetween(BER_AIRPORT[0], BER_AIRPORT[1], f.lat, f.lon);
+    var diff = angleDiff(f.heading, toBER);
+    var side = headingToCompass(fromBER);
+    if (f.altKm < 4 && diff < 55) return "looks to be on approach toward BER, currently " + side + " of the field";
+    if (f.altKm < 6 && diff > 125) return "looks to be climbing away from BER, now " + side + " of the field";
+    return "cruising, currently " + side + " of BER";
   }
   function lerp(a, b, t){ return a + (b - a) * t; }
   var KM_PER_DEG_LAT = 111.32;
@@ -302,9 +341,12 @@
   }
   function popupHtml(f){
     var guess = guessAirline(f.callsign);
-    var who = guess ? guess[0] + " · " + guess[1] : "Unidentified operator";
+    var who = guess ? guess[0] + " · " + guess[1]
+      : isRegistrationStyle(f.callsign) ? "Private aircraft (reg. " + f.callsign + ")"
+      : "Unrecognized operator";
     return "<b>" + f.callsign + "</b><br>" + who + "<br>" +
-      f.altKm.toFixed(1) + " km · " + Math.round(f.speedKmh) + " km/h · " + Math.round(f.heading) + "°";
+      f.altKm.toFixed(1) + " km · " + Math.round(f.speedKmh) + " km/h · " + Math.round(f.heading) + "°<br>" +
+      routeHint(f);
   }
 
   // ---------- Rendering: table + ticker ----------
@@ -336,10 +378,8 @@
     "Nothing airborne cleared the filter this cycle. Give it a minute."
   ];
   function narrationClause(f){
-    var guess = guessAirline(f.callsign);
-    var who = guess ? "looks like " + guess[0] + " (" + guess[1] + ")" : "an unmarked operator";
-    return f.callsign + " — " + who + " — gliding at " + f.altKm.toFixed(1) + " km, " +
-      Math.round(f.speedKmh) + " km/h, heading " + headingToCompass(f.heading);
+    return f.callsign + " — " + operatorLabel(f.callsign) + " — gliding at " + f.altKm.toFixed(1) + " km, " +
+      Math.round(f.speedKmh) + " km/h, heading " + headingToCompass(f.heading) + " — " + routeHint(f);
   }
   function buildNarration(flights){
     if (!flights.length) return quietLines[Math.floor(Math.random() * quietLines.length)];
@@ -413,27 +453,26 @@
     });
   }
 
-  // ---------- Continuous animation: demo paths loop, live flights dead-reckon from their last fix ----------
+  // ---------- Continuous animation: demo paths loop (decorative, respects reduced-motion); ----------
+  // ---------- live flights dead-reckon from their last real fix (data-driven, always on) ----------
   function animate(now){
-    if (!reduced){
-      if (mode === "demo"){
-        var nowSec = now / 1000;
-        demoDefs.forEach(function(d){
-          var p = demoPosition(d, nowSec);
-          var entry = markers[d.callsign];
-          if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading);
-          var hdgEl = document.getElementById("hdg-" + d.callsign);
-          if (hdgEl) hdgEl.textContent = String(Math.round(p.heading)).padStart(3, "0") + "°";
-        });
-      } else if (mode === "live"){
-        Object.keys(liveBase).forEach(function(cs){
-          var base = liveBase[cs];
-          var elapsedSec = (now - base.t) / 1000;
-          var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSec);
-          var entry = markers[cs];
-          if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);
-        });
-      }
+    if (mode === "demo" && !reduced){
+      var nowSec = now / 1000;
+      demoDefs.forEach(function(d){
+        var p = demoPosition(d, nowSec);
+        var entry = markers[d.callsign];
+        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading);
+        var hdgEl = document.getElementById("hdg-" + d.callsign);
+        if (hdgEl) hdgEl.textContent = String(Math.round(p.heading)).padStart(3, "0") + "°";
+      });
+    } else if (mode === "live"){
+      Object.keys(liveBase).forEach(function(cs){
+        var base = liveBase[cs];
+        var elapsedSec = (now - base.t) / 1000;
+        var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSec);
+        var entry = markers[cs];
+        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);
+      });
     }
     requestAnimationFrame(animate);
   }
