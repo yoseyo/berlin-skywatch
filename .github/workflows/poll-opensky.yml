@@ -2,7 +2,7 @@ name: Poll OpenSky for Berlin flights
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+    - cron: "* * * * *"   # every minute — exceeds OpenSky's free 400 req/day quota after ~6-7h/day; fetch script fails safe when rate-limited
   workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab
 
 permissions:

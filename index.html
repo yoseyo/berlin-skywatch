@@ -103,6 +103,13 @@
   .plane-svg path{fill:currentColor;}
   .plane-icon-wrapper.demo .plane-svg{color:var(--teal);}
   .plane-icon-wrapper.demo .plane-glow{background:var(--teal);}
+
+  .speed-tag{
+    background:var(--panel-2) !important;color:var(--teal) !important;border:1px solid var(--line) !important;
+    border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:10.5px;font-weight:500;
+    padding:2px 6px;box-shadow:none !important;
+  }
+  .speed-tag::before{display:none;}
 </style>
 </head>
 <body>
@@ -152,12 +159,14 @@
 
   <p class="footnote">
     <b>How this works:</b> a scheduled GitHub Actions workflow polls
-    <code>opensky-network.org/api/states/all</code> for Berlin's bounding box every 10 minutes from GitHub's own
+    <code>opensky-network.org/api/states/all</code> for Berlin's bounding box every minute from GitHub's own
     runners, and commits the result to <code>data/latest.json</code> in this repo. This page just fetches that
-    static file — on load, and every 75 seconds after — so there's no CORS problem and no server to run: the
-    browser never talks to OpenSky directly. If that file is ever unreachable (or hasn't been generated yet),
-    the dashboard falls back to a small set of animated stand-in flights, clearly marked <b>DEMO DATA</b> above,
-    so the page never sits there broken.
+    static file — on load, and every 20 seconds after — so there's no CORS problem and no server to run: the
+    browser never talks to OpenSky directly. Between fetches, each marker keeps moving on its own, dead-reckoned
+    from its last known position using its reported heading and speed (shown in the tag beside each plane), so
+    motion stays smooth even though the underlying data only updates periodically. If that file is ever
+    unreachable (or hasn't been generated yet), the dashboard falls back to a small set of animated stand-in
+    flights, clearly marked <b>DEMO DATA</b> above, so the page never sits there broken.
   </p>
 
 </div>
@@ -167,7 +176,7 @@
   "use strict";
 
   var DATA_URL = "./data/latest.json";
-  var POLL_MS = 75000;
+  var POLL_MS = 20000;
   var BERLIN_CENTER = [52.52, 13.405];
 
   var AIRLINES = {
@@ -212,6 +221,16 @@
     return AIRLINES[prefix] || null;
   }
   function lerp(a, b, t){ return a + (b - a) * t; }
+  var KM_PER_DEG_LAT = 111.32;
+  function kmPerDegLon(lat){ return 111.32 * Math.cos(lat * Math.PI / 180); }
+  function projectPosition(lat, lon, heading, speedKmh, elapsedSec){
+    var distKm = speedKmh * elapsedSec / 3600;
+    var rad = heading * Math.PI / 180;
+    return {
+      lat: lat + (distKm * Math.cos(rad)) / KM_PER_DEG_LAT,
+      lon: lon + (distKm * Math.sin(rad)) / kmPerDegLon(lat)
+    };
+  }
   function bearingBetween(lat1, lon1, lat2, lon2){
     var dLon = (lon2 - lon1) * Math.PI / 180;
     var y = Math.sin(dLon) * Math.cos(lat2 * Math.PI / 180);
@@ -251,11 +270,13 @@
 
   // ---------- Shared flight/marker state ----------
   var markers = {}; // callsign -> {marker, mode}
+  var liveBase = {}; // callsign -> {lat, lon, heading, speedKmh, t} — last fetched fix, extrapolated between polls
   var mode = "connecting"; // "live" | "demo" | "connecting"
 
   function ensureMarker(callsign, demo){
     if (!markers[callsign]){
       var m = L.marker([BERLIN_CENTER[0], BERLIN_CENTER[1]], { icon: planeDivIcon(demo) }).addTo(map);
+      m.bindTooltip("", { permanent: true, direction: "right", offset: [14, -6], className: "speed-tag" });
       markers[callsign] = { marker: m, demo: demo };
     } else if (markers[callsign].demo !== demo){
       markers[callsign].demo = demo;
@@ -317,7 +338,8 @@
   function narrationClause(f){
     var guess = guessAirline(f.callsign);
     var who = guess ? "looks like " + guess[0] + " (" + guess[1] + ")" : "an unmarked operator";
-    return f.callsign + " — " + who + " — gliding at " + f.altKm.toFixed(1) + " km, heading " + headingToCompass(f.heading);
+    return f.callsign + " — " + who + " — gliding at " + f.altKm.toFixed(1) + " km, " +
+      Math.round(f.speedKmh) + " km/h, heading " + headingToCompass(f.heading);
   }
   function buildNarration(flights){
     if (!flights.length) return quietLines[Math.floor(Math.random() * quietLines.length)];
@@ -356,10 +378,18 @@
   function applyFlights(flights, demo){
     var callsigns = flights.map(function(f){ return f.callsign; });
     removeStaleMarkers(callsigns);
+    if (!demo){
+      liveBase = {};
+      var t = performance.now();
+      flights.forEach(function(f){
+        liveBase[f.callsign] = { lat: f.lat, lon: f.lon, heading: f.heading, speedKmh: f.speedKmh, t: t };
+      });
+    }
     flights.forEach(function(f){
       var marker = ensureMarker(f.callsign, demo);
       setMarkerPosition(marker, f.lat, f.lon, f.heading);
       marker.bindPopup(popupHtml(f));
+      marker.setTooltipContent(Math.round(f.speedKmh) + " km/h");
     });
     renderTable(flights);
     showNarration(buildNarration(flights));
@@ -383,21 +413,31 @@
     });
   }
 
-  // ---------- Continuous demo animation (only matters while in demo mode) ----------
-  function animateDemo(now){
-    if (mode === "demo" && !reduced){
-      var nowSec = now / 1000;
-      demoDefs.forEach(function(d){
-        var p = demoPosition(d, nowSec);
-        var entry = markers[d.callsign];
-        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading);
-        var hdgEl = document.getElementById("hdg-" + d.callsign);
-        if (hdgEl) hdgEl.textContent = String(Math.round(p.heading)).padStart(3, "0") + "°";
-      });
+  // ---------- Continuous animation: demo paths loop, live flights dead-reckon from their last fix ----------
+  function animate(now){
+    if (!reduced){
+      if (mode === "demo"){
+        var nowSec = now / 1000;
+        demoDefs.forEach(function(d){
+          var p = demoPosition(d, nowSec);
+          var entry = markers[d.callsign];
+          if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading);
+          var hdgEl = document.getElementById("hdg-" + d.callsign);
+          if (hdgEl) hdgEl.textContent = String(Math.round(p.heading)).padStart(3, "0") + "°";
+        });
+      } else if (mode === "live"){
+        Object.keys(liveBase).forEach(function(cs){
+          var base = liveBase[cs];
+          var elapsedSec = (now - base.t) / 1000;
+          var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSec);
+          var entry = markers[cs];
+          if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);
+        });
+      }
     }
-    requestAnimationFrame(animateDemo);
+    requestAnimationFrame(animate);
   }
-  requestAnimationFrame(animateDemo);
+  requestAnimationFrame(animate);
 
   // ---------- Clock ----------
   function tickClock(){
