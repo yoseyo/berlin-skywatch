@@ -2,7 +2,7 @@ name: Poll OpenSky for Berlin flights
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 min — GitHub's documented practical floor for schedules; "* * * * *" (every 1 min) was tested and never fired in 25+ min, so this is as fast as GitHub will reliably honor. 288 calls/day, comfortably under OpenSky's 400/day free quota.
+    - cron: "3-59/5 * * * *"   # every 5 min, offset from :00 — GitHub's docs warn round-number times (e.g. :00, :05) see the most scheduler load/delay, and recommend offsetting. "* * * * *" (every 1 min) never fired at all in 25+ min of testing; a plain "*/5" also saw zero scheduled runs across 4 expected windows (21 min) despite the workflow showing "active" with correct permissions — this offset is GitHub's own documented fix for that. 288 calls/day, comfortably under OpenSky's 400/day free quota.
   workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab
 
 permissions:
