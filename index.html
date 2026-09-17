@@ -204,7 +204,10 @@
   var reduced = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // ---------- Map setup ----------
-  var map = L.map("map", { zoomControl: true, attributionControl: true }).setView(BERLIN_CENTER, 15);
+  // fitBounds (rather than a hand-picked zoom) guarantees BER stays in frame
+  // alongside the city center on any screen size, including the mobile breakpoint.
+  var map = L.map("map", { zoomControl: true, attributionControl: true });
+  map.fitBounds(L.latLngBounds([BERLIN_CENTER, BER_AIRPORT]), { padding: [55, 55], maxZoom: 12 });
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors",
     maxZoom: 19
@@ -421,9 +424,14 @@
     removeStaleMarkers(callsigns);
     if (!demo && freshFix){
       liveBase = {};
-      var t = performance.now();
+      // Anchor to the data's own wall-clock timestamp, not performance.now() (which
+      // resets to 0 on every page load). That way a fresh page load immediately
+      // resumes extrapolating from the correct real-world elapsed time instead of
+      // restarting the clock and appearing to jump backward to the raw fetched fix.
+      var fixMs = Date.parse(lastUpdatedAt);
+      if (isNaN(fixMs)) fixMs = Date.now();
       flights.forEach(function(f){
-        liveBase[f.callsign] = { lat: f.lat, lon: f.lon, heading: f.heading, speedKmh: f.speedKmh, t: t };
+        liveBase[f.callsign] = { lat: f.lat, lon: f.lon, heading: f.heading, speedKmh: f.speedKmh, t: fixMs };
       });
     }
     flights.forEach(function(f){
@@ -474,9 +482,14 @@
         if (hdgEl) hdgEl.textContent = String(Math.round(p.heading)).padStart(3, "0") + "°";
       });
     } else if (mode === "live"){
+      var wallNow = Date.now();
       Object.keys(liveBase).forEach(function(cs){
         var base = liveBase[cs];
-        var elapsedSec = (now - base.t) / 1000;
+        // Cap how far we'll dead-reckon a stale fix — past ~15 min a straight-line
+        // projection from a single heading/speed reading is more likely wrong than
+        // useful (planes turn, land, etc.), so we hold position rather than drift
+        // somewhere implausible.
+        var elapsedSec = Math.min((wallNow - base.t) / 1000, 900);
         var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSec);
         var entry = markers[cs];
         if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);

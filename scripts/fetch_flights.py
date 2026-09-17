@@ -32,8 +32,6 @@ if states is not None:
                 "speedKmh": round((s[9] or 0) * 3.6),
                 "heading": round(s[10] or 0),
             })
-    flights = flights[:6]
-
     with open("data/latest.json", "w") as f:
         json.dump({
             "flights": flights,
