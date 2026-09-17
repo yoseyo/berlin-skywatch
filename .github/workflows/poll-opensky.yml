@@ -1,0 +1,26 @@
+name: Poll OpenSky for Berlin flights
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and transform OpenSky data
+        run: python3 scripts/fetch_flights.py
+
+      - name: Commit updated data (only if it changed)
+        run: |
+          git config user.name "berlin-skywatch-bot"
+          git config user.email "actions@github.com"
+          git add data/latest.json
+          git diff --quiet --cached || git commit -m "Update flight data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Berlin Skywatch</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+  :root{
+    --bg:#0a1120;
+    --panel:#10192e;
+    --panel-2:#16223c;
+    --line:#26344f;
+    --line-soft:#1c2740;
+    --text:#eef2fb;
+    --text-dim:#93a2c2;
+    --amber:#ffb454;
+    --amber-dim:#a97a3d;
+    --teal:#5fd0d9;
+    --good:#7ddc8c;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;height:100%;background:var(--bg);color:var(--text);color-scheme:dark;}
+  body{
+    font-family:'JetBrains Mono',ui-monospace,Consolas,monospace;
+    padding:22px 16px 34px;
+  }
+  .page{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:18px;}
+
+  .header{
+    display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px;
+    border-bottom:1px solid var(--line);padding-bottom:16px;
+  }
+  .eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:.16em;color:var(--amber);margin:0 0 8px;}
+  h1{
+    font-family:'Fraunces',Georgia,'Times New Roman',serif;
+    font-weight:700;font-size:clamp(26px,4vw,38px);letter-spacing:-0.01em;margin:0;
+    text-wrap:balance;
+  }
+  .status{display:flex;align-items:center;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--text-dim);}
+  .pill{
+    display:inline-flex;align-items:center;gap:7px;border:1px solid var(--amber-dim);color:var(--amber);
+    padding:5px 11px;border-radius:999px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+    transition:border-color .3s ease, color .3s ease;
+  }
+  .pill.live{border-color:#3f7a52;color:var(--good);}
+  .pill .dot{width:6px;height:6px;border-radius:50%;background:currentColor;box-shadow:0 0 8px currentColor;animation:blink 2.4s ease-in-out infinite;}
+  @keyframes blink{0%,100%{opacity:1;}50%{opacity:.35;}}
+  #clock{font-variant-numeric:tabular-nums;}
+
+  .main-grid{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(280px,1fr);gap:18px;}
+  @media (max-width:860px){.main-grid{grid-template-columns:1fr;}}
+
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;}
+  .map-card{position:relative;overflow:hidden;}
+  #map{width:100%;height:520px;background:var(--panel);}
+  @media (max-width:600px){#map{height:400px;}}
+
+  /* Dark-radar re-theme of plain OpenStreetMap tiles (no extra API key needed) */
+  .leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(0.95) contrast(0.85) saturate(0.85);}
+  .leaflet-container{background:var(--panel) !important;font-family:'JetBrains Mono',monospace;}
+  .leaflet-control-attribution{background:rgba(10,17,32,.75) !important;color:var(--text-dim) !important;font-size:10px !important;}
+  .leaflet-control-attribution a{color:var(--teal) !important;}
+  .leaflet-control-zoom a{background:var(--panel-2) !important;color:var(--text) !important;border-color:var(--line) !important;}
+  .leaflet-popup-content-wrapper{background:var(--panel-2);color:var(--text);border:1px solid var(--line);border-radius:10px;}
+  .leaflet-popup-tip{background:var(--panel-2);}
+  .leaflet-popup-content{font-family:'JetBrains Mono',monospace;font-size:12px;line-height:1.6;margin:10px 12px;}
+  .leaflet-popup-content b{color:var(--amber);}
+
+  .map-caption{padding:10px 16px 14px;font-size:11px;color:var(--text-dim);border-top:1px solid var(--line-soft);}
+
+  .side-col{display:flex;flex-direction:column;gap:18px;}
+  .card-inner{padding:16px 18px 18px;}
+  .card h2{font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:var(--text-dim);margin:0 0 12px;font-weight:500;}
+
+  #ticker-text{
+    font-family:'Fraunces',Georgia,serif;font-size:18px;line-height:1.48;min-height:78px;
+    transition:opacity .45s ease;color:var(--text);
+  }
+  .ticker-foot{margin-top:12px;padding-top:10px;border-top:1px solid var(--line-soft);font-size:11px;color:var(--text-dim);}
+
+  .table-wrap{overflow-x:auto;}
+  table{width:100%;border-collapse:collapse;font-size:12.5px;}
+  th,td{text-align:left;padding:7px 8px;white-space:nowrap;}
+  thead th{color:var(--text-dim);font-weight:500;font-size:10.5px;text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid var(--line);}
+  tbody tr{border-bottom:1px solid var(--line-soft);transition:background .2s ease;}
+  tbody tr:last-child{border-bottom:none;}
+  tbody tr.active{background:var(--panel-2);}
+  td.cs{color:var(--amber);font-weight:700;}
+  td.num,th.num{font-variant-numeric:tabular-nums;}
+  #flight-table-empty{padding:6px 0;color:var(--text-dim);font-size:12.5px;}
+
+  .footnote{font-size:11.5px;color:var(--text-dim);line-height:1.65;border-top:1px solid var(--line);padding-top:16px;}
+  .footnote b{color:var(--text);}
+  .footnote code{color:var(--teal);}
+
+  .plane-icon-wrapper{width:26px;height:26px;}
+  .plane-wrap{width:26px;height:26px;position:relative;transform-origin:50% 50%;}
+  .plane-glow{position:absolute;inset:-7px;border-radius:50%;background:var(--amber);opacity:.18;}
+  .plane-svg{position:relative;width:26px;height:26px;color:var(--amber);}
+  .plane-svg path{fill:currentColor;}
+  .plane-icon-wrapper.demo .plane-svg{color:var(--teal);}
+  .plane-icon-wrapper.demo .plane-glow{background:var(--teal);}
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <header class="header">
+    <div>
+      <p class="eyebrow">Live Airspace Dashboard</p>
+      <h1>Berlin Skywatch</h1>
+    </div>
+    <div class="status">
+      <span class="pill" id="status-pill"><span class="dot"></span><span id="status-text">Connecting…</span></span>
+      <span id="clock">—</span>
+    </div>
+  </header>
+
+  <div class="main-grid">
+
+    <div class="card map-card">
+      <div id="map"></div>
+      <div class="map-caption">Amber markers are OpenSky's real, live positions. Teal markers mean the live feed didn't respond in this browser, so this preview is animating stand-in flights instead — see the note at the bottom of the page.</div>
+    </div>
+
+    <div class="side-col">
+      <div class="card card-inner">
+        <h2>Live narration</h2>
+        <div id="ticker-text">Loading…</div>
+        <div class="ticker-foot">Written locally from the flight facts on screen — no AI call, no server, just this page.</div>
+      </div>
+
+      <div class="card card-inner">
+        <h2>Flights in view</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>Flight</th><th>Registered</th><th class="num">Alt</th><th class="num">Speed</th><th class="num">Hdg</th></tr>
+            </thead>
+            <tbody id="flight-table-body"></tbody>
+          </table>
+          <div id="flight-table-empty" hidden>No aircraft matched the filters on the last poll.</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <p class="footnote">
+    <b>How this works:</b> a scheduled GitHub Actions workflow polls
+    <code>opensky-network.org/api/states/all</code> for Berlin's bounding box every 10 minutes from GitHub's own
+    runners, and commits the result to <code>data/latest.json</code> in this repo. This page just fetches that
+    static file — on load, and every 75 seconds after — so there's no CORS problem and no server to run: the
+    browser never talks to OpenSky directly. If that file is ever unreachable (or hasn't been generated yet),
+    the dashboard falls back to a small set of animated stand-in flights, clearly marked <b>DEMO DATA</b> above,
+    so the page never sits there broken.
+  </p>
+
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  var DATA_URL = "./data/latest.json";
+  var POLL_MS = 75000;
+  var BERLIN_CENTER = [52.52, 13.405];
+
+  var AIRLINES = {
+    DLH:["Lufthansa","Germany"], EWG:["Eurowings","Germany"], CFG:["Condor","Germany"],
+    RYR:["Ryanair","Ireland"], EZY:["easyJet","UK"], BAW:["British Airways","UK"],
+    AFR:["Air France","France"], KLM:["KLM","Netherlands"], THY:["Turkish Airlines","Türkiye"],
+    UAE:["Emirates","UAE"], QTR:["Qatar Airways","Qatar"], ANA:["All Nippon Airways","Japan"],
+    SAS:["SAS","Scandinavia"], LOT:["LOT Polish","Poland"], WZZ:["Wizz Air","Hungary"],
+    SWR:["Swiss","Switzerland"], AUA:["Austrian","Austria"], PGT:["Pegasus","Türkiye"],
+    UAL:["United","USA"], DAL:["Delta","USA"], SIA:["Singapore Airlines","Singapore"]
+  };
+
+  var reduced = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---------- Map setup ----------
+  var map = L.map("map", { zoomControl: true, attributionControl: true }).setView(BERLIN_CENTER, 11.5);
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "&copy; OpenStreetMap contributors",
+    maxZoom: 19
+  }).addTo(map);
+
+  function planeDivIcon(demo){
+    return L.divIcon({
+      className: "plane-icon-wrapper" + (demo ? " demo" : ""),
+      html:
+        '<div class="plane-wrap">' +
+          '<div class="plane-glow"></div>' +
+          '<svg class="plane-svg" viewBox="-10 -10 20 20"><path d="M0,-8 L5,7 L0,3.4 L-5,7 Z"/></svg>' +
+        '</div>',
+      iconSize: [26, 26],
+      iconAnchor: [13, 13]
+    });
+  }
+
+  // ---------- Helpers ----------
+  function headingToCompass(deg){
+    var dirs = ["N","NE","E","SE","S","SW","W","NW"];
+    return dirs[Math.round(((deg % 360) + 360) % 360 / 45) % 8];
+  }
+  function guessAirline(callsign){
+    var prefix = (callsign || "").trim().slice(0, 3).toUpperCase();
+    return AIRLINES[prefix] || null;
+  }
+  function lerp(a, b, t){ return a + (b - a) * t; }
+  function bearingBetween(lat1, lon1, lat2, lon2){
+    var dLon = (lon2 - lon1) * Math.PI / 180;
+    var y = Math.sin(dLon) * Math.cos(lat2 * Math.PI / 180);
+    var x = Math.cos(lat1 * Math.PI / 180) * Math.sin(lat2 * Math.PI / 180) -
+            Math.sin(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.cos(dLon);
+    return (Math.atan2(y, x) * 180 / Math.PI + 360) % 360;
+  }
+
+  // ---------- Demo (fallback) flight paths — real Berlin-area coordinates ----------
+  var demoDefs = [
+    { callsign: "DLH441", country: "Germany", altKm: 9.4, speedKmh: 830,
+      from: [52.30, 12.95], to: [52.70, 13.85], duration: 46 },
+    { callsign: "RYR9F2", country: "Ireland", altKm: 3.1, speedKmh: 410,
+      from: [52.42, 12.98], to: [52.45, 13.85], duration: 58 },
+    { callsign: "UAE9", country: "UAE", altKm: 6.8, speedKmh: 690,
+      from: [52.30, 13.55], to: [52.70, 13.20], duration: 52 },
+    { callsign: "BAW1A", country: "UK", altKm: 11.2, speedKmh: 900,
+      from: [52.60, 13.85], to: [52.34, 12.95], duration: 38 }
+  ];
+
+  function triangleWave(t){ // 0..1..0, smooth ping-pong, no teleport
+    var x = t % 1;
+    return x < 0.5 ? x * 2 : 2 - x * 2;
+  }
+
+  function demoPosition(def, nowSec){
+    var t = triangleWave(nowSec / def.duration + def.phase);
+    var t2 = triangleWave((nowSec + 1) / def.duration + def.phase);
+    var lat = lerp(def.from[0], def.to[0], t);
+    var lon = lerp(def.from[1], def.to[1], t);
+    var lat2 = lerp(def.from[0], def.to[0], t2);
+    var lon2 = lerp(def.from[1], def.to[1], t2);
+    return { lat: lat, lon: lon, heading: bearingBetween(lat, lon, lat2, lon2) };
+  }
+
+  demoDefs.forEach(function(d, i){ d.phase = i * 0.21; });
+
+  // ---------- Shared flight/marker state ----------
+  var markers = {}; // callsign -> {marker, mode}
+  var mode = "connecting"; // "live" | "demo" | "connecting"
+
+  function ensureMarker(callsign, demo){
+    if (!markers[callsign]){
+      var m = L.marker([BERLIN_CENTER[0], BERLIN_CENTER[1]], { icon: planeDivIcon(demo) }).addTo(map);
+      markers[callsign] = { marker: m, demo: demo };
+    } else if (markers[callsign].demo !== demo){
+      markers[callsign].demo = demo;
+      markers[callsign].marker.setIcon(planeDivIcon(demo));
+    }
+    return markers[callsign].marker;
+  }
+  function removeStaleMarkers(activeCallsigns){
+    Object.keys(markers).forEach(function(cs){
+      if (activeCallsigns.indexOf(cs) === -1){
+        map.removeLayer(markers[cs].marker);
+        delete markers[cs];
+      }
+    });
+  }
+  function setMarkerPosition(marker, lat, lon, heading){
+    marker.setLatLng([lat, lon]);
+    var el = marker.getElement();
+    if (el){
+      var wrap = el.querySelector(".plane-wrap");
+      if (wrap) wrap.style.transform = "rotate(" + Math.round(heading) + "deg)";
+    }
+  }
+  function popupHtml(f){
+    var guess = guessAirline(f.callsign);
+    var who = guess ? guess[0] + " · " + guess[1] : "Unidentified operator";
+    return "<b>" + f.callsign + "</b><br>" + who + "<br>" +
+      f.altKm.toFixed(1) + " km · " + Math.round(f.speedKmh) + " km/h · " + Math.round(f.heading) + "°";
+  }
+
+  // ---------- Rendering: table + ticker ----------
+  function renderTable(flights){
+    var body = document.getElementById("flight-table-body");
+    var empty = document.getElementById("flight-table-empty");
+    body.innerHTML = "";
+    if (!flights.length){ empty.hidden = false; return; }
+    empty.hidden = true;
+    flights.forEach(function(f){
+      var tr = document.createElement("tr");
+      tr.className = "flight-row";
+      tr.dataset.row = f.callsign;
+      tr.innerHTML =
+        '<td class="cs">' + f.callsign + "</td>" +
+        "<td>" + f.country + "</td>" +
+        '<td class="num">' + f.altKm.toFixed(1) + " km</td>" +
+        '<td class="num">' + Math.round(f.speedKmh) + " km/h</td>" +
+        '<td class="num" id="hdg-' + f.callsign + '">' + String(Math.round(f.heading)).padStart(3, "0") + "°</td>";
+      body.appendChild(tr);
+    });
+  }
+
+  var narrationOpeners = [
+    "Right now over Berlin:", "Currently crossing the city:", "In the box this cycle:"
+  ];
+  var quietLines = [
+    "Quiet moment — nothing matched the filters on this pass, but Berlin's skies rarely stay empty long.",
+    "Nothing airborne cleared the filter this cycle. Give it a minute."
+  ];
+  function narrationClause(f){
+    var guess = guessAirline(f.callsign);
+    var who = guess ? "looks like " + guess[0] + " (" + guess[1] + ")" : "an unmarked operator";
+    return f.callsign + " — " + who + " — gliding at " + f.altKm.toFixed(1) + " km, heading " + headingToCompass(f.heading);
+  }
+  function buildNarration(flights){
+    if (!flights.length) return quietLines[Math.floor(Math.random() * quietLines.length)];
+    var opener = narrationOpeners[Math.floor(Math.random() * narrationOpeners.length)];
+    var shown = flights.slice(0, 3).map(narrationClause);
+    var rest = flights.length > 3 ? ", plus " + (flights.length - 3) + " more out of frame." : ".";
+    return opener + " " + shown.join("; ") + rest;
+  }
+
+  var tickerEl = document.getElementById("ticker-text");
+  function showNarration(text){
+    if (reduced){ tickerEl.textContent = text; return; }
+    tickerEl.style.opacity = 0;
+    setTimeout(function(){ tickerEl.textContent = text; tickerEl.style.opacity = 1; }, 380);
+  }
+
+  function setStatus(newMode){
+    mode = newMode;
+    var pill = document.getElementById("status-pill");
+    var text = document.getElementById("status-text");
+    if (newMode === "live"){ pill.classList.add("live"); text.textContent = "Live · OpenSky"; }
+    else if (newMode === "demo"){ pill.classList.remove("live"); text.textContent = "Demo data"; }
+    else { pill.classList.remove("live"); text.textContent = "Connecting…"; }
+  }
+
+  // ---------- Live fetch ----------
+  function fetchLive(){
+    return fetch(DATA_URL + "?t=" + Date.now())
+      .then(function(res){
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        return res.json();
+      })
+      .then(function(json){ return json.flights || []; });
+  }
+
+  function applyFlights(flights, demo){
+    var callsigns = flights.map(function(f){ return f.callsign; });
+    removeStaleMarkers(callsigns);
+    flights.forEach(function(f){
+      var marker = ensureMarker(f.callsign, demo);
+      setMarkerPosition(marker, f.lat, f.lon, f.heading);
+      marker.bindPopup(popupHtml(f));
+    });
+    renderTable(flights);
+    showNarration(buildNarration(flights));
+  }
+
+  function poll(){
+    fetchLive().then(function(flights){
+      setStatus("live");
+      applyFlights(flights, false);
+    }).catch(function(){
+      setStatus("demo");
+      // demo positions are driven continuously by the animation loop below;
+      // just make sure markers/table/ticker reflect a fresh snapshot now.
+      var now = performance.now() / 1000;
+      var flights = demoDefs.map(function(d){
+        var p = demoPosition(d, now);
+        return { callsign: d.callsign, country: d.country, lat: p.lat, lon: p.lon,
+                  altKm: d.altKm, speedKmh: d.speedKmh, heading: p.heading };
+      });
+      applyFlights(flights, true);
+    });
+  }
+
+  // ---------- Continuous demo animation (only matters while in demo mode) ----------
+  function animateDemo(now){
+    if (mode === "demo" && !reduced){
+      var nowSec = now / 1000;
+      demoDefs.forEach(function(d){
+        var p = demoPosition(d, nowSec);
+        var entry = markers[d.callsign];
+        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading);
+        var hdgEl = document.getElementById("hdg-" + d.callsign);
+        if (hdgEl) hdgEl.textContent = String(Math.round(p.heading)).padStart(3, "0") + "°";
+      });
+    }
+    requestAnimationFrame(animateDemo);
+  }
+  requestAnimationFrame(animateDemo);
+
+  // ---------- Clock ----------
+  function tickClock(){
+    var el = document.getElementById("clock");
+    try {
+      el.textContent = new Date().toLocaleTimeString("en-GB", {
+        timeZone: "Europe/Berlin", hour: "2-digit", minute: "2-digit", second: "2-digit"
+      }) + " · Berlin local time";
+    } catch (e) {
+      el.textContent = new Date().toLocaleTimeString();
+    }
+  }
+  tickClock();
+  setInterval(tickClock, 1000);
+
+  // ---------- Kick off ----------
+  poll();
+  setInterval(poll, POLL_MS);
+
+  // ---------- Row/marker hover sync ----------
+  document.getElementById("flight-table-body").addEventListener("mouseover", function(e){
+    var tr = e.target.closest("tr[data-row]");
+    if (!tr) return;
+    var entry = markers[tr.dataset.row];
+    if (entry) entry.marker.openPopup();
+  });
+})();
+</script>
+</body>
+</html>
