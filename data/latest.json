@@ -1,37 +1,37 @@
 {
   "flights": [
     {
-      "callsign": "EWG3KA",
-      "country": "Germany",
-      "lat": 52.4449,
-      "lon": 13.7376,
-      "altKm": 0.9,
-      "speedKmh": 300,
-      "heading": 212,
-      "vertRateMs": -3.9,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN"
-    },
-    {
-      "callsign": "RYR1155",
-      "country": "Malta",
-      "lat": 52.3774,
-      "lon": 13.5257,
-      "altKm": 0.1,
-      "speedKmh": 252,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
+      "callsign": "EJU63CR",
+      "country": "Austria",
+      "lat": 52.4155,
+      "lon": 13.791,
+      "altKm": 1.0,
+      "speedKmh": 334,
+      "heading": 285,
+      "vertRateMs": -1.0,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Venice",
+      "fromIata": "VCE",
       "toCity": "Berlin",
       "toIata": "BER"
+    },
+    {
+      "callsign": "DLH5EE",
+      "country": "Germany",
+      "lat": 52.5528,
+      "lon": 13.9983,
+      "altKm": 11.5,
+      "speedKmh": 814,
+      "heading": 19,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA"
     }
   ],
-  "updated_at": "2026-09-18T21:40:27.738685Z"
+  "updated_at": "2026-09-18T21:45:26.193388Z"
 }
