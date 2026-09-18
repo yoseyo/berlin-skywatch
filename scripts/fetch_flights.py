@@ -78,16 +78,25 @@ def main():
 
     flights = []
     for s in states:
-        if s[8] is False and s[1] and s[1].strip():
-            flights.append({
-                "callsign": s[1].strip(),
-                "country": s[2] or "—",
-                "lat": s[6],
-                "lon": s[5],
-                "altKm": round((s[13] or s[7] or 0) / 1000, 1),
-                "speedKmh": round((s[9] or 0) * 3.6),
-                "heading": round(s[10] or 0),
-            })
+        if not (s[8] is False and s[1] and s[1].strip()):
+            continue
+        alt_km = (s[13] or s[7] or 0) / 1000
+        speed_kmh = (s[9] or 0) * 3.6
+        # OpenSky's on_ground flag is known to lag right at touchdown — a plane can
+        # sit on the runway at near-zero altitude/speed for a bit while still flagged
+        # airborne. Back it up with a physical check so landed aircraft don't linger.
+        if alt_km < 0.1 and speed_kmh < 80:
+            continue
+        flights.append({
+            "callsign": s[1].strip(),
+            "country": s[2] or "—",
+            "lat": s[6],
+            "lon": s[5],
+            "altKm": round(alt_km, 1),
+            "speedKmh": round(speed_kmh),
+            "heading": round(s[10] or 0),
+            "vertRateMs": round(s[11], 1) if s[11] is not None else 0,
+        })
 
     route_cache = load_json(ROUTE_CACHE_PATH, {})
 

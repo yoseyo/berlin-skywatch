@@ -164,7 +164,11 @@
     its configured interval), and commits the result to <code>data/latest.json</code>. This page just fetches
     that static file — on load, and every 60 seconds after — so there's no CORS problem and no server to run.
     Between fetches, each marker keeps moving on its own, dead-reckoned from its last known fix using its
-    reported heading and real speed (shown in the tag beside each plane). Route info (the city each flight is
+    reported heading and real speed (shown in the tag beside each plane); altitude in the table interpolates the
+    same way using OpenSky's own reported climb/descent rate. Ground speed has no equivalent — OpenSky doesn't
+    report acceleration — so it only changes on a real poll, up to every 5 minutes. A plane that's landed is
+    filtered out even if OpenSky's on_ground flag hasn't flipped yet (it's known to lag right at touchdown): low
+    altitude plus low ground speed together are treated as landed. Route info (the city each flight is
     coming from / heading to) is real data from <a href="https://www.adsbdb.com/" target="_blank"
     rel="noopener">adsbdb.com</a>'s free, keyless callsign lookup — OpenSky's own route endpoint refuses
     anonymous requests entirely, so this fills that gap; an arriving/departing flight only names the far-end
@@ -389,7 +393,7 @@
       tr.innerHTML =
         '<td class="cs">' + f.callsign + "</td>" +
         "<td>" + f.country + "</td>" +
-        '<td class="num">' + f.altKm.toFixed(1) + " km</td>" +
+        '<td class="num" id="alt-' + f.callsign + '">' + f.altKm.toFixed(1) + " km</td>" +
         '<td class="num">' + Math.round(f.speedKmh) + " km/h</td>" +
         '<td class="num" id="hdg-' + f.callsign + '">' + String(Math.round(f.heading)).padStart(3, "0") + "°</td>";
       body.appendChild(tr);
@@ -454,7 +458,10 @@
       var fixMs = Date.parse(lastUpdatedAt);
       if (isNaN(fixMs)) fixMs = Date.now();
       flights.forEach(function(f){
-        liveBase[f.callsign] = { lat: f.lat, lon: f.lon, heading: f.heading, speedKmh: f.speedKmh, t: fixMs };
+        liveBase[f.callsign] = {
+          lat: f.lat, lon: f.lon, heading: f.heading, speedKmh: f.speedKmh,
+          altKm: f.altKm, vertRateMs: f.vertRateMs || 0, t: fixMs
+        };
       });
     }
     flights.forEach(function(f){
@@ -516,6 +523,14 @@
         var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSec);
         var entry = markers[cs];
         if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);
+        // Altitude interpolated from OpenSky's own reported climb/descent rate (real
+        // physics, not a guess) so it keeps moving between polls instead of sitting
+        // frozen at the last fetched number for up to 5 minutes at a time.
+        var altEl = document.getElementById("alt-" + cs);
+        if (altEl){
+          var liveAltKm = Math.max(0, base.altKm + (base.vertRateMs * elapsedSec) / 1000);
+          altEl.textContent = liveAltKm.toFixed(1) + " km";
+        }
       });
     }
     requestAnimationFrame(animate);
