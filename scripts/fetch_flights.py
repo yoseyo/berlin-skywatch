@@ -4,7 +4,10 @@ import datetime
 
 URL = (
     "https://opensky-network.org/api/states/all"
-    "?lamin=52.30&lomin=13.00&lamax=52.70&lomax=13.75"
+    # Roughly double the tight metro box so inbound/outbound aircraft show up
+    # while they're still on approach/departure corridors, not only once they're
+    # already directly over the city.
+    "?lamin=52.10&lomin=12.70&lamax=52.95&lomax=14.10"
 )
 
 req = urllib.request.Request(URL, headers={
