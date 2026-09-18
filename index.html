@@ -146,7 +146,7 @@
         <div class="table-wrap">
           <table>
             <thead>
-              <tr><th>Flight</th><th>Registered</th><th class="num">Alt</th><th class="num">Speed</th><th class="num">Hdg</th></tr>
+              <tr><th>Flight</th><th>Registered</th><th class="num">Alt</th><th>From</th><th>To</th></tr>
             </thead>
             <tbody id="flight-table-body"></tbody>
           </table>
@@ -191,10 +191,10 @@
   var POLL_MS = 60000;
   var BERLIN_CENTER = [52.52, 13.405];
   var BER_AIRPORT = [52.3667, 13.5033]; // EDDB — Berlin Brandenburg
-  // Same box the workflow fetches flights from (lamin/lomin/lamax/lomax below) — using
-  // it for the initial map view guarantees the whole metro area + BER are in frame,
-  // not just a tight fit between two single points.
-  var BERLIN_BOUNDS = [[52.10, 12.70], [52.95, 14.10]];
+  // Initial camera framing — tighter than the ~90x100km box the workflow actually
+  // fetches from (still wide, to catch inbound/outbound traffic before it's overhead),
+  // so the page opens zoomed in on the city + airport rather than the full catchment.
+  var BERLIN_BOUNDS = [[52.30, 13.00], [52.70, 13.75]];
 
   var AIRLINES = {
     DLH:["Lufthansa","Germany"], EWG:["Eurowings","Germany"], CFG:["Condor","Germany"],
@@ -214,11 +214,12 @@
   var reduced = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // ---------- Map setup ----------
-  // fitBounds to the same box we fetch flights from (rather than a hand-picked zoom
-  // or a fit between two single points) guarantees the whole city + BER are in frame
-  // on load, on any screen size, including the mobile breakpoint.
+  // fitBounds (rather than a hand-picked zoom) guarantees the city + BER are in
+  // frame on load, on any screen size, including the mobile breakpoint. Planes
+  // fetched from further out (see the Python script) may sit just off-screen
+  // until the map is panned/zoomed to follow them.
   var map = L.map("map", { zoomControl: true, attributionControl: true });
-  map.fitBounds(BERLIN_BOUNDS, { padding: [20, 20] });
+  map.fitBounds(BERLIN_BOUNDS, { padding: [15, 15] });
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors",
     maxZoom: 19
@@ -256,11 +257,11 @@
     // adsbdb's route lookup (real, attributed data) is authoritative when it
     // resolved this callsign; the hardcoded table and registration heuristic
     // are only a fallback for callsigns adsbdb doesn't have on file.
-    if (f.airline) return "looks like " + f.airline + " (" + f.airlineCountry + ")";
+    if (f.airline) return f.airline;
     var guess = guessAirline(f.callsign);
-    if (guess) return "looks like " + guess[0] + " (" + guess[1] + ")";
-    if (isRegistrationStyle(f.callsign)) return "a private aircraft (reg. " + f.callsign + ")";
-    return "an operator we don't recognize";
+    if (guess) return guess[0];
+    if (isRegistrationStyle(f.callsign)) return "a private flight";
+    return "an unlisted operator";
   }
   function angleDiff(a, b){
     var d = Math.abs(a - b) % 360;
@@ -286,9 +287,9 @@
     var fromBER = bearingBetween(BER_AIRPORT[0], BER_AIRPORT[1], f.lat, f.lon);
     var diff = angleDiff(f.heading, toBER);
     var side = headingToCompass(fromBER);
-    if (f.altKm < 4 && diff < 55) return "looks to be on approach toward BER, currently " + side + " of the field";
-    if (f.altKm < 6 && diff > 125) return "looks to be climbing away from BER, now " + side + " of the field";
-    return "cruising, currently " + side + " of BER";
+    if (f.altKm < 4 && diff < 55) return "on approach to BER, " + side + " of the field";
+    if (f.altKm < 6 && diff > 125) return "climbing out of BER, " + side + " of the field";
+    return "cruising " + side + " of BER";
   }
   function routeLine(f){
     return routeCityLine(f) || routeHint(f);
@@ -375,8 +376,7 @@
   }
   function popupHtml(f){
     return "<b>" + f.callsign + "</b><br>" + operatorLabel(f) + "<br>" +
-      f.altKm.toFixed(1) + " km · " + Math.round(f.speedKmh) + " km/h · " + Math.round(f.heading) + "°<br>" +
-      routeLine(f);
+      f.altKm.toFixed(1) + " km<br>" + routeLine(f);
   }
 
   // ---------- Rendering: table + ticker ----------
@@ -394,29 +394,55 @@
         '<td class="cs">' + f.callsign + "</td>" +
         "<td>" + f.country + "</td>" +
         '<td class="num" id="alt-' + f.callsign + '">' + f.altKm.toFixed(1) + " km</td>" +
-        '<td class="num">' + Math.round(f.speedKmh) + " km/h</td>" +
-        '<td class="num" id="hdg-' + f.callsign + '">' + String(Math.round(f.heading)).padStart(3, "0") + "°</td>";
+        "<td>" + (f.fromCity || "—") + "</td>" +
+        "<td>" + (f.toCity || "—") + "</td>";
       body.appendChild(tr);
     });
   }
 
+  function pick(arr){ return arr[Math.floor(Math.random() * arr.length)]; }
+
   var narrationOpeners = [
-    "Right now over Berlin:", "Currently crossing the city:", "In the box this cycle:"
+    "Berlin's skies right now:", "Overhead the city at this moment:", "Currently drifting above Berlin:",
+    "The city's airspace, this cycle:"
   ];
   var quietLines = [
     "Quiet moment — nothing matched the filters on this pass, but Berlin's skies rarely stay empty long.",
     "Nothing airborne cleared the filter this cycle. Give it a minute."
   ];
+  // Fun, varied, city-first storytelling — real airline/route data when adsbdb has it,
+  // otherwise the heading/altitude heuristic from routeHint().
   function narrationClause(f){
-    return f.callsign + " — " + operatorLabel(f) + " — gliding at " + f.altKm.toFixed(1) + " km, " +
-      Math.round(f.speedKmh) + " km/h, heading " + headingToCompass(f.heading) + " — " + routeLine(f);
+    var who = operatorLabel(f);
+    var alt = f.altKm.toFixed(1) + " km";
+    var cityLine = routeCityLine(f);
+
+    if (!cityLine) return f.callsign + ", " + who + ", " + alt + " up — " + routeHint(f) + ".";
+
+    var arrivingBER = f.toIata === "BER";
+    var departingBER = f.fromIata === "BER";
+
+    if (arrivingBER) return pick([
+      who + "'s " + f.callsign + " is dropping in from " + f.fromCity + ", " + alt + " and easing down.",
+      "In from " + f.fromCity + ": " + f.callsign + ", " + who + ", " + alt + " and closing in on home.",
+      f.callsign + " left " + f.fromCity + " a while back — " + who + ", nearly there now."
+    ]);
+    if (departingBER) return pick([
+      who + "'s " + f.callsign + " just slipped out of Berlin, bound for " + f.toCity + ".",
+      "Wheels up for " + f.toCity + " — " + f.callsign + ", " + alt + " and still climbing.",
+      f.callsign + " is Berlin's latest export, " + who + ", off to " + f.toCity + "."
+    ]);
+    return pick([
+      who + "'s " + f.callsign + " is just passing through, " + f.fromCity + " to " + f.toCity + ", " + alt + " overhead.",
+      "Nothing to do with Berlin, really — " + f.callsign + " cruising " + f.fromCity + " to " + f.toCity + "."
+    ]);
   }
   function buildNarration(flights){
     if (!flights.length) return quietLines[Math.floor(Math.random() * quietLines.length)];
     var opener = narrationOpeners[Math.floor(Math.random() * narrationOpeners.length)];
     var shown = flights.slice(0, 3).map(narrationClause);
-    var rest = flights.length > 3 ? ", plus " + (flights.length - 3) + " more out of frame." : ".";
-    return opener + " " + shown.join("; ") + rest;
+    var rest = flights.length > 3 ? " Plus " + (flights.length - 3) + " more out of frame." : "";
+    return opener + " " + shown.join(" ") + rest;
   }
 
   var tickerEl = document.getElementById("ticker-text");
@@ -508,8 +534,6 @@
         var p = demoPosition(d, nowSec);
         var entry = markers[d.callsign];
         if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading);
-        var hdgEl = document.getElementById("hdg-" + d.callsign);
-        if (hdgEl) hdgEl.textContent = String(Math.round(p.heading)).padStart(3, "0") + "°";
       });
     } else if (mode === "live"){
       var wallNow = Date.now();
