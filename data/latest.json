@@ -1,4 +1,32 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-18T00:43:02.072345Z"
+  "flights": [
+    {
+      "callsign": "SXS75G",
+      "country": "Turkey",
+      "lat": 52.3631,
+      "lon": 13.4663,
+      "altKm": 0.4,
+      "speedKmh": 284,
+      "heading": 248
+    },
+    {
+      "callsign": "CHX31",
+      "country": "Germany",
+      "lat": 52.4068,
+      "lon": 13.4868,
+      "altKm": 0.4,
+      "speedKmh": 253,
+      "heading": 105
+    },
+    {
+      "callsign": "EWG7ED",
+      "country": "Germany",
+      "lat": 52.3444,
+      "lon": 13.4645,
+      "altKm": 0.3,
+      "speedKmh": 266,
+      "heading": 248
+    }
+  ],
+  "updated_at": "2026-09-18T05:13:02.802037Z"
 }
