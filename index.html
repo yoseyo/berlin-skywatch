@@ -539,17 +539,20 @@
       var wallNow = Date.now();
       Object.keys(liveBase).forEach(function(cs){
         var base = liveBase[cs];
-        // Cap how far we'll dead-reckon a stale fix — past ~15 min a straight-line
-        // projection from a single heading/speed reading is more likely wrong than
-        // useful (planes turn, land, etc.), so we hold position rather than drift
-        // somewhere implausible.
-        var elapsedSec = Math.min((wallNow - base.t) / 1000, 900);
+        // A straight-line/constant-rate projection only holds up during level, stable
+        // flight. A climbing or descending aircraft is actively changing speed, heading
+        // and vertical rate together — extrapolating that for many minutes overshoots
+        // fast (a real -6.5 m/s descent held for a stale 10-minute fix would imply the
+        // plane went 1.2km *below* ground). So a meaningfully climbing/descending flight
+        // gets a much shorter leash than a level cruising one.
+        var climbingOrDescending = Math.abs(base.vertRateMs) > 1;
+        var maxExtrapSec = climbingOrDescending ? 150 : 900;
+        var elapsedSec = Math.min((wallNow - base.t) / 1000, maxExtrapSec);
         var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSec);
         var entry = markers[cs];
         if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);
         // Altitude interpolated from OpenSky's own reported climb/descent rate (real
-        // physics, not a guess) so it keeps moving between polls instead of sitting
-        // frozen at the last fetched number for up to 5 minutes at a time.
+        // physics, not a guess), using the same capped elapsed time as position above.
         var altEl = document.getElementById("alt-" + cs);
         if (altEl){
           var liveAltKm = Math.max(0, base.altKm + (base.vertRateMs * elapsedSec) / 1000);

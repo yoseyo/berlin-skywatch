@@ -23,4 +23,11 @@ jobs:
           git config user.email "actions@github.com"
           git add data/latest.json data/route_cache.json
           git diff --quiet --cached || git commit -m "Update flight data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          # Retry on push rejection (e.g. a manual push landing at the same moment)
+          # instead of silently dropping this cycle's update.
+          for i in 1 2 3; do
+            git push && break
+            git fetch origin main
+            git rebase origin/main
+            sleep 2
+          done
