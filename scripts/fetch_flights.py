@@ -23,6 +23,15 @@ HEADERS = {
 ROUTE_CACHE_PATH = "data/route_cache.json"
 ROUTE_CACHE_TTL_HOURS = 12  # a flight's route doesn't change mid-flight
 
+# A plane can legitimately do 200-280 km/h for the first 20-40s *after* touchdown,
+# before braking — so a single low-altitude+low-speed reading can't reliably tell
+# "about to land" from "just landed", and a speed-only backstop misses the latter.
+# Instead, track altitude across polls: seen low once is given the benefit of the
+# doubt (could be genuine final approach), but still low a full poll cycle later is
+# a much stronger signal of being on the ground, regardless of that poll's speed.
+GROUND_WATCH_PATH = "data/ground_watch.json"
+LOW_ALT_KM = 0.15
+
 
 def load_json(path, default):
     try:
@@ -86,7 +95,7 @@ def main():
         # sit on the runway at near-zero altitude/speed for a bit while still flagged
         # airborne. Back it up with a physical check so landed aircraft don't linger.
         if alt_km < 0.1 and speed_kmh < 80:
-            continue
+            continue  # obviously landed/taxiing — clearly low and clearly slow
         flights.append({
             "callsign": s[1].strip(),
             "country": s[2] or "—",
@@ -97,6 +106,24 @@ def main():
             "heading": round(s[10] or 0),
             "vertRateMs": round(s[11], 1) if s[11] is not None else 0,
         })
+
+    ground_watch = load_json(GROUND_WATCH_PATH, {})
+    still_airborne = []
+    for f in flights:
+        cs = f["callsign"]
+        if f["altKm"] < LOW_ALT_KM:
+            if cs in ground_watch:
+                continue  # low on a previous poll too — treat as landed regardless of speed
+            ground_watch[cs] = now.isoformat() + "Z"  # first low reading — show it, but flag it
+        else:
+            ground_watch.pop(cs, None)  # back at altitude — clear any stale low-altitude flag
+        still_airborne.append(f)
+    flights = still_airborne
+
+    cutoff = now - datetime.timedelta(hours=2)
+    ground_watch = {
+        k: v for k, v in ground_watch.items() if parse_iso(v) > cutoff
+    }
 
     route_cache = load_json(ROUTE_CACHE_PATH, {})
 
@@ -138,6 +165,9 @@ def main():
 
     with open(ROUTE_CACHE_PATH, "w") as f:
         json.dump(route_cache, f, indent=2)
+
+    with open(GROUND_WATCH_PATH, "w") as f:
+        json.dump(ground_watch, f, indent=2)
 
 
 main()
