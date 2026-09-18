@@ -1,4 +1,5 @@
 import json
+import math
 import urllib.request
 import urllib.error
 import datetime
@@ -31,6 +32,24 @@ ROUTE_CACHE_TTL_HOURS = 12  # a flight's route doesn't change mid-flight
 # a much stronger signal of being on the ground, regardless of that poll's speed.
 GROUND_WATCH_PATH = "data/ground_watch.json"
 LOW_ALT_KM = 0.15
+
+# adsbdb's callsign->route mapping is a best-effort/historical association, not a
+# live flight-plan lookup — airlines reuse callsigns for different routes on
+# different days, so it can occasionally be stale. Cross-check it against reality:
+# a plane low and near BER with neither end of its claimed route pointing at Berlin
+# is almost certainly a mismatched callsign, not really flying that route right now.
+BER_LAT, BER_LON = 52.3667, 13.5033
+BER_PROXIMITY_KM = 20
+BER_TERMINAL_ALT_KM = 3
+
+
+def haversine_km(lat1, lon1, lat2, lon2):
+    r = 6371.0
+    p1, p2 = math.radians(lat1), math.radians(lat2)
+    dp = math.radians(lat2 - lat1)
+    dl = math.radians(lon2 - lon1)
+    a = math.sin(dp / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dl / 2) ** 2
+    return 2 * r * math.asin(math.sqrt(a))
 
 
 def load_json(path, default):
@@ -142,13 +161,23 @@ def main():
 
         route = cached["route"] if cached else None
         if route:
-            f["fromCity"] = route.get("fromCity")
-            f["fromIata"] = route.get("fromIata")
-            f["toCity"] = route.get("toCity")
-            f["toIata"] = route.get("toIata")
+            # The airline prefix (e.g. "EJU") reliably identifies the operator, so keep
+            # it even if the specific route below gets distrusted.
             if route.get("airlineName"):
                 f["airline"] = route["airlineName"]
                 f["airlineCountry"] = route.get("airlineCountry")
+
+            route_involves_ber = route.get("fromIata") == "BER" or route.get("toIata") == "BER"
+            near_ber = haversine_km(f["lat"], f["lon"], BER_LAT, BER_LON) < BER_PROXIMITY_KM
+            on_ber_profile = near_ber and f["altKm"] < BER_TERMINAL_ALT_KM
+            if route_involves_ber or not on_ber_profile:
+                f["fromCity"] = route.get("fromCity")
+                f["fromIata"] = route.get("fromIata")
+                f["toCity"] = route.get("toCity")
+                f["toIata"] = route.get("toIata")
+            # else: clearly on a Berlin approach/departure profile but the claimed route
+            # doesn't involve Berlin at all — almost certainly a stale/reused-callsign
+            # mismatch, so leave from/to unset rather than show a contradictory route.
 
     # Prune cache entries older than 48h so the file doesn't grow unbounded.
     cutoff = now - datetime.timedelta(hours=48)
