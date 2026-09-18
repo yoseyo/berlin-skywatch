@@ -1,32 +1,41 @@
 {
   "flights": [
     {
-      "callsign": "SXS75G",
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.5035,
+      "lon": 13.5148,
+      "altKm": 0.5,
+      "speedKmh": 239,
+      "heading": 77
+    },
+    {
+      "callsign": "BTI7702",
+      "country": "Latvia",
+      "lat": 52.408,
+      "lon": 13.1255,
+      "altKm": 11.7,
+      "speedKmh": 730,
+      "heading": 213
+    },
+    {
+      "callsign": "DEADX",
+      "country": "Germany",
+      "lat": 52.5815,
+      "lon": 13.6363,
+      "altKm": 0.9,
+      "speedKmh": 282,
+      "heading": 89
+    },
+    {
+      "callsign": "SXS8RG",
       "country": "Turkey",
-      "lat": 52.3631,
-      "lon": 13.4663,
-      "altKm": 0.4,
-      "speedKmh": 284,
-      "heading": 248
-    },
-    {
-      "callsign": "CHX31",
-      "country": "Germany",
-      "lat": 52.4068,
-      "lon": 13.4868,
-      "altKm": 0.4,
-      "speedKmh": 253,
-      "heading": 105
-    },
-    {
-      "callsign": "EWG7ED",
-      "country": "Germany",
-      "lat": 52.3444,
-      "lon": 13.4645,
-      "altKm": 0.3,
-      "speedKmh": 266,
-      "heading": 248
+      "lat": 52.3796,
+      "lon": 13.5355,
+      "altKm": 0.1,
+      "speedKmh": 258,
+      "heading": 249
     }
   ],
-  "updated_at": "2026-09-18T05:13:02.802037Z"
+  "updated_at": "2026-09-18T09:45:54.605632Z"
 }
