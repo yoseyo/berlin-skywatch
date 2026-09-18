@@ -185,6 +185,10 @@
   var POLL_MS = 60000;
   var BERLIN_CENTER = [52.52, 13.405];
   var BER_AIRPORT = [52.3667, 13.5033]; // EDDB — Berlin Brandenburg
+  // Same box the workflow fetches flights from (lamin/lomin/lamax/lomax below) — using
+  // it for the initial map view guarantees the whole metro area + BER are in frame,
+  // not just a tight fit between two single points.
+  var BERLIN_BOUNDS = [[52.30, 13.00], [52.70, 13.75]];
 
   var AIRLINES = {
     DLH:["Lufthansa","Germany"], EWG:["Eurowings","Germany"], CFG:["Condor","Germany"],
@@ -204,10 +208,11 @@
   var reduced = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // ---------- Map setup ----------
-  // fitBounds (rather than a hand-picked zoom) guarantees BER stays in frame
-  // alongside the city center on any screen size, including the mobile breakpoint.
+  // fitBounds to the same box we fetch flights from (rather than a hand-picked zoom
+  // or a fit between two single points) guarantees the whole city + BER are in frame
+  // on load, on any screen size, including the mobile breakpoint.
   var map = L.map("map", { zoomControl: true, attributionControl: true });
-  map.fitBounds(L.latLngBounds([BERLIN_CENTER, BER_AIRPORT]), { padding: [55, 55], maxZoom: 12 });
+  map.fitBounds(BERLIN_BOUNDS, { padding: [20, 20] });
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors",
     maxZoom: 19
