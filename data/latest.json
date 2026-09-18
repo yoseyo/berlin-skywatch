@@ -1,37 +1,47 @@
 {
   "flights": [
     {
-      "callsign": "EJU63CR",
-      "country": "Austria",
-      "lat": 52.4155,
-      "lon": 13.791,
-      "altKm": 1.0,
-      "speedKmh": 334,
-      "heading": 285,
-      "vertRateMs": -1.0,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Berlin",
-      "toIata": "BER"
+      "callsign": "NSZ3733",
+      "country": "Sweden",
+      "lat": 52.3078,
+      "lon": 12.7476,
+      "altKm": 11.8,
+      "speedKmh": 798,
+      "heading": 359,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH"
     },
     {
-      "callsign": "DLH5EE",
-      "country": "Germany",
-      "lat": 52.5528,
-      "lon": 13.9983,
-      "altKm": 11.5,
-      "speedKmh": 814,
-      "heading": 19,
+      "callsign": "RYR6ZW",
+      "country": "Ireland",
+      "lat": 52.6226,
+      "lon": 13.4287,
+      "altKm": 11.8,
+      "speedKmh": 779,
+      "heading": 350,
       "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA"
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Zemunik (Zadar)",
+      "fromIata": "ZAD",
+      "toCity": "Copenhagen",
+      "toIata": "CPH"
+    },
+    {
+      "callsign": "CAT754",
+      "country": "Denmark",
+      "lat": 52.4045,
+      "lon": 13.4634,
+      "altKm": 11.8,
+      "speedKmh": 770,
+      "heading": 339,
+      "vertRateMs": 0
     }
   ],
-  "updated_at": "2026-09-18T21:45:26.193388Z"
+  "updated_at": "2026-09-18T21:50:29.767692Z"
 }
