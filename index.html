@@ -158,21 +158,23 @@
   </div>
 
   <p class="footnote">
-    <b>How this works:</b> a scheduled GitHub Actions workflow polls
-    <code>opensky-network.org/api/states/all</code> for Berlin's bounding box every 5 minutes from GitHub's own
-    runners (GitHub's practical floor for schedules — a 1-minute cron was tested and never actually fired), and
-    commits the result to <code>data/latest.json</code> in this repo. This page just fetches that static file —
-    on load, and every 60 seconds after — so there's no CORS problem and no server to run: the browser never
-    talks to OpenSky directly. Between fetches, each marker keeps moving on its own, dead-reckoned from its last
-    known fix using its reported heading and real speed (shown in the tag beside each plane), so motion is
-    continuous even though the underlying data only updates every few minutes. The "on approach" / "climbing
-    away" / "cruising" line in the narration and popups is a heuristic read of heading and altitude relative to
-    Berlin's airport (BER) — <b>not</b> a real flight plan; OpenSky's free tier has no route data, and its
-    historical-flights endpoint outright refuses anonymous requests. Operators are guessed from a small known-
-    airline lookup table; an all-letters callsign with no flight number is flagged as a private aircraft's
-    registration rather than "unidentified." If the data file is ever unreachable (or hasn't been generated yet),
-    the dashboard falls back to a small set of animated stand-in flights, clearly marked <b>DEMO DATA</b> above,
-    so the page never sits there broken.
+    <b>How this works:</b> a GitHub Actions workflow polls <code>opensky-network.org/api/states/all</code> for a
+    box around Berlin every 5 minutes, triggered by a free external scheduler calling GitHub's API directly
+    (GitHub's own native cron trigger proved unreliable on a low-traffic repo, silently throttling well below
+    its configured interval), and commits the result to <code>data/latest.json</code>. This page just fetches
+    that static file — on load, and every 60 seconds after — so there's no CORS problem and no server to run.
+    Between fetches, each marker keeps moving on its own, dead-reckoned from its last known fix using its
+    reported heading and real speed (shown in the tag beside each plane). Route info (the city each flight is
+    coming from / heading to) is real data from <a href="https://www.adsbdb.com/" target="_blank"
+    rel="noopener">adsbdb.com</a>'s free, keyless callsign lookup — OpenSky's own route endpoint refuses
+    anonymous requests entirely, so this fills that gap; an arriving/departing flight only names the far-end
+    city, since the Berlin end is already implied. When adsbdb has no route on file for a callsign (common for
+    private/GA aircraft), the narration instead shows a heuristic read of heading/altitude relative to BER,
+    clearly distinct from real route data. Operators are matched the same way — adsbdb's airline data first,
+    then a small built-in lookup table, then registration-style detection for all-letters callsigns (private
+    aircraft broadcasting a tail number rather than a flight number). If the data file is ever unreachable, the
+    dashboard falls back to a small set of animated stand-in flights, clearly marked <b>DEMO DATA</b> above, so
+    the page never sits there broken.
   </p>
 
 </div>
@@ -246,18 +248,35 @@
     // (private/GA), not a scheduled flight we failed to look up.
     return /^[A-Z]+$/.test((callsign || "").trim()) && callsign.trim().length >= 4;
   }
-  function operatorLabel(callsign){
-    var guess = guessAirline(callsign);
+  function operatorLabel(f){
+    // adsbdb's route lookup (real, attributed data) is authoritative when it
+    // resolved this callsign; the hardcoded table and registration heuristic
+    // are only a fallback for callsigns adsbdb doesn't have on file.
+    if (f.airline) return "looks like " + f.airline + " (" + f.airlineCountry + ")";
+    var guess = guessAirline(f.callsign);
     if (guess) return "looks like " + guess[0] + " (" + guess[1] + ")";
-    if (isRegistrationStyle(callsign)) return "a private aircraft (reg. " + callsign + ")";
+    if (isRegistrationStyle(f.callsign)) return "a private aircraft (reg. " + f.callsign + ")";
     return "an operator we don't recognize";
   }
   function angleDiff(a, b){
     var d = Math.abs(a - b) % 360;
     return d > 180 ? 360 - d : d;
   }
-  // Not real route data (OpenSky's free tier has none) — a heuristic read of
-  // where the aircraft is and which way it's pointed, relative to BER.
+  // Real city-to-city route from adsbdb.com's callsign lookup, when it resolved one.
+  // "unless they land in Berlin": an arriving/departing flight just says where the
+  // *other* end is, since the Berlin end is already obvious from context; a flight
+  // with neither end in Berlin (just transiting the box) shows both cities.
+  function routeCityLine(f){
+    if (!f.fromCity && !f.toCity) return null;
+    var arrivingBER = f.toIata === "BER";
+    var departingBER = f.fromIata === "BER";
+    if (arrivingBER && f.fromCity) return "in from " + f.fromCity;
+    if (departingBER && f.toCity) return "heading to " + f.toCity;
+    if (f.fromCity && f.toCity) return f.fromCity + " → " + f.toCity;
+    return f.fromCity ? "in from " + f.fromCity : "heading to " + f.toCity;
+  }
+  // Fallback for callsigns adsbdb couldn't resolve (mostly private/GA aircraft) —
+  // not real route data, just a heuristic read of position/heading relative to BER.
   function routeHint(f){
     var toBER = bearingBetween(f.lat, f.lon, BER_AIRPORT[0], BER_AIRPORT[1]);
     var fromBER = bearingBetween(BER_AIRPORT[0], BER_AIRPORT[1], f.lat, f.lon);
@@ -266,6 +285,9 @@
     if (f.altKm < 4 && diff < 55) return "looks to be on approach toward BER, currently " + side + " of the field";
     if (f.altKm < 6 && diff > 125) return "looks to be climbing away from BER, now " + side + " of the field";
     return "cruising, currently " + side + " of BER";
+  }
+  function routeLine(f){
+    return routeCityLine(f) || routeHint(f);
   }
   function lerp(a, b, t){ return a + (b - a) * t; }
   var KM_PER_DEG_LAT = 111.32;
@@ -348,13 +370,9 @@
     }
   }
   function popupHtml(f){
-    var guess = guessAirline(f.callsign);
-    var who = guess ? guess[0] + " · " + guess[1]
-      : isRegistrationStyle(f.callsign) ? "Private aircraft (reg. " + f.callsign + ")"
-      : "Unrecognized operator";
-    return "<b>" + f.callsign + "</b><br>" + who + "<br>" +
+    return "<b>" + f.callsign + "</b><br>" + operatorLabel(f) + "<br>" +
       f.altKm.toFixed(1) + " km · " + Math.round(f.speedKmh) + " km/h · " + Math.round(f.heading) + "°<br>" +
-      routeHint(f);
+      routeLine(f);
   }
 
   // ---------- Rendering: table + ticker ----------
@@ -386,8 +404,8 @@
     "Nothing airborne cleared the filter this cycle. Give it a minute."
   ];
   function narrationClause(f){
-    return f.callsign + " — " + operatorLabel(f.callsign) + " — gliding at " + f.altKm.toFixed(1) + " km, " +
-      Math.round(f.speedKmh) + " km/h, heading " + headingToCompass(f.heading) + " — " + routeHint(f);
+    return f.callsign + " — " + operatorLabel(f) + " — gliding at " + f.altKm.toFixed(1) + " km, " +
+      Math.round(f.speedKmh) + " km/h, heading " + headingToCompass(f.heading) + " — " + routeLine(f);
   }
   function buildNarration(flights){
     if (!flights.length) return quietLines[Math.floor(Math.random() * quietLines.length)];
