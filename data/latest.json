@@ -1,46 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "JTD396",
-      "country": "Denmark",
-      "lat": 52.9235,
-      "lon": 13.7691,
-      "altKm": 11.8,
-      "speedKmh": 776,
-      "heading": 345,
-      "vertRateMs": 0,
-      "airline": "Jet Time",
-      "airlineCountry": "Denmark",
-      "fromCity": "Preveza/Lefkada",
-      "fromIata": "PVK",
-      "toCity": "Copenhagen",
-      "toIata": "CPH"
-    },
-    {
-      "callsign": "RYR65YP",
-      "country": "Poland",
-      "lat": 52.8974,
-      "lon": 14.0365,
-      "altKm": 9.5,
-      "speedKmh": 900,
-      "heading": 94,
-      "vertRateMs": -2.9,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ"
-    },
-    {
       "callsign": "EWG3KA",
       "country": "Germany",
-      "lat": 52.4998,
-      "lon": 13.315,
-      "altKm": 2.2,
-      "speedKmh": 509,
-      "heading": 82,
-      "vertRateMs": -0.3,
+      "lat": 52.4449,
+      "lon": 13.7376,
+      "altKm": 0.9,
+      "speedKmh": 300,
+      "heading": 212,
+      "vertRateMs": -3.9,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
       "fromCity": "Berlin",
@@ -51,12 +19,12 @@
     {
       "callsign": "RYR1155",
       "country": "Malta",
-      "lat": 52.4519,
-      "lon": 13.8127,
-      "altKm": 1.2,
-      "speedKmh": 366,
-      "heading": 163,
-      "vertRateMs": -4.5,
+      "lat": 52.3774,
+      "lon": 13.5257,
+      "altKm": 0.1,
+      "speedKmh": 252,
+      "heading": 249,
+      "vertRateMs": -3.2,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Manchester",
@@ -65,5 +33,5 @@
       "toIata": "BER"
     }
   ],
-  "updated_at": "2026-09-18T21:35:21.408661Z"
+  "updated_at": "2026-09-18T21:40:27.738685Z"
 }
