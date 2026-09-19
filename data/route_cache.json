@@ -1064,5 +1064,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-19T04:05:21.331030Z"
+  },
+  "CSN331": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-19T04:10:30.525320Z"
+  },
+  "KLM90J": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-09-19T04:10:30.525320Z"
+  },
+  "UAL962": {
+    "route": {
+      "fromCity": "New York",
+      "fromIata": "EWR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-19T04:10:30.525320Z"
   }
 }
