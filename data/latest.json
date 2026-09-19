@@ -1,4 +1,31 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-19T22:25:21.847018Z"
+  "flights": [
+    {
+      "callsign": "PBB16",
+      "country": "Germany",
+      "lat": 52.451,
+      "lon": 13.9702,
+      "altKm": 0.4,
+      "speedKmh": 175,
+      "heading": 302,
+      "vertRateMs": 0
+    },
+    {
+      "callsign": "NSZ2097",
+      "country": "Sweden",
+      "lat": 52.2644,
+      "lon": 13.682,
+      "altKm": 12.3,
+      "speedKmh": 857,
+      "heading": 30,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Riga",
+      "toIata": "RIX"
+    }
+  ],
+  "updated_at": "2026-09-19T22:30:39.621026Z"
 }
