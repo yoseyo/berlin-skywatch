@@ -1571,5 +1571,42 @@
   "EWG7ED": {
     "route": null,
     "checked_at": "2026-09-19T05:10:30.146117Z"
+  },
+  "WMT7615": {
+    "route": null,
+    "checked_at": "2026-09-19T05:15:26.300940Z"
+  },
+  "AUA240": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-19T05:15:26.300940Z"
+  },
+  "DLH7XV": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T05:15:26.300940Z"
+  },
+  "RYR97WV": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-19T05:15:26.300940Z"
   }
 }
