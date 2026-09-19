@@ -659,7 +659,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-18T21:05:22.490334Z"
+    "checked_at": "2026-09-19T19:50:29.161036Z"
   },
   "EJU94YN": {
     "route": {
@@ -8426,5 +8426,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-19T19:45:26.417307Z"
+  },
+  "KLC1335": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Aalborg",
+      "toIata": "AAL",
+      "airlineName": "KLM Cityhopper",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-09-19T19:50:29.161036Z"
+  },
+  "SXS2EG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kayseri",
+      "toIata": "ASR",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-19T19:50:29.161036Z"
+  },
+  "TGZ782": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tbilisi",
+      "toIata": "TBS",
+      "airlineName": "Georgian Airways",
+      "airlineCountry": "Georgia"
+    },
+    "checked_at": "2026-09-19T19:50:29.161036Z"
   }
 }
