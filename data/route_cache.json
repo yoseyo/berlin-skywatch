@@ -8279,5 +8279,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-19T19:10:28.976731Z"
+  },
+  "SAS79E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T19:15:29.280219Z"
+  },
+  "LOT6MB": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-19T19:15:29.280219Z"
+  },
+  "SAS7916": {
+    "route": {
+      "fromCity": "Skiathos",
+      "fromIata": "JSI",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T19:15:29.280219Z"
   }
 }
