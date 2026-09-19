@@ -1,31 +1,47 @@
 {
   "flights": [
     {
-      "callsign": "NSZ4WF",
-      "country": "Sweden",
-      "lat": 52.8907,
-      "lon": 13.6419,
-      "altKm": 11.4,
-      "speedKmh": 813,
+      "callsign": "SAS7776",
+      "country": "Norway",
+      "lat": 52.5916,
+      "lon": 13.773,
+      "altKm": 12.0,
+      "speedKmh": 800,
       "heading": 346,
       "vertRateMs": 0,
-      "airline": "Norwegian Air Sweden AOC",
+      "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
-      "fromCity": "Athens",
-      "fromIata": "ATH",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH"
+    },
+    {
+      "callsign": "SAS6276",
+      "country": "Sweden",
+      "lat": 52.2869,
+      "lon": 12.8013,
+      "altKm": 12.0,
+      "speedKmh": 806,
+      "heading": 358,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
       "toCity": "Copenhagen",
       "toIata": "CPH"
     },
     {
       "callsign": "CHX82",
       "country": "Germany",
-      "lat": 52.5576,
-      "lon": 13.03,
+      "lat": 52.5604,
+      "lon": 12.8343,
       "altKm": 0.7,
-      "speedKmh": 165,
+      "speedKmh": 167,
       "heading": 271,
-      "vertRateMs": -0.3
+      "vertRateMs": 0
     }
   ],
-  "updated_at": "2026-09-19T21:40:26.586700Z"
+  "updated_at": "2026-09-19T21:45:25.785358Z"
 }
