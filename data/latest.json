@@ -3,11 +3,11 @@
     {
       "callsign": "NSZ23PH",
       "country": "Sweden",
-      "lat": 52.1187,
-      "lon": 13.7353,
+      "lat": 52.6715,
+      "lon": 14.0923,
       "altKm": 12.0,
-      "speedKmh": 821,
-      "heading": 19,
+      "speedKmh": 825,
+      "heading": 22,
       "vertRateMs": 0,
       "airline": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden",
@@ -17,14 +17,40 @@
       "toIata": "HEL"
     },
     {
+      "callsign": "LOT285",
+      "country": "Poland",
+      "lat": 52.3111,
+      "lon": 13.4888,
+      "altKm": 11.4,
+      "speedKmh": 757,
+      "heading": 270,
+      "vertRateMs": 0,
+      "airline": "LOT Polish Airlines",
+      "airlineCountry": "Poland",
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR"
+    },
+    {
+      "callsign": "PBB16",
+      "country": "Germany",
+      "lat": 52.5935,
+      "lon": 13.5897,
+      "altKm": 0.5,
+      "speedKmh": 125,
+      "heading": 238,
+      "vertRateMs": 2.6
+    },
+    {
       "callsign": "RYR93BJ",
       "country": "Malta",
-      "lat": 52.3306,
-      "lon": 13.9264,
-      "altKm": 2.0,
-      "speedKmh": 493,
-      "heading": 48,
-      "vertRateMs": -6.5,
+      "lat": 52.4157,
+      "lon": 13.6883,
+      "altKm": 0.7,
+      "speedKmh": 281,
+      "heading": 250,
+      "vertRateMs": -3.6,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Barcelona",
@@ -35,12 +61,12 @@
     {
       "callsign": "RYR95CH",
       "country": "Malta",
-      "lat": 52.4265,
-      "lon": 13.8881,
-      "altKm": 1.4,
-      "speedKmh": 363,
-      "heading": 301,
-      "vertRateMs": -1.9,
+      "lat": 52.3831,
+      "lon": 13.5499,
+      "altKm": 0.2,
+      "speedKmh": 236,
+      "heading": 249,
+      "vertRateMs": -3.6,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Bucharest",
@@ -49,5 +75,5 @@
       "toIata": "BER"
     }
   ],
-  "updated_at": "2026-09-19T19:30:40.310987Z"
+  "updated_at": "2026-09-19T19:35:23.342142Z"
 }
