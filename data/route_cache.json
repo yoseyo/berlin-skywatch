@@ -8867,5 +8867,27 @@
   "CAT752": {
     "route": null,
     "checked_at": "2026-09-19T22:05:22.480972Z"
+  },
+  "SAS7726": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T22:10:27.018187Z"
+  },
+  "RYR1893": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-19T22:10:27.018187Z"
   }
 }
