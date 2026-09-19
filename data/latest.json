@@ -1,25 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "PBB16",
-      "country": "Germany",
-      "lat": 52.3001,
-      "lon": 14.0884,
-      "altKm": 0.5,
-      "speedKmh": 29,
-      "heading": 18,
-      "vertRateMs": 0
+      "callsign": "NSZ4WF",
+      "country": "Sweden",
+      "lat": 52.2772,
+      "lon": 13.8838,
+      "altKm": 11.4,
+      "speedKmh": 807,
+      "heading": 347,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH"
     },
     {
       "callsign": "CHX82",
       "country": "Germany",
-      "lat": 52.544,
-      "lon": 13.3468,
+      "lat": 52.55,
+      "lon": 13.2319,
       "altKm": 0.5,
-      "speedKmh": 160,
+      "speedKmh": 162,
       "heading": 275,
       "vertRateMs": 0
     }
   ],
-  "updated_at": "2026-09-19T21:32:20.103605Z"
+  "updated_at": "2026-09-19T21:35:21.886936Z"
 }
