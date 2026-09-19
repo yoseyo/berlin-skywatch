@@ -6487,5 +6487,38 @@
   "NJE273K": {
     "route": null,
     "checked_at": "2026-09-19T15:00:47.841318Z"
+  },
+  "FIN79T": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-19T15:05:21.076473Z"
+  },
+  "EJU5005": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-19T15:05:21.076473Z"
+  },
+  "RYR1638": {
+    "route": {
+      "fromCity": "Nottingham",
+      "fromIata": "EMA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-19T15:05:21.076473Z"
   }
 }
