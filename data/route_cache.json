@@ -2413,5 +2413,31 @@
   "N14NA": {
     "route": null,
     "checked_at": "2026-09-19T07:00:45.059920Z"
+  },
+  "UAG27G": {
+    "route": null,
+    "checked_at": "2026-09-19T07:05:21.321300Z"
+  },
+  "CFG1RD": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T07:05:21.321300Z"
+  },
+  "RYR4DZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-19T07:05:21.321300Z"
   }
 }
