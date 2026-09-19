@@ -8246,5 +8246,38 @@
   "SDR17HL": {
     "route": null,
     "checked_at": "2026-09-19T19:05:22.160115Z"
+  },
+  "EJU17TX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-19T19:10:28.976731Z"
+  },
+  "NSZ3878": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T19:10:28.976731Z"
+  },
+  "DLH1CJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T19:10:28.976731Z"
   }
 }
