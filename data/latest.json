@@ -1,4 +1,31 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-19T01:05:23.439485Z"
+  "flights": [
+    {
+      "callsign": "THY4JD",
+      "country": "Turkey",
+      "lat": 52.4759,
+      "lon": 13.9204,
+      "altKm": 10.6,
+      "speedKmh": 810,
+      "heading": 312,
+      "vertRateMs": -0.3,
+      "airline": "Turkish Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Miami",
+      "toIata": "MIA"
+    },
+    {
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.5133,
+      "lon": 13.5632,
+      "altKm": 0.3,
+      "speedKmh": 108,
+      "heading": 204,
+      "vertRateMs": 4.5
+    }
+  ],
+  "updated_at": "2026-09-19T01:10:27.734503Z"
 }
