@@ -379,7 +379,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-18T20:30:31.334095Z"
+    "checked_at": "2026-09-19T20:25:23.763219Z"
   },
   "AEG6911": {
     "route": null,
@@ -420,7 +420,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-18T20:42:10.752348Z"
+    "checked_at": "2026-09-19T20:25:23.763219Z"
   },
   "CCA940": {
     "route": {
@@ -431,7 +431,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-18T20:42:10.752348Z"
+    "checked_at": "2026-09-19T20:25:23.763219Z"
   },
   "RYR61NG": {
     "route": {
@@ -8624,5 +8624,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-19T20:20:28.381753Z"
+  },
+  "NSZ2911": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T20:25:23.763219Z"
+  },
+  "NSZ7DE": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T20:25:23.763219Z"
+  },
+  "RYR6FD": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-19T20:25:23.763219Z"
   }
 }
