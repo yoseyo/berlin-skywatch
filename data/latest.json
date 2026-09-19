@@ -1,21 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "NSZ3749",
-      "country": "Sweden",
-      "lat": 52.4579,
-      "lon": 13.2241,
-      "altKm": 12.0,
-      "speedKmh": 828,
-      "heading": 353,
+      "callsign": "RYR67ZT",
+      "country": "Poland",
+      "lat": 52.463,
+      "lon": 13.1083,
+      "altKm": 11.7,
+      "speedKmh": 900,
+      "heading": 89,
       "vertRateMs": 0,
-      "airline": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden",
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH"
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Barcelona",
+      "toIata": "BCN"
+    },
+    {
+      "callsign": "CAT752",
+      "country": "Denmark",
+      "lat": 52.1174,
+      "lon": 13.5716,
+      "altKm": 11.4,
+      "speedKmh": 786,
+      "heading": 335,
+      "vertRateMs": 0
     }
   ],
-  "updated_at": "2026-09-19T22:00:44.303939Z"
+  "updated_at": "2026-09-19T22:05:22.480972Z"
 }
