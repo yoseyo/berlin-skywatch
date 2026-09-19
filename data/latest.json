@@ -1,4 +1,37 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-19T03:30:38.465278Z"
+  "flights": [
+    {
+      "callsign": "EWG2W",
+      "country": "Germany",
+      "lat": 52.2488,
+      "lon": 13.281,
+      "altKm": 2.0,
+      "speedKmh": 466,
+      "heading": 231,
+      "vertRateMs": 15.0,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK"
+    },
+    {
+      "callsign": "EWG3TF",
+      "country": "Germany",
+      "lat": 52.1792,
+      "lon": 13.4512,
+      "altKm": 3.5,
+      "speedKmh": 644,
+      "heading": 86,
+      "vertRateMs": 4.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO"
+    }
+  ],
+  "updated_at": "2026-09-19T03:35:57.255787Z"
 }
