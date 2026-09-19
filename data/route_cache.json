@@ -7484,5 +7484,27 @@
   "NJE296E": {
     "route": null,
     "checked_at": "2026-09-19T17:05:21.751358Z"
+  },
+  "NSZ4327": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Bastia/Poretta",
+      "toIata": "BIA",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T17:10:28.089453Z"
+  },
+  "IBE07WR": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-19T17:10:28.089453Z"
   }
 }
