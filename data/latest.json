@@ -3,10 +3,10 @@
     {
       "callsign": "NSZ3299",
       "country": "Sweden",
-      "lat": 52.3564,
-      "lon": 13.8123,
+      "lat": 52.9049,
+      "lon": 13.6029,
       "altKm": 12.0,
-      "speedKmh": 766,
+      "speedKmh": 776,
       "heading": 347,
       "vertRateMs": 0,
       "airline": "Norwegian Air Sweden AOC",
@@ -19,32 +19,64 @@
     {
       "callsign": "PBB16",
       "country": "Germany",
-      "lat": 52.5126,
-      "lon": 13.4306,
+      "lat": 52.428,
+      "lon": 13.2702,
       "altKm": 0.5,
-      "speedKmh": 176,
-      "heading": 230,
-      "vertRateMs": -0.3
+      "speedKmh": 177,
+      "heading": 229,
+      "vertRateMs": 0
+    },
+    {
+      "callsign": "EWG9SK",
+      "country": "Germany",
+      "lat": 52.2084,
+      "lon": 13.7827,
+      "altKm": 2.4,
+      "speedKmh": 532,
+      "heading": 7,
+      "vertRateMs": -11.1,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE"
     },
     {
       "callsign": "EWG6NT",
       "country": "Germany",
-      "lat": 52.3459,
-      "lon": 13.9128,
-      "altKm": 1.9,
-      "speedKmh": 474,
-      "heading": 337,
-      "vertRateMs": -6.5
+      "lat": 52.3726,
+      "lon": 13.5829,
+      "altKm": 0.3,
+      "speedKmh": 212,
+      "heading": 249,
+      "vertRateMs": -3.2
+    },
+    {
+      "callsign": "RYR41KN",
+      "country": "Poland",
+      "lat": 52.8747,
+      "lon": 13.0515,
+      "altKm": 11.7,
+      "speedKmh": 920,
+      "heading": 125,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK"
     },
     {
       "callsign": "SAS1680",
       "country": "Denmark",
-      "lat": 52.3319,
-      "lon": 13.2827,
-      "altKm": 2.1,
-      "speedKmh": 417,
-      "heading": 264,
-      "vertRateMs": 14.6,
+      "lat": 52.7422,
+      "lon": 13.1318,
+      "altKm": 6.1,
+      "speedKmh": 725,
+      "heading": 354,
+      "vertRateMs": 14.3,
       "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
       "fromCity": "Berlin",
@@ -53,5 +85,5 @@
       "toIata": "CPH"
     }
   ],
-  "updated_at": "2026-09-19T19:40:28.195315Z"
+  "updated_at": "2026-09-19T19:45:26.417307Z"
 }
