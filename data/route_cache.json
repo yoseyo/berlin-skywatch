@@ -5367,5 +5367,35 @@
   "NJE102C": {
     "route": null,
     "checked_at": "2026-09-19T12:20:26.551886Z"
+  },
+  "SPSKDL": {
+    "route": null,
+    "checked_at": "2026-09-19T12:25:22.965702Z"
+  },
+  "QTR37K": {
+    "route": null,
+    "checked_at": "2026-09-19T12:25:22.965702Z"
+  },
+  "EWG1GZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tivat",
+      "toIata": "TIV",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T12:25:22.965702Z"
+  },
+  "EWG44D": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T12:25:22.965702Z"
   }
 }
