@@ -523,7 +523,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-18T20:50:30.614127Z"
+    "checked_at": "2026-09-19T20:55:20.220820Z"
   },
   "RYR103K": {
     "route": {
@@ -615,7 +615,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-18T21:00:49.106206Z"
+    "checked_at": "2026-09-19T20:55:20.220820Z"
   },
   "EWG3PD": {
     "route": {
@@ -8742,5 +8742,27 @@
   "DISAG": {
     "route": null,
     "checked_at": "2026-09-19T20:50:29.064052Z"
+  },
+  "NSZ3353": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T20:55:20.220820Z"
+  },
+  "EWG6AZ": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T20:55:20.220820Z"
   }
 }
