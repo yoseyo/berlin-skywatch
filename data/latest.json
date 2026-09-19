@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-19T03:55:20.886165Z"
+  "flights": [
+    {
+      "callsign": "EWG9B",
+      "country": "Germany",
+      "lat": 52.184,
+      "lon": 13.3748,
+      "altKm": 2.8,
+      "speedKmh": 538,
+      "heading": 86,
+      "vertRateMs": 5.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Milan",
+      "toIata": "MXP"
+    },
+    {
+      "callsign": "RYR8865",
+      "country": "Ireland",
+      "lat": 52.3308,
+      "lon": 13.2928,
+      "altKm": 2.0,
+      "speedKmh": 403,
+      "heading": 246,
+      "vertRateMs": 15.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland"
+    }
+  ],
+  "updated_at": "2026-09-19T04:00:47.801433Z"
 }
