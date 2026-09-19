@@ -8165,5 +8165,38 @@
   "RYR7FD": {
     "route": null,
     "checked_at": "2026-09-19T18:45:26.476102Z"
+  },
+  "SAS2518": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T18:50:27.314086Z"
+  },
+  "FIN7X": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-19T18:50:27.314086Z"
+  },
+  "DLH2N": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T18:50:27.314086Z"
   }
 }
