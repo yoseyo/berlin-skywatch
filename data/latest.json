@@ -1,40 +1,40 @@
 {
   "flights": [
     {
-      "callsign": "NOZ1911",
-      "country": "Sweden",
-      "lat": 52.4128,
-      "lon": 14.0754,
-      "altKm": 12.0,
-      "speedKmh": 795,
-      "heading": 347,
-      "vertRateMs": 0.3,
-      "airline": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway",
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Oslo",
-      "toIata": "OSL"
-    },
-    {
       "callsign": "PBB16",
       "country": "Germany",
-      "lat": 52.6008,
-      "lon": 13.606,
-      "altKm": 0.4,
-      "speedKmh": 172,
-      "heading": 130,
-      "vertRateMs": 2.9
+      "lat": 52.4853,
+      "lon": 13.8069,
+      "altKm": 0.5,
+      "speedKmh": 232,
+      "heading": 133,
+      "vertRateMs": 0
+    },
+    {
+      "callsign": "EJU59PD",
+      "country": "Austria",
+      "lat": 52.277,
+      "lon": 13.8389,
+      "altKm": 1.2,
+      "speedKmh": 367,
+      "heading": 324,
+      "vertRateMs": -3.9,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Berlin",
+      "toIata": "BER"
     },
     {
       "callsign": "EZY18ZQ",
       "country": "United Kingdom",
-      "lat": 52.3289,
-      "lon": 13.4283,
-      "altKm": 0.7,
-      "speedKmh": 332,
-      "heading": 229,
-      "vertRateMs": 9.8,
+      "lat": 52.2701,
+      "lon": 12.8823,
+      "altKm": 5.0,
+      "speedKmh": 573,
+      "heading": 275,
+      "vertRateMs": 11.7,
       "airline": "easyJet",
       "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
@@ -43,5 +43,5 @@
       "toIata": "MAN"
     }
   ],
-  "updated_at": "2026-09-19T21:10:27.492389Z"
+  "updated_at": "2026-09-19T21:15:25.467644Z"
 }
