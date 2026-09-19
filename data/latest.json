@@ -1,23 +1,29 @@
 {
   "flights": [
     {
-      "callsign": "EJU69DQ",
+      "callsign": "EJU79XD",
       "country": "Austria",
-      "lat": 52.1014,
-      "lon": 13.544,
-      "altKm": 4.7,
-      "speedKmh": 675,
-      "heading": 141,
-      "vertRateMs": 14.0
+      "lat": 52.2964,
+      "lon": 13.3647,
+      "altKm": 1.2,
+      "speedKmh": 396,
+      "heading": 227,
+      "vertRateMs": 13.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ"
     },
     {
       "callsign": "BTI7PY",
       "country": "Latvia",
-      "lat": 52.5838,
-      "lon": 13.6975,
+      "lat": 52.1135,
+      "lon": 13.2262,
       "altKm": 11.9,
-      "speedKmh": 791,
-      "heading": 211,
+      "speedKmh": 793,
+      "heading": 212,
       "vertRateMs": 0,
       "airline": "Air Baltic",
       "airlineCountry": "Latvia",
@@ -25,7 +31,51 @@
       "fromIata": "RIX",
       "toCity": "Zurich",
       "toIata": "ZRH"
+    },
+    {
+      "callsign": "DLH172",
+      "country": "Germany",
+      "lat": 52.2378,
+      "lon": 13.6808,
+      "altKm": 2.1,
+      "speedKmh": 609,
+      "heading": 47,
+      "vertRateMs": -11.4,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER"
+    },
+    {
+      "callsign": "SWR5XL",
+      "country": "Switzerland",
+      "lat": 52.24,
+      "lon": 13.2048,
+      "altKm": 3.5,
+      "speedKmh": 483,
+      "heading": 246,
+      "vertRateMs": 19.2,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH"
+    },
+    {
+      "callsign": "DLH4UV",
+      "country": "Germany",
+      "lat": 52.3483,
+      "lon": 13.4804,
+      "altKm": 0.1,
+      "speedKmh": 280,
+      "heading": 249,
+      "vertRateMs": 10.1,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany"
     }
   ],
-  "updated_at": "2026-09-19T05:30:35.478400Z"
+  "updated_at": "2026-09-19T05:35:21.251754Z"
 }
