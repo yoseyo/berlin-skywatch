@@ -4918,5 +4918,38 @@
   "MFX7616": {
     "route": null,
     "checked_at": "2026-09-19T11:25:20.627108Z"
+  },
+  "DLH5MA": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-19T11:30:36.819452Z"
+  },
+  "SXS5UY": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-19T11:30:36.819452Z"
+  },
+  "RYR364N": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-19T11:30:36.819452Z"
   }
 }
