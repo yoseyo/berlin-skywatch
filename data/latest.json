@@ -1,49 +1,47 @@
 {
   "flights": [
     {
-      "callsign": "EWG6AZ",
-      "country": "Germany",
-      "lat": 52.369,
-      "lon": 13.5678,
-      "altKm": 0.3,
-      "speedKmh": 250,
-      "heading": 249,
-      "vertRateMs": -3.9,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER"
+      "callsign": "NOZ1911",
+      "country": "Sweden",
+      "lat": 52.4128,
+      "lon": 14.0754,
+      "altKm": 12.0,
+      "speedKmh": 795,
+      "heading": 347,
+      "vertRateMs": 0.3,
+      "airline": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway",
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Oslo",
+      "toIata": "OSL"
     },
     {
-      "callsign": "RYR5XX",
-      "country": "Ireland",
-      "lat": 52.3355,
-      "lon": 13.3411,
-      "altKm": 1.5,
-      "speedKmh": 378,
-      "heading": 260,
-      "vertRateMs": 6.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
+      "callsign": "PBB16",
+      "country": "Germany",
+      "lat": 52.6008,
+      "lon": 13.606,
+      "altKm": 0.4,
+      "speedKmh": 172,
+      "heading": 130,
+      "vertRateMs": 2.9
+    },
+    {
+      "callsign": "EZY18ZQ",
+      "country": "United Kingdom",
+      "lat": 52.3289,
+      "lon": 13.4283,
+      "altKm": 0.7,
+      "speedKmh": 332,
+      "heading": 229,
+      "vertRateMs": 9.8,
+      "airline": "easyJet",
+      "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Pisa",
-      "toIata": "PSA"
-    },
-    {
-      "callsign": "RYR8RZ",
-      "country": "Ireland",
-      "lat": 52.4084,
-      "lon": 13.6571,
-      "altKm": 0.6,
-      "speedKmh": 252,
-      "heading": 249,
-      "vertRateMs": -3.6,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland"
+      "toCity": "Manchester",
+      "toIata": "MAN"
     }
   ],
-  "updated_at": "2026-09-19T21:05:22.647406Z"
+  "updated_at": "2026-09-19T21:10:27.492389Z"
 }
