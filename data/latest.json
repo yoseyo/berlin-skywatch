@@ -1,31 +1,37 @@
 {
   "flights": [
     {
-      "callsign": "PBB16",
-      "country": "Germany",
-      "lat": 52.3619,
-      "lon": 14.0219,
-      "altKm": 0.5,
-      "speedKmh": 237,
-      "heading": 133,
-      "vertRateMs": 0
+      "callsign": "NSZ4328",
+      "country": "Sweden",
+      "lat": 52.779,
+      "lon": 12.9595,
+      "altKm": 12.0,
+      "speedKmh": 841,
+      "heading": 23,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Bastia/Poretta",
+      "fromIata": "BIA",
+      "toCity": "Stockholm",
+      "toIata": "ARN"
     },
     {
-      "callsign": "EJU59PD",
-      "country": "Austria",
-      "lat": 52.3724,
-      "lon": 13.5819,
-      "altKm": 0.3,
-      "speedKmh": 246,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "Berlin",
-      "toIata": "BER"
+      "callsign": "RYR1ZR",
+      "country": "Poland",
+      "lat": 52.4116,
+      "lon": 13.4986,
+      "altKm": 11.7,
+      "speedKmh": 898,
+      "heading": 98,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ"
     }
   ],
-  "updated_at": "2026-09-19T21:20:27.681562Z"
+  "updated_at": "2026-09-19T21:25:21.758009Z"
 }
