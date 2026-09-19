@@ -1608,5 +1608,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-19T05:15:26.300940Z"
+  },
+  "BTI74A": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-19T05:20:28.753982Z"
+  },
+  "SXS75G": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-19T05:20:28.753982Z"
+  },
+  "SAS7881": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-19T05:20:28.753982Z"
   }
 }
