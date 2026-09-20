@@ -1,15 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.3992,
+      "lon": 13.8905,
+      "altKm": 9.9,
+      "speedKmh": 782,
+      "heading": 50,
+      "vertRateMs": 2.9,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4238,
-      "lon": 13.4042,
-      "altKm": 0.8,
-      "speedKmh": 20,
-      "heading": 319,
-      "vertRateMs": -3.2
+      "lat": 52.4194,
+      "lon": 13.397,
+      "altKm": 1.1,
+      "speedKmh": 8,
+      "heading": 256,
+      "vertRateMs": 0
     }
   ],
-  "updated_at": "2026-09-20T23:20:26.481132Z"
+  "updated_at": "2026-09-20T23:25:23.213572Z"
 }
