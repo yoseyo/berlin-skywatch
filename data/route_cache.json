@@ -535,28 +535,6 @@
     },
     "checked_at": "2026-09-20T20:20:29.632641Z"
   },
-  "DLH2466": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-18T21:20:28.152445Z"
-  },
-  "RYR863": {
-    "route": {
-      "fromCity": "Rzesz\u00f3w",
-      "fromIata": "RZE",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-18T21:20:28.152445Z"
-  },
   "EWG72F": {
     "route": {
       "fromCity": "Cologne",
@@ -643,7 +621,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-18T21:45:26.193388Z"
+    "checked_at": "2026-09-20T21:20:29.043540Z"
   },
   "DLH5EE": {
     "route": {
@@ -12964,5 +12942,27 @@
   "CAT320": {
     "route": null,
     "checked_at": "2026-09-20T21:10:27.365919Z"
+  },
+  "BTI9BQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T21:20:29.043540Z"
+  },
+  "WZZ90BV": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T21:20:29.043540Z"
   }
 }
