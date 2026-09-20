@@ -5433,7 +5433,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-19T12:35:21.582774Z"
+    "checked_at": "2026-09-20T12:35:20.354708Z"
   },
   "NTF660T": {
     "route": null,
@@ -8524,7 +8524,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T20:05:21.072332Z"
+    "checked_at": "2026-09-20T12:35:20.354708Z"
   },
   "RYR5928": {
     "route": {
@@ -10739,5 +10739,53 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T12:30:36.154809Z"
+  },
+  "NSZ3300": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T12:35:20.354708Z"
+  },
+  "AEE512": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-20T12:35:20.354708Z"
+  },
+  "NJE708Q": {
+    "route": null,
+    "checked_at": "2026-09-20T12:35:20.354708Z"
+  },
+  "NSZ3751": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T12:35:20.354708Z"
+  },
+  "EWG99T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T12:35:20.354708Z"
   }
 }
