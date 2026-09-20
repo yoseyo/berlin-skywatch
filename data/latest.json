@@ -1,15 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "GPX3JX",
+      "country": "Bulgaria",
+      "lat": 52.4951,
+      "lon": 14.0299,
+      "altKm": 10.7,
+      "speedKmh": 790,
+      "heading": 354,
+      "vertRateMs": -0.7
+    },
+    {
       "callsign": "CHX82",
       "country": "Germany",
-      "lat": 52.5246,
-      "lon": 13.4425,
+      "lat": 52.5524,
+      "lon": 13.2299,
       "altKm": 0.5,
-      "speedKmh": 169,
+      "speedKmh": 172,
       "heading": 282,
-      "vertRateMs": 0
+      "vertRateMs": -0.3
     }
   ],
-  "updated_at": "2026-09-20T03:05:23.139348Z"
+  "updated_at": "2026-09-20T03:10:27.685706Z"
 }
