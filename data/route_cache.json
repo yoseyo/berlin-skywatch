@@ -3419,7 +3419,7 @@
   },
   "PHMUE": {
     "route": null,
-    "checked_at": "2026-09-19T08:50:29.901281Z"
+    "checked_at": "2026-09-20T13:25:20.906291Z"
   },
   "EIN3EG": {
     "route": {
@@ -11001,5 +11001,27 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-09-20T13:20:27.411035Z"
+  },
+  "CTN4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-09-20T13:25:20.906291Z"
+  },
+  "RYR7397": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Pula",
+      "toIata": "PUY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T13:25:20.906291Z"
   }
 }
