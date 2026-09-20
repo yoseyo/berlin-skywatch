@@ -6704,7 +6704,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T15:30:35.589456Z"
+    "checked_at": "2026-09-20T16:05:22.930301Z"
   },
   "DEIZT": {
     "route": null,
@@ -6771,7 +6771,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T15:40:28.275240Z"
+    "checked_at": "2026-09-20T16:05:22.930301Z"
   },
   "BTI8WF": {
     "route": {
@@ -8491,7 +8491,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-19T20:01:20.072064Z"
+    "checked_at": "2026-09-20T16:05:22.930301Z"
   },
   "GPX7EJ": {
     "route": {
@@ -11776,5 +11776,49 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-20T16:00:46.891150Z"
+  },
+  "BTI9AG": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T16:05:22.930301Z"
+  },
+  "EZY59YH": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T16:05:22.930301Z"
+  },
+  "CFE27PM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T16:05:22.930301Z"
+  },
+  "RYR90XP": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T16:05:22.930301Z"
   }
 }
