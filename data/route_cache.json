@@ -1824,7 +1824,7 @@
   },
   "DATMJ": {
     "route": null,
-    "checked_at": "2026-09-19T05:50:29.314081Z"
+    "checked_at": "2026-09-20T10:05:23.572395Z"
   },
   "DLH4RL": {
     "route": {
@@ -3296,7 +3296,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T08:35:22.077005Z"
+    "checked_at": "2026-09-20T10:05:23.572395Z"
   },
   "RYR7JF": {
     "route": {
@@ -3948,7 +3948,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-19T09:45:25.999037Z"
+    "checked_at": "2026-09-20T10:05:23.572395Z"
   },
   "IBE07KH": {
     "route": {
@@ -3959,7 +3959,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-19T09:45:25.999037Z"
+    "checked_at": "2026-09-20T10:05:23.572395Z"
   },
   "DMUKI": {
     "route": null,
@@ -4125,7 +4125,7 @@
   },
   "WUK1356": {
     "route": null,
-    "checked_at": "2026-09-19T10:05:21.760596Z"
+    "checked_at": "2026-09-20T10:05:23.572395Z"
   },
   "DLH8N": {
     "route": {
@@ -4232,7 +4232,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-09-19T10:15:27.463098Z"
+    "checked_at": "2026-09-20T10:05:23.572395Z"
   },
   "MGH649": {
     "route": null,
@@ -10073,5 +10073,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T09:55:21.954854Z"
+  },
+  "SAS2678": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T10:05:23.572395Z"
+  },
+  "SDR78JA": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T10:05:23.572395Z"
+  },
+  "EJU5027": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T10:05:23.572395Z"
   }
 }
