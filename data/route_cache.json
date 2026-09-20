@@ -353,7 +353,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-19T20:10:28.016907Z"
+    "checked_at": "2026-09-20T19:15:25.153354Z"
   },
   "BPOBER": {
     "route": null,
@@ -12781,5 +12781,49 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-09-20T19:10:26.751594Z"
+  },
+  "BTI6CD": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T19:15:25.153354Z"
+  },
+  "EZY27LF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T19:15:25.153354Z"
+  },
+  "SAS1698": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T19:15:25.153354Z"
+  },
+  "SWR979E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-20T19:15:25.153354Z"
   }
 }
