@@ -692,7 +692,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-18T21:10:29.407028Z"
+    "checked_at": "2026-09-20T15:00:49.341456Z"
   },
   "RYR55HD": {
     "route": {
@@ -6471,7 +6471,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T15:00:47.841318Z"
+    "checked_at": "2026-09-20T15:00:49.341456Z"
   },
   "RYR2SW": {
     "route": {
@@ -6560,7 +6560,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T15:15:27.511897Z"
+    "checked_at": "2026-09-20T15:00:49.341456Z"
   },
   "CFG7VT": {
     "route": {
@@ -11419,5 +11419,60 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T14:55:20.742415Z"
+  },
+  "DLH4HH": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T15:00:49.341456Z"
+  },
+  "CCA939": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-20T15:00:49.341456Z"
+  },
+  "EWG8MD": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T15:00:49.341456Z"
+  },
+  "EJU69RD": {
+    "route": {
+      "fromCity": "Sharm el-Sheikh",
+      "fromIata": "SSH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T15:00:49.341456Z"
+  },
+  "CFE93AU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T15:00:49.341456Z"
   }
 }
