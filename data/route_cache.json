@@ -2408,7 +2408,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T07:00:45.059920Z"
+    "checked_at": "2026-09-20T07:10:28.492071Z"
   },
   "N14NA": {
     "route": null,
@@ -9573,5 +9573,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-20T07:05:20.520244Z"
+  },
+  "WZZ9EN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T07:10:28.492071Z"
+  },
+  "RYR33KQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T07:10:28.492071Z"
   }
 }
