@@ -7446,7 +7446,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T17:00:48.732917Z"
+    "checked_at": "2026-09-20T17:00:46.957274Z"
   },
   "LOT3KT": {
     "route": {
@@ -12081,5 +12081,57 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-20T16:55:21.523352Z"
+  },
+  "DETML": {
+    "route": null,
+    "checked_at": "2026-09-20T17:00:46.957274Z"
+  },
+  "TKJ9HJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-20T17:00:46.957274Z"
+  },
+  "DMS2LW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saarbr\u00fccken",
+      "toIata": "SCN",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-09-20T17:00:46.957274Z"
+  },
+  "EJU5087": {
+    "route": null,
+    "checked_at": "2026-09-20T17:00:46.957274Z"
+  },
+  "CKK216": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-20T17:00:46.957274Z"
+  },
+  "BAW996G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T17:00:46.957274Z"
   }
 }
