@@ -7203,7 +7203,7 @@
   },
   "TVF89NN": {
     "route": null,
-    "checked_at": "2026-09-19T16:35:21.619239Z"
+    "checked_at": "2026-09-20T19:30:36.085338Z"
   },
   "SAS7775": {
     "route": {
@@ -12847,5 +12847,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-20T19:25:22.403316Z"
+  },
+  "LGL74BE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Luxair",
+      "airlineCountry": "Luxembourg"
+    },
+    "checked_at": "2026-09-20T19:30:36.085338Z"
+  },
+  "WZZ1469": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T19:30:36.085338Z"
   }
 }
