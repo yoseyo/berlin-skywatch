@@ -8197,7 +8197,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T18:50:27.314086Z"
+    "checked_at": "2026-09-20T18:55:22.389347Z"
   },
   "AEE82B": {
     "route": {
@@ -12623,5 +12623,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T18:50:27.190822Z"
+  },
+  "LOT2MN": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-20T18:55:22.389347Z"
+  },
+  "EWG86H": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T18:55:22.389347Z"
   }
 }
