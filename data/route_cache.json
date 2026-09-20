@@ -2817,7 +2817,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-09-19T07:45:27.719199Z"
+    "checked_at": "2026-09-20T07:55:19.952481Z"
   },
   "ASL19P": {
     "route": {
@@ -2942,7 +2942,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-19T08:00:48.529348Z"
+    "checked_at": "2026-09-20T07:55:19.952481Z"
   },
   "CTN284E": {
     "route": {
@@ -9680,5 +9680,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T07:50:28.837991Z"
+  },
+  "WZZ2CE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T07:55:19.952481Z"
+  },
+  "BTI877": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T07:55:19.952481Z"
+  },
+  "RYR87DD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T07:55:19.952481Z"
   }
 }
