@@ -5691,7 +5691,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T13:10:29.405993Z"
+    "checked_at": "2026-09-20T13:00:44.963825Z"
   },
   "RYR525H": {
     "route": {
@@ -6276,7 +6276,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T14:25:20.657747Z"
+    "checked_at": "2026-09-20T13:00:44.963825Z"
   },
   "PGT978": {
     "route": {
@@ -10887,5 +10887,20 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-20T12:55:22.374956Z"
+  },
+  "TVF97PR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-20T13:00:44.963825Z"
+  },
+  "MASBA": {
+    "route": null,
+    "checked_at": "2026-09-20T13:00:44.963825Z"
   }
 }
