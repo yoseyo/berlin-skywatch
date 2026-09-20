@@ -4405,7 +4405,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T10:35:21.896718Z"
+    "checked_at": "2026-09-20T10:35:22.305227Z"
   },
   "HBEZE": {
     "route": null,
@@ -4501,7 +4501,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T10:45:29.027791Z"
+    "checked_at": "2026-09-20T10:35:22.305227Z"
   },
   "RUK6624": {
     "route": {
@@ -4843,7 +4843,7 @@
   },
   "EJU69MZ": {
     "route": null,
-    "checked_at": "2026-09-19T11:20:28.233199Z"
+    "checked_at": "2026-09-20T10:35:22.305227Z"
   },
   "NJE270U": {
     "route": null,
@@ -10188,5 +10188,16 @@
   "CHX35": {
     "route": null,
     "checked_at": "2026-09-20T10:30:37.904437Z"
+  },
+  "MGH768": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-20T10:35:22.305227Z"
   }
 }
