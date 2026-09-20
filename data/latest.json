@@ -1,12 +1,28 @@
 {
   "flights": [
     {
+      "callsign": "WZZ1BD",
+      "country": "Hungary",
+      "lat": 52.7764,
+      "lon": 13.2453,
+      "altKm": 11.0,
+      "speedKmh": 903,
+      "heading": 132,
+      "vertRateMs": 0.7,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Timi\u015foara",
+      "fromIata": "TSR",
+      "toCity": "Frankfurt am Main",
+      "toIata": "HHN"
+    },
+    {
       "callsign": "BLX697",
       "country": "Sweden",
-      "lat": 52.8973,
-      "lon": 13.9024,
+      "lat": 52.2636,
+      "lon": 14.0572,
       "altKm": 11.6,
-      "speedKmh": 837,
+      "speedKmh": 839,
       "heading": 171,
       "vertRateMs": 0,
       "airline": "TUIfly Nordic",
@@ -19,12 +35,12 @@
     {
       "callsign": "UAL962",
       "country": "United States",
-      "lat": 52.5251,
-      "lon": 13.729,
-      "altKm": 1.6,
-      "speedKmh": 563,
-      "heading": 106,
-      "vertRateMs": -6.8,
+      "lat": 52.3762,
+      "lon": 13.5979,
+      "altKm": 0.4,
+      "speedKmh": 218,
+      "heading": 249,
+      "vertRateMs": -3.2,
       "airline": "United Airlines",
       "airlineCountry": "United States",
       "fromCity": "New York",
@@ -33,5 +49,5 @@
       "toIata": "BER"
     }
   ],
-  "updated_at": "2026-09-20T06:20:27.356619Z"
+  "updated_at": "2026-09-20T06:25:21.395884Z"
 }
