@@ -3411,7 +3411,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-19T08:45:26.259005Z"
+    "checked_at": "2026-09-20T12:50:26.270896Z"
   },
   "BPO702": {
     "route": null,
@@ -5470,7 +5470,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-19T12:40:26.042475Z"
+    "checked_at": "2026-09-20T12:50:26.270896Z"
   },
   "CTN432": {
     "route": {
@@ -6734,7 +6734,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T15:30:35.589456Z"
+    "checked_at": "2026-09-20T12:50:26.270896Z"
   },
   "SAS71T": {
     "route": {
@@ -8388,7 +8388,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T19:30:40.310987Z"
+    "checked_at": "2026-09-20T12:50:26.270896Z"
   },
   "LOT285": {
     "route": {
@@ -10824,5 +10824,53 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T12:45:28.422990Z"
+  },
+  "SAS23G": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T12:50:26.270896Z"
+  },
+  "FIN24Q": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-20T12:50:26.270896Z"
+  },
+  "FRO027": {
+    "route": null,
+    "checked_at": "2026-09-20T12:50:26.270896Z"
+  },
+  "WZZ4782": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T12:50:26.270896Z"
+  },
+  "VKG511": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-20T12:50:26.270896Z"
   }
 }
