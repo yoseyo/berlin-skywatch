@@ -1063,7 +1063,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T04:05:21.331030Z"
+    "checked_at": "2026-09-20T11:20:27.121463Z"
   },
   "CSN331": {
     "route": {
@@ -4409,7 +4409,7 @@
   },
   "HBEZE": {
     "route": null,
-    "checked_at": "2026-09-19T10:40:28.666982Z"
+    "checked_at": "2026-09-20T11:20:27.121463Z"
   },
   "RYR8PJ": {
     "route": {
@@ -4718,7 +4718,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T11:05:24.293869Z"
+    "checked_at": "2026-09-20T11:20:27.121463Z"
   },
   "KLC21A": {
     "route": {
@@ -4939,7 +4939,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T11:30:36.819452Z"
+    "checked_at": "2026-09-20T11:20:27.121463Z"
   },
   "RYR364N": {
     "route": {
@@ -10317,5 +10317,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T11:15:27.553002Z"
+  },
+  "EJU98TC": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T11:20:27.121463Z"
+  },
+  "EWG1SU": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T11:20:27.121463Z"
+  },
+  "EWG2HC": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T11:20:27.121463Z"
+  },
+  "NJE466N": {
+    "route": null,
+    "checked_at": "2026-09-20T11:20:27.121463Z"
   }
 }
