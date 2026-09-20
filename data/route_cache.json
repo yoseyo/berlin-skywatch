@@ -3415,7 +3415,7 @@
   },
   "BPO702": {
     "route": null,
-    "checked_at": "2026-09-19T08:50:29.901281Z"
+    "checked_at": "2026-09-20T18:15:25.350825Z"
   },
   "PHMUE": {
     "route": null,
@@ -12436,5 +12436,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-20T18:10:27.765051Z"
+  },
+  "SAS65K": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T18:15:25.350825Z"
+  },
+  "LGL9473": {
+    "route": {
+      "fromCity": "Luxembourg",
+      "fromIata": "LUX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Luxair",
+      "airlineCountry": "Luxembourg"
+    },
+    "checked_at": "2026-09-20T18:15:25.350825Z"
   }
 }
