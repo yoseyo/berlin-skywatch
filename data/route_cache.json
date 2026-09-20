@@ -2850,7 +2850,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T07:50:27.078113Z"
+    "checked_at": "2026-09-20T14:50:26.965147Z"
   },
   "DLH3EV": {
     "route": {
@@ -6449,7 +6449,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-19T14:55:21.708374Z"
+    "checked_at": "2026-09-20T14:50:26.965147Z"
   },
   "SAS49N": {
     "route": {
@@ -11338,5 +11338,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T14:45:27.189147Z"
+  },
+  "DLH3XV": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T14:50:26.965147Z"
+  },
+  "EJU72TJ": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T14:50:26.965147Z"
+  },
+  "EZY89CH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T14:50:26.965147Z"
+  },
+  "THY9QR": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-20T14:50:26.965147Z"
   }
 }
