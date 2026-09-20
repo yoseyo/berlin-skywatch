@@ -3082,7 +3082,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T08:10:29.739253Z"
+    "checked_at": "2026-09-20T15:30:38.111728Z"
   },
   "AUA97F": {
     "route": {
@@ -11588,5 +11588,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T15:25:21.401608Z"
+  },
+  "AUA22S": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T15:30:38.111728Z"
+  },
+  "AUA233": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T15:30:38.111728Z"
+  },
+  "NJE6XJ": {
+    "route": null,
+    "checked_at": "2026-09-20T15:30:38.111728Z"
+  },
+  "EWG2WY": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T15:30:38.111728Z"
   }
 }
