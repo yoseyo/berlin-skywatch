@@ -271,10 +271,6 @@
     },
     "checked_at": "2026-09-20T20:30:36.034137Z"
   },
-  "AEG6911": {
-    "route": null,
-    "checked_at": "2026-09-18T20:42:10.752348Z"
-  },
   "EJU32PZ": {
     "route": {
       "fromCity": "Geneva",
@@ -285,21 +281,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-20T20:10:31.257520Z"
-  },
-  "NOZ3CG": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-18T20:42:10.752348Z"
-  },
-  "UPEM030": {
-    "route": null,
-    "checked_at": "2026-09-18T20:42:10.752348Z"
   },
   "AFR69GW": {
     "route": {
@@ -334,10 +315,6 @@
     },
     "checked_at": "2026-09-20T09:45:24.881120Z"
   },
-  "SXS8NX": {
-    "route": null,
-    "checked_at": "2026-09-18T20:42:10.752348Z"
-  },
   "SWR9LC": {
     "route": {
       "fromCity": "Zurich",
@@ -359,17 +336,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-19T12:00:45.629559Z"
-  },
-  "RYR7RJ": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-18T20:43:51.862561Z"
   },
   "QTR28L": {
     "route": {
@@ -483,7 +449,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T20:40:28.079800Z"
+    "checked_at": "2026-09-20T20:45:26.966620Z"
   },
   "RYR50PQ": {
     "route": {
@@ -714,7 +680,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-19T21:10:27.492389Z"
+    "checked_at": "2026-09-20T20:45:26.966620Z"
   },
   "RYR1155": {
     "route": {
@@ -12950,5 +12916,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T20:40:26.738391Z"
+  },
+  "RYR33YN": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T20:45:26.966620Z"
+  },
+  "AEE4581": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-20T20:45:26.966620Z"
+  },
+  "EWG44U": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T20:45:26.966620Z"
   }
 }
