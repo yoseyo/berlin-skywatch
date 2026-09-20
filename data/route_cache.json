@@ -5908,7 +5908,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T13:45:26.001329Z"
+    "checked_at": "2026-09-20T13:10:28.119961Z"
   },
   "CFG3VD": {
     "route": {
@@ -10935,5 +10935,38 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-09-20T13:05:21.063178Z"
+  },
+  "BLX1VM": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T13:10:28.119961Z"
+  },
+  "CCA966": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-20T13:10:28.119961Z"
+  },
+  "SEH875": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-20T13:10:28.119961Z"
   }
 }
