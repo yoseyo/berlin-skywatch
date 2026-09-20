@@ -8963,5 +8963,16 @@
   "DCHFA": {
     "route": null,
     "checked_at": "2026-09-20T00:00:46.766148Z"
+  },
+  "UAL91": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-20T00:20:26.778642Z"
   }
 }

@@ -1,15 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "UAL91",
+      "country": "United States",
+      "lat": 52.1547,
+      "lon": 13.1355,
+      "altKm": 10.8,
+      "speedKmh": 874,
+      "heading": 327,
+      "vertRateMs": 0,
+      "airline": "United Airlines",
+      "airlineCountry": "United States",
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "EWR"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5332,
-      "lon": 13.1715,
-      "altKm": 0.8,
-      "speedKmh": 150,
-      "heading": 93,
-      "vertRateMs": 0.3
+      "lat": 52.5277,
+      "lon": 13.1567,
+      "altKm": 0.9,
+      "speedKmh": 43,
+      "heading": 280,
+      "vertRateMs": 0.7
     }
   ],
-  "updated_at": "2026-09-20T00:15:25.008678Z"
+  "updated_at": "2026-09-20T00:20:26.778642Z"
 }
