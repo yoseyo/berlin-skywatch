@@ -7128,7 +7128,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T16:15:26.431737Z"
+    "checked_at": "2026-09-20T16:25:21.955202Z"
   },
   "FIN9YA": {
     "route": {
@@ -11868,5 +11868,60 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-20T16:20:28.195365Z"
+  },
+  "EJU59FK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T16:25:21.955202Z"
+  },
+  "EJU82DY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T16:25:21.955202Z"
+  },
+  "EJU57YZ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T16:25:21.955202Z"
+  },
+  "RYR17PM": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T16:25:21.955202Z"
+  },
+  "EWG41H": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T16:25:21.955202Z"
   }
 }
