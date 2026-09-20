@@ -221,7 +221,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-18T20:15:27.400311Z"
+    "checked_at": "2026-09-20T08:45:25.449503Z"
   },
   "ASL44H": {
     "route": {
@@ -3348,7 +3348,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T08:40:27.271556Z"
+    "checked_at": "2026-09-20T08:45:25.449503Z"
   },
   "DEPEW": {
     "route": null,
@@ -6162,7 +6162,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T14:15:25.397749Z"
+    "checked_at": "2026-09-20T08:45:25.449503Z"
   },
   "DLH2PM": {
     "route": {
@@ -9825,5 +9825,42 @@
   "DEJYZ": {
     "route": null,
     "checked_at": "2026-09-20T08:40:26.728383Z"
+  },
+  "EJU32EY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T08:45:25.449503Z"
+  },
+  "DGEWF": {
+    "route": null,
+    "checked_at": "2026-09-20T08:45:25.449503Z"
+  },
+  "RYR5SC": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u00d6rebro",
+      "toIata": "ORB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T08:45:25.449503Z"
+  },
+  "EJU93RY": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T08:45:25.449503Z"
   }
 }
