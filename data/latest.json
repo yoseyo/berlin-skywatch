@@ -1,15 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "NSZ3735",
+      "country": "Sweden",
+      "lat": 52.2279,
+      "lon": 13.2556,
+      "altKm": 10.4,
+      "speedKmh": 739,
+      "heading": 352,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5299,
-      "lon": 13.5773,
-      "altKm": 1.0,
-      "speedKmh": 177,
-      "heading": 185,
-      "vertRateMs": 4.2
+      "lat": 52.4361,
+      "lon": 13.4739,
+      "altKm": 1.9,
+      "speedKmh": 153,
+      "heading": 217,
+      "vertRateMs": 1.9
     }
   ],
-  "updated_at": "2026-09-20T22:10:28.188099Z"
+  "updated_at": "2026-09-20T22:15:27.365949Z"
 }
