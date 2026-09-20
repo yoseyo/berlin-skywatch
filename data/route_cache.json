@@ -2751,7 +2751,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-19T07:40:28.136680Z"
+    "checked_at": "2026-09-20T12:30:36.154809Z"
   },
   "LOT2098": {
     "route": {
@@ -5374,7 +5374,7 @@
   },
   "QTR37K": {
     "route": null,
-    "checked_at": "2026-09-19T12:25:22.965702Z"
+    "checked_at": "2026-09-20T12:30:36.154809Z"
   },
   "EWG1GZ": {
     "route": {
@@ -5422,7 +5422,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T12:30:37.959219Z"
+    "checked_at": "2026-09-20T12:30:36.154809Z"
   },
   "WZZ9UF": {
     "route": {
@@ -10680,5 +10680,64 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-20T12:25:21.231907Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T12:30:36.154809Z"
+  },
+  "GAF649": {
+    "route": null,
+    "checked_at": "2026-09-20T12:30:36.154809Z"
+  },
+  "BTI8EP": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T12:30:36.154809Z"
+  },
+  "EWG7NF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T12:30:36.154809Z"
+  },
+  "RYR1856": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "HHN",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T12:30:36.154809Z"
+  },
+  "RYR2282": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T12:30:36.154809Z"
   }
 }
