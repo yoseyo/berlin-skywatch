@@ -3071,7 +3071,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T08:10:29.739253Z"
+    "checked_at": "2026-09-20T13:45:25.775960Z"
   },
   "EWG41W": {
     "route": {
@@ -5336,7 +5336,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T12:15:27.066641Z"
+    "checked_at": "2026-09-20T13:45:25.775960Z"
   },
   "NSZ3303": {
     "route": {
@@ -11108,5 +11108,16 @@
   "RYR26YA": {
     "route": null,
     "checked_at": "2026-09-20T13:40:27.649391Z"
+  },
+  "NSZ3301": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T13:45:25.775960Z"
   }
 }
