@@ -7921,7 +7921,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-09-19T18:00:46.081030Z"
+    "checked_at": "2026-09-20T18:30:38.077526Z"
   },
   "AUA972": {
     "route": {
@@ -7947,7 +7947,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-09-19T18:10:30.338745Z"
+    "checked_at": "2026-09-20T18:30:38.077526Z"
   },
   "NSZ3290": {
     "route": {
@@ -12491,5 +12491,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T18:20:26.469313Z"
+  },
+  "PGT816T": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-20T18:30:38.077526Z"
+  },
+  "RYR2212": {
+    "route": {
+      "fromCity": "Reus",
+      "fromIata": "REU",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T18:30:38.077526Z"
   }
 }
