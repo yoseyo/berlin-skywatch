@@ -1,15 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "DCHFA",
+      "country": "Germany",
+      "lat": 52.5039,
+      "lon": 13.4033,
+      "altKm": 2.3,
+      "speedKmh": 526,
+      "heading": 89,
+      "vertRateMs": 1.6
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.6127,
-      "lon": 13.517,
+      "lat": 52.5639,
+      "lon": 13.33,
       "altKm": 0.6,
-      "speedKmh": 118,
+      "speedKmh": 160,
       "heading": 246,
-      "vertRateMs": 1.6
+      "vertRateMs": 0
     }
   ],
-  "updated_at": "2026-09-19T23:55:20.064503Z"
+  "updated_at": "2026-09-20T00:00:46.766148Z"
 }
