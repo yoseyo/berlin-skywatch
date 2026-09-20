@@ -2140,7 +2140,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T06:35:21.455286Z"
+    "checked_at": "2026-09-20T06:55:20.612528Z"
   },
   "AFR1434": {
     "route": {
@@ -2530,7 +2530,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T07:15:27.193359Z"
+    "checked_at": "2026-09-20T06:55:20.612528Z"
   },
   "CHX31": {
     "route": null,
@@ -7225,7 +7225,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T16:35:21.619239Z"
+    "checked_at": "2026-09-20T06:55:20.612528Z"
   },
   "CEF577": {
     "route": null,
@@ -9529,5 +9529,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T06:50:27.316951Z"
+  },
+  "RYR44BG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T06:55:20.612528Z"
+  },
+  "RYR3QE": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T06:55:20.612528Z"
   }
 }
