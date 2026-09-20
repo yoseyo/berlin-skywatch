@@ -1677,7 +1677,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T05:35:21.251754Z"
+    "checked_at": "2026-09-20T05:45:26.436113Z"
   },
   "SWR5XL": {
     "route": {
@@ -2534,7 +2534,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-09-19T07:15:27.193359Z"
+    "checked_at": "2026-09-20T05:45:26.436113Z"
   },
   "AUA224": {
     "route": {
@@ -9283,5 +9283,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T05:40:27.153327Z"
+  },
+  "EJU12AH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T05:45:26.436113Z"
+  },
+  "BTI3TP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T05:45:26.436113Z"
   }
 }
