@@ -3478,7 +3478,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T08:55:22.705196Z"
+    "checked_at": "2026-09-20T16:55:21.523352Z"
   },
   "DMTCK": {
     "route": null,
@@ -12048,5 +12048,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-20T16:50:27.383527Z"
+  },
+  "CTN4489": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-09-20T16:55:21.523352Z"
+  },
+  "RYR28LA": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T16:55:21.523352Z"
+  },
+  "WZZ1TY": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T16:55:21.523352Z"
   }
 }
