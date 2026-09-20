@@ -2151,7 +2151,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-19T06:35:21.455286Z"
+    "checked_at": "2026-09-20T06:40:30.206863Z"
   },
   "LOT2CM": {
     "route": {
@@ -9485,5 +9485,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T06:35:25.317791Z"
+  },
+  "FIN7QA": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Torino",
+      "toIata": "TRN",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-20T06:40:30.206863Z"
+  },
+  "RYR91SP": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T06:40:30.206863Z"
   }
 }
