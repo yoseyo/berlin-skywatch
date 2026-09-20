@@ -1,53 +1,37 @@
 {
   "flights": [
     {
-      "callsign": "SAS62T",
+      "callsign": "BLX697",
       "country": "Sweden",
-      "lat": 52.3716,
-      "lon": 13.5788,
-      "altKm": 0.3,
-      "speedKmh": 215,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "Scandinavian Airlines System",
+      "lat": 52.8973,
+      "lon": 13.9024,
+      "altKm": 11.6,
+      "speedKmh": 837,
+      "heading": 171,
+      "vertRateMs": 0,
+      "airline": "TUIfly Nordic",
       "airlineCountry": "Sweden",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Oslo",
-      "toIata": "OSL"
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Souda",
+      "toIata": "CHQ"
     },
     {
       "callsign": "UAL962",
       "country": "United States",
-      "lat": 52.6027,
-      "lon": 13.0073,
-      "altKm": 3.2,
-      "speedKmh": 717,
-      "heading": 96,
-      "vertRateMs": 0,
+      "lat": 52.5251,
+      "lon": 13.729,
+      "altKm": 1.6,
+      "speedKmh": 563,
+      "heading": 106,
+      "vertRateMs": -6.8,
       "airline": "United Airlines",
       "airlineCountry": "United States",
       "fromCity": "New York",
       "fromIata": "EWR",
       "toCity": "Berlin",
       "toIata": "BER"
-    },
-    {
-      "callsign": "JTD245",
-      "country": "Denmark",
-      "lat": 52.194,
-      "lon": 13.9999,
-      "altKm": 11.6,
-      "speedKmh": 832,
-      "heading": 170,
-      "vertRateMs": 0,
-      "airline": "Jet Time",
-      "airlineCountry": "Denmark",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO"
     }
   ],
-  "updated_at": "2026-09-20T06:15:27.505990Z"
+  "updated_at": "2026-09-20T06:20:27.356619Z"
 }
