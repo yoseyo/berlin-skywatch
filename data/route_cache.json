@@ -6328,7 +6328,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-09-19T14:32:58.015188Z"
+    "checked_at": "2026-09-20T14:45:27.189147Z"
   },
   "BBG272": {
     "route": {
@@ -11312,5 +11312,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-20T14:41:03.730929Z"
+  },
+  "DEUNK": {
+    "route": null,
+    "checked_at": "2026-09-20T14:45:27.189147Z"
+  },
+  "EJU35TP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T14:45:27.189147Z"
+  },
+  "RYR31MR": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T14:45:27.189147Z"
   }
 }
