@@ -1140,7 +1140,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T04:15:26.440329Z"
+    "checked_at": "2026-09-20T08:10:27.695438Z"
   },
   "RYR98ST": {
     "route": {
@@ -2986,7 +2986,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T08:05:22.006028Z"
+    "checked_at": "2026-09-20T08:10:27.695438Z"
   },
   "AFR39SV": {
     "route": {
@@ -3008,7 +3008,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-19T08:05:22.006028Z"
+    "checked_at": "2026-09-20T08:10:27.695438Z"
   },
   "RYR55VV": {
     "route": {
@@ -3056,7 +3056,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-19T08:10:29.739253Z"
+    "checked_at": "2026-09-20T08:10:27.695438Z"
   },
   "WUK7BU": {
     "route": null,
@@ -9735,5 +9735,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T08:00:46.063008Z"
+  },
+  "AHY063": {
+    "route": {
+      "fromCity": "Baku",
+      "fromIata": "GYD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-09-20T08:10:27.695438Z"
+  },
+  "DMAAC": {
+    "route": null,
+    "checked_at": "2026-09-20T08:10:27.695438Z"
+  },
+  "BTI8QA": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T08:10:27.695438Z"
   }
 }
