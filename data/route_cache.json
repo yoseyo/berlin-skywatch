@@ -3648,7 +3648,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T09:15:27.227647Z"
+    "checked_at": "2026-09-20T09:10:27.591748Z"
   },
   "NOZ1923": {
     "route": {
@@ -3681,7 +3681,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T09:15:27.227647Z"
+    "checked_at": "2026-09-20T09:10:27.591748Z"
   },
   "NIA8601": {
     "route": {
@@ -9929,5 +9929,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T09:00:43.729313Z"
+  },
+  "DLH9MA": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T09:10:27.591748Z"
+  },
+  "NJE089H": {
+    "route": null,
+    "checked_at": "2026-09-20T09:10:27.591748Z"
+  },
+  "SXS6WA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dalaman",
+      "toIata": "DLM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-20T09:10:27.591748Z"
+  },
+  "LOT3PK": {
+    "route": {
+      "fromCity": "Miami",
+      "fromIata": "MIA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-20T09:10:27.591748Z"
   }
 }
