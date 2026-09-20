@@ -2740,7 +2740,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T07:40:28.136680Z"
+    "checked_at": "2026-09-20T08:30:36.480371Z"
   },
   "EZY39MB": {
     "route": {
@@ -4147,7 +4147,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T10:10:26.243823Z"
+    "checked_at": "2026-09-20T08:30:36.480371Z"
   },
   "EJU92LR": {
     "route": {
@@ -9784,5 +9784,27 @@
   "FLI7395": {
     "route": null,
     "checked_at": "2026-09-20T08:20:26.885545Z"
+  },
+  "TSC418": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-09-20T08:30:36.480371Z"
+  },
+  "WZZ2HD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Tuzla",
+      "toIata": "TZL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T08:30:36.480371Z"
   }
 }
