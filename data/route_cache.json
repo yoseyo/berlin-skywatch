@@ -953,7 +953,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-09-20T03:05:23.139348Z"
+    "checked_at": "2026-09-20T15:50:25.981257Z"
   },
   "VKG193": {
     "route": {
@@ -6438,7 +6438,7 @@
       "airlineName": "Private Wings Flugcharter",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T14:50:30.166225Z"
+    "checked_at": "2026-09-20T15:50:25.981257Z"
   },
   "QTR56W": {
     "route": {
@@ -7051,7 +7051,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T16:05:22.128975Z"
+    "checked_at": "2026-09-20T15:50:25.981257Z"
   },
   "KLM67B": {
     "route": {
@@ -7199,7 +7199,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-19T16:30:38.328626Z"
+    "checked_at": "2026-09-20T15:50:25.981257Z"
   },
   "TVF89NN": {
     "route": null,
@@ -7321,7 +7321,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T16:45:28.195942Z"
+    "checked_at": "2026-09-20T15:50:25.981257Z"
   },
   "SAS2657": {
     "route": {
@@ -11666,5 +11666,38 @@
   "QAJ9": {
     "route": null,
     "checked_at": "2026-09-20T15:45:26.695993Z"
+  },
+  "NOZ1107": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-20T15:50:25.981257Z"
+  },
+  "RYR2281": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T15:50:25.981257Z"
+  },
+  "LOT5PX": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-20T15:50:25.981257Z"
   }
 }
