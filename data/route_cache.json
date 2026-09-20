@@ -2648,7 +2648,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T07:30:37.585769Z"
+    "checked_at": "2026-09-20T12:45:28.422990Z"
   },
   "DLH7HP": {
     "route": {
@@ -5569,7 +5569,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T12:55:20.799594Z"
+    "checked_at": "2026-09-20T12:45:28.422990Z"
   },
   "EWG1CN": {
     "route": {
@@ -10791,5 +10791,38 @@
   "UEE2": {
     "route": null,
     "checked_at": "2026-09-20T12:40:27.005413Z"
+  },
+  "SWR9GE": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-20T12:45:28.422990Z"
+  },
+  "EJU71KT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T12:45:28.422990Z"
+  },
+  "HLF8868": {
+    "route": {
+      "fromCity": "Bangkok",
+      "fromIata": "BKK",
+      "toCity": "Yantai",
+      "toIata": "YNT",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T12:45:28.422990Z"
   }
 }
