@@ -6313,7 +6313,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-19T14:30:39.001091Z"
+    "checked_at": "2026-09-20T15:55:20.817233Z"
   },
   "TIE303P": {
     "route": null,
@@ -6834,7 +6834,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-19T15:45:26.864819Z"
+    "checked_at": "2026-09-20T15:55:20.817233Z"
   },
   "SWR23F": {
     "route": {
@@ -7095,7 +7095,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T16:10:30.190502Z"
+    "checked_at": "2026-09-20T15:55:20.817233Z"
   },
   "KLM95T": {
     "route": {
@@ -11699,5 +11699,27 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-20T15:50:25.981257Z"
+  },
+  "BTI3FL": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-20T15:55:20.817233Z"
+  },
+  "RYR5ZE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T15:55:20.817233Z"
   }
 }
