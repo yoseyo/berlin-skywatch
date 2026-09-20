@@ -232,7 +232,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-18T20:15:27.400311Z"
+    "checked_at": "2026-09-20T18:50:27.190822Z"
   },
   "SAS1680": {
     "route": {
@@ -8083,7 +8083,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T18:35:21.912299Z"
+    "checked_at": "2026-09-20T18:50:27.190822Z"
   },
   "DLH202": {
     "route": {
@@ -12568,5 +12568,60 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-20T18:45:27.066666Z"
+  },
+  "EJU83LH": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T18:50:27.190822Z"
+  },
+  "DLH6EH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T18:50:27.190822Z"
+  },
+  "LOT6PA": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-20T18:50:27.190822Z"
+  },
+  "WZZ8AZ": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Tuzla",
+      "toIata": "TZL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T18:50:27.190822Z"
+  },
+  "DLH892": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T18:50:27.190822Z"
   }
 }
