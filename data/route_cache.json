@@ -2177,7 +2177,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T06:45:28.189338Z"
+    "checked_at": "2026-09-20T20:40:26.738391Z"
   },
   "LOT4MH": {
     "route": {
@@ -4141,7 +4141,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T10:20:31.186480Z"
+    "checked_at": "2026-09-20T20:40:26.738391Z"
   },
   "NOZ1951": {
     "route": {
@@ -12928,5 +12928,27 @@
   "EJU5088": {
     "route": null,
     "checked_at": "2026-09-20T20:35:20.851051Z"
+  },
+  "EZY63GU": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T20:40:26.738391Z"
+  },
+  "RYR1VD": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Marrakech",
+      "toIata": "RAK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T20:40:26.738391Z"
   }
 }
