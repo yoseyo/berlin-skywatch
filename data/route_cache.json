@@ -6497,7 +6497,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-19T15:05:21.076473Z"
+    "checked_at": "2026-09-20T15:20:26.547007Z"
   },
   "EJU5005": {
     "route": {
@@ -11533,5 +11533,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T15:15:26.630204Z"
+  },
+  "FIN45M": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-20T15:20:26.547007Z"
+  },
+  "EWG8ZG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T15:20:26.547007Z"
+  },
+  "DLH7T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T15:20:26.547007Z"
   }
 }
