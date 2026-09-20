@@ -1,15 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "NSZ2913",
+      "country": "Sweden",
+      "lat": 52.3584,
+      "lon": 13.9285,
+      "altKm": 11.7,
+      "speedKmh": 806,
+      "heading": 21,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.3753,
-      "lon": 13.4559,
-      "altKm": 1.5,
-      "speedKmh": 189,
-      "heading": 104,
-      "vertRateMs": -8.1
+      "lat": 52.4036,
+      "lon": 13.398,
+      "altKm": 1.2,
+      "speedKmh": 122,
+      "heading": 327,
+      "vertRateMs": 0
     }
   ],
-  "updated_at": "2026-09-20T22:35:20.274362Z"
+  "updated_at": "2026-09-20T22:40:26.999795Z"
 }
