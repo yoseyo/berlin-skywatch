@@ -5643,7 +5643,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T13:05:21.885697Z"
+    "checked_at": "2026-09-20T13:15:26.623284Z"
   },
   "EWG6NT": {
     "route": null,
@@ -5713,7 +5713,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T13:15:27.497382Z"
+    "checked_at": "2026-09-20T13:15:26.623284Z"
   },
   "DHXFV": {
     "route": null,
@@ -10968,5 +10968,27 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-09-20T13:10:28.119961Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T13:15:26.623284Z"
+  },
+  "EWG16V": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T13:15:26.623284Z"
   }
 }
