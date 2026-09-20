@@ -5042,7 +5042,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-19T11:45:26.597305Z"
+    "checked_at": "2026-09-20T11:55:22.017518Z"
   },
   "FIN96W": {
     "route": {
@@ -5156,7 +5156,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T11:55:21.235829Z"
+    "checked_at": "2026-09-20T11:55:22.017518Z"
   },
   "KLM29G": {
     "route": {
@@ -5167,7 +5167,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-19T11:55:21.235829Z"
+    "checked_at": "2026-09-20T11:55:22.017518Z"
   },
   "EJU38DP": {
     "route": {
@@ -5325,7 +5325,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-19T12:15:27.066641Z"
+    "checked_at": "2026-09-20T11:55:22.017518Z"
   },
   "SAS58M": {
     "route": {
@@ -10476,5 +10476,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-20T11:50:27.441443Z"
+  },
+  "CTN4408": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-09-20T11:55:22.017518Z"
+  },
+  "CAT302": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Aarhus",
+      "toIata": "AAR",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-20T11:55:22.017518Z"
   }
 }
