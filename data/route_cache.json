@@ -5739,7 +5739,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-19T13:15:27.497382Z"
+    "checked_at": "2026-09-20T13:05:21.063178Z"
   },
   "EJU5367": {
     "route": {
@@ -10902,5 +10902,38 @@
   "MASBA": {
     "route": null,
     "checked_at": "2026-09-20T13:00:44.963825Z"
+  },
+  "WZZ334": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-20T13:05:21.063178Z"
+  },
+  "CES5014": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Xi'an",
+      "toIata": "XIY",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-20T13:05:21.063178Z"
+  },
+  "FLI7146": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-09-20T13:05:21.063178Z"
   }
 }
