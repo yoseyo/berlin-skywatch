@@ -403,28 +403,6 @@
     },
     "checked_at": "2026-09-20T04:25:57.683409Z"
   },
-  "WMT392": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-09-18T20:55:31.118490Z"
-  },
-  "EJU34BQ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-18T20:55:31.118490Z"
-  },
   "RYR67ZT": {
     "route": {
       "fromCity": "Sofia",
@@ -12989,5 +12967,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-20T20:55:21.439876Z"
+  },
+  "SDR11YL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T21:00:45.603001Z"
+  },
+  "EWG4J": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T21:00:45.603001Z"
   }
 }
