@@ -2626,7 +2626,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T07:25:22.994590Z"
+    "checked_at": "2026-09-20T07:40:27.592916Z"
   },
   "SAS2831": {
     "route": {
@@ -9621,5 +9621,27 @@
       "airlineCountry": "Uzbekistan"
     },
     "checked_at": "2026-09-20T07:35:21.340678Z"
+  },
+  "NSZ4506": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T07:40:27.592916Z"
+  },
+  "EJU65NU": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T07:40:27.592916Z"
   }
 }
