@@ -67,7 +67,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-18T19:49:19.624040Z"
+    "checked_at": "2026-09-20T10:20:29.601975Z"
   },
   "AUA239": {
     "route": {
@@ -3519,7 +3519,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T09:00:46.083376Z"
+    "checked_at": "2026-09-20T10:20:29.601975Z"
   },
   "KLM1775": {
     "route": {
@@ -7711,7 +7711,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T17:40:27.646027Z"
+    "checked_at": "2026-09-20T10:20:29.601975Z"
   },
   "RYR8WT": {
     "route": {
@@ -10121,5 +10121,31 @@
   "SAH51P": {
     "route": null,
     "checked_at": "2026-09-20T10:10:29.963612Z"
+  },
+  "MGH724": {
+    "route": null,
+    "checked_at": "2026-09-20T10:20:29.601975Z"
+  },
+  "EJU81BJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T10:20:29.601975Z"
+  },
+  "TAP53LB": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-09-20T10:20:29.601975Z"
   }
 }
