@@ -403,10 +403,6 @@
     },
     "checked_at": "2026-09-20T04:25:57.683409Z"
   },
-  "CAT678": {
-    "route": null,
-    "checked_at": "2026-09-18T20:50:30.614127Z"
-  },
   "WMT392": {
     "route": {
       "fromCity": "Milan",
@@ -8560,7 +8556,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T20:40:28.079800Z"
+    "checked_at": "2026-09-20T20:55:21.439876Z"
   },
   "EWG2MD": {
     "route": {
@@ -12971,5 +12967,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-20T20:50:29.248739Z"
+  },
+  "RYR4MD": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T20:55:21.439876Z"
+  },
+  "EJU42JF": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-20T20:55:21.439876Z"
   }
 }
