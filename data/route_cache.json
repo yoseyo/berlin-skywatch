@@ -2861,7 +2861,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T07:50:27.078113Z"
+    "checked_at": "2026-09-20T08:00:46.063008Z"
   },
   "DLH175": {
     "route": {
@@ -2872,7 +2872,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T07:50:27.078113Z"
+    "checked_at": "2026-09-20T08:00:46.063008Z"
   },
   "RYR413": {
     "route": {
@@ -2920,7 +2920,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T07:55:41.247554Z"
+    "checked_at": "2026-09-20T08:00:46.063008Z"
   },
   "SAS7882": {
     "route": {
@@ -9713,5 +9713,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T07:55:19.952481Z"
+  },
+  "BAW986G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T08:00:46.063008Z"
+  },
+  "RYR4JQ": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T08:00:46.063008Z"
   }
 }
