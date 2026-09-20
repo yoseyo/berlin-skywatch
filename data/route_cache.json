@@ -254,7 +254,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-18T20:15:27.400311Z"
+    "checked_at": "2026-09-20T10:45:26.786075Z"
   },
   "BAW998": {
     "route": {
@@ -1934,7 +1934,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T06:05:21.244786Z"
+    "checked_at": "2026-09-20T10:45:26.786075Z"
   },
   "AUA223B": {
     "route": {
@@ -4556,7 +4556,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T10:50:29.490867Z"
+    "checked_at": "2026-09-20T10:45:26.786075Z"
   },
   "CTN384E": {
     "route": {
@@ -10210,5 +10210,38 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-20T10:40:27.894222Z"
+  },
+  "TSC419": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-09-20T10:45:26.786075Z"
+  },
+  "BAW843": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T10:45:26.786075Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-09-20T10:45:26.786075Z"
   }
 }
