@@ -4221,7 +4221,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T10:15:27.463098Z"
+    "checked_at": "2026-09-20T07:35:21.340678Z"
   },
   "CTN481": {
     "route": {
@@ -7310,7 +7310,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T16:45:28.195942Z"
+    "checked_at": "2026-09-20T07:35:21.340678Z"
   },
   "RYR70FL": {
     "route": {
@@ -9599,5 +9599,27 @@
   "DMVVL": {
     "route": null,
     "checked_at": "2026-09-20T07:20:29.323904Z"
+  },
+  "BAW42PB": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-20T07:35:21.340678Z"
+  },
+  "MFX7668": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Almaty",
+      "toIata": "ALA",
+      "airlineName": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-09-20T07:35:21.340678Z"
   }
 }
