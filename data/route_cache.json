@@ -3141,7 +3141,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-19T08:20:28.216927Z"
+    "checked_at": "2026-09-20T14:20:27.970872Z"
   },
   "VLG6JY": {
     "route": null,
@@ -4674,7 +4674,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-19T11:05:24.293869Z"
+    "checked_at": "2026-09-20T14:20:27.970872Z"
   },
   "SAS4806": {
     "route": {
@@ -6239,7 +6239,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-19T14:20:27.756499Z"
+    "checked_at": "2026-09-20T14:20:27.970872Z"
   },
   "RYR7664": {
     "route": {
@@ -11213,5 +11213,60 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-20T14:15:27.443657Z"
+  },
+  "NOZ1106": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-20T14:20:27.970872Z"
+  },
+  "CKK236": {
+    "route": {
+      "fromCity": "Los Angeles",
+      "fromIata": "LAX",
+      "toCity": "Chongqing",
+      "toIata": "CKG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-20T14:20:27.970872Z"
+  },
+  "EWG5EY": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-20T14:20:27.970872Z"
+  },
+  "EZS83KB": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-20T14:20:27.970872Z"
+  },
+  "RYR3026": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Beauvais",
+      "toIata": "BVA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-20T14:20:27.970872Z"
   }
 }
