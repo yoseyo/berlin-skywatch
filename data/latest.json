@@ -1,46 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "DLH7HP",
-      "country": "Germany",
-      "lat": 52.566,
-      "lon": 13.4535,
-      "altKm": 10.9,
-      "speedKmh": 818,
-      "heading": 176,
-      "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA"
-    },
-    {
-      "callsign": "EJU46ZJ",
-      "country": "Ireland",
-      "lat": 52.3698,
-      "lon": 13.5711,
-      "altKm": 0.3,
-      "speedKmh": 245,
-      "heading": 248,
-      "vertRateMs": -3.2,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Berlin",
-      "toIata": "BER"
-    },
-    {
       "callsign": "SWR2HD",
       "country": "Latvia",
-      "lat": 52.1095,
-      "lon": 13.4496,
-      "altKm": 2.9,
-      "speedKmh": 657,
-      "heading": 50,
-      "vertRateMs": -8.1,
+      "lat": 52.4171,
+      "lon": 13.8181,
+      "altKm": 1.0,
+      "speedKmh": 362,
+      "heading": 287,
+      "vertRateMs": -2.6,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
       "fromCity": "Zurich",
@@ -51,15 +19,19 @@
     {
       "callsign": "EWG72F",
       "country": "Germany",
-      "lat": 52.3516,
-      "lon": 13.4188,
-      "altKm": 0.9,
-      "speedKmh": 320,
-      "heading": 249,
-      "vertRateMs": 6.2,
+      "lat": 52.2419,
+      "lon": 13.6541,
+      "altKm": 4.5,
+      "speedKmh": 746,
+      "heading": 91,
+      "vertRateMs": 3.9,
       "airline": "Eurowings",
-      "airlineCountry": "Germany"
+      "airlineCountry": "Germany",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Rijeka",
+      "toIata": "RJK"
     }
   ],
-  "updated_at": "2026-09-20T07:25:21.841536Z"
+  "updated_at": "2026-09-20T07:30:36.573877Z"
 }
