@@ -4869,7 +4869,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-19T11:20:28.233199Z"
+    "checked_at": "2026-09-20T11:25:23.008794Z"
   },
   "DLH1YY": {
     "route": {
@@ -10354,5 +10354,31 @@
   "NJE466N": {
     "route": null,
     "checked_at": "2026-09-20T11:20:27.121463Z"
+  },
+  "THY8JK": {
+    "route": {
+      "fromCity": "Seattle",
+      "fromIata": "SEA",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-20T11:25:23.008794Z"
+  },
+  "EJU32RT": {
+    "route": null,
+    "checked_at": "2026-09-20T11:25:23.008794Z"
+  },
+  "SDR17RA": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-20T11:25:23.008794Z"
   }
 }
