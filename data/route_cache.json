@@ -250,5 +250,60 @@
   "NJE633K": {
     "route": null,
     "checked_at": "2026-09-21T14:05:24.022008Z"
+  },
+  "CFG7MA": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T14:10:28.398107Z"
+  },
+  "SWR5CB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-21T14:10:28.398107Z"
+  },
+  "SXS1VZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-21T14:10:28.398107Z"
+  },
+  "RYR2GL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T14:10:28.398107Z"
+  },
+  "MSR732": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cairo",
+      "toIata": "CAI",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-09-21T14:10:28.398107Z"
   }
 }
