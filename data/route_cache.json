@@ -1095,7 +1095,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T05:50:28.006196Z"
+    "checked_at": "2026-09-21T06:15:28.013196Z"
   },
   "DATMJ": {
     "route": null,
@@ -1167,17 +1167,6 @@
     },
     "checked_at": "2026-09-20T16:35:20.822983Z"
   },
-  "BTI83L": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-19T06:10:28.606595Z"
-  },
   "LOT4WE": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -1187,7 +1176,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-19T06:10:28.606595Z"
+    "checked_at": "2026-09-21T06:15:28.013196Z"
   },
   "AUA991B": {
     "route": {
@@ -1209,7 +1198,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-19T06:15:26.377951Z"
+    "checked_at": "2026-09-21T06:15:28.013196Z"
   },
   "PGT820D": {
     "route": {
@@ -8546,7 +8535,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-20T05:55:22.044576Z"
+    "checked_at": "2026-09-21T06:15:28.013196Z"
   },
   "FLI7120": {
     "route": {
@@ -9647,7 +9636,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-20T11:45:25.837275Z"
+    "checked_at": "2026-09-21T06:15:28.013196Z"
   },
   "NSZ3351": {
     "route": {
@@ -13021,5 +13010,20 @@
   "OEEKA": {
     "route": null,
     "checked_at": "2026-09-21T06:10:27.838645Z"
+  },
+  "SFG55B": {
+    "route": null,
+    "checked_at": "2026-09-21T06:15:28.013196Z"
+  },
+  "EJU51LD": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T06:15:28.013196Z"
   }
 }
