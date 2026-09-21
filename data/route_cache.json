@@ -2377,21 +2377,6 @@
     },
     "checked_at": "2026-09-20T10:05:23.572395Z"
   },
-  "DMUKI": {
-    "route": null,
-    "checked_at": "2026-09-19T09:45:25.999037Z"
-  },
-  "SAS1836": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T09:45:25.999037Z"
-  },
   "AEE2WD": {
     "route": {
       "fromCity": "Berlin",
@@ -2423,7 +2408,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-20T09:35:19.954721Z"
+    "checked_at": "2026-09-21T09:50:29.420453Z"
   },
   "SWU1951": {
     "route": {
@@ -2983,7 +2968,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-09-19T10:50:29.490867Z"
+    "checked_at": "2026-09-21T09:50:29.420453Z"
   },
   "EWG7DL": {
     "route": null,
@@ -13245,5 +13230,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-21T09:45:25.942558Z"
+  },
+  "NSZ79AY": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T09:50:29.420453Z"
+  },
+  "FIN2WC": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-21T09:50:29.420453Z"
+  },
+  "TVF801D": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-21T09:50:29.420453Z"
+  },
+  "RYR50PQ": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T09:50:29.420453Z"
   }
 }
