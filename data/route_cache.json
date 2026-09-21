@@ -913,28 +913,6 @@
     },
     "checked_at": "2026-09-20T05:00:45.646248Z"
   },
-  "PGT1611": {
-    "route": {
-      "fromCity": "Samsun",
-      "fromIata": "SZF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-19T05:05:22.084907Z"
-  },
-  "NOZ1922": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-19T05:05:22.084907Z"
-  },
   "DLH4EK": {
     "route": {
       "fromCity": "Oslo",
@@ -1246,7 +1224,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T05:10:27.322849Z"
+    "checked_at": "2026-09-21T05:05:22.185198Z"
   },
   "SAS7773": {
     "route": {
@@ -12880,5 +12858,71 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-21T04:55:22.627279Z"
+  },
+  "DLH6HP": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T05:05:22.185198Z"
+  },
+  "EWG5QR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T05:05:22.185198Z"
+  },
+  "WZZ9389": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-21T05:05:22.185198Z"
+  },
+  "CFE8PR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-21T05:05:22.185198Z"
+  },
+  "RYR308B": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T05:05:22.185198Z"
+  },
+  "RYR6505": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T05:05:22.185198Z"
   }
 }
