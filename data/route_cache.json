@@ -3205,7 +3205,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-20T11:50:27.441443Z"
+    "checked_at": "2026-09-21T12:20:28.096749Z"
   },
   "EUL5B": {
     "route": null,
@@ -3220,7 +3220,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-20T12:05:21.446961Z"
+    "checked_at": "2026-09-21T12:20:28.096749Z"
   },
   "AUA29M": {
     "route": {
@@ -3313,21 +3313,6 @@
   "CHX71": {
     "route": null,
     "checked_at": "2026-09-20T11:15:27.553002Z"
-  },
-  "LBT2422": {
-    "route": {
-      "fromCity": "Djerba",
-      "fromIata": "DJE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-09-19T12:20:26.551886Z"
-  },
-  "NJE102C": {
-    "route": null,
-    "checked_at": "2026-09-19T12:20:26.551886Z"
   },
   "SPSKDL": {
     "route": null,
@@ -13336,5 +13321,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-21T12:00:48.483995Z"
+  },
+  "NSZ83AH": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T12:20:28.096749Z"
+  },
+  "NOZ1105": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-21T12:20:28.096749Z"
   }
 }
