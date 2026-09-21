@@ -1626,17 +1626,6 @@
     },
     "checked_at": "2026-09-20T06:50:27.316951Z"
   },
-  "NSZ8CM": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "NYO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T07:40:28.136680Z"
-  },
   "PGT28RL": {
     "route": {
       "fromCity": "Berlin",
@@ -1658,17 +1647,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-21T07:00:48.453721Z"
-  },
-  "LOT2098": {
-    "route": {
-      "fromCity": "Chicago",
-      "fromIata": "ORD",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-19T07:40:28.136680Z"
   },
   "RYR93KF": {
     "route": {
@@ -1811,7 +1789,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-20T07:50:28.837991Z"
+    "checked_at": "2026-09-21T07:45:27.496758Z"
   },
   "DIETB": {
     "route": null,
@@ -1859,7 +1837,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-09-19T08:00:48.529348Z"
+    "checked_at": "2026-09-21T07:45:27.496758Z"
   },
   "RYR4PT": {
     "route": {
@@ -13184,5 +13162,27 @@
   "N18EU": {
     "route": null,
     "checked_at": "2026-09-21T07:40:27.060675Z"
+  },
+  "EJU43CX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T07:45:27.496758Z"
+  },
+  "SAS2831": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T07:45:27.496758Z"
   }
 }
