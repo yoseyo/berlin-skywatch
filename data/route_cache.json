@@ -2474,7 +2474,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-20T10:15:26.640828Z"
+    "checked_at": "2026-09-21T10:25:58.263979Z"
   },
   "WUK1356": {
     "route": null,
@@ -2557,14 +2557,6 @@
     },
     "checked_at": "2026-09-21T10:00:52.103876Z"
   },
-  "MGH649": {
-    "route": null,
-    "checked_at": "2026-09-19T10:20:31.186480Z"
-  },
-  "AGR017": {
-    "route": null,
-    "checked_at": "2026-09-19T10:20:31.186480Z"
-  },
   "SAS1830": {
     "route": {
       "fromCity": "Nice",
@@ -2620,17 +2612,6 @@
     },
     "checked_at": "2026-09-20T15:45:26.695993Z"
   },
-  "GPX6280": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "GP Aviation",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-09-19T10:25:23.502319Z"
-  },
   "WMT1HA": {
     "route": {
       "fromCity": "Berlin",
@@ -2640,7 +2621,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-20T11:05:22.679346Z"
+    "checked_at": "2026-09-21T10:25:58.263979Z"
   },
   "FIN1DF": {
     "route": {
@@ -7954,7 +7935,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-20T07:40:27.592916Z"
+    "checked_at": "2026-09-21T10:25:58.263979Z"
   },
   "EJU65NU": {
     "route": {
@@ -13348,5 +13329,42 @@
   "OEXHY": {
     "route": null,
     "checked_at": "2026-09-21T10:20:29.078150Z"
+  },
+  "EWG4DA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T10:25:58.263979Z"
+  },
+  "EFD2F": {
+    "route": null,
+    "checked_at": "2026-09-21T10:25:58.263979Z"
+  },
+  "EJU43NL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T10:25:58.263979Z"
+  },
+  "RYR81YP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T10:25:58.263979Z"
   }
 }
