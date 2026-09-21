@@ -1257,7 +1257,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-20T07:15:26.093401Z"
+    "checked_at": "2026-09-21T07:30:38.500397Z"
   },
   "DLH174": {
     "route": {
@@ -1569,7 +1569,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T07:25:22.994590Z"
+    "checked_at": "2026-09-21T07:30:38.500397Z"
   },
   "LHX9JC": {
     "route": {
@@ -1581,17 +1581,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T07:40:27.592916Z"
-  },
-  "SAS2831": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T07:25:22.994590Z"
   },
   "EJU58DM": {
     "route": {
@@ -1615,32 +1604,6 @@
     },
     "checked_at": "2026-09-20T07:25:21.841536Z"
   },
-  "N99BY": {
-    "route": null,
-    "checked_at": "2026-09-19T07:30:37.585769Z"
-  },
-  "SXS9LQ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-19T07:30:37.585769Z"
-  },
-  "VKG748": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-19T07:30:37.585769Z"
-  },
   "KLM38Z": {
     "route": {
       "fromCity": "Berlin",
@@ -1650,7 +1613,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-19T07:30:37.585769Z"
+    "checked_at": "2026-09-21T07:30:38.500397Z"
   },
   "NSZ89C": {
     "route": {
@@ -13202,5 +13165,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-21T07:25:22.312213Z"
+  },
+  "RYR8602": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T07:30:38.500397Z"
   }
 }
