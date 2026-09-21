@@ -992,7 +992,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-20T05:25:21.664733Z"
+    "checked_at": "2026-09-21T05:20:28.568524Z"
   },
   "SAS7881": {
     "route": {
@@ -1051,7 +1051,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-20T05:25:21.664733Z"
+    "checked_at": "2026-09-21T05:20:28.568524Z"
   },
   "DLH4UV": {
     "route": {
@@ -12924,5 +12924,53 @@
   "CAT771": {
     "route": null,
     "checked_at": "2026-09-21T05:15:26.940659Z"
+  },
+  "EWG66Y": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T05:20:28.568524Z"
+  },
+  "BTI9NW": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-21T05:20:28.568524Z"
+  },
+  "SAS7325": {
+    "route": {
+      "fromCity": "Stavanger",
+      "fromIata": "SVG",
+      "toCity": "Ioannina",
+      "toIata": "IOA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T05:20:28.568524Z"
+  },
+  "RYR4311": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Rovaniemi",
+      "toIata": "RVN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T05:20:28.568524Z"
+  },
+  "DBIFM": {
+    "route": null,
+    "checked_at": "2026-09-21T05:20:28.568524Z"
   }
 }
