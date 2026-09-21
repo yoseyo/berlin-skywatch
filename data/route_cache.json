@@ -2322,21 +2322,6 @@
     },
     "checked_at": "2026-09-21T09:20:32.774078Z"
   },
-  "NSZ3280": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T09:30:40.253406Z"
-  },
-  "LDX6": {
-    "route": null,
-    "checked_at": "2026-09-19T09:30:40.253406Z"
-  },
   "LOT7VJ": {
     "route": {
       "fromCity": "Warsaw",
@@ -2347,21 +2332,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-20T09:45:24.881120Z"
-  },
-  "TVF41HV": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Espargos",
-      "toIata": "SID",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-19T09:30:40.253406Z"
-  },
-  "EFD1E": {
-    "route": null,
-    "checked_at": "2026-09-19T09:30:40.253406Z"
   },
   "DMIPY": {
     "route": null,
@@ -2398,7 +2368,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-20T09:20:25.871212Z"
+    "checked_at": "2026-09-21T09:30:41.727920Z"
   },
   "SDR16GL": {
     "route": null,
@@ -3331,7 +3301,7 @@
   },
   "EJU69MZ": {
     "route": null,
-    "checked_at": "2026-09-20T10:35:22.305227Z"
+    "checked_at": "2026-09-21T09:30:41.727920Z"
   },
   "NJE270U": {
     "route": null,
@@ -13218,5 +13188,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-21T09:25:22.997776Z"
+  },
+  "LOT27M": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-21T09:30:41.727920Z"
   }
 }
