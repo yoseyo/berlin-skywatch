@@ -1,31 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "RUK4FM",
-      "country": "United Kingdom",
-      "lat": 52.375,
-      "lon": 12.8496,
-      "altKm": 4.0,
-      "speedKmh": 633,
-      "heading": 282,
-      "vertRateMs": 11.7,
-      "airline": "Ryanair UK",
-      "airlineCountry": "United Kingdom",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
+      "callsign": "IBE0787",
+      "country": "Spain",
+      "lat": 52.1605,
+      "lon": 13.3883,
+      "altKm": 2.0,
+      "speedKmh": 443,
+      "heading": 57,
+      "vertRateMs": 0,
+      "airline": "Iberia Airlines",
+      "airlineCountry": "Spain",
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     },
     {
       "callsign": "EJU34BQ",
       "country": "Austria",
-      "lat": 52.5695,
-      "lon": 13.4807,
-      "altKm": 2.2,
-      "speedKmh": 515,
-      "heading": 103,
-      "vertRateMs": -8.4,
+      "lat": 52.387,
+      "lon": 13.644,
+      "altKm": 0.6,
+      "speedKmh": 302,
+      "heading": 249,
+      "vertRateMs": -4.5,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "London",
@@ -33,20 +33,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR3QE",
-      "country": "Ireland",
-      "lat": 52.3813,
-      "lon": 13.5423,
-      "altKm": 0.2,
-      "speedKmh": 270,
-      "heading": 249,
-      "vertRateMs": -3.6,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-21T21:05:23.787187Z"
+  "updated_at": "2026-09-21T21:11:10.759795Z"
 }
