@@ -48,6 +48,12 @@
   }
   .pill.live{border-color:#3f7a52;color:var(--good);}
   .pill .dot{width:6px;height:6px;border-radius:50%;background:currentColor;box-shadow:0 0 8px currentColor;animation:blink 2.4s ease-in-out infinite;}
+  .sound-toggle{
+    appearance:none;-webkit-appearance:none;background:var(--panel-2);cursor:pointer;
+    font-family:'JetBrains Mono',monospace;font-size:11px;border-color:var(--line);color:var(--text-dim);
+  }
+  .sound-toggle:hover{border-color:var(--teal);color:var(--teal);}
+  .sound-toggle.on{border-color:#3f7a52;color:var(--good);}
   @keyframes blink{0%,100%{opacity:1;}50%{opacity:.35;}}
   #clock{font-variant-numeric:tabular-nums;}
 
@@ -121,6 +127,7 @@
       <h1>Berlin Skywatch</h1>
     </div>
     <div class="status">
+      <button class="pill sound-toggle" id="sound-toggle" type="button" aria-pressed="false">Sound: off</button>
       <span class="pill" id="status-pill"><span class="dot"></span><span id="status-text">Connecting…</span></span>
       <span id="clock">—</span>
     </div>
@@ -132,7 +139,7 @@
       <b style="color:var(--good)">Green</b> = arriving into Berlin ·
       <b style="color:var(--amber)">amber</b> = departing Berlin ·
       <b style="color:var(--teal)">teal</b> = just passing by ·
-      <b style="color:var(--demo-gray)">gray</b> = the live feed didn't respond in this browser, so this preview is animating stand-in flights instead — see the note at the bottom of the page. Small dart icons are private aircraft, the rotor-and-tail shape is a helicopter.
+      <b style="color:var(--demo-gray)">gray</b> = the live feed didn't respond in this browser, so this preview is animating stand-in flights instead — see the note at the bottom of the page. The small airplane icon is a private aircraft, the rotor-and-tail shape is a helicopter. Turn on "Sound" (top right) to hear a stylized flyby cue when a plane or helicopter gets low enough to plausibly hear from the ground.
     </div>
   </div>
 
@@ -175,10 +182,12 @@
     no route on file for a callsign (common for private/GA aircraft), the narration instead shows a heuristic
     read of heading/altitude relative to BER, clearly distinct from real route data. Operators are matched the
     same way — adsbdb's airline data first, then a small built-in lookup table, then registration-style detection
-    for all-letters callsigns. The "you might actually hear this one" narration line is also an estimate, not
-    measured noise — BER does run a real public noise-monitoring network (31 ground stations), but it's a browser
-    dashboard with no public API, so this page just flags a plane as plausibly audible from low altitude (and
-    helicopters from a bit higher, since they carry further) rather than pulling real decibel readings. If the
+    for all-letters callsigns. The "you might actually hear this one" narration line is an estimate, not measured
+    noise — BER does run a real public noise-monitoring network (31 ground stations), but it's a browser dashboard
+    with no public API, so this page just flags a plane as plausibly audible from low altitude (and helicopters
+    from a bit higher, since they carry further) rather than pulling real decibel readings. The optional "Sound"
+    toggle plays a matching cue, generated with the Web Audio API — a stylized whoosh or rotor-thump, not a real
+    recording of that aircraft, off by default. If the
     data file is ever unreachable, the dashboard falls back to a small set of animated stand-in flights, clearly
     marked <b>DEMO DATA</b> above, so the page never sits there broken.
   </p>
@@ -214,6 +223,98 @@
   };
 
   var reduced = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---------- Sound: synthesized flyby cues, not real recordings ----------
+  // No licensed/hosted audio here — these are generated with the Web Audio API,
+  // a stylized whoosh for fixed-wing and a pulsing rotor-thump for helicopters,
+  // matching how the "you might hear this" estimate itself is a heuristic, not a
+  // real recording. Off by default (autoplay is blocked without a user gesture
+  // anyway, and sudden sound on a passive dashboard shouldn't be a surprise).
+  var audioCtx = null;
+  var soundEnabled = false;
+  var soundPlayed = {}; // callsign -> true, so each flight's flyby cue plays once
+
+  function ensureAudioCtx(){
+    if (!audioCtx){
+      var Ctx = window.AudioContext || window.webkitAudioContext;
+      if (!Ctx) return null;
+      audioCtx = new Ctx();
+    }
+    if (audioCtx.state === "suspended") audioCtx.resume();
+    return audioCtx;
+  }
+
+  function playPlaneSound(){
+    var ctx = ensureAudioCtx();
+    if (!ctx) return;
+    var now = ctx.currentTime, dur = 2.6;
+    var bufferSize = Math.floor(ctx.sampleRate * dur);
+    var buffer = ctx.createBuffer(1, bufferSize, ctx.sampleRate);
+    var data = buffer.getChannelData(0);
+    for (var i = 0; i < bufferSize; i++) data[i] = Math.random() * 2 - 1;
+    var noise = ctx.createBufferSource();
+    noise.buffer = buffer;
+
+    var filter = ctx.createBiquadFilter();
+    filter.type = "bandpass";
+    filter.Q.value = 1.1;
+    filter.frequency.setValueAtTime(220, now);
+    filter.frequency.linearRampToValueAtTime(480, now + dur * 0.4);
+    filter.frequency.linearRampToValueAtTime(150, now + dur);
+
+    var gain = ctx.createGain();
+    gain.gain.setValueAtTime(0, now);
+    gain.gain.linearRampToValueAtTime(0.16, now + dur * 0.25);
+    gain.gain.linearRampToValueAtTime(0.16, now + dur * 0.7);
+    gain.gain.linearRampToValueAtTime(0, now + dur);
+
+    noise.connect(filter).connect(gain).connect(ctx.destination);
+    noise.start(now);
+    noise.stop(now + dur);
+  }
+
+  function playHeliSound(){
+    var ctx = ensureAudioCtx();
+    if (!ctx) return;
+    var now = ctx.currentTime, dur = 2.2;
+    var osc = ctx.createOscillator();
+    osc.type = "square";
+    osc.frequency.value = 90;
+
+    var lfo = ctx.createOscillator();
+    lfo.frequency.value = 9; // ~9 thumps/sec, rotor-ish
+    var lfoGain = ctx.createGain();
+    lfoGain.gain.value = 0.5;
+    var baseGain = ctx.createGain();
+    baseGain.gain.value = 0.13;
+    lfo.connect(lfoGain).connect(baseGain.gain);
+
+    var envelope = ctx.createGain();
+    envelope.gain.setValueAtTime(0, now);
+    envelope.gain.linearRampToValueAtTime(1, now + 0.3);
+    envelope.gain.linearRampToValueAtTime(1, now + dur - 0.3);
+    envelope.gain.linearRampToValueAtTime(0, now + dur);
+
+    osc.connect(baseGain).connect(envelope).connect(ctx.destination);
+    osc.start(now); lfo.start(now);
+    osc.stop(now + dur); lfo.stop(now + dur);
+  }
+
+  function maybePlayFlybySound(f){
+    if (!soundEnabled || soundPlayed[f.callsign]) return;
+    if (!likelyAudible(f)) return;
+    soundPlayed[f.callsign] = true;
+    if (f.category === "heli") playHeliSound(); else playPlaneSound();
+  }
+
+  var soundToggleEl = document.getElementById("sound-toggle");
+  soundToggleEl.addEventListener("click", function(){
+    soundEnabled = !soundEnabled;
+    soundToggleEl.textContent = "Sound: " + (soundEnabled ? "on" : "off");
+    soundToggleEl.classList.toggle("on", soundEnabled);
+    soundToggleEl.setAttribute("aria-pressed", String(soundEnabled));
+    if (soundEnabled) ensureAudioCtx();
+  });
 
   // ---------- Map setup ----------
   // fitBounds (rather than a hand-picked zoom) guarantees the city + BER are in
@@ -399,6 +500,7 @@
       if (activeCallsigns.indexOf(cs) === -1){
         map.removeLayer(markers[cs].marker);
         delete markers[cs];
+        delete soundPlayed[cs];
       }
     });
   }
@@ -557,6 +659,7 @@
       // already owns this marker's dead-reckoned position — don't yank it backward.
       if (demo || freshFix) setMarkerPosition(marker, f.lat, f.lon, f.heading);
       marker.bindPopup(popupHtml(f));
+      if (!demo) maybePlayFlybySound(f);
     });
     renderTable(flights);
     showNarration(buildNarration(flights));
