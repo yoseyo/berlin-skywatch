@@ -3522,7 +3522,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-20T13:15:26.623284Z"
+    "checked_at": "2026-09-21T13:20:28.531320Z"
   },
   "RYR36RH": {
     "route": {
@@ -3713,7 +3713,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T13:10:28.119961Z"
+    "checked_at": "2026-09-21T13:20:28.531320Z"
   },
   "CFG3VD": {
     "route": {
@@ -5115,7 +5115,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-20T07:35:21.340678Z"
+    "checked_at": "2026-09-21T13:20:28.531320Z"
   },
   "RYR70FL": {
     "route": {
@@ -8761,7 +8761,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-20T13:10:28.119961Z"
+    "checked_at": "2026-09-21T13:20:28.531320Z"
   },
   "SEH875": {
     "route": {
@@ -8908,7 +8908,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-20T13:40:27.649391Z"
+    "checked_at": "2026-09-21T13:20:28.531320Z"
   },
   "RYR26YA": {
     "route": null,
@@ -13371,5 +13371,49 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-09-21T13:15:31.157783Z"
+  },
+  "EJU46NG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T13:20:28.531320Z"
+  },
+  "LHX850": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T13:20:28.531320Z"
+  },
+  "CSZ866": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Shenzhen Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-21T13:20:28.531320Z"
+  },
+  "BAW91J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-21T13:20:28.531320Z"
   }
 }
