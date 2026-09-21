@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-21T22:35:20.034025Z"
+  "flights": [
+    {
+      "callsign": "WZZ10LV",
+      "country": "Hungary",
+      "lat": 52.5646,
+      "lon": 12.7356,
+      "altKm": 11.0,
+      "speedKmh": 709,
+      "heading": 60,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-21T22:40:25.589034Z"
 }
