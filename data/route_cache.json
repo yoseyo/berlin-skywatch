@@ -948,7 +948,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-20T14:05:20.555365Z"
+    "checked_at": "2026-09-21T13:15:31.157783Z"
   },
   "BTI74A": {
     "route": {
@@ -3353,7 +3353,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-20T12:50:26.270896Z"
+    "checked_at": "2026-09-21T13:15:31.157783Z"
   },
   "MSR731": {
     "route": {
@@ -3524,10 +3524,6 @@
     },
     "checked_at": "2026-09-20T13:15:26.623284Z"
   },
-  "DHXFV": {
-    "route": null,
-    "checked_at": "2026-09-19T13:15:27.497382Z"
-  },
   "RYR36RH": {
     "route": {
       "fromCity": "Tallinn",
@@ -3548,7 +3544,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-20T13:05:21.063178Z"
+    "checked_at": "2026-09-21T13:15:31.157783Z"
   },
   "EJU5367": {
     "route": {
@@ -8809,7 +8805,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-20T13:20:27.411035Z"
+    "checked_at": "2026-09-21T13:15:31.157783Z"
   },
   "CTN4409": {
     "route": {
@@ -13353,5 +13349,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-21T13:05:23.685218Z"
+  },
+  "RYR74EM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T13:15:31.157783Z"
+  },
+  "OCN1341": {
+    "route": {
+      "fromCity": "Bod\u00f8",
+      "fromIata": "BOO",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "O Air",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-21T13:15:31.157783Z"
   }
 }
