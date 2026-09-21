@@ -21,13 +21,25 @@ jobs:
         run: |
           git config user.name "berlin-skywatch-bot"
           git config user.email "actions@github.com"
-          git add data/latest.json data/route_cache.json data/ground_watch.json data/aircraft_cache.json
-          git diff --quiet --cached || git commit -m "Update flight data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          # Retry on push rejection (e.g. a manual push landing at the same moment)
-          # instead of silently dropping this cycle's update.
-          for i in 1 2 3; do
-            git push && break
+          # These are just regenerated snapshot files (no meaningful history to
+          # reconcile), so on a push race we re-commit our freshly computed content
+          # on top of whatever the remote tip now is, rather than rebase/merge —
+          # rebasing hit the exact same data-file conflict on every retry and just
+          # failed the job outright.
+          for i in 1 2 3 4 5; do
+            git add data/latest.json data/route_cache.json data/ground_watch.json data/aircraft_cache.json
+            if git diff --quiet --cached; then
+              echo "No changes to commit"
+              exit 0
+            fi
+            git commit -m "Update flight data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $i), retrying against latest remote..."
             git fetch origin main
-            git rebase origin/main
+            git reset --soft origin/main
             sleep 2
           done
+          echo "::error::Failed to push after 5 attempts"
+          exit 1
