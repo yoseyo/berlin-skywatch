@@ -2375,7 +2375,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-20T10:05:23.572395Z"
+    "checked_at": "2026-09-21T10:11:03.735771Z"
   },
   "AEE2WD": {
     "route": {
@@ -2386,7 +2386,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-20T09:40:25.862944Z"
+    "checked_at": "2026-09-21T10:11:03.735771Z"
   },
   "LOT3JA": {
     "route": {
@@ -2489,7 +2489,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T09:55:21.954854Z"
+    "checked_at": "2026-09-21T10:11:03.735771Z"
   },
   "EJU57RF": {
     "route": {
@@ -2512,25 +2512,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-21T04:10:29.988668Z"
-  },
-  "FIN1802": {
-    "route": {
-      "fromCity": "Verona",
-      "fromIata": "VRN",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-19T10:10:26.243823Z"
-  },
-  "OEKKM": {
-    "route": null,
-    "checked_at": "2026-09-19T10:10:26.243823Z"
-  },
-  "MABTE": {
-    "route": null,
-    "checked_at": "2026-09-19T10:10:26.243823Z"
   },
   "RYR4TC": {
     "route": {
@@ -13289,5 +13270,31 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-21T10:05:29.148519Z"
+  },
+  "DLH2607": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T10:11:03.735771Z"
+  },
+  "ECA4US": {
+    "route": null,
+    "checked_at": "2026-09-21T10:11:03.735771Z"
+  },
+  "CFE34E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-21T10:11:03.735771Z"
   }
 }
