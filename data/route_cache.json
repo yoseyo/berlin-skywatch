@@ -3432,17 +3432,6 @@
     },
     "checked_at": "2026-09-21T12:50:28.550474Z"
   },
-  "WZZ242": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Alghero",
-      "toIata": "AHO",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-19T13:05:21.885697Z"
-  },
   "KLM84H": {
     "route": {
       "fromCity": "Berlin",
@@ -3453,10 +3442,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-09-20T13:30:38.748314Z"
-  },
-  "RFR7271": {
-    "route": null,
-    "checked_at": "2026-09-19T13:05:21.885697Z"
   },
   "SXS9SE": {
     "route": {
@@ -3515,7 +3500,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T13:00:44.963825Z"
+    "checked_at": "2026-09-21T13:05:23.685218Z"
   },
   "RYR525H": {
     "route": {
@@ -13357,5 +13342,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-21T13:00:51.084130Z"
+  },
+  "RYR12AV": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T13:05:23.685218Z"
   }
 }
