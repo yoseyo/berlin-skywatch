@@ -103,18 +103,20 @@
   .footnote b{color:var(--text);}
   .footnote code{color:var(--teal);}
 
-  /* Color is set once per wrapper (by direction, or gray for demo) and everything
-     inside inherits it via currentColor — glow, fill, stroke, all in sync. */
-  .plane-icon-wrapper{color:var(--teal);}
+  /* Emoji glyphs carry their own color, so direction shows as a colored glow behind
+     the icon instead of a tint (color is still set once per wrapper, just consumed
+     by the glow rather than an SVG fill/stroke). */
+  .plane-icon-wrapper{color:var(--teal);cursor:pointer;}
   .plane-icon-wrapper.dir-arriving{color:var(--good);}
   .plane-icon-wrapper.dir-departing{color:var(--amber);}
   .plane-icon-wrapper.dir-transiting{color:var(--teal);}
   .plane-icon-wrapper.demo{color:var(--demo-gray);}
   .plane-wrap{width:100%;height:100%;position:relative;transform-origin:50% 50%;}
-  .plane-glow{position:absolute;inset:-7px;border-radius:50%;background:currentColor;opacity:.18;}
-  .plane-svg{position:relative;width:100%;height:100%;color:currentColor;display:block;}
-  .plane-svg path,.plane-svg ellipse,.plane-svg rect{fill:currentColor;}
-  .plane-svg line{stroke:currentColor;fill:none;}
+  .plane-glow{position:absolute;inset:-7px;border-radius:50%;background:currentColor;opacity:.28;}
+  .plane-emoji{
+    position:relative;width:100%;height:100%;display:flex;align-items:center;justify-content:center;
+    line-height:1;filter:drop-shadow(0 0 3px rgba(0,0,0,.5));
+  }
 </style>
 </head>
 <body>
@@ -139,7 +141,7 @@
       <b style="color:var(--good)">Green</b> = arriving into Berlin ·
       <b style="color:var(--amber)">amber</b> = departing Berlin ·
       <b style="color:var(--teal)">teal</b> = just passing by ·
-      <b style="color:var(--demo-gray)">gray</b> = the live feed didn't respond in this browser, so this preview is animating stand-in flights instead — see the note at the bottom of the page. The small airplane icon is a private aircraft, the rotor-and-tail shape is a helicopter. Turn on "Sound" (top right) to hear a stylized flyby cue when a plane or helicopter gets low enough to plausibly hear from the ground.
+      <b style="color:var(--demo-gray)">gray</b> = the live feed didn't respond in this browser, so this preview is animating stand-in flights instead — see the note at the bottom of the page. ✈️ is a regular flight, 🛩️ a private/small aircraft, 🚁 a helicopter — the color ring behind each still shows its direction. Turn on "Sound" (top right), then click any plane to hear it, or just wait — one below plausible hearing range plays automatically.
     </div>
   </div>
 
@@ -187,7 +189,8 @@
     with no public API, so this page just flags a plane as plausibly audible from low altitude (and helicopters
     from a bit higher, since they carry further) rather than pulling real decibel readings. The optional "Sound"
     toggle plays a matching cue, generated with the Web Audio API — a stylized whoosh or rotor-thump, not a real
-    recording of that aircraft, off by default. If the
+    recording of that aircraft, off by default; click any plane to hear it on demand once sound is on, rather than
+    waiting for it to cross the audible-altitude threshold on its own. If the
     data file is ever unreachable, the dashboard falls back to a small set of animated stand-in flights, clearly
     marked <b>DEMO DATA</b> above, so the page never sits there broken.
   </p>
@@ -328,24 +331,18 @@
     maxZoom: 19
   }).addTo(map);
 
-  // Same up-pointing (0deg = north) top-down airplane silhouette (fuselage, swept
-  // main wings, tail wings, tail cone) for plane/jet so rotation reads the same way
-  // for both; jet is just the same shape rendered smaller. Helicopter gets a
-  // genuinely different top-down silhouette (rotor + fuselage + tail boom).
-  var ICON_SIZES = { plane: 26, jet: 19, heli: 24 };
-  var PLANE_PATH =
-    'M0,-9 L1.5,-3 L9,2 L9,3.3 L1.5,0.5 L1.5,5.5 L4,7.3 L4,8.3 L1,7 ' +
-    'L0,8.7 L-1,7 L-4,8.3 L-4,7.3 L-1.5,5.5 L-1.5,0.5 L-9,3.3 L-9,2 L-1.5,-3 Z';
-  var ICON_SVG = {
-    plane: '<path d="' + PLANE_PATH + '"/>',
-    jet: '<path d="' + PLANE_PATH + '"/>',
-    heli: '<line x1="-9" y1="-5" x2="9" y2="-5" stroke-width="1.4" stroke-linecap="round"/>' +
-      '<ellipse cx="0" cy="-1" rx="2.6" ry="5.2"/>' +
-      '<rect x="-0.7" y="4" width="1.4" height="4.6" rx="0.5"/>' +
-      '<line x1="-1.8" y1="8.8" x2="1.8" y2="8.8" stroke-width="1.1" stroke-linecap="round"/>'
-  };
+  // Emoji glyphs, genuinely different shapes per category rather than a shared
+  // shape at different sizes: ✈️ airliner, 🛩️ small/private aircraft, 🚁 helicopter.
+  var ICON_SIZES = { plane: 24, jet: 20, heli: 22 };
+  var ICON_EMOJI = { plane: "✈️", jet: "🛩️", heli: "🚁" };
+  // ✈️/🛩️ are conventionally drawn pointing toward the upper-right (~NE), not
+  // straight up, across the major emoji fonts — this offset lines that up with
+  // true north at heading=0, the same correction flight-tracker sites use for
+  // this glyph. 🚁 is a side-view glyph with no meaningful "heading" to rotate to,
+  // so it's left unrotated.
+  var EMOJI_HEADING_OFFSET = -45;
   function planeDivIcon(demo, category, direction){
-    var cat = ICON_SVG[category] ? category : "plane";
+    var cat = ICON_EMOJI[category] ? category : "plane";
     var size = ICON_SIZES[cat];
     var colorClass = demo ? "demo" : "dir-" + (direction || "transiting");
     return L.divIcon({
@@ -353,7 +350,7 @@
       html:
         '<div class="plane-wrap">' +
           '<div class="plane-glow"></div>' +
-          '<svg class="plane-svg" viewBox="-10 -10 20 20">' + ICON_SVG[cat] + '</svg>' +
+          '<span class="plane-emoji" style="font-size:' + size + 'px">' + ICON_EMOJI[cat] + '</span>' +
         '</div>',
       iconSize: [size, size],
       iconAnchor: [size / 2, size / 2]
@@ -488,9 +485,18 @@
     var key = demo + "|" + category + "|" + direction;
     if (!markers[callsign]){
       var m = L.marker([BERLIN_CENTER[0], BERLIN_CENTER[1]], { icon: planeDivIcon(demo, category, direction) }).addTo(map);
-      markers[callsign] = { marker: m, key: key };
+      // Click/tap plays this plane's sound on demand (if sound is on), independent
+      // of the ambient "low enough to plausibly hear" auto-trigger — looks up the
+      // category fresh each click rather than closuring over a stale value.
+      m.on("click", function(){
+        if (!soundEnabled) return;
+        var entry = markers[callsign];
+        if (entry && entry.category === "heli") playHeliSound(); else playPlaneSound();
+      });
+      markers[callsign] = { marker: m, key: key, category: category };
     } else if (markers[callsign].key !== key){
       markers[callsign].key = key;
+      markers[callsign].category = category;
       markers[callsign].marker.setIcon(planeDivIcon(demo, category, direction));
     }
     return markers[callsign].marker;
@@ -504,12 +510,15 @@
       }
     });
   }
-  function setMarkerPosition(marker, lat, lon, heading){
+  function setMarkerPosition(marker, lat, lon, heading, category){
     marker.setLatLng([lat, lon]);
     var el = marker.getElement();
     if (el){
       var wrap = el.querySelector(".plane-wrap");
-      if (wrap) wrap.style.transform = "rotate(" + Math.round(heading) + "deg)";
+      if (wrap){
+        wrap.style.transform = category === "heli" ? "" :
+          "rotate(" + Math.round(heading + EMOJI_HEADING_OFFSET) + "deg)";
+      }
     }
   }
   function popupHtml(f){
@@ -653,11 +662,12 @@
       });
     }
     flights.forEach(function(f){
-      var marker = ensureMarker(f.callsign, demo, f.category || "plane", flightDirection(f));
+      var cat = f.category || "plane";
+      var marker = ensureMarker(f.callsign, demo, cat, flightDirection(f));
       // Only snap the marker to this fetched fix on a genuinely new fix (or in demo
       // mode). If this poll just re-served the same stale file, the animate() loop
       // already owns this marker's dead-reckoned position — don't yank it backward.
-      if (demo || freshFix) setMarkerPosition(marker, f.lat, f.lon, f.heading);
+      if (demo || freshFix) setMarkerPosition(marker, f.lat, f.lon, f.heading, cat);
       marker.bindPopup(popupHtml(f));
       if (!demo) maybePlayFlybySound(f);
     });
@@ -695,7 +705,7 @@
       demoDefs.forEach(function(d){
         var p = demoPosition(d, nowSec);
         var entry = markers[d.callsign];
-        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading);
+        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, p.heading, entry.category);
       });
     } else if (mode === "live"){
       var wallNow = Date.now();
@@ -707,7 +717,7 @@
         var elapsedSecPos = Math.min((wallNow - base.t) / 1000, 900);
         var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSecPos);
         var entry = markers[cs];
-        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);
+        if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading, entry.category);
         // Altitude gets a much shorter leash — vertical rate destabilizes fast (a
         // real -6.5 m/s descent held for a stale 10-minute fix would imply the plane
         // went 1.2km *below* ground), so only altitude, not position, is capped tight.
