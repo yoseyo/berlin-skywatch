@@ -1745,7 +1745,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T08:00:46.063008Z"
+    "checked_at": "2026-09-21T08:15:27.873909Z"
   },
   "DAL93": {
     "route": {
@@ -1800,7 +1800,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-20T08:10:27.695438Z"
+    "checked_at": "2026-09-21T08:15:27.873909Z"
   },
   "AFR39SV": {
     "route": {
@@ -1834,10 +1834,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T15:15:26.630204Z"
-  },
-  "DEKPR": {
-    "route": null,
-    "checked_at": "2026-09-19T08:10:29.739253Z"
   },
   "BTI8ED": {
     "route": {
@@ -1898,43 +1894,6 @@
     },
     "checked_at": "2026-09-20T15:30:38.111728Z"
   },
-  "AUA97F": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-19T08:15:26.672391Z"
-  },
-  "RUK7547": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-19T08:15:26.672391Z"
-  },
-  "EJU84TJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-19T08:15:26.672391Z"
-  },
-  "TVF88JV": {
-    "route": null,
-    "checked_at": "2026-09-19T08:15:26.672391Z"
-  },
   "AEE8RB": {
     "route": {
       "fromCity": "Athens",
@@ -1963,7 +1922,7 @@
   },
   "CHX64": {
     "route": null,
-    "checked_at": "2026-09-20T17:15:26.244818Z"
+    "checked_at": "2026-09-21T08:15:27.873909Z"
   },
   "EJU93XZ": {
     "route": {
@@ -10611,7 +10570,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-20T16:05:22.930301Z"
+    "checked_at": "2026-09-21T08:15:27.873909Z"
   },
   "CFE27PM": {
     "route": {
@@ -13219,5 +13178,16 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-09-21T08:10:27.901025Z"
+  },
+  "QTR68T": {
+    "route": {
+      "fromCity": "Seattle",
+      "fromIata": "SEA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-09-21T08:15:27.873909Z"
   }
 }
