@@ -1112,17 +1112,6 @@
     },
     "checked_at": "2026-09-21T05:05:22.185198Z"
   },
-  "SAS7773": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T05:55:21.359928Z"
-  },
   "LOT392": {
     "route": {
       "fromCity": "Berlin",
@@ -1132,7 +1121,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-19T06:00:45.058387Z"
+    "checked_at": "2026-09-21T05:55:23.156247Z"
   },
   "FLI7148": {
     "route": {
@@ -13024,5 +13013,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-21T05:50:31.019593Z"
+  },
+  "JTD243": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-21T05:55:23.156247Z"
+  },
+  "DMS2PV": {
+    "route": {
+      "fromCity": "Saarbr\u00fccken",
+      "fromIata": "SCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-09-21T05:55:23.156247Z"
+  },
+  "DFKJM": {
+    "route": null,
+    "checked_at": "2026-09-21T05:55:23.156247Z"
   }
 }
