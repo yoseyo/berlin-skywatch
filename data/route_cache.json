@@ -1323,7 +1323,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-20T12:20:27.908473Z"
+    "checked_at": "2026-09-21T07:15:28.135613Z"
   },
   "EWG6KW": {
     "route": {
@@ -1468,28 +1468,6 @@
     },
     "checked_at": "2026-09-20T15:05:22.021450Z"
   },
-  "EJU73KU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-19T07:10:34.947972Z"
-  },
-  "PGT17GP": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-19T07:10:34.947972Z"
-  },
   "DLH3TR": {
     "route": {
       "fromCity": "Oslo",
@@ -1500,32 +1478,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T07:00:44.828920Z"
-  },
-  "CFG2KD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-19T07:10:34.947972Z"
-  },
-  "DMNKX": {
-    "route": null,
-    "checked_at": "2026-09-19T07:10:34.947972Z"
-  },
-  "RYR87VA": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-19T07:10:34.947972Z"
   },
   "WZZ977": {
     "route": {
@@ -13221,5 +13173,16 @@
   "MFX152": {
     "route": null,
     "checked_at": "2026-09-21T07:10:28.127254Z"
+  },
+  "BAW84NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-21T07:15:28.135613Z"
   }
 }
