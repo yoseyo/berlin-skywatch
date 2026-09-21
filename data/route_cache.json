@@ -2524,17 +2524,6 @@
     },
     "checked_at": "2026-09-21T10:05:29.148519Z"
   },
-  "MGH651": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "M\u00fcnster",
-      "toIata": "FMO",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-19T10:15:27.463098Z"
-  },
   "SAS81L": {
     "route": {
       "fromCity": "Copenhagen",
@@ -8672,7 +8661,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T11:20:27.121463Z"
+    "checked_at": "2026-09-21T10:15:28.310485Z"
   },
   "EWG2HC": {
     "route": {
@@ -13296,5 +13285,38 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-21T10:11:03.735771Z"
+  },
+  "FHY1282": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-21T10:15:28.310485Z"
+  },
+  "RYR7BW": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T10:15:28.310485Z"
+  },
+  "EWG7RB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T10:15:28.310485Z"
   }
 }
