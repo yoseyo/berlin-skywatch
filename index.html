@@ -109,13 +109,6 @@
   .plane-svg{position:relative;width:100%;height:100%;color:currentColor;display:block;}
   .plane-svg path,.plane-svg ellipse,.plane-svg rect{fill:currentColor;}
   .plane-svg line{stroke:currentColor;fill:none;}
-
-  .speed-tag{
-    background:var(--panel-2) !important;color:var(--teal) !important;border:1px solid var(--line) !important;
-    border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:10.5px;font-weight:500;
-    padding:2px 6px;box-shadow:none !important;
-  }
-  .speed-tag::before{display:none;}
 </style>
 </head>
 <body>
@@ -171,21 +164,23 @@
     its configured interval), and commits the result to <code>data/latest.json</code>. This page just fetches
     that static file — on load, and every 60 seconds after — so there's no CORS problem and no server to run.
     Between fetches, each marker keeps moving on its own, dead-reckoned from its last known fix using its
-    reported heading and real speed (shown in the tag beside each plane); altitude in the table interpolates the
-    same way using OpenSky's own reported climb/descent rate. Ground speed has no equivalent — OpenSky doesn't
-    report acceleration — so it only changes on a real poll, up to every 5 minutes. A plane that's landed is
-    filtered out even if OpenSky's on_ground flag hasn't flipped yet (it's known to lag right at touchdown): low
-    altitude plus low ground speed together are treated as landed. Route info (the city each flight is
-    coming from / heading to) is real data from <a href="https://www.adsbdb.com/" target="_blank"
-    rel="noopener">adsbdb.com</a>'s free, keyless callsign lookup — OpenSky's own route endpoint refuses
-    anonymous requests entirely, so this fills that gap; an arriving/departing flight only names the far-end
-    city, since the Berlin end is already implied. When adsbdb has no route on file for a callsign (common for
-    private/GA aircraft), the narration instead shows a heuristic read of heading/altitude relative to BER,
-    clearly distinct from real route data. Operators are matched the same way — adsbdb's airline data first,
-    then a small built-in lookup table, then registration-style detection for all-letters callsigns (private
-    aircraft broadcasting a tail number rather than a flight number). If the data file is ever unreachable, the
-    dashboard falls back to a small set of animated stand-in flights, clearly marked <b>DEMO DATA</b> above, so
-    the page never sits there broken.
+    reported heading and speed; altitude in the table interpolates the same way using OpenSky's own reported
+    climb/descent rate. A plane that's landed is filtered out even if OpenSky's on_ground flag hasn't flipped yet
+    (it's known to lag right at touchdown): low altitude plus low ground speed together are treated as landed.
+    Route info (the city each flight is coming from / heading to) is real data from
+    <a href="https://www.adsbdb.com/" target="_blank" rel="noopener">adsbdb.com</a>'s free, keyless callsign
+    lookup — OpenSky's own route endpoint refuses anonymous requests entirely, so this fills that gap; an
+    arriving/departing flight only names the far-end city, since the Berlin end is already implied. Aircraft type
+    (for the helicopter/private-jet/airliner icon) comes from the same source, via icao24 lookup. When adsbdb has
+    no route on file for a callsign (common for private/GA aircraft), the narration instead shows a heuristic
+    read of heading/altitude relative to BER, clearly distinct from real route data. Operators are matched the
+    same way — adsbdb's airline data first, then a small built-in lookup table, then registration-style detection
+    for all-letters callsigns. The "you might actually hear this one" narration line is also an estimate, not
+    measured noise — BER does run a real public noise-monitoring network (31 ground stations), but it's a browser
+    dashboard with no public API, so this page just flags a plane as plausibly audible from low altitude (and
+    helicopters from a bit higher, since they carry further) rather than pulling real decibel readings. If the
+    data file is ever unreachable, the dashboard falls back to a small set of animated stand-in flights, clearly
+    marked <b>DEMO DATA</b> above, so the page never sits there broken.
   </p>
 
 </div>
@@ -232,13 +227,17 @@
     maxZoom: 19
   }).addTo(map);
 
-  // Same up-pointing (0deg = north) silhouette family for plane/jet so rotation reads
-  // the same way for both; jet is just slimmer and rendered smaller. Helicopter gets
-  // a genuinely different top-down silhouette (rotor + fuselage + tail boom).
+  // Same up-pointing (0deg = north) top-down airplane silhouette (fuselage, swept
+  // main wings, tail wings, tail cone) for plane/jet so rotation reads the same way
+  // for both; jet is just the same shape rendered smaller. Helicopter gets a
+  // genuinely different top-down silhouette (rotor + fuselage + tail boom).
   var ICON_SIZES = { plane: 26, jet: 19, heli: 24 };
+  var PLANE_PATH =
+    'M0,-9 L1.5,-3 L9,2 L9,3.3 L1.5,0.5 L1.5,5.5 L4,7.3 L4,8.3 L1,7 ' +
+    'L0,8.7 L-1,7 L-4,8.3 L-4,7.3 L-1.5,5.5 L-1.5,0.5 L-9,3.3 L-9,2 L-1.5,-3 Z';
   var ICON_SVG = {
-    plane: '<path d="M0,-8 L5,7 L0,3.4 L-5,7 Z"/>',
-    jet: '<path d="M0,-7 L3,6 L0,3 L-3,6 Z"/>',
+    plane: '<path d="' + PLANE_PATH + '"/>',
+    jet: '<path d="' + PLANE_PATH + '"/>',
     heli: '<line x1="-9" y1="-5" x2="9" y2="-5" stroke-width="1.4" stroke-linecap="round"/>' +
       '<ellipse cx="0" cy="-1" rx="2.6" ry="5.2"/>' +
       '<rect x="-0.7" y="4" width="1.4" height="4.6" rx="0.5"/>' +
@@ -388,7 +387,6 @@
     var key = demo + "|" + category + "|" + direction;
     if (!markers[callsign]){
       var m = L.marker([BERLIN_CENTER[0], BERLIN_CENTER[1]], { icon: planeDivIcon(demo, category, direction) }).addTo(map);
-      m.bindTooltip("", { permanent: true, direction: "right", offset: [14, -6], className: "speed-tag" });
       markers[callsign] = { marker: m, key: key };
     } else if (markers[callsign].key !== key){
       markers[callsign].key = key;
@@ -449,8 +447,23 @@
   ];
   // Fun, varied, city-first storytelling — real airline/route data when adsbdb has it,
   // otherwise the heading/altitude heuristic from routeHint().
+  // No real noise-monitoring feed here (BER does run one — 31 ground stations,
+  // "TraVis" — but it's a browser dashboard with no public API, so this is a
+  // labeled estimate, not measured decibels): low altitude means it's plausibly
+  // audible from the ground, and helicopters carry further even from higher up.
+  function likelyAudible(f){
+    return f.category === "heli" ? f.altKm < 2 : f.altKm < 1;
+  }
   function narrationClause(f){
     var alt = f.altKm.toFixed(1) + " km";
+    if (likelyAudible(f)){
+      var what = f.category === "heli" ? "helicopter" : f.category === "jet" ? "private jet" : "plane";
+      return pick([
+        "That hum isn't the voice in your head — a real " + what + " (" + f.callsign + ") is right overhead, " + alt + " and closing.",
+        "Psst — if you're in Berlin right now, you might actually hear this: " + f.callsign + ", " + alt + " up.",
+        f.callsign + " is close enough to hear, " + alt + " overhead. Not tinnitus — just air traffic."
+      ]);
+    }
     if (f.category === "heli") return pick([
       "Chop chop — a helicopter buzzing the city at " + alt + ", " + f.callsign + ".",
       f.callsign + " is a helicopter, low and loud at " + alt + ".",
@@ -544,7 +557,6 @@
       // already owns this marker's dead-reckoned position — don't yank it backward.
       if (demo || freshFix) setMarkerPosition(marker, f.lat, f.lon, f.heading);
       marker.bindPopup(popupHtml(f));
-      marker.setTooltipContent(Math.round(f.speedKmh) + " km/h");
     });
     renderTable(flights);
     showNarration(buildNarration(flights));
