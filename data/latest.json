@@ -1,31 +1,61 @@
 {
   "flights": [
     {
-      "callsign": "EJU5015",
-      "country": "Austria",
-      "lat": 52.2451,
-      "lon": 13.0982,
-      "altKm": 3.4,
-      "speedKmh": 476,
-      "heading": 276,
-      "vertRateMs": 15.6
+      "callsign": "DLH8MC",
+      "country": "Germany",
+      "lat": 52.3443,
+      "lon": 13.4648,
+      "altKm": 0.4,
+      "speedKmh": 237,
+      "heading": 246,
+      "vertRateMs": 13,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    {
+      "callsign": "TAP53EI",
+      "country": "Portugal",
+      "lat": 52.2293,
+      "lon": 13.2111,
+      "altKm": 2.9,
+      "speedKmh": 478,
+      "heading": 248,
+      "vertRateMs": 8.4,
+      "airline": "TAP Portugal",
+      "airlineCountry": "Portugal",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS"
+    },
+    {
+      "callsign": "RYR8NZ",
+      "country": "Ireland",
+      "lat": 52.3305,
+      "lon": 13.1762,
+      "altKm": 2.5,
+      "speedKmh": 451,
+      "heading": 273,
+      "vertRateMs": 14.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "STN"
     },
     {
       "callsign": "SXS748",
       "country": "Turkey",
-      "lat": 52.3544,
-      "lon": 14.0376,
-      "altKm": 1.9,
-      "speedKmh": 423,
-      "heading": 305,
-      "vertRateMs": -6.8,
+      "lat": 52.3949,
+      "lon": 13.6774,
+      "altKm": 0.7,
+      "speedKmh": 255,
+      "heading": 251,
+      "vertRateMs": -4.2,
       "airline": "SunExpress",
-      "airlineCountry": "Turkey",
-      "fromCity": "Gaziantep",
-      "fromIata": "GZT",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS"
+      "airlineCountry": "Turkey"
     }
   ],
-  "updated_at": "2026-09-21T04:15:26.143288Z"
+  "updated_at": "2026-09-21T04:20:29.692073Z"
 }
