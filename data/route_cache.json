@@ -2136,7 +2136,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-20T09:05:26.020614Z"
+    "checked_at": "2026-09-21T09:35:23.966881Z"
   },
   "DLH179": {
     "route": {
@@ -2333,10 +2333,6 @@
     },
     "checked_at": "2026-09-20T09:45:24.881120Z"
   },
-  "DMIPY": {
-    "route": null,
-    "checked_at": "2026-09-19T09:35:22.048094Z"
-  },
   "THY2XR": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -2348,17 +2344,6 @@
     },
     "checked_at": "2026-09-20T09:35:19.954721Z"
   },
-  "RYR25SC": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-19T09:35:22.048094Z"
-  },
   "SXS8RG": {
     "route": {
       "fromCity": "Antalya",
@@ -2369,10 +2354,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-21T09:30:41.727920Z"
-  },
-  "SDR16GL": {
-    "route": null,
-    "checked_at": "2026-09-19T09:35:22.048094Z"
   },
   "DMVRG": {
     "route": null,
@@ -3029,7 +3010,7 @@
   },
   "EWG7DL": {
     "route": null,
-    "checked_at": "2026-09-20T09:25:21.748143Z"
+    "checked_at": "2026-09-21T09:35:23.966881Z"
   },
   "NSZ2MP": {
     "route": {
@@ -8541,7 +8522,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-20T10:05:23.572395Z"
+    "checked_at": "2026-09-21T09:35:23.966881Z"
   },
   "SDR78JA": {
     "route": {
@@ -13199,5 +13180,38 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-21T09:30:41.727920Z"
+  },
+  "BTI2DX": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-21T09:35:23.966881Z"
+  },
+  "SDR10EL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T09:35:23.966881Z"
+  },
+  "DLH2621": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T09:35:23.966881Z"
   }
 }
