@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EJU94YN",
+      "country": "Austria",
+      "lat": 52.1983,
+      "lon": 13.8411,
+      "altKm": 2.2,
+      "speedKmh": 489,
+      "heading": 14,
+      "vertRateMs": -8.4,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR866X",
       "country": "Ireland",
-      "lat": 52.4593,
-      "lon": 13.8108,
+      "lat": 52.9015,
+      "lon": 13.7647,
       "altKm": 11.5,
-      "speedKmh": 609,
+      "speedKmh": 588,
       "heading": 356,
-      "vertRateMs": 0,
+      "vertRateMs": 0.3,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Valletta",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-21T21:35:21.971093Z"
+  "updated_at": "2026-09-21T21:40:27.211903Z"
 }
