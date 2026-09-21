@@ -2904,7 +2904,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-19T11:15:27.791084Z"
+    "checked_at": "2026-09-21T11:20:27.608585Z"
   },
   "DLH4NF": {
     "route": {
@@ -2915,7 +2915,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T11:10:26.343155Z"
+    "checked_at": "2026-09-21T11:20:27.608585Z"
   },
   "THY8TV": {
     "route": {
@@ -2927,17 +2927,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-20T11:30:39.807432Z"
-  },
-  "NIA8602": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-09-19T11:15:27.791084Z"
   },
   "RYR303F": {
     "route": {
@@ -13346,5 +13335,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-09-21T11:15:25.930740Z"
+  },
+  "NOZ1871": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-21T11:20:27.608585Z"
   }
 }
