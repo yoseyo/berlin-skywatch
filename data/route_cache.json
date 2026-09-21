@@ -2227,5 +2227,42 @@
   "EWG45B": {
     "route": null,
     "checked_at": "2026-09-21T17:35:21.161760Z"
+  },
+  "DEXPE": {
+    "route": null,
+    "checked_at": "2026-09-21T17:40:27.697382Z"
+  },
+  "DLH5PR": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T17:40:27.697382Z"
+  },
+  "RYR67ZT": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T17:40:27.697382Z"
+  },
+  "SAS44L": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T17:40:27.697382Z"
   }
 }
