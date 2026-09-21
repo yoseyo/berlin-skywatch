@@ -3064,10 +3064,6 @@
     },
     "checked_at": "2026-09-20T12:10:25.826027Z"
   },
-  "DERTS": {
-    "route": null,
-    "checked_at": "2026-09-19T11:40:28.728134Z"
-  },
   "QTR20V": {
     "route": {
       "fromCity": "Doha",
@@ -3078,17 +3074,6 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-09-20T11:39:33.984239Z"
-  },
-  "EWG3F": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-19T11:40:28.728134Z"
   },
   "AUA978": {
     "route": {
@@ -13361,5 +13346,24 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-21T11:30:41.772344Z"
+  },
+  "N446CB": {
+    "route": null,
+    "checked_at": "2026-09-21T11:40:37.577314Z"
+  },
+  "LEJ110": {
+    "route": null,
+    "checked_at": "2026-09-21T11:40:37.577314Z"
+  },
+  "EJU17HZ": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T11:40:37.577314Z"
   }
 }
