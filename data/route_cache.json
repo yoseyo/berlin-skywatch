@@ -1404,5 +1404,64 @@
   "VKG198": {
     "route": null,
     "checked_at": "2026-09-21T16:05:22.448994Z"
+  },
+  "NSZ2066": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T16:10:28.587039Z"
+  },
+  "DMS2RV": {
+    "route": {
+      "fromCity": "Saarbr\u00fccken",
+      "fromIata": "SCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-09-21T16:10:28.587039Z"
+  },
+  "KLM1780": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-09-21T16:10:28.587039Z"
+  },
+  "RYR83CH": {
+    "route": {
+      "fromCity": "\u0141\u00f3d\u017a",
+      "fromIata": "LCJ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T16:10:28.587039Z"
+  },
+  "EWG9QC": {
+    "route": null,
+    "checked_at": "2026-09-21T16:10:28.587039Z"
+  },
+  "RYR28LA": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T16:10:28.587039Z"
   }
 }
