@@ -924,28 +924,6 @@
     },
     "checked_at": "2026-09-20T04:45:27.245230Z"
   },
-  "NSZ3288": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T05:10:30.146117Z"
-  },
-  "WZZ31QC": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-19T05:10:30.146117Z"
-  },
   "BEL8YE": {
     "route": {
       "fromCity": "Berlin",
@@ -961,10 +939,6 @@
     "route": null,
     "checked_at": "2026-09-21T05:10:29.336051Z"
   },
-  "WMT7615": {
-    "route": null,
-    "checked_at": "2026-09-19T05:15:26.300940Z"
-  },
   "AUA240": {
     "route": {
       "fromCity": "Berlin",
@@ -974,7 +948,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-20T05:15:27.016793Z"
+    "checked_at": "2026-09-21T05:15:26.940659Z"
   },
   "DLH7XV": {
     "route": {
@@ -985,7 +959,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T05:15:27.016793Z"
+    "checked_at": "2026-09-21T05:15:26.940659Z"
   },
   "RYR97WV": {
     "route": {
@@ -1007,7 +981,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-19T05:20:28.753982Z"
+    "checked_at": "2026-09-21T05:15:26.940659Z"
   },
   "SXS75G": {
     "route": {
@@ -11377,7 +11351,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-20T16:45:25.452673Z"
+    "checked_at": "2026-09-21T05:15:26.940659Z"
   },
   "EJU51HZ": {
     "route": {
@@ -12935,5 +12909,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-21T05:10:29.336051Z"
+  },
+  "EJU53YB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T05:15:26.940659Z"
+  },
+  "CAT771": {
+    "route": null,
+    "checked_at": "2026-09-21T05:15:26.940659Z"
   }
 }
