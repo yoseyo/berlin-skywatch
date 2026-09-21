@@ -1018,7 +1018,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T05:45:26.436113Z"
+    "checked_at": "2026-09-21T05:40:29.702289Z"
   },
   "SWR5XL": {
     "route": {
@@ -1053,17 +1053,6 @@
     },
     "checked_at": "2026-09-20T04:55:20.990208Z"
   },
-  "NOZ9168": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-19T05:40:28.771572Z"
-  },
   "RYR57ND": {
     "route": {
       "fromCity": "Milan",
@@ -1074,28 +1063,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-20T05:40:27.153327Z"
-  },
-  "CFG2CK": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-19T05:40:28.771572Z"
-  },
-  "RYR55XJ": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Banja Luka",
-      "toIata": "BNX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-19T05:40:28.771572Z"
   },
   "CYZ255": {
     "route": {
@@ -1139,7 +1106,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-19T05:50:29.314081Z"
+    "checked_at": "2026-09-21T05:40:29.702289Z"
   },
   "EJU69PY": {
     "route": {
@@ -8502,7 +8469,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-20T04:55:20.990208Z"
+    "checked_at": "2026-09-21T05:40:29.702289Z"
   },
   "SDR78KD": {
     "route": {
@@ -13020,5 +12987,31 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-21T05:35:21.544036Z"
+  },
+  "CYZ261": {
+    "route": null,
+    "checked_at": "2026-09-21T05:40:29.702289Z"
+  },
+  "EWG5MJ": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T05:40:29.702289Z"
+  },
+  "FLI7158": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-09-21T05:40:29.702289Z"
   }
 }
