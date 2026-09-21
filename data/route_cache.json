@@ -1402,28 +1402,6 @@
     },
     "checked_at": "2026-09-21T06:55:20.654323Z"
   },
-  "PGT982": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-19T06:55:22.280719Z"
-  },
-  "SAS7327": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T06:55:22.280719Z"
-  },
   "VLG9PX": {
     "route": {
       "fromCity": "Barcelona",
@@ -1445,28 +1423,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-21T06:55:20.654323Z"
-  },
-  "RYR60RF": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-19T06:55:22.280719Z"
-  },
-  "NSZ2054": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T07:00:45.059920Z"
   },
   "LOT286": {
     "route": {
@@ -1490,17 +1446,6 @@
     },
     "checked_at": "2026-09-21T06:50:26.731982Z"
   },
-  "BAW84NT": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-19T07:00:45.059920Z"
-  },
   "SAS767": {
     "route": {
       "fromCity": "Copenhagen",
@@ -1511,10 +1456,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-20T07:10:28.492071Z"
-  },
-  "N14NA": {
-    "route": null,
-    "checked_at": "2026-09-19T07:00:45.059920Z"
   },
   "UAG27G": {
     "route": null,
@@ -1853,7 +1794,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-20T12:30:36.154809Z"
+    "checked_at": "2026-09-21T07:00:48.453721Z"
   },
   "LOT2098": {
     "route": {
@@ -4804,7 +4745,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-19T13:10:29.405993Z"
+    "checked_at": "2026-09-21T07:00:48.453721Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -5367,7 +5308,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-19T14:25:20.657747Z"
+    "checked_at": "2026-09-21T07:00:48.453721Z"
   },
   "RYR594F": {
     "route": {
@@ -13221,5 +13162,42 @@
   "ADN95Y": {
     "route": null,
     "checked_at": "2026-09-21T06:55:20.654323Z"
+  },
+  "BLX6BK": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T07:00:48.453721Z"
+  },
+  "DMS2HR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saarbr\u00fccken",
+      "toIata": "SCN",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-09-21T07:00:48.453721Z"
+  },
+  "CFG2DC": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T07:00:48.453721Z"
+  },
+  "ATV107": {
+    "route": null,
+    "checked_at": "2026-09-21T07:00:48.453721Z"
   }
 }
