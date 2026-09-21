@@ -21,7 +21,7 @@ jobs:
         run: |
           git config user.name "berlin-skywatch-bot"
           git config user.email "actions@github.com"
-          git add data/latest.json data/route_cache.json data/ground_watch.json
+          git add data/latest.json data/route_cache.json data/ground_watch.json data/aircraft_cache.json
           git diff --quiet --cached || git commit -m "Update flight data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           # Retry on push rejection (e.g. a manual push landing at the same moment)
           # instead of silently dropping this cycle's update.

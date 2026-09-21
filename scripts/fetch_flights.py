@@ -42,6 +42,39 @@ BER_LAT, BER_LON = 52.3667, 13.5033
 BER_PROXIMITY_KM = 20
 BER_TERMINAL_ALT_KM = 3
 
+# Aircraft type (for the heli/private-jet/airliner icon on the map) via adsbdb's
+# aircraft-by-icao24 lookup. A given icao24's type never changes, so this is cached
+# far longer than the route lookup — most aircraft end up permanently cached.
+AIRCRAFT_CACHE_PATH = "data/aircraft_cache.json"
+AIRCRAFT_CACHE_TTL_DAYS = 30
+
+HELICOPTER_TYPES = {
+    "EC35", "EC45", "EC20", "EC30", "EC55", "H125", "AS50", "AS55", "A109", "A139",
+    "A169", "B06", "B407", "B429", "B412", "B212", "R22", "R44", "R66", "S76",
+    "S92", "H60", "H64", "BK17", "GAZL",
+}
+PRIVATE_JET_TYPES = {
+    # Business jets
+    "GL5T", "GLEX", "GL7T", "GL6T", "CL30", "CL35", "CL60",
+    "C25A", "C25B", "C25C", "C500", "C510", "C525", "C550", "C560", "C56X",
+    "C650", "C680", "C700", "C750", "F2TH", "F900", "F2000", "FA6X", "FA7X", "FA8X",
+    "LJ31", "LJ35", "LJ40", "LJ45", "LJ60", "LJ70", "LJ75", "PC24", "E50P", "E55P",
+    "E545", "E550", "GLF4", "GLF5", "GLF6", "H25B", "HA4T", "BE40", "PRM1",
+    # Small GA singles/twins/turboprops — not literally jets, but the same "small
+    # private aircraft, not an airliner" bucket for icon purposes.
+    "SR20", "SR22", "C172", "C182", "C206", "C210", "P28A", "P28B", "P32R", "P46T",
+    "BE36", "BE58", "BE9L", "BE20", "DA40", "DA42", "DA62", "M20P", "M20T", "PC12",
+}
+
+
+def classify_aircraft(icao_type):
+    t = (icao_type or "").strip().upper()
+    if t in HELICOPTER_TYPES:
+        return "heli"
+    if t in PRIVATE_JET_TYPES:
+        return "jet"
+    return "plane"
+
 
 def haversine_km(lat1, lon1, lat2, lon2):
     r = 6371.0
@@ -96,6 +129,20 @@ def fetch_route(callsign):
     }
 
 
+def fetch_aircraft(icao24):
+    url = "https://api.adsbdb.com/v0/aircraft/" + icao24
+    req = urllib.request.Request(url, headers=HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.load(resp)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return None  # unknown aircraft — not an error
+        raise
+    aircraft = (data.get("response") or {}).get("aircraft")
+    return aircraft.get("icao_type") if aircraft else None
+
+
 def main():
     now = datetime.datetime.utcnow()
 
@@ -116,6 +163,7 @@ def main():
         if alt_km < 0.1 and speed_kmh < 80:
             continue  # obviously landed/taxiing — clearly low and clearly slow
         flights.append({
+            "icao24": s[0],
             "callsign": s[1].strip(),
             "country": s[2] or "—",
             "lat": s[6],
@@ -186,6 +234,29 @@ def main():
         if parse_iso(v["checked_at"]) > cutoff
     }
 
+    aircraft_cache = load_json(AIRCRAFT_CACHE_PATH, {})
+
+    for f in flights:
+        icao24 = f.pop("icao24")
+        cached = aircraft_cache.get(icao24)
+        fresh = cached and (now - parse_iso(cached["checked_at"])).total_seconds() < AIRCRAFT_CACHE_TTL_DAYS * 86400
+
+        if not fresh:
+            try:
+                icao_type = fetch_aircraft(icao24)
+                aircraft_cache[icao24] = {"icaoType": icao_type, "checked_at": now.isoformat() + "Z"}
+                cached = aircraft_cache[icao24]
+            except Exception:
+                pass  # transient failure — leave any existing cache entry as-is, retry next poll
+
+        f["category"] = classify_aircraft(cached["icaoType"]) if cached else "plane"
+
+    aircraft_cutoff = now - datetime.timedelta(days=AIRCRAFT_CACHE_TTL_DAYS * 2)
+    aircraft_cache = {
+        k: v for k, v in aircraft_cache.items()
+        if parse_iso(v["checked_at"]) > aircraft_cutoff
+    }
+
     with open("data/latest.json", "w") as out:
         json.dump({
             "flights": flights,
@@ -197,6 +268,9 @@ def main():
 
     with open(GROUND_WATCH_PATH, "w") as f:
         json.dump(ground_watch, f, indent=2)
+
+    with open(AIRCRAFT_CACHE_PATH, "w") as f:
+        json.dump(aircraft_cache, f, indent=2)
 
 
 main()

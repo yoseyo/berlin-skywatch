@@ -20,6 +20,7 @@
     --amber-dim:#a97a3d;
     --teal:#5fd0d9;
     --good:#7ddc8c;
+    --demo-gray:#8a94ab;
   }
   *{box-sizing:border-box;}
   html,body{margin:0;height:100%;background:var(--bg);color:var(--text);color-scheme:dark;}
@@ -96,13 +97,18 @@
   .footnote b{color:var(--text);}
   .footnote code{color:var(--teal);}
 
-  .plane-icon-wrapper{width:26px;height:26px;}
-  .plane-wrap{width:26px;height:26px;position:relative;transform-origin:50% 50%;}
-  .plane-glow{position:absolute;inset:-7px;border-radius:50%;background:var(--amber);opacity:.18;}
-  .plane-svg{position:relative;width:26px;height:26px;color:var(--amber);}
-  .plane-svg path{fill:currentColor;}
-  .plane-icon-wrapper.demo .plane-svg{color:var(--teal);}
-  .plane-icon-wrapper.demo .plane-glow{background:var(--teal);}
+  /* Color is set once per wrapper (by direction, or gray for demo) and everything
+     inside inherits it via currentColor — glow, fill, stroke, all in sync. */
+  .plane-icon-wrapper{color:var(--teal);}
+  .plane-icon-wrapper.dir-arriving{color:var(--good);}
+  .plane-icon-wrapper.dir-departing{color:var(--amber);}
+  .plane-icon-wrapper.dir-transiting{color:var(--teal);}
+  .plane-icon-wrapper.demo{color:var(--demo-gray);}
+  .plane-wrap{width:100%;height:100%;position:relative;transform-origin:50% 50%;}
+  .plane-glow{position:absolute;inset:-7px;border-radius:50%;background:currentColor;opacity:.18;}
+  .plane-svg{position:relative;width:100%;height:100%;color:currentColor;display:block;}
+  .plane-svg path,.plane-svg ellipse,.plane-svg rect{fill:currentColor;}
+  .plane-svg line{stroke:currentColor;fill:none;}
 
   .speed-tag{
     background:var(--panel-2) !important;color:var(--teal) !important;border:1px solid var(--line) !important;
@@ -129,7 +135,12 @@
 
   <div class="card map-card">
     <div id="map"></div>
-    <div class="map-caption">Amber markers are OpenSky's real, live positions. Teal markers mean the live feed didn't respond in this browser, so this preview is animating stand-in flights instead — see the note at the bottom of the page.</div>
+    <div class="map-caption">
+      <b style="color:var(--good)">Green</b> = arriving into Berlin ·
+      <b style="color:var(--amber)">amber</b> = departing Berlin ·
+      <b style="color:var(--teal)">teal</b> = just passing by ·
+      <b style="color:var(--demo-gray)">gray</b> = the live feed didn't respond in this browser, so this preview is animating stand-in flights instead — see the note at the bottom of the page. Small dart icons are private aircraft, the rotor-and-tail shape is a helicopter.
+    </div>
   </div>
 
   <div class="below-grid">
@@ -221,16 +232,31 @@
     maxZoom: 19
   }).addTo(map);
 
-  function planeDivIcon(demo){
+  // Same up-pointing (0deg = north) silhouette family for plane/jet so rotation reads
+  // the same way for both; jet is just slimmer and rendered smaller. Helicopter gets
+  // a genuinely different top-down silhouette (rotor + fuselage + tail boom).
+  var ICON_SIZES = { plane: 26, jet: 19, heli: 24 };
+  var ICON_SVG = {
+    plane: '<path d="M0,-8 L5,7 L0,3.4 L-5,7 Z"/>',
+    jet: '<path d="M0,-7 L3,6 L0,3 L-3,6 Z"/>',
+    heli: '<line x1="-9" y1="-5" x2="9" y2="-5" stroke-width="1.4" stroke-linecap="round"/>' +
+      '<ellipse cx="0" cy="-1" rx="2.6" ry="5.2"/>' +
+      '<rect x="-0.7" y="4" width="1.4" height="4.6" rx="0.5"/>' +
+      '<line x1="-1.8" y1="8.8" x2="1.8" y2="8.8" stroke-width="1.1" stroke-linecap="round"/>'
+  };
+  function planeDivIcon(demo, category, direction){
+    var cat = ICON_SVG[category] ? category : "plane";
+    var size = ICON_SIZES[cat];
+    var colorClass = demo ? "demo" : "dir-" + (direction || "transiting");
     return L.divIcon({
-      className: "plane-icon-wrapper" + (demo ? " demo" : ""),
+      className: "plane-icon-wrapper " + colorClass,
       html:
         '<div class="plane-wrap">' +
           '<div class="plane-glow"></div>' +
-          '<svg class="plane-svg" viewBox="-10 -10 20 20"><path d="M0,-8 L5,7 L0,3.4 L-5,7 Z"/></svg>' +
+          '<svg class="plane-svg" viewBox="-10 -10 20 20">' + ICON_SVG[cat] + '</svg>' +
         '</div>',
-      iconSize: [26, 26],
-      iconAnchor: [13, 13]
+      iconSize: [size, size],
+      iconAnchor: [size / 2, size / 2]
     });
   }
 
@@ -256,6 +282,8 @@
     if (f.airline) return f.airline;
     var guess = guessAirline(f.callsign);
     if (guess) return guess[0];
+    if (f.category === "heli") return "a helicopter";
+    if (f.category === "jet") return "a private jet";
     if (isRegistrationStyle(f.callsign)) return "a private flight";
     return "an unlisted operator";
   }
@@ -289,6 +317,19 @@
   }
   function routeLine(f){
     return routeCityLine(f) || routeHint(f);
+  }
+  // "arriving" | "departing" | "transiting" — real route when adsbdb resolved one,
+  // otherwise the same heading/altitude heuristic as routeHint(), so every marker
+  // (not just ones with a known route) gets a meaningful color.
+  function flightDirection(f){
+    if (f.toIata === "BER") return "arriving";
+    if (f.fromIata === "BER") return "departing";
+    if (f.fromCity || f.toCity) return "transiting";
+    var toBER = bearingBetween(f.lat, f.lon, BER_AIRPORT[0], BER_AIRPORT[1]);
+    var diff = angleDiff(f.heading, toBER);
+    if (f.altKm < 4 && diff < 55) return "arriving";
+    if (f.altKm < 6 && diff > 125) return "departing";
+    return "transiting";
   }
   function lerp(a, b, t){ return a + (b - a) * t; }
   var KM_PER_DEG_LAT = 111.32;
@@ -343,14 +384,15 @@
   var liveBase = {}; // callsign -> {lat, lon, heading, speedKmh, t} — last fetched fix, extrapolated between polls
   var mode = "connecting"; // "live" | "demo" | "connecting"
 
-  function ensureMarker(callsign, demo){
+  function ensureMarker(callsign, demo, category, direction){
+    var key = demo + "|" + category + "|" + direction;
     if (!markers[callsign]){
-      var m = L.marker([BERLIN_CENTER[0], BERLIN_CENTER[1]], { icon: planeDivIcon(demo) }).addTo(map);
+      var m = L.marker([BERLIN_CENTER[0], BERLIN_CENTER[1]], { icon: planeDivIcon(demo, category, direction) }).addTo(map);
       m.bindTooltip("", { permanent: true, direction: "right", offset: [14, -6], className: "speed-tag" });
-      markers[callsign] = { marker: m, demo: demo };
-    } else if (markers[callsign].demo !== demo){
-      markers[callsign].demo = demo;
-      markers[callsign].marker.setIcon(planeDivIcon(demo));
+      markers[callsign] = { marker: m, key: key };
+    } else if (markers[callsign].key !== key){
+      markers[callsign].key = key;
+      markers[callsign].marker.setIcon(planeDivIcon(demo, category, direction));
     }
     return markers[callsign].marker;
   }
@@ -408,8 +450,18 @@
   // Fun, varied, city-first storytelling — real airline/route data when adsbdb has it,
   // otherwise the heading/altitude heuristic from routeHint().
   function narrationClause(f){
-    var who = operatorLabel(f);
     var alt = f.altKm.toFixed(1) + " km";
+    if (f.category === "heli") return pick([
+      "Chop chop — a helicopter buzzing the city at " + alt + ", " + f.callsign + ".",
+      f.callsign + " is a helicopter, low and loud at " + alt + ".",
+      "Rotors up: " + f.callsign + " cutting across town at " + alt + "."
+    ]);
+    if (f.category === "jet") return pick([
+      "Ooh, fancy — " + f.callsign + " is a private jet, " + alt + " up.",
+      "Someone's not flying economy: " + f.callsign + ", a private jet at " + alt + ".",
+      f.callsign + " — a small private jet, cruising " + alt + " overhead."
+    ]);
+    var who = operatorLabel(f);
     var cityLine = routeCityLine(f);
 
     if (!cityLine) return f.callsign + ", " + who + ", " + alt + " up — " + routeHint(f) + ".";
@@ -486,7 +538,7 @@
       });
     }
     flights.forEach(function(f){
-      var marker = ensureMarker(f.callsign, demo);
+      var marker = ensureMarker(f.callsign, demo, f.category || "plane", flightDirection(f));
       // Only snap the marker to this fetched fix on a genuinely new fix (or in demo
       // mode). If this poll just re-served the same stale file, the animate() loop
       // already owns this marker's dead-reckoned position — don't yank it backward.
@@ -534,23 +586,21 @@
       var wallNow = Date.now();
       Object.keys(liveBase).forEach(function(cs){
         var base = liveBase[cs];
-        // A straight-line/constant-rate projection only holds up during level, stable
-        // flight. A climbing or descending aircraft is actively changing speed, heading
-        // and vertical rate together — extrapolating that for many minutes overshoots
-        // fast (a real -6.5 m/s descent held for a stale 10-minute fix would imply the
-        // plane went 1.2km *below* ground). So a meaningfully climbing/descending flight
-        // gets a much shorter leash than a level cruising one.
-        var climbingOrDescending = Math.abs(base.vertRateMs) > 1;
-        var maxExtrapSec = climbingOrDescending ? 150 : 900;
-        var elapsedSec = Math.min((wallNow - base.t) / 1000, maxExtrapSec);
-        var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSec);
+        // Position keeps extrapolating on a long leash (heading/speed stay fairly
+        // stable even during climb/descent — a plane doesn't reverse course, it just
+        // changes altitude) so the marker never just stops moving mid-cycle.
+        var elapsedSecPos = Math.min((wallNow - base.t) / 1000, 900);
+        var p = projectPosition(base.lat, base.lon, base.heading, base.speedKmh, elapsedSecPos);
         var entry = markers[cs];
         if (entry) setMarkerPosition(entry.marker, p.lat, p.lon, base.heading);
-        // Altitude interpolated from OpenSky's own reported climb/descent rate (real
-        // physics, not a guess), using the same capped elapsed time as position above.
+        // Altitude gets a much shorter leash — vertical rate destabilizes fast (a
+        // real -6.5 m/s descent held for a stale 10-minute fix would imply the plane
+        // went 1.2km *below* ground), so only altitude, not position, is capped tight.
         var altEl = document.getElementById("alt-" + cs);
         if (altEl){
-          var liveAltKm = Math.max(0, base.altKm + (base.vertRateMs * elapsedSec) / 1000);
+          var climbingOrDescending = Math.abs(base.vertRateMs) > 1;
+          var elapsedSecAlt = climbingOrDescending ? Math.min(elapsedSecPos, 150) : elapsedSecPos;
+          var liveAltKm = Math.max(0, base.altKm + (base.vertRateMs * elapsedSecAlt) / 1000);
           altEl.textContent = liveAltKm.toFixed(1) + " km";
         }
       });
