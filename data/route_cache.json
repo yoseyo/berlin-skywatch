@@ -12935,5 +12935,27 @@
   "AEG6912": {
     "route": null,
     "checked_at": "2026-09-21T02:35:22.344602Z"
+  },
+  "SRN1988": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Sirair",
+      "airlineCountry": "Russia"
+    },
+    "checked_at": "2026-09-21T03:30:35.941568Z"
+  },
+  "SRR6228": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-21T03:30:35.941568Z"
   }
 }
