@@ -1,15 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "MFX7661",
+      "country": "Uzbekistan",
+      "lat": 52.7142,
+      "lon": 13.4919,
+      "altKm": 9.8,
+      "speedKmh": 764,
+      "heading": 254,
+      "vertRateMs": 0.3
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4544,
-      "lon": 13.3737,
+      "lat": 52.5332,
+      "lon": 13.3058,
       "altKm": 1.6,
-      "speedKmh": 151,
-      "heading": 348,
-      "vertRateMs": -0.3
+      "speedKmh": 209,
+      "heading": 73,
+      "vertRateMs": 1.0
     }
   ],
-  "updated_at": "2026-09-21T00:55:23.125910Z"
+  "updated_at": "2026-09-21T01:00:48.482628Z"
 }
