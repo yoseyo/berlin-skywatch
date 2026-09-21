@@ -2452,7 +2452,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-20T09:40:25.862944Z"
+    "checked_at": "2026-09-21T10:20:29.078150Z"
   },
   "MEA245": {
     "route": {
@@ -6185,7 +6185,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-20T12:20:27.908473Z"
+    "checked_at": "2026-09-21T10:20:29.078150Z"
   },
   "DLH1XN": {
     "route": {
@@ -13318,5 +13318,35 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-21T10:15:28.310485Z"
+  },
+  "DENUX": {
+    "route": null,
+    "checked_at": "2026-09-21T10:20:29.078150Z"
+  },
+  "RYR5603": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T10:20:29.078150Z"
+  },
+  "EJU79XD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T10:20:29.078150Z"
+  },
+  "OEXHY": {
+    "route": null,
+    "checked_at": "2026-09-21T10:20:29.078150Z"
   }
 }
