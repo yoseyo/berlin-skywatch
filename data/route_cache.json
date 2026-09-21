@@ -523,5 +523,42 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-21T14:30:40.794371Z"
+  },
+  "WZZ9926": {
+    "route": null,
+    "checked_at": "2026-09-21T14:35:24.524056Z"
+  },
+  "BEL9SZ": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-09-21T14:35:24.524056Z"
+  },
+  "CFG5ZR": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T14:35:24.524056Z"
+  },
+  "RYR91ZT": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T14:35:24.524056Z"
   }
 }
