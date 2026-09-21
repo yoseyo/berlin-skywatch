@@ -1,21 +1,69 @@
 {
   "flights": [
     {
-      "callsign": "RYR58ZM",
-      "country": "Malta",
-      "lat": 52.3541,
-      "lon": 13.4306,
-      "altKm": 0.9,
-      "speedKmh": 273,
-      "heading": 251,
-      "vertRateMs": 9.8,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
+      "callsign": "WMT707",
+      "country": "Hungary",
+      "lat": 52.4623,
+      "lon": 13.3722,
+      "altKm": 11.1,
+      "speedKmh": 713,
+      "heading": 298,
+      "vertRateMs": 0,
+      "airline": "Wizz Air Malta",
+      "airlineCountry": "Malta",
+      "fromCity": "Memmingen",
+      "fromIata": "FMM",
+      "toCity": "Timi\u015foara",
+      "toIata": "TSR"
+    },
+    {
+      "callsign": "EJU8624",
+      "country": "Austria",
+      "lat": 52.3471,
+      "lon": 13.475,
+      "altKm": 0.2,
+      "speedKmh": 256,
+      "heading": 249,
+      "vertRateMs": 11.7,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Catania",
-      "toIata": "CTA"
+      "toCity": "London",
+      "toIata": "LGW"
+    },
+    {
+      "callsign": "SAS7945",
+      "country": "Ireland",
+      "lat": 52.3914,
+      "lon": 13.4636,
+      "altKm": 10.1,
+      "speedKmh": 925,
+      "heading": 168,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Ioannina",
+      "toIata": "IOA"
+    },
+    {
+      "callsign": "CES243",
+      "country": "China",
+      "lat": 52.296,
+      "lon": 12.9536,
+      "altKm": 11.6,
+      "speedKmh": 1010,
+      "heading": 196,
+      "vertRateMs": -0.3,
+      "airline": "China Eastern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Milan",
+      "toIata": "MXP"
     }
   ],
-  "updated_at": "2026-09-21T04:25:22.527957Z"
+  "updated_at": "2026-09-21T04:30:36.672888Z"
 }

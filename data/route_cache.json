@@ -737,28 +737,6 @@
     },
     "checked_at": "2026-09-21T04:10:29.988668Z"
   },
-  "EWG6902": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-19T04:25:23.248169Z"
-  },
-  "WZZ8025": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-19T04:25:23.248169Z"
-  },
   "EWG4EH": {
     "route": {
       "fromCity": "Berlin",
@@ -5238,7 +5216,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-19T13:10:29.405993Z"
+    "checked_at": "2026-09-21T04:30:36.672888Z"
   },
   "DLH6MM": {
     "route": {
@@ -12924,5 +12902,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-21T04:15:26.143288Z"
+  },
+  "WMT707": {
+    "route": {
+      "fromCity": "Memmingen",
+      "fromIata": "FMM",
+      "toCity": "Timi\u015foara",
+      "toIata": "TSR",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-21T04:30:36.672888Z"
+  },
+  "SAS7945": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Ioannina",
+      "toIata": "IOA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T04:30:36.672888Z"
+  },
+  "CES243": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-21T04:30:36.672888Z"
   }
 }
