@@ -1,16 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "EUL5B",
-      "country": "Germany",
-      "lat": 52.1564,
-      "lon": 13.3568,
-      "altKm": 4.8,
-      "speedKmh": 554,
-      "heading": 173,
-      "vertRateMs": 13,
+      "callsign": "ENT3GH",
+      "country": "Poland",
+      "lat": 52.1853,
+      "lon": 12.7136,
+      "altKm": 11.6,
+      "speedKmh": 734,
+      "heading": 54,
+      "vertRateMs": 0,
+      "airline": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "category": "plane"
+    },
+    {
+      "callsign": "GJT2XJ",
+      "country": "Lithuania",
+      "lat": 52.2041,
+      "lon": 13.7689,
+      "altKm": 11.5,
+      "speedKmh": 701,
+      "heading": 66,
+      "vertRateMs": 0,
+      "airline": "Gestion Aerea Ajecutiva",
+      "airlineCountry": "Spain",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-21T22:11:02.721827Z"
+  "updated_at": "2026-09-21T22:15:28.142634Z"
 }
