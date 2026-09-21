@@ -1248,17 +1248,6 @@
     },
     "checked_at": "2026-09-20T07:00:44.828920Z"
   },
-  "WMT3CL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cluj-Napoca",
-      "toIata": "CLJ",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-09-19T06:35:21.455286Z"
-  },
   "EJU46ZJ": {
     "route": {
       "fromCity": "Milan",
@@ -1270,17 +1259,6 @@
     },
     "checked_at": "2026-09-20T07:15:26.093401Z"
   },
-  "EJU12HB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-19T06:35:21.455286Z"
-  },
   "DLH174": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -1290,7 +1268,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-20T06:55:20.612528Z"
+    "checked_at": "2026-09-21T06:40:27.376899Z"
   },
   "AFR1434": {
     "route": {
@@ -1324,17 +1302,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-21T06:35:20.219926Z"
-  },
-  "RYR4VG": {
-    "route": {
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Girona",
-      "toIata": "GRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-19T06:35:21.455286Z"
   },
   "NOZ1950": {
     "route": {
@@ -2923,7 +2890,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-20T16:00:46.891150Z"
+    "checked_at": "2026-09-21T06:40:27.376899Z"
   },
   "EZY8623": {
     "route": {
@@ -8612,7 +8579,7 @@
       "airlineName": "Easyjet Switzerland",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-20T06:30:40.151854Z"
+    "checked_at": "2026-09-21T06:40:27.376899Z"
   },
   "EJU43RL": {
     "route": {
@@ -13073,5 +13040,38 @@
   "DEXPE": {
     "route": null,
     "checked_at": "2026-09-21T06:35:20.219926Z"
+  },
+  "THY1LZ": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-21T06:40:27.376899Z"
+  },
+  "LOT2WA": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-21T06:40:27.376899Z"
+  },
+  "RYR48UK": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T06:40:27.376899Z"
   }
 }
