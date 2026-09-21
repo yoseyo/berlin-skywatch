@@ -614,7 +614,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-09-20T15:50:25.981257Z"
+    "checked_at": "2026-09-21T08:10:27.901025Z"
   },
   "EWG2W": {
     "route": {
@@ -1679,7 +1679,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-20T07:50:28.837991Z"
+    "checked_at": "2026-09-21T08:10:27.901025Z"
   },
   "CTN480": {
     "route": {
@@ -2961,7 +2961,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-20T08:30:36.480371Z"
+    "checked_at": "2026-09-21T08:10:27.901025Z"
   },
   "EJU92LR": {
     "route": {
@@ -13197,5 +13197,27 @@
   "AIB496B": {
     "route": null,
     "checked_at": "2026-09-21T08:05:22.020715Z"
+  },
+  "LHX5PN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T08:10:27.901025Z"
+  },
+  "OCN1340": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Bod\u00f8",
+      "toIata": "BOO",
+      "airlineName": "O Air",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-21T08:10:27.901025Z"
   }
 }
