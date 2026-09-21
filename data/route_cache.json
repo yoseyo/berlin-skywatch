@@ -2407,5 +2407,38 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-09-21T18:00:50.171794Z"
+  },
+  "IBE07MV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-21T18:05:23.949377Z"
+  },
+  "PGT984": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-21T18:05:23.949377Z"
+  },
+  "EWG7TA": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T18:05:23.949377Z"
   }
 }
