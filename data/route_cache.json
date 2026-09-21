@@ -1525,7 +1525,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-20T07:15:26.093401Z"
+    "checked_at": "2026-09-21T07:20:27.630754Z"
   },
   "SWR2HD": {
     "route": {
@@ -1537,32 +1537,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-20T07:25:21.841536Z"
-  },
-  "DLH5T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-19T07:20:27.469142Z"
-  },
-  "DMZIC": {
-    "route": null,
-    "checked_at": "2026-09-19T07:20:27.469142Z"
-  },
-  "RYR63KM": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-19T07:20:27.469142Z"
   },
   "THY4VH": {
     "route": {
@@ -13184,5 +13158,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-21T07:15:28.135613Z"
+  },
+  "DLH6PP": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T07:20:27.630754Z"
+  },
+  "SXS4QE": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-21T07:20:27.630754Z"
   }
 }
