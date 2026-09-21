@@ -139,5 +139,31 @@
   "DEVMA": {
     "route": null,
     "checked_at": "2026-09-21T13:50:31.742789Z"
+  },
+  "PGT685B": {
+    "route": null,
+    "checked_at": "2026-09-21T13:55:21.913266Z"
+  },
+  "CFE93AU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-21T13:55:21.913266Z"
+  },
+  "RYR19ZZ": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T13:55:21.913266Z"
   }
 }
