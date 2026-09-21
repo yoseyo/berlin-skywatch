@@ -1725,17 +1725,6 @@
     },
     "checked_at": "2026-09-21T07:50:27.652260Z"
   },
-  "NOZ9316": {
-    "route": {
-      "fromCity": "Stavanger",
-      "fromIata": "SVG",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-19T07:55:41.247554Z"
-  },
   "NOZ3JH": {
     "route": {
       "fromCity": "Berlin",
@@ -1747,10 +1736,6 @@
     },
     "checked_at": "2026-09-21T07:45:27.496758Z"
   },
-  "DIETB": {
-    "route": null,
-    "checked_at": "2026-09-19T07:55:41.247554Z"
-  },
   "DLH4X": {
     "route": {
       "fromCity": "Munich",
@@ -1761,17 +1746,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T08:00:46.063008Z"
-  },
-  "SAS7882": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T07:55:41.247554Z"
   },
   "DAL93": {
     "route": {
@@ -1874,7 +1848,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-19T08:10:29.739253Z"
+    "checked_at": "2026-09-21T08:00:48.445254Z"
   },
   "QTR85X": {
     "route": {
@@ -13189,5 +13163,31 @@
   "NJE9KW": {
     "route": null,
     "checked_at": "2026-09-21T07:55:21.327847Z"
+  },
+  "DLH6LK": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T08:00:48.445254Z"
+  },
+  "DFPOL": {
+    "route": null,
+    "checked_at": "2026-09-21T08:00:48.445254Z"
+  },
+  "ASL19P": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-21T08:00:48.445254Z"
   }
 }
