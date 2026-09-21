@@ -2748,17 +2748,6 @@
     },
     "checked_at": "2026-09-20T05:10:27.322849Z"
   },
-  "SAS7328": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T10:50:29.490867Z"
-  },
   "CES786": {
     "route": {
       "fromCity": "Venice",
@@ -3114,7 +3103,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-20T11:05:22.679346Z"
+    "checked_at": "2026-09-21T10:55:22.852831Z"
   },
   "SDR46KE": {
     "route": {
@@ -13368,5 +13357,42 @@
   "N99BY": {
     "route": null,
     "checked_at": "2026-09-21T10:50:27.870703Z"
+  },
+  "NSZ5421": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T10:55:22.852831Z"
+  },
+  "TVF81SM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-21T10:55:22.852831Z"
+  },
+  "TKJ2JY": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-21T10:55:22.852831Z"
+  },
+  "PAV171": {
+    "route": null,
+    "checked_at": "2026-09-21T10:55:22.852831Z"
   }
 }
