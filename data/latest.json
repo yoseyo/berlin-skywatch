@@ -1,13 +1,30 @@
 {
   "flights": [
     {
+      "callsign": "RYR6GD",
+      "country": "Poland",
+      "lat": 52.4103,
+      "lon": 13.1802,
+      "altKm": 11.6,
+      "speedKmh": 869,
+      "heading": 92,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Rome",
+      "fromIata": "CIA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR9847",
       "country": "Ireland",
-      "lat": 52.3473,
-      "lon": 14.0924,
-      "altKm": 11.2,
-      "speedKmh": 776,
-      "heading": 269,
+      "lat": 52.3347,
+      "lon": 13.1579,
+      "altKm": 11.3,
+      "speedKmh": 774,
+      "heading": 268,
       "vertRateMs": 0.3,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
@@ -16,7 +33,24 @@
       "toCity": "Birmingham",
       "toIata": "BHX",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR8EM",
+      "country": "Malta",
+      "lat": 52.2593,
+      "lon": 14.0334,
+      "altKm": 10.9,
+      "speedKmh": 1035,
+      "heading": 171,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Bratislava",
+      "fromIata": "BTS",
+      "toCity": "London",
+      "toIata": "STN",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-21T21:50:26.843036Z"
+  "updated_at": "2026-09-21T21:55:23.227193Z"
 }
