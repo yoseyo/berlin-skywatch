@@ -45,7 +45,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-20T10:20:29.601975Z"
+    "checked_at": "2026-09-21T12:55:21.157022Z"
   },
   "AUA239": {
     "route": {
@@ -3410,17 +3410,6 @@
     },
     "checked_at": "2026-09-20T07:00:44.828920Z"
   },
-  "DLH891": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-19T12:55:20.799594Z"
-  },
   "DLH5N": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -3431,28 +3420,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-20T12:45:28.422990Z"
-  },
-  "EWG1CN": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-19T12:55:20.799594Z"
-  },
-  "RYR2NB": {
-    "route": {
-      "fromCity": "Torp",
-      "fromIata": "TRF",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-19T12:55:20.799594Z"
   },
   "SAS44A": {
     "route": {
@@ -13350,5 +13317,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-21T12:45:27.287174Z"
+  },
+  "RYR5602": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T12:55:21.157022Z"
+  },
+  "EWG3TF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T12:55:21.157022Z"
   }
 }
