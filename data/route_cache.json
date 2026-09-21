@@ -1558,7 +1558,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-20T06:55:20.612528Z"
+    "checked_at": "2026-09-21T07:10:28.127254Z"
   },
   "CHX31": {
     "route": null,
@@ -1621,7 +1621,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-20T07:15:26.093401Z"
+    "checked_at": "2026-09-21T07:10:28.127254Z"
   },
   "EIN3JE": {
     "route": {
@@ -13195,5 +13195,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-21T07:05:23.559073Z"
+  },
+  "LHX5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T07:10:28.127254Z"
+  },
+  "CFG7KE": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T07:10:28.127254Z"
+  },
+  "MFX152": {
+    "route": null,
+    "checked_at": "2026-09-21T07:10:28.127254Z"
   }
 }
