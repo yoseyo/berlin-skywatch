@@ -3,12 +3,12 @@
     {
       "callsign": "IBE0787",
       "country": "Spain",
-      "lat": 52.3043,
-      "lon": 13.7604,
-      "altKm": 1.6,
-      "speedKmh": 436,
-      "heading": 58,
-      "vertRateMs": -7.8,
+      "lat": 52.392,
+      "lon": 13.6652,
+      "altKm": 0.7,
+      "speedKmh": 274,
+      "heading": 249,
+      "vertRateMs": -4.5,
       "airline": "Iberia Airlines",
       "airlineCountry": "Spain",
       "fromCity": "Madrid",
@@ -18,14 +18,31 @@
       "category": "plane"
     },
     {
+      "callsign": "EJU96BD",
+      "country": "Austria",
+      "lat": 52.2151,
+      "lon": 13.6827,
+      "altKm": 2.3,
+      "speedKmh": 508,
+      "heading": 41,
+      "vertRateMs": -6.8,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6227",
       "country": "Denmark",
-      "lat": 52.3636,
-      "lon": 13.4701,
-      "altKm": 0.7,
-      "speedKmh": 316,
-      "heading": 248,
-      "vertRateMs": 10.4,
+      "lat": 52.2621,
+      "lon": 12.8026,
+      "altKm": 5.8,
+      "speedKmh": 737,
+      "heading": 257,
+      "vertRateMs": 18.9,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Berlin",
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-21T21:15:26.745131Z"
+  "updated_at": "2026-09-21T21:20:30.909830Z"
 }
