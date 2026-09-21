@@ -232,7 +232,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-20T20:25:22.378490Z"
+    "checked_at": "2026-09-21T12:45:27.287174Z"
   },
   "EZY18CE": {
     "route": {
@@ -3376,17 +3376,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-20T13:20:27.411035Z"
-  },
-  "SDR16YT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-19T12:45:26.687047Z"
   },
   "WMT9NH": {
     "route": {
@@ -13328,5 +13317,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-21T12:40:28.282401Z"
+  },
+  "SAS7947": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-21T12:45:27.287174Z"
+  },
+  "BTI3BP": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-21T12:45:27.287174Z"
+  },
+  "RYR30RG": {
+    "route": {
+      "fromCity": "Banja Luka",
+      "fromIata": "BNX",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T12:45:27.287174Z"
   }
 }
