@@ -1064,17 +1064,6 @@
     },
     "checked_at": "2026-09-20T05:40:27.153327Z"
   },
-  "CYZ255": {
-    "route": {
-      "fromCity": "Nanjing",
-      "fromIata": "NKG",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "China Postal Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-19T05:45:28.092029Z"
-  },
   "DLH207": {
     "route": {
       "fromCity": "Dresden",
@@ -13013,5 +13002,27 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-09-21T05:40:29.702289Z"
+  },
+  "AUA90T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-21T05:45:28.980860Z"
+  },
+  "RYR5979": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-21T05:45:28.980860Z"
   }
 }
