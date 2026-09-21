@@ -612,17 +612,6 @@
     },
     "checked_at": "2026-09-20T18:05:21.286263Z"
   },
-  "THY4JD": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Miami",
-      "toIata": "MIA",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-19T01:10:27.734503Z"
-  },
   "CHX82": {
     "route": null,
     "checked_at": "2026-09-20T15:50:25.981257Z"
@@ -12953,5 +12942,16 @@
   "MFX7661": {
     "route": null,
     "checked_at": "2026-09-21T01:00:48.482628Z"
+  },
+  "BCS9CG": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-21T01:10:34.042408Z"
   }
 }
