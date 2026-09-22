@@ -422,7 +422,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-09-21T14:25:27.115250Z"
+    "checked_at": "2026-09-22T05:40:30.502452Z"
   },
   "EFD2F": {
     "route": null,
@@ -4872,5 +4872,42 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-22T05:35:21.875776Z"
+  },
+  "EWG4JP": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T05:40:30.502452Z"
+  },
+  "LDX600": {
+    "route": null,
+    "checked_at": "2026-09-22T05:40:30.502452Z"
+  },
+  "EJU31RF": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-22T05:40:30.502452Z"
+  },
+  "RYR55XJ": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Banja Luka",
+      "toIata": "BNX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T05:40:30.502452Z"
   }
 }
