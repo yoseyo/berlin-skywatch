@@ -1145,7 +1145,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-21T15:40:26.048389Z"
+    "checked_at": "2026-09-22T15:25:23.956573Z"
   },
   "RYR11CP": {
     "route": {
@@ -9693,5 +9693,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-22T15:20:34.244746Z"
+  },
+  "FIN2K": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-22T15:25:23.956573Z"
+  },
+  "SAS80D": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T15:25:23.956573Z"
   }
 }
