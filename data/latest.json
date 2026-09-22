@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-22T04:00:47.039174Z"
+  "flights": [
+    {
+      "callsign": "CES243",
+      "country": "China",
+      "lat": 52.4082,
+      "lon": 13.0503,
+      "altKm": 11.8,
+      "speedKmh": 1041,
+      "heading": 198,
+      "vertRateMs": 0,
+      "airline": "China Eastern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "category": "plane"
+    },
+    {
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.5201,
+      "lon": 13.3728,
+      "altKm": 1.9,
+      "speedKmh": 193,
+      "heading": 57,
+      "vertRateMs": -4.2,
+      "category": "heli"
+    }
+  ],
+  "updated_at": "2026-09-22T04:05:21.699815Z"
 }
