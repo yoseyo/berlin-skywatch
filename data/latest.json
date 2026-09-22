@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "SRR6227",
+      "country": "Denmark",
+      "lat": 52.3474,
+      "lon": 13.4008,
+      "altKm": 1.4,
+      "speedKmh": 408,
+      "heading": 248,
+      "vertRateMs": 20.2,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "category": "plane"
+    },
+    {
       "callsign": "IBE0787",
       "country": "Spain",
-      "lat": 52.3474,
-      "lon": 13.84,
-      "altKm": 1.3,
-      "speedKmh": 421,
-      "heading": 23,
-      "vertRateMs": -3.9,
+      "lat": 52.3578,
+      "lon": 13.5204,
+      "altKm": 0.1,
+      "speedKmh": 241,
+      "heading": 248,
+      "vertRateMs": -3.2,
       "airline": "Iberia Airlines",
       "airlineCountry": "Spain",
       "fromCity": "Madrid",
@@ -20,12 +37,12 @@
     {
       "callsign": "RYR44PB",
       "country": "Ireland",
-      "lat": 52.2587,
-      "lon": 13.7165,
-      "altKm": 2.6,
-      "speedKmh": 496,
-      "heading": 55,
-      "vertRateMs": -4.9,
+      "lat": 52.4639,
+      "lon": 13.8885,
+      "altKm": 1.5,
+      "speedKmh": 399,
+      "heading": 246,
+      "vertRateMs": -5.2,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Porto",
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-22T21:05:23.665901Z"
+  "updated_at": "2026-09-22T21:10:28.969518Z"
 }
