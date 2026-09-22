@@ -8708,5 +8708,53 @@
   "DBIFM": {
     "route": null,
     "checked_at": "2026-09-22T12:40:27.914948Z"
+  },
+  "VANTA63": {
+    "route": null,
+    "checked_at": "2026-09-22T12:45:26.593680Z"
+  },
+  "EJU71KT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-22T12:45:26.593680Z"
+  },
+  "KLM1314": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-09-22T12:45:26.593680Z"
+  },
+  "MSR731": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-09-22T12:45:26.593680Z"
+  },
+  "RYR65YP": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T12:45:26.593680Z"
   }
 }
