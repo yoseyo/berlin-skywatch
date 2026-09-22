@@ -736,7 +736,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-21T15:00:51.714204Z"
+    "checked_at": "2026-09-22T14:00:51.762389Z"
   },
   "SKV112": {
     "route": null,
@@ -9155,5 +9155,35 @@
   "SME277": {
     "route": null,
     "checked_at": "2026-09-22T13:55:21.594520Z"
+  },
+  "CES244": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-22T14:00:51.762389Z"
+  },
+  "EUL3T": {
+    "route": null,
+    "checked_at": "2026-09-22T14:00:51.762389Z"
+  },
+  "EJU1765": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-22T14:00:51.762389Z"
+  },
+  "JEI525": {
+    "route": null,
+    "checked_at": "2026-09-22T14:00:51.762389Z"
   }
 }
