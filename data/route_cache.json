@@ -4109,5 +4109,27 @@
   "CAT9517": {
     "route": null,
     "checked_at": "2026-09-22T03:30:37.385698Z"
+  },
+  "BCS15N": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T03:35:22.662114Z"
+  },
+  "SWT3WZ": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiftair",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-22T03:35:22.662114Z"
   }
 }
