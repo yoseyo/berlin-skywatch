@@ -618,7 +618,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-09-21T14:45:27.356508Z"
+    "checked_at": "2026-09-22T06:50:30.093035Z"
   },
   "DLH192": {
     "route": {
@@ -5547,5 +5547,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-22T06:45:26.518929Z"
+  },
+  "LOT286": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-22T06:50:30.093035Z"
+  },
+  "LOT403": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-22T06:50:30.093035Z"
   }
 }
