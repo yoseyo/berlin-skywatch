@@ -407,7 +407,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-21T14:20:32.123123Z"
+    "checked_at": "2026-09-22T14:10:30.149062Z"
   },
   "RYR96EU": {
     "route": {
@@ -9212,5 +9212,38 @@
   "DFEPG": {
     "route": null,
     "checked_at": "2026-09-22T14:05:23.703765Z"
+  },
+  "EJU58DM": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-22T14:10:30.149062Z"
+  },
+  "RYR2RB": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T14:10:30.149062Z"
+  },
+  "RYR7547": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T14:10:30.149062Z"
   }
 }
