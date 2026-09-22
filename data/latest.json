@@ -1,38 +1,66 @@
 {
   "flights": [
     {
+      "callsign": "DFAFL",
+      "country": "Germany",
+      "lat": 52.2066,
+      "lon": 13.1777,
+      "altKm": 0.2,
+      "speedKmh": 170,
+      "heading": 256,
+      "vertRateMs": -3.6,
+      "category": "plane"
+    },
+    {
+      "callsign": "CFE27PM",
+      "country": "United Kingdom",
+      "lat": 52.5731,
+      "lon": 13.0138,
+      "altKm": 3.0,
+      "speedKmh": 528,
+      "heading": 93,
+      "vertRateMs": -2.3,
+      "airline": "BA CityFlyer",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "CHX49",
       "country": "Germany",
-      "lat": 52.1913,
-      "lon": 13.8264,
-      "altKm": 0.6,
-      "speedKmh": 222,
-      "heading": 238,
-      "vertRateMs": 1.0,
+      "lat": 52.1135,
+      "lon": 13.6202,
+      "altKm": 0.1,
+      "speedKmh": 33,
+      "heading": 27,
+      "vertRateMs": -2.3,
       "category": "heli"
+    },
+    {
+      "callsign": "OEXHY",
+      "country": "Austria",
+      "lat": 52.7472,
+      "lon": 13.7407,
+      "altKm": 0.2,
+      "speedKmh": 9,
+      "heading": 79,
+      "vertRateMs": -0.7,
+      "category": "plane"
     },
     {
       "callsign": "AWH92R",
       "country": "Germany",
-      "lat": 52.174,
-      "lon": 13.4987,
-      "altKm": 2.3,
-      "speedKmh": 385,
-      "heading": 53,
-      "vertRateMs": -10.1,
-      "category": "plane"
-    },
-    {
-      "callsign": "DCS601",
-      "country": "Germany",
-      "lat": 52.3776,
-      "lon": 13.5266,
-      "altKm": 0.1,
-      "speedKmh": 214,
-      "heading": 249,
-      "vertRateMs": -2.6,
+      "lat": 52.3729,
+      "lon": 13.5562,
+      "altKm": 0.3,
+      "speedKmh": 199,
+      "heading": 301,
+      "vertRateMs": -6.5,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-22T12:55:26.530698Z"
+  "updated_at": "2026-09-22T13:00:54.222513Z"
 }
