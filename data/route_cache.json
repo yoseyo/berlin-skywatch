@@ -1532,7 +1532,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-21T16:15:29.961212Z"
+    "checked_at": "2026-09-22T15:35:24.020021Z"
   },
   "WZZ3WR": {
     "route": {
@@ -9730,5 +9730,27 @@
   "VKG486": {
     "route": null,
     "checked_at": "2026-09-22T15:34:15.556003Z"
+  },
+  "LHX1RV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T15:35:24.020021Z"
+  },
+  "NOZ8BF": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-22T15:35:24.020021Z"
   }
 }
