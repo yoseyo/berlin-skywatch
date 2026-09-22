@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "SXS4VD",
+      "country": "Turkey",
+      "lat": 52.2383,
+      "lon": 14.072,
+      "altKm": 10.9,
+      "speedKmh": 1034,
+      "heading": 163,
+      "vertRateMs": 0,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4859,
-      "lon": 13.4181,
+      "lat": 52.4836,
+      "lon": 13.4076,
       "altKm": 0.8,
-      "speedKmh": 93,
-      "heading": 359,
-      "vertRateMs": 0.7,
+      "speedKmh": 73,
+      "heading": 100,
+      "vertRateMs": -0.7,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-09-21T23:55:21.736807Z"
+  "updated_at": "2026-09-22T00:05:25.532926Z"
 }
