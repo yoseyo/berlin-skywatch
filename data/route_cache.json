@@ -4690,5 +4690,27 @@
   "GAF600": {
     "route": null,
     "checked_at": "2026-09-22T05:10:27.621410Z"
+  },
+  "BTI89G": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-22T05:15:27.912334Z"
+  },
+  "EWG5QR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T05:15:27.912334Z"
   }
 }
