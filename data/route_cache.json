@@ -179,7 +179,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-21T14:00:50.143513Z"
+    "checked_at": "2026-09-22T15:20:34.244746Z"
   },
   "CSN6041": {
     "route": {
@@ -943,7 +943,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-21T15:15:26.976349Z"
+    "checked_at": "2026-09-22T15:20:34.244746Z"
   },
   "AFR64PU": {
     "route": {
@@ -954,7 +954,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-21T15:20:27.567427Z"
+    "checked_at": "2026-09-22T15:20:34.244746Z"
   },
   "RYR17UC": {
     "route": {
@@ -1031,7 +1031,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-21T15:30:44.731073Z"
+    "checked_at": "2026-09-22T15:20:34.244746Z"
   },
   "AUA233": {
     "route": {
@@ -9660,5 +9660,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-22T15:15:28.215483Z"
+  },
+  "SAS2963": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T15:20:34.244746Z"
+  },
+  "RYR1ZN": {
+    "route": {
+      "fromCity": "Killarney",
+      "fromIata": "KIR",
+      "toCity": "Frankfurt am Main",
+      "toIata": "HHN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T15:20:34.244746Z"
+  },
+  "WZZ93": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-22T15:20:34.244746Z"
   }
 }
