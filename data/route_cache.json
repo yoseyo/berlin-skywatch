@@ -49,7 +49,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-21T13:40:20.980099Z"
+    "checked_at": "2026-09-22T13:10:29.112525Z"
   },
   "MSC2961": {
     "route": {
@@ -8841,5 +8841,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-22T13:05:22.766362Z"
+  },
+  "SAS1678": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T13:10:29.112525Z"
+  },
+  "TKJ4ZV": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-22T13:10:29.112525Z"
+  },
+  "SWR9GE": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-22T13:10:29.112525Z"
+  },
+  "EWG7WB": {
+    "route": {
+      "fromCity": "Baden-Baden",
+      "fromIata": "FKB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T13:10:29.112525Z"
   }
 }
