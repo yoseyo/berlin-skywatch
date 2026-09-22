@@ -5046,5 +5046,35 @@
   "AWH92E": {
     "route": null,
     "checked_at": "2026-09-22T06:03:09.696610Z"
+  },
+  "OEGTX": {
+    "route": null,
+    "checked_at": "2026-09-22T06:05:22.720685Z"
+  },
+  "FIN1AB": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-22T06:05:22.720685Z"
+  },
+  "LOT4WE": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-22T06:05:22.720685Z"
+  },
+  "CHX35": {
+    "route": null,
+    "checked_at": "2026-09-22T06:05:22.720685Z"
   }
 }
