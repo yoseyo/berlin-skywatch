@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "CSH871",
-      "country": "China",
-      "lat": 52.4482,
-      "lon": 14.0396,
-      "altKm": 11.9,
-      "speedKmh": 1028,
-      "heading": 218,
-      "vertRateMs": 0.3,
-      "airline": "Shanghai Airlines",
-      "airlineCountry": "China",
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "category": "plane"
-    },
-    {
       "callsign": "SWT3WZ",
       "country": "Spain",
-      "lat": 52.4198,
-      "lon": 13.8332,
-      "altKm": 0.9,
-      "speedKmh": 322,
-      "heading": 340,
-      "vertRateMs": 0.3,
+      "lat": 52.3766,
+      "lon": 13.5225,
+      "altKm": 0.1,
+      "speedKmh": 249,
+      "heading": 249,
+      "vertRateMs": -3.6,
       "airline": "Swiftair",
       "airlineCountry": "Spain",
       "fromCity": "Paris",
@@ -33,7 +16,24 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "SDR70YK",
+      "country": "Germany",
+      "lat": 52.3194,
+      "lon": 13.2108,
+      "altKm": 2.2,
+      "speedKmh": 494,
+      "heading": 230,
+      "vertRateMs": 17.6,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-22T03:40:27.155190Z"
+  "updated_at": "2026-09-22T03:45:26.349033Z"
 }
