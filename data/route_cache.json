@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-09-21T13:40:20.980099Z"
+    "checked_at": "2026-09-22T04:50:28.682817Z"
   },
   "DLH3YM": {
     "route": {
@@ -4403,5 +4403,38 @@
   "HLF8816": {
     "route": null,
     "checked_at": "2026-09-22T04:45:26.243077Z"
+  },
+  "NSZ3390": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T04:50:28.682817Z"
+  },
+  "IBE07BZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-22T04:50:28.682817Z"
+  },
+  "DLH7FM": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T04:50:28.682817Z"
   }
 }
