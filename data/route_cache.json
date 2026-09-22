@@ -1451,7 +1451,7 @@
   },
   "EWG9QC": {
     "route": null,
-    "checked_at": "2026-09-21T16:10:28.587039Z"
+    "checked_at": "2026-09-22T20:00:48.997070Z"
   },
   "RYR28LA": {
     "route": {
@@ -3100,7 +3100,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-21T19:30:42.076410Z"
+    "checked_at": "2026-09-22T20:00:48.997070Z"
   },
   "EZS1590": {
     "route": {
@@ -10465,5 +10465,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-22T19:55:22.385520Z"
+  },
+  "NOZ1WC": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-22T20:00:48.997070Z"
+  },
+  "RYR24YX": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T20:00:48.997070Z"
   }
 }
