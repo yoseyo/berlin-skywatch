@@ -629,7 +629,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-21T14:45:27.356508Z"
+    "checked_at": "2026-09-22T14:45:27.805310Z"
   },
   "DLH7MR": {
     "route": {
@@ -784,7 +784,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-21T15:00:51.714204Z"
+    "checked_at": "2026-09-22T14:45:27.805310Z"
   },
   "DLH4HH": {
     "route": {
@@ -9422,5 +9422,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-22T14:40:29.646804Z"
+  },
+  "DLH2PM": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T14:45:27.805310Z"
+  },
+  "JTD675": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Zakynthos Island",
+      "toIata": "ZTH",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-22T14:45:27.805310Z"
+  },
+  "EWG1R": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T14:45:27.805310Z"
   }
 }
