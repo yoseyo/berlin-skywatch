@@ -9771,5 +9771,27 @@
   "MACOR": {
     "route": null,
     "checked_at": "2026-09-22T15:45:28.562637Z"
+  },
+  "SAS71T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T15:50:27.807541Z"
+  },
+  "RYR785N": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T15:50:27.807541Z"
   }
 }
