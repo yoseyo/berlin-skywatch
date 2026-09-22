@@ -1436,7 +1436,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-21T16:10:28.587039Z"
+    "checked_at": "2026-09-22T16:25:21.484150Z"
   },
   "RYR83CH": {
     "route": {
@@ -1602,7 +1602,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-21T16:20:27.610491Z"
+    "checked_at": "2026-09-22T16:25:21.484150Z"
   },
   "EJU5165": {
     "route": null,
@@ -2542,7 +2542,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-21T18:20:26.537542Z"
+    "checked_at": "2026-09-22T16:25:21.484150Z"
   },
   "ISR254": {
     "route": {
@@ -9882,5 +9882,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-22T16:20:29.713693Z"
+  },
+  "CSS102": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "SF Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-22T16:25:21.484150Z"
+  },
+  "EJM974": {
+    "route": null,
+    "checked_at": "2026-09-22T16:25:21.484150Z"
+  },
+  "LOT4TL": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-22T16:25:21.484150Z"
   }
 }
