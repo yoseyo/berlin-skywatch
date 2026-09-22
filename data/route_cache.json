@@ -928,7 +928,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-21T15:15:26.976349Z"
+    "checked_at": "2026-09-22T14:50:31.320601Z"
   },
   "OEKBE": {
     "route": null,
@@ -9455,5 +9455,46 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-22T14:45:27.805310Z"
+  },
+  "BTI3FL": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-22T14:50:31.320601Z"
+  },
+  "DLH896": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T14:50:31.320601Z"
+  },
+  "DCS604": {
+    "route": null,
+    "checked_at": "2026-09-22T14:50:31.320601Z"
+  },
+  "VOE9CC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-22T14:50:31.320601Z"
+  },
+  "HBJLH": {
+    "route": null,
+    "checked_at": "2026-09-22T14:50:31.320601Z"
   }
 }
