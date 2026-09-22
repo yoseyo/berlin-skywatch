@@ -2623,7 +2623,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-21T18:25:23.079698Z"
+    "checked_at": "2026-09-22T17:00:49.924434Z"
   },
   "TVF46LX": {
     "route": {
@@ -3647,7 +3647,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-21T20:30:39.058690Z"
+    "checked_at": "2026-09-22T17:00:49.924434Z"
   },
   "DLH4T": {
     "route": {
@@ -9968,5 +9968,38 @@
   "HRN431": {
     "route": null,
     "checked_at": "2026-09-22T16:55:23.111516Z"
+  },
+  "UAE61": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-09-22T17:00:49.924434Z"
+  },
+  "RYR42MY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T17:00:49.924434Z"
+  },
+  "SAS92D": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T17:00:49.924434Z"
   }
 }
