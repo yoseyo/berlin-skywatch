@@ -2428,7 +2428,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-21T18:05:23.949377Z"
+    "checked_at": "2026-09-22T18:45:27.020562Z"
   },
   "EWG7TA": {
     "route": {
@@ -2722,7 +2722,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-21T18:35:24.317935Z"
+    "checked_at": "2026-09-22T18:45:27.020562Z"
   },
   "EIN33T": {
     "route": {
@@ -10274,5 +10274,27 @@
   "SDR15NL": {
     "route": null,
     "checked_at": "2026-09-22T18:40:30.090773Z"
+  },
+  "CCA932": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-22T18:45:27.020562Z"
+  },
+  "THY91B": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-22T18:45:27.020562Z"
   }
 }
