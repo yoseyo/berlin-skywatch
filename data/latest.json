@@ -1,25 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.256,
-      "lon": 14.0936,
-      "altKm": 5.9,
-      "speedKmh": 441,
-      "heading": 68,
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.7096,
+      "lon": 13.78,
+      "altKm": 11.3,
+      "speedKmh": 929,
+      "heading": 213,
       "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
       "category": "plane"
     },
     {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.4759,
-      "lon": 12.7542,
-      "altKm": 3.6,
-      "speedKmh": 645,
-      "heading": 84,
-      "vertRateMs": -5.8,
+      "lat": 52.5241,
+      "lon": 13.4239,
+      "altKm": 2.5,
+      "speedKmh": 491,
+      "heading": 83,
+      "vertRateMs": -6.5,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -27,7 +33,29 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "CMB339",
+      "country": "United States",
+      "lat": 52.5997,
+      "lon": 13.6378,
+      "altKm": 11.6,
+      "speedKmh": 910,
+      "heading": 110,
+      "vertRateMs": -0.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "CAT9517",
+      "country": "Denmark",
+      "lat": 52.3185,
+      "lon": 13.4773,
+      "altKm": 11.3,
+      "speedKmh": 933,
+      "heading": 158,
+      "vertRateMs": 0,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-22T03:25:21.421973Z"
+  "updated_at": "2026-09-22T03:30:37.385698Z"
 }
