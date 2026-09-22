@@ -5330,5 +5330,27 @@
   "DIBCT": {
     "route": null,
     "checked_at": "2026-09-22T06:20:31.508867Z"
+  },
+  "WZZ84": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-22T06:25:23.114793Z"
+  },
+  "PGT820D": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-22T06:25:23.114793Z"
   }
 }
