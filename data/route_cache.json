@@ -7775,5 +7775,64 @@
   "FHM4724": {
     "route": null,
     "checked_at": "2026-09-22T10:50:27.672866Z"
+  },
+  "EJU93DL": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-22T10:55:21.911295Z"
+  },
+  "FIN50M": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-22T10:55:21.911295Z"
+  },
+  "DENUX": {
+    "route": null,
+    "checked_at": "2026-09-22T10:55:21.911295Z"
+  },
+  "NOZ1123": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-22T10:55:21.911295Z"
+  },
+  "DLH2HH": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T10:55:21.911295Z"
+  },
+  "SXS1CM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-22T10:55:21.911295Z"
   }
 }
