@@ -5591,5 +5591,53 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-22T06:55:22.327791Z"
+  },
+  "SAS767": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T07:00:47.265834Z"
+  },
+  "LHX5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T07:00:47.265834Z"
+  },
+  "OKBAL": {
+    "route": null,
+    "checked_at": "2026-09-22T07:00:47.265834Z"
+  },
+  "EJU1778": {
+    "route": {
+      "fromCity": "Marrakech",
+      "fromIata": "RAK",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-22T07:00:47.265834Z"
+  },
+  "DLH3TR": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T07:00:47.265834Z"
   }
 }
