@@ -8360,5 +8360,71 @@
   "DFKJM": {
     "route": null,
     "checked_at": "2026-09-22T12:00:48.156821Z"
+  },
+  "LHX1HL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T12:05:22.368917Z"
+  },
+  "AFR92ZN": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-22T12:05:22.368917Z"
+  },
+  "DLH9MH": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T12:05:22.368917Z"
+  },
+  "DLH2NE": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-22T12:05:22.368917Z"
+  },
+  "KLC21A": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "KLM Cityhopper",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-09-22T12:05:22.368917Z"
+  },
+  "UZB201": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-09-22T12:05:22.368917Z"
   }
 }
