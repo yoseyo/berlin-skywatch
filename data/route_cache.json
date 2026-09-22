@@ -7893,5 +7893,49 @@
   "LUA404Y": {
     "route": null,
     "checked_at": "2026-09-22T11:00:51.233757Z"
+  },
+  "AUA971": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-22T11:05:23.409455Z"
+  },
+  "TKJ2JY": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-22T11:05:23.409455Z"
+  },
+  "SAS1665": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T11:05:23.409455Z"
+  },
+  "RYR4384": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T11:05:23.409455Z"
   }
 }
