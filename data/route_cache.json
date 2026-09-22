@@ -418,7 +418,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-21T14:20:32.123123Z"
+    "checked_at": "2026-09-22T07:55:28.004515Z"
   },
   "CHX31": {
     "route": null,
@@ -6077,5 +6077,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-22T07:50:29.945162Z"
+  },
+  "AFR39SV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-22T07:55:28.004515Z"
+  },
+  "SWR44E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-22T07:55:28.004515Z"
   }
 }
