@@ -326,7 +326,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-21T14:15:28.148004Z"
+    "checked_at": "2026-09-22T14:56:18.654324Z"
   },
   "BTI629": {
     "route": {
@@ -1226,7 +1226,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-21T15:45:44.177852Z"
+    "checked_at": "2026-09-22T14:56:18.654324Z"
   },
   "MFX7624": {
     "route": null,
@@ -2307,7 +2307,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-21T17:45:28.556295Z"
+    "checked_at": "2026-09-22T14:56:18.654324Z"
   },
   "SDR11DL": {
     "route": {
@@ -9496,5 +9496,61 @@
   "HBJLH": {
     "route": null,
     "checked_at": "2026-09-22T14:50:31.320601Z"
+  },
+  "NOZ50H": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-22T14:56:18.654324Z"
+  },
+  "DEICO": {
+    "route": null,
+    "checked_at": "2026-09-22T14:56:18.654324Z"
+  },
+  "9ADWA": {
+    "route": null,
+    "checked_at": "2026-09-22T14:56:18.654324Z"
+  },
+  "UZB251": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-09-22T14:56:18.654324Z"
+  },
+  "EWG7DL": {
+    "route": null,
+    "checked_at": "2026-09-22T14:56:18.654324Z"
+  },
+  "RYR75VP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T14:56:18.654324Z"
+  },
+  "SAS82C": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-22T14:56:18.654324Z"
   }
 }
