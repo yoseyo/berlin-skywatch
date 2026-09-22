@@ -7749,5 +7749,31 @@
   "N60MK": {
     "route": null,
     "checked_at": "2026-09-22T10:45:28.115314Z"
+  },
+  "MGH262": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-22T10:50:27.672866Z"
+  },
+  "RYR17PM": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-22T10:50:27.672866Z"
+  },
+  "FHM4724": {
+    "route": null,
+    "checked_at": "2026-09-22T10:50:27.672866Z"
   }
 }
