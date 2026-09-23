@@ -1402,10 +1402,6 @@
     },
     "checked_at": "2026-09-23T06:30:39.004045Z"
   },
-  "GAF616": {
-    "route": null,
-    "checked_at": "2026-09-21T17:20:27.578798Z"
-  },
   "BTI6UN": {
     "route": {
       "fromCity": "Riga",
@@ -1485,7 +1481,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-22T17:25:24.565901Z"
+    "checked_at": "2026-09-23T17:20:28.386222Z"
   },
   "DLH9LC": {
     "route": {
@@ -12673,5 +12669,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-23T17:15:27.342931Z"
+  },
+  "BBG271": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Bluebird Airways (BZ)",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-23T17:20:28.386222Z"
+  },
+  "DLH6TP": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-23T17:20:28.386222Z"
+  },
+  "SXS8NM": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-23T17:20:28.386222Z"
   }
 }
