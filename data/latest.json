@@ -1,31 +1,25 @@
 {
   "flights": [
     {
-      "callsign": "ELY025",
+      "callsign": "ELY001",
       "country": "Israel",
-      "lat": 52.2867,
-      "lon": 12.9835,
-      "altKm": 11.9,
-      "speedKmh": 825,
-      "heading": 324,
-      "vertRateMs": 0.3,
-      "airline": "El Al Israel Airlines",
-      "airlineCountry": "Israel",
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "New York",
-      "toIata": "EWR",
+      "lat": 52.1053,
+      "lon": 13.0791,
+      "altKm": 10.7,
+      "speedKmh": 841,
+      "heading": 326,
+      "vertRateMs": -0.3,
       "category": "plane"
     },
     {
       "callsign": "RAM240S",
       "country": "Morocco",
-      "lat": 52.6582,
-      "lon": 12.7725,
+      "lat": 52.9293,
+      "lon": 13.6926,
       "altKm": 11.6,
-      "speedKmh": 832,
+      "speedKmh": 812,
       "heading": 64,
-      "vertRateMs": -0.3,
+      "vertRateMs": 0.3,
       "airline": "Royal Air Maroc",
       "airlineCountry": "Morocco",
       "fromCity": "Casablanca",
@@ -35,5 +29,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-23T01:45:28.395739Z"
+  "updated_at": "2026-09-23T01:50:27.999621Z"
 }
