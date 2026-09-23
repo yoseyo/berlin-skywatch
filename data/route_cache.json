@@ -1625,7 +1625,7 @@
   },
   "DEMOU": {
     "route": null,
-    "checked_at": "2026-09-21T16:25:22.757084Z"
+    "checked_at": "2026-09-23T12:10:27.811642Z"
   },
   "IBE07WR": {
     "route": {
@@ -8403,7 +8403,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T12:05:22.368917Z"
+    "checked_at": "2026-09-23T12:10:27.811642Z"
   },
   "KLC21A": {
     "route": {
@@ -8488,7 +8488,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-22T12:10:38.007720Z"
+    "checked_at": "2026-09-23T12:10:27.811642Z"
   },
   "THY6XB": {
     "route": {
@@ -8510,7 +8510,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-22T12:15:30.650590Z"
+    "checked_at": "2026-09-23T12:10:27.811642Z"
   },
   "CHX64": {
     "route": null,
@@ -8610,7 +8610,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-22T12:25:28.432602Z"
+    "checked_at": "2026-09-23T12:10:27.811642Z"
   },
   "FHM4723": {
     "route": null,
@@ -12577,5 +12577,31 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-23T12:05:22.299323Z"
+  },
+  "NSZ3740": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T12:10:27.811642Z"
+  },
+  "DFIRE": {
+    "route": null,
+    "checked_at": "2026-09-23T12:10:27.811642Z"
+  },
+  "SAS58M": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T12:10:27.811642Z"
   }
 }
