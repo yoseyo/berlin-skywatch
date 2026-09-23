@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-23T03:00:48.072154Z"
+  "flights": [
+    {
+      "callsign": "BCS5546",
+      "country": "Germany",
+      "lat": 52.1485,
+      "lon": 13.9056,
+      "altKm": 9.7,
+      "speedKmh": 827,
+      "heading": 61,
+      "vertRateMs": 1.3,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS9CG",
+      "country": "Ireland",
+      "lat": 52.4034,
+      "lon": 12.7662,
+      "altKm": 9.6,
+      "speedKmh": 796,
+      "heading": 22,
+      "vertRateMs": 8.4,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-23T03:05:22.275538Z"
 }
