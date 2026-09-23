@@ -5796,7 +5796,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T07:20:31.536686Z"
+    "checked_at": "2026-09-23T07:25:23.717359Z"
   },
   "DIPFM": {
     "route": null,
@@ -5874,7 +5874,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-22T07:30:40.231369Z"
+    "checked_at": "2026-09-23T07:25:23.717359Z"
   },
   "NSZ89C": {
     "route": {
@@ -11395,5 +11395,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-23T07:20:30.546289Z"
+  },
+  "WZZ3EA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-23T07:25:23.717359Z"
+  },
+  "SAS2517": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T07:25:23.717359Z"
   }
 }
