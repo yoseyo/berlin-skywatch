@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "CES5013",
+      "callsign": "CSN331",
       "country": "China",
-      "lat": 52.226,
-      "lon": 13.0675,
-      "altKm": 12.6,
-      "speedKmh": 909,
-      "heading": 194,
+      "lat": 52.4334,
+      "lon": 12.7811,
+      "altKm": 11.9,
+      "speedKmh": 930,
+      "heading": 226,
       "vertRateMs": 0,
-      "airline": "China Eastern Airlines",
+      "airline": "China Southern Airlines",
       "airlineCountry": "China",
-      "fromCity": "Xi'an",
-      "fromIata": "XIY",
-      "toCity": "Milan",
-      "toIata": "MXP",
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
+      "callsign": "SRR6228",
+      "country": "Denmark",
+      "lat": 52.4477,
+      "lon": 13.2443,
+      "altKm": 3.1,
+      "speedKmh": 484,
+      "heading": 76,
+      "vertRateMs": -6.8,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-23T03:15:26.826388Z"
+  "updated_at": "2026-09-23T03:20:29.280011Z"
 }
