@@ -843,7 +843,7 @@
   },
   "STQ555": {
     "route": null,
-    "checked_at": "2026-09-22T15:30:42.632504Z"
+    "checked_at": "2026-09-23T08:25:21.183961Z"
   },
   "CCA939": {
     "route": {
@@ -6410,7 +6410,7 @@
   },
   "WUK7BU": {
     "route": null,
-    "checked_at": "2026-09-22T08:35:22.827537Z"
+    "checked_at": "2026-09-23T08:25:21.183961Z"
   },
   "TVS19J": {
     "route": {
@@ -11558,5 +11558,49 @@
   "GAF635": {
     "route": null,
     "checked_at": "2026-09-23T08:20:29.268467Z"
+  },
+  "TSC418": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-09-23T08:25:21.183961Z"
+  },
+  "NOZ1943": {
+    "route": {
+      "fromCity": "Pula",
+      "fromIata": "PUY",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-23T08:25:21.183961Z"
+  },
+  "SXS6WA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dalaman",
+      "toIata": "DLM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-23T08:25:21.183961Z"
+  },
+  "CSN467": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-23T08:25:21.183961Z"
   }
 }
