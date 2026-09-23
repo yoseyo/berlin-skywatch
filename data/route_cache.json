@@ -1001,10 +1001,6 @@
     },
     "checked_at": "2026-09-22T16:45:28.954297Z"
   },
-  "GAF626": {
-    "route": null,
-    "checked_at": "2026-09-21T16:30:40.270947Z"
-  },
   "PGT49PK": {
     "route": {
       "fromCity": "Pendik, Istanbul",
@@ -1016,17 +1012,6 @@
     },
     "checked_at": "2026-09-23T16:20:32.197125Z"
   },
-  "RYR86NA": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-21T16:35:22.143596Z"
-  },
   "AFR99GT": {
     "route": {
       "fromCity": "Berlin",
@@ -1036,7 +1021,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-22T16:35:23.219569Z"
+    "checked_at": "2026-09-23T16:35:23.260023Z"
   },
   "LBT232": {
     "route": {
@@ -1147,7 +1132,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T16:40:28.856593Z"
+    "checked_at": "2026-09-23T16:35:23.260023Z"
   },
   "AUA99HC": {
     "route": {
@@ -12644,5 +12629,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-23T16:30:40.198706Z"
+  },
+  "TKJ9HJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-23T16:35:23.260023Z"
+  },
+  "CXI8E": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Nuremberg",
+      "toIata": "NUE",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-23T16:35:23.260023Z"
   }
 }
