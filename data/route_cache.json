@@ -3276,7 +3276,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T16:05:23.956984Z"
+    "checked_at": "2026-09-23T12:15:26.836304Z"
   },
   "BEL1ZK": {
     "route": {
@@ -8370,7 +8370,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T12:05:22.368917Z"
+    "checked_at": "2026-09-23T12:15:26.836304Z"
   },
   "AFR92ZN": {
     "route": {
@@ -8540,7 +8540,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T12:20:29.011423Z"
+    "checked_at": "2026-09-23T12:15:26.836304Z"
   },
   "SXS678": {
     "route": {
@@ -8703,7 +8703,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T12:40:27.914948Z"
+    "checked_at": "2026-09-23T12:15:26.836304Z"
   },
   "DBIFM": {
     "route": null,
@@ -12603,5 +12603,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-23T12:10:27.811642Z"
+  },
+  "NOZ6RE": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-23T12:15:26.836304Z"
+  },
+  "SXS5DW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-23T12:15:26.836304Z"
+  },
+  "SAS2518": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T12:15:26.836304Z"
   }
 }
