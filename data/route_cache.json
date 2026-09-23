@@ -1740,17 +1740,6 @@
     },
     "checked_at": "2026-09-23T14:35:22.373041Z"
   },
-  "TVF46LX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Nantes",
-      "toIata": "NTE",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-21T18:25:23.079698Z"
-  },
   "EJU17TX": {
     "route": {
       "fromCity": "Berlin",
@@ -12694,5 +12683,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-23T18:20:29.272611Z"
+  },
+  "NSZ2067": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T18:25:23.151612Z"
   }
 }
