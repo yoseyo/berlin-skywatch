@@ -1,22 +1,29 @@
 {
   "flights": [
     {
-      "callsign": "WZZ636Z",
-      "country": "Malta",
-      "lat": 52.7436,
-      "lon": 13.9867,
-      "altKm": 10.2,
-      "speedKmh": 809,
-      "heading": 130,
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.8306,
+      "lon": 12.8917,
+      "altKm": 0.7,
+      "speedKmh": 236,
+      "heading": 136,
       "vertRateMs": 0,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "Reykjav\u00edk",
-      "fromIata": "KEF",
-      "toCity": "Katowice",
-      "toIata": "KTW",
+      "category": "plane"
+    },
+    {
+      "callsign": "EZY63GU",
+      "country": "United Kingdom",
+      "lat": 52.2566,
+      "lon": 13.2767,
+      "altKm": 2.7,
+      "speedKmh": 480,
+      "heading": 267,
+      "vertRateMs": 9.4,
+      "airline": "easyJet",
+      "airlineCountry": "United Kingdom",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-23T22:25:21.761081Z"
+  "updated_at": "2026-09-23T22:30:37.947383Z"
 }
