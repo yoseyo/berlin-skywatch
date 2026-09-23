@@ -2604,7 +2604,7 @@
       "airlineName": "Star Air",
       "airlineCountry": "Denmark"
     },
-    "checked_at": "2026-09-22T21:10:28.969518Z"
+    "checked_at": "2026-09-23T21:20:28.980960Z"
   },
   "EJU96BD": {
     "route": {
@@ -12739,5 +12739,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-23T21:05:21.293835Z"
+  },
+  "NSZ7DE": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T21:20:28.980960Z"
+  },
+  "DLH1960": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-23T21:20:28.980960Z"
+  },
+  "RYR30TE": {
+    "route": {
+      "fromCity": "Zemunik (Zadar)",
+      "fromIata": "ZAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-23T21:20:28.980960Z"
   }
 }
