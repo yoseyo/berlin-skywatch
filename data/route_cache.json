@@ -1205,7 +1205,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T16:55:23.111516Z"
+    "checked_at": "2026-09-23T17:05:23.008850Z"
   },
   "AUA99R": {
     "route": {
@@ -1233,28 +1233,6 @@
     "route": null,
     "checked_at": "2026-09-23T16:15:27.346769Z"
   },
-  "FIN33A": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-21T17:00:51.954284Z"
-  },
-  "TVF51KY": {
-    "route": {
-      "fromCity": "Nantes",
-      "fromIata": "NTE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-21T17:00:51.954284Z"
-  },
   "DLH3X": {
     "route": {
       "fromCity": "Munich",
@@ -1269,17 +1247,6 @@
   "AFR17RZ": {
     "route": null,
     "checked_at": "2026-09-22T16:55:23.111516Z"
-  },
-  "BBG271": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-09-21T17:05:22.125633Z"
   },
   "BEL9PY": {
     "route": {
@@ -8383,7 +8350,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T13:40:31.780902Z"
+    "checked_at": "2026-09-23T17:05:23.008850Z"
   },
   "CFG7WJ": {
     "route": {
@@ -12636,5 +12603,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-23T16:45:27.649603Z"
+  },
+  "EJU5017": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-23T17:05:23.008850Z"
+  },
+  "RYR5SB": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Santiago de Compostela",
+      "toIata": "SCQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-23T17:05:23.008850Z"
   }
 }
