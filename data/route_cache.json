@@ -2082,7 +2082,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T17:15:26.714174Z"
+    "checked_at": "2026-09-23T12:05:22.299323Z"
   },
   "SWR1PF": {
     "route": {
@@ -8355,7 +8355,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-22T12:00:48.156821Z"
+    "checked_at": "2026-09-23T12:05:22.299323Z"
   },
   "DFKJM": {
     "route": null,
@@ -8458,7 +8458,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-22T12:10:38.007720Z"
+    "checked_at": "2026-09-23T12:05:22.299323Z"
   },
   "N136SA": {
     "route": null,
@@ -12544,5 +12544,38 @@
   "HBJLE": {
     "route": null,
     "checked_at": "2026-09-23T12:00:49.787042Z"
+  },
+  "WZZ334": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-23T12:05:22.299323Z"
+  },
+  "AUA977F": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-23T12:05:22.299323Z"
+  },
+  "CHH490": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-23T12:05:22.299323Z"
   }
 }
