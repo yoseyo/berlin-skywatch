@@ -97,7 +97,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-21T13:47:10.419356Z"
+    "checked_at": "2026-09-23T13:35:21.773613Z"
   },
   "TVF875M": {
     "route": {
@@ -9054,7 +9054,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T13:35:23.434751Z"
+    "checked_at": "2026-09-23T13:35:21.773613Z"
   },
   "RYR103K": {
     "route": {
@@ -12871,5 +12871,31 @@
   "AAO52": {
     "route": null,
     "checked_at": "2026-09-23T13:30:42.215311Z"
+  },
+  "CFG5FE": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-23T13:35:21.773613Z"
+  },
+  "KLM44E": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-09-23T13:35:21.773613Z"
+  },
+  "DCS605": {
+    "route": null,
+    "checked_at": "2026-09-23T13:35:21.773613Z"
   }
 }
