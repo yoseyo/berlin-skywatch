@@ -653,7 +653,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-22T15:45:28.562637Z"
+    "checked_at": "2026-09-23T15:55:24.477493Z"
   },
   "AUA978": {
     "route": {
@@ -846,17 +846,6 @@
     },
     "checked_at": "2026-09-22T15:55:25.113243Z"
   },
-  "EWG41W": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-21T15:55:22.924665Z"
-  },
   "JTD743": {
     "route": {
       "fromCity": "Malm\u00f6",
@@ -958,7 +947,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-22T16:25:21.484150Z"
+    "checked_at": "2026-09-23T15:55:24.477493Z"
   },
   "RYR83CH": {
     "route": {
@@ -1254,7 +1243,7 @@
   },
   "WZZ98RS": {
     "route": null,
-    "checked_at": "2026-09-22T16:35:23.219569Z"
+    "checked_at": "2026-09-23T15:55:24.477493Z"
   },
   "JFA51D": {
     "route": null,
@@ -7528,7 +7517,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T11:15:31.251602Z"
+    "checked_at": "2026-09-23T15:55:24.477493Z"
   },
   "BID21A": {
     "route": null,
@@ -9314,7 +9303,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T15:50:27.807541Z"
+    "checked_at": "2026-09-23T15:55:24.477493Z"
   },
   "CCA973": {
     "route": {
@@ -12710,5 +12699,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-23T15:40:29.724847Z"
+  },
+  "RJA138": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Amman",
+      "toIata": "AMM",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-09-23T15:55:24.477493Z"
+  },
+  "WZZ691": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-23T15:55:24.477493Z"
   }
 }
