@@ -84,28 +84,6 @@
     },
     "checked_at": "2026-09-23T13:35:21.773613Z"
   },
-  "TVF875M": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-21T13:50:31.742789Z"
-  },
-  "SEH875": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-09-21T13:50:31.742789Z"
-  },
   "RYR9TY": {
     "route": {
       "fromCity": "London",
@@ -121,13 +99,9 @@
     "route": null,
     "checked_at": "2026-09-22T09:05:21.810863Z"
   },
-  "DEVMA": {
-    "route": null,
-    "checked_at": "2026-09-21T13:50:31.742789Z"
-  },
   "PGT685B": {
     "route": null,
-    "checked_at": "2026-09-22T13:50:30.739697Z"
+    "checked_at": "2026-09-23T13:55:21.308779Z"
   },
   "CFE93AU": {
     "route": {
@@ -6804,7 +6778,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T09:05:21.810863Z"
+    "checked_at": "2026-09-23T13:55:21.308779Z"
   },
   "NSZ4505": {
     "route": {
@@ -12919,5 +12893,16 @@
   "NJE489H": {
     "route": null,
     "checked_at": "2026-09-23T13:50:27.887323Z"
+  },
+  "LZB319": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Bulgaria Air",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-09-23T13:55:21.308779Z"
   }
 }
