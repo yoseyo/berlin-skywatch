@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-23T23:00:46.572215Z"
+  "flights": [
+    {
+      "callsign": "VKG169",
+      "country": "Denmark",
+      "lat": 52.1318,
+      "lon": 13.9584,
+      "altKm": 11.1,
+      "speedKmh": 845,
+      "heading": 345,
+      "vertRateMs": 0,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-23T23:05:25.677438Z"
 }
