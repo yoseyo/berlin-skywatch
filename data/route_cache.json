@@ -212,7 +212,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T11:10:29.362065Z"
+    "checked_at": "2026-09-23T10:40:32.621487Z"
   },
   "SDR41KM": {
     "route": {
@@ -7744,7 +7744,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T10:45:28.115314Z"
+    "checked_at": "2026-09-23T10:40:32.621487Z"
   },
   "N60MK": {
     "route": null,
@@ -7833,7 +7833,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-22T10:55:21.911295Z"
+    "checked_at": "2026-09-23T10:40:32.621487Z"
   },
   "VOE455": {
     "route": {
@@ -9896,7 +9896,7 @@
   },
   "EJM974": {
     "route": null,
-    "checked_at": "2026-09-22T16:25:21.484150Z"
+    "checked_at": "2026-09-23T10:40:32.621487Z"
   },
   "LOT4TL": {
     "route": {
@@ -12122,5 +12122,27 @@
   "DEADX": {
     "route": null,
     "checked_at": "2026-09-23T10:35:24.356131Z"
+  },
+  "UAE216": {
+    "route": {
+      "fromCity": "Los Angeles",
+      "fromIata": "LAX",
+      "toCity": "Dubai",
+      "toIata": "DXB",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-09-23T10:40:32.621487Z"
+  },
+  "RYR91SP": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-23T10:40:32.621487Z"
   }
 }
