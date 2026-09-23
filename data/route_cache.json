@@ -1602,7 +1602,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T18:00:49.728213Z"
+    "checked_at": "2026-09-23T18:00:49.462332Z"
   },
   "DLH1XN": {
     "route": {
@@ -12742,5 +12742,27 @@
   "KMM376": {
     "route": null,
     "checked_at": "2026-09-23T17:55:31.225607Z"
+  },
+  "ELY011": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-09-23T18:00:49.462332Z"
+  },
+  "SDR15XL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T18:00:49.462332Z"
   }
 }
