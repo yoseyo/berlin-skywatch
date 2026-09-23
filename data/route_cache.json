@@ -348,7 +348,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-21T14:15:28.148004Z"
+    "checked_at": "2026-09-23T11:40:28.163273Z"
   },
   "SAS2736": {
     "route": {
@@ -8179,7 +8179,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-22T11:40:29.870174Z"
+    "checked_at": "2026-09-23T11:40:28.163273Z"
   },
   "RYR5VH": {
     "route": {
@@ -8234,7 +8234,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T11:45:28.645116Z"
+    "checked_at": "2026-09-23T11:40:28.163273Z"
   },
   "SAS2832": {
     "route": {
@@ -8256,7 +8256,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-22T11:45:28.645116Z"
+    "checked_at": "2026-09-23T11:40:28.163273Z"
   },
   "THY8TV": {
     "route": {
@@ -8447,7 +8447,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-22T12:10:38.007720Z"
+    "checked_at": "2026-09-23T11:40:28.163273Z"
   },
   "WMT1RH": {
     "route": {
@@ -12429,5 +12429,38 @@
   "EZY94NJ": {
     "route": null,
     "checked_at": "2026-09-23T11:35:23.743634Z"
+  },
+  "EJU9048": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Nantes",
+      "toIata": "NTE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-23T11:40:28.163273Z"
+  },
+  "NSZ3749": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T11:40:28.163273Z"
+  },
+  "BAW990G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-23T11:40:28.163273Z"
   }
 }
