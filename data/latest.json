@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "AEG6912",
+      "country": "Estonia",
+      "lat": 52.2198,
+      "lon": 13.9149,
+      "altKm": 6.0,
+      "speedKmh": 449,
+      "heading": 68,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.5389,
-      "lon": 13.8172,
-      "altKm": 1.6,
-      "speedKmh": 470,
-      "heading": 76,
-      "vertRateMs": -5.2,
+      "lat": 52.3991,
+      "lon": 13.6176,
+      "altKm": 0.5,
+      "speedKmh": 240,
+      "heading": 249,
+      "vertRateMs": -3.6,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -18,5 +29,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-23T03:25:25.094862Z"
+  "updated_at": "2026-09-23T03:30:39.829652Z"
 }
