@@ -3603,7 +3603,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-21T20:30:39.058690Z"
+    "checked_at": "2026-09-23T10:30:37.774130Z"
   },
   "EJU15BJ": {
     "route": {
@@ -7700,7 +7700,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T10:35:20.817764Z"
+    "checked_at": "2026-09-23T10:30:37.774130Z"
   },
   "ICE14T": {
     "route": {
@@ -12103,5 +12103,20 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-23T10:25:22.710115Z"
+  },
+  "WZZ1014": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-23T10:30:37.774130Z"
+  },
+  "BAG11": {
+    "route": null,
+    "checked_at": "2026-09-23T10:30:37.774130Z"
   }
 }
