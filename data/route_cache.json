@@ -5292,7 +5292,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T06:20:31.508867Z"
+    "checked_at": "2026-09-23T08:55:20.632630Z"
   },
   "CFG3LK": {
     "route": {
@@ -6065,7 +6065,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-22T07:50:29.945162Z"
+    "checked_at": "2026-09-23T08:55:20.632630Z"
   },
   "RYR7JF": {
     "route": {
@@ -6616,7 +6616,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-22T08:55:21.919843Z"
+    "checked_at": "2026-09-23T08:55:20.632630Z"
   },
   "DMSHJ": {
     "route": null,
@@ -6856,7 +6856,7 @@
   },
   "VLG6JY": {
     "route": null,
-    "checked_at": "2026-09-22T09:10:27.144581Z"
+    "checked_at": "2026-09-23T08:55:20.632630Z"
   },
   "TKJ9PR": {
     "route": {
@@ -11680,5 +11680,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-23T08:45:28.722495Z"
+  },
+  "EJU32EY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-23T08:55:20.632630Z"
+  },
+  "AIB253A": {
+    "route": {
+      "fromCity": "Tornesch",
+      "fromIata": null,
+      "toCity": "Hamburg",
+      "toIata": "XFW",
+      "airlineName": "Airbus Industrie",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-23T08:55:20.632630Z"
+  },
+  "CFG1RV": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-23T08:55:20.632630Z"
   }
 }
