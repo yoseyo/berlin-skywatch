@@ -325,7 +325,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T04:40:29.067066Z"
+    "checked_at": "2026-09-23T16:20:32.197125Z"
   },
   "SAS49N": {
     "route": {
@@ -756,7 +756,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-22T16:00:59.055563Z"
+    "checked_at": "2026-09-23T16:20:32.197125Z"
   },
   "TAP53ED": {
     "route": {
@@ -905,17 +905,6 @@
     },
     "checked_at": "2026-09-23T14:30:38.747542Z"
   },
-  "SAS7743": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Ioannina",
-      "toIata": "IOA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-21T16:15:29.961212Z"
-  },
   "FIN9YA": {
     "route": {
       "fromCity": "Berlin",
@@ -927,17 +916,6 @@
     },
     "checked_at": "2026-09-23T16:15:27.346769Z"
   },
-  "DAH2072": {
-    "route": {
-      "fromCity": "Algiers",
-      "fromIata": "ALG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Algerie",
-      "airlineCountry": "Algeria"
-    },
-    "checked_at": "2026-09-21T16:15:29.961212Z"
-  },
   "DLH4MA": {
     "route": {
       "fromCity": "Krak\u00f3w",
@@ -947,11 +925,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T16:15:45.342254Z"
-  },
-  "AWH91A": {
-    "route": null,
-    "checked_at": "2026-09-21T16:15:29.961212Z"
+    "checked_at": "2026-09-23T16:20:32.197125Z"
   },
   "RYR44BG": {
     "route": {
@@ -975,50 +949,6 @@
     },
     "checked_at": "2026-09-23T15:50:28.770694Z"
   },
-  "WZZ3WR": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-21T16:15:29.961212Z"
-  },
-  "EJU92MK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-21T16:20:27.610491Z"
-  },
-  "EZY3162": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paisley, Renfrewshire",
-      "toIata": "GLA",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-21T16:20:27.610491Z"
-  },
-  "CKK216": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-21T16:20:27.610491Z"
-  },
   "RYR2SW": {
     "route": {
       "fromCity": "Ibiza",
@@ -1029,10 +959,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-22T15:00:56.518236Z"
-  },
-  "PVD435J": {
-    "route": null,
-    "checked_at": "2026-09-21T16:20:27.610491Z"
   },
   "WZZ2706": {
     "route": {
@@ -1092,7 +1018,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-22T16:45:28.954297Z"
+    "checked_at": "2026-09-23T16:20:32.197125Z"
   },
   "RYR86NA": {
     "route": {
@@ -1641,7 +1567,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-22T16:30:42.907954Z"
+    "checked_at": "2026-09-23T16:20:32.197125Z"
   },
   "LOT3KT": {
     "route": {
@@ -12696,5 +12622,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-23T16:15:27.346769Z"
+  },
+  "THY81D": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Boston",
+      "toIata": "BOS",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-23T16:20:32.197125Z"
+  },
+  "DMSVV": {
+    "route": null,
+    "checked_at": "2026-09-23T16:20:32.197125Z"
   }
 }
