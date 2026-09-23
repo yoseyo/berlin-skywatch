@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "ELY027",
+      "country": "Israel",
+      "lat": 52.5156,
+      "lon": 12.8598,
+      "altKm": 11.9,
+      "speedKmh": 835,
+      "heading": 323,
+      "vertRateMs": -0.3,
+      "airline": "El Al Israel Airlines",
+      "airlineCountry": "Israel",
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "category": "plane"
+    },
+    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.5798,
-      "lon": 14.0143,
-      "altKm": 1.9,
-      "speedKmh": 511,
-      "heading": 215,
-      "vertRateMs": -8.1,
+      "lat": 52.3857,
+      "lon": 13.6385,
+      "altKm": 0.5,
+      "speedKmh": 296,
+      "heading": 249,
+      "vertRateMs": -4.5,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -16,7 +33,24 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "EWG7WB",
+      "country": "Germany",
+      "lat": 52.2397,
+      "lon": 13.2441,
+      "altKm": 2.1,
+      "speedKmh": 531,
+      "heading": 246,
+      "vertRateMs": 14.0,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Baden-Baden",
+      "fromIata": "FKB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-23T03:55:23.217059Z"
+  "updated_at": "2026-09-23T04:00:48.131948Z"
 }
