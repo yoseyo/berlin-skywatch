@@ -5399,7 +5399,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-22T06:35:24.202579Z"
+    "checked_at": "2026-09-23T06:40:29.314831Z"
   },
   "ASL94D": {
     "route": {
@@ -5425,7 +5425,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-22T06:35:24.202579Z"
+    "checked_at": "2026-09-23T06:40:29.314831Z"
   },
   "LOT1VZ": {
     "route": {
@@ -5480,7 +5480,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-22T06:45:26.518929Z"
+    "checked_at": "2026-09-23T06:40:29.314831Z"
   },
   "THY1LZ": {
     "route": {
@@ -11239,5 +11239,20 @@
   "NJE300M": {
     "route": null,
     "checked_at": "2026-09-23T06:30:39.004045Z"
+  },
+  "BEL5HW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-09-23T06:40:29.314831Z"
+  },
+  "OKBII": {
+    "route": null,
+    "checked_at": "2026-09-23T06:40:29.314831Z"
   }
 }
