@@ -1,33 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "CHX82",
-      "country": "Germany",
-      "lat": 52.717,
-      "lon": 13.0761,
-      "altKm": 0.7,
-      "speedKmh": 233,
-      "heading": 136,
-      "vertRateMs": 0,
+      "callsign": "PGT1604",
+      "country": "Turkey",
+      "lat": 52.2027,
+      "lon": 13.3839,
+      "altKm": 3.6,
+      "speedKmh": 580,
+      "heading": 95,
+      "vertRateMs": 7.5,
+      "airline": "Pegasus Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
       "category": "plane"
     },
     {
-      "callsign": "LGL74BE",
-      "country": "Luxembourg",
-      "lat": 52.2855,
-      "lon": 13.1926,
-      "altKm": 2.7,
-      "speedKmh": 441,
-      "heading": 243,
-      "vertRateMs": 7.5,
-      "airline": "Luxair",
-      "airlineCountry": "Luxembourg",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.5851,
+      "lon": 13.2884,
+      "altKm": 0.6,
+      "speedKmh": 248,
+      "heading": 136,
+      "vertRateMs": -2.3,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-23T22:35:23.803825Z"
+  "updated_at": "2026-09-23T22:40:27.847153Z"
 }

@@ -2628,17 +2628,6 @@
     },
     "checked_at": "2026-09-23T21:00:48.316819Z"
   },
-  "WZZ10LV": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-21T22:40:25.589034Z"
-  },
   "BPOBER": {
     "route": null,
     "checked_at": "2026-09-23T16:10:30.274958Z"
@@ -12779,5 +12768,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-23T22:25:21.761081Z"
+  },
+  "PGT1604": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-23T22:40:27.847153Z"
   }
 }
