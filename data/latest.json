@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-23T22:20:27.641801Z"
+  "flights": [
+    {
+      "callsign": "WZZ636Z",
+      "country": "Malta",
+      "lat": 52.7436,
+      "lon": 13.9867,
+      "altKm": 10.2,
+      "speedKmh": 809,
+      "heading": 130,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-23T22:25:21.761081Z"
 }
