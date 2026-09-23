@@ -7235,7 +7235,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-09-22T09:40:28.599827Z"
+    "checked_at": "2026-09-23T09:55:22.905343Z"
   },
   "SDR14ML": {
     "route": null,
@@ -7571,7 +7571,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-09-22T10:20:30.267808Z"
+    "checked_at": "2026-09-23T09:55:22.905343Z"
   },
   "EJU7082": {
     "route": null,
@@ -11925,5 +11925,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-23T09:50:29.471224Z"
+  },
+  "SDR14YL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T09:55:22.905343Z"
   }
 }
