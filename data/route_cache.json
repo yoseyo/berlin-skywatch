@@ -2307,7 +2307,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T14:56:18.654324Z"
+    "checked_at": "2026-09-23T10:25:22.710115Z"
   },
   "SDR11DL": {
     "route": {
@@ -7180,7 +7180,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-09-22T09:35:21.967542Z"
+    "checked_at": "2026-09-23T10:25:22.710115Z"
   },
   "EJU5261": {
     "route": {
@@ -7357,7 +7357,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T09:55:23.496374Z"
+    "checked_at": "2026-09-23T10:25:22.710115Z"
   },
   "DCS601": {
     "route": null,
@@ -7866,7 +7866,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-22T11:00:51.233757Z"
+    "checked_at": "2026-09-23T10:25:22.710115Z"
   },
   "LHX2T": {
     "route": {
@@ -9529,7 +9529,7 @@
   },
   "EWG7DL": {
     "route": null,
-    "checked_at": "2026-09-22T14:56:18.654324Z"
+    "checked_at": "2026-09-23T10:25:22.710115Z"
   },
   "RYR75VP": {
     "route": {
@@ -12059,5 +12059,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-23T10:20:30.257672Z"
+  },
+  "BTI3BP": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-23T10:25:22.710115Z"
+  },
+  "NOZ6TY": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-23T10:25:22.710115Z"
+  },
+  "EJU92LR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-23T10:25:22.710115Z"
+  },
+  "SXS9RW": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-23T10:25:22.710115Z"
   }
 }
