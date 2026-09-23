@@ -1245,7 +1245,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T20:40:28.813933Z"
+    "checked_at": "2026-09-23T10:55:23.230001Z"
   },
   "BTI9AG": {
     "route": {
@@ -6882,7 +6882,7 @@
   },
   "ABF8": {
     "route": null,
-    "checked_at": "2026-09-22T09:10:27.144581Z"
+    "checked_at": "2026-09-23T10:55:23.230001Z"
   },
   "EWG4EH": {
     "route": {
@@ -7822,7 +7822,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T10:55:21.911295Z"
+    "checked_at": "2026-09-23T10:55:23.230001Z"
   },
   "SXS1CM": {
     "route": {
@@ -7877,7 +7877,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T11:00:51.233757Z"
+    "checked_at": "2026-09-23T10:55:23.230001Z"
   },
   "AFR12DD": {
     "route": {
@@ -12207,5 +12207,49 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-23T10:45:26.175759Z"
+  },
+  "NOZ1911": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-23T10:55:23.230001Z"
+  },
+  "UAE59": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-09-23T10:55:23.230001Z"
+  },
+  "RYR36RH": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-23T10:55:23.230001Z"
+  },
+  "SDR33TS": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-23T10:55:23.230001Z"
   }
 }
