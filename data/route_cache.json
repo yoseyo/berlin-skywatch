@@ -1980,7 +1980,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T19:15:28.671797Z"
+    "checked_at": "2026-09-23T19:30:38.114767Z"
   },
   "AEE82B": {
     "route": {
@@ -2002,7 +2002,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-22T19:35:24.566851Z"
+    "checked_at": "2026-09-23T19:30:38.114767Z"
   },
   "SXS6XP": {
     "route": {
@@ -2026,17 +2026,6 @@
     },
     "checked_at": "2026-09-23T18:50:29.263958Z"
   },
-  "NSZ4508": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-21T19:25:23.963681Z"
-  },
   "LOT285": {
     "route": {
       "fromCity": "Warsaw",
@@ -2046,7 +2035,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-22T19:20:28.460180Z"
+    "checked_at": "2026-09-23T19:30:38.114767Z"
   },
   "RUK1145": {
     "route": {
@@ -2178,7 +2167,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T19:40:31.277929Z"
+    "checked_at": "2026-09-23T19:30:38.114767Z"
   },
   "RYR9SW": {
     "route": {
@@ -9384,7 +9373,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-22T19:15:28.671797Z"
+    "checked_at": "2026-09-23T19:30:38.114767Z"
   },
   "WZZ340K": {
     "route": {
@@ -12746,5 +12735,38 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-23T19:20:29.185156Z"
+  },
+  "CFG1CD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-23T19:30:38.114767Z"
+  },
+  "LOT6MB": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-23T19:30:38.114767Z"
+  },
+  "RYR55HD": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-23T19:30:38.114767Z"
   }
 }
