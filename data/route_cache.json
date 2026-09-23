@@ -8021,7 +8021,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T11:20:32.107656Z"
+    "checked_at": "2026-09-23T11:05:24.983536Z"
   },
   "DLH1YY": {
     "route": {
@@ -12262,5 +12262,71 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-23T11:00:48.973310Z"
+  },
+  "BEL9CK": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-09-23T11:05:24.983536Z"
+  },
+  "NOZ1104": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-23T11:05:24.983536Z"
+  },
+  "NOZ9047": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-23T11:05:24.983536Z"
+  },
+  "SWR5VH": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-23T11:05:24.983536Z"
+  },
+  "RYR4TR": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-23T11:05:24.983536Z"
+  },
+  "EWG1CN": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-23T11:05:24.983536Z"
   }
 }
