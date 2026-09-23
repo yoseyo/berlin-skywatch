@@ -49,7 +49,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-22T13:10:29.112525Z"
+    "checked_at": "2026-09-23T12:50:30.514097Z"
   },
   "MSC2961": {
     "route": {
@@ -8722,7 +8722,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T12:45:26.593680Z"
+    "checked_at": "2026-09-23T12:50:30.514097Z"
   },
   "KLM1314": {
     "route": {
@@ -12726,5 +12726,24 @@
   "OYGST": {
     "route": null,
     "checked_at": "2026-09-23T12:45:27.312414Z"
+  },
+  "STLON28": {
+    "route": null,
+    "checked_at": "2026-09-23T12:50:30.514097Z"
+  },
+  "DINNA": {
+    "route": null,
+    "checked_at": "2026-09-23T12:50:30.514097Z"
+  },
+  "EWG9L": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-23T12:50:30.514097Z"
   }
 }
