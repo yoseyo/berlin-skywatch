@@ -2090,7 +2090,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-22T20:00:48.997070Z"
+    "checked_at": "2026-09-23T20:35:22.506977Z"
   },
   "EJU57LY": {
     "route": {
@@ -2469,17 +2469,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-09-23T20:20:29.282683Z"
-  },
-  "EWG4J": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-21T20:35:21.433984Z"
   },
   "NSZ2805": {
     "route": {
@@ -12702,5 +12691,16 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-23T20:25:21.004694Z"
+  },
+  "EJU5106": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-23T20:35:22.506977Z"
   }
 }
