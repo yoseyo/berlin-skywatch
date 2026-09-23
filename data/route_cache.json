@@ -906,7 +906,7 @@
   },
   "DIETB": {
     "route": null,
-    "checked_at": "2026-09-21T15:10:27.080243Z"
+    "checked_at": "2026-09-23T08:05:22.163771Z"
   },
   "TVF97PR": {
     "route": {
@@ -6109,7 +6109,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-22T08:00:50.298669Z"
+    "checked_at": "2026-09-23T08:05:22.163771Z"
   },
   "DLH9WF": {
     "route": {
@@ -11506,5 +11506,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-23T07:55:22.606013Z"
+  },
+  "RYR717M": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-23T08:05:22.163771Z"
+  },
+  "EJU9045": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-23T08:05:22.163771Z"
+  },
+  "UAL963": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-23T08:05:22.163771Z"
   }
 }
