@@ -1,29 +1,12 @@
 {
   "flights": [
     {
-      "callsign": "AUA97B",
-      "country": "Austria",
-      "lat": 52.214,
-      "lon": 12.9657,
-      "altKm": 11.0,
-      "speedKmh": 891,
-      "heading": 144,
-      "vertRateMs": 0,
-      "airline": "Austrian Airlines",
-      "airlineCountry": "Austria",
-      "fromCity": "Reykjav\u00edk",
-      "fromIata": "KEF",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "category": "plane"
-    },
-    {
       "callsign": "SRN1988",
       "country": "Poland",
-      "lat": 52.1204,
-      "lon": 13.5572,
+      "lat": 52.2558,
+      "lon": 14.0853,
       "altKm": 6.6,
-      "speedKmh": 471,
+      "speedKmh": 469,
       "heading": 67,
       "vertRateMs": -0.3,
       "airline": "Sirair",
@@ -35,31 +18,14 @@
       "category": "plane"
     },
     {
-      "callsign": "BCS15N",
-      "country": "Austria",
-      "lat": 52.7056,
-      "lon": 14.0086,
-      "altKm": 10.8,
-      "speedKmh": 814,
-      "heading": 55,
-      "vertRateMs": 4.9,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "category": "plane"
-    },
-    {
       "callsign": "SWT3WZ",
       "country": "Spain",
-      "lat": 52.2086,
-      "lon": 13.5725,
-      "altKm": 2.3,
-      "speedKmh": 479,
-      "heading": 52,
-      "vertRateMs": -6.8,
+      "lat": 52.4157,
+      "lon": 13.8342,
+      "altKm": 1.0,
+      "speedKmh": 332,
+      "heading": 332,
+      "vertRateMs": 0.3,
       "airline": "Swiftair",
       "airlineCountry": "Spain",
       "fromCity": "Paris",
@@ -67,24 +33,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "BCS5959",
-      "country": "Bulgaria",
-      "lat": 52.1206,
-      "lon": 13.9119,
-      "altKm": 9.7,
-      "speedKmh": 789,
-      "heading": 65,
-      "vertRateMs": 1.9,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-23T03:40:28.285706Z"
+  "updated_at": "2026-09-23T03:45:26.239274Z"
 }
