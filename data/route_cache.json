@@ -4978,7 +4978,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-23T10:50:30.092797Z"
+    "checked_at": "2026-09-24T11:05:22.880410Z"
   },
   "DLH2HH": {
     "route": {
@@ -5001,17 +5001,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-24T10:50:27.615834Z"
-  },
-  "VOE455": {
-    "route": {
-      "fromCity": "Nantes",
-      "fromIata": "NTE",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Volotea",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-09-22T11:00:51.233757Z"
   },
   "VLG2WM": {
     "route": {
@@ -5056,10 +5045,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-09-23T11:10:30.475488Z"
-  },
-  "LUA404Y": {
-    "route": null,
-    "checked_at": "2026-09-22T11:00:51.233757Z"
   },
   "AUA971": {
     "route": {
@@ -5258,7 +5243,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-23T10:50:30.092797Z"
+    "checked_at": "2026-09-24T11:05:22.880410Z"
   },
   "SXS5UY": {
     "route": {
@@ -12534,5 +12519,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T11:00:48.615451Z"
+  },
+  "PGT5078": {
+    "route": {
+      "fromCity": "Aalborg",
+      "fromIata": "AAL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-24T11:05:22.880410Z"
+  },
+  "BAW843": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T11:05:22.880410Z"
+  },
+  "N706GA": {
+    "route": null,
+    "checked_at": "2026-09-24T11:05:22.880410Z"
   }
 }
