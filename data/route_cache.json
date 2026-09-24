@@ -3661,7 +3661,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T07:10:29.080131Z"
+    "checked_at": "2026-09-24T07:20:27.686413Z"
   },
   "FIN7HC": {
     "route": {
@@ -3672,7 +3672,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-23T06:45:27.720729Z"
+    "checked_at": "2026-09-24T07:20:27.686413Z"
   },
   "DMS2HR": {
     "route": {
@@ -8079,7 +8079,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-22T17:50:28.309617Z"
+    "checked_at": "2026-09-24T07:20:27.686413Z"
   },
   "CCA958": {
     "route": {
@@ -12631,5 +12631,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T07:15:26.844718Z"
+  },
+  "CFG8JC": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T07:20:27.686413Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T07:20:27.686413Z"
+  },
+  "NJE426E": {
+    "route": null,
+    "checked_at": "2026-09-24T07:20:27.686413Z"
   }
 }
