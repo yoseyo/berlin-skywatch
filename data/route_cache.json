@@ -3163,17 +3163,6 @@
     "route": null,
     "checked_at": "2026-09-23T17:55:31.225607Z"
   },
-  "NSZ5282": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T05:45:26.999732Z"
-  },
   "OEXHY": {
     "route": null,
     "checked_at": "2026-09-23T06:20:27.600210Z"
@@ -3224,7 +3213,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-23T05:40:28.874806Z"
+    "checked_at": "2026-09-24T05:50:29.341428Z"
   },
   "DLH207": {
     "route": {
@@ -12680,5 +12669,38 @@
   "DIPBB": {
     "route": null,
     "checked_at": "2026-09-24T05:45:26.745569Z"
+  },
+  "BLX313": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T05:50:29.341428Z"
+  },
+  "SXS5FH": {
+    "route": {
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-24T05:50:29.341428Z"
+  },
+  "BTI877": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-24T05:50:29.341428Z"
   }
 }
