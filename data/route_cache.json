@@ -2906,7 +2906,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T13:50:27.887323Z"
+    "checked_at": "2026-09-24T09:15:29.511402Z"
   },
   "DLH9CJ": {
     "route": {
@@ -4548,7 +4548,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T09:10:28.676516Z"
+    "checked_at": "2026-09-24T09:15:29.511402Z"
   },
   "RYR89YH": {
     "route": {
@@ -4581,7 +4581,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T09:05:57.737178Z"
+    "checked_at": "2026-09-24T09:15:29.511402Z"
   },
   "LOT4LV": {
     "route": {
@@ -12508,5 +12508,38 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-24T09:10:27.883122Z"
+  },
+  "BTI9TZ": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-24T09:15:29.511402Z"
+  },
+  "DLH890": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T09:15:29.511402Z"
+  },
+  "RYR3026": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Beauvais",
+      "toIata": "BVA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T09:15:29.511402Z"
   }
 }
