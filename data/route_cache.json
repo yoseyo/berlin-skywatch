@@ -251,7 +251,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T12:45:27.312414Z"
+    "checked_at": "2026-09-24T09:45:28.854625Z"
   },
   "AUA21P": {
     "route": {
@@ -4570,7 +4570,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-23T09:15:30.807420Z"
+    "checked_at": "2026-09-24T09:45:28.854625Z"
   },
   "DEBTB": {
     "route": null,
@@ -4722,32 +4722,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-24T09:35:20.725890Z"
-  },
-  "DKKKU": {
-    "route": null,
-    "checked_at": "2026-09-22T09:45:27.808915Z"
-  },
-  "EJU96PC": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-22T09:45:27.808915Z"
-  },
-  "DLH1941": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-22T09:45:27.808915Z"
   },
   "AHY064": {
     "route": {
@@ -12553,5 +12527,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-24T09:40:30.099918Z"
+  },
+  "BTI69R": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-24T09:45:28.854625Z"
+  },
+  "RYR4022": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T09:45:28.854625Z"
   }
 }
