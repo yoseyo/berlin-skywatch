@@ -546,7 +546,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T14:55:29.039548Z"
+    "checked_at": "2026-09-24T15:20:31.473344Z"
   },
   "EWG67A": {
     "route": {
@@ -12710,5 +12710,38 @@
       "airlineCountry": "Iceland"
     },
     "checked_at": "2026-09-24T15:10:29.578241Z"
+  },
+  "ENT5BM": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T15:20:31.473344Z"
+  },
+  "FIN9EM": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Torino",
+      "toIata": "TRN",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-24T15:20:31.473344Z"
+  },
+  "SAS7959": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T15:20:31.473344Z"
   }
 }
