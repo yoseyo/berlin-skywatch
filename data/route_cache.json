@@ -803,7 +803,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-23T15:50:28.770694Z"
+    "checked_at": "2026-09-24T16:20:30.746168Z"
   },
   "CFE7026": {
     "route": {
@@ -836,7 +836,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-23T15:55:24.477493Z"
+    "checked_at": "2026-09-24T16:20:30.746168Z"
   },
   "EWG9QC": {
     "route": null,
@@ -1274,7 +1274,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-22T16:20:29.713693Z"
+    "checked_at": "2026-09-24T16:20:30.746168Z"
   },
   "DMS2LW": {
     "route": {
@@ -6027,7 +6027,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T13:45:28.341770Z"
+    "checked_at": "2026-09-24T16:20:30.746168Z"
   },
   "AUA22S": {
     "route": {
@@ -6176,17 +6176,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T15:00:53.509344Z"
-  },
-  "EJU31GQ": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-22T16:20:29.713693Z"
   },
   "CSS102": {
     "route": {
@@ -12754,5 +12743,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T16:15:28.697298Z"
+  },
+  "WZZ93": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-24T16:20:30.746168Z"
+  },
+  "EWG8MD": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T16:20:30.746168Z"
   }
 }
