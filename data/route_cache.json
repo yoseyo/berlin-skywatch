@@ -137,7 +137,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T10:40:32.621487Z"
+    "checked_at": "2026-09-24T10:45:27.118172Z"
   },
   "SWR9YP": {
     "route": {
@@ -2520,17 +2520,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-23T19:50:26.957206Z"
-  },
-  "RUK4FM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-22T10:40:33.170622Z"
   },
   "EJU34BQ": {
     "route": {
@@ -4946,17 +4935,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T10:35:22.294259Z"
-  },
-  "NSZ5283": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T10:40:33.170622Z"
   },
   "EJU12TM": {
     "route": {
@@ -12520,5 +12498,16 @@
   "SPCCC": {
     "route": null,
     "checked_at": "2026-09-24T10:40:29.521262Z"
+  },
+  "NSZ4501": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T10:45:27.118172Z"
   }
 }
