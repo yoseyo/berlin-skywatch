@@ -568,7 +568,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T15:30:42.363397Z"
+    "checked_at": "2026-09-24T17:35:22.454150Z"
   },
   "BAW844": {
     "route": {
@@ -1329,7 +1329,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T17:40:28.484118Z"
+    "checked_at": "2026-09-24T17:35:22.454150Z"
   },
   "SWR3BY": {
     "route": {
@@ -6229,17 +6229,6 @@
     },
     "checked_at": "2026-09-24T06:20:27.963766Z"
   },
-  "FIN2PX": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-22T17:30:43.870251Z"
-  },
   "BLX363": {
     "route": {
       "fromCity": "Gothenburg",
@@ -6319,7 +6308,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T17:55:23.056970Z"
+    "checked_at": "2026-09-24T17:35:22.454150Z"
   },
   "CCA936": {
     "route": {
@@ -12791,5 +12780,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T17:30:38.369434Z"
+  },
+  "AUA972": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T17:35:22.454150Z"
   }
 }
