@@ -1123,7 +1123,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T16:45:27.649603Z"
+    "checked_at": "2026-09-24T17:25:21.941392Z"
   },
   "LHX195": {
     "route": {
@@ -6216,7 +6216,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T16:45:27.649603Z"
+    "checked_at": "2026-09-24T17:25:21.941392Z"
   },
   "GAF649": {
     "route": null,
@@ -12718,5 +12718,42 @@
   "ATV404": {
     "route": null,
     "checked_at": "2026-09-24T17:05:21.514656Z"
+  },
+  "EJU86PQ": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T17:25:21.941392Z"
+  },
+  "BPO504": {
+    "route": null,
+    "checked_at": "2026-09-24T17:25:21.941392Z"
+  },
+  "EZY75YJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T17:25:21.941392Z"
+  },
+  "EZS1590": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-24T17:25:21.941392Z"
   }
 }
