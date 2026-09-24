@@ -3,12 +3,12 @@
     {
       "callsign": "JTD514",
       "country": "Denmark",
-      "lat": 52.4408,
-      "lon": 13.4384,
+      "lat": 52.9265,
+      "lon": 12.9986,
       "altKm": 11.3,
-      "speedKmh": 675,
-      "heading": 339,
-      "vertRateMs": -0.3,
+      "speedKmh": 687,
+      "heading": 326,
+      "vertRateMs": 0,
       "airline": "Jet Time",
       "airlineCountry": "Denmark",
       "fromCity": "Souda",
@@ -16,7 +16,24 @@
       "toCity": "Billund",
       "toIata": "BLL",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR8WH",
+      "country": "Ireland",
+      "lat": 52.4343,
+      "lon": 13.8202,
+      "altKm": 11.9,
+      "speedKmh": 666,
+      "heading": 345,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-24T21:55:23.049804Z"
+  "updated_at": "2026-09-24T22:00:48.217501Z"
 }
