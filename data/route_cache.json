@@ -424,7 +424,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-23T14:40:31.210750Z"
+    "checked_at": "2026-09-24T14:50:44.399467Z"
   },
   "EWG8ZG": {
     "route": {
@@ -5980,17 +5980,6 @@
     },
     "checked_at": "2026-09-24T14:15:28.099286Z"
   },
-  "BTI3FL": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-22T14:50:31.320601Z"
-  },
   "DLH896": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6001,21 +5990,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T14:40:32.849335Z"
-  },
-  "DCS604": {
-    "route": null,
-    "checked_at": "2026-09-22T14:50:31.320601Z"
-  },
-  "VOE9CC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Firenze",
-      "toIata": "FLR",
-      "airlineName": "Volotea",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-09-22T14:50:31.320601Z"
   },
   "HBJLH": {
     "route": null,
@@ -12689,5 +12663,27 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-24T14:45:29.445309Z"
+  },
+  "RYR55VV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T14:50:44.399467Z"
+  },
+  "DLH3FN": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T14:50:44.399467Z"
   }
 }
