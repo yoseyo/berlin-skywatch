@@ -2976,7 +2976,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T05:05:22.933962Z"
+    "checked_at": "2026-09-24T05:15:25.614137Z"
   },
   "DLH7XV": {
     "route": {
@@ -3021,25 +3021,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T05:10:27.437084Z"
-  },
-  "AWH92H": {
-    "route": null,
-    "checked_at": "2026-09-22T05:10:27.621410Z"
-  },
-  "RYR5SC": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "\u00d6rebro",
-      "toIata": "ORB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T05:10:27.621410Z"
-  },
-  "GAF600": {
-    "route": null,
-    "checked_at": "2026-09-22T05:10:27.621410Z"
   },
   "BTI89G": {
     "route": {
@@ -3095,7 +3076,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T06:35:24.826966Z"
+    "checked_at": "2026-09-24T05:15:25.614137Z"
   },
   "BAW99C": {
     "route": {
@@ -3129,7 +3110,7 @@
   },
   "EWG7ED": {
     "route": null,
-    "checked_at": "2026-09-23T05:00:47.257755Z"
+    "checked_at": "2026-09-24T05:15:25.614137Z"
   },
   "BTI8ZF": {
     "route": {
@@ -12662,5 +12643,27 @@
   "GAF678": {
     "route": null,
     "checked_at": "2026-09-24T05:05:22.967723Z"
+  },
+  "FLI7154": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-09-24T05:15:25.614137Z"
+  },
+  "RYR17UC": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T05:15:25.614137Z"
   }
 }
