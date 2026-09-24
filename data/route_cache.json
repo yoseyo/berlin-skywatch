@@ -2410,17 +2410,6 @@
     },
     "checked_at": "2026-09-24T21:15:27.280469Z"
   },
-  "EJU96BD": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-22T21:20:27.976967Z"
-  },
   "SWR53Q": {
     "route": {
       "fromCity": "Zurich",
@@ -6422,7 +6411,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T20:55:21.633939Z"
+    "checked_at": "2026-09-24T21:20:29.670986Z"
   },
   "EJU59PD": {
     "route": {
@@ -13071,5 +13060,38 @@
   "EJU32RT": {
     "route": null,
     "checked_at": "2026-09-24T21:15:27.280469Z"
+  },
+  "NSZ3733": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T21:20:29.670986Z"
+  },
+  "RYR83CH": {
+    "route": {
+      "fromCity": "\u0141\u00f3d\u017a",
+      "fromIata": "LCJ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T21:20:29.670986Z"
+  },
+  "RYR92HL": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T21:20:29.670986Z"
   }
 }
