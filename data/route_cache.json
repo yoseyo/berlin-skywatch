@@ -3329,10 +3329,6 @@
     },
     "checked_at": "2026-09-23T06:15:25.883737Z"
   },
-  "OKSKT": {
-    "route": null,
-    "checked_at": "2026-09-22T06:15:38.304203Z"
-  },
   "KLM1771": {
     "route": {
       "fromCity": "Amsterdam",
@@ -3355,17 +3351,6 @@
     },
     "checked_at": "2026-09-24T06:00:46.032793Z"
   },
-  "FIN5R": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-22T06:15:38.304203Z"
-  },
   "EWG6NT": {
     "route": null,
     "checked_at": "2026-09-24T04:30:40.383966Z"
@@ -3379,7 +3364,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-22T06:20:31.508867Z"
+    "checked_at": "2026-09-24T06:20:27.963766Z"
   },
   "FHY962": {
     "route": {
@@ -6310,7 +6295,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T11:35:23.497515Z"
+    "checked_at": "2026-09-24T06:20:27.963766Z"
   },
   "NSZ3582": {
     "route": {
@@ -8205,7 +8190,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-23T11:55:22.179701Z"
+    "checked_at": "2026-09-24T06:20:27.963766Z"
   },
   "NJE218W": {
     "route": null,
@@ -12672,5 +12657,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T06:10:29.204359Z"
+  },
+  "VKG419": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-24T06:20:27.963766Z"
   }
 }
