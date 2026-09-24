@@ -4283,7 +4283,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-23T08:55:20.632630Z"
+    "checked_at": "2026-09-24T09:25:22.999096Z"
   },
   "AEE8RB": {
     "route": {
@@ -4364,7 +4364,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T09:10:28.676516Z"
+    "checked_at": "2026-09-24T09:25:22.999096Z"
   },
   "RYR4TC": {
     "route": {
@@ -4548,7 +4548,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T09:25:21.920857Z"
+    "checked_at": "2026-09-24T09:25:22.999096Z"
   },
   "THY6EN": {
     "route": {
@@ -4572,17 +4572,6 @@
     },
     "checked_at": "2026-09-23T09:15:30.807420Z"
   },
-  "TVS20J": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-09-22T09:25:21.920857Z"
-  },
   "DEBTB": {
     "route": null,
     "checked_at": "2026-09-24T08:10:30.720132Z"
@@ -4590,17 +4579,6 @@
   "9AJET": {
     "route": null,
     "checked_at": "2026-09-23T12:55:21.679516Z"
-  },
-  "LOT2LP": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-22T09:25:21.920857Z"
   },
   "AUA226K": {
     "route": {
@@ -4917,7 +4895,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-23T09:15:30.807420Z"
+    "checked_at": "2026-09-24T09:25:22.999096Z"
   },
   "EWG61V": {
     "route": {
@@ -12530,5 +12508,27 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-24T09:20:29.980373Z"
+  },
+  "WZZ46": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-24T09:25:22.999096Z"
+  },
+  "BAW988G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T09:25:22.999096Z"
   }
 }
