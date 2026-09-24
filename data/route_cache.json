@@ -3900,7 +3900,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T07:45:29.694118Z"
+    "checked_at": "2026-09-24T08:20:29.434436Z"
   },
   "DLH3EV": {
     "route": {
@@ -4140,10 +4140,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-24T06:05:22.183322Z"
-  },
-  "NJE533U": {
-    "route": null,
-    "checked_at": "2026-09-22T08:20:27.941381Z"
   },
   "N759SB": {
     "route": null,
@@ -12631,5 +12627,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-24T08:15:28.520884Z"
+  },
+  "SXS1QZ": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-24T08:20:29.434436Z"
+  },
+  "RYR297": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T08:20:29.434436Z"
   }
 }
