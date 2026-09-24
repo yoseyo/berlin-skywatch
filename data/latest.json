@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-24T23:45:26.789517Z"
+  "flights": [
+    {
+      "callsign": "SXS4VD",
+      "country": "Turkey",
+      "lat": 52.5043,
+      "lon": 13.921,
+      "altKm": 11.6,
+      "speedKmh": 1014,
+      "heading": 170,
+      "vertRateMs": 0.3,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-24T23:50:28.948545Z"
 }
