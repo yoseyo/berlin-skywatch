@@ -170,7 +170,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-23T14:05:21.955121Z"
+    "checked_at": "2026-09-24T14:25:22.193585Z"
   },
   "NSZ6HT": {
     "route": {
@@ -295,7 +295,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-23T14:30:38.747542Z"
+    "checked_at": "2026-09-24T14:25:22.193585Z"
   },
   "RYR4JQ": {
     "route": {
@@ -5877,28 +5877,6 @@
     },
     "checked_at": "2026-09-23T10:00:47.773266Z"
   },
-  "NSZ4527": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Marrakech",
-      "toIata": "RAK",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T14:20:29.375309Z"
-  },
-  "DLH3XV": {
-    "route": {
-      "fromCity": "Bucharest",
-      "fromIata": "OTP",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-22T14:20:29.375309Z"
-  },
   "EWG7RB": {
     "route": {
       "fromCity": "Berlin",
@@ -5952,7 +5930,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T14:40:31.210750Z"
+    "checked_at": "2026-09-24T14:25:22.193585Z"
   },
   "DLH4YC": {
     "route": {
@@ -12659,5 +12637,49 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-24T14:20:29.210697Z"
+  },
+  "WMT7WQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-24T14:25:22.193585Z"
+  },
+  "EJU1923": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T14:25:22.193585Z"
+  },
+  "BEL5XD": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-09-24T14:25:22.193585Z"
+  },
+  "BTI629": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-24T14:25:22.193585Z"
   }
 }
