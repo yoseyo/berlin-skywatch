@@ -2026,17 +2026,6 @@
     },
     "checked_at": "2026-09-23T19:30:38.114767Z"
   },
-  "RUK1145": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-22T07:40:28.720765Z"
-  },
   "DLH2N": {
     "route": {
       "fromCity": "Munich",
@@ -3891,54 +3880,6 @@
     },
     "checked_at": "2026-09-23T07:35:20.959869Z"
   },
-  "SAS2835": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Pula",
-      "toIata": "PUY",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T07:40:28.720765Z"
-  },
-  "TVF81SM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "ORY",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-22T07:40:28.720765Z"
-  },
-  "IAM3139": {
-    "route": null,
-    "checked_at": "2026-09-22T07:40:28.720765Z"
-  },
-  "EWG8ZJ": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-22T07:40:28.720765Z"
-  },
-  "SAS72U": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T07:40:28.720765Z"
-  },
   "VLG9PX": {
     "route": {
       "fromCity": "Barcelona",
@@ -4124,7 +4065,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-22T08:00:50.298669Z"
+    "checked_at": "2026-09-24T07:45:27.508873Z"
   },
   "DAL93": {
     "route": {
@@ -4209,7 +4150,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T07:50:27.388196Z"
+    "checked_at": "2026-09-24T07:45:27.508873Z"
   },
   "CTN480": {
     "route": {
@@ -12686,5 +12627,9 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-24T07:40:27.392088Z"
+  },
+  "HCX41": {
+    "route": null,
+    "checked_at": "2026-09-24T07:45:27.508873Z"
   }
 }
