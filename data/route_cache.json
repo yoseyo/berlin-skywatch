@@ -4890,7 +4890,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-23T10:45:26.175759Z"
+    "checked_at": "2026-09-24T10:55:23.509442Z"
   },
   "PGT54XN": {
     "route": {
@@ -4947,17 +4947,6 @@
     },
     "checked_at": "2026-09-23T10:40:32.621487Z"
   },
-  "MGH262": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-22T10:50:27.672866Z"
-  },
   "RYR17PM": {
     "route": {
       "fromCity": "Pozna\u0144",
@@ -4968,10 +4957,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-23T14:20:27.892737Z"
-  },
-  "FHM4724": {
-    "route": null,
-    "checked_at": "2026-09-22T10:50:27.672866Z"
   },
   "EJU93DL": {
     "route": {
@@ -4994,21 +4979,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-23T10:50:30.092797Z"
-  },
-  "DENUX": {
-    "route": null,
-    "checked_at": "2026-09-22T10:55:21.911295Z"
-  },
-  "NOZ1123": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bergen",
-      "toIata": "BGO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-22T10:55:21.911295Z"
   },
   "DLH2HH": {
     "route": {
@@ -5111,7 +5081,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T11:15:28.433629Z"
+    "checked_at": "2026-09-24T10:55:23.509442Z"
   },
   "SAS1665": {
     "route": {
@@ -12516,5 +12486,31 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-09-24T10:50:27.615834Z"
+  },
+  "CES786": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-24T10:55:23.509442Z"
+  },
+  "BAW99XC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T10:55:23.509442Z"
+  },
+  "LXJ616": {
+    "route": null,
+    "checked_at": "2026-09-24T10:55:23.509442Z"
   }
 }
