@@ -4217,7 +4217,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T09:00:46.756939Z"
+    "checked_at": "2026-09-24T08:55:23.708519Z"
   },
   "EZY18FP": {
     "route": {
@@ -4289,10 +4289,6 @@
     },
     "checked_at": "2026-09-23T08:55:20.632630Z"
   },
-  "DMSHJ": {
-    "route": null,
-    "checked_at": "2026-09-22T08:55:21.919843Z"
-  },
   "AEE8RB": {
     "route": {
       "fromCity": "Athens",
@@ -4314,17 +4310,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-23T09:35:22.618661Z"
-  },
-  "BAW988G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-22T08:55:21.919843Z"
   },
   "AIB283B": {
     "route": null,
@@ -5157,7 +5142,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T08:10:28.420982Z"
+    "checked_at": "2026-09-24T08:55:23.708519Z"
   },
   "WUK1356": {
     "route": null,
@@ -10914,7 +10899,7 @@
   },
   "VJH738": {
     "route": null,
-    "checked_at": "2026-09-23T16:10:30.274958Z"
+    "checked_at": "2026-09-24T08:55:23.708519Z"
   },
   "RYR95CH": {
     "route": {
@@ -12527,5 +12512,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T08:45:28.987290Z"
+  },
+  "NSZ2TH": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T08:55:23.708519Z"
+  },
+  "KAC113": {
+    "route": {
+      "fromCity": "Kuwait City",
+      "fromIata": "KWI",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Kuwait Airways",
+      "airlineCountry": "Kuwait"
+    },
+    "checked_at": "2026-09-24T08:55:23.708519Z"
+  },
+  "SDR70TS": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T08:55:23.708519Z"
   }
 }
