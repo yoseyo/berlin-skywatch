@@ -1713,17 +1713,6 @@
     },
     "checked_at": "2026-09-24T18:21:04.101247Z"
   },
-  "EIN33T": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Aer Lingus",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T18:40:30.090773Z"
-  },
   "BEL9DL": {
     "route": {
       "fromCity": "Brussels",
@@ -1843,7 +1832,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T19:00:56.229983Z"
+    "checked_at": "2026-09-24T18:45:26.975026Z"
   },
   "ADZ3907": {
     "route": {
@@ -6284,21 +6273,6 @@
     },
     "checked_at": "2026-09-23T18:10:30.219674Z"
   },
-  "BTI3HK": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-22T18:40:30.090773Z"
-  },
-  "SDR15NL": {
-    "route": null,
-    "checked_at": "2026-09-22T18:40:30.090773Z"
-  },
   "CCA932": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6319,7 +6293,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-22T18:45:27.020562Z"
+    "checked_at": "2026-09-24T18:45:26.975026Z"
   },
   "DLH892": {
     "route": {
@@ -9812,7 +9786,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-23T19:40:34.525135Z"
+    "checked_at": "2026-09-24T18:45:26.975026Z"
   },
   "KMM377": {
     "route": null,
@@ -12891,5 +12865,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T18:40:29.586139Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-09-24T18:45:26.975026Z"
+  },
+  "CAI72KV": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Gazipa\u015fa",
+      "toIata": "GZP",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-24T18:45:26.975026Z"
   }
 }
