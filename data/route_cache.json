@@ -1271,7 +1271,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T17:30:43.870251Z"
+    "checked_at": "2026-09-24T10:20:31.107217Z"
   },
   "EJU91FL": {
     "route": {
@@ -4785,17 +4785,6 @@
     },
     "checked_at": "2026-09-24T10:00:52.943598Z"
   },
-  "AUA41": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Washington",
-      "toIata": "IAD",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-22T10:15:29.892329Z"
-  },
   "EJU43CD": {
     "route": {
       "fromCity": "Berlin",
@@ -4806,10 +4795,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T10:10:27.366619Z"
-  },
-  "DMYRM": {
-    "route": null,
-    "checked_at": "2026-09-22T10:15:29.892329Z"
   },
   "RYR9YD": {
     "route": {
@@ -4848,28 +4833,6 @@
     },
     "checked_at": "2026-09-24T09:30:38.888279Z"
   },
-  "CFG3WR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-22T10:20:30.267808Z"
-  },
-  "EJU51DR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-22T10:20:30.267808Z"
-  },
   "QTR73V": {
     "route": {
       "fromCity": "San Francisco",
@@ -4880,17 +4843,6 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-09-23T10:35:24.356131Z"
-  },
-  "RYR7DR": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Newcastle",
-      "toIata": "NCL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T10:20:30.267808Z"
   },
   "TCKRA": {
     "route": null,
@@ -4953,7 +4905,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-23T11:55:22.179701Z"
+    "checked_at": "2026-09-24T10:20:31.107217Z"
   },
   "WMT1HA": {
     "route": {
@@ -12545,5 +12497,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T10:00:52.943598Z"
+  },
+  "CFE9752": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T10:20:31.107217Z"
+  },
+  "DEITI": {
+    "route": null,
+    "checked_at": "2026-09-24T10:20:31.107217Z"
+  },
+  "SAS10E": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T10:20:31.107217Z"
   }
 }
