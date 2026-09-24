@@ -4611,7 +4611,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-22T09:35:21.967542Z"
+    "checked_at": "2026-09-24T09:40:30.099918Z"
   },
   "CFE76JZ": {
     "route": {
@@ -4623,32 +4623,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-23T09:05:57.737178Z"
-  },
-  "SUA4T": {
-    "route": null,
-    "checked_at": "2026-09-22T09:35:21.967542Z"
-  },
-  "RYR7YZ": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T09:35:21.967542Z"
-  },
-  "SAS4733": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T09:35:21.967542Z"
   },
   "TAP53LB": {
     "route": {
@@ -4715,21 +4689,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-09-23T09:55:22.905343Z"
-  },
-  "SDR14ML": {
-    "route": null,
-    "checked_at": "2026-09-22T09:40:28.599827Z"
-  },
-  "NOZ8BE": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-22T09:40:28.599827Z"
   },
   "AFR65AR": {
     "route": {
@@ -9247,7 +9206,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-23T09:05:57.737178Z"
+    "checked_at": "2026-09-24T09:40:30.099918Z"
   },
   "RYR1EK": {
     "route": {
@@ -9996,7 +9955,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T12:00:49.787042Z"
+    "checked_at": "2026-09-24T09:40:30.099918Z"
   },
   "RYR525H": {
     "route": {
@@ -12550,5 +12509,49 @@
   "DEBRR": {
     "route": null,
     "checked_at": "2026-09-24T09:35:20.725890Z"
+  },
+  "AEE751": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-24T09:40:30.099918Z"
+  },
+  "SAS63M": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T09:40:30.099918Z"
+  },
+  "TVF875M": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-24T09:40:30.099918Z"
+  },
+  "CAI4AA": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-24T09:40:30.099918Z"
   }
 }
