@@ -5300,7 +5300,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-23T12:00:49.787042Z"
+    "checked_at": "2026-09-24T12:25:39.728740Z"
   },
   "SAS2733": {
     "route": {
@@ -5333,7 +5333,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T12:15:26.836304Z"
+    "checked_at": "2026-09-24T12:25:39.728740Z"
   },
   "AFR92ZN": {
     "route": {
@@ -5344,7 +5344,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-23T13:00:50.276129Z"
+    "checked_at": "2026-09-24T12:25:39.728740Z"
   },
   "DLH9MH": {
     "route": {
@@ -5464,17 +5464,6 @@
     },
     "checked_at": "2026-09-24T12:20:29.565644Z"
   },
-  "WZZ9UF": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-22T12:25:28.432602Z"
-  },
   "EJU57RF": {
     "route": {
       "fromCity": "Bordeaux/M\u00e9rignac",
@@ -5484,7 +5473,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T12:25:20.810615Z"
+    "checked_at": "2026-09-24T12:25:39.728740Z"
   },
   "DLH6UT": {
     "route": {
@@ -5496,10 +5485,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T11:10:27.575727Z"
-  },
-  "NJE078C": {
-    "route": null,
-    "checked_at": "2026-09-22T12:25:28.432602Z"
   },
   "RYR5XX": {
     "route": {
@@ -5522,10 +5507,6 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-09-24T12:15:28.155802Z"
-  },
-  "FHM4723": {
-    "route": null,
-    "checked_at": "2026-09-22T12:25:28.432602Z"
   },
   "EJU47DE": {
     "route": null,
@@ -12517,5 +12498,42 @@
   "BPO503": {
     "route": null,
     "checked_at": "2026-09-24T12:20:29.565644Z"
+  },
+  "RYR1CZ": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T12:25:39.728740Z"
+  },
+  "DLH804": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T12:25:39.728740Z"
+  },
+  "QGA50P": {
+    "route": null,
+    "checked_at": "2026-09-24T12:25:39.728740Z"
+  },
+  "SXS678": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-24T12:25:39.728740Z"
   }
 }
