@@ -1608,7 +1608,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T18:15:27.238717Z"
+    "checked_at": "2026-09-24T17:55:23.011296Z"
   },
   "RYR98RQ": {
     "route": {
@@ -1920,7 +1920,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-22T18:00:49.728213Z"
+    "checked_at": "2026-09-24T17:55:23.011296Z"
   },
   "LOT2MN": {
     "route": {
@@ -6217,10 +6217,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-24T06:20:27.963766Z"
-  },
-  "DCOBH": {
-    "route": null,
-    "checked_at": "2026-09-22T17:50:28.309617Z"
   },
   "AEE513": {
     "route": {
@@ -12806,5 +12802,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T17:50:27.291368Z"
+  },
+  "TVF801D": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-24T17:55:23.011296Z"
+  },
+  "IBS1809": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Iberia Express",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-24T17:55:23.011296Z"
   }
 }
