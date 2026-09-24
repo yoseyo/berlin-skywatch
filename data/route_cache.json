@@ -1777,7 +1777,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T20:45:26.020752Z"
+    "checked_at": "2026-09-24T19:30:39.580281Z"
   },
   "CFE8495": {
     "route": {
@@ -6350,17 +6350,6 @@
     },
     "checked_at": "2026-09-23T19:30:38.114767Z"
   },
-  "CFG1TM": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-22T19:25:23.428928Z"
-  },
   "N37NG": {
     "route": null,
     "checked_at": "2026-09-24T11:25:57.596670Z"
@@ -6385,7 +6374,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-22T19:35:24.566851Z"
+    "checked_at": "2026-09-24T19:30:39.580281Z"
   },
   "EWG26K": {
     "route": {
@@ -7733,7 +7722,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T09:05:57.737178Z"
+    "checked_at": "2026-09-24T19:30:39.580281Z"
   },
   "HBFOW": {
     "route": null,
@@ -7934,7 +7923,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T10:10:31.363726Z"
+    "checked_at": "2026-09-24T19:30:39.580281Z"
   },
   "WZZ4782": {
     "route": {
@@ -12957,5 +12946,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T19:20:29.521885Z"
+  },
+  "NSZ5GT": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T19:30:39.580281Z"
+  },
+  "IBS1810": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Express",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-24T19:30:39.580281Z"
   }
 }
