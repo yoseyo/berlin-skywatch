@@ -498,7 +498,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-23T14:50:27.206883Z"
+    "checked_at": "2026-09-24T15:30:42.048661Z"
   },
   "CFE61X": {
     "route": {
@@ -682,7 +682,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T15:30:42.363397Z"
+    "checked_at": "2026-09-24T15:30:42.048661Z"
   },
   "RYR11CP": {
     "route": {
@@ -6064,7 +6064,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T15:15:29.476826Z"
+    "checked_at": "2026-09-24T15:30:42.048661Z"
   },
   "FIN2K": {
     "route": {
@@ -12703,5 +12703,38 @@
   "PYR006": {
     "route": null,
     "checked_at": "2026-09-24T15:25:25.360453Z"
+  },
+  "NSZ3309": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T15:30:42.048661Z"
+  },
+  "CFG4LU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T15:30:42.048661Z"
+  },
+  "RYR8TQ": {
+    "route": {
+      "fromCity": "Beauvais",
+      "fromIata": "BVA",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T15:30:42.048661Z"
   }
 }
