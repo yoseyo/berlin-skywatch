@@ -3024,11 +3024,7 @@
   },
   "WMT7615": {
     "route": null,
-    "checked_at": "2026-09-22T05:20:30.486847Z"
-  },
-  "MFX7618": {
-    "route": null,
-    "checked_at": "2026-09-22T05:20:30.486847Z"
+    "checked_at": "2026-09-24T05:25:22.817368Z"
   },
   "BTI74A": {
     "route": {
@@ -3039,7 +3035,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-23T05:20:30.887101Z"
+    "checked_at": "2026-09-24T05:25:22.817368Z"
   },
   "DHHFW": {
     "route": null,
@@ -3067,10 +3063,6 @@
     },
     "checked_at": "2026-09-23T04:45:25.790415Z"
   },
-  "TTJ600": {
-    "route": null,
-    "checked_at": "2026-09-22T05:25:20.980689Z"
-  },
   "CHX49": {
     "route": null,
     "checked_at": "2026-09-23T08:10:28.420982Z"
@@ -3084,7 +3076,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T05:30:36.111266Z"
+    "checked_at": "2026-09-24T05:25:22.817368Z"
   },
   "EWG7ED": {
     "route": null,
@@ -9455,7 +9447,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-23T05:40:28.874806Z"
+    "checked_at": "2026-09-24T05:25:22.817368Z"
   },
   "JFL572": {
     "route": null,
@@ -12643,5 +12635,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T05:15:25.614137Z"
+  },
+  "PGT1605": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-24T05:25:22.817368Z"
+  },
+  "BTI7PY": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-24T05:25:22.817368Z"
+  },
+  "RYR938": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T05:25:22.817368Z"
   }
 }
