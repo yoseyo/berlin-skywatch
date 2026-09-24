@@ -3977,7 +3977,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-23T08:00:45.450537Z"
+    "checked_at": "2026-09-24T08:15:28.520884Z"
   },
   "QTR85X": {
     "route": {
@@ -4067,21 +4067,6 @@
     },
     "checked_at": "2026-09-24T07:40:27.392088Z"
   },
-  "SPFWB": {
-    "route": null,
-    "checked_at": "2026-09-22T08:10:34.505890Z"
-  },
-  "BTI8ED": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-22T08:10:34.505890Z"
-  },
   "DEHGB": {
     "route": null,
     "checked_at": "2026-09-23T08:15:28.494352Z"
@@ -4134,25 +4119,6 @@
     },
     "checked_at": "2026-09-23T08:10:28.420982Z"
   },
-  "EJU7081": {
-    "route": null,
-    "checked_at": "2026-09-22T08:15:28.109985Z"
-  },
-  "MGH261": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-22T08:15:28.109985Z"
-  },
-  "SUA4B": {
-    "route": null,
-    "checked_at": "2026-09-22T08:15:28.109985Z"
-  },
   "SAS1674": {
     "route": {
       "fromCity": "Berlin",
@@ -4163,10 +4129,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-23T08:15:28.494352Z"
-  },
-  "HBPSH": {
-    "route": null,
-    "checked_at": "2026-09-22T08:15:28.109985Z"
   },
   "SAS2677": {
     "route": {
@@ -4207,7 +4169,7 @@
       "airlineName": "Azerbaijan Airlines",
       "airlineCountry": "Azerbaijan"
     },
-    "checked_at": "2026-09-22T08:25:21.276483Z"
+    "checked_at": "2026-09-24T08:15:28.520884Z"
   },
   "DLH894": {
     "route": {
@@ -12658,5 +12620,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T08:10:30.720132Z"
+  },
+  "NSZ3DA": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T08:15:28.520884Z"
   }
 }
