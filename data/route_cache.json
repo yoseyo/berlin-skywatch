@@ -5477,7 +5477,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T13:30:42.215311Z"
+    "checked_at": "2026-09-24T11:55:22.027531Z"
   },
   "VLG48MQ": {
     "route": {
@@ -12513,5 +12513,27 @@
   "DEDEW": {
     "route": null,
     "checked_at": "2026-09-24T11:50:31.046146Z"
+  },
+  "SAS42K": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T11:55:22.027531Z"
+  },
+  "SWR972": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "TXL",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-24T11:55:22.027531Z"
   }
 }
