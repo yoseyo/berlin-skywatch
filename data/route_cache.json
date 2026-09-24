@@ -847,7 +847,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T12:35:23.262140Z"
+    "checked_at": "2026-09-24T12:00:48.617726Z"
   },
   "DMS2RV": {
     "route": {
@@ -5302,17 +5302,6 @@
     },
     "checked_at": "2026-09-23T12:00:49.787042Z"
   },
-  "EJU53YB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-22T12:00:48.156821Z"
-  },
   "SAS2733": {
     "route": {
       "fromCity": "Copenhagen",
@@ -5322,7 +5311,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-23T12:00:49.787042Z"
+    "checked_at": "2026-09-24T12:00:48.617726Z"
   },
   "WZZ40LC": {
     "route": {
@@ -5334,10 +5323,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-24T11:50:31.046146Z"
-  },
-  "DFKJM": {
-    "route": null,
-    "checked_at": "2026-09-22T12:00:48.156821Z"
   },
   "LHX1HL": {
     "route": {
@@ -5988,7 +5973,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-22T13:30:41.699677Z"
+    "checked_at": "2026-09-24T12:00:48.617726Z"
   },
   "VOE1462": {
     "route": {
@@ -6529,7 +6514,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-22T14:56:18.654324Z"
+    "checked_at": "2026-09-24T12:00:48.617726Z"
   },
   "PYR014": {
     "route": null,
@@ -12535,5 +12520,20 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-24T11:55:22.027531Z"
+  },
+  "VCG2BG": {
+    "route": null,
+    "checked_at": "2026-09-24T12:00:48.617726Z"
+  },
+  "RYR5978": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T12:00:48.617726Z"
   }
 }
