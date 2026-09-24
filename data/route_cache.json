@@ -1531,7 +1531,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-23T18:15:27.238717Z"
+    "checked_at": "2026-09-24T19:20:29.521885Z"
   },
   "PGT984": {
     "route": {
@@ -1854,7 +1854,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-23T19:00:56.229983Z"
+    "checked_at": "2026-09-24T19:20:29.521885Z"
   },
   "AUA238N": {
     "route": {
@@ -1865,7 +1865,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T19:30:38.114767Z"
+    "checked_at": "2026-09-24T19:20:29.521885Z"
   },
   "AEE82B": {
     "route": {
@@ -1975,7 +1975,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-23T19:50:26.957206Z"
+    "checked_at": "2026-09-24T19:20:29.521885Z"
   },
   "LOT397": {
     "route": {
@@ -5739,7 +5739,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T06:45:27.720729Z"
+    "checked_at": "2026-09-24T19:20:29.521885Z"
   },
   "KLC42X": {
     "route": {
@@ -6349,17 +6349,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-23T19:30:38.114767Z"
-  },
-  "WZZ340K": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-22T19:20:28.460180Z"
   },
   "CFG1TM": {
     "route": {
@@ -12946,5 +12935,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T19:15:30.607520Z"
+  },
+  "NSZ4508": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T19:20:29.521885Z"
+  },
+  "RYR19ZZ": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T19:20:29.521885Z"
   }
 }
