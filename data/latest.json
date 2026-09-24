@@ -1,16 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.5305,
+      "lon": 13.3689,
+      "altKm": 0.3,
+      "speedKmh": 126,
+      "heading": 130,
+      "vertRateMs": 5.8,
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5566,
-      "lon": 13.556,
+      "lat": 52.5353,
+      "lon": 13.5709,
       "altKm": 1.1,
-      "speedKmh": 127,
-      "heading": 57,
+      "speedKmh": 52,
+      "heading": 238,
       "vertRateMs": 0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-09-23T23:55:52.229932Z"
+  "updated_at": "2026-09-24T00:00:49.216715Z"
 }
