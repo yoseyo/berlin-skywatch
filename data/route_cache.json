@@ -1384,7 +1384,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T17:45:28.124305Z"
+    "checked_at": "2026-09-24T18:05:22.279806Z"
   },
   "EWG45B": {
     "route": null,
@@ -1700,7 +1700,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-23T18:15:27.238717Z"
+    "checked_at": "2026-09-24T18:05:22.279806Z"
   },
   "EJU47TU": {
     "route": {
@@ -6250,28 +6250,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T17:35:22.454150Z"
-  },
-  "CCA936": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-22T18:00:49.728213Z"
-  },
-  "BBG273": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-09-22T18:05:21.770639Z"
   },
   "RYR8843": {
     "route": {
@@ -12824,5 +12802,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T18:00:48.701375Z"
+  },
+  "DLH7PF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T18:05:22.279806Z"
   }
 }
