@@ -5192,17 +5192,6 @@
     },
     "checked_at": "2026-09-24T06:20:27.963766Z"
   },
-  "NSZ3582": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T11:40:29.870174Z"
-  },
   "KLM29G": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5213,17 +5202,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-09-24T11:35:23.838796Z"
-  },
-  "RYR5VH": {
-    "route": {
-      "fromCity": "Paphos",
-      "fromIata": "PFO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T11:40:29.870174Z"
   },
   "AUA228T": {
     "route": {
@@ -12516,5 +12494,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-24T11:35:23.838796Z"
+  },
+  "NOZ5VD": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-24T11:40:31.107954Z"
+  },
+  "EJU12TM": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T11:40:31.107954Z"
+  },
+  "SEH874": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-24T11:40:31.107954Z"
   }
 }
