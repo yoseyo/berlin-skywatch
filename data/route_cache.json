@@ -2310,7 +2310,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T16:30:40.198706Z"
+    "checked_at": "2026-09-24T06:05:22.183322Z"
   },
   "DLH5CK": {
     "route": {
@@ -3211,10 +3211,6 @@
     },
     "checked_at": "2026-09-24T05:55:19.446351Z"
   },
-  "EUW5208": {
-    "route": null,
-    "checked_at": "2026-09-22T06:00:46.059828Z"
-  },
   "DMS2PV": {
     "route": {
       "fromCity": "Saarbr\u00fccken",
@@ -3226,17 +3222,6 @@
     },
     "checked_at": "2026-09-23T05:55:21.985115Z"
   },
-  "RYR456B": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T06:00:46.059828Z"
-  },
   "LOT392": {
     "route": {
       "fromCity": "Berlin",
@@ -3247,21 +3232,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-24T06:00:46.032793Z"
-  },
-  "SAS2991": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T06:03:09.696610Z"
-  },
-  "AWH92E": {
-    "route": null,
-    "checked_at": "2026-09-22T06:03:09.696610Z"
   },
   "OEGTX": {
     "route": null,
@@ -3287,7 +3257,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-23T06:15:25.883737Z"
+    "checked_at": "2026-09-24T06:05:22.183322Z"
   },
   "CHX35": {
     "route": null,
@@ -3357,7 +3327,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T06:10:27.144425Z"
+    "checked_at": "2026-09-24T06:05:22.183322Z"
   },
   "FIN6AP": {
     "route": {
@@ -4525,7 +4495,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-23T08:20:29.268467Z"
+    "checked_at": "2026-09-24T06:05:22.183322Z"
   },
   "NJE533U": {
     "route": null,
@@ -8441,7 +8411,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T18:25:20.839772Z"
+    "checked_at": "2026-09-24T06:05:22.183322Z"
   },
   "FIN50J": {
     "route": {
@@ -12691,5 +12661,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T06:00:46.032793Z"
+  },
+  "NSZ3288": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T06:05:22.183322Z"
+  },
+  "AUA222": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T06:05:22.183322Z"
   }
 }
