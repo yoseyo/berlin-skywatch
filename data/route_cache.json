@@ -1575,7 +1575,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T19:25:21.062117Z"
+    "checked_at": "2026-09-24T19:00:51.708908Z"
   },
   "EWG3V": {
     "route": {
@@ -1630,7 +1630,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-23T18:15:27.238717Z"
+    "checked_at": "2026-09-24T19:00:51.708908Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -1909,7 +1909,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-23T18:50:29.263958Z"
+    "checked_at": "2026-09-24T19:00:51.708908Z"
   },
   "LOT285": {
     "route": {
@@ -1921,17 +1921,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-23T19:30:38.114767Z"
-  },
-  "DLH2N": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-22T19:00:49.588163Z"
   },
   "RYR67EU": {
     "route": {
@@ -6315,7 +6304,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-22T18:55:22.661400Z"
+    "checked_at": "2026-09-24T19:00:51.708908Z"
   },
   "BTI8GC": {
     "route": {
@@ -12924,5 +12913,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T18:55:22.421297Z"
+  },
+  "DLH6EH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T19:00:51.708908Z"
   }
 }
