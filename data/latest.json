@@ -1,27 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "WZZ801",
-      "country": "Hungary",
-      "lat": 52.3746,
-      "lon": 13.514,
-      "altKm": 0.1,
-      "speedKmh": 197,
-      "heading": 248,
-      "vertRateMs": -0.3,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
+      "callsign": "EJU8624",
+      "country": "Austria",
+      "lat": 52.2958,
+      "lon": 13.3673,
+      "altKm": 1.4,
+      "speedKmh": 464,
+      "heading": 228,
+      "vertRateMs": 15.6,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
       "category": "plane"
     },
     {
       "callsign": "EJU5261",
       "country": "Austria",
-      "lat": 52.3474,
-      "lon": 13.4775,
-      "altKm": 0.5,
-      "speedKmh": 305,
-      "heading": 249,
-      "vertRateMs": 10.1,
+      "lat": 52.5167,
+      "lon": 13.2335,
+      "altKm": 4.7,
+      "speedKmh": 656,
+      "heading": 352,
+      "vertRateMs": 13,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -29,24 +33,7 @@
       "toCity": "Copenhagen",
       "toIata": "CPH",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR98ST",
-      "country": "Ireland",
-      "lat": 52.3543,
-      "lon": 13.4984,
-      "altKm": 3.8,
-      "speedKmh": 688,
-      "heading": 99,
-      "vertRateMs": 10.4,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-24T04:10:28.541653Z"
+  "updated_at": "2026-09-24T04:15:29.341903Z"
 }
