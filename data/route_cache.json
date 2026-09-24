@@ -1509,7 +1509,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T19:10:31.210597Z"
+    "checked_at": "2026-09-24T18:35:23.779625Z"
   },
   "KLM1782": {
     "route": {
@@ -1634,7 +1634,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-09-23T19:25:21.062117Z"
+    "checked_at": "2026-09-24T18:35:23.779625Z"
   },
   "BAW845": {
     "route": {
@@ -1667,7 +1667,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-23T19:35:24.599922Z"
+    "checked_at": "2026-09-24T18:35:23.779625Z"
   },
   "SAS55L": {
     "route": {
@@ -6273,28 +6273,6 @@
     },
     "checked_at": "2026-09-24T06:05:22.183322Z"
   },
-  "FIN50J": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-22T18:35:21.252972Z"
-  },
-  "RYR2NB": {
-    "route": {
-      "fromCity": "Torp",
-      "fromIata": "TRF",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T18:35:21.252972Z"
-  },
   "PGT566B": {
     "route": {
       "fromCity": "Pendik, Istanbul",
@@ -6731,7 +6709,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T22:40:27.296469Z"
+    "checked_at": "2026-09-24T18:35:23.779625Z"
   },
   "ELY025": {
     "route": {
@@ -9702,7 +9680,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-23T19:00:56.229983Z"
+    "checked_at": "2026-09-24T18:35:23.779625Z"
   },
   "RYR1155": {
     "route": {
@@ -12869,5 +12847,38 @@
   "EJU16CF": {
     "route": null,
     "checked_at": "2026-09-24T18:30:41.709526Z"
+  },
+  "FIN8TA": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-24T18:35:23.779625Z"
+  },
+  "EZY71RM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T18:35:23.779625Z"
+  },
+  "EZY89CH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-24T18:35:23.779625Z"
   }
 }
