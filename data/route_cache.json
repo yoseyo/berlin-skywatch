@@ -3359,7 +3359,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T08:55:20.632630Z"
+    "checked_at": "2026-09-24T12:50:31.970687Z"
   },
   "LOT2CM": {
     "route": {
@@ -5600,17 +5600,6 @@
     },
     "checked_at": "2026-09-23T21:55:21.991706Z"
   },
-  "RYR99FP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T12:50:28.251833Z"
-  },
   "SXS9SE": {
     "route": {
       "fromCity": "Berlin",
@@ -5820,7 +5809,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-22T13:25:26.179009Z"
+    "checked_at": "2026-09-24T12:50:31.970687Z"
   },
   "AUA972": {
     "route": {
@@ -8630,7 +8619,7 @@
   },
   "LNX23JG": {
     "route": null,
-    "checked_at": "2026-09-23T09:10:28.676516Z"
+    "checked_at": "2026-09-24T12:50:31.970687Z"
   },
   "DEUNK": {
     "route": null,
@@ -12519,5 +12508,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T12:45:28.056326Z"
+  },
+  "SPAMR": {
+    "route": null,
+    "checked_at": "2026-09-24T12:50:31.970687Z"
+  },
+  "NOZ57GW": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-24T12:50:31.970687Z"
+  },
+  "EWG79J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T12:50:31.970687Z"
   }
 }
