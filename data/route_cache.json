@@ -5002,7 +5002,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T09:50:29.471224Z"
+    "checked_at": "2026-09-24T09:30:38.888279Z"
   },
   "CFG3WR": {
     "route": {
@@ -12530,5 +12530,35 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-24T09:25:22.999096Z"
+  },
+  "AUA1R": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T09:30:38.888279Z"
+  },
+  "VJH715": {
+    "route": null,
+    "checked_at": "2026-09-24T09:30:38.888279Z"
+  },
+  "RYR1JK": {
+    "route": {
+      "fromCity": "Cork",
+      "fromIata": "ORK",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T09:30:38.888279Z"
+  },
+  "DBJKP": {
+    "route": null,
+    "checked_at": "2026-09-24T09:30:38.888279Z"
   }
 }
