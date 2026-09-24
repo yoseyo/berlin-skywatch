@@ -4311,32 +4311,6 @@
     },
     "checked_at": "2026-09-23T09:35:22.618661Z"
   },
-  "AIB283B": {
-    "route": null,
-    "checked_at": "2026-09-22T09:00:49.873474Z"
-  },
-  "CFG4LH": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-22T09:00:49.873474Z"
-  },
-  "LBT248": {
-    "route": {
-      "fromCity": "Monastir",
-      "fromIata": "MIR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-09-22T09:00:49.873474Z"
-  },
   "PBB16": {
     "route": null,
     "checked_at": "2026-09-24T08:25:23.641229Z"
@@ -4362,50 +4336,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-09-23T10:10:31.363726Z"
-  },
-  "TKJ71C": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-22T09:00:49.873474Z"
-  },
-  "RYR30RG": {
-    "route": {
-      "fromCity": "Banja Luka",
-      "fromIata": "BNX",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T09:00:49.873474Z"
-  },
-  "WZZ54P": {
-    "route": {
-      "fromCity": "Leeds",
-      "fromIata": "LBA",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-22T09:00:49.873474Z"
-  },
-  "SDR70XN": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-22T09:00:49.873474Z"
   },
   "NSZ82ME": {
     "route": {
@@ -4453,7 +4383,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-22T09:05:21.810863Z"
+    "checked_at": "2026-09-24T09:05:21.598986Z"
   },
   "DLH4AK": {
     "route": {
@@ -4560,7 +4490,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T09:25:23.376319Z"
+    "checked_at": "2026-09-24T09:05:21.598986Z"
   },
   "EIN3EG": {
     "route": {
@@ -10136,7 +10066,7 @@
   },
   "SPMMS": {
     "route": null,
-    "checked_at": "2026-09-23T11:55:22.179701Z"
+    "checked_at": "2026-09-24T09:05:21.598986Z"
   },
   "JTD308": {
     "route": null,
@@ -12567,5 +12497,31 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-24T09:00:49.599170Z"
+  },
+  "AUA51": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Tokyo",
+      "toIata": "NRT",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T09:05:21.598986Z"
+  },
+  "RYR671D": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T09:05:21.598986Z"
+  },
+  "IBIS2": {
+    "route": null,
+    "checked_at": "2026-09-24T09:05:21.598986Z"
   }
 }
