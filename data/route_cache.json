@@ -2074,7 +2074,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T20:45:26.020752Z"
+    "checked_at": "2026-09-24T20:10:31.908240Z"
   },
   "AUA989D": {
     "route": {
@@ -2206,7 +2206,7 @@
       "airlineName": "European Air Transport",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T20:20:29.282683Z"
+    "checked_at": "2026-09-24T20:10:31.908240Z"
   },
   "TVF73KL": {
     "route": {
@@ -2386,7 +2386,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T19:50:26.957206Z"
+    "checked_at": "2026-09-24T20:10:31.908240Z"
   },
   "EJU34BQ": {
     "route": {
@@ -6337,7 +6337,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-23T19:30:38.114767Z"
+    "checked_at": "2026-09-24T20:10:31.908240Z"
   },
   "N37NG": {
     "route": null,
@@ -13053,5 +13053,49 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-24T20:05:23.244875Z"
+  },
+  "EIN33W": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Aer Lingus",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T20:10:31.908240Z"
+  },
+  "RYR42MY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T20:10:31.908240Z"
+  },
+  "RYR81YP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T20:10:31.908240Z"
+  },
+  "RYR88JV": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-24T20:10:31.908240Z"
   }
 }
