@@ -5822,17 +5822,6 @@
     "route": null,
     "checked_at": "2026-09-24T13:45:28.564484Z"
   },
-  "SXS679": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-22T13:50:30.739697Z"
-  },
   "RYR7QZ": {
     "route": {
       "fromCity": "Brussels",
@@ -5854,10 +5843,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-09-24T13:05:21.979313Z"
-  },
-  "SME277": {
-    "route": null,
-    "checked_at": "2026-09-22T13:55:21.594520Z"
   },
   "CES244": {
     "route": {
@@ -9375,7 +9360,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-23T12:30:41.050077Z"
+    "checked_at": "2026-09-24T13:55:24.161452Z"
   },
   "RYR7UL": {
     "route": {
@@ -12605,5 +12590,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T13:50:28.918852Z"
+  },
+  "CFG8TD": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T13:55:24.161452Z"
+  },
+  "DLH4AA": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Trondheim",
+      "toIata": "TRD",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-24T13:55:24.161452Z"
   }
 }
