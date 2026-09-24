@@ -258,7 +258,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T06:15:25.883737Z"
+    "checked_at": "2026-09-24T13:40:30.000396Z"
   },
   "CHX31": {
     "route": null,
@@ -5823,7 +5823,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T20:45:26.020752Z"
+    "checked_at": "2026-09-24T13:40:30.000396Z"
   },
   "EJU69MZ": {
     "route": null,
@@ -6013,7 +6013,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T15:45:27.183753Z"
+    "checked_at": "2026-09-24T13:40:30.000396Z"
   },
   "CAI45CE": {
     "route": {
@@ -12579,5 +12579,16 @@
   "DFPOL": {
     "route": null,
     "checked_at": "2026-09-24T13:30:46.341393Z"
+  },
+  "SWR973": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "TXL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-24T13:40:30.000396Z"
   }
 }
