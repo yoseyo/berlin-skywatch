@@ -1,4 +1,73 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-24T03:35:20.656590Z"
+  "flights": [
+    {
+      "callsign": "BCS5959",
+      "country": "Bulgaria",
+      "lat": 52.3402,
+      "lon": 13.5566,
+      "altKm": 10.1,
+      "speedKmh": 803,
+      "heading": 67,
+      "vertRateMs": -0.7,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.4458,
+      "lon": 13.2166,
+      "altKm": 8.9,
+      "speedKmh": 899,
+      "heading": 55,
+      "vertRateMs": 5.8,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.1159,
+      "lon": 14.0504,
+      "altKm": 3.1,
+      "speedKmh": 530,
+      "heading": 339,
+      "vertRateMs": -0.3,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "SDR70WQ",
+      "country": "Germany",
+      "lat": 52.3312,
+      "lon": 13.2698,
+      "altKm": 2.3,
+      "speedKmh": 373,
+      "heading": 267,
+      "vertRateMs": 16.3,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-24T03:40:25.958681Z"
 }
