@@ -917,7 +917,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-23T16:25:22.692382Z"
+    "checked_at": "2026-09-24T16:25:23.168133Z"
   },
   "LOT389": {
     "route": {
@@ -954,7 +954,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T16:20:32.197125Z"
+    "checked_at": "2026-09-24T16:25:23.168133Z"
   },
   "AFR99GT": {
     "route": {
@@ -6191,17 +6191,6 @@
   "EJM974": {
     "route": null,
     "checked_at": "2026-09-23T10:40:32.621487Z"
-  },
-  "LOT4TL": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "New York",
-      "toIata": "JFK",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-22T16:25:21.484150Z"
   },
   "BBG272": {
     "route": {
@@ -12765,5 +12754,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T16:20:30.746168Z"
+  },
+  "BLX501": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-24T16:25:23.168133Z"
+  },
+  "ELJ602": {
+    "route": null,
+    "checked_at": "2026-09-24T16:25:23.168133Z"
   }
 }
