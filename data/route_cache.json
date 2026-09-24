@@ -2792,7 +2792,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T04:05:21.270351Z"
+    "checked_at": "2026-09-24T05:45:26.745569Z"
   },
   "AFR84XP": {
     "route": {
@@ -3135,7 +3135,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T05:35:39.606503Z"
+    "checked_at": "2026-09-24T05:45:26.745569Z"
   },
   "SWR5XL": {
     "route": {
@@ -3162,28 +3162,6 @@
   "LDX600": {
     "route": null,
     "checked_at": "2026-09-23T17:55:31.225607Z"
-  },
-  "EJU31RF": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-22T05:40:30.502452Z"
-  },
-  "RYR55XJ": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Banja Luka",
-      "toIata": "BNX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-22T05:40:30.502452Z"
   },
   "NSZ5282": {
     "route": {
@@ -9362,7 +9340,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-23T05:30:36.111266Z"
+    "checked_at": "2026-09-24T05:45:26.745569Z"
   },
   "JTD307": {
     "route": {
@@ -12683,5 +12661,24 @@
   "DFC6LD": {
     "route": null,
     "checked_at": "2026-09-24T05:40:28.421670Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-24T05:45:26.745569Z"
+  },
+  "DICMK": {
+    "route": null,
+    "checked_at": "2026-09-24T05:45:26.745569Z"
+  },
+  "DIPBB": {
+    "route": null,
+    "checked_at": "2026-09-24T05:45:26.745569Z"
   }
 }
