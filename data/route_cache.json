@@ -1182,7 +1182,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T16:55:24.452575Z"
+    "checked_at": "2026-09-24T17:00:48.376906Z"
   },
   "AFR17RZ": {
     "route": null,
@@ -1656,7 +1656,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-22T18:15:27.784605Z"
+    "checked_at": "2026-09-24T17:00:48.376906Z"
   },
   "RYR15FP": {
     "route": {
@@ -6213,21 +6213,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-09-24T16:15:28.697298Z"
-  },
-  "BTI2GA": {
-    "route": {
-      "fromCity": "Tampere / Pirkkala",
-      "fromIata": "TMP",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-22T16:55:23.111516Z"
-  },
-  "HRN431": {
-    "route": null,
-    "checked_at": "2026-09-22T16:55:23.111516Z"
   },
   "UAE61": {
     "route": {
@@ -12780,5 +12765,20 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-24T16:55:21.345684Z"
+  },
+  "FIN33A": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-24T17:00:48.376906Z"
+  },
+  "HUE222": {
+    "route": null,
+    "checked_at": "2026-09-24T17:00:48.376906Z"
   }
 }
