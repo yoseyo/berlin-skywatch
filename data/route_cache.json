@@ -4336,7 +4336,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T08:50:30.426285Z"
+    "checked_at": "2026-09-25T09:00:48.703351Z"
   },
   "LOT7VJ": {
     "route": {
@@ -6536,7 +6536,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-24T08:10:30.720132Z"
+    "checked_at": "2026-09-25T09:00:48.703351Z"
   },
   "GAF635": {
     "route": null,
@@ -6585,10 +6585,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T19:35:21.972282Z"
-  },
-  "GAF640": {
-    "route": null,
-    "checked_at": "2026-09-23T09:00:46.756939Z"
   },
   "RYR3RK": {
     "route": {
@@ -13293,5 +13289,31 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-25T08:55:22.015242Z"
+  },
+  "DMSGV": {
+    "route": null,
+    "checked_at": "2026-09-25T09:00:48.703351Z"
+  },
+  "RYR99FP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T09:00:48.703351Z"
+  },
+  "EWG75A": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T09:00:48.703351Z"
   }
 }
