@@ -1864,7 +1864,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T19:40:31.028757Z"
+    "checked_at": "2026-09-25T19:55:21.785987Z"
   },
   "RYR3RD": {
     "route": {
@@ -1908,7 +1908,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-24T20:00:49.746170Z"
+    "checked_at": "2026-09-25T19:55:21.785987Z"
   },
   "BEL9NK": {
     "route": {
@@ -2209,7 +2209,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T20:10:31.908240Z"
+    "checked_at": "2026-09-25T19:55:21.785987Z"
   },
   "EJU34BQ": {
     "route": {
@@ -13702,5 +13702,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T19:50:28.212514Z"
+  },
+  "RYR38EA": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T19:55:21.785987Z"
+  },
+  "RYR1155": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T19:55:21.785987Z"
+  },
+  "RYR8603": {
+    "route": {
+      "fromCity": "Weeze",
+      "fromIata": "NRN",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T19:55:21.785987Z"
   }
 }
