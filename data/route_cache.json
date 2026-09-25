@@ -6479,17 +6479,6 @@
     },
     "checked_at": "2026-09-24T04:15:29.341903Z"
   },
-  "BTI9801": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-23T04:39:27.637576Z"
-  },
   "RYR7397": {
     "route": {
       "fromCity": "Gothenburg",
@@ -13129,5 +13118,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T04:30:38.807868Z"
+  },
+  "EJU46NG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T04:40:29.908680Z"
+  },
+  "DLH7FM": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T04:40:29.908680Z"
   }
 }
