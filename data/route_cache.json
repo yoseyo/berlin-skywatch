@@ -343,7 +343,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T14:40:32.849335Z"
+    "checked_at": "2026-09-25T06:40:32.352618Z"
   },
   "CHX82": {
     "route": null,
@@ -3226,7 +3226,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-24T06:50:26.972737Z"
+    "checked_at": "2026-09-25T06:40:32.352618Z"
   },
   "THY1LZ": {
     "route": {
@@ -3270,7 +3270,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T06:40:28.708485Z"
+    "checked_at": "2026-09-25T06:40:32.352618Z"
   },
   "LOT4MH": {
     "route": {
@@ -6487,10 +6487,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-09-24T07:15:26.844718Z"
-  },
-  "OKBII": {
-    "route": null,
-    "checked_at": "2026-09-23T06:40:29.314831Z"
   },
   "DENYY": {
     "route": null,
@@ -13218,5 +13214,16 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-25T06:30:38.128766Z"
+  },
+  "EWG3F": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T06:40:32.352618Z"
   }
 }
