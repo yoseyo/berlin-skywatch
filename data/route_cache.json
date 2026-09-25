@@ -2662,7 +2662,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T04:50:26.291906Z"
+    "checked_at": "2026-09-25T04:50:28.248109Z"
   },
   "DLH9YA": {
     "route": {
@@ -2817,7 +2817,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-24T05:35:21.028084Z"
+    "checked_at": "2026-09-25T04:50:28.248109Z"
   },
   "CHX49": {
     "route": null,
@@ -3505,7 +3505,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T10:35:22.294259Z"
+    "checked_at": "2026-09-25T04:50:28.248109Z"
   },
   "DLH2607": {
     "route": {
@@ -4220,7 +4220,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T08:35:21.859581Z"
+    "checked_at": "2026-09-25T04:50:28.248109Z"
   },
   "TKJ35Z": {
     "route": {
@@ -6478,17 +6478,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T04:15:29.341903Z"
-  },
-  "NSZ3292": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T04:50:26.677841Z"
   },
   "EWG4Z": {
     "route": {
@@ -13151,5 +13140,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-25T04:45:27.589733Z"
+  },
+  "DLH893": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T04:50:28.248109Z"
+  },
+  "SXS8LV": {
+    "route": {
+      "fromCity": "Hannover",
+      "fromIata": "HAJ",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T04:50:28.248109Z"
+  },
+  "CAT345": {
+    "route": {
+      "fromCity": "Aalborg",
+      "fromIata": "AAL",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-25T04:50:28.248109Z"
   }
 }
