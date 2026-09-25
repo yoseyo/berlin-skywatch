@@ -898,7 +898,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-24T17:10:30.916568Z"
+    "checked_at": "2026-09-25T16:50:29.607663Z"
   },
   "LBT232": {
     "route": {
@@ -13635,5 +13635,42 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-25T16:45:29.915634Z"
+  },
+  "NSZ3732": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T16:50:29.607663Z"
+  },
+  "DKH1667": {
+    "route": {
+      "fromCity": "Zhengzhou",
+      "fromIata": "CGO",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Juneyao Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-25T16:50:29.607663Z"
+  },
+  "BRJ502": {
+    "route": null,
+    "checked_at": "2026-09-25T16:50:29.607663Z"
+  },
+  "RYR5603": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T16:50:29.607663Z"
   }
 }
