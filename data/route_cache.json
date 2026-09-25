@@ -4303,7 +4303,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-24T10:00:52.943598Z"
+    "checked_at": "2026-09-25T09:50:27.270766Z"
   },
   "ELY2372": {
     "route": {
@@ -11560,7 +11560,7 @@
   },
   "EJU16CF": {
     "route": null,
-    "checked_at": "2026-09-24T18:30:41.709526Z"
+    "checked_at": "2026-09-25T09:50:27.270766Z"
   },
   "FIN8TA": {
     "route": {
@@ -13400,5 +13400,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T09:45:31.150902Z"
+  },
+  "EJU5060": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T09:50:27.270766Z"
+  },
+  "SDR10CL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T09:50:27.270766Z"
+  },
+  "RYR75VP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T09:50:27.270766Z"
   }
 }
