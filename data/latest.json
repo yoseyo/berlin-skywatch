@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-25T03:05:22.996045Z"
+  "flights": [
+    {
+      "callsign": "CCA431",
+      "country": "China",
+      "lat": 52.8947,
+      "lon": 13.2562,
+      "altKm": 11.9,
+      "speedKmh": 951,
+      "heading": 225,
+      "vertRateMs": 0,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Jianyang, Chengdu",
+      "fromIata": "TFU",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS3612",
+      "country": "Bahrain",
+      "lat": 52.7058,
+      "lon": 12.942,
+      "altKm": 11.3,
+      "speedKmh": 712,
+      "heading": 24,
+      "vertRateMs": 7.8,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-25T03:10:26.724422Z"
 }
