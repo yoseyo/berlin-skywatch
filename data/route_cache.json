@@ -3453,7 +3453,7 @@
   },
   "TVF88JV": {
     "route": null,
-    "checked_at": "2026-09-24T07:05:20.737646Z"
+    "checked_at": "2026-09-25T09:45:31.150902Z"
   },
   "AUA224": {
     "route": {
@@ -4108,7 +4108,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T09:45:29.853189Z"
+    "checked_at": "2026-09-25T09:45:31.150902Z"
   },
   "NOZ52Z": {
     "route": {
@@ -6648,32 +6648,6 @@
   "DMEYO": {
     "route": null,
     "checked_at": "2026-09-24T15:10:29.578241Z"
-  },
-  "LRQ431A": {
-    "route": null,
-    "checked_at": "2026-09-23T09:40:29.994692Z"
-  },
-  "EJU95RP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-23T09:40:29.994692Z"
-  },
-  "CTN384E": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-09-23T09:45:29.853189Z"
   },
   "BBB1": {
     "route": null,
@@ -13415,5 +13389,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-25T09:40:29.919666Z"
+  },
+  "EWG8602": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T09:45:31.150902Z"
   }
 }
