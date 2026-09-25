@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-25T01:48:13.367543Z"
+  "flights": [
+    {
+      "callsign": "MSR947",
+      "country": "Egypt",
+      "lat": 52.1841,
+      "lon": 12.7436,
+      "altKm": 11.9,
+      "speedKmh": 782,
+      "heading": 321,
+      "vertRateMs": 0,
+      "airline": "Egyptair",
+      "airlineCountry": "Egypt",
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-25T01:50:30.241470Z"
 }

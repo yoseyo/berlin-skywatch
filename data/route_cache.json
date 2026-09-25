@@ -6435,10 +6435,6 @@
     },
     "checked_at": "2026-09-24T18:35:23.779625Z"
   },
-  "ELY001": {
-    "route": null,
-    "checked_at": "2026-09-23T01:50:27.999621Z"
-  },
   "UAL83": {
     "route": {
       "fromCity": "New Delhi",
@@ -13218,5 +13214,16 @@
       "airlineCountry": "Morocco"
     },
     "checked_at": "2026-09-25T01:25:21.241709Z"
+  },
+  "MSR947": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-09-25T01:50:30.241470Z"
   }
 }
