@@ -571,7 +571,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T11:35:23.838796Z"
+    "checked_at": "2026-09-25T15:30:42.032294Z"
   },
   "EWG2RM": {
     "route": {
@@ -597,7 +597,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T17:15:27.963472Z"
+    "checked_at": "2026-09-25T15:30:42.032294Z"
   },
   "FIN01AD": {
     "route": {
@@ -5516,7 +5516,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-23T15:30:42.363397Z"
+    "checked_at": "2026-09-25T15:30:42.032294Z"
   },
   "SAS80D": {
     "route": {
@@ -5527,7 +5527,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T15:25:25.360453Z"
+    "checked_at": "2026-09-25T15:30:42.032294Z"
   },
   "LHX1RV": {
     "route": {
@@ -13542,5 +13542,16 @@
   "TWY27": {
     "route": null,
     "checked_at": "2026-09-25T15:26:31.784152Z"
+  },
+  "RYR2962": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T15:30:42.032294Z"
   }
 }
