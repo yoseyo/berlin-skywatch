@@ -3299,7 +3299,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T06:55:24.172450Z"
+    "checked_at": "2026-09-25T07:25:21.312123Z"
   },
   "SRR901": {
     "route": {
@@ -3442,7 +3442,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T07:25:23.717359Z"
+    "checked_at": "2026-09-25T07:25:21.312123Z"
   },
   "THY4VH": {
     "route": {
@@ -5440,7 +5440,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T16:30:40.073475Z"
+    "checked_at": "2026-09-25T07:25:21.312123Z"
   },
   "RYR93QN": {
     "route": {
@@ -13299,5 +13299,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T07:20:27.430082Z"
+  },
+  "SAS97P": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T07:25:21.312123Z"
+  },
+  "SAS44A": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T07:25:21.312123Z"
   }
 }
