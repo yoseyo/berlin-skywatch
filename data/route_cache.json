@@ -876,7 +876,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-24T16:50:29.161849Z"
+    "checked_at": "2026-09-25T19:05:23.887047Z"
   },
   "PGT49PK": {
     "route": {
@@ -5690,17 +5690,6 @@
     },
     "checked_at": "2026-09-25T18:05:27.199572Z"
   },
-  "BTI8GC": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-23T19:00:56.229983Z"
-  },
   "KLM60M": {
     "route": {
       "fromCity": "Warsaw",
@@ -6937,11 +6926,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-24T19:10:27.750413Z"
-  },
-  "GAF660": {
-    "route": null,
-    "checked_at": "2026-09-23T19:00:56.229983Z"
+    "checked_at": "2026-09-25T19:05:23.887047Z"
   },
   "WMT6363": {
     "route": {
@@ -7925,7 +7910,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T07:05:20.737646Z"
+    "checked_at": "2026-09-25T19:05:23.887047Z"
   },
   "CFG6DF": {
     "route": {
@@ -13691,5 +13676,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T18:50:30.066062Z"
+  },
+  "RAM222B": {
+    "route": {
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "SVO",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-09-25T19:05:23.887047Z"
+  },
+  "SAS2690": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T19:05:23.887047Z"
+  },
+  "AUA25Y": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T19:05:23.887047Z"
   }
 }
