@@ -3593,7 +3593,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T07:40:27.392088Z"
+    "checked_at": "2026-09-25T08:00:50.322230Z"
   },
   "RYR9CL": {
     "route": {
@@ -6554,21 +6554,6 @@
     },
     "checked_at": "2026-09-25T07:15:27.764177Z"
   },
-  "DMJBW": {
-    "route": null,
-    "checked_at": "2026-09-23T07:55:22.606013Z"
-  },
-  "RYR7398": {
-    "route": {
-      "fromCity": "Pula",
-      "fromIata": "PUY",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T07:55:22.606013Z"
-  },
   "RYR717M": {
     "route": {
       "fromCity": "Manchester",
@@ -9347,7 +9332,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T04:50:26.291906Z"
+    "checked_at": "2026-09-25T08:00:50.322230Z"
   },
   "EJU12AH": {
     "route": {
@@ -13344,5 +13329,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T07:55:22.061701Z"
+  },
+  "BTI8ED": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-25T08:00:50.322230Z"
+  },
+  "RYR39DH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T08:00:50.322230Z"
+  },
+  "RYR18RV": {
+    "route": {
+      "fromCity": "Torp",
+      "fromIata": "TRF",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T08:00:50.322230Z"
   }
 }
