@@ -630,7 +630,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T15:30:42.048661Z"
+    "checked_at": "2026-09-25T15:45:27.105915Z"
   },
   "RYR11CP": {
     "route": {
@@ -652,7 +652,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T15:55:21.684443Z"
+    "checked_at": "2026-09-25T15:45:27.105915Z"
   },
   "TAP53ED": {
     "route": {
@@ -707,7 +707,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T16:05:21.932839Z"
+    "checked_at": "2026-09-25T15:45:27.105915Z"
   },
   "WZZ4BB": {
     "route": {
@@ -6870,17 +6870,6 @@
     },
     "checked_at": "2026-09-25T13:40:33.372306Z"
   },
-  "EWG6901": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-23T15:40:29.724847Z"
-  },
   "RJA138": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -8891,7 +8880,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T10:00:52.943598Z"
+    "checked_at": "2026-09-25T15:45:27.105915Z"
   },
   "CFE9752": {
     "route": {
@@ -13568,5 +13557,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T15:40:29.638264Z"
+  },
+  "EWG41W": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T15:45:27.105915Z"
   }
 }
