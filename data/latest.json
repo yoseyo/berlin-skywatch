@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-25T00:45:26.537628Z"
+  "flights": [
+    {
+      "callsign": "ETH3718",
+      "country": "Ethiopia",
+      "lat": 52.9054,
+      "lon": 12.7917,
+      "altKm": 9.1,
+      "speedKmh": 834,
+      "heading": 67,
+      "vertRateMs": 0,
+      "airline": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia",
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Hong Kong",
+      "toIata": "HKG",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-25T00:50:28.691346Z"
 }
