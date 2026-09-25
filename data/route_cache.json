@@ -6568,17 +6568,6 @@
     },
     "checked_at": "2026-09-24T08:40:29.839794Z"
   },
-  "NSZ3738": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T08:40:27.646761Z"
-  },
   "MGH391": {
     "route": {
       "fromCity": "Antalya",
@@ -13308,5 +13297,16 @@
   "MOZ309": {
     "route": null,
     "checked_at": "2026-09-25T08:35:22.352756Z"
+  },
+  "DLH7HE": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T08:40:31.056910Z"
   }
 }
