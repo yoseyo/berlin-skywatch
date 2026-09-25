@@ -3644,7 +3644,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-24T08:15:28.520884Z"
+    "checked_at": "2026-09-25T08:25:21.691177Z"
   },
   "QTR85X": {
     "route": {
@@ -3710,7 +3710,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-24T08:00:49.693678Z"
+    "checked_at": "2026-09-25T08:25:21.691177Z"
   },
   "LHX5PN": {
     "route": {
@@ -3766,10 +3766,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-09-25T07:55:22.061701Z"
-  },
-  "DMYHG": {
-    "route": null,
-    "checked_at": "2026-09-23T08:20:29.268467Z"
   },
   "SAS2677": {
     "route": {
@@ -3939,7 +3935,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-24T08:40:29.839794Z"
+    "checked_at": "2026-09-25T08:25:21.691177Z"
   },
   "EWG44ME": {
     "route": {
@@ -6550,28 +6546,6 @@
     "route": null,
     "checked_at": "2026-09-24T12:05:23.139410Z"
   },
-  "TSC418": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Transat",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-09-23T08:25:21.183961Z"
-  },
-  "NOZ1943": {
-    "route": {
-      "fromCity": "Pula",
-      "fromIata": "PUY",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-23T08:25:21.183961Z"
-  },
   "SXS6WA": {
     "route": {
       "fromCity": "Berlin",
@@ -6582,17 +6556,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-24T18:55:22.421297Z"
-  },
-  "CSN467": {
-    "route": {
-      "fromCity": "Guangzhou (Huadu)",
-      "fromIata": "CAN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-23T08:25:21.183961Z"
   },
   "BPO507": {
     "route": null,
@@ -13334,5 +13297,20 @@
   "N125ME": {
     "route": null,
     "checked_at": "2026-09-25T08:20:28.935361Z"
+  },
+  "DLH894": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stavanger",
+      "toIata": "SVG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T08:25:21.691177Z"
+  },
+  "GAF830": {
+    "route": null,
+    "checked_at": "2026-09-25T08:25:21.691177Z"
   }
 }
