@@ -900,10 +900,6 @@
     },
     "checked_at": "2026-09-24T16:10:29.338199Z"
   },
-  "DEMOU": {
-    "route": null,
-    "checked_at": "2026-09-23T12:10:27.811642Z"
-  },
   "IBE07WR": {
     "route": {
       "fromCity": "Madrid",
@@ -1714,7 +1710,7 @@
       "airlineName": "Nouvelair",
       "airlineCountry": "Tunisia"
     },
-    "checked_at": "2026-09-23T13:25:22.282447Z"
+    "checked_at": "2026-09-25T12:10:28.482053Z"
   },
   "WZZ82": {
     "route": {
@@ -4787,7 +4783,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T11:50:31.046146Z"
+    "checked_at": "2026-09-25T12:10:28.482053Z"
   },
   "TAP31DB": {
     "route": {
@@ -6792,32 +6788,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-24T12:15:28.155802Z"
-  },
-  "NSZ3740": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T12:10:27.811642Z"
-  },
-  "DFIRE": {
-    "route": null,
-    "checked_at": "2026-09-23T12:10:27.811642Z"
-  },
-  "SAS58M": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T12:10:27.811642Z"
   },
   "NOZ6RE": {
     "route": {
@@ -13369,5 +13339,57 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T12:05:23.619428Z"
+  },
+  "WZZ5WE": {
+    "route": {
+      "fromCity": "Bratislava",
+      "fromIata": "BTS",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-25T12:10:28.482053Z"
+  },
+  "BTI72X": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-25T12:10:28.482053Z"
+  },
+  "BTI7FR": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-25T12:10:28.482053Z"
+  },
+  "GAC963Q": {
+    "route": null,
+    "checked_at": "2026-09-25T12:10:28.482053Z"
+  },
+  "DLH5MA": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T12:10:28.482053Z"
+  },
+  "NJE457P": {
+    "route": null,
+    "checked_at": "2026-09-25T12:10:28.482053Z"
   }
 }
