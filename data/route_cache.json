@@ -1949,7 +1949,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-23T21:15:27.857208Z"
+    "checked_at": "2026-09-25T07:15:27.764177Z"
   },
   "KLC1335": {
     "route": {
@@ -3332,7 +3332,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T06:55:24.172450Z"
+    "checked_at": "2026-09-25T07:15:27.764177Z"
   },
   "DLH3TR": {
     "route": {
@@ -3343,7 +3343,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T07:20:27.686413Z"
+    "checked_at": "2026-09-25T07:15:27.764177Z"
   },
   "FIN7HC": {
     "route": {
@@ -3377,17 +3377,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T07:50:27.780361Z"
-  },
-  "SAS1673": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T07:10:29.080131Z"
   },
   "EWG3VL": {
     "route": {
@@ -6521,28 +6510,6 @@
     },
     "checked_at": "2026-09-25T07:10:26.997293Z"
   },
-  "NSZ5362": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Stockholm",
-      "toIata": "NYO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T07:10:29.080131Z"
-  },
-  "SAS44A": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T07:10:29.080131Z"
-  },
   "SXS6SJ": {
     "route": {
       "fromCity": "Dalaman",
@@ -6553,10 +6520,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-25T07:00:49.849258Z"
-  },
-  "ATV302": {
-    "route": null,
-    "checked_at": "2026-09-23T07:10:29.080131Z"
   },
   "ETH3750": {
     "route": {
@@ -6630,7 +6593,7 @@
       "airlineName": "China Cargo Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-23T07:35:20.959869Z"
+    "checked_at": "2026-09-25T07:15:27.764177Z"
   },
   "NSZ3530": {
     "route": {
@@ -13303,5 +13266,27 @@
   "NJE906E": {
     "route": null,
     "checked_at": "2026-09-25T07:10:26.997293Z"
+  },
+  "SXS9XP": {
+    "route": {
+      "fromCity": "Bodrum",
+      "fromIata": "BJV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T07:15:27.764177Z"
+  },
+  "RYR66WW": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T07:15:27.764177Z"
   }
 }
