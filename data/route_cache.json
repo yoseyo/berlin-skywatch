@@ -2980,7 +2980,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T06:10:29.204359Z"
+    "checked_at": "2026-09-25T06:20:30.259636Z"
   },
   "SXS3FR": {
     "route": {
@@ -3014,17 +3014,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T06:15:27.405882Z"
-  },
-  "FIN6AP": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-23T06:20:27.600210Z"
   },
   "RYR120T": {
     "route": {
@@ -3847,7 +3836,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T06:05:22.183322Z"
+    "checked_at": "2026-09-25T06:20:30.259636Z"
   },
   "N759SB": {
     "route": null,
@@ -6479,17 +6468,6 @@
   "DHXFV": {
     "route": null,
     "checked_at": "2026-09-24T06:00:46.032793Z"
-  },
-  "NSZ3748": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Palermo",
-      "toIata": "PMO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T06:20:27.600210Z"
   },
   "WZZ8649": {
     "route": null,
@@ -13178,5 +13156,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T06:15:27.405882Z"
+  },
+  "NOZ1870": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-25T06:20:30.259636Z"
   }
 }
