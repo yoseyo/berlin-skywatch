@@ -6914,17 +6914,6 @@
     },
     "checked_at": "2026-09-25T17:00:54.425640Z"
   },
-  "SXS8NM": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-23T17:20:28.386222Z"
-  },
   "ASL86W": {
     "route": {
       "fromCity": "Belgrade",
@@ -13680,5 +13669,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T17:10:30.572036Z"
+  },
+  "TKJ9HJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T17:20:33.653732Z"
+  },
+  "RYR8PJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T17:20:33.653732Z"
   }
 }
