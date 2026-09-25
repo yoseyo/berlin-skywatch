@@ -773,7 +773,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-09-24T16:00:51.340958Z"
+    "checked_at": "2026-09-25T16:00:54.131600Z"
   },
   "KLM1780": {
     "route": {
@@ -5645,7 +5645,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T16:15:28.697298Z"
+    "checked_at": "2026-09-25T16:00:54.131600Z"
   },
   "OECWH": {
     "route": null,
@@ -6881,17 +6881,6 @@
     },
     "checked_at": "2026-09-25T14:40:32.407631Z"
   },
-  "NOZ1864": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-23T16:00:51.068200Z"
-  },
   "GSR1": {
     "route": null,
     "checked_at": "2026-09-23T16:10:30.274958Z"
@@ -6950,7 +6939,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T16:10:29.338199Z"
+    "checked_at": "2026-09-25T16:00:54.131600Z"
   },
   "TKJ9HJ": {
     "route": {
@@ -13613,5 +13602,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T15:55:25.351780Z"
+  },
+  "DEHGB": {
+    "route": null,
+    "checked_at": "2026-09-25T16:00:54.131600Z"
+  },
+  "EJU38DP": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T16:00:54.131600Z"
+  },
+  "EWG6YP": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T16:00:54.131600Z"
   }
 }
