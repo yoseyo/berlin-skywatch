@@ -3898,7 +3898,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-24T09:20:29.980373Z"
+    "checked_at": "2026-09-25T08:55:22.015242Z"
   },
   "RYR65ZK": {
     "route": {
@@ -4248,7 +4248,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T09:05:57.737178Z"
+    "checked_at": "2026-09-25T08:55:22.015242Z"
   },
   "TAP53LB": {
     "route": {
@@ -6129,7 +6129,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-23T14:30:38.747542Z"
+    "checked_at": "2026-09-25T08:55:22.015242Z"
   },
   "TAP4BE": {
     "route": {
@@ -6585,28 +6585,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T19:35:21.972282Z"
-  },
-  "AIB253A": {
-    "route": {
-      "fromCity": "Tornesch",
-      "fromIata": null,
-      "toCity": "Hamburg",
-      "toIata": "XFW",
-      "airlineName": "Airbus Industrie",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-23T08:55:20.632630Z"
-  },
-  "CFG1RV": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-23T08:55:20.632630Z"
   },
   "GAF640": {
     "route": null,
@@ -13304,5 +13282,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T08:50:27.765783Z"
+  },
+  "SXS9NH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bodrum",
+      "toIata": "BJV",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T08:55:22.015242Z"
   }
 }
