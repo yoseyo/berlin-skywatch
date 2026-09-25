@@ -4849,7 +4849,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-24T12:25:39.728740Z"
+    "checked_at": "2026-09-25T12:20:31.017970Z"
   },
   "SAS2733": {
     "route": {
@@ -4904,7 +4904,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T13:25:22.432225Z"
+    "checked_at": "2026-09-25T12:20:31.017970Z"
   },
   "DLH2NE": {
     "route": {
@@ -6789,10 +6789,6 @@
     },
     "checked_at": "2026-09-25T12:05:23.619428Z"
   },
-  "GAM670": {
-    "route": null,
-    "checked_at": "2026-09-23T12:20:29.352416Z"
-  },
   "LOT238": {
     "route": {
       "fromCity": "Brussels",
@@ -6813,7 +6809,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-23T12:25:20.810615Z"
+    "checked_at": "2026-09-25T12:20:31.017970Z"
   },
   "NOZ1105": {
     "route": {
@@ -9682,7 +9678,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T11:45:28.527070Z"
+    "checked_at": "2026-09-25T12:20:31.017970Z"
   },
   "DEDEW": {
     "route": null,
@@ -13380,5 +13376,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T12:14:18.286549Z"
+  },
+  "WZZ9UF": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-25T12:20:31.017970Z"
+  },
+  "DLH891": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T12:20:31.017970Z"
   }
 }
