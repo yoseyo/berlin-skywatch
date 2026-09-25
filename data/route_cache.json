@@ -799,7 +799,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-24T16:40:26.768639Z"
+    "checked_at": "2026-09-25T16:15:29.818917Z"
   },
   "DLH4MA": {
     "route": {
@@ -920,7 +920,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T16:10:29.338199Z"
+    "checked_at": "2026-09-25T16:15:29.818917Z"
   },
   "SXS6PC": {
     "route": {
@@ -980,17 +980,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-24T16:30:40.073475Z"
-  },
-  "SAS695": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T16:15:27.346769Z"
   },
   "DLH8WF": {
     "route": {
@@ -2165,7 +2154,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T16:10:29.338199Z"
+    "checked_at": "2026-09-25T16:15:29.818917Z"
   },
   "DLH4T": {
     "route": {
@@ -5549,7 +5538,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T15:45:28.389706Z"
+    "checked_at": "2026-09-25T16:15:29.818917Z"
   },
   "RYR785N": {
     "route": {
@@ -6876,14 +6865,6 @@
       "airlineCountry": "Jordan"
     },
     "checked_at": "2026-09-25T14:40:32.407631Z"
-  },
-  "GSR1": {
-    "route": null,
-    "checked_at": "2026-09-23T16:10:30.274958Z"
-  },
-  "AOJ4CL": {
-    "route": null,
-    "checked_at": "2026-09-23T16:10:30.274958Z"
   },
   "EWG63L": {
     "route": {
@@ -13628,5 +13609,16 @@
   "DEWWP": {
     "route": null,
     "checked_at": "2026-09-25T16:10:29.791763Z"
+  },
+  "LHX4EL": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T16:15:29.818917Z"
   }
 }
