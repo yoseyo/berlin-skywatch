@@ -3826,10 +3826,6 @@
     },
     "checked_at": "2026-09-25T08:20:28.935361Z"
   },
-  "EJU5088": {
-    "route": null,
-    "checked_at": "2026-09-23T08:50:27.276523Z"
-  },
   "WUK7BU": {
     "route": null,
     "checked_at": "2026-09-25T08:20:28.935361Z"
@@ -3946,7 +3942,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-23T09:35:22.618661Z"
+    "checked_at": "2026-09-25T08:50:27.765783Z"
   },
   "PBB16": {
     "route": null,
@@ -6555,7 +6551,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T18:55:22.421297Z"
+    "checked_at": "2026-09-25T08:50:27.765783Z"
   },
   "EJU95GQ": {
     "route": {
@@ -6568,17 +6564,6 @@
     },
     "checked_at": "2026-09-24T08:40:29.839794Z"
   },
-  "MGH391": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-23T08:45:28.722495Z"
-  },
   "EZY78AL": {
     "route": {
       "fromCity": "Belfast",
@@ -6589,21 +6574,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-24T18:15:27.792018Z"
-  },
-  "JFA05J": {
-    "route": null,
-    "checked_at": "2026-09-23T08:45:28.722495Z"
-  },
-  "RYR7654": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T08:45:28.722495Z"
   },
   "EJU32EY": {
     "route": {
@@ -9834,7 +9804,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T09:00:49.599170Z"
+    "checked_at": "2026-09-25T08:50:27.765783Z"
   },
   "AUA51": {
     "route": {
@@ -13323,5 +13293,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-25T08:45:27.950485Z"
+  },
+  "SAS1674": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T08:50:27.765783Z"
   }
 }
