@@ -1,27 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "EJU83XU",
-      "country": "Austria",
-      "lat": 52.2597,
-      "lon": 13.3024,
-      "altKm": 1.8,
-      "speedKmh": 505,
-      "heading": 228,
-      "vertRateMs": 17.2,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "category": "plane"
-    },
-    {
       "callsign": "EJU5261",
       "country": "Austria",
-      "lat": 52.464,
-      "lon": 13.1941,
-      "altKm": 4.2,
-      "speedKmh": 610,
-      "heading": 350,
-      "vertRateMs": 19.2,
+      "lat": 52.9377,
+      "lon": 13.0809,
+      "altKm": 7.9,
+      "speedKmh": 678,
+      "heading": 352,
+      "vertRateMs": 8.1,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -29,7 +16,37 @@
       "toCity": "Copenhagen",
       "toIata": "CPH",
       "category": "plane"
+    },
+    {
+      "callsign": "EJU43RL",
+      "country": "Austria",
+      "lat": 52.3154,
+      "lon": 13.3998,
+      "altKm": 0.8,
+      "speedKmh": 415,
+      "heading": 227,
+      "vertRateMs": 13.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "category": "plane"
+    },
+    {
+      "callsign": "KLM90J",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.2661,
+      "lon": 13.2622,
+      "altKm": 2.5,
+      "speedKmh": 437,
+      "heading": 277,
+      "vertRateMs": 12.0,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-25T04:10:31.230220Z"
+  "updated_at": "2026-09-25T04:15:29.932015Z"
 }

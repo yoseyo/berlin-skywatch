@@ -2504,7 +2504,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T04:25:22.104248Z"
+    "checked_at": "2026-09-25T04:15:29.932015Z"
   },
   "RYR58RA": {
     "route": {
@@ -6445,28 +6445,6 @@
   "ADZ3906": {
     "route": null,
     "checked_at": "2026-09-25T04:05:56.501122Z"
-  },
-  "RYR33BL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T04:15:27.622307Z"
-  },
-  "RYR39DH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T04:15:27.622307Z"
   },
   "RYR1WP": {
     "route": {
@@ -13173,5 +13151,16 @@
       "airlineCountry": "Russia"
     },
     "checked_at": "2026-09-25T03:55:21.104834Z"
+  },
+  "EJU43RL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T04:15:29.932015Z"
   }
 }
