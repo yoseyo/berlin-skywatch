@@ -4781,17 +4781,6 @@
     },
     "checked_at": "2026-09-25T12:00:50.502856Z"
   },
-  "BAW992G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-23T13:45:28.341770Z"
-  },
   "WZZ18DM": {
     "route": {
       "fromCity": "Warsaw",
@@ -6870,43 +6859,6 @@
   "DCS605": {
     "route": null,
     "checked_at": "2026-09-24T16:30:40.073475Z"
-  },
-  "CFG6JH": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-23T13:45:28.341770Z"
-  },
-  "EJU57YZ": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-23T13:50:27.887323Z"
-  },
-  "WZZ45SZ": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-23T13:50:27.887323Z"
-  },
-  "NJE489H": {
-    "route": null,
-    "checked_at": "2026-09-23T13:50:27.887323Z"
   },
   "LZB319": {
     "route": {
@@ -13425,5 +13377,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T13:45:27.984556Z"
+  },
+  "CSN6041": {
+    "route": {
+      "fromCity": "\u00dcr\u00fcmqi",
+      "fromIata": "URC",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-25T13:50:33.969048Z"
   }
 }
