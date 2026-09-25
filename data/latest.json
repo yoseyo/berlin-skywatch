@@ -1,14 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "EJU83XU",
+      "country": "Austria",
+      "lat": 52.2597,
+      "lon": 13.3024,
+      "altKm": 1.8,
+      "speedKmh": 505,
+      "heading": 228,
+      "vertRateMs": 17.2,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
       "callsign": "EJU5261",
       "country": "Austria",
-      "lat": 52.3344,
-      "lon": 13.4381,
-      "altKm": 0.7,
-      "speedKmh": 355,
-      "heading": 236,
-      "vertRateMs": 9.8,
+      "lat": 52.464,
+      "lon": 13.1941,
+      "altKm": 4.2,
+      "speedKmh": 610,
+      "heading": 350,
+      "vertRateMs": 19.2,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -16,35 +29,7 @@
       "toCity": "Copenhagen",
       "toIata": "CPH",
       "category": "plane"
-    },
-    {
-      "callsign": "ADZ3906",
-      "country": "Bulgaria",
-      "lat": 52.7083,
-      "lon": 12.7668,
-      "altKm": 10.6,
-      "speedKmh": 712,
-      "heading": 20,
-      "vertRateMs": 7.2,
-      "category": "plane"
-    },
-    {
-      "callsign": "CHH489",
-      "country": "China",
-      "lat": 52.4228,
-      "lon": 13.7965,
-      "altKm": 1.0,
-      "speedKmh": 345,
-      "heading": 249,
-      "vertRateMs": -4.5,
-      "airline": "Hainan Airlines",
-      "airlineCountry": "China",
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-25T04:05:56.501122Z"
+  "updated_at": "2026-09-25T04:10:31.230220Z"
 }
