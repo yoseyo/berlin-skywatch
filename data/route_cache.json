@@ -2688,7 +2688,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T04:55:22.781555Z"
+    "checked_at": "2026-09-25T05:05:21.899754Z"
   },
   "DAL92": {
     "route": {
@@ -2754,7 +2754,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-24T05:00:47.139525Z"
+    "checked_at": "2026-09-25T05:05:21.899754Z"
   },
   "AUA240": {
     "route": {
@@ -2765,7 +2765,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T05:10:27.437084Z"
+    "checked_at": "2026-09-25T05:05:21.899754Z"
   },
   "WMT7615": {
     "route": null,
@@ -3039,7 +3039,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-23T05:15:25.448530Z"
+    "checked_at": "2026-09-25T05:05:21.899754Z"
   },
   "AUA991B": {
     "route": {
@@ -6466,7 +6466,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T05:10:27.437084Z"
+    "checked_at": "2026-09-25T05:05:21.899754Z"
   },
   "EJU5019": {
     "route": {
@@ -13195,5 +13195,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T05:00:47.930299Z"
+  },
+  "RYR5SC": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u00d6rebro",
+      "toIata": "ORB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T05:05:21.899754Z"
+  },
+  "SAS7883": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Zakynthos Island",
+      "toIata": "ZTH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T05:05:21.899754Z"
   }
 }
