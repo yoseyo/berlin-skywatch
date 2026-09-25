@@ -34,7 +34,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-24T14:40:32.849335Z"
+    "checked_at": "2026-09-25T14:45:26.935265Z"
   },
   "RYR54CX": {
     "route": {
@@ -5405,7 +5405,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T14:05:23.685460Z"
+    "checked_at": "2026-09-25T14:45:26.935265Z"
   },
   "RYR74EM": {
     "route": {
@@ -5461,10 +5461,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-24T14:40:32.849335Z"
-  },
-  "HBJLH": {
-    "route": null,
-    "checked_at": "2026-09-23T14:45:26.637089Z"
   },
   "9ADWA": {
     "route": null,
@@ -10012,7 +10008,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T14:50:44.399467Z"
+    "checked_at": "2026-09-25T14:45:26.935265Z"
   },
   "BTI3FL": {
     "route": {
@@ -13456,5 +13452,42 @@
   "DCIFM": {
     "route": null,
     "checked_at": "2026-09-25T14:40:32.407631Z"
+  },
+  "NSZ72N": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T14:45:26.935265Z"
+  },
+  "RYR7654": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T14:45:26.935265Z"
+  },
+  "N60MK": {
+    "route": null,
+    "checked_at": "2026-09-25T14:45:26.935265Z"
+  },
+  "EWG72F": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T14:45:26.935265Z"
   }
 }
