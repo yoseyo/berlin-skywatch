@@ -2695,7 +2695,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-24T05:10:27.437084Z"
+    "checked_at": "2026-09-25T05:36:00.180033Z"
   },
   "TVF25AT": {
     "route": {
@@ -2817,11 +2817,11 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T05:25:22.817368Z"
+    "checked_at": "2026-09-25T05:36:00.180033Z"
   },
   "EWG7ED": {
     "route": null,
-    "checked_at": "2026-09-24T05:15:25.614137Z"
+    "checked_at": "2026-09-25T05:36:00.180033Z"
   },
   "NSZ8ML": {
     "route": {
@@ -2917,7 +2917,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-24T05:50:29.341428Z"
+    "checked_at": "2026-09-25T05:36:00.180033Z"
   },
   "DLH207": {
     "route": {
@@ -6468,32 +6468,6 @@
     },
     "checked_at": "2026-09-25T05:30:37.593666Z"
   },
-  "BLX523": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T05:35:39.606503Z"
-  },
-  "EJU12HB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-23T05:35:39.606503Z"
-  },
-  "BBA41": {
-    "route": null,
-    "checked_at": "2026-09-23T05:35:39.606503Z"
-  },
   "WZZ629": {
     "route": {
       "fromCity": "Sofia",
@@ -6514,7 +6488,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-24T05:25:22.817368Z"
+    "checked_at": "2026-09-25T05:36:00.180033Z"
   },
   "JFL572": {
     "route": null,
@@ -13143,5 +13117,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T05:30:37.593666Z"
+  },
+  "NSZ3730": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T05:36:00.180033Z"
+  },
+  "BTI28P": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-25T05:36:00.180033Z"
   }
 }
