@@ -5151,7 +5151,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T11:25:57.596670Z"
+    "checked_at": "2026-09-25T11:35:22.239577Z"
   },
   "MSR731": {
     "route": {
@@ -13391,5 +13391,27 @@
   "AXY156M": {
     "route": null,
     "checked_at": "2026-09-25T11:25:24.872241Z"
+  },
+  "EJU61PU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T11:35:22.239577Z"
+  },
+  "MEA246": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-09-25T11:35:22.239577Z"
   }
 }
