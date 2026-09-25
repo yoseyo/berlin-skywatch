@@ -148,7 +148,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-23T14:00:50.490539Z"
+    "checked_at": "2026-09-25T14:00:50.632445Z"
   },
   "MSR732": {
     "route": {
@@ -192,7 +192,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T13:45:28.564484Z"
+    "checked_at": "2026-09-25T14:00:50.632445Z"
   },
   "RYR1SM": {
     "route": {
@@ -2367,7 +2367,7 @@
   },
   "BPOBER": {
     "route": null,
-    "checked_at": "2026-09-24T10:40:29.521262Z"
+    "checked_at": "2026-09-25T14:00:50.632445Z"
   },
   "BCS3612": {
     "route": {
@@ -3442,7 +3442,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-24T05:20:28.315078Z"
+    "checked_at": "2026-09-25T14:00:50.632445Z"
   },
   "ELY2371": {
     "route": {
@@ -6870,10 +6870,6 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-09-25T13:45:27.984556Z"
-  },
-  "N707F": {
-    "route": null,
-    "checked_at": "2026-09-23T14:00:50.490539Z"
   },
   "JDI75T": {
     "route": null,
@@ -13421,5 +13417,20 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-25T13:55:28.460707Z"
+  },
+  "GAF602": {
+    "route": null,
+    "checked_at": "2026-09-25T14:00:50.632445Z"
+  },
+  "DLH715": {
+    "route": {
+      "fromCity": "Tokyo",
+      "fromIata": "HND",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T14:00:50.632445Z"
   }
 }
