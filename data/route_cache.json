@@ -1045,7 +1045,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T17:30:38.369434Z"
+    "checked_at": "2026-09-25T17:30:42.287176Z"
   },
   "RYR61NG": {
     "route": {
@@ -1262,7 +1262,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-24T17:50:27.291368Z"
+    "checked_at": "2026-09-25T17:30:42.287176Z"
   },
   "DLH9LC": {
     "route": {
@@ -1300,17 +1300,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T08:25:23.641229Z"
-  },
-  "SAS44L": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T17:30:40.000503Z"
   },
   "AEE8DT": {
     "route": {
@@ -3638,10 +3627,6 @@
     },
     "checked_at": "2026-09-25T06:20:30.259636Z"
   },
-  "N759SB": {
-    "route": null,
-    "checked_at": "2026-09-23T17:25:40.929173Z"
-  },
   "AHY063": {
     "route": {
       "fromCity": "Baku",
@@ -5512,7 +5497,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T08:30:40.392743Z"
+    "checked_at": "2026-09-25T17:30:42.287176Z"
   },
   "DIMCN": {
     "route": null,
@@ -6913,17 +6898,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T17:00:54.425640Z"
-  },
-  "ASL86W": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-09-23T17:30:40.000503Z"
   },
   "BTI6UN": {
     "route": {
@@ -13691,5 +13665,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T17:20:33.653732Z"
+  },
+  "SAS1761": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T17:30:42.287176Z"
+  },
+  "CTN4408": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-09-25T17:30:42.287176Z"
+  },
+  "WMT2WZ": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-25T17:30:42.287176Z"
+  },
+  "FYL17CP": {
+    "route": null,
+    "checked_at": "2026-09-25T17:30:42.287176Z"
   }
 }
