@@ -2854,7 +2854,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T05:45:26.745569Z"
+    "checked_at": "2026-09-25T06:00:47.498919Z"
   },
   "SWR5XL": {
     "route": {
@@ -2917,7 +2917,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T05:55:19.446351Z"
+    "checked_at": "2026-09-25T06:00:47.498919Z"
   },
   "DLH2X": {
     "route": {
@@ -13149,5 +13149,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T05:55:23.356944Z"
+  },
+  "BTI83L": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-25T06:00:47.498919Z"
+  },
+  "JTD213": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-25T06:00:47.498919Z"
+  },
+  "PAV525": {
+    "route": null,
+    "checked_at": "2026-09-25T06:00:47.498919Z"
   }
 }
