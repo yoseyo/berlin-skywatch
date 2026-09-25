@@ -6869,7 +6869,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-24T11:45:28.527070Z"
+    "checked_at": "2026-09-25T11:10:29.327211Z"
   },
   "FJO69N": {
     "route": null,
@@ -11005,7 +11005,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T17:30:38.369434Z"
+    "checked_at": "2026-09-25T11:10:29.327211Z"
   },
   "EWG3KA": {
     "route": {
@@ -13368,5 +13368,49 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T11:05:27.363070Z"
+  },
+  "BEL9CK": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-09-25T11:10:29.327211Z"
+  },
+  "EJU46TQ": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T11:10:29.327211Z"
+  },
+  "THY9RZ": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T11:10:29.327211Z"
+  },
+  "RYR96AP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T11:10:29.327211Z"
   }
 }
