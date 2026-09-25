@@ -115,7 +115,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T10:45:27.118172Z"
+    "checked_at": "2026-09-25T11:05:27.363070Z"
   },
   "SWR9YP": {
     "route": {
@@ -4622,7 +4622,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-24T11:35:23.838796Z"
+    "checked_at": "2026-09-25T11:05:27.363070Z"
   },
   "TKJ2JY": {
     "route": {
@@ -6715,17 +6715,6 @@
     },
     "checked_at": "2026-09-24T10:25:24.424007Z"
   },
-  "BEL9CK": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-09-23T11:05:24.983536Z"
-  },
   "NOZ1104": {
     "route": {
       "fromCity": "Oslo",
@@ -6737,17 +6726,6 @@
     },
     "checked_at": "2026-09-24T11:20:29.920501Z"
   },
-  "NOZ9047": {
-    "route": {
-      "fromCity": "Zakynthos Island",
-      "fromIata": "ZTH",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-23T11:05:24.983536Z"
-  },
   "SWR5VH": {
     "route": {
       "fromCity": "Zurich",
@@ -6758,28 +6736,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-25T07:00:49.849258Z"
-  },
-  "RYR4TR": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T11:05:24.983536Z"
-  },
-  "EWG1CN": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-23T11:05:24.983536Z"
   },
   "SEVPF": {
     "route": null,
@@ -13386,5 +13342,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T11:00:51.738111Z"
+  },
+  "QTR72U": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-09-25T11:05:27.363070Z"
+  },
+  "DEAFG": {
+    "route": null,
+    "checked_at": "2026-09-25T11:05:27.363070Z"
+  },
+  "SAS67W": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T11:05:27.363070Z"
   }
 }
