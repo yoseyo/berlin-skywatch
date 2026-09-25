@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-25T21:45:27.360637Z"
+  "flights": [
+    {
+      "callsign": "NSZ24N",
+      "country": "Sweden",
+      "lat": 52.3621,
+      "lon": 13.5919,
+      "altKm": 12.3,
+      "speedKmh": 802,
+      "heading": 28,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR6ZW",
+      "country": "Ireland",
+      "lat": 52.1531,
+      "lon": 13.9393,
+      "altKm": 12.0,
+      "speedKmh": 767,
+      "heading": 347,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Zemunik (Zadar)",
+      "fromIata": "ZAD",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-25T21:50:27.690665Z"
 }
