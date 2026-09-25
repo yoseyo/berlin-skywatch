@@ -4226,7 +4226,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-24T10:00:52.943598Z"
+    "checked_at": "2026-09-25T09:40:29.919666Z"
   },
   "NSZ3289": {
     "route": {
@@ -4325,7 +4325,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-24T10:10:27.366619Z"
+    "checked_at": "2026-09-25T09:40:29.919666Z"
   },
   "KLM75C": {
     "route": {
@@ -4461,7 +4461,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T09:30:38.888279Z"
+    "checked_at": "2026-09-25T09:40:29.919666Z"
   },
   "QTR73V": {
     "route": {
@@ -13378,5 +13378,42 @@
       "airlineCountry": "Mongolia"
     },
     "checked_at": "2026-09-25T09:35:24.765793Z"
+  },
+  "EWG4DA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T09:40:29.919666Z"
+  },
+  "MMF68": {
+    "route": null,
+    "checked_at": "2026-09-25T09:40:29.919666Z"
+  },
+  "PGT1678": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T09:40:29.919666Z"
+  },
+  "CXI8T": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-25T09:40:29.919666Z"
   }
 }
