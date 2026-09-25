@@ -3688,7 +3688,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T08:05:27.954774Z"
+    "checked_at": "2026-09-25T08:30:41.316962Z"
   },
   "ASL19P": {
     "route": {
@@ -3813,7 +3813,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-24T08:30:40.392743Z"
+    "checked_at": "2026-09-25T08:30:41.316962Z"
   },
   "IBE07TT": {
     "route": {
@@ -4204,7 +4204,7 @@
   },
   "DEBTB": {
     "route": null,
-    "checked_at": "2026-09-24T08:10:30.720132Z"
+    "checked_at": "2026-09-25T08:30:41.316962Z"
   },
   "9AJET": {
     "route": null,
@@ -6556,25 +6556,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-24T18:55:22.421297Z"
-  },
-  "BPO507": {
-    "route": null,
-    "checked_at": "2026-09-23T08:30:39.305672Z"
-  },
-  "RYR9BJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T08:30:39.305672Z"
-  },
-  "9HBTC": {
-    "route": null,
-    "checked_at": "2026-09-23T08:30:39.305672Z"
   },
   "EJU95GQ": {
     "route": {
@@ -9372,7 +9353,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T05:45:26.745569Z"
+    "checked_at": "2026-09-25T08:30:41.316962Z"
   },
   "DICMK": {
     "route": null,
@@ -13312,5 +13293,16 @@
   "GAF830": {
     "route": null,
     "checked_at": "2026-09-25T08:25:21.691177Z"
+  },
+  "RYR8EM": {
+    "route": {
+      "fromCity": "Bratislava",
+      "fromIata": "BTS",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T08:30:41.316962Z"
   }
 }
