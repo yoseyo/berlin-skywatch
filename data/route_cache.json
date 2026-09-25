@@ -4952,7 +4952,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T12:15:28.155802Z"
+    "checked_at": "2026-09-25T11:55:26.096285Z"
   },
   "WMT1RH": {
     "route": {
@@ -6738,10 +6738,6 @@
     "route": null,
     "checked_at": "2026-09-24T09:05:21.598986Z"
   },
-  "JTD308": {
-    "route": null,
-    "checked_at": "2026-09-23T11:55:22.179701Z"
-  },
   "RYR3EM": {
     "route": {
       "fromCity": "Berlin",
@@ -6752,17 +6748,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T11:00:51.738111Z"
-  },
-  "RYR50PQ": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T11:55:22.179701Z"
   },
   "EWG5SP": {
     "route": {
@@ -9957,7 +9942,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T12:50:31.970687Z"
+    "checked_at": "2026-09-25T11:55:26.096285Z"
   },
   "NSZ3308": {
     "route": {
@@ -13373,5 +13358,31 @@
   "GAF623": {
     "route": null,
     "checked_at": "2026-09-25T11:45:27.087767Z"
+  },
+  "DLH3TT": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T11:55:26.096285Z"
+  },
+  "RYR9WM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T11:55:26.096285Z"
+  },
+  "EFD1E": {
+    "route": null,
+    "checked_at": "2026-09-25T11:55:26.096285Z"
   }
 }
