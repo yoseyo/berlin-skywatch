@@ -4001,7 +4001,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T09:25:22.999096Z"
+    "checked_at": "2026-09-25T09:35:24.765793Z"
   },
   "RYR4TC": {
     "route": {
@@ -4347,7 +4347,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-24T09:35:20.725890Z"
+    "checked_at": "2026-09-25T09:35:24.765793Z"
   },
   "AHY064": {
     "route": {
@@ -13356,5 +13356,27 @@
   "OKAED": {
     "route": null,
     "checked_at": "2026-09-25T09:30:42.198638Z"
+  },
+  "THY1LP": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T09:35:24.765793Z"
+  },
+  "MGL137": {
+    "route": {
+      "fromCity": "Ulaanbaatar (Sergelen)",
+      "fromIata": "UBN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "MIAT Mongolian Airlines",
+      "airlineCountry": "Mongolia"
+    },
+    "checked_at": "2026-09-25T09:35:24.765793Z"
   }
 }
