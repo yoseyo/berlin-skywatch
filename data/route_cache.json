@@ -957,7 +957,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T16:50:29.161849Z"
+    "checked_at": "2026-09-25T16:45:29.915634Z"
   },
   "AUA234G": {
     "route": {
@@ -968,7 +968,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T16:55:21.345684Z"
+    "checked_at": "2026-09-25T16:45:29.915634Z"
   },
   "AUA99HC": {
     "route": {
@@ -1034,7 +1034,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T17:25:21.941392Z"
+    "checked_at": "2026-09-25T16:45:29.915634Z"
   },
   "LHX195": {
     "route": {
@@ -1251,7 +1251,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T17:05:21.514656Z"
+    "checked_at": "2026-09-25T16:45:29.915634Z"
   },
   "LOT3KT": {
     "route": {
@@ -5322,10 +5322,6 @@
     },
     "checked_at": "2026-09-25T16:10:29.791763Z"
   },
-  "ELJ402": {
-    "route": null,
-    "checked_at": "2026-09-23T16:45:27.649603Z"
-  },
   "LHX6T": {
     "route": {
       "fromCity": "Munich",
@@ -6906,17 +6902,6 @@
   "EJU5075": {
     "route": null,
     "checked_at": "2026-09-24T16:55:21.345684Z"
-  },
-  "NOZ6VM": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-23T16:45:27.649603Z"
   },
   "EJU5017": {
     "route": {
@@ -13624,5 +13609,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T16:40:31.413380Z"
+  },
+  "JTD331": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-25T16:45:29.915634Z"
+  },
+  "ATV503": {
+    "route": null,
+    "checked_at": "2026-09-25T16:45:29.915634Z"
+  },
+  "EXS64TZ": {
+    "route": {
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Jet2.com",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-25T16:45:29.915634Z"
   }
 }
