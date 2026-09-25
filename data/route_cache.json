@@ -3968,7 +3968,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T09:20:29.980373Z"
+    "checked_at": "2026-09-25T09:25:26.039783Z"
   },
   "NSZ82ME": {
     "route": {
@@ -4215,7 +4215,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T09:20:29.980373Z"
+    "checked_at": "2026-09-25T09:25:26.039783Z"
   },
   "LOT266": {
     "route": {
@@ -6644,72 +6644,6 @@
   "LNX23JG": {
     "route": null,
     "checked_at": "2026-09-24T12:50:31.970687Z"
-  },
-  "NSZ23PH": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T09:25:23.376319Z"
-  },
-  "UAE93Q": {
-    "route": {
-      "fromCity": "Seattle",
-      "fromIata": "SEA",
-      "toCity": "Dubai",
-      "toIata": "DXB",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-09-23T09:25:23.376319Z"
-  },
-  "FIN1802": {
-    "route": {
-      "fromCity": "Verona",
-      "fromIata": "VRN",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-23T09:25:23.376319Z"
-  },
-  "RYR2YL": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T09:25:23.376319Z"
-  },
-  "RYR76WJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T09:25:23.376319Z"
-  },
-  "SDR70MN": {
-    "route": {
-      "fromCity": "Burgas",
-      "fromIata": "BOJ",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T09:25:23.376319Z"
   },
   "DMEYO": {
     "route": null,
@@ -13384,5 +13318,46 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T09:20:31.586411Z"
+  },
+  "NSZ79AY": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-25T09:25:26.039783Z"
+  },
+  "RYR30RG": {
+    "route": {
+      "fromCity": "Banja Luka",
+      "fromIata": "BNX",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T09:25:26.039783Z"
+  },
+  "SUA4B": {
+    "route": null,
+    "checked_at": "2026-09-25T09:25:26.039783Z"
+  },
+  "EJU79XD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T09:25:26.039783Z"
+  },
+  "TJD403": {
+    "route": null,
+    "checked_at": "2026-09-25T09:25:26.039783Z"
   }
 }
