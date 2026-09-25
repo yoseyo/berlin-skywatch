@@ -6675,17 +6675,6 @@
     },
     "checked_at": "2026-09-24T12:40:33.546009Z"
   },
-  "BTI3BP": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-23T10:25:22.710115Z"
-  },
   "NOZ6TY": {
     "route": {
       "fromCity": "Oslo",
@@ -6728,7 +6717,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-23T10:30:37.774130Z"
+    "checked_at": "2026-09-25T10:30:35.872204Z"
   },
   "BAG11": {
     "route": null,
@@ -9448,7 +9437,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T08:25:23.641229Z"
+    "checked_at": "2026-09-25T10:30:35.872204Z"
   },
   "SAS62T": {
     "route": {
@@ -10082,7 +10071,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T11:35:23.838796Z"
+    "checked_at": "2026-09-25T10:30:35.872204Z"
   },
   "GSM500": {
     "route": null,
@@ -13407,5 +13396,27 @@
   "SHADO40": {
     "route": null,
     "checked_at": "2026-09-25T10:21:07.925456Z"
+  },
+  "EJU49LD": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T10:30:35.872204Z"
+  },
+  "DLH2607": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T10:30:35.872204Z"
   }
 }
