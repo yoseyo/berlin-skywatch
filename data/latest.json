@@ -1,14 +1,42 @@
 {
   "flights": [
     {
+      "callsign": "EJU5261",
+      "country": "Austria",
+      "lat": 52.3344,
+      "lon": 13.4381,
+      "altKm": 0.7,
+      "speedKmh": 355,
+      "heading": 236,
+      "vertRateMs": 9.8,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "ADZ3906",
+      "country": "Bulgaria",
+      "lat": 52.7083,
+      "lon": 12.7668,
+      "altKm": 10.6,
+      "speedKmh": 712,
+      "heading": 20,
+      "vertRateMs": 7.2,
+      "category": "plane"
+    },
+    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.7747,
-      "lon": 13.8435,
-      "altKm": 2.9,
-      "speedKmh": 548,
-      "heading": 180,
-      "vertRateMs": -8.8,
+      "lat": 52.4228,
+      "lon": 13.7965,
+      "altKm": 1.0,
+      "speedKmh": 345,
+      "heading": 249,
+      "vertRateMs": -4.5,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -16,20 +44,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR3NJ",
-      "country": "Ireland",
-      "lat": 52.3478,
-      "lon": 13.403,
-      "altKm": 1.1,
-      "speedKmh": 329,
-      "heading": 249,
-      "vertRateMs": 6.5,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-25T04:00:47.009045Z"
+  "updated_at": "2026-09-25T04:05:56.501122Z"
 }
