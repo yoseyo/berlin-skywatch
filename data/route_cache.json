@@ -3068,7 +3068,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T07:25:22.622111Z"
+    "checked_at": "2026-09-25T07:20:27.430082Z"
   },
   "DLH2606": {
     "route": {
@@ -3505,7 +3505,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-09-24T07:35:23.496193Z"
+    "checked_at": "2026-09-25T07:20:27.430082Z"
   },
   "SWR2HD": {
     "route": {
@@ -5573,7 +5573,7 @@
   },
   "EUL3T": {
     "route": null,
-    "checked_at": "2026-09-24T11:25:57.596670Z"
+    "checked_at": "2026-09-25T07:20:27.430082Z"
   },
   "UAE57X": {
     "route": {
@@ -6482,7 +6482,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-24T06:50:26.972737Z"
+    "checked_at": "2026-09-25T07:20:27.430082Z"
   },
   "WZZ2550": {
     "route": null,
@@ -6520,17 +6520,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-25T07:00:49.849258Z"
-  },
-  "ETH3750": {
-    "route": {
-      "fromCity": "Li\u00e8ge",
-      "fromIata": "LGG",
-      "toCity": "Guangzhou (Huadu)",
-      "toIata": "CAN",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-09-23T07:15:33.074864Z"
   },
   "BAW84NT": {
     "route": {
@@ -10287,7 +10276,7 @@
   },
   "JOKER35": {
     "route": null,
-    "checked_at": "2026-09-24T09:50:30.368637Z"
+    "checked_at": "2026-09-25T07:20:27.430082Z"
   },
   "CFG8DF": {
     "route": {
@@ -13288,5 +13277,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T07:15:27.764177Z"
+  },
+  "DLH6PP": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T07:20:27.430082Z"
+  },
+  "CFG2HD": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T07:20:27.430082Z"
   }
 }
