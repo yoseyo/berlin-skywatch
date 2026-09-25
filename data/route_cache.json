@@ -4314,7 +4314,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-09-24T09:55:23.223645Z"
+    "checked_at": "2026-09-25T09:55:23.088522Z"
   },
   "AFR65AR": {
     "route": {
@@ -4413,7 +4413,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-24T10:00:52.943598Z"
+    "checked_at": "2026-09-25T09:55:23.088522Z"
   },
   "EJU43CD": {
     "route": {
@@ -6652,28 +6652,6 @@
   "BBB1": {
     "route": null,
     "checked_at": "2026-09-24T07:10:30.712369Z"
-  },
-  "THY8LV": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-23T09:50:29.471224Z"
-  },
-  "SDR14YL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T09:55:22.905343Z"
   },
   "RYR13PB": {
     "route": {
@@ -13433,5 +13411,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T09:50:27.270766Z"
+  },
+  "FIN2WC": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-25T09:55:23.088522Z"
+  },
+  "MEA245": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-09-25T09:55:23.088522Z"
+  },
+  "LOT6KG": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-25T09:55:23.088522Z"
   }
 }
