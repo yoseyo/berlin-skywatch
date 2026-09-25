@@ -3094,7 +3094,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-24T06:25:21.212339Z"
+    "checked_at": "2026-09-25T06:30:38.128766Z"
   },
   "RYR98HW": {
     "route": {
@@ -3940,7 +3940,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T08:45:28.987290Z"
+    "checked_at": "2026-09-25T06:30:38.128766Z"
   },
   "TVF41HV": {
     "route": {
@@ -6528,7 +6528,7 @@
   },
   "WZZ2550": {
     "route": null,
-    "checked_at": "2026-09-23T06:50:29.396289Z"
+    "checked_at": "2026-09-25T06:30:38.128766Z"
   },
   "PGT982": {
     "route": {
@@ -9796,7 +9796,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T06:30:41.325966Z"
+    "checked_at": "2026-09-25T06:30:38.128766Z"
   },
   "CTN848R": {
     "route": {
@@ -13189,5 +13189,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T06:25:23.323586Z"
+  },
+  "WMT9SL": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-25T06:30:38.128766Z"
+  },
+  "DLH7YC": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-25T06:30:38.128766Z"
+  },
+  "SUA6B": {
+    "route": null,
+    "checked_at": "2026-09-25T06:30:38.128766Z"
+  },
+  "FIN5R": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-25T06:30:38.128766Z"
   }
 }
