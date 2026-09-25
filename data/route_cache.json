@@ -4150,10 +4150,6 @@
     "route": null,
     "checked_at": "2026-09-25T08:30:41.316962Z"
   },
-  "9AJET": {
-    "route": null,
-    "checked_at": "2026-09-23T12:55:21.679516Z"
-  },
   "AUA226K": {
     "route": {
       "fromCity": "Berlin",
@@ -5000,7 +4996,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-24T12:20:29.565644Z"
+    "checked_at": "2026-09-25T12:55:24.378204Z"
   },
   "EJU57RF": {
     "route": {
@@ -5173,7 +5169,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T13:00:51.055102Z"
+    "checked_at": "2026-09-25T12:55:24.378204Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -6830,32 +6826,6 @@
     "route": null,
     "checked_at": "2026-09-24T05:40:28.421670Z"
   },
-  "BTI7NV": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-23T12:55:21.679516Z"
-  },
-  "CES5014": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Xi'an",
-      "toIata": "XIY",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-23T12:55:21.679516Z"
-  },
-  "DFKAE": {
-    "route": null,
-    "checked_at": "2026-09-23T12:55:21.679516Z"
-  },
   "RYR63VQ": {
     "route": {
       "fromCity": "Brussels",
@@ -6939,7 +6909,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-24T13:15:28.986161Z"
+    "checked_at": "2026-09-25T12:55:24.378204Z"
   },
   "DLH2WR": {
     "route": {
@@ -13394,5 +13364,16 @@
   "VJT486": {
     "route": null,
     "checked_at": "2026-09-25T12:50:32.032750Z"
+  },
+  "THY79K": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-25T12:55:24.378204Z"
   }
 }
