@@ -990,7 +990,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T16:55:21.345684Z"
+    "checked_at": "2026-09-25T17:05:59.149773Z"
   },
   "EWG33J": {
     "route": {
@@ -1023,7 +1023,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T16:50:29.161849Z"
+    "checked_at": "2026-09-25T17:05:59.149773Z"
   },
   "AUA235D": {
     "route": {
@@ -1071,11 +1071,11 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T17:00:48.376906Z"
+    "checked_at": "2026-09-25T17:05:59.149773Z"
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-09-24T17:10:30.916568Z"
+    "checked_at": "2026-09-25T17:05:59.149773Z"
   },
   "BEL9PY": {
     "route": {
@@ -5211,17 +5211,6 @@
     },
     "checked_at": "2026-09-24T12:35:25.490018Z"
   },
-  "RYR62XF": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-23T17:05:23.008850Z"
-  },
   "THY3TR": {
     "route": {
       "fromCity": "\u0130zmir",
@@ -6902,17 +6891,6 @@
   "EJU5075": {
     "route": null,
     "checked_at": "2026-09-24T16:55:21.345684Z"
-  },
-  "EJU5017": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-23T17:05:23.008850Z"
   },
   "RYR5SB": {
     "route": {
@@ -13724,5 +13702,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T17:00:54.425640Z"
+  },
+  "N215SD": {
+    "route": null,
+    "checked_at": "2026-09-25T17:05:59.149773Z"
+  },
+  "EJU58DM": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-25T17:05:59.149773Z"
+  },
+  "RYR8879": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-25T17:05:59.149773Z"
   }
 }
