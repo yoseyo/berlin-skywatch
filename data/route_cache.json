@@ -4571,7 +4571,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-24T11:45:28.527070Z"
+    "checked_at": "2026-09-25T10:50:29.230155Z"
   },
   "SXS1CM": {
     "route": {
@@ -4637,7 +4637,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T10:55:23.509442Z"
+    "checked_at": "2026-09-25T10:50:29.230155Z"
   },
   "SAS1665": {
     "route": {
@@ -5672,7 +5672,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-23T11:45:27.941996Z"
+    "checked_at": "2026-09-25T10:50:29.230155Z"
   },
   "EWG3AM": {
     "route": {
@@ -10323,7 +10323,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-09-24T13:25:22.432225Z"
+    "checked_at": "2026-09-25T10:50:29.230155Z"
   },
   "PHSLG": {
     "route": null,
@@ -13352,5 +13352,27 @@
       "airlineCountry": "Tunisia"
     },
     "checked_at": "2026-09-25T10:40:29.727942Z"
+  },
+  "BTI3BP": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-25T10:50:29.230155Z"
+  },
+  "ENT1512": {
+    "route": {
+      "fromCity": "Agadir (Temsia)",
+      "fromIata": "AGA",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-25T10:50:29.230155Z"
   }
 }
