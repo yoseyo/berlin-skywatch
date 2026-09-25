@@ -369,7 +369,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-24T15:15:33.587025Z"
+    "checked_at": "2026-09-25T15:00:55.145958Z"
   },
   "KLM1779": {
     "route": {
@@ -6841,25 +6841,6 @@
     },
     "checked_at": "2026-09-24T20:55:22.290696Z"
   },
-  "ELJ401": {
-    "route": null,
-    "checked_at": "2026-09-23T14:55:29.039548Z"
-  },
-  "BOH813": {
-    "route": null,
-    "checked_at": "2026-09-23T14:55:29.039548Z"
-  },
-  "NSZ3299": {
-    "route": {
-      "fromCity": "Sarajevo",
-      "fromIata": "SJJ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-23T15:00:54.510322Z"
-  },
   "LZB320": {
     "route": {
       "fromCity": "Berlin",
@@ -6895,7 +6876,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-24T15:00:53.509344Z"
+    "checked_at": "2026-09-25T15:00:55.145958Z"
   },
   "CFG9NX": {
     "route": {
@@ -13512,5 +13493,16 @@
   "CAT311": {
     "route": null,
     "checked_at": "2026-09-25T14:55:24.356959Z"
+  },
+  "UZB251": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-09-25T15:00:55.145958Z"
   }
 }
