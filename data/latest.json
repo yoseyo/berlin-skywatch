@@ -1,4 +1,56 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-25T21:30:38.245192Z"
+  "flights": [
+    {
+      "callsign": "DLH2466",
+      "country": "Latvia",
+      "lat": 52.181,
+      "lon": 13.8044,
+      "altKm": 11.7,
+      "speedKmh": 782,
+      "heading": 18,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    },
+    {
+      "callsign": "JTD396",
+      "country": "Denmark",
+      "lat": 52.4288,
+      "lon": 13.825,
+      "altKm": 12.0,
+      "speedKmh": 756,
+      "heading": 347,
+      "vertRateMs": -0.3,
+      "airline": "Jet Time",
+      "airlineCountry": "Denmark",
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG3PD",
+      "country": "Germany",
+      "lat": 52.1433,
+      "lon": 12.8995,
+      "altKm": 1.9,
+      "speedKmh": 516,
+      "heading": 55,
+      "vertRateMs": -7.8,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-25T21:35:22.550636Z"
 }
