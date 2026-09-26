@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "WZZ671",
-      "country": "Hungary",
-      "lat": 52.1819,
-      "lon": 13.961,
-      "altKm": 11.0,
-      "speedKmh": 895,
-      "heading": 46,
+      "callsign": "NSZ3371",
+      "country": "Sweden",
+      "lat": 52.8206,
+      "lon": 13.9094,
+      "altKm": 11.9,
+      "speedKmh": 778,
+      "heading": 344,
       "vertRateMs": 0,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "AWH95T",
+      "country": "Germany",
+      "lat": 52.3022,
+      "lon": 12.7572,
+      "altKm": 2.9,
+      "speedKmh": 479,
+      "heading": 98,
+      "vertRateMs": -7.8,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T21:55:21.802727Z"
+  "updated_at": "2026-09-26T22:00:45.929994Z"
 }
