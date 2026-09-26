@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-26T21:40:25.804919Z"
+  "flights": [
+    {
+      "callsign": "EJU67GK",
+      "country": "Austria",
+      "lat": 52.1427,
+      "lon": 13.3157,
+      "altKm": 1.8,
+      "speedKmh": 501,
+      "heading": 326,
+      "vertRateMs": -7.5,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "SAS7776",
+      "country": "Sweden",
+      "lat": 52.1369,
+      "lon": 13.9429,
+      "altKm": 11.9,
+      "speedKmh": 760,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-26T21:45:26.396759Z"
 }
