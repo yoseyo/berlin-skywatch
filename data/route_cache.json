@@ -317,7 +317,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-09-25T22:50:28.616201Z"
+    "checked_at": "2026-09-26T16:50:29.585594Z"
   },
   "DLH192": {
     "route": {
@@ -912,7 +912,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-25T17:05:59.149773Z"
+    "checked_at": "2026-09-26T16:50:29.585594Z"
   },
   "AUA235D": {
     "route": {
@@ -965,17 +965,6 @@
   "AFR17RZ": {
     "route": null,
     "checked_at": "2026-09-25T17:05:59.149773Z"
-  },
-  "BEL9PY": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-09-24T16:46:04.877116Z"
   },
   "EJU59FK": {
     "route": {
@@ -1053,17 +1042,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-09-25T17:00:54.425640Z"
-  },
-  "EWG6RY": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T16:50:29.161849Z"
   },
   "SWR1PF": {
     "route": {
@@ -3422,7 +3400,7 @@
   },
   "PBB16": {
     "route": null,
-    "checked_at": "2026-09-25T23:40:27.378268Z"
+    "checked_at": "2026-09-26T16:50:29.585594Z"
   },
   "DLH179": {
     "route": {
@@ -6901,10 +6879,6 @@
     "route": null,
     "checked_at": "2026-09-25T07:40:27.236350Z"
   },
-  "MFX7615": {
-    "route": null,
-    "checked_at": "2026-09-24T16:46:04.877116Z"
-  },
   "VKG754": {
     "route": {
       "fromCity": "Gothenburg",
@@ -7691,7 +7665,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T20:46:02.063100Z"
+    "checked_at": "2026-09-26T16:50:29.585594Z"
   },
   "EJU32RT": {
     "route": null,
@@ -13564,5 +13538,16 @@
   "JEI565": {
     "route": null,
     "checked_at": "2026-09-26T16:45:28.362556Z"
+  },
+  "SAS7845": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T16:50:29.585594Z"
   }
 }
