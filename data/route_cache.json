@@ -578,7 +578,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T16:05:23.370453Z"
+    "checked_at": "2026-09-26T15:50:30.437414Z"
   },
   "DLH7T": {
     "route": {
@@ -6911,43 +6911,6 @@
   "LHX3PP": {
     "route": null,
     "checked_at": "2026-09-25T15:11:06.271419Z"
-  },
-  "NSZ4357": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T15:45:28.389706Z"
-  },
-  "EJU42DC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-24T15:45:28.389706Z"
-  },
-  "DLH4HH": {
-    "route": {
-      "fromCity": "Bologna",
-      "fromIata": "BLQ",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T15:50:29.451540Z"
-  },
-  "NJE016V": {
-    "route": null,
-    "checked_at": "2026-09-24T15:50:29.451540Z"
   },
   "VKG426": {
     "route": {
@@ -13533,5 +13496,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-09-26T15:40:26.824419Z"
+  },
+  "NSZ3298": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T15:50:30.437414Z"
+  },
+  "SAS7978": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T15:50:30.437414Z"
   }
 }
