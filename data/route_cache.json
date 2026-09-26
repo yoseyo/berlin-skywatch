@@ -203,7 +203,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-09-26T06:00:47.849837Z"
+    "checked_at": "2026-09-26T19:15:30.995006Z"
   },
   "TAP532B": {
     "route": {
@@ -4909,17 +4909,6 @@
     },
     "checked_at": "2026-09-25T18:20:29.621442Z"
   },
-  "CCA932": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-24T19:10:27.750413Z"
-  },
   "THY91B": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -4930,17 +4919,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-25T18:50:30.066062Z"
-  },
-  "DLH892": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T19:10:27.750413Z"
   },
   "BTI3PR": {
     "route": {
@@ -8786,7 +8764,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T10:00:47.340773Z"
+    "checked_at": "2026-09-26T19:15:30.995006Z"
   },
   "BTI4WA": {
     "route": {
@@ -13545,5 +13523,16 @@
       "airlineCountry": "Georgia"
     },
     "checked_at": "2026-09-26T19:10:27.242670Z"
+  },
+  "WZZ6LM": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-26T19:15:30.995006Z"
   }
 }
