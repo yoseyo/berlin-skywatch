@@ -1265,7 +1265,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T18:55:22.226015Z"
+    "checked_at": "2026-09-26T17:55:20.391706Z"
   },
   "EJU5267": {
     "route": {
@@ -4775,7 +4775,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T10:50:29.230155Z"
+    "checked_at": "2026-09-26T17:55:20.391706Z"
   },
   "EWG3AM": {
     "route": {
@@ -6879,17 +6879,6 @@
     },
     "checked_at": "2026-09-25T18:45:31.512805Z"
   },
-  "BLX203": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Lamezia Terme (CZ)",
-      "toIata": "SUF",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T17:50:27.291368Z"
-  },
   "DLH3YA": {
     "route": {
       "fromCity": "Munich",
@@ -6900,17 +6889,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-25T17:40:30.342557Z"
-  },
-  "RYR87DD": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-24T17:50:27.291368Z"
   },
   "TVF801D": {
     "route": {
@@ -8427,7 +8405,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T07:30:38.881600Z"
+    "checked_at": "2026-09-26T17:55:20.391706Z"
   },
   "CAT240": {
     "route": null,
@@ -13574,5 +13552,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-26T17:40:27.856953Z"
+  },
+  "ETH725": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Addis Ababa",
+      "toIata": "ADD",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-09-26T17:55:20.391706Z"
   }
 }
