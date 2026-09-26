@@ -1665,7 +1665,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-25T19:55:21.785987Z"
+    "checked_at": "2026-09-26T19:25:20.601253Z"
   },
   "RYR3RD": {
     "route": {
@@ -4918,7 +4918,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T18:50:30.066062Z"
+    "checked_at": "2026-09-26T19:25:20.601253Z"
   },
   "BTI3PR": {
     "route": {
@@ -5573,7 +5573,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T11:00:51.738111Z"
+    "checked_at": "2026-09-26T19:25:20.601253Z"
   },
   "EWG5SP": {
     "route": {
@@ -7018,17 +7018,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T19:30:41.004459Z"
-  },
-  "RYR19ZZ": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-24T19:20:29.521885Z"
   },
   "NSZ5GT": {
     "route": {
@@ -13534,5 +13523,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-26T19:15:30.995006Z"
+  },
+  "WZZ340K": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-26T19:25:20.601253Z"
   }
 }
