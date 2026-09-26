@@ -5387,10 +5387,6 @@
     },
     "checked_at": "2026-09-26T10:15:27.892621Z"
   },
-  "JFL572": {
-    "route": null,
-    "checked_at": "2026-09-24T14:15:28.099286Z"
-  },
   "JFL441": {
     "route": null,
     "checked_at": "2026-09-24T14:20:29.210697Z"
@@ -6841,7 +6837,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-25T13:35:24.684978Z"
+    "checked_at": "2026-09-26T14:20:26.561357Z"
   },
   "DBJUK": {
     "route": null,
@@ -6865,17 +6861,6 @@
   "TTJ600": {
     "route": null,
     "checked_at": "2026-09-25T07:55:22.061701Z"
-  },
-  "EWG86H": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T14:15:28.099286Z"
   },
   "OEEKA": {
     "route": null,
@@ -13588,5 +13573,42 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-09-26T14:15:26.486078Z"
+  },
+  "THY95Y": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-26T14:20:26.561357Z"
+  },
+  "JTD253": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-26T14:20:26.561357Z"
+  },
+  "BSF979A": {
+    "route": null,
+    "checked_at": "2026-09-26T14:20:26.561357Z"
+  },
+  "RYR14WN": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T14:20:26.561357Z"
   }
 }
