@@ -1,27 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "CHX82",
-      "country": "Germany",
-      "lat": 52.5224,
-      "lon": 13.5761,
-      "altKm": 0.2,
-      "speedKmh": 83,
-      "heading": 228,
-      "vertRateMs": -1.6,
+      "callsign": "THY4KG",
+      "country": "Turkey",
+      "lat": 52.9406,
+      "lon": 13.5541,
+      "altKm": 10.7,
+      "speedKmh": 891,
+      "heading": 308,
+      "vertRateMs": -0.3,
+      "airline": "Turkish Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "New York",
+      "toIata": "JFK",
       "category": "plane"
     },
     {
       "callsign": "PBB16",
       "country": "Germany",
-      "lat": 52.5377,
-      "lon": 13.3525,
+      "lat": 52.5549,
+      "lon": 13.1014,
       "altKm": 0.6,
-      "speedKmh": 202,
+      "speedKmh": 136,
       "heading": 278,
-      "vertRateMs": 0,
+      "vertRateMs": -0.3,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-09-26T00:25:23.209472Z"
+  "updated_at": "2026-09-26T00:30:36.512958Z"
 }
