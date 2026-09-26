@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "NOZ1851",
-      "country": "Norway",
-      "lat": 52.3862,
-      "lon": 13.1091,
-      "altKm": 11.3,
-      "speedKmh": 787,
-      "heading": 352,
+      "callsign": "RYR5WP",
+      "country": "Poland",
+      "lat": 52.4814,
+      "lon": 13.3028,
+      "altKm": 11.6,
+      "speedKmh": 909,
+      "heading": 55,
       "vertRateMs": 0,
-      "airline": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway",
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Oslo",
-      "toIata": "OSL",
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "category": "plane"
+    },
+    {
+      "callsign": "CAT752",
+      "country": "Denmark",
+      "lat": 52.3612,
+      "lon": 13.5197,
+      "altKm": 11.9,
+      "speedKmh": 748,
+      "heading": 339,
+      "vertRateMs": 0,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T22:10:26.675347Z"
+  "updated_at": "2026-09-26T22:15:26.440672Z"
 }
