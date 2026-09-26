@@ -1232,7 +1232,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T18:40:32.065160Z"
+    "checked_at": "2026-09-26T18:20:29.561335Z"
   },
   "KLM1782": {
     "route": {
@@ -1346,7 +1346,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-09-25T18:25:23.386855Z"
+    "checked_at": "2026-09-26T18:20:29.561335Z"
   },
   "SAS95W": {
     "route": {
@@ -1368,7 +1368,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-25T18:15:29.984419Z"
+    "checked_at": "2026-09-26T18:20:29.561335Z"
   },
   "LGL9473": {
     "route": {
@@ -6922,28 +6922,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-25T18:10:29.334741Z"
-  },
-  "EWG7ZP": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Funchal",
-      "toIata": "FNC",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T18:15:27.792018Z"
-  },
-  "LOT2CF": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-24T18:15:27.792018Z"
   },
   "THY29M": {
     "route": {
@@ -13548,5 +13526,20 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-26T18:05:22.181754Z"
+  },
+  "AUA972": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-26T18:20:29.561335Z"
+  },
+  "SDR17HL": {
+    "route": null,
+    "checked_at": "2026-09-26T18:20:29.561335Z"
   }
 }
