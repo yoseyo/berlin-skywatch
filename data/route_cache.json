@@ -508,7 +508,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-25T14:25:23.720605Z"
+    "checked_at": "2026-09-26T15:35:21.789733Z"
   },
   "AUA233": {
     "route": {
@@ -666,7 +666,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T15:45:27.105915Z"
+    "checked_at": "2026-09-26T15:35:21.789733Z"
   },
   "PGT7UZ": {
     "route": {
@@ -6907,28 +6907,6 @@
       "airlineCountry": "Iceland"
     },
     "checked_at": "2026-09-26T12:20:28.550297Z"
-  },
-  "NSZ3309": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T15:30:42.048661Z"
-  },
-  "CFG4LU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T15:30:42.048661Z"
   },
   "RYR8TQ": {
     "route": {
@@ -13522,5 +13500,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-26T15:30:37.163855Z"
+  },
+  "SAS6275": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T15:35:21.789733Z"
+  },
+  "SAS7669": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T15:35:21.789733Z"
   }
 }
