@@ -4550,7 +4550,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-25T11:35:22.239577Z"
+    "checked_at": "2026-09-26T11:50:25.938270Z"
   },
   "MSR731": {
     "route": {
@@ -6807,10 +6807,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-09-25T12:05:23.619428Z"
-  },
-  "ENT2EU": {
-    "route": null,
-    "checked_at": "2026-09-24T11:45:28.527070Z"
   },
   "EJU16QM": {
     "route": {
@@ -13533,5 +13529,20 @@
   "BFX1026": {
     "route": null,
     "checked_at": "2026-09-26T11:45:00.297055Z"
+  },
+  "DMTUR": {
+    "route": null,
+    "checked_at": "2026-09-26T11:50:25.938270Z"
+  },
+  "RYR5VH": {
+    "route": {
+      "fromCity": "Paphos",
+      "fromIata": "PFO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T11:50:25.938270Z"
   }
 }
