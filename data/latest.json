@@ -3,12 +3,12 @@
     {
       "callsign": "EJU67GK",
       "country": "Austria",
-      "lat": 52.1427,
-      "lon": 13.3157,
-      "altKm": 1.8,
-      "speedKmh": 501,
-      "heading": 326,
-      "vertRateMs": -7.5,
+      "lat": 52.33,
+      "lon": 13.4035,
+      "altKm": 0.4,
+      "speedKmh": 260,
+      "heading": 69,
+      "vertRateMs": -3.6,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Heraklion",
@@ -18,14 +18,31 @@
       "category": "plane"
     },
     {
+      "callsign": "RYR1ZR",
+      "country": "Poland",
+      "lat": 52.7139,
+      "lon": 13.7488,
+      "altKm": 11.6,
+      "speedKmh": 939,
+      "heading": 94,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "category": "plane"
+    },
+    {
       "callsign": "SAS7776",
       "country": "Sweden",
-      "lat": 52.1369,
-      "lon": 13.9429,
+      "lat": 52.6784,
+      "lon": 13.7306,
       "altKm": 11.9,
-      "speedKmh": 760,
+      "speedKmh": 772,
       "heading": 346,
-      "vertRateMs": 0,
+      "vertRateMs": -0.3,
       "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
       "fromCity": "Souda",
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T21:45:26.396759Z"
+  "updated_at": "2026-09-26T21:50:26.123504Z"
 }
