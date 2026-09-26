@@ -2828,7 +2828,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-25T06:30:38.128766Z"
+    "checked_at": "2026-09-26T06:25:22.130880Z"
   },
   "RYR98HW": {
     "route": {
@@ -3577,7 +3577,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T06:30:38.128766Z"
+    "checked_at": "2026-09-26T06:25:22.130880Z"
   },
   "TVF41HV": {
     "route": {
@@ -6927,17 +6927,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-26T04:45:26.452000Z"
-  },
-  "TVS445P": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-09-24T06:25:21.212339Z"
   },
   "SAS1693": {
     "route": {
@@ -13594,5 +13583,38 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-26T06:15:27.994033Z"
+  },
+  "RYR63WX": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T06:25:22.130880Z"
+  },
+  "RYR7DM": {
+    "route": {
+      "fromCity": "Beauvais",
+      "fromIata": "BVA",
+      "toCity": "Agadir (Temsia)",
+      "toIata": "AGA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T06:25:22.130880Z"
+  },
+  "WMT3CL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cluj-Napoca",
+      "toIata": "CLJ",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-26T06:25:22.130880Z"
   }
 }
