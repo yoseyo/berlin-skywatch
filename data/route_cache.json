@@ -2205,7 +2205,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T04:25:22.362659Z"
+    "checked_at": "2026-09-26T18:05:22.181754Z"
   },
   "AFR84XP": {
     "route": {
@@ -6973,7 +6973,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-09-25T18:10:29.334741Z"
+    "checked_at": "2026-09-26T18:05:22.181754Z"
   },
   "FIN1LP": {
     "route": {
@@ -13541,5 +13541,27 @@
       "airlineCountry": "Ethiopia"
     },
     "checked_at": "2026-09-26T17:55:20.391706Z"
+  },
+  "SAS4634": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T18:05:22.181754Z"
+  },
+  "VKG584": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-26T18:05:22.181754Z"
   }
 }
