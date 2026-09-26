@@ -2879,7 +2879,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-25T06:35:22.054316Z"
+    "checked_at": "2026-09-26T06:50:30.324310Z"
   },
   "ASL94D": {
     "route": {
@@ -6913,10 +6913,6 @@
     },
     "checked_at": "2026-09-25T06:30:38.128766Z"
   },
-  "PHJRC": {
-    "route": null,
-    "checked_at": "2026-09-24T06:45:33.193753Z"
-  },
   "THY12E": {
     "route": {
       "fromCity": "Los Angeles",
@@ -10325,7 +10321,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T06:45:30.505557Z"
+    "checked_at": "2026-09-26T06:50:30.324310Z"
   },
   "OEKBK": {
     "route": null,
@@ -13630,5 +13626,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T06:45:29.034206Z"
+  },
+  "FLI7148": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Samos Island",
+      "toIata": "SMI",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-09-26T06:50:30.324310Z"
   }
 }
