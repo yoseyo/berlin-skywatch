@@ -6757,32 +6757,6 @@
     },
     "checked_at": "2026-09-25T15:45:27.105915Z"
   },
-  "CFE9752": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-24T10:20:31.107217Z"
-  },
-  "DEITI": {
-    "route": null,
-    "checked_at": "2026-09-24T10:20:31.107217Z"
-  },
-  "SAS10E": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T10:20:31.107217Z"
-  },
   "OEFIS": {
     "route": null,
     "checked_at": "2026-09-24T10:30:39.713345Z"
@@ -13579,5 +13553,42 @@
   "NJE547G": {
     "route": null,
     "checked_at": "2026-09-26T10:20:30.236823Z"
+  },
+  "MGH649": {
+    "route": null,
+    "checked_at": "2026-09-26T10:25:22.236683Z"
+  },
+  "SAS4806": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Trondheim",
+      "toIata": "TRD",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T10:25:22.236683Z"
+  },
+  "BTI4VP": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-26T10:25:22.236683Z"
+  },
+  "GPX6280": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-09-26T10:25:22.236683Z"
   }
 }
