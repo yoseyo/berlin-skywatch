@@ -1,23 +1,12 @@
 {
   "flights": [
     {
-      "callsign": "CHX82",
-      "country": "Germany",
-      "lat": 52.4001,
-      "lon": 13.0653,
-      "altKm": 0.1,
-      "speedKmh": 4,
-      "heading": 90,
-      "vertRateMs": -3.2,
-      "category": "plane"
-    },
-    {
       "callsign": "RYR41KN",
       "country": "Poland",
-      "lat": 52.8774,
-      "lon": 12.7305,
+      "lat": 52.5055,
+      "lon": 13.6667,
       "altKm": 11.6,
-      "speedKmh": 931,
+      "speedKmh": 944,
       "heading": 123,
       "vertRateMs": 0,
       "airline": "Ryanair",
@@ -31,33 +20,50 @@
     {
       "callsign": "PBB16",
       "country": "Germany",
-      "lat": 52.4098,
-      "lon": 13.7878,
+      "lat": 52.5885,
+      "lon": 13.6051,
       "altKm": 0.5,
-      "speedKmh": 229,
-      "heading": 327,
-      "vertRateMs": 0,
+      "speedKmh": 224,
+      "heading": 331,
+      "vertRateMs": -2.6,
       "category": "heli"
+    },
+    {
+      "callsign": "KLC1335",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.3925,
+      "lon": 13.771,
+      "altKm": 10.4,
+      "speedKmh": 919,
+      "heading": 96,
+      "vertRateMs": -10.1,
+      "airline": "KLM Cityhopper",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Aalborg",
+      "toIata": "AAL",
+      "category": "plane"
     },
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.6063,
-      "lon": 13.5819,
-      "altKm": 0.2,
-      "speedKmh": 120,
-      "heading": 357,
-      "vertRateMs": 3.2,
+      "lat": 52.6188,
+      "lon": 13.4208,
+      "altKm": 0.8,
+      "speedKmh": 185,
+      "heading": 162,
+      "vertRateMs": 0.3,
       "category": "heli"
     },
     {
       "callsign": "KLM73D",
       "country": "Kingdom of the Netherlands",
-      "lat": 52.6799,
-      "lon": 12.8894,
+      "lat": 52.6568,
+      "lon": 14.0407,
       "altKm": 11.6,
-      "speedKmh": 973,
-      "heading": 91,
+      "speedKmh": 949,
+      "heading": 92,
       "vertRateMs": 0,
       "airline": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands",
@@ -68,5 +74,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T19:45:27.774621Z"
+  "updated_at": "2026-09-26T19:50:28.333952Z"
 }
