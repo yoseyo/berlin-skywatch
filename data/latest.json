@@ -1,39 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "HLF8822",
-      "country": "China",
-      "lat": 52.6921,
-      "lon": 13.4343,
-      "altKm": 11.0,
-      "speedKmh": 891,
-      "heading": 53,
-      "vertRateMs": 0,
-      "airline": "Hapagfly",
+      "callsign": "EWG3TF",
+      "country": "Germany",
+      "lat": 52.3429,
+      "lon": 13.46,
+      "altKm": 0.5,
+      "speedKmh": 283,
+      "heading": 246,
+      "vertRateMs": 7.2,
+      "airline": "Eurowings",
       "airlineCountry": "Germany",
-      "fromCity": "Vatry",
-      "fromIata": "XCR",
-      "toCity": "Shenzhen (Bao'an)",
-      "toIata": "SZX",
-      "category": "plane"
-    },
-    {
-      "callsign": "AUA97B",
-      "country": "Austria",
-      "lat": 52.5847,
-      "lon": 12.7636,
-      "altKm": 11.7,
-      "speedKmh": 866,
-      "heading": 148,
-      "vertRateMs": 0,
-      "airline": "Austrian Airlines",
-      "airlineCountry": "Austria",
-      "fromCity": "Reykjav\u00edk",
-      "fromIata": "KEF",
-      "toCity": "Vienna",
-      "toIata": "VIE",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T03:30:36.914422Z"
+  "updated_at": "2026-09-26T03:35:19.604589Z"
 }
