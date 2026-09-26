@@ -2459,7 +2459,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-25T05:36:00.180033Z"
+    "checked_at": "2026-09-26T10:05:21.533704Z"
   },
   "TVF25AT": {
     "route": {
@@ -6764,17 +6764,6 @@
   "DIDAH": {
     "route": null,
     "checked_at": "2026-09-25T06:05:21.757525Z"
-  },
-  "NOZ8BE": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-24T10:00:52.943598Z"
   },
   "EJU5027": {
     "route": {
@@ -13568,5 +13557,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T10:00:48.730818Z"
+  },
+  "EWG5EZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T10:05:21.533704Z"
   }
 }
