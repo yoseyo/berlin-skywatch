@@ -3704,17 +3704,6 @@
     },
     "checked_at": "2026-09-26T09:40:28.436940Z"
   },
-  "NSZ3289": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T09:40:30.099918Z"
-  },
   "CFE76JZ": {
     "route": {
       "fromCity": "London",
@@ -3937,7 +3926,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T09:40:29.919666Z"
+    "checked_at": "2026-09-26T09:45:25.841455Z"
   },
   "DLH8N": {
     "route": {
@@ -6779,28 +6768,6 @@
     },
     "checked_at": "2026-09-25T18:35:26.001913Z"
   },
-  "AEE751": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-09-24T09:40:30.099918Z"
-  },
-  "SAS63M": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T09:40:30.099918Z"
-  },
   "TVF875M": {
     "route": {
       "fromCity": "Paris",
@@ -6811,17 +6778,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-09-25T14:40:32.407631Z"
-  },
-  "CAI4AA": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-24T09:40:30.099918Z"
   },
   "BTI69R": {
     "route": {
@@ -10423,7 +10379,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-09-25T09:55:23.088522Z"
+    "checked_at": "2026-09-26T09:45:25.841455Z"
   },
   "LOT6KG": {
     "route": {
@@ -13607,5 +13563,31 @@
   "PYR013": {
     "route": null,
     "checked_at": "2026-09-26T09:40:28.436940Z"
+  },
+  "LOT2LP": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-26T09:45:25.841455Z"
+  },
+  "RYR2502": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T09:45:25.841455Z"
+  },
+  "DMNCN": {
+    "route": null,
+    "checked_at": "2026-09-26T09:45:25.841455Z"
   }
 }
