@@ -2603,7 +2603,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T05:36:00.180033Z"
+    "checked_at": "2026-09-26T05:25:21.047068Z"
   },
   "EWG7ED": {
     "route": null,
@@ -6462,7 +6462,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T11:30:37.477068Z"
+    "checked_at": "2026-09-26T05:25:21.047068Z"
   },
   "SWU1950": {
     "route": {
@@ -13713,5 +13713,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-26T05:10:28.315148Z"
+  },
+  "SAS72U": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T05:25:21.047068Z"
+  },
+  "RYR456B": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T05:25:21.047068Z"
   }
 }
