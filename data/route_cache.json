@@ -2712,10 +2712,6 @@
     },
     "checked_at": "2026-09-26T06:00:47.849837Z"
   },
-  "OEGTX": {
-    "route": null,
-    "checked_at": "2026-09-24T06:15:26.709930Z"
-  },
   "LOT4WE": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -2740,7 +2736,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T06:20:30.259636Z"
+    "checked_at": "2026-09-26T06:15:27.994033Z"
   },
   "SXS3FR": {
     "route": {
@@ -2751,7 +2747,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T06:25:23.323586Z"
+    "checked_at": "2026-09-26T06:15:27.994033Z"
   },
   "CFE8PR": {
     "route": {
@@ -2920,7 +2916,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-24T06:25:21.212339Z"
+    "checked_at": "2026-09-26T06:15:27.994033Z"
   },
   "SWR97Y": {
     "route": {
@@ -6953,28 +6949,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-26T04:45:26.452000Z"
-  },
-  "NSZ5NE": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T06:10:29.204359Z"
-  },
-  "RYR9846": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "\u0141\u00f3d\u017a",
-      "toIata": "LCJ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-24T06:10:29.204359Z"
   },
   "VKG419": {
     "route": {
@@ -13642,5 +13616,16 @@
   "FRO948": {
     "route": null,
     "checked_at": "2026-09-26T06:10:28.104230Z"
+  },
+  "LOT4PJ": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-26T06:15:27.994033Z"
   }
 }
