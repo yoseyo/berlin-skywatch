@@ -765,7 +765,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-25T15:50:29.272143Z"
+    "checked_at": "2026-09-26T15:40:26.824419Z"
   },
   "WZZ2706": {
     "route": {
@@ -13522,5 +13522,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-26T15:35:21.789733Z"
+  },
+  "SAS2859": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T15:40:26.824419Z"
+  },
+  "BTI8WF": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-26T15:40:26.824419Z"
   }
 }
