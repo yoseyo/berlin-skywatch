@@ -4223,7 +4223,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-25T11:40:31.173078Z"
+    "checked_at": "2026-09-26T11:15:27.577805Z"
   },
   "AUA228T": {
     "route": {
@@ -4469,7 +4469,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T11:00:51.738111Z"
+    "checked_at": "2026-09-26T11:15:27.577805Z"
   },
   "RYR5XX": {
     "route": {
@@ -13534,5 +13534,20 @@
       "airlineCountry": "Canada"
     },
     "checked_at": "2026-09-26T11:10:28.115843Z"
+  },
+  "DEPAD": {
+    "route": null,
+    "checked_at": "2026-09-26T11:15:27.577805Z"
+  },
+  "EWG4NR": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T11:15:27.577805Z"
   }
 }
