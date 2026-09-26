@@ -159,7 +159,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-25T14:25:23.720605Z"
+    "checked_at": "2026-09-26T11:30:40.521916Z"
   },
   "SAS2736": {
     "route": {
@@ -5244,10 +5244,6 @@
     },
     "checked_at": "2026-09-25T19:20:31.081712Z"
   },
-  "N37NG": {
-    "route": null,
-    "checked_at": "2026-09-24T11:25:57.596670Z"
-  },
   "EJU84GR": {
     "route": {
       "fromCity": "Milan",
@@ -6778,21 +6774,6 @@
   "DFUNI": {
     "route": null,
     "checked_at": "2026-09-25T09:20:31.586411Z"
-  },
-  "HBFIR": {
-    "route": null,
-    "checked_at": "2026-09-24T11:25:57.596670Z"
-  },
-  "CAI17QT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-24T11:30:37.477068Z"
   },
   "JNJ20V": {
     "route": null,
@@ -11308,7 +11289,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T16:00:54.131600Z"
+    "checked_at": "2026-09-26T11:30:40.521916Z"
   },
   "EWG6YP": {
     "route": {
@@ -13556,5 +13537,27 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-09-26T11:25:22.626099Z"
+  },
+  "EJU83HL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Agadir (Temsia)",
+      "toIata": "AGA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-26T11:30:40.521916Z"
+  },
+  "EJU32FG": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-26T11:30:40.521916Z"
   }
 }
