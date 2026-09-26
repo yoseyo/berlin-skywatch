@@ -743,7 +743,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-25T16:15:29.818917Z"
+    "checked_at": "2026-09-26T16:20:27.390644Z"
   },
   "DLH4MA": {
     "route": {
@@ -787,7 +787,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-25T16:05:23.370453Z"
+    "checked_at": "2026-09-26T16:20:27.390644Z"
   },
   "IBE07WR": {
     "route": {
@@ -4397,17 +4397,6 @@
     },
     "checked_at": "2026-09-26T11:15:27.577805Z"
   },
-  "RYR5XX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Pisa",
-      "toIata": "PSA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-24T16:15:28.697298Z"
-  },
   "MSC2960": {
     "route": {
       "fromCity": "Hurghada",
@@ -6047,7 +6036,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-25T20:55:21.406850Z"
+    "checked_at": "2026-09-26T16:20:27.390644Z"
   },
   "DLH6TP": {
     "route": {
@@ -6889,17 +6878,6 @@
   "LHX3PP": {
     "route": null,
     "checked_at": "2026-09-25T15:11:06.271419Z"
-  },
-  "EZS1589": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-09-24T16:15:28.697298Z"
   },
   "RYR14YY": {
     "route": {
@@ -13560,5 +13538,16 @@
   "RHH200": {
     "route": null,
     "checked_at": "2026-09-26T16:15:28.066101Z"
+  },
+  "SAS7775": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T16:20:27.390644Z"
   }
 }
