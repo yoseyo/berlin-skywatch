@@ -3231,7 +3231,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T08:15:28.681237Z"
+    "checked_at": "2026-09-26T07:45:27.554593Z"
   },
   "KLM38Z": {
     "route": {
@@ -3396,7 +3396,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-09-25T07:55:22.061701Z"
+    "checked_at": "2026-09-26T07:45:27.554593Z"
   },
   "SAS2677": {
     "route": {
@@ -6852,10 +6852,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-26T07:40:27.630262Z"
-  },
-  "HCX41": {
-    "route": null,
-    "checked_at": "2026-09-24T07:45:27.508873Z"
   },
   "NSZ6GR": {
     "route": {
@@ -13599,5 +13595,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-26T07:40:27.630262Z"
+  },
+  "ENT1PM": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-26T07:45:27.554593Z"
+  },
+  "DMJBW": {
+    "route": null,
+    "checked_at": "2026-09-26T07:45:27.554593Z"
+  },
+  "WMT7LY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-26T07:45:27.554593Z"
   }
 }
