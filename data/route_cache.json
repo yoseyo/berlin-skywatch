@@ -4550,7 +4550,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-25T12:40:33.823611Z"
+    "checked_at": "2026-09-26T12:45:28.268740Z"
   },
   "RYR65YP": {
     "route": {
@@ -5964,10 +5964,6 @@
     },
     "checked_at": "2026-09-25T12:14:18.286549Z"
   },
-  "OYGST": {
-    "route": null,
-    "checked_at": "2026-09-24T12:40:33.546009Z"
-  },
   "RYR159P": {
     "route": {
       "fromCity": "Vilnius",
@@ -6818,28 +6814,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T21:50:27.690665Z"
-  },
-  "SAS1697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T12:40:33.546009Z"
-  },
-  "RYR9847": {
-    "route": {
-      "fromCity": "\u0141\u00f3d\u017a",
-      "fromIata": "LCJ",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-24T12:45:28.056326Z"
   },
   "SPAMR": {
     "route": null,
@@ -13640,5 +13614,16 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-09-26T12:40:27.550907Z"
+  },
+  "CCA446": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Jianyang, Chengdu",
+      "toIata": "TFU",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-26T12:45:28.268740Z"
   }
 }
