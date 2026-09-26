@@ -361,7 +361,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-25T14:30:44.793447Z"
+    "checked_at": "2026-09-26T14:35:22.329788Z"
   },
   "EWG8ZG": {
     "route": {
@@ -3278,7 +3278,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-25T08:25:21.691177Z"
+    "checked_at": "2026-09-26T14:35:22.329788Z"
   },
   "LHX5PN": {
     "route": {
@@ -5051,10 +5051,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-09-25T16:00:54.131600Z"
-  },
-  "OECWH": {
-    "route": null,
-    "checked_at": "2026-09-24T14:30:41.359890Z"
   },
   "RYR303F": {
     "route": {
@@ -6876,24 +6872,9 @@
     },
     "checked_at": "2026-09-26T06:00:47.849837Z"
   },
-  "WZZ148": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-24T14:30:41.359890Z"
-  },
   "N411XT": {
     "route": null,
     "checked_at": "2026-09-25T09:30:42.198638Z"
-  },
-  "NJE308R": {
-    "route": null,
-    "checked_at": "2026-09-24T14:30:41.359890Z"
   },
   "RYR58ZM": {
     "route": {
@@ -8632,7 +8613,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-25T05:50:27.553709Z"
+    "checked_at": "2026-09-26T14:35:22.329788Z"
   },
   "RYR55XJ": {
     "route": {
@@ -13602,5 +13583,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T14:30:38.832504Z"
+  },
+  "CCA957": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-26T14:35:22.329788Z"
+  },
+  "BTI7NV": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-26T14:35:22.329788Z"
   }
 }
