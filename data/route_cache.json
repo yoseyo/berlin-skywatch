@@ -3448,7 +3448,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-25T11:00:51.738111Z"
+    "checked_at": "2026-09-26T09:25:22.247019Z"
   },
   "BEL8CE": {
     "route": {
@@ -3702,7 +3702,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T09:25:26.039783Z"
+    "checked_at": "2026-09-26T09:25:22.247019Z"
   },
   "LOT266": {
     "route": {
@@ -5738,7 +5738,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T08:45:27.950485Z"
+    "checked_at": "2026-09-26T09:25:22.247019Z"
   },
   "RYR5ZE": {
     "route": {
@@ -6789,17 +6789,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-25T18:35:26.001913Z"
-  },
-  "ASL57Z": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-09-24T09:20:29.980373Z"
   },
   "WZZ46": {
     "route": {
@@ -12121,7 +12110,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T18:20:29.621442Z"
+    "checked_at": "2026-09-26T09:25:22.247019Z"
   },
   "RYR308B": {
     "route": {
@@ -12530,7 +12519,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T21:20:30.427153Z"
+    "checked_at": "2026-09-26T09:25:22.247019Z"
   },
   "RYR7QT": {
     "route": {
@@ -13603,5 +13592,42 @@
   "DMVLD": {
     "route": null,
     "checked_at": "2026-09-26T09:15:28.484064Z"
+  },
+  "NOZ1923": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-26T09:25:22.247019Z"
+  },
+  "OYTOU": {
+    "route": null,
+    "checked_at": "2026-09-26T09:25:22.247019Z"
+  },
+  "RYR62HD": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T09:25:22.247019Z"
+  },
+  "SXS8RG": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-26T09:25:22.247019Z"
   }
 }
