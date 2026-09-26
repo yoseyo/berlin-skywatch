@@ -1,13 +1,41 @@
 {
   "flights": [
     {
+      "callsign": "EJU65LD",
+      "country": "Austria",
+      "lat": 52.2275,
+      "lon": 13.0708,
+      "altKm": 1.5,
+      "speedKmh": 480,
+      "heading": 49,
+      "vertRateMs": -5.2,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.4685,
+      "lon": 13.1371,
+      "altKm": 0.5,
+      "speedKmh": 214,
+      "heading": 53,
+      "vertRateMs": 0.3,
+      "category": "plane"
+    },
+    {
       "callsign": "SWR53Q",
       "country": "Latvia",
-      "lat": 52.2451,
-      "lon": 12.7087,
+      "lat": 52.7262,
+      "lon": 13.2698,
       "altKm": 11.6,
-      "speedKmh": 854,
-      "heading": 35,
+      "speedKmh": 868,
+      "heading": 36,
       "vertRateMs": 0,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
@@ -18,22 +46,16 @@
       "category": "plane"
     },
     {
-      "callsign": "IBE0787",
-      "country": "Spain",
-      "lat": 52.3321,
-      "lon": 13.4125,
-      "altKm": 0.3,
-      "speedKmh": 227,
-      "heading": 68,
-      "vertRateMs": -3.2,
-      "airline": "Iberia Airlines",
-      "airlineCountry": "Spain",
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "EWG6NT",
+      "country": "Germany",
+      "lat": 52.3154,
+      "lon": 13.3421,
+      "altKm": 0.6,
+      "speedKmh": 318,
+      "heading": 69,
+      "vertRateMs": -4.5,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T21:00:47.431332Z"
+  "updated_at": "2026-09-26T21:05:23.411158Z"
 }
