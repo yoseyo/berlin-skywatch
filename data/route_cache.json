@@ -6779,18 +6779,6 @@
     },
     "checked_at": "2026-09-25T18:35:26.001913Z"
   },
-  "NJE252B": {
-    "route": null,
-    "checked_at": "2026-09-24T09:35:20.725890Z"
-  },
-  "NJE834V": {
-    "route": null,
-    "checked_at": "2026-09-24T09:35:20.725890Z"
-  },
-  "DEBRR": {
-    "route": null,
-    "checked_at": "2026-09-24T09:35:20.725890Z"
-  },
   "AEE751": {
     "route": {
       "fromCity": "Copenhagen",
@@ -13585,5 +13573,31 @@
   "SDR16GL": {
     "route": null,
     "checked_at": "2026-09-26T09:30:40.257219Z"
+  },
+  "DMZBW": {
+    "route": null,
+    "checked_at": "2026-09-26T09:35:22.197076Z"
+  },
+  "EJU95RP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-26T09:35:22.197076Z"
+  },
+  "FHY1281": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-26T09:35:22.197076Z"
   }
 }
