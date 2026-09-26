@@ -5826,17 +5826,6 @@
     },
     "checked_at": "2026-09-26T02:15:28.281243Z"
   },
-  "BCS5959": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T03:40:25.958681Z"
-  },
   "CHH489": {
     "route": {
       "fromCity": "Beijing",
@@ -7059,17 +7048,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-24T21:40:29.850280Z"
-  },
-  "SDR70WQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T03:40:25.958681Z"
   },
   "GAF638": {
     "route": null,
@@ -13772,5 +13750,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-26T03:30:36.914422Z"
+  },
+  "MSR995": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-09-26T03:40:29.608187Z"
+  },
+  "EWG2W": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T03:40:29.608187Z"
   }
 }
