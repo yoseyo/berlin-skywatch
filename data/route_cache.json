@@ -4102,7 +4102,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-25T11:40:31.173078Z"
+    "checked_at": "2026-09-26T11:10:28.115843Z"
   },
   "DLH8XM": {
     "route": {
@@ -4366,7 +4366,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-24T11:25:57.596670Z"
+    "checked_at": "2026-09-26T11:10:28.115843Z"
   },
   "SAS1677": {
     "route": {
@@ -5782,7 +5782,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T12:40:33.546009Z"
+    "checked_at": "2026-09-26T11:10:28.115843Z"
   },
   "NOZ6TY": {
     "route": {
@@ -6764,32 +6764,6 @@
     },
     "checked_at": "2026-09-26T11:00:45.946213Z"
   },
-  "PGT5078": {
-    "route": {
-      "fromCity": "Aalborg",
-      "fromIata": "AAL",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-24T11:05:22.880410Z"
-  },
-  "BAW843": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-24T11:05:22.880410Z"
-  },
-  "N706GA": {
-    "route": null,
-    "checked_at": "2026-09-24T11:05:22.880410Z"
-  },
   "EJU63CR": {
     "route": {
       "fromCity": "Venice",
@@ -6800,10 +6774,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T20:50:29.630340Z"
-  },
-  "SPSMJ": {
-    "route": null,
-    "checked_at": "2026-09-24T11:10:27.575727Z"
   },
   "GAF466": {
     "route": null,
@@ -10459,7 +10429,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T11:25:24.872241Z"
+    "checked_at": "2026-09-26T11:10:28.115843Z"
   },
   "DMYHG": {
     "route": null,
@@ -13553,5 +13523,16 @@
   "HBYHQ": {
     "route": null,
     "checked_at": "2026-09-26T11:00:45.946213Z"
+  },
+  "ACA943": {
+    "route": {
+      "fromCity": "Hamilton",
+      "fromIata": "BDA",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Canada",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-09-26T11:10:28.115843Z"
   }
 }
