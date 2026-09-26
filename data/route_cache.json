@@ -1019,7 +1019,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-25T17:00:54.425640Z"
+    "checked_at": "2026-09-26T17:05:24.563518Z"
   },
   "EZY29HQ": {
     "route": {
@@ -1322,17 +1322,6 @@
     },
     "checked_at": "2026-09-25T18:50:30.066062Z"
   },
-  "EWG3V": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T17:05:21.514656Z"
-  },
   "LHX4KK": {
     "route": {
       "fromCity": "Munich",
@@ -1380,17 +1369,6 @@
   "AFR38LQ": {
     "route": null,
     "checked_at": "2026-09-25T18:25:23.386855Z"
-  },
-  "BAW845": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-24T17:00:48.376906Z"
   },
   "SAS95W": {
     "route": {
@@ -5920,17 +5898,6 @@
     },
     "checked_at": "2026-09-26T15:25:21.066353Z"
   },
-  "EWG63L": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T17:05:21.514656Z"
-  },
   "RYR95CH": {
     "route": {
       "fromCity": "Bucharest",
@@ -6889,10 +6856,6 @@
   "HUE222": {
     "route": null,
     "checked_at": "2026-09-25T10:10:30.712107Z"
-  },
-  "ATV404": {
-    "route": null,
-    "checked_at": "2026-09-24T17:05:21.514656Z"
   },
   "EJU86PQ": {
     "route": {
@@ -13589,5 +13552,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-26T17:00:46.935649Z"
+  },
+  "SAS4803": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T17:05:24.563518Z"
   }
 }
