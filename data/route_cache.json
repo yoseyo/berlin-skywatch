@@ -236,7 +236,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-25T14:40:32.407631Z"
+    "checked_at": "2026-09-26T14:30:38.832504Z"
   },
   "RYR4JQ": {
     "route": {
@@ -261,8 +261,15 @@
     "checked_at": "2026-09-25T14:30:44.793447Z"
   },
   "WZZ9926": {
-    "route": null,
-    "checked_at": "2026-09-25T14:15:30.664182Z"
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-26T14:30:38.832504Z"
   },
   "BEL9SZ": {
     "route": {
@@ -3922,7 +3929,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-25T11:30:39.986700Z"
+    "checked_at": "2026-09-26T14:30:38.832504Z"
   },
   "PGT54XN": {
     "route": {
@@ -4822,7 +4829,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T14:35:23.108706Z"
+    "checked_at": "2026-09-26T14:30:38.832504Z"
   },
   "EWG3XM": {
     "route": {
@@ -13558,5 +13565,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-26T14:25:23.081388Z"
+  },
+  "EJU5005": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-26T14:30:38.832504Z"
+  },
+  "ROT1917": {
+    "route": null,
+    "checked_at": "2026-09-26T14:30:38.832504Z"
+  },
+  "EWG44D": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T14:30:38.832504Z"
+  },
+  "DLH8HU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Dresden",
+      "toIata": "DRS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T14:30:38.832504Z"
   }
 }
