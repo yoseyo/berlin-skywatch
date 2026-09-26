@@ -2642,10 +2642,6 @@
     },
     "checked_at": "2026-09-26T05:35:23.417422Z"
   },
-  "OEXHY": {
-    "route": null,
-    "checked_at": "2026-09-24T06:35:20.496899Z"
-  },
   "EWG5MJ": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -2863,17 +2859,6 @@
     },
     "checked_at": "2026-09-25T06:05:21.757525Z"
   },
-  "DLH5HU": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T06:30:41.325966Z"
-  },
   "BTI97T": {
     "route": {
       "fromCity": "Berlin",
@@ -2993,7 +2978,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T06:40:32.352618Z"
+    "checked_at": "2026-09-26T06:35:24.258242Z"
   },
   "LOT4MH": {
     "route": {
@@ -6939,39 +6924,6 @@
     },
     "checked_at": "2026-09-25T06:30:38.128766Z"
   },
-  "CTN848R": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-09-24T06:30:41.325966Z"
-  },
-  "CFG2CA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-24T06:35:20.496899Z"
-  },
-  "VKG788": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-24T06:35:20.496899Z"
-  },
   "PAV524": {
     "route": null,
     "checked_at": "2026-09-24T06:40:28.708485Z"
@@ -10318,7 +10270,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-25T06:25:23.323586Z"
+    "checked_at": "2026-09-26T06:35:24.258242Z"
   },
   "CFG1KL": {
     "route": {
@@ -13638,5 +13590,49 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-09-26T06:30:36.866689Z"
+  },
+  "EJU3947": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-26T06:35:24.258242Z"
+  },
+  "MSR987": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-09-26T06:35:24.258242Z"
+  },
+  "EWG90V": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T06:35:24.258242Z"
+  },
+  "WMT1ST": {
+    "route": {
+      "fromCity": "Chi\u015fin\u0103u",
+      "fromIata": "RMO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-26T06:35:24.258242Z"
   }
 }
