@@ -2231,7 +2231,7 @@
   },
   "BPOBER": {
     "route": null,
-    "checked_at": "2026-09-25T14:00:50.632445Z"
+    "checked_at": "2026-09-26T07:40:27.630262Z"
   },
   "BCS3612": {
     "route": {
@@ -2831,7 +2831,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T06:05:21.757525Z"
+    "checked_at": "2026-09-26T07:40:27.630262Z"
   },
   "BTI97T": {
     "route": {
@@ -3365,17 +3365,6 @@
     },
     "checked_at": "2026-09-25T08:35:22.352756Z"
   },
-  "PGT390G": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-24T07:40:27.392088Z"
-  },
   "AUA225B": {
     "route": {
       "fromCity": "Vienna",
@@ -3396,7 +3385,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T07:55:22.061701Z"
+    "checked_at": "2026-09-26T07:40:27.630262Z"
   },
   "CTN480": {
     "route": {
@@ -4576,10 +4565,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-09-25T12:05:23.619428Z"
-  },
-  "N136SA": {
-    "route": null,
-    "checked_at": "2026-09-24T07:40:27.392088Z"
   },
   "SWR1PL": {
     "route": {
@@ -6866,7 +6851,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-24T07:40:27.392088Z"
+    "checked_at": "2026-09-26T07:40:27.630262Z"
   },
   "HCX41": {
     "route": null,
@@ -13603,5 +13588,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-26T07:35:21.367561Z"
+  },
+  "RYR63KM": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-26T07:40:27.630262Z"
   }
 }
