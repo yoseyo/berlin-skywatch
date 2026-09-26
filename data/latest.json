@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "CAT752",
-      "country": "Denmark",
-      "lat": 52.8745,
-      "lon": 13.1798,
-      "altKm": 11.9,
-      "speedKmh": 766,
-      "heading": 338,
+      "callsign": "NOZ5LB",
+      "country": "Norway",
+      "lat": 52.3867,
+      "lon": 13.4638,
+      "altKm": 11.3,
+      "speedKmh": 731,
+      "heading": 337,
       "vertRateMs": 0,
+      "airline": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Bergen",
+      "toIata": "BGO",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T22:20:26.749126Z"
+  "updated_at": "2026-09-26T22:25:24.176963Z"
 }
