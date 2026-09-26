@@ -4388,7 +4388,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-25T12:05:23.619428Z"
+    "checked_at": "2026-09-26T12:05:24.653964Z"
   },
   "SWR1PL": {
     "route": {
@@ -4421,7 +4421,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-25T12:00:50.502856Z"
+    "checked_at": "2026-09-26T12:05:24.653964Z"
   },
   "QTR37K": {
     "route": null,
@@ -4480,7 +4480,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-25T12:14:18.286549Z"
+    "checked_at": "2026-09-26T12:05:24.653964Z"
   },
   "EJU47DE": {
     "route": null,
@@ -4699,17 +4699,6 @@
     },
     "checked_at": "2026-09-25T19:30:41.004459Z"
   },
-  "EJU5367": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-24T12:00:48.617726Z"
-  },
   "WZZ262": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -4923,17 +4912,6 @@
   "EWG7DL": {
     "route": null,
     "checked_at": "2026-09-25T10:45:27.811019Z"
-  },
-  "SAS82C": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T12:00:48.617726Z"
   },
   "PYR014": {
     "route": null,
@@ -5613,10 +5591,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-26T08:00:51.036706Z"
-  },
-  "GAF635": {
-    "route": null,
-    "checked_at": "2026-09-24T12:05:23.139410Z"
   },
   "SXS6WA": {
     "route": {
@@ -6819,21 +6793,6 @@
     },
     "checked_at": "2026-09-25T11:50:32.446399Z"
   },
-  "VCG2BG": {
-    "route": null,
-    "checked_at": "2026-09-24T12:00:48.617726Z"
-  },
-  "RYR5978": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-24T12:00:48.617726Z"
-  },
   "EJU83LH": {
     "route": {
       "fromCity": "Valencia",
@@ -6844,10 +6803,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T14:40:32.407631Z"
-  },
-  "NJE991E": {
-    "route": null,
-    "checked_at": "2026-09-24T12:05:23.139410Z"
   },
   "NSZ3751": {
     "route": {
@@ -13544,5 +13499,49 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-26T12:00:46.599299Z"
+  },
+  "AIC190": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "New Delhi",
+      "toIata": "DEL",
+      "airlineName": "Air India",
+      "airlineCountry": "India"
+    },
+    "checked_at": "2026-09-26T12:05:24.653964Z"
+  },
+  "MSR759": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-09-26T12:05:24.653964Z"
+  },
+  "EWG1GZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tivat",
+      "toIata": "TIV",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T12:05:24.653964Z"
+  },
+  "GPX6281": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-09-26T12:05:24.653964Z"
   }
 }
