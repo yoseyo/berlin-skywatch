@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "NOZ1943",
-      "country": "Norway",
-      "lat": 52.6982,
-      "lon": 12.9384,
-      "altKm": 12.5,
-      "speedKmh": 813,
-      "heading": 352,
-      "vertRateMs": 0,
-      "airline": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway",
-      "fromCity": "Pula",
-      "fromIata": "PUY",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "category": "plane"
-    },
-    {
       "callsign": "AUA989D",
       "country": "Austria",
-      "lat": 52.2074,
-      "lon": 13.9267,
+      "lat": 52.813,
+      "lon": 13.6859,
       "altKm": 11.3,
-      "speedKmh": 795,
+      "speedKmh": 788,
       "heading": 346,
-      "vertRateMs": 0,
+      "vertRateMs": 0.3,
       "airline": "Austrian Airlines",
       "airlineCountry": "Austria",
       "fromCity": "Vienna",
@@ -35,5 +18,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T21:15:27.609608Z"
+  "updated_at": "2026-09-26T21:20:28.399029Z"
 }
