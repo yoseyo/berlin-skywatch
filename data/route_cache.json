@@ -2618,7 +2618,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-25T05:40:28.121221Z"
+    "checked_at": "2026-09-26T05:40:29.965358Z"
   },
   "QTR29X": {
     "route": {
@@ -4011,7 +4011,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-24T16:30:40.073475Z"
+    "checked_at": "2026-09-26T05:40:29.965358Z"
   },
   "SAS2678": {
     "route": {
@@ -6427,10 +6427,6 @@
     "route": null,
     "checked_at": "2026-09-24T12:40:33.546009Z"
   },
-  "DINNA": {
-    "route": null,
-    "checked_at": "2026-09-24T05:40:28.421670Z"
-  },
   "RYR159P": {
     "route": {
       "fromCity": "Vilnius",
@@ -6979,21 +6975,6 @@
   "QFX800": {
     "route": null,
     "checked_at": "2026-09-25T11:25:24.872241Z"
-  },
-  "AUA90T": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-24T05:40:28.421670Z"
-  },
-  "DFC6LD": {
-    "route": null,
-    "checked_at": "2026-09-24T05:40:28.421670Z"
   },
   "EJU37HE": {
     "route": {
@@ -11021,7 +11002,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T09:00:48.703351Z"
+    "checked_at": "2026-09-26T05:40:29.965358Z"
   },
   "EWG75A": {
     "route": {
@@ -13702,5 +13683,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-26T05:35:23.417422Z"
+  },
+  "SAS7353": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T05:40:29.965358Z"
+  },
+  "NOZ8BF": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-26T05:40:29.965358Z"
+  },
+  "CFG2CK": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T05:40:29.965358Z"
   }
 }
