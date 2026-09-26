@@ -4583,7 +4583,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T13:35:24.684978Z"
+    "checked_at": "2026-09-26T13:25:20.883588Z"
   },
   "SAS1678": {
     "route": {
@@ -6854,39 +6854,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T04:45:27.589733Z"
-  },
-  "WZZ199": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-24T13:20:33.921581Z"
-  },
-  "CCA966": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-24T13:20:33.921581Z"
-  },
-  "OCN1341": {
-    "route": {
-      "fromCity": "Bod\u00f8",
-      "fromIata": "BOO",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "O Air",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-24T13:20:33.921581Z"
   },
   "ICE14T": {
     "route": {
@@ -10383,7 +10350,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T12:55:24.378204Z"
+    "checked_at": "2026-09-26T13:25:20.883588Z"
   },
   "DMFAV": {
     "route": null,
@@ -13635,5 +13602,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T13:15:27.253631Z"
+  },
+  "EWG60V": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T13:25:20.883588Z"
   }
 }
