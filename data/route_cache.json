@@ -3198,7 +3198,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T17:35:24.059607Z"
+    "checked_at": "2026-09-26T10:40:30.060701Z"
   },
   "NOZ3JH": {
     "route": {
@@ -4003,7 +4003,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T10:50:29.230155Z"
+    "checked_at": "2026-09-26T10:40:30.060701Z"
   },
   "SXS1CM": {
     "route": {
@@ -4168,7 +4168,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-25T10:40:29.727942Z"
+    "checked_at": "2026-09-26T10:40:30.060701Z"
   },
   "SXS5UY": {
     "route": {
@@ -5074,10 +5074,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-26T10:10:30.336209Z"
-  },
-  "DIMCN": {
-    "route": null,
-    "checked_at": "2026-09-24T10:35:22.294259Z"
   },
   "RYR6FD": {
     "route": {
@@ -6746,29 +6742,6 @@
     },
     "checked_at": "2026-09-26T10:20:30.236823Z"
   },
-  "NSZ3731": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-24T10:35:22.294259Z"
-  },
-  "SME278": {
-    "route": null,
-    "checked_at": "2026-09-24T10:35:22.294259Z"
-  },
-  "N5031T": {
-    "route": null,
-    "checked_at": "2026-09-24T10:40:29.521262Z"
-  },
-  "SPCCC": {
-    "route": null,
-    "checked_at": "2026-09-24T10:40:29.521262Z"
-  },
   "NSZ4501": {
     "route": {
       "fromCity": "Stockholm",
@@ -7316,7 +7289,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-09-25T10:50:29.230155Z"
+    "checked_at": "2026-09-26T10:40:30.060701Z"
   },
   "PHSLG": {
     "route": null,
@@ -13553,5 +13526,24 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-26T10:30:37.851753Z"
+  },
+  "DMEUP": {
+    "route": null,
+    "checked_at": "2026-09-26T10:40:30.060701Z"
+  },
+  "DEKPR": {
+    "route": null,
+    "checked_at": "2026-09-26T10:40:30.060701Z"
+  },
+  "CTN384E": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-09-26T10:40:30.060701Z"
   }
 }
