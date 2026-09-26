@@ -1210,7 +1210,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T17:45:27.707262Z"
+    "checked_at": "2026-09-26T18:25:21.699880Z"
   },
   "AUA237": {
     "route": {
@@ -1413,17 +1413,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-09-25T17:40:30.342557Z"
-  },
-  "RYR430N": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-24T18:21:04.101247Z"
   },
   "LBT233": {
     "route": {
@@ -13541,5 +13530,27 @@
   "SDR17HL": {
     "route": null,
     "checked_at": "2026-09-26T18:20:29.561335Z"
+  },
+  "NSZ3878": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T18:25:21.699880Z"
+  },
+  "SAS6374": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-26T18:25:21.699880Z"
   }
 }
