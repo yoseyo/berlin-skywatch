@@ -2686,17 +2686,6 @@
     },
     "checked_at": "2026-09-26T05:55:22.798881Z"
   },
-  "DMS2PV": {
-    "route": {
-      "fromCity": "Saarbr\u00fccken",
-      "fromIata": "SCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Diamond Sky",
-      "airlineCountry": "Estonia"
-    },
-    "checked_at": "2026-09-24T06:55:24.172450Z"
-  },
   "LOT392": {
     "route": {
       "fromCity": "Berlin",
@@ -3002,17 +2991,6 @@
     },
     "checked_at": "2026-09-25T07:25:21.312123Z"
   },
-  "SRR901": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Star Air",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-24T06:55:24.172450Z"
-  },
   "SAS767": {
     "route": {
       "fromCity": "Copenhagen",
@@ -3022,7 +3000,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-25T06:55:23.935500Z"
+    "checked_at": "2026-09-26T07:00:47.031473Z"
   },
   "LHX5T": {
     "route": {
@@ -3055,7 +3033,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-25T06:45:30.505557Z"
+    "checked_at": "2026-09-26T07:00:47.031473Z"
   },
   "DMS2HR": {
     "route": {
@@ -3143,7 +3121,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-25T07:05:27.197452Z"
+    "checked_at": "2026-09-26T07:00:47.031473Z"
   },
   "TVF88JV": {
     "route": null,
@@ -5159,10 +5137,6 @@
     },
     "checked_at": "2026-09-25T14:55:24.356959Z"
   },
-  "9ADWA": {
-    "route": null,
-    "checked_at": "2026-09-24T06:55:24.172450Z"
-  },
   "EWG7DL": {
     "route": null,
     "checked_at": "2026-09-25T10:45:27.811019Z"
@@ -5835,17 +5809,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-25T07:00:49.849258Z"
-  },
-  "BAW84NT": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-24T06:55:24.172450Z"
   },
   "WZZ3EA": {
     "route": {
@@ -6912,32 +6875,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-25T06:30:38.128766Z"
-  },
-  "THY12E": {
-    "route": {
-      "fromCity": "Los Angeles",
-      "fromIata": "LAX",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-24T06:55:24.172450Z"
-  },
-  "VKG176": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-24T06:55:24.172450Z"
-  },
-  "NJE273Q": {
-    "route": null,
-    "checked_at": "2026-09-24T07:00:46.876543Z"
   },
   "RYR5602": {
     "route": {
@@ -13659,5 +13596,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-26T06:55:20.649762Z"
+  },
+  "DLH5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T07:00:47.031473Z"
   }
 }
