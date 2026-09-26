@@ -1533,7 +1533,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-25T19:25:22.714417Z"
+    "checked_at": "2026-09-26T19:10:27.242670Z"
   },
   "NOZ9VF": {
     "route": {
@@ -13523,5 +13523,27 @@
   "TCTSM": {
     "route": null,
     "checked_at": "2026-09-26T19:05:22.511494Z"
+  },
+  "CFG2XU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-26T19:10:27.242670Z"
+  },
+  "TGZ781": {
+    "route": {
+      "fromCity": "Tbilisi",
+      "fromIata": "TBS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Georgian Airways",
+      "airlineCountry": "Georgia"
+    },
+    "checked_at": "2026-09-26T19:10:27.242670Z"
   }
 }
