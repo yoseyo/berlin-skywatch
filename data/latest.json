@@ -1,69 +1,24 @@
 {
   "flights": [
     {
-      "callsign": "THY29M",
-      "country": "Turkey",
-      "lat": 52.4057,
-      "lon": 12.8146,
-      "altKm": 11.3,
-      "speedKmh": 831,
-      "heading": 324,
-      "vertRateMs": 0,
-      "airline": "Turkish Airlines",
-      "airlineCountry": "Turkey",
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "New York",
-      "toIata": "EWR",
-      "category": "plane"
-    },
-    {
-      "callsign": "CHX82",
-      "country": "Germany",
-      "lat": 52.5493,
-      "lon": 13.3821,
-      "altKm": 0.4,
-      "speedKmh": 212,
-      "heading": 276,
-      "vertRateMs": -3.2,
-      "category": "plane"
-    },
-    {
       "callsign": "CHX100",
       "country": "Germany",
-      "lat": 52.4581,
-      "lon": 13.4666,
+      "lat": 52.5979,
+      "lon": 13.4617,
       "altKm": 0.4,
-      "speedKmh": 153,
-      "heading": 12,
-      "vertRateMs": 3.9,
-      "category": "plane"
-    },
-    {
-      "callsign": "EJU49CR",
-      "country": "Austria",
-      "lat": 52.305,
-      "lon": 13.2992,
-      "altKm": 0.8,
-      "speedKmh": 344,
-      "heading": 69,
-      "vertRateMs": -4.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "speedKmh": 219,
+      "heading": 355,
+      "vertRateMs": -0.3,
       "category": "plane"
     },
     {
       "callsign": "DLH1CJ",
       "country": "Germany",
-      "lat": 52.3463,
-      "lon": 12.9402,
+      "lat": 52.6857,
+      "lon": 13.7541,
       "altKm": 11.6,
-      "speedKmh": 901,
-      "heading": 55,
+      "speedKmh": 911,
+      "heading": 56,
       "vertRateMs": 0,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
@@ -72,7 +27,31 @@
       "toCity": "D\u00fcsseldorf",
       "toIata": "DUS",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR7UL",
+      "country": "Ireland",
+      "lat": 52.4727,
+      "lon": 13.669,
+      "altKm": 1.8,
+      "speedKmh": 497,
+      "heading": 11,
+      "vertRateMs": 11.7,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "category": "plane"
+    },
+    {
+      "callsign": "TCTSM",
+      "country": "Turkey",
+      "lat": 52.2286,
+      "lon": 13.3075,
+      "altKm": 1.2,
+      "speedKmh": 541,
+      "heading": 323,
+      "vertRateMs": -15.3,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-26T19:00:46.599741Z"
+  "updated_at": "2026-09-26T19:05:22.511494Z"
 }
