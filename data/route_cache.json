@@ -5228,10 +5228,6 @@
     },
     "checked_at": "2026-09-25T10:30:35.872204Z"
   },
-  "BAG11": {
-    "route": null,
-    "checked_at": "2026-09-25T06:35:22.054316Z"
-  },
   "RYR91SP": {
     "route": {
       "fromCity": "Madrid",
@@ -5241,7 +5237,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T06:50:29.559146Z"
+    "checked_at": "2026-09-27T06:40:27.039012Z"
   },
   "UAE59": {
     "route": {
@@ -13338,5 +13334,16 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-27T06:30:36.504167Z"
+  },
+  "EWG7W": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T06:40:27.039012Z"
   }
 }
