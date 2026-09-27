@@ -1316,7 +1316,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-26T19:25:20.601253Z"
+    "checked_at": "2026-09-27T19:40:27.851775Z"
   },
   "RYR3RD": {
     "route": {
@@ -6405,10 +6405,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-09-27T09:05:22.529779Z"
-  },
-  "AWH94L": {
-    "route": null,
-    "checked_at": "2026-09-25T19:35:23.924114Z"
   },
   "ASL44H": {
     "route": {
@@ -12854,5 +12850,71 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T19:35:23.416226Z"
+  },
+  "NSZ2941": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T19:40:27.851775Z"
+  },
+  "NSZ3304": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T19:40:27.851775Z"
+  },
+  "EJU84TJ": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T19:40:27.851775Z"
+  },
+  "EWG9QC": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T19:40:27.851775Z"
+  },
+  "RYR3885": {
+    "route": {
+      "fromCity": "Olsztyn",
+      "fromIata": "SZY",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T19:40:27.851775Z"
+  },
+  "WZZ50ML": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-27T19:40:27.851775Z"
   }
 }
