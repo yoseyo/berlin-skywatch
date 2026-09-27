@@ -2606,7 +2606,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-25T06:50:29.559146Z"
+    "checked_at": "2026-09-27T06:50:26.961857Z"
   },
   "LOT286": {
     "route": {
@@ -2808,7 +2808,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-26T07:25:22.256962Z"
+    "checked_at": "2026-09-27T06:50:26.961857Z"
   },
   "EIN3JE": {
     "route": {
@@ -11596,7 +11596,7 @@
   },
   "DMELV": {
     "route": null,
-    "checked_at": "2026-09-26T13:45:26.727446Z"
+    "checked_at": "2026-09-27T06:50:26.961857Z"
   },
   "DMTWH": {
     "route": null,
@@ -13345,5 +13345,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T06:40:27.039012Z"
+  },
+  "BAW84NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-27T06:50:26.961857Z"
+  },
+  "VKG040": {
+    "route": {
+      "fromCity": "Stavanger",
+      "fromIata": "SVG",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-27T06:50:26.961857Z"
   }
 }
