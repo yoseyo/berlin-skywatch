@@ -1371,7 +1371,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-26T20:05:57.761356Z"
+    "checked_at": "2026-09-27T20:30:38.887359Z"
   },
   "AUA989D": {
     "route": {
@@ -6405,17 +6405,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-26T12:00:46.599299Z"
-  },
-  "NOZ3CG": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-25T20:28:56.555674Z"
   },
   "RYR12KD": {
     "route": {
@@ -12857,5 +12846,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T20:21:02.307664Z"
+  },
+  "CCA940": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-27T20:30:38.887359Z"
+  },
+  "EJU74RM": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T20:30:38.887359Z"
+  },
+  "QGA01A": {
+    "route": null,
+    "checked_at": "2026-09-27T20:30:38.887359Z"
+  },
+  "SDR49JS": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T20:30:38.887359Z"
   }
 }
