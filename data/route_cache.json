@@ -486,7 +486,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T15:50:30.437414Z"
+    "checked_at": "2026-09-27T16:05:21.026743Z"
   },
   "RYR11CP": {
     "route": {
@@ -4890,17 +4890,6 @@
     },
     "checked_at": "2026-09-27T12:45:26.348734Z"
   },
-  "NSZ2066": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T16:00:54.131600Z"
-  },
   "RYR5SB": {
     "route": {
       "fromCity": "M\u00e1laga",
@@ -6648,17 +6637,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T15:25:20.784207Z"
-  },
-  "EWG6YP": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T16:00:54.131600Z"
   },
   "DEWWP": {
     "route": null,
@@ -12857,5 +12835,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T16:00:52.304743Z"
+  },
+  "LEJ110": {
+    "route": null,
+    "checked_at": "2026-09-27T16:05:21.026743Z"
+  },
+  "CFE27PM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-27T16:05:21.026743Z"
+  },
+  "EWG67A": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T16:05:21.026743Z"
   }
 }
