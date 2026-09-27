@@ -2720,7 +2720,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T07:25:22.256962Z"
+    "checked_at": "2026-09-27T07:25:21.130671Z"
   },
   "RYR12EJ": {
     "route": {
@@ -2808,7 +2808,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-26T06:45:29.034206Z"
+    "checked_at": "2026-09-27T07:25:21.130671Z"
   },
   "PGT28RL": {
     "route": {
@@ -2819,7 +2819,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-26T09:20:28.865360Z"
+    "checked_at": "2026-09-27T07:25:21.130671Z"
   },
   "DLH3EV": {
     "route": {
@@ -13156,5 +13156,27 @@
   "LOT5T": {
     "route": null,
     "checked_at": "2026-09-27T07:20:28.308286Z"
+  },
+  "HYS407": {
+    "route": {
+      "fromCity": "Chi\u015fin\u0103u",
+      "fromIata": "RMO",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "HiSky Europe",
+      "airlineCountry": "Romania"
+    },
+    "checked_at": "2026-09-27T07:25:21.130671Z"
+  },
+  "WZZ2CE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-27T07:25:21.130671Z"
   }
 }
