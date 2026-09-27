@@ -67,7 +67,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-26T21:10:27.695689Z"
+    "checked_at": "2026-09-27T15:30:40.957372Z"
   },
   "CFE93AU": {
     "route": {
@@ -385,17 +385,6 @@
     },
     "checked_at": "2026-09-27T15:00:47.427028Z"
   },
-  "CFE61X": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-25T15:26:31.784152Z"
-  },
   "FIN79T": {
     "route": {
       "fromCity": "Helsinki",
@@ -417,17 +406,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-27T14:55:22.021916Z"
-  },
-  "EWG67A": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T15:26:31.784152Z"
   },
   "AFR64PU": {
     "route": {
@@ -5555,17 +5533,6 @@
     },
     "checked_at": "2026-09-27T15:05:22.490334Z"
   },
-  "EJU96PC": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T15:26:31.784152Z"
-  },
   "ICE15M": {
     "route": {
       "fromCity": "Berlin",
@@ -5788,7 +5755,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-26T16:40:29.355800Z"
+    "checked_at": "2026-09-27T15:30:40.957372Z"
   },
   "DLH6EH": {
     "route": {
@@ -6678,25 +6645,6 @@
     },
     "checked_at": "2026-09-27T15:25:20.784207Z"
   },
-  "NJE616E": {
-    "route": null,
-    "checked_at": "2026-09-25T15:26:31.784152Z"
-  },
-  "RYR45CC": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T15:26:31.784152Z"
-  },
-  "TWY27": {
-    "route": null,
-    "checked_at": "2026-09-25T15:26:31.784152Z"
-  },
   "RYR2962": {
     "route": {
       "fromCity": "Birmingham",
@@ -6773,7 +6721,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-26T11:25:22.626099Z"
+    "checked_at": "2026-09-27T15:30:40.957372Z"
   },
   "N542CD": {
     "route": null,
@@ -12872,5 +12820,16 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-27T15:25:20.784207Z"
+  },
+  "NSZ81MQ": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T15:30:40.957372Z"
   }
 }
