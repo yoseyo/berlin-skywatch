@@ -2069,7 +2069,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T04:40:30.546586Z"
+    "checked_at": "2026-09-27T04:35:34.094644Z"
   },
   "EJU5087": {
     "route": null,
@@ -5278,7 +5278,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T06:05:22.829448Z"
+    "checked_at": "2026-09-27T04:35:34.094644Z"
   },
   "SXS9RW": {
     "route": {
@@ -5400,7 +5400,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T12:10:30.041799Z"
+    "checked_at": "2026-09-27T04:35:34.094644Z"
   },
   "AUA977F": {
     "route": {
@@ -6937,17 +6937,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-27T03:45:25.880999Z"
-  },
-  "EJU35TP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T04:30:38.807868Z"
   },
   "EJU46NG": {
     "route": {
@@ -13431,5 +13420,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-27T03:20:25.902981Z"
+  },
+  "SXS2EP": {
+    "route": {
+      "fromCity": "Kayseri",
+      "fromIata": "ASR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-27T04:35:34.094644Z"
   }
 }
