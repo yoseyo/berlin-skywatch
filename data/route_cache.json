@@ -721,7 +721,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T16:30:35.743349Z"
+    "checked_at": "2026-09-27T16:35:20.774247Z"
   },
   "AUA234G": {
     "route": {
@@ -928,17 +928,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-25T17:00:54.425640Z"
-  },
-  "WZZ3GV": {
-    "route": {
-      "fromCity": "Cluj-Napoca",
-      "fromIata": "CLJ",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-25T16:30:40.350802Z"
   },
   "THY5MH": {
     "route": {
@@ -6611,17 +6600,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T15:25:20.784207Z"
-  },
-  "QTR58A": {
-    "route": {
-      "fromCity": "Los Angeles",
-      "fromIata": "LAX",
-      "toCity": "Li\u00e8ge",
-      "toIata": "LGG",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-09-25T16:30:40.350802Z"
   },
   "RYR33KQ": {
     "route": {
@@ -12904,5 +12882,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-27T16:30:38.156174Z"
+  },
+  "WMT7003": {
+    "route": {
+      "fromCity": "Timi\u015foara",
+      "fromIata": "TSR",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-27T16:35:20.774247Z"
+  },
+  "RYR2281": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T16:35:20.774247Z"
   }
 }
