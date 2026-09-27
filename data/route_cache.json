@@ -4035,7 +4035,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-26T13:15:27.253631Z"
+    "checked_at": "2026-09-27T13:45:27.036338Z"
   },
   "LOT2PJ": {
     "route": {
@@ -5010,17 +5010,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T15:30:37.163855Z"
-  },
-  "EWG9KG": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T13:40:33.372306Z"
   },
   "RJA138": {
     "route": {
@@ -6639,25 +6628,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-26T13:10:26.656548Z"
-  },
-  "WZZ6808": {
-    "route": null,
-    "checked_at": "2026-09-25T13:40:33.372306Z"
-  },
-  "DCHFA": {
-    "route": null,
-    "checked_at": "2026-09-25T13:40:33.372306Z"
-  },
-  "CFG4KC": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T13:40:33.372306Z"
   },
   "RYR5ME": {
     "route": {
@@ -12844,5 +12814,38 @@
   "TOY554": {
     "route": null,
     "checked_at": "2026-09-27T13:40:27.269149Z"
+  },
+  "NSZ3301": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T13:45:27.036338Z"
+  },
+  "NSZ3582": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T13:45:27.036338Z"
+  },
+  "EWG7RB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T13:45:27.036338Z"
   }
 }
