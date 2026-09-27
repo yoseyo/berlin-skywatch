@@ -339,7 +339,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T20:50:29.087444Z"
+    "checked_at": "2026-09-27T15:40:28.105295Z"
   },
   "TKJ9NQ": {
     "route": {
@@ -438,7 +438,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-25T15:40:29.638264Z"
+    "checked_at": "2026-09-27T15:40:28.105295Z"
   },
   "AUA978": {
     "route": {
@@ -629,7 +629,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-26T16:00:47.299131Z"
+    "checked_at": "2026-09-27T15:40:28.105295Z"
   },
   "FIN9YA": {
     "route": {
@@ -5854,7 +5854,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-25T21:20:30.427153Z"
+    "checked_at": "2026-09-27T15:40:28.105295Z"
   },
   "EIN33W": {
     "route": {
@@ -12838,5 +12838,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-27T15:35:23.402630Z"
+  },
+  "AUA233": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T15:40:28.105295Z"
+  },
+  "EWG8MD": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T15:40:28.105295Z"
   }
 }
