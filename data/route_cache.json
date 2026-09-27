@@ -830,17 +830,6 @@
     },
     "checked_at": "2026-09-26T18:00:52.092556Z"
   },
-  "BEL3JZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-09-25T17:10:30.572036Z"
-  },
   "BAW94Q": {
     "route": {
       "fromCity": "London",
@@ -5080,17 +5069,6 @@
     },
     "checked_at": "2026-09-25T19:05:23.887047Z"
   },
-  "EJU92MK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T17:12:26.298124Z"
-  },
   "NSZ3LZ": {
     "route": {
       "fromCity": "Alicante",
@@ -6603,17 +6581,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T15:00:47.427028Z"
-  },
-  "EWG3GH": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T17:10:30.572036Z"
   },
   "TKJ9HJ": {
     "route": {
@@ -12885,5 +12852,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T17:10:28.002514Z"
+  },
+  "AUA234G": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T17:15:28.371150Z"
+  },
+  "EJU57YZ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T17:15:28.371150Z"
+  },
+  "EJU59FK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T17:15:28.371150Z"
+  },
+  "DICMD": {
+    "route": null,
+    "checked_at": "2026-09-27T17:15:28.371150Z"
   }
 }
