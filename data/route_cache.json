@@ -133,7 +133,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-26T14:10:27.255360Z"
+    "checked_at": "2026-09-27T14:10:29.211438Z"
   },
   "MSR732": {
     "route": {
@@ -225,7 +225,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-26T14:10:27.255360Z"
+    "checked_at": "2026-09-27T14:10:29.211438Z"
   },
   "LOT279": {
     "route": {
@@ -6036,17 +6036,6 @@
     },
     "checked_at": "2026-09-25T20:20:32.331957Z"
   },
-  "RYR12AV": {
-    "route": {
-      "fromCity": "Trieste",
-      "fromIata": "TRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T14:05:25.668780Z"
-  },
   "RYR9SW": {
     "route": {
       "fromCity": "Warsaw",
@@ -6639,21 +6628,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T13:55:21.688008Z"
-  },
-  "TVF46LX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Nantes",
-      "toIata": "NTE",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-25T14:05:25.668780Z"
-  },
-  "AWH94T": {
-    "route": null,
-    "checked_at": "2026-09-25T14:05:25.668780Z"
   },
   "BAF659": {
     "route": null,
@@ -9926,7 +9900,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T14:30:38.832504Z"
+    "checked_at": "2026-09-27T14:10:29.211438Z"
   },
   "CCA957": {
     "route": {
@@ -12840,5 +12814,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T14:00:47.795912Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-27T14:10:29.211438Z"
   }
 }
