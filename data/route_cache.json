@@ -2303,17 +2303,6 @@
     },
     "checked_at": "2026-09-26T05:35:23.417422Z"
   },
-  "EWG5MJ": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T05:20:28.896006Z"
-  },
   "FIN3AW": {
     "route": {
       "fromCity": "Helsinki",
@@ -6967,17 +6956,6 @@
     },
     "checked_at": "2026-09-27T04:50:27.398949Z"
   },
-  "LHX853": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T05:25:21.508908Z"
-  },
   "SAS7319": {
     "route": {
       "fromCity": "Oslo",
@@ -11335,7 +11313,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T10:50:31.538574Z"
+    "checked_at": "2026-09-27T05:25:22.340637Z"
   },
   "PTO1563": {
     "route": null,
@@ -13379,5 +13357,20 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-27T05:20:28.585738Z"
+  },
+  "EJU18LB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sharm el-Sheikh",
+      "toIata": "SSH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T05:25:22.340637Z"
+  },
+  "MASBA": {
+    "route": null,
+    "checked_at": "2026-09-27T05:25:22.340637Z"
   }
 }
