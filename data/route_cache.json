@@ -3899,7 +3899,7 @@
   },
   "CHX71": {
     "route": null,
-    "checked_at": "2026-09-27T01:00:47.620345Z"
+    "checked_at": "2026-09-27T17:50:27.411019Z"
   },
   "AFR1235": {
     "route": {
@@ -12949,5 +12949,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-27T17:45:27.861113Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-09-27T17:50:27.411019Z"
+  },
+  "DLH8WF": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T17:50:27.411019Z"
   }
 }
