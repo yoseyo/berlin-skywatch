@@ -3851,7 +3851,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-26T11:10:28.115843Z"
+    "checked_at": "2026-09-27T11:10:28.123684Z"
   },
   "SAS1677": {
     "route": {
@@ -6786,32 +6786,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T10:50:31.538574Z"
-  },
-  "QTR72U": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-09-25T11:05:27.363070Z"
-  },
-  "DEAFG": {
-    "route": null,
-    "checked_at": "2026-09-25T11:05:27.363070Z"
-  },
-  "SAS67W": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T11:05:27.363070Z"
   },
   "BEL9CK": {
     "route": {
@@ -12916,5 +12890,35 @@
   "DEBTB": {
     "route": null,
     "checked_at": "2026-09-27T11:05:21.154385Z"
+  },
+  "NSZ4501": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T11:10:28.123684Z"
+  },
+  "MGH724": {
+    "route": null,
+    "checked_at": "2026-09-27T11:10:28.123684Z"
+  },
+  "NJE104D": {
+    "route": null,
+    "checked_at": "2026-09-27T11:10:28.123684Z"
+  },
+  "FLI7121": {
+    "route": {
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-09-27T11:10:28.123684Z"
   }
 }
