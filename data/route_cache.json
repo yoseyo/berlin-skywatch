@@ -1492,7 +1492,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-26T20:25:21.527514Z"
+    "checked_at": "2026-09-27T21:05:21.589446Z"
   },
   "SWR9LC": {
     "route": {
@@ -6369,20 +6369,9 @@
     },
     "checked_at": "2026-09-27T20:40:29.581237Z"
   },
-  "RYR8602": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T21:00:48.113424Z"
-  },
   "EJU5088": {
     "route": null,
-    "checked_at": "2026-09-25T21:05:23.038887Z"
+    "checked_at": "2026-09-27T21:05:21.589446Z"
   },
   "HLF8868": {
     "route": {
@@ -12926,5 +12915,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T20:55:22.392493Z"
+  },
+  "BTI9BQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-27T21:05:21.589446Z"
+  },
+  "RYR92HL": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T21:05:21.589446Z"
   }
 }
