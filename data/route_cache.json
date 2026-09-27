@@ -6945,17 +6945,6 @@
     },
     "checked_at": "2026-09-27T04:45:24.854586Z"
   },
-  "BTI28P": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-25T05:36:00.180033Z"
-  },
   "EJU51LD": {
     "route": {
       "fromCity": "Lyon",
@@ -7179,7 +7168,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T06:50:29.559146Z"
+    "checked_at": "2026-09-27T05:40:27.661995Z"
   },
   "THY4MS": {
     "route": {
@@ -13365,5 +13354,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-27T05:35:20.702487Z"
+  },
+  "BTI3TP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-27T05:40:27.661995Z"
   }
 }
