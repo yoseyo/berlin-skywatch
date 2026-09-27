@@ -2113,7 +2113,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T05:50:28.366539Z"
+    "checked_at": "2026-09-27T05:05:21.347577Z"
   },
   "KLM64F": {
     "route": {
@@ -6283,7 +6283,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-26T04:55:21.306548Z"
+    "checked_at": "2026-09-27T05:05:21.347577Z"
   },
   "ICE14T": {
     "route": {
@@ -6945,10 +6945,6 @@
     },
     "checked_at": "2026-09-27T04:40:27.685700Z"
   },
-  "GAF626": {
-    "route": null,
-    "checked_at": "2026-09-25T05:00:47.930299Z"
-  },
   "EJU41NB": {
     "route": {
       "fromCity": "Paris",
@@ -6959,21 +6955,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T04:30:38.514654Z"
-  },
-  "SUA6D": {
-    "route": null,
-    "checked_at": "2026-09-25T05:00:47.930299Z"
-  },
-  "SAS7955": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Ioannina",
-      "toIata": "IOA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T05:00:47.930299Z"
   },
   "RYR5SC": {
     "route": {
@@ -13376,5 +13357,16 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-27T05:00:46.063127Z"
+  },
+  "SDR17SG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Trieste",
+      "toIata": "TRS",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T05:05:21.347577Z"
   }
 }
