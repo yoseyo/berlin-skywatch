@@ -3017,7 +3017,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-26T08:20:28.283040Z"
+    "checked_at": "2026-09-27T08:20:27.934824Z"
   },
   "IBE07TT": {
     "route": {
@@ -6924,10 +6924,6 @@
     },
     "checked_at": "2026-09-27T07:46:03.345622Z"
   },
-  "NJE412G": {
-    "route": null,
-    "checked_at": "2026-09-25T08:15:28.681237Z"
-  },
   "DMS2NW": {
     "route": null,
     "checked_at": "2026-09-25T08:20:28.935361Z"
@@ -7001,7 +6997,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-26T08:20:28.283040Z"
+    "checked_at": "2026-09-27T08:20:27.934824Z"
   },
   "SXS9NH": {
     "route": {
@@ -8258,7 +8254,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T14:45:26.935265Z"
+    "checked_at": "2026-09-27T08:20:27.934824Z"
   },
   "CHX64": {
     "route": null,
@@ -13131,5 +13127,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-27T08:15:26.285645Z"
+  },
+  "LOT3PK": {
+    "route": {
+      "fromCity": "Miami",
+      "fromIata": "MIA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-27T08:20:27.934824Z"
   }
 }
