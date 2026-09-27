@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-27T23:25:22.600339Z"
+  "flights": [
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.4967,
+      "lon": 13.8833,
+      "altKm": 9.5,
+      "speedKmh": 850,
+      "heading": 52,
+      "vertRateMs": 5.8,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-27T23:30:40.349580Z"
 }
