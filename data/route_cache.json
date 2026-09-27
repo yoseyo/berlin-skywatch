@@ -3846,17 +3846,6 @@
     },
     "checked_at": "2026-09-27T13:05:21.413870Z"
   },
-  "RYR93QN": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T19:30:41.004459Z"
-  },
   "WZZ262": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -5358,7 +5347,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T18:50:26.798659Z"
+    "checked_at": "2026-09-27T19:30:41.415001Z"
   },
   "NSZ4508": {
     "route": {
@@ -6416,17 +6405,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-09-27T09:05:22.529779Z"
-  },
-  "NIA852": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-09-25T19:30:41.004459Z"
   },
   "AWH94L": {
     "route": null,
@@ -12799,5 +12777,38 @@
   "CHX92": {
     "route": null,
     "checked_at": "2026-09-27T19:25:23.428341Z"
+  },
+  "CFG9EH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T19:30:41.415001Z"
+  },
+  "EZY27LF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-27T19:30:41.415001Z"
+  },
+  "CFE8495": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-27T19:30:41.415001Z"
   }
 }
