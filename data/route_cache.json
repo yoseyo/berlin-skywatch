@@ -1118,7 +1118,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-26T18:20:29.561335Z"
+    "checked_at": "2026-09-27T18:25:24.359891Z"
   },
   "LGL9473": {
     "route": {
@@ -4491,7 +4491,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-26T19:35:24.411086Z"
+    "checked_at": "2026-09-27T18:25:24.359891Z"
   },
   "RYR3RK": {
     "route": {
@@ -6515,17 +6515,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T15:25:20.784207Z"
-  },
-  "RYR308B": {
-    "route": {
-      "fromCity": "Zagreb",
-      "fromIata": "ZAG",
-      "toCity": "Malm\u00f6",
-      "toIata": "MMX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T18:25:23.386855Z"
   },
   "SXS5NH": {
     "route": {
@@ -12937,5 +12926,20 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-27T18:20:28.512381Z"
+  },
+  "JFA73E": {
+    "route": null,
+    "checked_at": "2026-09-27T18:25:24.359891Z"
+  },
+  "AUA237": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T18:25:24.359891Z"
   }
 }
