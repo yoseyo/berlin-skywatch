@@ -1338,7 +1338,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-25T19:40:29.585522Z"
+    "checked_at": "2026-09-27T19:35:23.416226Z"
   },
   "RYR2TL": {
     "route": {
@@ -4502,7 +4502,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-26T20:30:40.283592Z"
+    "checked_at": "2026-09-27T19:35:23.416226Z"
   },
   "LOT5N": {
     "route": {
@@ -12810,5 +12810,49 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-27T19:30:41.415001Z"
+  },
+  "LOT285": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-27T19:35:23.416226Z"
+  },
+  "BTI89U": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-27T19:35:23.416226Z"
+  },
+  "SWR979E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-27T19:35:23.416226Z"
+  },
+  "RYR4ZG": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Castell\u00f3n de la Plana",
+      "toIata": "CDT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T19:35:23.416226Z"
   }
 }
