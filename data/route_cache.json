@@ -2157,7 +2157,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-26T10:05:21.533704Z"
+    "checked_at": "2026-09-27T05:10:28.391218Z"
   },
   "TVF25AT": {
     "route": {
@@ -2190,7 +2190,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-26T05:20:29.970707Z"
+    "checked_at": "2026-09-27T05:10:28.391218Z"
   },
   "AUA240": {
     "route": {
@@ -2201,7 +2201,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T05:20:29.970707Z"
+    "checked_at": "2026-09-27T05:10:28.391218Z"
   },
   "WMT7615": {
     "route": null,
@@ -4945,17 +4945,6 @@
     },
     "checked_at": "2026-09-27T04:16:02.638338Z"
   },
-  "EWG4Z": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Zemunik (Zadar)",
-      "toIata": "ZAD",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T05:05:21.899754Z"
-  },
   "WZZ6072": {
     "route": {
       "fromCity": "Bratislava",
@@ -6955,28 +6944,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T04:30:38.514654Z"
-  },
-  "RYR5SC": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "\u00d6rebro",
-      "toIata": "ORB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T05:05:21.899754Z"
-  },
-  "SAS7883": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Zakynthos Island",
-      "toIata": "ZTH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T05:05:21.899754Z"
   },
   "EWG3TF": {
     "route": {
@@ -13368,5 +13335,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T05:05:21.347577Z"
+  },
+  "NOZ1950": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-27T05:10:28.391218Z"
+  },
+  "LOT7HJ": {
+    "route": {
+      "fromCity": "Tbilisi",
+      "fromIata": "TBS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-27T05:10:28.391218Z"
+  },
+  "CFG9EF": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T05:10:28.391218Z"
   }
 }
