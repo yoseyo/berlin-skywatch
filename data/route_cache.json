@@ -3949,17 +3949,6 @@
     },
     "checked_at": "2026-09-27T12:30:39.711821Z"
   },
-  "EJU71KT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T12:45:29.736698Z"
-  },
   "KLM1314": {
     "route": {
       "fromCity": "Bordeaux/M\u00e9rignac",
@@ -6651,17 +6640,6 @@
     },
     "checked_at": "2026-09-26T12:35:33.080128Z"
   },
-  "ICE537": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Icelandair",
-      "airlineCountry": "Iceland"
-    },
-    "checked_at": "2026-09-25T12:45:29.736698Z"
-  },
   "OKPCG": {
     "route": null,
     "checked_at": "2026-09-25T12:50:32.032750Z"
@@ -9307,7 +9285,7 @@
   },
   "DFLYW": {
     "route": null,
-    "checked_at": "2026-09-26T09:55:20.616505Z"
+    "checked_at": "2026-09-27T12:50:29.435508Z"
   },
   "AEE751": {
     "route": {
@@ -10407,7 +10385,7 @@
   },
   "DMTCK": {
     "route": null,
-    "checked_at": "2026-09-26T15:55:24.702395Z"
+    "checked_at": "2026-09-27T12:50:29.435508Z"
   },
   "RYR26YA": {
     "route": null,
@@ -12735,5 +12713,49 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T12:40:27.239858Z"
+  },
+  "ENT7BT": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-27T12:50:29.435508Z"
+  },
+  "SAS23G": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T12:50:29.435508Z"
+  },
+  "SAS2695": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Palermo",
+      "toIata": "PMO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T12:50:29.435508Z"
+  },
+  "AEE512": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-27T12:50:29.435508Z"
   }
 }
