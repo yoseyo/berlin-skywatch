@@ -1,16 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "CHX71",
+      "country": "Germany",
+      "lat": 52.8079,
+      "lon": 13.7482,
+      "altKm": 0.5,
+      "speedKmh": 208,
+      "heading": 214,
+      "vertRateMs": 0.7,
+      "category": "heli"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4454,
-      "lon": 13.5524,
+      "lat": 52.4595,
+      "lon": 13.5611,
       "altKm": 0.8,
-      "speedKmh": 139,
-      "heading": 275,
+      "speedKmh": 116,
+      "heading": 115,
       "vertRateMs": 0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-09-27T02:20:27.742745Z"
+  "updated_at": "2026-09-27T02:25:20.347174Z"
 }
