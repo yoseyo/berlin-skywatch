@@ -2540,7 +2540,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-26T06:30:36.866689Z"
+    "checked_at": "2026-09-27T06:30:36.504167Z"
   },
   "AFR1434": {
     "route": {
@@ -6952,17 +6952,6 @@
     },
     "checked_at": "2026-09-26T05:45:27.303940Z"
   },
-  "EJU9041": {
-    "route": {
-      "fromCity": "Maastricht",
-      "fromIata": "MST",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T06:25:23.323586Z"
-  },
   "FIN6AP": {
     "route": {
       "fromCity": "Helsinki",
@@ -6973,17 +6962,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-27T06:25:21.737816Z"
-  },
-  "CFG1KL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T06:25:23.323586Z"
   },
   "WMT9SL": {
     "route": {
@@ -13379,5 +13357,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T06:20:28.710575Z"
+  },
+  "EZS53CU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-27T06:30:36.504167Z"
   }
 }
