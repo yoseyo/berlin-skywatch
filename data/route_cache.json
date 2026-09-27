@@ -6597,21 +6597,6 @@
     },
     "checked_at": "2026-09-27T07:10:26.691658Z"
   },
-  "NJE007F": {
-    "route": null,
-    "checked_at": "2026-09-25T16:55:21.168422Z"
-  },
-  "EJU57YZ": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T16:55:21.168422Z"
-  },
   "UAE61": {
     "route": {
       "fromCity": "Dubai",
@@ -12886,5 +12871,38 @@
   "DEJYZ": {
     "route": null,
     "checked_at": "2026-09-27T16:55:20.970697Z"
+  },
+  "EWG45B": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T17:00:47.507191Z"
+  },
+  "EJU5267": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T17:00:47.507191Z"
+  },
+  "LOT3JK": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-27T17:00:47.507191Z"
   }
 }
