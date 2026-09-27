@@ -1,14 +1,48 @@
 {
   "flights": [
     {
+      "callsign": "NSZ3305",
+      "country": "Sweden",
+      "lat": 52.4714,
+      "lon": 13.8103,
+      "altKm": 2.5,
+      "speedKmh": 531,
+      "heading": 9,
+      "vertRateMs": 17.2,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "SDR11YL",
+      "country": "Germany",
+      "lat": 52.3102,
+      "lon": 13.3205,
+      "altKm": 0.7,
+      "speedKmh": 340,
+      "heading": 69,
+      "vertRateMs": -5.5,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "EWG44U",
       "country": "Germany",
-      "lat": 52.2667,
-      "lon": 13.0177,
-      "altKm": 1.4,
-      "speedKmh": 493,
-      "heading": 89,
-      "vertRateMs": -6.8,
+      "lat": 52.3374,
+      "lon": 13.4345,
+      "altKm": 0.2,
+      "speedKmh": 247,
+      "heading": 69,
+      "vertRateMs": -3.9,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
       "fromCity": "Zurich",
@@ -18,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-27T21:25:23.453285Z"
+  "updated_at": "2026-09-27T21:30:39.031489Z"
 }
