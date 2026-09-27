@@ -993,7 +993,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-25T18:05:27.199572Z"
+    "checked_at": "2026-09-27T18:00:48.348253Z"
   },
   "AUA26Z": {
     "route": {
@@ -1004,7 +1004,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T18:25:21.699880Z"
+    "checked_at": "2026-09-27T18:00:48.348253Z"
   },
   "AUA237": {
     "route": {
@@ -1118,7 +1118,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-09-26T18:20:29.561335Z"
+    "checked_at": "2026-09-27T18:00:48.348253Z"
   },
   "SAS55L": {
     "route": {
@@ -1140,7 +1140,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-25T18:05:27.199572Z"
+    "checked_at": "2026-09-27T18:00:48.348253Z"
   },
   "BAW995": {
     "route": {
@@ -3436,7 +3436,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-26T07:05:21.328569Z"
+    "checked_at": "2026-09-27T18:00:48.348253Z"
   },
   "NOZ53Y": {
     "route": {
@@ -4921,17 +4921,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-09-25T18:35:26.001913Z"
-  },
-  "EJU74RM": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T17:55:22.785346Z"
   },
   "EZS67CP": {
     "route": {
@@ -6571,17 +6560,6 @@
     },
     "checked_at": "2026-09-27T07:50:25.869957Z"
   },
-  "NIA851": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-09-25T17:55:22.785346Z"
-  },
   "PTN95L": {
     "route": null,
     "checked_at": "2026-09-25T18:00:52.570656Z"
@@ -6912,7 +6890,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-25T20:00:48.944686Z"
+    "checked_at": "2026-09-27T18:00:48.348253Z"
   },
   "HLF8816": {
     "route": null,
@@ -12986,5 +12964,27 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-09-27T17:55:21.466960Z"
+  },
+  "BTI6UN": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-27T18:00:48.348253Z"
+  },
+  "RYR37YC": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T18:00:48.348253Z"
   }
 }
