@@ -3969,7 +3969,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-26T12:45:28.268740Z"
+    "checked_at": "2026-09-27T13:10:29.733707Z"
   },
   "RYR65YP": {
     "route": {
@@ -4002,7 +4002,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T13:25:20.883588Z"
+    "checked_at": "2026-09-27T13:10:29.733707Z"
   },
   "SAS1678": {
     "route": {
@@ -4208,7 +4208,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T13:30:36.506885Z"
+    "checked_at": "2026-09-27T13:10:29.733707Z"
   },
   "RYR90GK": {
     "route": {
@@ -6531,7 +6531,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T10:50:31.538574Z"
+    "checked_at": "2026-09-27T13:10:29.733707Z"
   },
   "THY9RZ": {
     "route": {
@@ -6643,17 +6643,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T11:55:22.170549Z"
-  },
-  "IBS1805": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Iberia Express",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-09-25T13:05:23.063015Z"
   },
   "QGA01A": {
     "route": null,
@@ -12739,5 +12728,16 @@
   "DMUCD": {
     "route": null,
     "checked_at": "2026-09-27T13:05:21.413870Z"
+  },
+  "EJU71KT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T13:10:29.733707Z"
   }
 }
