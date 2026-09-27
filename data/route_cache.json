@@ -78,7 +78,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-25T13:55:28.460707Z"
+    "checked_at": "2026-09-27T13:55:21.688008Z"
   },
   "RYR24XK": {
     "route": {
@@ -4138,7 +4138,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-26T13:30:36.506885Z"
+    "checked_at": "2026-09-27T13:55:21.688008Z"
   },
   "EJU69MZ": {
     "route": null,
@@ -6618,17 +6618,6 @@
     },
     "checked_at": "2026-09-26T13:10:26.656548Z"
   },
-  "CSN6041": {
-    "route": {
-      "fromCity": "\u00dcr\u00fcmqi",
-      "fromIata": "URC",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-25T13:50:33.969048Z"
-  },
   "EJU98TC": {
     "route": {
       "fromCity": "Catania",
@@ -6675,7 +6664,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-25T14:00:50.632445Z"
+    "checked_at": "2026-09-27T13:55:21.688008Z"
   },
   "TVF46LX": {
     "route": {
@@ -12825,5 +12814,46 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-09-27T13:50:28.986794Z"
+  },
+  "NSZ6HT": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T13:55:21.688008Z"
+  },
+  "DLH743": {
+    "route": {
+      "fromCity": "Osaka",
+      "fromIata": "KIX",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T13:55:21.688008Z"
+  },
+  "NJE733E": {
+    "route": null,
+    "checked_at": "2026-09-27T13:55:21.688008Z"
+  },
+  "KRP635": {
+    "route": null,
+    "checked_at": "2026-09-27T13:55:21.688008Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T13:55:21.688008Z"
   }
 }
