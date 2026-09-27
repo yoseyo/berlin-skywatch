@@ -3,11 +3,11 @@
     {
       "callsign": "SWR1317",
       "country": "Latvia",
-      "lat": 52.6248,
-      "lon": 13.7074,
+      "lat": 52.1227,
+      "lon": 13.182,
       "altKm": 11.9,
-      "speedKmh": 760,
-      "heading": 213,
+      "speedKmh": 766,
+      "heading": 212,
       "vertRateMs": 0,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
@@ -16,7 +16,35 @@
       "toCity": "Zurich",
       "toIata": "ZRH",
       "category": "plane"
+    },
+    {
+      "callsign": "CHX71",
+      "country": "Germany",
+      "lat": 52.535,
+      "lon": 13.3676,
+      "altKm": 0.2,
+      "speedKmh": 59,
+      "heading": 204,
+      "vertRateMs": 1.9,
+      "category": "heli"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.1334,
+      "lon": 13.31,
+      "altKm": 2.3,
+      "speedKmh": 488,
+      "heading": 318,
+      "vertRateMs": -6.2,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-27T03:45:25.880999Z"
+  "updated_at": "2026-09-27T03:50:29.260484Z"
 }
