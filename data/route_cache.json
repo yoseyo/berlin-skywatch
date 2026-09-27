@@ -5024,7 +5024,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-09-26T14:00:47.523976Z"
+    "checked_at": "2026-09-27T12:35:23.417957Z"
   },
   "SWU1951": {
     "route": {
@@ -5069,17 +5069,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-26T14:50:29.249487Z"
-  },
-  "EJU96ND": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-25T12:30:40.483464Z"
   },
   "DLH7MR": {
     "route": {
@@ -12772,5 +12761,20 @@
   "DELHB": {
     "route": null,
     "checked_at": "2026-09-27T12:30:39.711821Z"
+  },
+  "PTN61X": {
+    "route": null,
+    "checked_at": "2026-09-27T12:35:23.417957Z"
+  },
+  "BTI8EP": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-27T12:35:23.417957Z"
   }
 }
