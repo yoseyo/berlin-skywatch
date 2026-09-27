@@ -199,7 +199,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-26T06:00:47.849837Z"
+    "checked_at": "2026-09-27T10:40:27.567944Z"
   },
   "CHX31": {
     "route": null,
@@ -2639,7 +2639,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-26T14:40:28.174629Z"
+    "checked_at": "2026-09-27T10:40:27.567944Z"
   },
   "EZY39MB": {
     "route": {
@@ -4901,17 +4901,6 @@
     },
     "checked_at": "2026-09-26T20:30:40.283592Z"
   },
-  "WZZ4782": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Skopje",
-      "toIata": "SKP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-25T10:35:23.202782Z"
-  },
   "LOT5N": {
     "route": {
       "fromCity": "New York",
@@ -4977,10 +4966,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-25T11:15:29.303707Z"
-  },
-  "DEVOH": {
-    "route": null,
-    "checked_at": "2026-09-25T10:35:23.202782Z"
   },
   "EZY94NJ": {
     "route": null,
@@ -6797,25 +6782,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T10:20:30.236823Z"
-  },
-  "UAE83M": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Los Angeles",
-      "toIata": "LAX",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-09-25T10:35:23.202782Z"
-  },
-  "OYTEC": {
-    "route": null,
-    "checked_at": "2026-09-25T10:35:23.202782Z"
-  },
-  "DIGRK": {
-    "route": null,
-    "checked_at": "2026-09-25T10:35:23.202782Z"
   },
   "UAE69R": {
     "route": {
@@ -12963,5 +12929,27 @@
   "DMSDL": {
     "route": null,
     "checked_at": "2026-09-27T10:35:22.585520Z"
+  },
+  "RYR36RH": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T10:40:27.567944Z"
+  },
+  "EJU59RD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T10:40:27.567944Z"
   }
 }
