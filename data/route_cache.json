@@ -3141,17 +3141,6 @@
     },
     "checked_at": "2026-09-26T10:00:48.730818Z"
   },
-  "NSZ4505": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T09:15:29.878619Z"
-  },
   "EJU87YF": {
     "route": {
       "fromCity": "Lyon",
@@ -3264,7 +3253,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-26T09:20:28.865360Z"
+    "checked_at": "2026-09-27T09:20:26.735508Z"
   },
   "AUA226K": {
     "route": {
@@ -3275,7 +3264,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T09:25:22.247019Z"
+    "checked_at": "2026-09-27T09:20:26.735508Z"
   },
   "LOT266": {
     "route": {
@@ -5722,7 +5711,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T20:25:21.993942Z"
+    "checked_at": "2026-09-27T09:20:26.735508Z"
   },
   "TKJ3WS": {
     "route": {
@@ -13077,5 +13066,16 @@
   "PTN23H": {
     "route": null,
     "checked_at": "2026-09-27T09:15:26.674699Z"
+  },
+  "SXS6WA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dalaman",
+      "toIata": "DLM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-27T09:20:26.735508Z"
   }
 }
