@@ -1272,7 +1272,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-25T19:10:33.762670Z"
+    "checked_at": "2026-09-27T19:00:47.777604Z"
   },
   "SXS6XP": {
     "route": {
@@ -1404,7 +1404,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-25T19:30:41.004459Z"
+    "checked_at": "2026-09-27T19:00:47.777604Z"
   },
   "BAW998": {
     "route": {
@@ -5128,17 +5128,6 @@
     "route": null,
     "checked_at": "2026-09-26T11:00:45.946213Z"
   },
-  "EWG20W": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T18:55:22.226015Z"
-  },
   "SEH875": {
     "route": {
       "fromCity": "Berlin",
@@ -6588,7 +6577,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-25T19:35:23.924114Z"
+    "checked_at": "2026-09-27T19:00:47.777604Z"
   },
   "FIN78Q": {
     "route": {
@@ -12894,5 +12883,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T18:55:21.507402Z"
+  },
+  "EZY71RM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-27T19:00:47.777604Z"
   }
 }
