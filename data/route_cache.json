@@ -776,7 +776,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T17:00:46.935649Z"
+    "checked_at": "2026-09-27T17:25:21.097873Z"
   },
   "RYR61NG": {
     "route": {
@@ -12908,5 +12908,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T17:20:30.593819Z"
+  },
+  "SAS67M": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T17:25:21.097873Z"
+  },
+  "WZZ4295": {
+    "route": {
+      "fromCity": "Tuzla",
+      "fromIata": "TZL",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-27T17:25:21.097873Z"
   }
 }
