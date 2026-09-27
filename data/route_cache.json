@@ -2942,17 +2942,6 @@
     },
     "checked_at": "2026-09-27T08:15:26.285645Z"
   },
-  "LHX5PN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T08:35:22.352756Z"
-  },
   "AUA225B": {
     "route": {
       "fromCity": "Vienna",
@@ -4618,17 +4607,6 @@
     },
     "checked_at": "2026-09-26T10:10:30.336209Z"
   },
-  "RYR6FD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T08:35:22.352756Z"
-  },
   "BBG272": {
     "route": {
       "fromCity": "Tel Aviv",
@@ -5164,17 +5142,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-25T11:15:29.303707Z"
-  },
-  "RYR73QL": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Liverpool",
-      "toIata": "LPL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T08:35:22.352756Z"
   },
   "DEVOH": {
     "route": null,
@@ -6919,10 +6886,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-26T08:20:28.283040Z"
-  },
-  "MOZ309": {
-    "route": null,
-    "checked_at": "2026-09-25T08:35:22.352756Z"
   },
   "DLH7HE": {
     "route": {
@@ -13122,5 +13085,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-27T08:30:36.608805Z"
+  },
+  "AHY063": {
+    "route": {
+      "fromCity": "Baku",
+      "fromIata": "GYD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-09-27T08:40:28.293243Z"
+  },
+  "RYR7845": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T08:40:28.293243Z"
   }
 }
