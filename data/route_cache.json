@@ -787,7 +787,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T17:00:46.935649Z"
+    "checked_at": "2026-09-27T16:40:27.197556Z"
   },
   "LHX195": {
     "route": {
@@ -927,7 +927,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-25T17:00:54.425640Z"
+    "checked_at": "2026-09-27T16:40:27.197556Z"
   },
   "THY5MH": {
     "route": {
@@ -12904,5 +12904,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T16:35:20.774247Z"
+  },
+  "WZZ3GV": {
+    "route": {
+      "fromCity": "Cluj-Napoca",
+      "fromIata": "CLJ",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-27T16:40:27.197556Z"
+  },
+  "NOZ1123": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-27T16:40:27.197556Z"
+  },
+  "DLH9919": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T16:40:27.197556Z"
   }
 }
