@@ -3543,7 +3543,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-26T09:55:20.616505Z"
+    "checked_at": "2026-09-27T09:45:24.972041Z"
   },
   "AUA27Y": {
     "route": {
@@ -6867,43 +6867,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-27T09:25:21.188253Z"
-  },
-  "EWG4DA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T09:40:29.919666Z"
-  },
-  "MMF68": {
-    "route": null,
-    "checked_at": "2026-09-25T09:40:29.919666Z"
-  },
-  "PGT1678": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-25T09:40:29.919666Z"
-  },
-  "CXI8T": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-25T09:40:29.919666Z"
   },
   "EWG8602": {
     "route": {
@@ -13039,5 +13002,35 @@
   "NJE290T": {
     "route": null,
     "checked_at": "2026-09-27T09:35:21.158528Z"
+  },
+  "BTX7P": {
+    "route": null,
+    "checked_at": "2026-09-27T09:45:24.972041Z"
+  },
+  "SAS1694": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T09:45:24.972041Z"
+  },
+  "RYR9504": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "Bristol",
+      "toIata": "BRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T09:45:24.972041Z"
+  },
+  "FHGLR": {
+    "route": null,
+    "checked_at": "2026-09-27T09:45:24.972041Z"
   }
 }
