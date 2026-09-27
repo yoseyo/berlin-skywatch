@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-27T22:05:22.520450Z"
+  "flights": [
+    {
+      "callsign": "JAF093P",
+      "country": "Lithuania",
+      "lat": 52.7189,
+      "lon": 13.476,
+      "altKm": 12.3,
+      "speedKmh": 842,
+      "heading": 71,
+      "vertRateMs": 0,
+      "airline": "Jetairfly",
+      "airlineCountry": "Belgium",
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-27T22:10:31.966883Z"
 }
