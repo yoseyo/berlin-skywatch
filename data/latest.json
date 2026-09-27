@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-27T21:40:29.429931Z"
+  "flights": [
+    {
+      "callsign": "EWG2W",
+      "country": "Germany",
+      "lat": 52.276,
+      "lon": 13.1774,
+      "altKm": 1.0,
+      "speedKmh": 427,
+      "heading": 69,
+      "vertRateMs": 0.7,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-27T21:45:28.727660Z"
 }
