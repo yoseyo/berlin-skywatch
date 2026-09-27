@@ -675,17 +675,6 @@
     },
     "checked_at": "2026-09-26T15:45:27.555479Z"
   },
-  "CFE7026": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-25T11:40:31.173078Z"
-  },
   "DMS2RV": {
     "route": {
       "fromCity": "Saarbr\u00fccken",
@@ -3686,7 +3675,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-26T11:35:22.022889Z"
+    "checked_at": "2026-09-27T11:45:26.557737Z"
   },
   "DLH4NF": {
     "route": {
@@ -3741,7 +3730,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-09-25T12:00:50.502856Z"
+    "checked_at": "2026-09-27T11:45:26.557737Z"
   },
   "WZZ18DM": {
     "route": {
@@ -3752,7 +3741,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-25T11:40:31.173078Z"
+    "checked_at": "2026-09-27T11:45:26.557737Z"
   },
   "THY8TV": {
     "route": {
@@ -10334,7 +10323,7 @@
   },
   "DHABH": {
     "route": null,
-    "checked_at": "2026-09-26T14:00:47.523976Z"
+    "checked_at": "2026-09-27T11:45:26.557737Z"
   },
   "CFG6NZ": {
     "route": {
@@ -12869,5 +12858,31 @@
   "FRO949": {
     "route": null,
     "checked_at": "2026-09-27T11:40:29.164816Z"
+  },
+  "SAS4638": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-27T11:45:26.557737Z"
+  },
+  "EWG5NP": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T11:45:26.557737Z"
+  },
+  "AMB447": {
+    "route": null,
+    "checked_at": "2026-09-27T11:45:26.557737Z"
   }
 }
