@@ -317,7 +317,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-26T15:05:23.578002Z"
+    "checked_at": "2026-09-27T15:20:28.238681Z"
   },
   "KLM1779": {
     "route": {
@@ -927,7 +927,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-26T17:05:24.563518Z"
+    "checked_at": "2026-09-27T15:20:28.238681Z"
   },
   "EZY29HQ": {
     "route": {
@@ -12843,5 +12843,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T15:15:28.972704Z"
+  },
+  "NOZ8BE": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-27T15:20:28.238681Z"
+  },
+  "EWG8ZG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T15:20:28.238681Z"
+  },
+  "CAT333": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-09-27T15:20:28.238681Z"
   }
 }
