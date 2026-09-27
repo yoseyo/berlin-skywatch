@@ -6839,17 +6839,6 @@
     },
     "checked_at": "2026-09-27T09:00:46.341191Z"
   },
-  "NSZ79AY": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T09:25:26.039783Z"
-  },
   "RYR30RG": {
     "route": {
       "fromCity": "Banja Luka",
@@ -6861,10 +6850,6 @@
     },
     "checked_at": "2026-09-26T08:40:28.571651Z"
   },
-  "SUA4B": {
-    "route": null,
-    "checked_at": "2026-09-25T09:25:26.039783Z"
-  },
   "EJU79XD": {
     "route": {
       "fromCity": "Berlin",
@@ -6875,10 +6860,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T08:50:27.109238Z"
-  },
-  "TJD403": {
-    "route": null,
-    "checked_at": "2026-09-25T09:25:26.039783Z"
   },
   "NATO41": {
     "route": null,
@@ -10532,7 +10513,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-26T11:45:00.297055Z"
+    "checked_at": "2026-09-27T09:30:40.031370Z"
   },
   "BFX1026": {
     "route": null,
@@ -13014,5 +12995,53 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-27T09:20:26.735508Z"
+  },
+  "DMVKD": {
+    "route": null,
+    "checked_at": "2026-09-27T09:30:40.031370Z"
+  },
+  "TSC418": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-09-27T09:30:40.031370Z"
+  },
+  "CAI17QT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-27T09:30:40.031370Z"
+  },
+  "PJZ238": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Premium Jet",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-27T09:30:40.031370Z"
+  },
+  "HYS408": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "HiSky Europe",
+      "airlineCountry": "Romania"
+    },
+    "checked_at": "2026-09-27T09:30:40.031370Z"
   }
 }
