@@ -940,17 +940,6 @@
     },
     "checked_at": "2026-09-26T17:45:27.142777Z"
   },
-  "RYR67ZT": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T20:41:06.573109Z"
-  },
   "AEE8DT": {
     "route": {
       "fromCity": "Athens",
@@ -1591,7 +1580,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-26T20:55:24.697010Z"
+    "checked_at": "2026-09-27T20:45:26.453393Z"
   },
   "SRR6227": {
     "route": {
@@ -4733,7 +4722,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-25T20:41:06.573109Z"
+    "checked_at": "2026-09-27T20:45:26.453393Z"
   },
   "RYR30TE": {
     "route": {
@@ -6380,10 +6369,6 @@
     },
     "checked_at": "2026-09-26T13:55:20.242458Z"
   },
-  "BFD65H": {
-    "route": null,
-    "checked_at": "2026-09-25T20:41:06.573109Z"
-  },
   "EJU32PZ": {
     "route": {
       "fromCity": "Geneva",
@@ -6394,17 +6379,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-27T20:40:29.581237Z"
-  },
-  "SDR75RY": {
-    "route": {
-      "fromCity": "Burgas",
-      "fromIata": "BOJ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T20:41:06.573109Z"
   },
   "NSZ4360": {
     "route": {
@@ -12886,5 +12860,38 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-27T20:40:29.581237Z"
+  },
+  "EJU42JF": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T20:45:26.453393Z"
+  },
+  "EJU94YN": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T20:45:26.453393Z"
+  },
+  "RYR11GY": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T20:45:26.453393Z"
   }
 }
