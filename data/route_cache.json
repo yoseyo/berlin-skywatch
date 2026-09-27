@@ -2797,7 +2797,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-26T10:40:30.060701Z"
+    "checked_at": "2026-09-27T12:00:46.012652Z"
   },
   "NOZ3JH": {
     "route": {
@@ -3774,7 +3774,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-26T12:15:25.591894Z"
+    "checked_at": "2026-09-27T12:00:46.012652Z"
   },
   "SAS2733": {
     "route": {
@@ -3807,7 +3807,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-26T12:25:22.925225Z"
+    "checked_at": "2026-09-27T12:00:46.012652Z"
   },
   "DLH9MH": {
     "route": {
@@ -5679,17 +5679,6 @@
     },
     "checked_at": "2026-09-25T21:50:27.690665Z"
   },
-  "EWG79J": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T11:55:26.096285Z"
-  },
   "DERSL": {
     "route": null,
     "checked_at": "2026-09-26T11:00:45.946213Z"
@@ -6756,28 +6745,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-26T11:45:00.297055Z"
-  },
-  "DLH3TT": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T11:55:26.096285Z"
-  },
-  "RYR9WM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-25T11:55:26.096285Z"
   },
   "EFD1E": {
     "route": null,
@@ -12898,5 +12865,28 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T11:55:22.170549Z"
+  },
+  "NOZ2WA": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-27T12:00:46.012652Z"
+  },
+  "DMUCO": {
+    "route": null,
+    "checked_at": "2026-09-27T12:00:46.012652Z"
+  },
+  "DIMAL": {
+    "route": null,
+    "checked_at": "2026-09-27T12:00:46.012652Z"
+  },
+  "BRK71": {
+    "route": null,
+    "checked_at": "2026-09-27T12:00:46.012652Z"
   }
 }
