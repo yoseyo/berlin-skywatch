@@ -1,44 +1,16 @@
 {
   "flights": [
     {
-      "callsign": "CHX71",
-      "country": "Germany",
-      "lat": 52.5558,
-      "lon": 13.3854,
-      "altKm": 0.3,
-      "speedKmh": 165,
-      "heading": 212,
-      "vertRateMs": -1.0,
-      "category": "heli"
-    },
-    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4557,
-      "lon": 13.5725,
+      "lat": 52.4462,
+      "lon": 13.5485,
       "altKm": 0.8,
-      "speedKmh": 129,
-      "heading": 122,
+      "speedKmh": 157,
+      "heading": 304,
       "vertRateMs": 0,
       "category": "heli"
-    },
-    {
-      "callsign": "VKG150",
-      "country": "Denmark",
-      "lat": 52.86,
-      "lon": 13.7018,
-      "altKm": 12.5,
-      "speedKmh": 802,
-      "heading": 346,
-      "vertRateMs": 0,
-      "airline": "SunClass Airlines",
-      "airlineCountry": "Denmark",
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-27T02:35:21.108394Z"
+  "updated_at": "2026-09-27T02:40:26.084981Z"
 }
