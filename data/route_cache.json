@@ -6428,17 +6428,6 @@
     },
     "checked_at": "2026-09-27T18:00:48.348253Z"
   },
-  "PGT1610": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Samsun",
-      "toIata": "SZF",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-25T20:10:27.657305Z"
-  },
   "RYR7YZ": {
     "route": {
       "fromCity": "Valencia",
@@ -12879,5 +12868,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T20:00:45.186242Z"
+  },
+  "DLH9901": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T20:15:27.047664Z"
   }
 }
