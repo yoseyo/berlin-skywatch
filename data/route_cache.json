@@ -2323,7 +2323,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T06:05:22.829448Z"
+    "checked_at": "2026-09-27T06:05:22.578027Z"
   },
   "DLH2X": {
     "route": {
@@ -2404,7 +2404,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T06:05:22.829448Z"
+    "checked_at": "2026-09-27T06:05:22.578027Z"
   },
   "RYR120T": {
     "route": {
@@ -6049,10 +6049,6 @@
     "route": null,
     "checked_at": "2026-09-25T07:20:27.430082Z"
   },
-  "DIDAH": {
-    "route": null,
-    "checked_at": "2026-09-25T06:05:21.757525Z"
-  },
   "EJU5027": {
     "route": {
       "fromCity": "Berlin",
@@ -6310,7 +6306,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-26T06:00:47.849837Z"
+    "checked_at": "2026-09-27T06:05:22.578027Z"
   },
   "N411XT": {
     "route": null,
@@ -6966,32 +6962,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-09-26T06:10:28.104230Z"
-  },
-  "JTD213": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-25T06:00:47.498919Z"
-  },
-  "PAV525": {
-    "route": null,
-    "checked_at": "2026-09-25T06:00:47.498919Z"
-  },
-  "BLX173": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-25T06:05:21.757525Z"
   },
   "NOZ6FM": {
     "route": {
@@ -13420,5 +13390,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T06:00:47.402599Z"
+  },
+  "RYR3696": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-27T06:05:22.578027Z"
   }
 }
