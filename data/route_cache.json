@@ -3104,17 +3104,6 @@
     },
     "checked_at": "2026-09-27T08:25:21.973647Z"
   },
-  "EWG44ME": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-25T08:50:27.765783Z"
-  },
   "PBB16": {
     "route": null,
     "checked_at": "2026-09-26T16:50:29.585594Z"
@@ -3309,17 +3298,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-26T09:40:28.436940Z"
-  },
-  "CFE76JZ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-25T08:55:22.015242Z"
   },
   "TAP53LB": {
     "route": {
@@ -4728,17 +4706,6 @@
     },
     "checked_at": "2026-09-25T20:00:48.944686Z"
   },
-  "NOZ1WC": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-25T08:55:22.015242Z"
-  },
   "TAP4BE": {
     "route": {
       "fromCity": "Lisbon",
@@ -4944,17 +4911,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-27T08:00:45.058017Z"
-  },
-  "SXS6WA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Dalaman",
-      "toIata": "DLM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-25T08:50:27.765783Z"
   },
   "EZY78AL": {
     "route": {
@@ -5788,7 +5744,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-26T08:55:56.787508Z"
+    "checked_at": "2026-09-27T08:55:23.133894Z"
   },
   "IBIS2": {
     "route": null,
@@ -6897,17 +6853,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T08:20:27.934824Z"
-  },
-  "SXS9NH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bodrum",
-      "toIata": "BJV",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-25T08:55:22.015242Z"
   },
   "DMSGV": {
     "route": null,
@@ -13103,5 +13048,38 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-09-27T08:50:27.109238Z"
+  },
+  "EJU32EY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-27T08:55:23.133894Z"
+  },
+  "CFG4RY": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-27T08:55:23.133894Z"
+  },
+  "WZZ22UT": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-27T08:55:23.133894Z"
   }
 }
