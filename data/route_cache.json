@@ -1015,7 +1015,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T18:20:29.561335Z"
+    "checked_at": "2026-09-27T18:20:28.512381Z"
   },
   "KLM1782": {
     "route": {
@@ -1026,7 +1026,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-26T17:25:22.970139Z"
+    "checked_at": "2026-09-27T18:20:28.512381Z"
   },
   "IBE07MV": {
     "route": {
@@ -12915,5 +12915,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T18:15:28.635442Z"
+  },
+  "PGT816T": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-27T18:20:28.512381Z"
+  },
+  "SWR15V": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-27T18:20:28.512381Z"
   }
 }
