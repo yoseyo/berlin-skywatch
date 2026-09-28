@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-28T03:20:31.458110Z"
+  "flights": [
+    {
+      "callsign": "SRN1988",
+      "country": "Poland",
+      "lat": 52.1076,
+      "lon": 13.2197,
+      "altKm": 6.7,
+      "speedKmh": 443,
+      "heading": 71,
+      "vertRateMs": 0,
+      "airline": "Sirair",
+      "airlineCountry": "Russia",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "category": "plane"
+    },
+    {
+      "callsign": "SRR6228",
+      "country": "Denmark",
+      "lat": 52.2776,
+      "lon": 13.1084,
+      "altKm": 1.6,
+      "speedKmh": 405,
+      "heading": 70,
+      "vertRateMs": -10.4,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-28T03:25:24.166540Z"
 }
