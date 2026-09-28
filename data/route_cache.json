@@ -34,7 +34,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-27T13:50:28.986794Z"
+    "checked_at": "2026-09-28T14:01:31.836295Z"
   },
   "RYR54CX": {
     "route": {
@@ -45,7 +45,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T12:25:22.815055Z"
+    "checked_at": "2026-09-28T14:01:31.836295Z"
   },
   "WZZ9EN": {
     "route": {
@@ -6146,17 +6146,6 @@
   "DHABH": {
     "route": null,
     "checked_at": "2026-09-27T11:45:26.557737Z"
-  },
-  "CFG6NZ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-26T14:00:47.523976Z"
   },
   "SFG55C": {
     "route": null,
@@ -13085,5 +13074,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T13:55:23.403590Z"
+  },
+  "EJU46NG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-28T14:01:31.836295Z"
+  },
+  "BTI696": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-28T14:01:31.836295Z"
+  },
+  "CFG7MA": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T14:01:31.836295Z"
+  },
+  "SDR41KM": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T14:01:31.836295Z"
   }
 }
