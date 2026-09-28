@@ -3384,7 +3384,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T12:20:27.569394Z"
+    "checked_at": "2026-09-28T12:05:25.213742Z"
   },
   "WMT1RH": {
     "route": {
@@ -3406,7 +3406,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T12:15:27.533188Z"
+    "checked_at": "2026-09-28T12:05:25.213742Z"
   },
   "THY6XB": {
     "route": {
@@ -4285,7 +4285,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T11:55:22.170549Z"
+    "checked_at": "2026-09-28T12:05:25.213742Z"
   },
   "WZZ93ZW": {
     "route": {
@@ -6153,50 +6153,6 @@
   "DMTUR": {
     "route": null,
     "checked_at": "2026-09-27T14:15:26.377651Z"
-  },
-  "AIC190": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "New Delhi",
-      "toIata": "DEL",
-      "airlineName": "Air India",
-      "airlineCountry": "India"
-    },
-    "checked_at": "2026-09-26T12:05:24.653964Z"
-  },
-  "MSR759": {
-    "route": {
-      "fromCity": "Cairo",
-      "fromIata": "CAI",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Egyptair",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-09-26T12:05:24.653964Z"
-  },
-  "EWG1GZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tivat",
-      "toIata": "TIV",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-26T12:05:24.653964Z"
-  },
-  "GPX6281": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "GP Aviation",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-09-26T12:05:24.653964Z"
   },
   "DMPWZ": {
     "route": null,
@@ -13027,5 +12983,16 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-09-28T11:55:22.622850Z"
+  },
+  "EWG8SP": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T12:05:25.213742Z"
   }
 }
