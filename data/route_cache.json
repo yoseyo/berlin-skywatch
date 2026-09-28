@@ -453,7 +453,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-27T15:51:02.120074Z"
+    "checked_at": "2026-09-28T15:50:33.036382Z"
   },
   "LHX194": {
     "route": {
@@ -552,7 +552,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T15:45:27.750365Z"
+    "checked_at": "2026-09-28T15:50:33.036382Z"
   },
   "DMS2RV": {
     "route": {
@@ -563,7 +563,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-09-27T15:51:02.120074Z"
+    "checked_at": "2026-09-28T15:50:33.036382Z"
   },
   "KLM1780": {
     "route": {
@@ -6124,28 +6124,6 @@
   "VCJ50M": {
     "route": null,
     "checked_at": "2026-09-28T14:25:23.711404Z"
-  },
-  "NSZ3298": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T15:50:30.437414Z"
-  },
-  "SAS7978": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "Malm\u00f6",
-      "toIata": "MMX",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T15:50:30.437414Z"
   },
   "NSZ5282": {
     "route": {
@@ -13086,5 +13064,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T15:45:29.888250Z"
+  },
+  "EJU92MK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-28T15:50:33.036382Z"
+  },
+  "NJE761K": {
+    "route": null,
+    "checked_at": "2026-09-28T15:50:33.036382Z"
   }
 }
