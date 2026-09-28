@@ -1360,7 +1360,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-27T20:21:02.307664Z"
+    "checked_at": "2026-09-28T20:35:23.433654Z"
   },
   "TVF73KL": {
     "route": {
@@ -6209,28 +6209,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T20:10:27.453370Z"
-  },
-  "TGZ782": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tbilisi",
-      "toIata": "TBS",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-09-26T20:35:22.552970Z"
-  },
-  "EWG2MD": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-26T20:35:22.552970Z"
   },
   "EJU5378": {
     "route": {
@@ -13290,5 +13268,20 @@
       "airlineCountry": "Russia"
     },
     "checked_at": "2026-09-28T20:30:43.929548Z"
+  },
+  "AEG6911": {
+    "route": null,
+    "checked_at": "2026-09-28T20:35:23.433654Z"
+  },
+  "EWG3GH": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T20:35:23.433654Z"
   }
 }
