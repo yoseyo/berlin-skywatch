@@ -155,7 +155,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T14:00:47.795912Z"
+    "checked_at": "2026-09-28T13:55:23.403590Z"
   },
   "RYR1SM": {
     "route": {
@@ -259,17 +259,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-27T14:15:26.377651Z"
-  },
-  "RYR91ZT": {
-    "route": {
-      "fromCity": "Bologna",
-      "fromIata": "BLQ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T13:55:20.242458Z"
   },
   "AUA995F": {
     "route": {
@@ -3428,7 +3417,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-27T11:55:22.170549Z"
+    "checked_at": "2026-09-28T13:55:23.403590Z"
   },
   "QTR37K": {
     "route": null,
@@ -5794,17 +5783,6 @@
     },
     "checked_at": "2026-09-28T10:11:07.061438Z"
   },
-  "RYR12KD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T13:55:20.242458Z"
-  },
   "EJU32PZ": {
     "route": {
       "fromCity": "Geneva",
@@ -6164,25 +6142,6 @@
   "DMELV": {
     "route": null,
     "checked_at": "2026-09-27T06:50:26.961857Z"
-  },
-  "EWG27D": {
-    "route": null,
-    "checked_at": "2026-09-26T13:55:20.242458Z"
-  },
-  "BNI5V": {
-    "route": null,
-    "checked_at": "2026-09-26T13:55:20.242458Z"
-  },
-  "SDR16YT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T13:55:20.242458Z"
   },
   "DHABH": {
     "route": null,
@@ -9502,7 +9461,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T15:20:28.238681Z"
+    "checked_at": "2026-09-28T13:55:23.403590Z"
   },
   "CAT333": {
     "route": {
@@ -13104,5 +13063,27 @@
   "FJO67M": {
     "route": null,
     "checked_at": "2026-09-28T13:50:30.648087Z"
+  },
+  "BTI72X": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-28T13:55:23.403590Z"
+  },
+  "RYR69CU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T13:55:23.403590Z"
   }
 }
