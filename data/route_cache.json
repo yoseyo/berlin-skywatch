@@ -2808,7 +2808,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T09:20:26.735508Z"
+    "checked_at": "2026-09-28T09:30:38.990679Z"
   },
   "LOT266": {
     "route": {
@@ -2819,7 +2819,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-27T09:35:21.158528Z"
+    "checked_at": "2026-09-28T09:30:38.990679Z"
   },
   "TAP53LB": {
     "route": {
@@ -2874,7 +2874,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-27T09:50:29.431863Z"
+    "checked_at": "2026-09-28T09:30:38.990679Z"
   },
   "KLM75C": {
     "route": {
@@ -4597,7 +4597,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T08:55:23.133894Z"
+    "checked_at": "2026-09-28T09:30:38.990679Z"
   },
   "RYR3026": {
     "route": {
@@ -6110,7 +6110,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T09:05:22.529779Z"
+    "checked_at": "2026-09-28T09:30:38.990679Z"
   },
   "DMRBW": {
     "route": null,
@@ -6174,7 +6174,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-26T09:45:25.841455Z"
+    "checked_at": "2026-09-28T09:30:38.990679Z"
   },
   "RYR2502": {
     "route": {
@@ -12911,5 +12911,42 @@
   "GSM500": {
     "route": null,
     "checked_at": "2026-09-28T09:25:22.297792Z"
+  },
+  "BTI695": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-28T09:30:38.990679Z"
+  },
+  "DEFMG": {
+    "route": null,
+    "checked_at": "2026-09-28T09:30:38.990679Z"
+  },
+  "SAS62T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T09:30:38.990679Z"
+  },
+  "RYR55XJ": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Banja Luka",
+      "toIata": "BNX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T09:30:38.990679Z"
   }
 }
