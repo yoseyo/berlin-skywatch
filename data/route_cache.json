@@ -1782,7 +1782,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-27T05:10:28.391218Z"
+    "checked_at": "2026-09-28T05:05:22.470429Z"
   },
   "AUA240": {
     "route": {
@@ -4689,7 +4689,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T05:00:46.063127Z"
+    "checked_at": "2026-09-28T05:05:22.470429Z"
   },
   "NSZ3LZ": {
     "route": {
@@ -12815,5 +12815,38 @@
   "DMSSF": {
     "route": null,
     "checked_at": "2026-09-28T05:00:48.064595Z"
+  },
+  "WMT482": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-09-28T05:05:22.470429Z"
+  },
+  "EWG4Z": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Zemunik (Zadar)",
+      "toIata": "ZAD",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T05:05:22.470429Z"
+  },
+  "DLH4EK": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T05:05:22.470429Z"
   }
 }
