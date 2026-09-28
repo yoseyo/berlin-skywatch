@@ -3373,7 +3373,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T11:30:37.062833Z"
+    "checked_at": "2026-09-28T11:45:28.770016Z"
   },
   "PGT93T": {
     "route": {
@@ -5157,17 +5157,6 @@
     },
     "checked_at": "2026-09-28T06:30:39.237294Z"
   },
-  "EWG3F": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-26T11:45:00.297055Z"
-  },
   "EWG58L": {
     "route": {
       "fromCity": "Berlin",
@@ -5396,17 +5385,6 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-09-27T11:50:30.327626Z"
-  },
-  "FIN96W": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-26T11:45:00.297055Z"
   },
   "DLH5MA": {
     "route": {
@@ -6193,10 +6171,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T09:30:40.031370Z"
-  },
-  "BFX1026": {
-    "route": null,
-    "checked_at": "2026-09-26T11:45:00.297055Z"
   },
   "DMTUR": {
     "route": null,
@@ -13079,5 +13053,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-28T11:40:29.737376Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-28T11:45:28.770016Z"
   }
 }
