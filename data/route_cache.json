@@ -416,7 +416,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-27T15:40:28.105295Z"
+    "checked_at": "2026-09-28T16:00:57.993343Z"
   },
   "AUA978": {
     "route": {
@@ -6125,17 +6125,6 @@
     "route": null,
     "checked_at": "2026-09-28T14:25:23.711404Z"
   },
-  "NSZ5282": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T15:55:24.702395Z"
-  },
   "CES787": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -6147,17 +6136,6 @@
     },
     "checked_at": "2026-09-28T15:00:56.766934Z"
   },
-  "AUA971": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-26T15:55:24.702395Z"
-  },
   "DMTCK": {
     "route": null,
     "checked_at": "2026-09-27T12:50:29.435508Z"
@@ -6165,17 +6143,6 @@
   "RYR26YA": {
     "route": null,
     "checked_at": "2026-09-27T13:20:27.951883Z"
-  },
-  "SEH3210": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-09-26T16:00:47.299131Z"
   },
   "NJE101V": {
     "route": null,
@@ -9715,7 +9682,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-27T17:45:27.861113Z"
+    "checked_at": "2026-09-28T16:00:57.993343Z"
   },
   "ISR252": {
     "route": {
@@ -13123,5 +13090,38 @@
       "airlineCountry": "Algeria"
     },
     "checked_at": "2026-09-28T15:55:24.292516Z"
+  },
+  "RYR1856": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "HHN",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T16:00:57.993343Z"
+  },
+  "LBT232": {
+    "route": {
+      "fromCity": "Tunis",
+      "fromIata": "TUN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-09-28T16:00:57.993343Z"
+  },
+  "RYR119G": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T16:00:57.993343Z"
   }
 }
