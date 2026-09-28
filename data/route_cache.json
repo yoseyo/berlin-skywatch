@@ -1661,7 +1661,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T13:40:27.269149Z"
+    "checked_at": "2026-09-28T05:15:29.568273Z"
   },
   "AFR84XP": {
     "route": {
@@ -1738,7 +1738,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T04:55:20.787902Z"
+    "checked_at": "2026-09-28T05:15:29.568273Z"
   },
   "DAL92": {
     "route": {
@@ -12870,5 +12870,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-28T05:10:30.058143Z"
+  },
+  "EWG5QR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T05:15:29.568273Z"
+  },
+  "NJE764V": {
+    "route": null,
+    "checked_at": "2026-09-28T05:15:29.568273Z"
+  },
+  "DLH9YA": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T05:15:29.568273Z"
+  },
+  "RYR4311": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Rovaniemi",
+      "toIata": "RVN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T05:15:29.568273Z"
   }
 }
