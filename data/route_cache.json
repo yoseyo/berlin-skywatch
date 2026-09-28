@@ -1834,7 +1834,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T04:55:20.787902Z"
+    "checked_at": "2026-09-28T11:30:41.898664Z"
   },
   "QTR29X": {
     "route": {
@@ -3513,7 +3513,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-27T11:20:26.986440Z"
+    "checked_at": "2026-09-28T11:30:41.898664Z"
   },
   "MSR731": {
     "route": {
@@ -5787,17 +5787,6 @@
     },
     "checked_at": "2026-09-27T15:25:20.784207Z"
   },
-  "RYR44PB": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T11:25:22.626099Z"
-  },
   "SAS2690": {
     "route": {
       "fromCity": "Milan",
@@ -6193,39 +6182,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T09:50:27.770132Z"
-  },
-  "QTR20V": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-09-26T11:25:22.626099Z"
-  },
-  "EJU83HL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Agadir (Temsia)",
-      "toIata": "AGA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-26T11:30:40.521916Z"
-  },
-  "EJU32FG": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-26T11:30:40.521916Z"
   },
   "NSZ2MP": {
     "route": {
@@ -13068,5 +13024,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-28T11:25:21.497553Z"
+  },
+  "NOZ1104": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-28T11:30:41.898664Z"
+  },
+  "EJU17HZ": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-28T11:30:41.898664Z"
   }
 }
