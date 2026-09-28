@@ -3109,7 +3109,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-27T11:15:26.650419Z"
+    "checked_at": "2026-09-28T11:10:28.830021Z"
   },
   "TKJ2JY": {
     "route": {
@@ -5380,7 +5380,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T11:00:45.405443Z"
+    "checked_at": "2026-09-28T11:10:28.830021Z"
   },
   "DMYHG": {
     "route": null,
@@ -6178,17 +6178,6 @@
   "HBYHQ": {
     "route": null,
     "checked_at": "2026-09-28T08:10:31.629965Z"
-  },
-  "ACA943": {
-    "route": {
-      "fromCity": "Hamilton",
-      "fromIata": "BDA",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-09-26T11:10:28.115843Z"
   },
   "DEPAD": {
     "route": null,
@@ -13042,5 +13031,27 @@
   "ELI30A": {
     "route": null,
     "checked_at": "2026-09-28T11:05:24.786801Z"
+  },
+  "SAS63M": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T11:10:28.830021Z"
+  },
+  "RYR31KN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T11:10:28.830021Z"
   }
 }
