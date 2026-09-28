@@ -2319,7 +2319,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T07:15:27.589564Z"
+    "checked_at": "2026-09-28T07:35:21.990721Z"
   },
   "NSZ89C": {
     "route": {
@@ -2341,7 +2341,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T07:40:27.264368Z"
+    "checked_at": "2026-09-28T07:35:21.990721Z"
   },
   "VLG9PX": {
     "route": {
@@ -2962,7 +2962,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T19:15:26.922607Z"
+    "checked_at": "2026-09-28T07:35:21.990721Z"
   },
   "WUK1356": {
     "route": null,
@@ -6192,17 +6192,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T07:30:38.148887Z"
-  },
-  "EJU85UF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-26T07:35:21.367561Z"
   },
   "RYR63KM": {
     "route": {
@@ -13068,5 +13057,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T07:33:58.352563Z"
+  },
+  "SAS2831": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T07:35:21.990721Z"
   }
 }
