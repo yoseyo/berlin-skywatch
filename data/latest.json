@@ -1,22 +1,56 @@
 {
   "flights": [
     {
-      "callsign": "RYR8EM",
-      "country": "Malta",
-      "lat": 52.3211,
-      "lon": 13.9697,
-      "altKm": 11.7,
-      "speedKmh": 815,
-      "heading": 170,
+      "callsign": "RYR392T",
+      "country": "Poland",
+      "lat": 52.882,
+      "lon": 13.9835,
+      "altKm": 12.3,
+      "speedKmh": 847,
+      "heading": 118,
       "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "London",
-      "toIata": "STN",
+      "fromCity": "Newcastle",
+      "fromIata": "NCL",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "category": "plane"
+    },
+    {
+      "callsign": "VKG201",
+      "country": "Denmark",
+      "lat": 52.3731,
+      "lon": 13.877,
+      "altKm": 11.4,
+      "speedKmh": 823,
+      "heading": 344,
+      "vertRateMs": -0.3,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR8WH",
+      "country": "Ireland",
+      "lat": 52.4503,
+      "lon": 13.959,
+      "altKm": 12.0,
+      "speedKmh": 835,
+      "heading": 343,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-28T21:40:31.548340Z"
+  "updated_at": "2026-09-28T21:45:28.081716Z"
 }
