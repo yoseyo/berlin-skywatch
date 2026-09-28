@@ -111,7 +111,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T13:40:27.269149Z"
+    "checked_at": "2026-09-28T13:35:27.327466Z"
   },
   "SXS1VZ": {
     "route": {
@@ -5594,7 +5594,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-09-27T07:46:03.345622Z"
+    "checked_at": "2026-09-28T13:35:27.327466Z"
   },
   "EJU38DP": {
     "route": {
@@ -13089,5 +13089,27 @@
   "DIGRK": {
     "route": null,
     "checked_at": "2026-09-28T13:30:42.126842Z"
+  },
+  "DLH3YM": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T13:35:27.327466Z"
+  },
+  "SXS8VB": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-28T13:35:27.327466Z"
   }
 }
