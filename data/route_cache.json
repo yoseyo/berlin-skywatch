@@ -6166,10 +6166,6 @@
     },
     "checked_at": "2026-09-27T18:15:28.635442Z"
   },
-  "SDR17HL": {
-    "route": null,
-    "checked_at": "2026-09-26T18:20:29.561335Z"
-  },
   "NSZ3878": {
     "route": {
       "fromCity": "Billund",
@@ -13217,5 +13213,27 @@
   "GAF606": {
     "route": null,
     "checked_at": "2026-09-28T18:10:31.811307Z"
+  },
+  "EZS1589": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-09-28T18:20:30.387731Z"
+  },
+  "HAT146P": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "BBU",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Air Taxi",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-28T18:20:30.387731Z"
   }
 }
