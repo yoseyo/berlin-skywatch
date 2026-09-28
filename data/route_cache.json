@@ -2418,7 +2418,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-27T08:00:45.058017Z"
+    "checked_at": "2026-09-28T07:55:22.529343Z"
   },
   "SWR44E": {
     "route": {
@@ -2429,7 +2429,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T07:40:27.264368Z"
+    "checked_at": "2026-09-28T07:55:22.529343Z"
   },
   "QTR85X": {
     "route": {
@@ -13046,5 +13046,42 @@
   "MMF52": {
     "route": null,
     "checked_at": "2026-09-28T07:50:31.246660Z"
+  },
+  "UBD445": {
+    "route": {
+      "fromCity": "Arbil",
+      "fromIata": "EBL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "United Airways",
+      "airlineCountry": "Bangladesh"
+    },
+    "checked_at": "2026-09-28T07:55:22.529343Z"
+  },
+  "DCS601": {
+    "route": null,
+    "checked_at": "2026-09-28T07:55:22.529343Z"
+  },
+  "WZZ36YG": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-28T07:55:22.529343Z"
+  },
+  "ASL84D": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-28T07:55:22.529343Z"
   }
 }
