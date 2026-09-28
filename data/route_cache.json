@@ -6165,21 +6165,6 @@
     },
     "checked_at": "2026-09-27T13:50:28.986794Z"
   },
-  "RHH199": {
-    "route": null,
-    "checked_at": "2026-09-26T12:25:22.925225Z"
-  },
-  "RYR3309": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T12:25:22.925225Z"
-  },
   "WZZ242": {
     "route": {
       "fromCity": "Budapest",
@@ -12982,5 +12967,16 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-28T12:20:31.662585Z"
+  },
+  "LHX849": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T12:25:23.846348Z"
   }
 }
