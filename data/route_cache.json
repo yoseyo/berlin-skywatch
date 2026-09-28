@@ -2352,7 +2352,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-27T07:25:21.130671Z"
+    "checked_at": "2026-09-28T07:30:38.795735Z"
   },
   "PGT28RL": {
     "route": {
@@ -5022,17 +5022,6 @@
     },
     "checked_at": "2026-09-27T15:30:40.957372Z"
   },
-  "DLH2621": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-26T07:30:37.077404Z"
-  },
   "DLH2N": {
     "route": {
       "fromCity": "Munich",
@@ -5476,7 +5465,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T10:20:30.236823Z"
+    "checked_at": "2026-09-28T07:30:38.795735Z"
   },
   "DEADX": {
     "route": null,
@@ -6192,17 +6181,6 @@
   "DMVLN": {
     "route": null,
     "checked_at": "2026-09-27T09:50:29.431863Z"
-  },
-  "CFG1RD": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-26T07:30:37.077404Z"
   },
   "LHX9JC": {
     "route": {
@@ -13068,5 +13046,16 @@
   "GAF710": {
     "route": null,
     "checked_at": "2026-09-28T07:25:24.192346Z"
+  },
+  "DLH8KF": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "M\u00fcnster",
+      "toIata": "FMO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T07:30:38.795735Z"
   }
 }
