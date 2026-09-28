@@ -3443,7 +3443,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T12:15:27.533188Z"
+    "checked_at": "2026-09-28T12:10:31.656725Z"
   },
   "EJU57RF": {
     "route": {
@@ -6153,21 +6153,6 @@
   "DMTUR": {
     "route": null,
     "checked_at": "2026-09-27T14:15:26.377651Z"
-  },
-  "DMPWZ": {
-    "route": null,
-    "checked_at": "2026-09-26T12:10:30.041799Z"
-  },
-  "SDR46KE": {
-    "route": {
-      "fromCity": "Kos Island",
-      "fromIata": "KGS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T12:10:30.041799Z"
   },
   "DEMHF": {
     "route": null,
@@ -9171,7 +9156,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-27T12:25:22.815055Z"
+    "checked_at": "2026-09-28T12:10:31.656725Z"
   },
   "DELHB": {
     "route": null,
@@ -10510,7 +10495,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T18:00:48.348253Z"
+    "checked_at": "2026-09-28T12:10:31.656725Z"
   },
   "DLH8PN": {
     "route": {
@@ -12994,5 +12979,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-28T12:05:25.213742Z"
+  },
+  "LHX1HL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T12:10:31.656725Z"
   }
 }
