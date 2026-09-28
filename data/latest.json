@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "BCS9CG",
-      "country": "Ireland",
-      "lat": 52.9135,
-      "lon": 13.2114,
-      "altKm": 10.4,
-      "speedKmh": 840,
-      "heading": 22,
+      "callsign": "RAM220M",
+      "country": "Morocco",
+      "lat": 52.8902,
+      "lon": 13.1637,
+      "altKm": 11.7,
+      "speedKmh": 857,
+      "heading": 62,
       "vertRateMs": 0,
+      "airline": "Royal Air Maroc",
+      "airlineCountry": "Morocco",
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "DME",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS5959",
+      "country": "Spain",
+      "lat": 52.1816,
+      "lon": 14.0222,
+      "altKm": 9.3,
+      "speedKmh": 853,
+      "heading": 65,
+      "vertRateMs": 9.1,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
       "fromIata": "LEJ",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-28T01:20:28.312251Z"
+  "updated_at": "2026-09-28T01:25:25.692274Z"
 }
