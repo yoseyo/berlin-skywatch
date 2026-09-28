@@ -2051,7 +2051,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-27T09:15:26.674699Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "PGT820D": {
     "route": {
@@ -2635,7 +2635,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T09:00:46.341191Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "AEE8RB": {
     "route": {
@@ -2650,7 +2650,7 @@
   },
   "PBB16": {
     "route": null,
-    "checked_at": "2026-09-26T16:50:29.585594Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "DLH179": {
     "route": {
@@ -2661,7 +2661,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T09:00:46.341191Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "KLM90Z": {
     "route": {
@@ -2742,7 +2742,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T09:00:46.341191Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "BAW87AM": {
     "route": {
@@ -2786,7 +2786,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T09:10:29.214698Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "LOT4LV": {
     "route": {
@@ -2885,7 +2885,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-27T09:00:46.341191Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "LOT7VJ": {
     "route": {
@@ -5294,17 +5294,6 @@
     "route": null,
     "checked_at": "2026-09-26T13:15:27.253631Z"
   },
-  "PGT1042": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-26T09:05:20.318144Z"
-  },
   "EJU93RY": {
     "route": {
       "fromCity": "London",
@@ -6096,10 +6085,6 @@
   "DMXIL": {
     "route": null,
     "checked_at": "2026-09-27T11:35:22.897912Z"
-  },
-  "DMVKS": {
-    "route": null,
-    "checked_at": "2026-09-26T09:05:20.318144Z"
   },
   "SPWIW": {
     "route": null,
@@ -9128,7 +9113,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T09:45:24.972041Z"
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   },
   "RYR9504": {
     "route": {
@@ -12907,5 +12892,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T09:00:49.509528Z"
+  },
+  "CFE76JZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-28T09:05:23.159568Z"
   }
 }
