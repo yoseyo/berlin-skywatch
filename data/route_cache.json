@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T13:05:21.413870Z"
+    "checked_at": "2026-09-28T13:20:31.476984Z"
   },
   "CHX100": {
     "route": null,
@@ -2319,7 +2319,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T06:50:26.961857Z"
+    "checked_at": "2026-09-28T13:20:31.476984Z"
   },
   "EIN3JE": {
     "route": {
@@ -3969,7 +3969,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T21:00:47.294184Z"
+    "checked_at": "2026-09-28T13:20:31.476984Z"
   },
   "BAW997T": {
     "route": {
@@ -5068,17 +5068,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-28T03:40:28.370932Z"
-  },
-  "SAS1691": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T13:20:26.934845Z"
   },
   "WZZ463H": {
     "route": {
@@ -13062,5 +13051,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T13:15:30.083637Z"
+  },
+  "NOZ6TY": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-28T13:20:31.476984Z"
+  },
+  "BAW91J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-28T13:20:31.476984Z"
+  },
+  "IBE0784": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-09-28T13:20:31.476984Z"
   }
 }
