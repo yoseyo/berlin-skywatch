@@ -640,7 +640,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T16:25:23.675397Z"
+    "checked_at": "2026-09-28T17:15:30.479809Z"
   },
   "AFR99GT": {
     "route": {
@@ -13135,5 +13135,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-28T17:10:32.511603Z"
+  },
+  "DERSL": {
+    "route": null,
+    "checked_at": "2026-09-28T17:15:30.479809Z"
+  },
+  "RUK4FM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-28T17:15:30.479809Z"
   }
 }
