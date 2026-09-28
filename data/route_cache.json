@@ -2565,7 +2565,7 @@
   },
   "WUK7BU": {
     "route": null,
-    "checked_at": "2026-09-27T08:15:26.285645Z"
+    "checked_at": "2026-09-28T08:15:29.269164Z"
   },
   "DLH3WU": {
     "route": {
@@ -3241,7 +3241,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T20:16:03.282605Z"
+    "checked_at": "2026-09-28T08:15:29.269164Z"
   },
   "KLM29G": {
     "route": {
@@ -4026,17 +4026,6 @@
     },
     "checked_at": "2026-09-27T20:21:02.307664Z"
   },
-  "RYR415W": {
-    "route": {
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T08:15:27.635304Z"
-  },
   "CHH489": {
     "route": {
       "fromCity": "Beijing",
@@ -4598,17 +4587,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-28T05:05:22.470429Z"
-  },
-  "AUA99J": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-26T08:15:27.635304Z"
   },
   "EJU83GC": {
     "route": {
@@ -5692,10 +5670,6 @@
     },
     "checked_at": "2026-09-28T07:45:27.905360Z"
   },
-  "DEMSI": {
-    "route": null,
-    "checked_at": "2026-09-26T08:15:27.635304Z"
-  },
   "DMAAC": {
     "route": null,
     "checked_at": "2026-09-26T12:40:27.550907Z"
@@ -6166,21 +6140,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-28T08:05:24.292001Z"
-  },
-  "DLH5PN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-26T08:15:27.635304Z"
-  },
-  "FRO048": {
-    "route": null,
-    "checked_at": "2026-09-26T08:15:27.635304Z"
   },
   "BPO701": {
     "route": null,
@@ -12983,5 +12942,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-28T08:10:31.629965Z"
+  },
+  "OOTBB": {
+    "route": null,
+    "checked_at": "2026-09-28T08:15:29.269164Z"
+  },
+  "HLF8818": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T08:15:29.269164Z"
+  },
+  "EWG8ZJ": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T08:15:29.269164Z"
+  },
+  "ASL19P": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-28T08:15:29.269164Z"
   }
 }
