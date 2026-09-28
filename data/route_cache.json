@@ -1795,17 +1795,6 @@
     },
     "checked_at": "2026-09-28T05:20:27.952817Z"
   },
-  "BTI74A": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-26T05:20:29.970707Z"
-  },
   "SXS75G": {
     "route": {
       "fromCity": "Berlin",
@@ -1826,7 +1815,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-27T04:50:27.398949Z"
+    "checked_at": "2026-09-28T05:25:24.042772Z"
   },
   "CHX49": {
     "route": null,
@@ -1992,7 +1981,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T09:35:21.158528Z"
+    "checked_at": "2026-09-28T05:25:24.042772Z"
   },
   "KLM1771": {
     "route": {
@@ -6313,28 +6302,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-27T10:55:20.579650Z"
-  },
-  "SAS72U": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T05:25:21.047068Z"
-  },
-  "RYR456B": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T05:25:21.047068Z"
   },
   "NOZ8828": {
     "route": {
@@ -12933,5 +12900,16 @@
   "CAT771": {
     "route": null,
     "checked_at": "2026-09-28T05:20:27.952817Z"
+  },
+  "WZZ629": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-28T05:25:24.042772Z"
   }
 }
