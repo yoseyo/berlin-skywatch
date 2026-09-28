@@ -585,7 +585,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-27T16:20:30.475972Z"
+    "checked_at": "2026-09-28T16:40:31.817433Z"
   },
   "DLH4MA": {
     "route": {
@@ -817,7 +817,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T16:55:20.970697Z"
+    "checked_at": "2026-09-28T16:40:31.817433Z"
   },
   "PGT49YQ": {
     "route": {
@@ -4384,7 +4384,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T16:45:27.085810Z"
+    "checked_at": "2026-09-28T16:40:31.817433Z"
   },
   "EWG55E": {
     "route": {
@@ -6150,43 +6150,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T16:20:30.475972Z"
-  },
-  "NOZ1910": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-26T16:40:29.355800Z"
-  },
-  "JTD537": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-26T16:40:29.355800Z"
-  },
-  "EJU5423": {
-    "route": null,
-    "checked_at": "2026-09-26T16:40:29.355800Z"
-  },
-  "SAS1759": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T16:40:29.355800Z"
   },
   "VJH334": {
     "route": null,
@@ -13223,5 +13186,16 @@
   "AAO54": {
     "route": null,
     "checked_at": "2026-09-28T16:35:24.446657Z"
+  },
+  "EJU83XU": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-28T16:40:31.817433Z"
   }
 }
