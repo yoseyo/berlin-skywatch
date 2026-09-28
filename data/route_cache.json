@@ -2539,7 +2539,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-27T07:35:21.030986Z"
+    "checked_at": "2026-09-28T08:00:49.797476Z"
   },
   "LOT5NA": {
     "route": {
@@ -2561,7 +2561,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-27T08:10:28.617632Z"
+    "checked_at": "2026-09-28T08:00:49.797476Z"
   },
   "WUK7BU": {
     "route": null,
@@ -5726,17 +5726,6 @@
     },
     "checked_at": "2026-09-26T11:55:22.699630Z"
   },
-  "RYR9BJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T07:55:23.946687Z"
-  },
   "TKJ9TC": {
     "route": {
       "fromCity": "Ankara",
@@ -6182,47 +6171,6 @@
     },
     "checked_at": "2026-09-27T07:30:38.148887Z"
   },
-  "SUS9011": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Lanzarote Island",
-      "toIata": "ACE",
-      "airlineName": "Sun Air of Scandinavia",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-26T07:55:23.946687Z"
-  },
-  "GAF608": {
-    "route": null,
-    "checked_at": "2026-09-26T07:55:23.946687Z"
-  },
-  "EJU3948": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-26T07:55:23.946687Z"
-  },
-  "NJE095K": {
-    "route": null,
-    "checked_at": "2026-09-26T07:55:23.946687Z"
-  },
-  "CTN284E": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-09-26T07:55:23.946687Z"
-  },
   "LOT4NC": {
     "route": {
       "fromCity": "Warsaw",
@@ -6233,10 +6181,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-27T08:00:45.058017Z"
-  },
-  "DMSOS": {
-    "route": null,
-    "checked_at": "2026-09-26T07:55:23.946687Z"
   },
   "GAF601": {
     "route": null,
@@ -13083,5 +13027,9 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-28T07:55:22.529343Z"
+  },
+  "DGALF": {
+    "route": null,
+    "checked_at": "2026-09-28T08:00:49.797476Z"
   }
 }
