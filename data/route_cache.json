@@ -497,7 +497,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T14:25:22.946636Z"
+    "checked_at": "2026-09-28T16:20:33.493134Z"
   },
   "BTI9AG": {
     "route": {
@@ -3804,7 +3804,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T15:51:02.120074Z"
+    "checked_at": "2026-09-28T16:20:33.493134Z"
   },
   "RYR785N": {
     "route": {
@@ -6150,17 +6150,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T16:20:30.475972Z"
-  },
-  "SAS7775": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T16:20:27.390644Z"
   },
   "CAT749": {
     "route": null,
@@ -13156,5 +13145,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T16:15:31.213979Z"
+  },
+  "MFX7624": {
+    "route": null,
+    "checked_at": "2026-09-28T16:20:33.493134Z"
+  },
+  "SXS6PC": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-28T16:20:33.493134Z"
   }
 }
