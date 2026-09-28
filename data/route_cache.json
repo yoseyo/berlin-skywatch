@@ -339,7 +339,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-27T13:40:27.269149Z"
+    "checked_at": "2026-09-28T15:40:31.058639Z"
   },
   "FIN5DL": {
     "route": {
@@ -6136,28 +6136,6 @@
     "route": null,
     "checked_at": "2026-09-28T14:25:23.711404Z"
   },
-  "SAS2859": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T15:40:26.824419Z"
-  },
-  "BTI8WF": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-26T15:40:26.824419Z"
-  },
   "NSZ3298": {
     "route": {
       "fromCity": "Copenhagen",
@@ -7642,7 +7620,7 @@
   },
   "DISAG": {
     "route": null,
-    "checked_at": "2026-09-27T07:50:25.869957Z"
+    "checked_at": "2026-09-28T15:40:31.058639Z"
   },
   "DIGST": {
     "route": null,
@@ -8168,7 +8146,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T10:40:27.567944Z"
+    "checked_at": "2026-09-28T15:40:31.058639Z"
   },
   "OMS443": {
     "route": null,
@@ -9236,7 +9214,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T15:40:28.105295Z"
+    "checked_at": "2026-09-28T15:40:31.058639Z"
   },
   "EWG8MD": {
     "route": {
@@ -13086,5 +13064,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-28T15:35:25.055536Z"
+  },
+  "FIN2K": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-28T15:40:31.058639Z"
+  },
+  "NOZ8TF": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-28T15:40:31.058639Z"
   }
 }
