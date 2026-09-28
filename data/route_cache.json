@@ -872,7 +872,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-27T16:10:29.667878Z"
+    "checked_at": "2026-09-28T18:05:25.248458Z"
   },
   "LOT3KT": {
     "route": {
@@ -938,7 +938,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-27T18:00:48.348253Z"
+    "checked_at": "2026-09-28T18:05:25.248458Z"
   },
   "AUA26Z": {
     "route": {
@@ -960,7 +960,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T18:20:28.512381Z"
+    "checked_at": "2026-09-28T18:05:25.248458Z"
   },
   "KLM1782": {
     "route": {
@@ -1195,7 +1195,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T18:15:28.635442Z"
+    "checked_at": "2026-09-28T18:05:25.248458Z"
   },
   "LOT2MN": {
     "route": {
@@ -6166,28 +6166,6 @@
     },
     "checked_at": "2026-09-27T21:15:29.025864Z"
   },
-  "SAS4634": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T18:05:22.181754Z"
-  },
-  "VKG584": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-26T18:05:22.181754Z"
-  },
   "AUA972": {
     "route": {
       "fromCity": "Gothenburg",
@@ -9303,7 +9281,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T17:15:28.371150Z"
+    "checked_at": "2026-09-28T18:05:25.248458Z"
   },
   "DICMD": {
     "route": null,
@@ -13198,5 +13176,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-09-28T18:00:55.444839Z"
+  },
+  "CCA936": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-28T18:05:25.248458Z"
+  },
+  "LHX4YP": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T18:05:25.248458Z"
   }
 }
