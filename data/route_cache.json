@@ -721,7 +721,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T16:40:27.197556Z"
+    "checked_at": "2026-09-28T16:50:31.638048Z"
   },
   "LHX195": {
     "route": {
@@ -747,7 +747,7 @@
   },
   "TVF89NN": {
     "route": null,
-    "checked_at": "2026-09-27T19:25:23.428341Z"
+    "checked_at": "2026-09-28T16:50:31.638048Z"
   },
   "DLH3X": {
     "route": {
@@ -758,7 +758,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T16:55:20.970697Z"
+    "checked_at": "2026-09-28T16:50:31.638048Z"
   },
   "AFR17RZ": {
     "route": null,
@@ -784,7 +784,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T17:30:39.234138Z"
+    "checked_at": "2026-09-28T16:50:31.638048Z"
   },
   "BAW94Q": {
     "route": {
@@ -839,7 +839,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T16:40:27.197556Z"
+    "checked_at": "2026-09-28T16:50:31.638048Z"
   },
   "THY5MH": {
     "route": {
@@ -4951,17 +4951,6 @@
     },
     "checked_at": "2026-09-27T20:50:27.240213Z"
   },
-  "RYR9SW": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T16:50:29.585594Z"
-  },
   "EJU32RT": {
     "route": null,
     "checked_at": "2026-09-28T12:20:31.662585Z"
@@ -5096,7 +5085,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-26T17:55:20.391706Z"
+    "checked_at": "2026-09-28T16:50:31.638048Z"
   },
   "SAS1673": {
     "route": {
@@ -6154,17 +6143,6 @@
   "VJH334": {
     "route": null,
     "checked_at": "2026-09-27T06:00:47.402599Z"
-  },
-  "SAS7845": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T16:50:29.585594Z"
   },
   "THY81D": {
     "route": {
@@ -13182,5 +13160,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-28T16:40:31.817433Z"
+  },
+  "AUA99R": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-28T16:50:31.638048Z"
+  },
+  "TVF51KY": {
+    "route": {
+      "fromCity": "Nantes",
+      "fromIata": "NTE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-28T16:50:31.638048Z"
+  },
+  "DGFKH": {
+    "route": null,
+    "checked_at": "2026-09-28T16:50:31.638048Z"
   }
 }
