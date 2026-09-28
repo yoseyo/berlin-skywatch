@@ -2161,7 +2161,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-26T07:05:21.328569Z"
+    "checked_at": "2026-09-28T06:55:22.657172Z"
   },
   "DLH2NL": {
     "route": {
@@ -4144,17 +4144,6 @@
     },
     "checked_at": "2026-09-28T06:50:29.595514Z"
   },
-  "PGT982": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-26T06:55:20.649762Z"
-  },
   "WZZ3EA": {
     "route": {
       "fromCity": "Berlin",
@@ -5301,17 +5290,6 @@
     },
     "checked_at": "2026-09-26T11:45:00.297055Z"
   },
-  "THY5CS": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Bremen",
-      "toIata": "BRE",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-26T06:50:30.324310Z"
-  },
   "EWG58L": {
     "route": {
       "fromCity": "Berlin",
@@ -6211,39 +6189,6 @@
     },
     "checked_at": "2026-09-28T04:55:22.606505Z"
   },
-  "FLI7148": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Samos Island",
-      "toIata": "SMI",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-09-26T06:50:30.324310Z"
-  },
-  "PGT17GP": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-26T06:55:20.649762Z"
-  },
-  "RYR60RF": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T06:55:20.649762Z"
-  },
   "DLH5T": {
     "route": {
       "fromCity": "Munich",
@@ -6738,7 +6683,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T15:55:21.528975Z"
+    "checked_at": "2026-09-28T06:55:22.657172Z"
   },
   "SXS8RG": {
     "route": {
@@ -13093,5 +13038,31 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-28T06:50:29.595514Z"
+  },
+  "LHX5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-28T06:55:22.657172Z"
+  },
+  "BFD65H": {
+    "route": null,
+    "checked_at": "2026-09-28T06:55:22.657172Z"
+  },
+  "RYR4384": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T06:55:22.657172Z"
   }
 }
