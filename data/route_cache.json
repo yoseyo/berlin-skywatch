@@ -3252,7 +3252,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T11:40:29.164816Z"
+    "checked_at": "2026-09-28T11:50:28.604792Z"
   },
   "TAP31DB": {
     "route": {
@@ -3395,7 +3395,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-27T12:10:27.270528Z"
+    "checked_at": "2026-09-28T11:50:28.604792Z"
   },
   "SWR1PL": {
     "route": {
@@ -4024,7 +4024,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T10:00:47.271924Z"
+    "checked_at": "2026-09-28T11:50:28.604792Z"
   },
   "TAP53EI": {
     "route": {
@@ -5568,7 +5568,7 @@
   },
   "DMAAC": {
     "route": null,
-    "checked_at": "2026-09-26T12:40:27.550907Z"
+    "checked_at": "2026-09-28T11:50:28.604792Z"
   },
   "RYR2NB": {
     "route": {
@@ -6175,17 +6175,6 @@
   "DMTUR": {
     "route": null,
     "checked_at": "2026-09-27T14:15:26.377651Z"
-  },
-  "RYR5VH": {
-    "route": {
-      "fromCity": "Paphos",
-      "fromIata": "PFO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-26T11:50:25.938270Z"
   },
   "SAS2832": {
     "route": {
@@ -13064,5 +13053,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-28T11:45:28.770016Z"
+  },
+  "BAW990G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-28T11:50:28.604792Z"
   }
 }
