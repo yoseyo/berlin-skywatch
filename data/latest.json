@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-28T03:00:48.947711Z"
+  "flights": [
+    {
+      "callsign": "VKG171",
+      "country": "Denmark",
+      "lat": 52.6993,
+      "lon": 13.8399,
+      "altKm": 12.6,
+      "speedKmh": 836,
+      "heading": 344,
+      "vertRateMs": 0,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-28T03:05:22.197211Z"
 }
