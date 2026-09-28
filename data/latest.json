@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-28T03:35:22.746340Z"
+  "flights": [
+    {
+      "callsign": "ADZ3906",
+      "country": "Bulgaria",
+      "lat": 52.836,
+      "lon": 12.8542,
+      "altKm": 11.1,
+      "speedKmh": 822,
+      "heading": 10,
+      "vertRateMs": -0.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.52,
+      "lon": 13.5875,
+      "altKm": 12.0,
+      "speedKmh": 748,
+      "heading": 213,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-28T03:40:28.370932Z"
 }
