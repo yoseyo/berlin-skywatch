@@ -2451,7 +2451,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T07:50:26.050639Z"
+    "checked_at": "2026-09-28T07:50:31.246660Z"
   },
   "DLH175": {
     "route": {
@@ -6181,28 +6181,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-27T07:30:38.148887Z"
-  },
-  "BTI7701": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-26T07:50:26.050639Z"
-  },
-  "VKG149": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-26T07:50:26.050639Z"
   },
   "SUS9011": {
     "route": {
@@ -13053,5 +13031,20 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-28T07:45:27.905360Z"
+  },
+  "SAS86N": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T07:50:31.246660Z"
+  },
+  "MMF52": {
+    "route": null,
+    "checked_at": "2026-09-28T07:50:31.246660Z"
   }
 }
