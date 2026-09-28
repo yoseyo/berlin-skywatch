@@ -1140,7 +1140,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-27T18:45:26.526381Z"
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   },
   "VLG23BJ": {
     "route": {
@@ -1206,7 +1206,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T19:25:23.428341Z"
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   },
   "KLC1335": {
     "route": {
@@ -1228,7 +1228,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T19:15:26.922607Z"
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   },
   "SAS1680": {
     "route": {
@@ -4406,7 +4406,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-27T19:11:02.279017Z"
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   },
   "EZS67CP": {
     "route": {
@@ -4806,7 +4806,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T18:15:28.635442Z"
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   },
   "NSZ5GT": {
     "route": {
@@ -5593,7 +5593,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-27T19:11:02.279017Z"
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   },
   "RYR55HD": {
     "route": {
@@ -9078,7 +9078,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T17:00:47.507191Z"
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   },
   "LOT3JK": {
     "route": {
@@ -13242,5 +13242,38 @@
   "HCX72": {
     "route": null,
     "checked_at": "2026-09-28T19:00:53.918925Z"
+  },
+  "ADZ3907": {
+    "route": {
+      "fromCity": "\u00d6rebro",
+      "fromIata": "ORB",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-09-28T19:15:32.225202Z"
+  },
+  "ISR254": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-09-28T19:15:32.225202Z"
+  },
+  "RYR9846": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T19:15:32.225202Z"
   }
 }
