@@ -2095,7 +2095,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T06:20:28.710575Z"
+    "checked_at": "2026-09-28T06:20:29.631903Z"
   },
   "LOT1VZ": {
     "route": {
@@ -13026,5 +13026,27 @@
   "SEKSZ": {
     "route": null,
     "checked_at": "2026-09-28T06:15:28.441849Z"
+  },
+  "BTI83L": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-28T06:20:29.631903Z"
+  },
+  "RYR48UK": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T06:20:29.631903Z"
   }
 }
