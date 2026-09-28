@@ -1922,7 +1922,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-26T06:00:47.849837Z"
+    "checked_at": "2026-09-28T06:00:49.502120Z"
   },
   "LOT4WE": {
     "route": {
@@ -1959,7 +1959,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T06:15:25.618174Z"
+    "checked_at": "2026-09-28T06:00:49.502120Z"
   },
   "AUA991B": {
     "route": {
@@ -5321,7 +5321,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-26T14:35:22.329788Z"
+    "checked_at": "2026-09-28T06:00:49.502120Z"
   },
   "BTI83L": {
     "route": {
@@ -6266,17 +6266,6 @@
     },
     "checked_at": "2026-09-27T10:55:20.579650Z"
   },
-  "SAS1835": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-26T06:00:47.849837Z"
-  },
   "FRO948": {
     "route": null,
     "checked_at": "2026-09-26T06:10:28.104230Z"
@@ -6290,7 +6279,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-27T05:55:21.991951Z"
+    "checked_at": "2026-09-28T06:00:49.502120Z"
   },
   "RYR63WX": {
     "route": {
@@ -12963,5 +12952,42 @@
   "ADB7125": {
     "route": null,
     "checked_at": "2026-09-28T05:55:22.463731Z"
+  },
+  "EJU51LD": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-28T06:00:49.502120Z"
+  },
+  "NSZ3754": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Ljubljana",
+      "toIata": "LJU",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T06:00:49.502120Z"
+  },
+  "OKNGX": {
+    "route": null,
+    "checked_at": "2026-09-28T06:00:49.502120Z"
+  },
+  "CKK215": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-28T06:00:49.502120Z"
   }
 }
