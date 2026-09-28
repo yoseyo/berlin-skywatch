@@ -1,67 +1,27 @@
 {
   "flights": [
     {
-      "callsign": "AFR84XP",
-      "country": "France",
-      "lat": 52.1743,
-      "lon": 12.8752,
-      "altKm": 5.2,
-      "speedKmh": 615,
-      "heading": 255,
-      "vertRateMs": 11.7,
-      "airline": "Air France",
-      "airlineCountry": "France",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR9WM",
-      "country": "Poland",
-      "lat": 52.4547,
-      "lon": 12.7628,
-      "altKm": 12.0,
-      "speedKmh": 798,
-      "heading": 267,
-      "vertRateMs": -0.3,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH7FM",
-      "country": "Germany",
-      "lat": 52.5092,
-      "lon": 13.4225,
-      "altKm": 11.7,
-      "speedKmh": 808,
-      "heading": 176,
-      "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "category": "plane"
-    },
-    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.7272,
-      "lon": 13.6033,
-      "altKm": 0.6,
-      "speedKmh": 179,
-      "heading": 199,
-      "vertRateMs": 0.3,
+      "lat": 52.6083,
+      "lon": 13.568,
+      "altKm": 0.2,
+      "speedKmh": 90,
+      "heading": 157,
+      "vertRateMs": -4.9,
       "category": "heli"
+    },
+    {
+      "callsign": "EWG6NT",
+      "country": "Germany",
+      "lat": 52.3499,
+      "lon": 13.4871,
+      "altKm": 0.1,
+      "speedKmh": 246,
+      "heading": 69,
+      "vertRateMs": 0,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-28T04:45:27.737991Z"
+  "updated_at": "2026-09-28T04:50:26.609748Z"
 }
