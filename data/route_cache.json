@@ -596,7 +596,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-26T16:25:26.472231Z"
+    "checked_at": "2026-09-28T16:15:31.213979Z"
   },
   "LOT5PX": {
     "route": {
@@ -618,7 +618,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-27T16:45:27.085810Z"
+    "checked_at": "2026-09-28T16:15:31.213979Z"
   },
   "IBE07WR": {
     "route": {
@@ -4450,7 +4450,7 @@
       "airlineName": "Easyjet Switzerland",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-27T15:15:28.972704Z"
+    "checked_at": "2026-09-28T16:15:31.213979Z"
   },
   "QTR28L": {
     "route": {
@@ -5549,7 +5549,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T16:50:28.221607Z"
+    "checked_at": "2026-09-28T16:15:31.213979Z"
   },
   "EJU58DM": {
     "route": {
@@ -6150,10 +6150,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-27T16:20:30.475972Z"
-  },
-  "RHH200": {
-    "route": null,
-    "checked_at": "2026-09-26T16:15:28.066101Z"
   },
   "SAS7775": {
     "route": {
@@ -7737,7 +7733,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T09:05:22.529779Z"
+    "checked_at": "2026-09-28T16:15:31.213979Z"
   },
   "RYR8988": {
     "route": {
@@ -13138,5 +13134,27 @@
   "VKG198": {
     "route": null,
     "checked_at": "2026-09-28T16:10:32.326356Z"
+  },
+  "SDR92DF": {
+    "route": {
+      "fromCity": "Dresden",
+      "fromIata": "DRS",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T16:15:31.213979Z"
+  },
+  "RYR52WA": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-28T16:15:31.213979Z"
   }
 }
