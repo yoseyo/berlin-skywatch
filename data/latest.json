@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "BPOBER",
-      "country": "Germany",
-      "lat": 52.6024,
-      "lon": 13.5749,
-      "altKm": 0.1,
-      "speedKmh": 33,
-      "heading": 142,
-      "vertRateMs": -0.7,
-      "category": "heli"
+      "callsign": "RYR8EM",
+      "country": "Malta",
+      "lat": 52.9052,
+      "lon": 13.7946,
+      "altKm": 11.7,
+      "speedKmh": 808,
+      "heading": 170,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Bratislava",
+      "fromIata": "BTS",
+      "toCity": "London",
+      "toIata": "STN",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-28T21:30:55.125872Z"
+  "updated_at": "2026-09-28T21:35:23.627917Z"
 }
