@@ -3859,7 +3859,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-26T19:25:20.601253Z"
+    "checked_at": "2026-09-28T18:50:30.460494Z"
   },
   "KLM60M": {
     "route": {
@@ -5402,7 +5402,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-27T06:00:47.402599Z"
+    "checked_at": "2026-09-28T18:50:30.460494Z"
   },
   "EWG41W": {
     "route": {
@@ -13242,5 +13242,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-28T18:45:28.375830Z"
+  },
+  "BTI6UQ": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-28T18:50:30.460494Z"
+  },
+  "LOT2YM": {
+    "route": {
+      "fromCity": "Luxembourg",
+      "fromIata": "LUX",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-28T18:50:30.460494Z"
+  },
+  "SAS2768": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-28T18:50:30.460494Z"
   }
 }
