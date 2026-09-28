@@ -1,14 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.3095,
+      "lon": 13.3178,
+      "altKm": 0.7,
+      "speedKmh": 324,
+      "heading": 69,
+      "vertRateMs": -4.5,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "category": "plane"
+    },
+    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.7255,
-      "lon": 13.6405,
-      "altKm": 3.2,
-      "speedKmh": 523,
-      "heading": 227,
-      "vertRateMs": -5.5,
+      "lat": 52.4287,
+      "lon": 13.156,
+      "altKm": 1.9,
+      "speedKmh": 479,
+      "heading": 213,
+      "vertRateMs": -5.8,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -16,24 +29,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "EWG58L",
-      "country": "Germany",
-      "lat": 52.2209,
-      "lon": 13.1626,
-      "altKm": 3.6,
-      "speedKmh": 603,
-      "heading": 246,
-      "vertRateMs": 7.2,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ibiza",
-      "toIata": "IBZ",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-28T03:55:21.769271Z"
+  "updated_at": "2026-09-28T04:00:48.492998Z"
 }
