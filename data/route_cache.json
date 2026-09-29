@@ -3747,17 +3747,6 @@
     },
     "checked_at": "2026-09-28T17:30:47.093782Z"
   },
-  "BAW996G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-27T17:10:28.002514Z"
-  },
   "THY91B": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -5066,17 +5055,6 @@
     },
     "checked_at": "2026-09-28T19:50:29.001624Z"
   },
-  "UAE61": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-09-27T17:10:28.002514Z"
-  },
   "RYR28LA": {
     "route": {
       "fromCity": "Kerkyra Island",
@@ -6323,10 +6301,6 @@
     },
     "checked_at": "2026-09-29T16:15:31.243744Z"
   },
-  "SPAMR": {
-    "route": null,
-    "checked_at": "2026-09-27T17:10:28.002514Z"
-  },
   "BEL9SZ": {
     "route": {
       "fromCity": "Vilnius",
@@ -6348,17 +6322,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-09-29T16:50:29.023758Z"
-  },
-  "RYR3884": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T17:10:28.002514Z"
   },
   "AUA234G": {
     "route": {
@@ -10329,7 +10292,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T18:10:31.811307Z"
+    "checked_at": "2026-09-29T17:10:32.459311Z"
   },
   "DCROW": {
     "route": null,
@@ -13056,5 +13019,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T17:05:25.084959Z"
+  },
+  "BBG273": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Bluebird Airways (BZ)",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-29T17:10:32.459311Z"
+  },
+  "AFR17RZ": {
+    "route": null,
+    "checked_at": "2026-09-29T17:10:32.459311Z"
+  },
+  "RYR53LP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T17:10:32.459311Z"
   }
 }
