@@ -1996,7 +1996,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T06:40:30.292639Z"
+    "checked_at": "2026-09-29T06:40:30.318625Z"
   },
   "SWR97Y": {
     "route": {
@@ -4144,17 +4144,6 @@
     },
     "checked_at": "2026-09-28T04:10:27.286112Z"
   },
-  "RYR91SP": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T06:40:27.039012Z"
-  },
   "RYR3EM": {
     "route": {
       "fromCity": "Berlin",
@@ -6220,17 +6209,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-28T06:45:29.062554Z"
-  },
-  "EWG7W": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T06:40:27.039012Z"
   },
   "BAW84NT": {
     "route": {
@@ -13236,5 +13214,38 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-29T06:35:24.510939Z"
+  },
+  "CFG1FE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-29T06:40:30.318625Z"
+  },
+  "EJU16QM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T06:40:30.318625Z"
+  },
+  "AFR1434": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-29T06:40:30.318625Z"
   }
 }
