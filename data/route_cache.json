@@ -3672,7 +3672,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T10:30:45.378200Z"
+    "checked_at": "2026-09-29T15:05:24.598648Z"
   },
   "EWG3AM": {
     "route": {
@@ -5167,7 +5167,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T15:25:20.784207Z"
+    "checked_at": "2026-09-29T15:05:24.598648Z"
   },
   "SAS2690": {
     "route": {
@@ -6127,21 +6127,6 @@
   "HCX71": {
     "route": null,
     "checked_at": "2026-09-28T14:45:30.573105Z"
-  },
-  "CFG7NY": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T15:05:22.490334Z"
-  },
-  "DEOKM": {
-    "route": null,
-    "checked_at": "2026-09-27T15:05:22.490334Z"
   },
   "EJU35TP": {
     "route": {
@@ -9978,7 +9963,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-28T14:35:22.969031Z"
+    "checked_at": "2026-09-29T15:05:24.598648Z"
   },
   "AWH84S": {
     "route": null,
@@ -13118,5 +13103,16 @@
   "DEXRE": {
     "route": null,
     "checked_at": "2026-09-29T15:00:55.355585Z"
+  },
+  "CFG5AK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-29T15:05:24.598648Z"
   }
 }
