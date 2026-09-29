@@ -1672,7 +1672,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T05:15:29.568273Z"
+    "checked_at": "2026-09-29T05:00:50.338112Z"
   },
   "DAL92": {
     "route": {
@@ -1716,7 +1716,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-28T05:05:22.470429Z"
+    "checked_at": "2026-09-29T05:00:50.338112Z"
   },
   "AUA240": {
     "route": {
@@ -4450,7 +4450,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T05:05:22.470429Z"
+    "checked_at": "2026-09-29T05:00:50.338112Z"
   },
   "EJU83GC": {
     "route": {
@@ -6187,32 +6187,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-29T03:20:27.511728Z"
-  },
-  "GAF931": {
-    "route": null,
-    "checked_at": "2026-09-27T05:00:46.063127Z"
-  },
-  "EWG19V": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T05:00:46.063127Z"
-  },
-  "CAT317": {
-    "route": {
-      "fromCity": "Aarhus",
-      "fromIata": "AAR",
-      "toCity": "Zakynthos Island",
-      "toIata": "ZTH",
-      "airlineName": "Copenhagen Airtaxi",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-27T05:00:46.063127Z"
   },
   "SDR17SG": {
     "route": {
@@ -13313,5 +13287,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T04:55:22.991473Z"
+  },
+  "EJU83ZK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T05:00:50.338112Z"
+  },
+  "WZZ31QC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-29T05:00:50.338112Z"
   }
 }
