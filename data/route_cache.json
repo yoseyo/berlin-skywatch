@@ -2933,7 +2933,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T10:30:45.378200Z"
+    "checked_at": "2026-09-29T10:30:45.617563Z"
   },
   "WMT1HA": {
     "route": {
@@ -2955,7 +2955,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T10:20:29.341743Z"
+    "checked_at": "2026-09-29T10:30:45.617563Z"
   },
   "AEE2WD": {
     "route": {
@@ -2999,7 +2999,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T10:35:24.055764Z"
+    "checked_at": "2026-09-29T10:30:45.617563Z"
   },
   "SXS1CM": {
     "route": {
@@ -6190,25 +6190,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-29T10:10:32.531635Z"
-  },
-  "N2763": {
-    "route": null,
-    "checked_at": "2026-09-27T10:30:35.998380Z"
-  },
-  "CFG3TN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T10:30:35.998380Z"
-  },
-  "PNC1VL": {
-    "route": null,
-    "checked_at": "2026-09-27T10:30:35.998380Z"
   },
   "RYR8201": {
     "route": {
@@ -13354,5 +13335,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T10:25:27.301041Z"
+  },
+  "TKJ36N": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bodrum",
+      "toIata": "BJV",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T10:30:45.617563Z"
+  },
+  "EJU51DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T10:30:45.617563Z"
+  },
+  "RYR7DR": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Newcastle",
+      "toIata": "NCL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T10:30:45.617563Z"
+  },
+  "PGT41EH": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T10:30:45.617563Z"
   }
 }
