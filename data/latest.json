@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "EJU37DJ",
+      "callsign": "EJU17CG",
       "country": "Austria",
-      "lat": 52.3178,
-      "lon": 13.3525,
-      "altKm": 0.6,
-      "speedKmh": 298,
-      "heading": 69,
+      "lat": 52.1673,
+      "lon": 13.1562,
+      "altKm": 1.5,
+      "speedKmh": 534,
+      "heading": 314,
       "vertRateMs": -4.2,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "SRR6227",
+      "country": "Denmark",
+      "lat": 52.3932,
+      "lon": 13.5928,
+      "altKm": 1.4,
+      "speedKmh": 353,
+      "heading": 70,
+      "vertRateMs": 11.1,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-29T21:10:29.633557Z"
+  "updated_at": "2026-09-29T21:15:29.102693Z"
 }
