@@ -6514,28 +6514,6 @@
     },
     "checked_at": "2026-09-28T14:55:23.833275Z"
   },
-  "BTI9BQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-27T21:05:21.589446Z"
-  },
-  "RYR92HL": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T21:05:21.589446Z"
-  },
   "WZZ90BV": {
     "route": {
       "fromCity": "Funchal",
@@ -12956,5 +12934,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T21:00:50.435213Z"
+  },
+  "EJU37DJ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T21:05:23.917302Z"
   }
 }
