@@ -1,4 +1,50 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-29T03:15:27.318669Z"
+  "flights": [
+    {
+      "callsign": "AEG6912",
+      "country": "Estonia",
+      "lat": 52.2064,
+      "lon": 13.6816,
+      "altKm": 6.1,
+      "speedKmh": 494,
+      "heading": 72,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "CSN331",
+      "country": "China",
+      "lat": 52.6471,
+      "lon": 13.103,
+      "altKm": 12.0,
+      "speedKmh": 841,
+      "heading": 250,
+      "vertRateMs": -0.3,
+      "airline": "China Southern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS9CG",
+      "country": "Ireland",
+      "lat": 52.4078,
+      "lon": 12.9261,
+      "altKm": 9.5,
+      "speedKmh": 878,
+      "heading": 21,
+      "vertRateMs": 11.7,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-29T03:20:27.511728Z"
 }
