@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-29T22:05:25.774236Z"
+  "flights": [
+    {
+      "callsign": "RYR8842",
+      "country": "Poland",
+      "lat": 52.5797,
+      "lon": 13.9325,
+      "altKm": 11.7,
+      "speedKmh": 836,
+      "heading": 126,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Aberdeen",
+      "fromIata": "ABZ",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-29T22:10:30.661127Z"
 }
