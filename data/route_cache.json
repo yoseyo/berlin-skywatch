@@ -1033,7 +1033,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T18:35:25.400609Z"
+    "checked_at": "2026-09-29T18:25:24.097658Z"
   },
   "LGL9473": {
     "route": {
@@ -12999,5 +12999,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T18:15:29.955638Z"
+  },
+  "RYR4DZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T18:25:24.097658Z"
+  },
+  "CTN4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-09-29T18:25:24.097658Z"
+  },
+  "RYR87VA": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T18:25:24.097658Z"
   }
 }
