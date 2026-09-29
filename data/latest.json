@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-29T21:30:39.658180Z"
+  "flights": [
+    {
+      "callsign": "EWG6AZ",
+      "country": "Germany",
+      "lat": 52.125,
+      "lon": 12.9821,
+      "altKm": 1.9,
+      "speedKmh": 513,
+      "heading": 35,
+      "vertRateMs": -7.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-29T21:35:24.800613Z"
 }
