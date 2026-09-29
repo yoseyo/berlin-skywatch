@@ -2352,7 +2352,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-28T07:55:22.529343Z"
+    "checked_at": "2026-09-29T07:50:34.030396Z"
   },
   "QTR85X": {
     "route": {
@@ -4948,17 +4948,6 @@
     },
     "checked_at": "2026-09-28T08:05:24.292001Z"
   },
-  "RYR39DH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T07:46:03.345622Z"
-  },
   "DLH894": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5386,17 +5375,6 @@
     },
     "checked_at": "2026-09-27T16:45:27.085810Z"
   },
-  "CTN4408": {
-    "route": {
-      "fromCity": "Zagreb",
-      "fromIata": "ZAG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-09-27T07:50:25.869957Z"
-  },
   "ASL86W": {
     "route": {
       "fromCity": "Belgrade",
@@ -5710,10 +5688,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-27T08:50:27.109238Z"
-  },
-  "DMSOI": {
-    "route": null,
-    "checked_at": "2026-09-27T07:50:25.869957Z"
   },
   "DEKPR": {
     "route": null,
@@ -6184,28 +6158,6 @@
     },
     "checked_at": "2026-09-28T06:45:29.062554Z"
   },
-  "CAI4AA": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-27T07:46:03.345622Z"
-  },
-  "NSZ8530": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T07:50:25.869957Z"
-  },
   "DISAG": {
     "route": null,
     "checked_at": "2026-09-28T15:40:31.058639Z"
@@ -6213,17 +6165,6 @@
   "DIGST": {
     "route": null,
     "checked_at": "2026-09-28T15:45:29.888250Z"
-  },
-  "SXS6SJ": {
-    "route": {
-      "fromCity": "Dalaman",
-      "fromIata": "DLM",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-27T07:50:25.869957Z"
   },
   "DEDLJ": {
     "route": null,
@@ -13242,5 +13183,24 @@
   "LHB2": {
     "route": null,
     "checked_at": "2026-09-29T07:45:31.460898Z"
+  },
+  "FCA1MA": {
+    "route": null,
+    "checked_at": "2026-09-29T07:50:34.030396Z"
+  },
+  "DFPOL": {
+    "route": null,
+    "checked_at": "2026-09-29T07:50:34.030396Z"
+  },
+  "BAW84NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-29T07:50:34.030396Z"
   }
 }
