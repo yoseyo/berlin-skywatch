@@ -769,7 +769,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T16:45:28.898733Z"
+    "checked_at": "2026-09-29T17:45:29.322876Z"
   },
   "EZY29HQ": {
     "route": {
@@ -5551,10 +5551,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-28T05:30:39.502721Z"
-  },
-  "MASBA": {
-    "route": null,
-    "checked_at": "2026-09-27T17:45:27.861113Z"
   },
   "NSZ4AW": {
     "route": {
@@ -13044,5 +13040,16 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-09-29T17:40:30.135433Z"
+  },
+  "UAE61": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-09-29T17:45:29.322876Z"
   }
 }
