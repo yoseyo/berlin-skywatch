@@ -3318,7 +3318,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-28T13:55:23.403590Z"
+    "checked_at": "2026-09-29T12:55:24.461787Z"
   },
   "QTR37K": {
     "route": null,
@@ -3370,7 +3370,7 @@
   },
   "EJU47DE": {
     "route": null,
-    "checked_at": "2026-09-28T10:15:28.590663Z"
+    "checked_at": "2026-09-29T12:55:24.461787Z"
   },
   "SXS6ZK": {
     "route": {
@@ -3414,7 +3414,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T13:10:28.728566Z"
+    "checked_at": "2026-09-29T12:55:24.461787Z"
   },
   "DLH6MM": {
     "route": {
@@ -3436,7 +3436,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T13:00:53.860389Z"
+    "checked_at": "2026-09-29T12:55:24.461787Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -6193,25 +6193,6 @@
   "DELHB": {
     "route": null,
     "checked_at": "2026-09-28T10:45:28.400566Z"
-  },
-  "DMAUK": {
-    "route": null,
-    "checked_at": "2026-09-27T12:55:22.192718Z"
-  },
-  "NJE074K": {
-    "route": null,
-    "checked_at": "2026-09-27T12:55:22.192718Z"
-  },
-  "SDR10XL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T12:55:22.192718Z"
   },
   "DEJNS": {
     "route": null,
@@ -13262,5 +13243,31 @@
   "AWH64D": {
     "route": null,
     "checked_at": "2026-09-29T12:50:32.215774Z"
+  },
+  "RYR2JL": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T12:55:24.461787Z"
+  },
+  "RYR99FP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T12:55:24.461787Z"
+  },
+  "DMKFP": {
+    "route": null,
+    "checked_at": "2026-09-29T12:55:24.461787Z"
   }
 }
