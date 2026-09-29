@@ -166,7 +166,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-28T14:10:33.165626Z"
+    "checked_at": "2026-09-29T14:00:56.110878Z"
   },
   "RYR96EU": {
     "route": {
@@ -3576,7 +3576,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T07:40:29.918719Z"
+    "checked_at": "2026-09-29T14:00:56.110878Z"
   },
   "KLC42X": {
     "route": {
@@ -5624,7 +5624,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-27T18:15:28.635442Z"
+    "checked_at": "2026-09-29T14:00:56.110878Z"
   },
   "BAW845": {
     "route": {
@@ -6200,17 +6200,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-09-28T11:01:27.206143Z"
-  },
-  "SDR49KT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T14:00:47.795912Z"
   },
   "AEE513": {
     "route": {
@@ -7102,7 +7091,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T16:00:57.993343Z"
+    "checked_at": "2026-09-29T14:00:56.110878Z"
   },
   "ISR252": {
     "route": {
@@ -13126,5 +13115,46 @@
   "DEEOE": {
     "route": null,
     "checked_at": "2026-09-29T13:50:29.472650Z"
+  },
+  "EJU58DM": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T14:00:56.110878Z"
+  },
+  "DKFBZ": {
+    "route": null,
+    "checked_at": "2026-09-29T14:00:56.110878Z"
+  },
+  "SXS679": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T14:00:56.110878Z"
+  },
+  "HBVAD": {
+    "route": null,
+    "checked_at": "2026-09-29T14:00:56.110878Z"
+  },
+  "RYR65YP": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T14:00:56.110878Z"
   }
 }
