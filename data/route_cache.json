@@ -2709,7 +2709,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-28T09:25:22.297792Z"
+    "checked_at": "2026-09-29T09:30:43.007008Z"
   },
   "AUA226K": {
     "route": {
@@ -4968,7 +4968,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-09-27T10:10:26.802638Z"
+    "checked_at": "2026-09-29T09:30:43.007008Z"
   },
   "EJU17TX": {
     "route": {
@@ -5642,17 +5642,6 @@
     },
     "checked_at": "2026-09-28T09:50:27.770132Z"
   },
-  "NSZ2MP": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T09:30:40.031370Z"
-  },
   "DMTUR": {
     "route": null,
     "checked_at": "2026-09-27T14:15:26.377651Z"
@@ -6139,54 +6128,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-28T16:15:31.213979Z"
-  },
-  "DMVKD": {
-    "route": null,
-    "checked_at": "2026-09-27T09:30:40.031370Z"
-  },
-  "TSC418": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Transat",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-09-27T09:30:40.031370Z"
-  },
-  "CAI17QT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-27T09:30:40.031370Z"
-  },
-  "PJZ238": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "Premium Jet",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-09-27T09:30:40.031370Z"
-  },
-  "HYS408": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Chi\u015fin\u0103u",
-      "toIata": "RMO",
-      "airlineName": "HiSky Europe",
-      "airlineCountry": "Romania"
-    },
-    "checked_at": "2026-09-27T09:30:40.031370Z"
   },
   "DELJC": {
     "route": null,
@@ -13296,5 +13237,20 @@
   "ROF440": {
     "route": null,
     "checked_at": "2026-09-29T09:15:30.447557Z"
+  },
+  "DLH890": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-29T09:30:43.007008Z"
+  },
+  "NJE519E": {
+    "route": null,
+    "checked_at": "2026-09-29T09:30:43.007008Z"
   }
 }
