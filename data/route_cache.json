@@ -3164,7 +3164,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-28T11:50:28.604792Z"
+    "checked_at": "2026-09-29T11:45:31.498379Z"
   },
   "TAP31DB": {
     "route": {
@@ -3176,17 +3176,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-09-28T11:25:21.497553Z"
-  },
-  "WZZ18DM": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-27T11:45:26.557737Z"
   },
   "THY8TV": {
     "route": {
@@ -5656,10 +5645,6 @@
     },
     "checked_at": "2026-09-28T04:15:27.718453Z"
   },
-  "DHABH": {
-    "route": null,
-    "checked_at": "2026-09-27T11:45:26.557737Z"
-  },
   "THY95Y": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6223,32 +6208,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-28T15:30:43.114859Z"
-  },
-  "SAS4638": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T11:45:26.557737Z"
-  },
-  "EWG5NP": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T11:45:26.557737Z"
-  },
-  "AMB447": {
-    "route": null,
-    "checked_at": "2026-09-27T11:45:26.557737Z"
   },
   "RYR76WJ": {
     "route": {
@@ -10238,7 +10197,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T12:15:28.782362Z"
+    "checked_at": "2026-09-29T11:45:31.498379Z"
   },
   "CAT772": {
     "route": null,
@@ -13348,5 +13307,27 @@
   "NJE734Q": {
     "route": null,
     "checked_at": "2026-09-29T11:40:31.225938Z"
+  },
+  "FIN4ER": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-29T11:45:31.498379Z"
+  },
+  "RYR5VH": {
+    "route": {
+      "fromCity": "Paphos",
+      "fromIata": "PFO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T11:45:31.498379Z"
   }
 }
