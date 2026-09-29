@@ -295,7 +295,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-28T14:40:31.198945Z"
+    "checked_at": "2026-09-29T14:20:30.871251Z"
   },
   "EJU81FH": {
     "route": {
@@ -6189,32 +6189,6 @@
   "GAF638": {
     "route": null,
     "checked_at": "2026-09-28T06:45:29.062554Z"
-  },
-  "NOZ1106": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-27T14:20:29.217510Z"
-  },
-  "DEVCT": {
-    "route": null,
-    "checked_at": "2026-09-27T14:20:29.217510Z"
-  },
-  "RYR5074": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T14:20:29.217510Z"
   },
   "EWG16V": {
     "route": {
@@ -13123,5 +13097,31 @@
   "VJT440": {
     "route": null,
     "checked_at": "2026-09-29T14:15:28.952610Z"
+  },
+  "ETH3739": {
+    "route": {
+      "fromCity": "S\u00e3o Paulo",
+      "fromIata": "GRU",
+      "toCity": "Santiago",
+      "toIata": "SCL",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-09-29T14:20:30.871251Z"
+  },
+  "RYR2RB": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T14:20:30.871251Z"
+  },
+  "ULC7P": {
+    "route": null,
+    "checked_at": "2026-09-29T14:20:30.871251Z"
   }
 }
