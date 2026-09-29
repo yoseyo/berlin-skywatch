@@ -780,7 +780,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T15:45:29.888250Z"
+    "checked_at": "2026-09-29T17:40:30.135433Z"
   },
   "SWR1PF": {
     "route": {
@@ -824,7 +824,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T17:45:28.509735Z"
+    "checked_at": "2026-09-29T17:40:30.135433Z"
   },
   "SWR3BY": {
     "route": {
@@ -5077,17 +5077,6 @@
     },
     "checked_at": "2026-09-28T07:40:29.918719Z"
   },
-  "ASL86W": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-09-27T17:40:28.713581Z"
-  },
   "EJU68NQ": {
     "route": {
       "fromCity": "Split",
@@ -5440,7 +5429,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T17:30:47.093782Z"
+    "checked_at": "2026-09-29T17:40:30.135433Z"
   },
   "DLH5PR": {
     "route": {
@@ -6375,10 +6364,6 @@
     "route": null,
     "checked_at": "2026-09-28T12:20:31.662585Z"
   },
-  "KMM376": {
-    "route": null,
-    "checked_at": "2026-09-27T17:40:28.713581Z"
-  },
   "CFE7026": {
     "route": {
       "fromCity": "Berlin",
@@ -6535,7 +6520,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-28T17:45:28.509735Z"
+    "checked_at": "2026-09-29T17:40:30.135433Z"
   },
   "JFA73E": {
     "route": null,
@@ -13037,5 +13022,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T17:35:24.133885Z"
+  },
+  "BAW996G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-29T17:40:30.135433Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-09-29T17:40:30.135433Z"
   }
 }
