@@ -1198,7 +1198,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T19:15:32.225202Z"
+    "checked_at": "2026-09-29T19:30:40.614791Z"
   },
   "SAS1680": {
     "route": {
@@ -6411,10 +6411,6 @@
     },
     "checked_at": "2026-09-28T19:00:53.918925Z"
   },
-  "CHX92": {
-    "route": null,
-    "checked_at": "2026-09-27T19:25:23.428341Z"
-  },
   "CFG9EH": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6501,7 +6497,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-27T19:40:27.851775Z"
+    "checked_at": "2026-09-29T19:30:40.614791Z"
   },
   "NSZ3304": {
     "route": {
@@ -13032,5 +13028,16 @@
   "AXY215P": {
     "route": null,
     "checked_at": "2026-09-29T19:15:28.991555Z"
+  },
+  "NOZ1923": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-29T19:30:40.614791Z"
   }
 }
