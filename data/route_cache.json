@@ -835,7 +835,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-28T17:05:26.716132Z"
+    "checked_at": "2026-09-29T17:20:31.564575Z"
   },
   "KLM1316": {
     "route": {
@@ -3701,7 +3701,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T16:20:33.493134Z"
+    "checked_at": "2026-09-29T17:20:31.564575Z"
   },
   "EJU51HZ": {
     "route": {
@@ -6349,25 +6349,6 @@
     "route": null,
     "checked_at": "2026-09-29T08:25:24.743480Z"
   },
-  "DWW819": {
-    "route": null,
-    "checked_at": "2026-09-27T17:20:30.593819Z"
-  },
-  "NJE475E": {
-    "route": null,
-    "checked_at": "2026-09-27T17:20:30.593819Z"
-  },
-  "EWG41H": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T17:20:30.593819Z"
-  },
   "SAS67M": {
     "route": {
       "fromCity": "Rome",
@@ -6488,7 +6469,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T17:35:25.555649Z"
+    "checked_at": "2026-09-29T17:20:31.564575Z"
   },
   "SAS2670": {
     "route": {
@@ -13034,5 +13015,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T17:10:32.459311Z"
+  },
+  "CTN4408": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-09-29T17:20:31.564575Z"
+  },
+  "RYR42MY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T17:20:31.564575Z"
   }
 }
