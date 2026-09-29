@@ -3219,7 +3219,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-28T11:55:22.622850Z"
+    "checked_at": "2026-09-29T11:55:23.530116Z"
   },
   "DLH9MH": {
     "route": {
@@ -3296,7 +3296,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-28T12:05:25.213742Z"
+    "checked_at": "2026-09-29T11:55:23.530116Z"
   },
   "THY6XB": {
     "route": {
@@ -4959,17 +4959,6 @@
     },
     "checked_at": "2026-09-29T10:50:32.431539Z"
   },
-  "THY9RZ": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-27T11:55:22.170549Z"
-  },
   "DLH1YY": {
     "route": {
       "fromCity": "Pozna\u0144",
@@ -6212,17 +6201,6 @@
   "HAJEP": {
     "route": null,
     "checked_at": "2026-09-28T09:15:30.164673Z"
-  },
-  "RYR18RV": {
-    "route": {
-      "fromCity": "Torp",
-      "fromIata": "TRF",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T11:55:22.170549Z"
   },
   "EWG9L": {
     "route": {
@@ -13326,5 +13304,16 @@
   "DHHFW": {
     "route": null,
     "checked_at": "2026-09-29T11:50:30.995465Z"
+  },
+  "UZB201": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-09-29T11:55:23.530116Z"
   }
 }
