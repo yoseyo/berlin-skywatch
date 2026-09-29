@@ -2753,7 +2753,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-28T05:55:22.463731Z"
+    "checked_at": "2026-09-29T10:00:51.605401Z"
   },
   "SAS2678": {
     "route": {
@@ -2786,7 +2786,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-28T09:30:38.990679Z"
+    "checked_at": "2026-09-29T10:00:51.605401Z"
   },
   "KLM75C": {
     "route": {
@@ -3959,10 +3959,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-29T07:25:25.565760Z"
-  },
-  "DHXFV": {
-    "route": null,
-    "checked_at": "2026-09-27T09:55:23.506254Z"
   },
   "WZZ8649": {
     "route": null,
@@ -6135,21 +6131,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-28T09:50:27.770132Z"
-  },
-  "NSZ8YC": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T09:55:23.506254Z"
-  },
-  "DMIKU": {
-    "route": null,
-    "checked_at": "2026-09-27T09:55:23.506254Z"
   },
   "ELY2372": {
     "route": {
@@ -13285,5 +13266,16 @@
   "DMJAA": {
     "route": null,
     "checked_at": "2026-09-29T09:55:23.086987Z"
+  },
+  "WZZ8FN": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-29T10:00:51.605401Z"
   }
 }
