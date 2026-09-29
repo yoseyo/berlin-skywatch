@@ -475,7 +475,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T16:20:33.493134Z"
+    "checked_at": "2026-09-29T20:25:23.642720Z"
   },
   "BTI9AG": {
     "route": {
@@ -1330,7 +1330,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-28T20:35:23.433654Z"
+    "checked_at": "2026-09-29T20:25:23.642720Z"
   },
   "TVF73KL": {
     "route": {
@@ -1396,7 +1396,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-28T20:30:43.929548Z"
+    "checked_at": "2026-09-29T20:25:23.642720Z"
   },
   "SWR9LC": {
     "route": {
@@ -3786,17 +3786,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-29T19:25:22.040770Z"
-  },
-  "TAP4BE": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-09-27T20:21:02.307664Z"
   },
   "DLH5EE": {
     "route": {
@@ -13014,5 +13003,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-29T20:20:29.986063Z"
+  },
+  "NOZ1WC": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-29T20:25:23.642720Z"
+  },
+  "UEE1": {
+    "route": null,
+    "checked_at": "2026-09-29T20:25:23.642720Z"
   }
 }
