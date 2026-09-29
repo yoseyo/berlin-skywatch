@@ -607,7 +607,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-28T17:20:29.617592Z"
+    "checked_at": "2026-09-29T16:45:28.785393Z"
   },
   "PGT49PK": {
     "route": {
@@ -738,10 +738,6 @@
     },
     "checked_at": "2026-09-28T16:50:31.638048Z"
   },
-  "AFR17RZ": {
-    "route": null,
-    "checked_at": "2026-09-27T16:45:27.085810Z"
-  },
   "RYR8RZ": {
     "route": {
       "fromCity": "Catania",
@@ -817,7 +813,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-28T16:50:31.638048Z"
+    "checked_at": "2026-09-29T16:45:28.785393Z"
   },
   "THY5MH": {
     "route": {
@@ -5103,17 +5099,6 @@
     },
     "checked_at": "2026-09-28T07:40:29.918719Z"
   },
-  "TKJ9HJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-27T16:45:27.085810Z"
-  },
   "ASL86W": {
     "route": {
       "fromCity": "Belgrade",
@@ -6311,14 +6296,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-28T05:10:30.058143Z"
-  },
-  "NJE203E": {
-    "route": null,
-    "checked_at": "2026-09-27T16:45:27.085810Z"
-  },
-  "NJE056L": {
-    "route": null,
-    "checked_at": "2026-09-27T16:45:27.085810Z"
   },
   "BLX175": {
     "route": {
@@ -13053,5 +13030,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-29T16:40:36.190328Z"
+  },
+  "RYR25SC": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T16:45:28.785393Z"
   }
 }
