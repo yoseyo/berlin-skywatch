@@ -2073,7 +2073,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-28T07:00:49.870335Z"
+    "checked_at": "2026-09-29T07:00:51.119314Z"
   },
   "LOT286": {
     "route": {
@@ -2106,7 +2106,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T07:00:49.870335Z"
+    "checked_at": "2026-09-29T07:00:51.119314Z"
   },
   "DLH3TR": {
     "route": {
@@ -2183,7 +2183,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T07:10:28.127202Z"
+    "checked_at": "2026-09-29T07:00:51.119314Z"
   },
   "TVF88JV": {
     "route": null,
@@ -4011,17 +4011,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-28T07:40:29.918719Z"
-  },
-  "RYR717M": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T07:00:45.662104Z"
   },
   "UAL963": {
     "route": {
@@ -6123,7 +6112,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T06:40:30.292639Z"
+    "checked_at": "2026-09-29T07:00:51.119314Z"
   },
   "CSN331": {
     "route": {
@@ -6205,10 +6194,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-28T06:45:29.062554Z"
-  },
-  "MFX7663": {
-    "route": null,
-    "checked_at": "2026-09-27T07:00:45.662104Z"
   },
   "RYR44BG": {
     "route": {
@@ -13236,5 +13221,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T06:55:23.703466Z"
+  },
+  "FIN6AP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-29T07:00:51.119314Z"
   }
 }
