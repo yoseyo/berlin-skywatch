@@ -203,7 +203,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-28T14:40:31.198945Z"
+    "checked_at": "2026-09-29T14:25:24.247782Z"
   },
   "RYR4JQ": {
     "route": {
@@ -258,7 +258,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T14:35:22.969031Z"
+    "checked_at": "2026-09-29T14:25:24.247782Z"
   },
   "CHX82": {
     "route": null,
@@ -3620,7 +3620,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-27T14:30:36.982513Z"
+    "checked_at": "2026-09-29T14:25:24.247782Z"
   },
   "DLH2PM": {
     "route": {
@@ -3639,7 +3639,7 @@
   },
   "PYR014": {
     "route": null,
-    "checked_at": "2026-09-27T15:25:20.784207Z"
+    "checked_at": "2026-09-29T14:25:24.247782Z"
   },
   "RYR3YW": {
     "route": {
@@ -4337,17 +4337,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-28T09:30:38.990679Z"
-  },
-  "RYR3026": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T14:25:22.946636Z"
   },
   "TVF875M": {
     "route": {
@@ -6189,17 +6178,6 @@
   "GAF638": {
     "route": null,
     "checked_at": "2026-09-28T06:45:29.062554Z"
-  },
-  "EWG16V": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T14:25:22.946636Z"
   },
   "PTN97F": {
     "route": null,
@@ -13123,5 +13101,38 @@
   "ULC7P": {
     "route": null,
     "checked_at": "2026-09-29T14:20:30.871251Z"
+  },
+  "CAI45CE": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Rostock",
+      "toIata": "RLG",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T14:25:24.247782Z"
+  },
+  "RYR93KF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T14:25:24.247782Z"
+  },
+  "EWG3XM": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-29T14:25:24.247782Z"
   }
 }
