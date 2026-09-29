@@ -530,7 +530,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-28T15:50:33.036382Z"
+    "checked_at": "2026-09-29T15:40:29.344681Z"
   },
   "DMS2RV": {
     "route": {
@@ -5455,7 +5455,7 @@
       "airlineName": "China Eastern Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-28T15:00:56.766934Z"
+    "checked_at": "2026-09-29T15:40:29.344681Z"
   },
   "SAS695": {
     "route": {
@@ -6193,17 +6193,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-29T15:30:41.313269Z"
-  },
-  "EWG8MD": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T15:40:28.105295Z"
   },
   "DECLP": {
     "route": null,
@@ -13100,5 +13089,20 @@
   "MMD1302": {
     "route": null,
     "checked_at": "2026-09-29T15:35:24.456255Z"
+  },
+  "EJU31GQ": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T15:40:29.344681Z"
+  },
+  "WZZ6658": {
+    "route": null,
+    "checked_at": "2026-09-29T15:40:29.344681Z"
   }
 }
