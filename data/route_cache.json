@@ -1253,7 +1253,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-28T19:35:23.046184Z"
+    "checked_at": "2026-09-29T18:55:21.382392Z"
   },
   "BAW998": {
     "route": {
@@ -10187,7 +10187,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T19:00:53.918925Z"
+    "checked_at": "2026-09-29T18:55:21.382392Z"
   },
   "HCX72": {
     "route": null,
@@ -13025,5 +13025,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T18:50:29.990737Z"
+  },
+  "PGT566B": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T18:55:21.382392Z"
+  },
+  "RAM222B": {
+    "route": {
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "SVO",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-09-29T18:55:21.382392Z"
   }
 }
