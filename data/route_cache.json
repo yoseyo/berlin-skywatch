@@ -3098,7 +3098,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-28T11:20:28.419614Z"
+    "checked_at": "2026-09-29T11:15:31.858283Z"
   },
   "KLM26L": {
     "route": {
@@ -6205,10 +6205,6 @@
   "DEBTB": {
     "route": null,
     "checked_at": "2026-09-28T07:00:49.870335Z"
-  },
-  "DMSGP": {
-    "route": null,
-    "checked_at": "2026-09-27T11:15:26.650419Z"
   },
   "TSC419": {
     "route": {
@@ -9964,7 +9960,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T10:15:28.590663Z"
+    "checked_at": "2026-09-29T11:15:31.858283Z"
   },
   "RYR74EM": {
     "route": {
@@ -10212,7 +10208,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T11:35:24.646734Z"
+    "checked_at": "2026-09-29T11:15:31.858283Z"
   },
   "WZZ88": {
     "route": {
@@ -13317,5 +13313,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-29T11:10:30.413310Z"
+  },
+  "DLH9851": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-29T11:15:31.858283Z"
+  },
+  "RYR58ZM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T11:15:31.858283Z"
   }
 }
