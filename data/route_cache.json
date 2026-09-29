@@ -5441,10 +5441,6 @@
     "route": null,
     "checked_at": "2026-09-27T19:11:02.279017Z"
   },
-  "SPWIW": {
-    "route": null,
-    "checked_at": "2026-09-27T12:40:27.239858Z"
-  },
   "RYR62HD": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6227,17 +6223,6 @@
   "DELHB": {
     "route": null,
     "checked_at": "2026-09-28T10:45:28.400566Z"
-  },
-  "SDR17RA": {
-    "route": {
-      "fromCity": "Trieste",
-      "fromIata": "TRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T12:40:27.239858Z"
   },
   "ENT7BT": {
     "route": {
@@ -7043,7 +7028,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T14:50:33.682024Z"
+    "checked_at": "2026-09-29T12:40:34.053471Z"
   },
   "EWG67A": {
     "route": {
@@ -10099,7 +10084,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T12:25:23.846348Z"
+    "checked_at": "2026-09-29T12:40:34.053471Z"
   },
   "SXS1ZN": {
     "route": {
@@ -10132,7 +10117,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T12:36:00.632482Z"
+    "checked_at": "2026-09-29T12:40:34.053471Z"
   },
   "NOZ1105": {
     "route": {
@@ -10187,7 +10172,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T12:45:29.267481Z"
+    "checked_at": "2026-09-29T12:40:34.053471Z"
   },
   "CCA846": {
     "route": {
@@ -13299,5 +13284,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T12:30:42.891531Z"
+  },
+  "PGT714D": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T12:40:34.053471Z"
+  },
+  "NSZ4370": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-29T12:40:34.053471Z"
   }
 }
