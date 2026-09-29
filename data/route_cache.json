@@ -339,7 +339,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-28T15:15:30.746956Z"
+    "checked_at": "2026-09-29T15:10:29.956667Z"
   },
   "FIN79T": {
     "route": {
@@ -372,7 +372,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-28T15:25:21.514616Z"
+    "checked_at": "2026-09-29T15:10:29.956667Z"
   },
   "BAW844": {
     "route": {
@@ -383,7 +383,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T15:00:56.766934Z"
+    "checked_at": "2026-09-29T15:10:29.956667Z"
   },
   "BEL2HJ": {
     "route": {
@@ -3554,7 +3554,7 @@
   },
   "EJU69MZ": {
     "route": null,
-    "checked_at": "2026-09-28T09:40:31.326705Z"
+    "checked_at": "2026-09-29T15:10:29.956667Z"
   },
   "RYR7QZ": {
     "route": {
@@ -3683,7 +3683,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T12:00:51.186937Z"
+    "checked_at": "2026-09-29T15:10:29.956667Z"
   },
   "SAS80D": {
     "route": {
@@ -6149,17 +6149,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-29T12:45:29.082497Z"
-  },
-  "RYR31MR": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T15:10:28.295404Z"
   },
   "EJU69RD": {
     "route": {
@@ -9941,7 +9930,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-09-28T14:25:23.711404Z"
+    "checked_at": "2026-09-29T15:10:29.956667Z"
   },
   "DLH3XV": {
     "route": {
@@ -13114,5 +13103,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T15:05:24.598648Z"
+  },
+  "RYR8VU": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Shannon",
+      "toIata": "SNN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T15:10:29.956667Z"
+  },
+  "CCA957": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-29T15:10:29.956667Z"
   }
 }
