@@ -2462,7 +2462,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T08:00:49.797476Z"
+    "checked_at": "2026-09-29T08:05:24.977776Z"
   },
   "LOT5NA": {
     "route": {
@@ -6159,28 +6159,6 @@
     "route": null,
     "checked_at": "2026-09-28T10:05:25.984568Z"
   },
-  "RYR87DD": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T08:05:22.397651Z"
-  },
-  "RYR9503": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T08:05:22.397651Z"
-  },
   "BTI8QA": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -6245,7 +6223,7 @@
       "airlineName": "Azerbaijan Airlines",
       "airlineCountry": "Azerbaijan"
     },
-    "checked_at": "2026-09-27T08:40:28.293243Z"
+    "checked_at": "2026-09-29T08:05:24.977776Z"
   },
   "RYR7845": {
     "route": {
@@ -13206,5 +13184,20 @@
       "airlineCountry": "South Korea"
     },
     "checked_at": "2026-09-29T07:55:22.885815Z"
+  },
+  "SPDLC": {
+    "route": null,
+    "checked_at": "2026-09-29T08:05:24.977776Z"
+  },
+  "UAL194": {
+    "route": {
+      "fromCity": "San Francisco",
+      "fromIata": "SFO",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-29T08:05:24.977776Z"
   }
 }
