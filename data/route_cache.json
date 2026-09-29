@@ -2396,7 +2396,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T08:05:24.292001Z"
+    "checked_at": "2026-09-29T08:20:31.460532Z"
   },
   "DAL93": {
     "route": {
@@ -2484,7 +2484,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-28T08:00:49.797476Z"
+    "checked_at": "2026-09-29T08:20:31.460532Z"
   },
   "WUK7BU": {
     "route": null,
@@ -2569,7 +2569,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-28T08:40:30.579326Z"
+    "checked_at": "2026-09-29T08:20:31.460532Z"
   },
   "PBB16": {
     "route": null,
@@ -4935,7 +4935,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-28T08:05:24.292001Z"
+    "checked_at": "2026-09-29T08:20:31.460532Z"
   },
   "DLH894": {
     "route": {
@@ -6169,17 +6169,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-29T07:30:40.871187Z"
-  },
-  "LOT3PK": {
-    "route": {
-      "fromCity": "Miami",
-      "fromIata": "MIA",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-27T08:20:27.934824Z"
   },
   "MGH723": {
     "route": {
@@ -11893,7 +11882,7 @@
       "airlineName": "Ryanair UK",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T17:15:30.479809Z"
+    "checked_at": "2026-09-29T08:20:31.460532Z"
   },
   "BTI7702": {
     "route": {
@@ -13207,5 +13196,53 @@
   "DISIS": {
     "route": null,
     "checked_at": "2026-09-29T08:15:28.986260Z"
+  },
+  "AUA22FA": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T08:20:31.460532Z"
+  },
+  "PGT390G": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T08:20:31.460532Z"
+  },
+  "AFR39SV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-09-29T08:20:31.460532Z"
+  },
+  "AUA99J": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T08:20:31.460532Z"
+  },
+  "DMXKT": {
+    "route": null,
+    "checked_at": "2026-09-29T08:20:31.460532Z"
   }
 }
