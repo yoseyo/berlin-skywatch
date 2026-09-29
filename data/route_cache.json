@@ -3587,7 +3587,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-28T13:10:28.728566Z"
+    "checked_at": "2026-09-29T13:00:55.143216Z"
   },
   "UAE57X": {
     "route": {
@@ -6193,10 +6193,6 @@
   "DELHB": {
     "route": null,
     "checked_at": "2026-09-28T10:45:28.400566Z"
-  },
-  "DEJNS": {
-    "route": null,
-    "checked_at": "2026-09-27T12:59:12.257347Z"
   },
   "DMUCD": {
     "route": null,
@@ -13269,5 +13265,16 @@
   "DMKFP": {
     "route": null,
     "checked_at": "2026-09-29T12:55:24.461787Z"
+  },
+  "RYR108X": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T13:00:55.143216Z"
   }
 }
