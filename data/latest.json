@@ -1,25 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "DWC005",
-      "country": "San Marino",
-      "lat": 52.3305,
-      "lon": 12.784,
-      "altKm": 13.5,
-      "speedKmh": 912,
-      "heading": 321,
-      "vertRateMs": -0.3,
-      "category": "plane"
-    },
-    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.229,
-      "lon": 12.783,
-      "altKm": 3.1,
-      "speedKmh": 519,
-      "heading": 77,
-      "vertRateMs": -8.8,
+      "lat": 52.3298,
+      "lon": 13.3258,
+      "altKm": 0.7,
+      "speedKmh": 378,
+      "heading": 69,
+      "vertRateMs": -5.5,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -29,16 +18,39 @@
       "category": "plane"
     },
     {
-      "callsign": "N901X",
-      "country": "United States",
-      "lat": 52.7896,
-      "lon": 13.4105,
-      "altKm": 12.9,
-      "speedKmh": 894,
-      "heading": 119,
-      "vertRateMs": -0.3,
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.3322,
+      "lon": 13.4141,
+      "altKm": 9.5,
+      "speedKmh": 854,
+      "heading": 50,
+      "vertRateMs": 8.1,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
+      "callsign": "SDR70YK",
+      "country": "Germany",
+      "lat": 52.3753,
+      "lon": 13.5168,
+      "altKm": 0.1,
+      "speedKmh": 274,
+      "heading": 69,
+      "vertRateMs": 5.5,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Varna",
+      "toIata": "VAR",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-29T03:25:23.883607Z"
+  "updated_at": "2026-09-29T03:30:39.671386Z"
 }
