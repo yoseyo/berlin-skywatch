@@ -3021,7 +3021,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-28T11:10:28.830021Z"
+    "checked_at": "2026-09-29T11:25:27.188114Z"
   },
   "TKJ2JY": {
     "route": {
@@ -3120,7 +3120,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T11:35:24.646734Z"
+    "checked_at": "2026-09-29T11:25:27.188114Z"
   },
   "DLH4NF": {
     "route": {
@@ -6227,10 +6227,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-28T07:00:49.870335Z"
-  },
-  "DMDHF": {
-    "route": null,
-    "checked_at": "2026-09-27T11:25:24.054901Z"
   },
   "SEXDO": {
     "route": null,
@@ -13324,5 +13320,16 @@
   "DHBEE": {
     "route": null,
     "checked_at": "2026-09-29T11:20:33.527204Z"
+  },
+  "SAS2832": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-29T11:25:27.188114Z"
   }
 }
