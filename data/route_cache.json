@@ -721,7 +721,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T17:05:26.716132Z"
+    "checked_at": "2026-09-29T20:40:28.864650Z"
   },
   "TVF89NN": {
     "route": null,
@@ -1385,7 +1385,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-28T20:10:28.338031Z"
+    "checked_at": "2026-09-29T20:40:28.864650Z"
   },
   "AFR69GW": {
     "route": {
@@ -6514,17 +6514,6 @@
     },
     "checked_at": "2026-09-28T09:40:31.326705Z"
   },
-  "RYR33YN": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T20:35:23.382014Z"
-  },
   "NSZ4378": {
     "route": {
       "fromCity": "Milan",
@@ -10242,7 +10231,7 @@
   },
   "AEG6911": {
     "route": null,
-    "checked_at": "2026-09-28T20:35:23.433654Z"
+    "checked_at": "2026-09-29T20:40:28.864650Z"
   },
   "EWG3GH": {
     "route": {
@@ -13000,5 +12989,27 @@
   "ABP713": {
     "route": null,
     "checked_at": "2026-09-29T20:35:22.998998Z"
+  },
+  "EJU65LD": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T20:40:28.864650Z"
+  },
+  "TAP4BE": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-09-29T20:40:28.864650Z"
   }
 }
