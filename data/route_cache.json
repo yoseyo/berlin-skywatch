@@ -1000,7 +1000,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T17:25:25.999385Z"
+    "checked_at": "2026-09-29T17:25:23.505743Z"
   },
   "BAW846W": {
     "route": {
@@ -5451,7 +5451,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-27T17:30:39.234138Z"
+    "checked_at": "2026-09-29T17:25:23.505743Z"
   },
   "RYR85CE": {
     "route": {
@@ -6348,28 +6348,6 @@
   "DICMD": {
     "route": null,
     "checked_at": "2026-09-29T08:25:24.743480Z"
-  },
-  "SAS67M": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T17:25:21.097873Z"
-  },
-  "WZZ4295": {
-    "route": {
-      "fromCity": "Tuzla",
-      "fromIata": "TZL",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-27T17:25:21.097873Z"
   },
   "JFA65U": {
     "route": null,
@@ -13037,5 +13015,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T17:20:31.564575Z"
+  },
+  "FIN2PX": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-29T17:25:23.505743Z"
+  },
+  "BTI72C": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-09-29T17:25:23.505743Z"
   }
 }
