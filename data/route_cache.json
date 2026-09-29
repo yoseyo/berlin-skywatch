@@ -1974,7 +1974,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-28T09:05:23.159568Z"
+    "checked_at": "2026-09-29T09:45:30.405190Z"
   },
   "PGT820D": {
     "route": {
@@ -2606,7 +2606,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T09:35:24.339439Z"
+    "checked_at": "2026-09-29T09:45:30.405190Z"
   },
   "RYR4TC": {
     "route": {
@@ -2731,7 +2731,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-28T09:30:38.990679Z"
+    "checked_at": "2026-09-29T09:45:30.405190Z"
   },
   "TAP53LB": {
     "route": {
@@ -2764,7 +2764,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T09:40:31.326705Z"
+    "checked_at": "2026-09-29T09:45:30.405190Z"
   },
   "LOT3JA": {
     "route": {
@@ -2808,7 +2808,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-28T09:35:24.339439Z"
+    "checked_at": "2026-09-29T09:45:30.405190Z"
   },
   "RYR3NJ": {
     "route": {
@@ -6129,10 +6129,6 @@
     },
     "checked_at": "2026-09-28T16:15:31.213979Z"
   },
-  "BTX7P": {
-    "route": null,
-    "checked_at": "2026-09-27T09:45:24.972041Z"
-  },
   "SAS1694": {
     "route": {
       "fromCity": "Vienna",
@@ -6143,21 +6139,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-29T09:10:28.695406Z"
-  },
-  "RYR9504": {
-    "route": {
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "Bristol",
-      "toIata": "BRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T09:45:24.972041Z"
-  },
-  "FHGLR": {
-    "route": null,
-    "checked_at": "2026-09-27T09:45:24.972041Z"
   },
   "FIN4LK": {
     "route": {
@@ -7308,7 +7289,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-27T15:20:28.238681Z"
+    "checked_at": "2026-09-29T09:45:30.405190Z"
   },
   "EWG8ZG": {
     "route": {
@@ -13244,5 +13225,50 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-29T09:40:32.070869Z"
+  },
+  "DMAOO": {
+    "route": null,
+    "checked_at": "2026-09-29T09:45:30.405190Z"
+  },
+  "THY1LP": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-29T09:45:30.405190Z"
+  },
+  "SAS4733": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-29T09:45:30.405190Z"
+  },
+  "SDR14ML": {
+    "route": null,
+    "checked_at": "2026-09-29T09:45:30.405190Z"
+  },
+  "EJU96PC": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T09:45:30.405190Z"
+  },
+  "DFKAE": {
+    "route": null,
+    "checked_at": "2026-09-29T09:45:30.405190Z"
   }
 }
