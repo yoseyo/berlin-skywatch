@@ -4545,7 +4545,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-09-28T12:20:31.662585Z"
+    "checked_at": "2026-09-29T20:55:22.616161Z"
   },
   "RAM220M": {
     "route": {
@@ -12912,5 +12912,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-09-29T20:50:31.075875Z"
+  },
+  "EJU96BD": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T20:55:22.616161Z"
+  },
+  "RYR1VL": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T20:55:22.616161Z"
   }
 }
