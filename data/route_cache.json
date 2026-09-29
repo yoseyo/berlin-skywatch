@@ -2665,7 +2665,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T09:05:23.159568Z"
+    "checked_at": "2026-09-29T09:05:24.499595Z"
   },
   "BAW87AM": {
     "route": {
@@ -2687,7 +2687,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-28T09:10:30.182637Z"
+    "checked_at": "2026-09-29T09:05:24.499595Z"
   },
   "THY6EN": {
     "route": {
@@ -2698,7 +2698,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T09:05:23.159568Z"
+    "checked_at": "2026-09-29T09:05:24.499595Z"
   },
   "LOT4LV": {
     "route": {
@@ -2841,7 +2841,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-28T09:00:49.509528Z"
+    "checked_at": "2026-09-29T09:05:24.499595Z"
   },
   "IBE07KH": {
     "route": {
@@ -5375,17 +5375,6 @@
     },
     "checked_at": "2026-09-28T18:55:22.311754Z"
   },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-09-27T09:05:22.529779Z"
-  },
   "ASL44H": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5591,7 +5580,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-28T09:30:38.990679Z"
+    "checked_at": "2026-09-29T09:05:24.499595Z"
   },
   "FHY1281": {
     "route": {
@@ -6180,17 +6169,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-28T16:15:31.213979Z"
-  },
-  "RYR8988": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-27T09:05:22.529779Z"
   },
   "DLH9MA": {
     "route": {
@@ -13307,5 +13285,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T09:00:53.503378Z"
+  },
+  "EJU93RY": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T09:05:24.499595Z"
+  },
+  "TWY69": {
+    "route": null,
+    "checked_at": "2026-09-29T09:05:24.499595Z"
   }
 }
