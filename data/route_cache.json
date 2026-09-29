@@ -3153,7 +3153,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-28T11:25:21.497553Z"
+    "checked_at": "2026-09-29T11:35:23.262507Z"
   },
   "AUA228T": {
     "route": {
@@ -3285,7 +3285,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T11:45:28.770016Z"
+    "checked_at": "2026-09-29T11:35:23.262507Z"
   },
   "PGT93T": {
     "route": {
@@ -5023,7 +5023,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T11:55:22.622850Z"
+    "checked_at": "2026-09-29T11:35:23.262507Z"
   },
   "WZZ9UF": {
     "route": {
@@ -5215,7 +5215,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-09-28T13:35:27.327466Z"
+    "checked_at": "2026-09-29T11:35:23.262507Z"
   },
   "EJU38DP": {
     "route": {
@@ -5499,10 +5499,6 @@
   "BPO701": {
     "route": null,
     "checked_at": "2026-09-27T19:11:02.279017Z"
-  },
-  "DMXIL": {
-    "route": null,
-    "checked_at": "2026-09-27T11:35:22.897912Z"
   },
   "SPWIW": {
     "route": null,
@@ -6227,32 +6223,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-28T07:00:49.870335Z"
-  },
-  "HBFIR": {
-    "route": null,
-    "checked_at": "2026-09-27T11:35:22.897912Z"
-  },
-  "UAE59": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-09-27T11:35:22.897912Z"
-  },
-  "EZY75YJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-27T11:35:22.897912Z"
   },
   "EWG2HC": {
     "route": {
@@ -13342,5 +13312,38 @@
   "NJE756L": {
     "route": null,
     "checked_at": "2026-09-29T11:30:39.827218Z"
+  },
+  "EJU89BR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T11:35:23.262507Z"
+  },
+  "RYR3ZW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T11:35:23.262507Z"
+  },
+  "CSH870": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "Shanghai Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-29T11:35:23.262507Z"
   }
 }
