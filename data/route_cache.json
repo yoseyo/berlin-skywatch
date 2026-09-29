@@ -78,7 +78,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T13:45:29.362807Z"
+    "checked_at": "2026-09-29T13:45:28.461840Z"
   },
   "RYR24XK": {
     "route": {
@@ -3344,7 +3344,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-28T08:10:31.629965Z"
+    "checked_at": "2026-09-29T13:45:28.461840Z"
   },
   "DLH6UT": {
     "route": {
@@ -6200,17 +6200,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T09:20:33.262796Z"
-  },
-  "NSZ3301": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T13:45:27.036338Z"
   },
   "NSZ3582": {
     "route": {
@@ -13196,5 +13185,16 @@
   "PHRST": {
     "route": null,
     "checked_at": "2026-09-29T13:40:30.430480Z"
+  },
+  "EJU1765": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T13:45:28.461840Z"
   }
 }
