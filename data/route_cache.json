@@ -2510,7 +2510,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-28T08:50:28.292320Z"
+    "checked_at": "2026-09-29T08:55:24.396010Z"
   },
   "SWR3TE": {
     "route": null,
@@ -2525,7 +2525,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T08:50:28.292320Z"
+    "checked_at": "2026-09-29T08:55:24.396010Z"
   },
   "TVF41HV": {
     "route": {
@@ -2558,7 +2558,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T09:05:23.159568Z"
+    "checked_at": "2026-09-29T08:55:24.396010Z"
   },
   "AEE8RB": {
     "route": {
@@ -2797,7 +2797,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-28T09:05:23.159568Z"
+    "checked_at": "2026-09-29T08:55:24.396010Z"
   },
   "LOT7VJ": {
     "route": {
@@ -5591,7 +5591,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T06:55:22.657172Z"
+    "checked_at": "2026-09-29T08:55:24.396010Z"
   },
   "SXS8RG": {
     "route": {
@@ -6158,28 +6158,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T04:55:22.991473Z"
-  },
-  "EJU32EY": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-27T08:55:23.133894Z"
-  },
-  "CFG4RY": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-27T08:55:23.133894Z"
   },
   "WZZ22UT": {
     "route": {
@@ -13277,5 +13255,31 @@
   "CEF215": {
     "route": null,
     "checked_at": "2026-09-29T08:50:31.065814Z"
+  },
+  "RYR8PJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-29T08:55:24.396010Z"
+  },
+  "DEXCE": {
+    "route": null,
+    "checked_at": "2026-09-29T08:55:24.396010Z"
+  },
+  "SDR70XN": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-29T08:55:24.396010Z"
   }
 }
