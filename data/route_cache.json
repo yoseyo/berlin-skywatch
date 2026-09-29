@@ -3197,7 +3197,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-28T12:30:40.897170Z"
+    "checked_at": "2026-09-29T12:05:24.780725Z"
   },
   "SAS2733": {
     "route": {
@@ -3230,7 +3230,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T11:55:22.622850Z"
+    "checked_at": "2026-09-29T12:05:24.780725Z"
   },
   "DLH2NE": {
     "route": {
@@ -6212,10 +6212,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-28T09:00:49.509528Z"
-  },
-  "OEGHB": {
-    "route": null,
-    "checked_at": "2026-09-27T12:05:22.333871Z"
   },
   "CAT302": {
     "route": {
@@ -13307,5 +13303,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T12:00:52.441332Z"
+  },
+  "WZZ40LC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-29T12:05:24.780725Z"
   }
 }
