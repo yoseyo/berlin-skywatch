@@ -3065,7 +3065,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T11:25:21.497553Z"
+    "checked_at": "2026-09-29T11:10:30.413310Z"
   },
   "DLH8LY": {
     "route": {
@@ -6205,36 +6205,6 @@
   "DEBTB": {
     "route": null,
     "checked_at": "2026-09-28T07:00:49.870335Z"
-  },
-  "NSZ4501": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-27T11:10:28.123684Z"
-  },
-  "MGH724": {
-    "route": null,
-    "checked_at": "2026-09-27T11:10:28.123684Z"
-  },
-  "NJE104D": {
-    "route": null,
-    "checked_at": "2026-09-27T11:10:28.123684Z"
-  },
-  "FLI7121": {
-    "route": {
-      "fromCity": "Preveza/Lefkada",
-      "fromIata": "PVK",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-09-27T11:10:28.123684Z"
   },
   "DMSGP": {
     "route": null,
@@ -13336,5 +13306,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T11:05:22.210232Z"
+  },
+  "EJU93DL": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-29T11:10:30.413310Z"
   }
 }
