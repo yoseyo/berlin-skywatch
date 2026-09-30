@@ -1,25 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.2627,
-      "lon": 14.0523,
-      "altKm": 6.7,
-      "speedKmh": 513,
-      "heading": 64,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.2648,
-      "lon": 12.8851,
-      "altKm": 2.5,
-      "speedKmh": 515,
-      "heading": 87,
-      "vertRateMs": -7.8,
+      "lat": 52.3404,
+      "lon": 13.37,
+      "altKm": 0.5,
+      "speedKmh": 260,
+      "heading": 69,
+      "vertRateMs": -3.9,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -27,7 +16,24 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.1297,
+      "lon": 13.0817,
+      "altKm": 7.5,
+      "speedKmh": 802,
+      "heading": 44,
+      "vertRateMs": 8.4,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-30T03:25:23.942184Z"
+  "updated_at": "2026-09-30T03:30:41.508346Z"
 }
