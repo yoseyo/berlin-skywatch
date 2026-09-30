@@ -2054,7 +2054,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T06:55:23.703466Z"
+    "checked_at": "2026-09-30T07:15:31.126969Z"
   },
   "SAS767": {
     "route": {
@@ -2065,7 +2065,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T07:00:51.119314Z"
+    "checked_at": "2026-09-30T07:15:31.126969Z"
   },
   "DLH3TR": {
     "route": {
@@ -3855,7 +3855,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-29T08:35:37.650291Z"
+    "checked_at": "2026-09-30T07:15:31.126969Z"
   },
   "UAL963": {
     "route": {
@@ -3867,17 +3867,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-09-29T08:10:30.064331Z"
-  },
-  "EZY78AL": {
-    "route": {
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Saint Helier",
-      "toIata": "JER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-28T07:15:29.847779Z"
   },
   "EJU45GF": {
     "route": {
@@ -5872,10 +5861,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-29T11:00:50.695893Z"
-  },
-  "PTN18E": {
-    "route": null,
-    "checked_at": "2026-09-28T07:15:29.847779Z"
   },
   "EWG45B": {
     "route": {
@@ -12620,5 +12605,16 @@
   "DMVVL": {
     "route": null,
     "checked_at": "2026-09-30T07:10:29.340280Z"
+  },
+  "EZY39MB": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-09-30T07:15:31.126969Z"
   }
 }
