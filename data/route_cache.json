@@ -181,7 +181,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-09-29T06:00:50.851703Z"
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   },
   "SXS8TG": {
     "route": {
@@ -1734,7 +1734,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T05:30:39.365238Z"
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   },
   "EWG7ED": {
     "route": null,
@@ -1749,7 +1749,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T05:35:28.639942Z"
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   },
   "QTR29X": {
     "route": {
@@ -1771,7 +1771,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T05:30:39.365238Z"
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   },
   "SWR5XL": {
     "route": {
@@ -1782,7 +1782,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-29T05:30:39.365238Z"
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   },
   "FIN3AW": {
     "route": {
@@ -3840,7 +3840,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-28T05:40:28.410882Z"
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   },
   "WZZ977": {
     "route": {
@@ -5335,17 +5335,6 @@
     },
     "checked_at": "2026-09-29T03:20:27.511728Z"
   },
-  "EZS91HE": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-09-28T05:30:39.502721Z"
-  },
   "NSZ4AW": {
     "route": {
       "fromCity": "Helsinki",
@@ -6571,7 +6560,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-28T05:25:24.042772Z"
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   },
   "EWG66Y": {
     "route": {
@@ -6594,17 +6583,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-29T05:25:24.768119Z"
-  },
-  "BTI7PY": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-28T05:30:39.502721Z"
   },
   "BTI74A": {
     "route": {
@@ -6638,17 +6616,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T05:45:29.972818Z"
-  },
-  "RYR3PL": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T05:30:39.502721Z"
   },
   "SDR91CF": {
     "route": {
@@ -12908,5 +12875,27 @@
   "ADN95Y": {
     "route": null,
     "checked_at": "2026-09-30T05:25:22.753689Z"
+  },
+  "BLX523": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T05:30:40.655073Z"
+  },
+  "EJU12HB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T05:30:40.655073Z"
   }
 }
