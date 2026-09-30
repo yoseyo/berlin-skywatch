@@ -1418,7 +1418,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T21:35:24.800613Z"
+    "checked_at": "2026-09-30T11:15:28.183163Z"
   },
   "DLH206": {
     "route": {
@@ -2675,7 +2675,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-09-29T09:25:26.454560Z"
+    "checked_at": "2026-09-30T11:15:28.183163Z"
   },
   "EJU5261": {
     "route": {
@@ -6542,28 +6542,6 @@
     },
     "checked_at": "2026-09-30T10:55:23.118508Z"
   },
-  "SAS63M": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-28T11:10:28.830021Z"
-  },
-  "RYR31KN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T11:10:28.830021Z"
-  },
   "CSC9611": {
     "route": {
       "fromCity": "Helsinki",
@@ -6588,7 +6566,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-28T11:25:21.497553Z"
+    "checked_at": "2026-09-30T11:15:28.183163Z"
   },
   "NOZ1104": {
     "route": {
@@ -12542,5 +12520,24 @@
   "JSD944": {
     "route": null,
     "checked_at": "2026-09-30T11:10:28.224233Z"
+  },
+  "EJU63AJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T11:15:28.183163Z"
+  },
+  "CHX84": {
+    "route": null,
+    "checked_at": "2026-09-30T11:15:28.183163Z"
+  },
+  "AWH91Z": {
+    "route": null,
+    "checked_at": "2026-09-30T11:15:28.183163Z"
   }
 }
