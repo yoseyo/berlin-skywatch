@@ -2936,7 +2936,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T10:30:45.617563Z"
+    "checked_at": "2026-09-30T10:45:28.090817Z"
   },
   "SXS1CM": {
     "route": {
@@ -12499,5 +12499,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T10:40:29.444463Z"
+  },
+  "TSC419": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-09-30T10:45:28.090817Z"
+  },
+  "EJU92LR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T10:45:28.090817Z"
+  },
+  "NSZ3298": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T10:45:28.090817Z"
+  },
+  "FIN6TF": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-30T10:45:28.090817Z"
   }
 }
