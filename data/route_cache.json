@@ -837,17 +837,6 @@
     },
     "checked_at": "2026-09-30T17:25:26.652068Z"
   },
-  "DLH9LC": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T17:35:25.555649Z"
-  },
   "AEE8DT": {
     "route": {
       "fromCity": "Athens",
@@ -5322,7 +5311,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-29T17:40:30.135433Z"
+    "checked_at": "2026-09-30T17:40:30.641140Z"
   },
   "AUA237": {
     "route": {
@@ -12245,5 +12234,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T17:35:22.205760Z"
+  },
+  "FIN24Q": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-30T17:40:30.641140Z"
+  },
+  "RYR90GK": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T17:40:30.641140Z"
+  },
+  "CXI35YA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-30T17:40:30.641140Z"
   }
 }
