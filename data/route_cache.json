@@ -1000,7 +1000,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T18:25:24.097658Z"
+    "checked_at": "2026-09-30T18:30:41.898919Z"
   },
   "LGL9473": {
     "route": {
@@ -3862,7 +3862,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-28T18:40:28.002114Z"
+    "checked_at": "2026-09-30T18:30:41.898919Z"
   },
   "THY4AY": {
     "route": {
@@ -6562,17 +6562,6 @@
     },
     "checked_at": "2026-09-30T18:15:29.162038Z"
   },
-  "RYR1CZ": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T18:25:25.018043Z"
-  },
   "WZZ287": {
     "route": {
       "fromCity": "Skopje",
@@ -6685,7 +6674,7 @@
       "airlineName": "Israir Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-09-28T19:15:32.225202Z"
+    "checked_at": "2026-09-30T18:30:41.898919Z"
   },
   "RYR9846": {
     "route": {
@@ -7733,7 +7722,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T08:25:24.743480Z"
+    "checked_at": "2026-09-30T18:30:41.898919Z"
   },
   "DMZBW": {
     "route": null,
@@ -12271,5 +12260,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T18:25:21.307699Z"
+  },
+  "NJE151K": {
+    "route": null,
+    "checked_at": "2026-09-30T18:30:41.898919Z"
+  },
+  "CCA958": {
+    "route": {
+      "fromCity": "Singapore",
+      "fromIata": "SIN",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-30T18:30:41.898919Z"
   }
 }
