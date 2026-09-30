@@ -6641,7 +6641,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-28T19:25:23.069320Z"
+    "checked_at": "2026-09-30T19:15:27.547249Z"
   },
   "CFG2EJ": {
     "route": {
@@ -12283,5 +12283,38 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-09-30T19:10:35.919842Z"
+  },
+  "NSZ5HA": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T19:15:27.547249Z"
+  },
+  "SAS2778": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T19:15:27.547249Z"
+  },
+  "SAS65K": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T19:15:27.547249Z"
   }
 }
