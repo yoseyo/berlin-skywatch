@@ -3985,17 +3985,6 @@
     },
     "checked_at": "2026-09-30T05:00:51.510187Z"
   },
-  "EJU83GC": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T15:20:29.145213Z"
-  },
   "FIN07RT": {
     "route": {
       "fromCity": "Barcelona",
@@ -4006,17 +3995,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-29T11:05:22.210232Z"
-  },
-  "TVF97PR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "ORY",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-28T15:20:29.145213Z"
   },
   "WMT2GJ": {
     "route": {
@@ -5237,7 +5215,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T15:25:23.120868Z"
+    "checked_at": "2026-09-30T15:21:03.705448Z"
   },
   "RYR17PM": {
     "route": {
@@ -6553,17 +6531,6 @@
   "VJT678": {
     "route": null,
     "checked_at": "2026-09-30T13:05:22.195107Z"
-  },
-  "CFG9YT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T15:15:30.746956Z"
   },
   "ABF8": {
     "route": null,
@@ -9911,7 +9878,7 @@
   },
   "DERMS": {
     "route": null,
-    "checked_at": "2026-09-29T17:35:24.133885Z"
+    "checked_at": "2026-09-30T15:21:03.705448Z"
   },
   "EJU95JF": {
     "route": {
@@ -12370,5 +12337,27 @@
   "TYW523P": {
     "route": null,
     "checked_at": "2026-09-30T15:15:29.981562Z"
+  },
+  "CFG9NX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T15:21:03.705448Z"
+  },
+  "RYR6V": {
+    "route": {
+      "fromCity": "Darlington, Durham",
+      "fromIata": "MME",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T15:21:03.705448Z"
   }
 }
