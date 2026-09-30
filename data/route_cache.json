@@ -405,7 +405,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-28T15:35:25.055536Z"
+    "checked_at": "2026-09-30T15:25:23.727111Z"
   },
   "TVF77EX": {
     "route": null,
@@ -4040,17 +4040,6 @@
     },
     "checked_at": "2026-09-30T14:35:21.875711Z"
   },
-  "EJU12QE": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T15:25:21.514616Z"
-  },
   "ICE15M": {
     "route": {
       "fromCity": "Berlin",
@@ -6531,10 +6520,6 @@
   "VJT678": {
     "route": null,
     "checked_at": "2026-09-30T13:05:22.195107Z"
-  },
-  "ABF8": {
-    "route": null,
-    "checked_at": "2026-09-28T15:25:21.514616Z"
   },
   "RYR98AR": {
     "route": {
@@ -12359,5 +12344,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T15:21:03.705448Z"
+  },
+  "UAE9H": {
+    "route": {
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Dubai",
+      "toIata": "DXB",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-09-30T15:25:23.727111Z"
+  },
+  "OEKBE": {
+    "route": null,
+    "checked_at": "2026-09-30T15:25:23.727111Z"
   }
 }
