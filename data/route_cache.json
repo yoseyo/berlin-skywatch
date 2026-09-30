@@ -1363,7 +1363,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T16:15:31.243744Z"
+    "checked_at": "2026-09-30T04:25:23.736170Z"
   },
   "DLH4T": {
     "route": {
@@ -1576,7 +1576,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-29T04:30:40.045798Z"
+    "checked_at": "2026-09-30T04:25:23.736170Z"
   },
   "DLH8MC": {
     "route": {
@@ -1587,7 +1587,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T04:30:40.045798Z"
+    "checked_at": "2026-09-30T04:25:23.736170Z"
   },
   "KLC80U": {
     "route": {
@@ -3807,7 +3807,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T11:50:28.604792Z"
+    "checked_at": "2026-09-30T04:25:23.736170Z"
   },
   "TAP53EI": {
     "route": {
@@ -3829,7 +3829,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-29T05:25:24.768119Z"
+    "checked_at": "2026-09-30T04:25:23.736170Z"
   },
   "WZZ6072": {
     "route": {
@@ -5848,17 +5848,6 @@
     "route": null,
     "checked_at": "2026-09-28T14:45:30.573105Z"
   },
-  "EJU35TP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T04:25:22.494434Z"
-  },
   "CSS101": {
     "route": {
       "fromCity": "Hangzhou",
@@ -6539,32 +6528,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T09:55:23.086987Z"
-  },
-  "RYR63VQ": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T04:20:30.836188Z"
-  },
-  "SXS748": {
-    "route": {
-      "fromCity": "Gaziantep",
-      "fromIata": "GZT",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-28T04:20:30.836188Z"
-  },
-  "EJU5015": {
-    "route": null,
-    "checked_at": "2026-09-28T04:25:22.494434Z"
   },
   "WZZ20KU": {
     "route": {
@@ -12971,5 +12934,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T04:20:29.929539Z"
+  },
+  "FIN23B": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-09-30T04:25:23.736170Z"
   }
 }
