@@ -2998,7 +2998,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-28T11:15:28.785603Z"
+    "checked_at": "2026-09-30T11:10:28.224233Z"
   },
   "RYR6UR": {
     "route": {
@@ -3064,7 +3064,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T11:25:27.188114Z"
+    "checked_at": "2026-09-30T11:10:28.224233Z"
   },
   "DLH4NF": {
     "route": {
@@ -3075,7 +3075,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T11:20:33.527204Z"
+    "checked_at": "2026-09-30T11:10:28.224233Z"
   },
   "EJU72PR": {
     "route": {
@@ -3461,7 +3461,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-29T11:00:50.695893Z"
+    "checked_at": "2026-09-30T11:10:28.224233Z"
   },
   "EJU65CQ": {
     "route": {
@@ -6542,14 +6542,6 @@
     },
     "checked_at": "2026-09-30T10:55:23.118508Z"
   },
-  "GAC702P": {
-    "route": null,
-    "checked_at": "2026-09-28T11:05:24.786801Z"
-  },
-  "ELI30A": {
-    "route": null,
-    "checked_at": "2026-09-28T11:05:24.786801Z"
-  },
   "SAS63M": {
     "route": {
       "fromCity": "Oslo",
@@ -6607,7 +6599,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-28T11:30:41.898664Z"
+    "checked_at": "2026-09-30T11:10:28.224233Z"
   },
   "EJU17HZ": {
     "route": {
@@ -12524,5 +12516,31 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-30T11:05:21.137186Z"
+  },
+  "BEL9CK": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-09-30T11:10:28.224233Z"
+  },
+  "RYR1638": {
+    "route": {
+      "fromCity": "Nottingham",
+      "fromIata": "EMA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T11:10:28.224233Z"
+  },
+  "JSD944": {
+    "route": null,
+    "checked_at": "2026-09-30T11:10:28.224233Z"
   }
 }
