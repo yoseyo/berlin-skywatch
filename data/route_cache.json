@@ -6592,17 +6592,6 @@
     },
     "checked_at": "2026-09-30T20:20:32.667937Z"
   },
-  "RYR866X": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T21:10:28.913299Z"
-  },
   "EJU15BJ": {
     "route": {
       "fromCity": "Copenhagen",
@@ -12389,5 +12378,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-30T21:00:53.395730Z"
+  },
+  "MFX7667": {
+    "route": null,
+    "checked_at": "2026-09-30T21:10:28.951143Z"
+  },
+  "RYR7FD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T21:10:28.951143Z"
+  },
+  "SDR33WB": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T21:10:28.951143Z"
   }
 }
