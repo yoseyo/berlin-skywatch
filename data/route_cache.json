@@ -519,7 +519,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T16:10:31.591580Z"
+    "checked_at": "2026-09-30T16:05:24.063161Z"
   },
   "SWR23F": {
     "route": {
@@ -6528,17 +6528,6 @@
     },
     "checked_at": "2026-09-29T07:15:28.748020Z"
   },
-  "RYR1856": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "HHN",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T16:00:57.993343Z"
-  },
   "LBT232": {
     "route": {
       "fromCity": "Tunis",
@@ -6549,17 +6538,6 @@
       "airlineCountry": "Tunisia"
     },
     "checked_at": "2026-09-30T11:50:28.012042Z"
-  },
-  "RYR119G": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T16:00:57.993343Z"
   },
   "QQE549": {
     "route": null,
@@ -12345,5 +12323,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-30T16:00:55.809212Z"
+  },
+  "TKJ9TC": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-30T16:05:24.063161Z"
   }
 }
