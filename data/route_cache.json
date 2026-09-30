@@ -6542,21 +6542,6 @@
     "route": null,
     "checked_at": "2026-09-30T09:55:24.511587Z"
   },
-  "FIN1YB": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-28T10:15:28.590663Z"
-  },
-  "LUA596M": {
-    "route": null,
-    "checked_at": "2026-09-28T10:15:28.590663Z"
-  },
   "CFE34E": {
     "route": {
       "fromCity": "Berlin",
@@ -6578,17 +6563,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-29T15:20:32.816245Z"
-  },
-  "RYR81YP": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T10:20:29.341743Z"
   },
   "EWG5243": {
     "route": {
@@ -12501,5 +12475,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T10:10:29.120031Z"
+  },
+  "DMIPY": {
+    "route": null,
+    "checked_at": "2026-09-30T10:20:31.287270Z"
+  },
+  "SXS9RW": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-30T10:20:31.287270Z"
   }
 }
