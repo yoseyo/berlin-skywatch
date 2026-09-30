@@ -1988,7 +1988,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T06:35:24.510939Z"
+    "checked_at": "2026-09-30T08:55:23.022192Z"
   },
   "NOZ2XM": {
     "route": {
@@ -6596,17 +6596,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-30T08:30:40.108740Z"
-  },
-  "EWG20W": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T08:55:21.646699Z"
   },
   "RYR93QN": {
     "route": {
@@ -12516,5 +12505,60 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-30T08:45:29.533910Z"
+  },
+  "TSC418": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-09-30T08:55:23.022192Z"
+  },
+  "THY1YM": {
+    "route": {
+      "fromCity": "Kastamonu",
+      "fromIata": "KFS",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-30T08:55:23.022192Z"
+  },
+  "CKK235": {
+    "route": {
+      "fromCity": "Chongqing",
+      "fromIata": "CKG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-30T08:55:23.022192Z"
+  },
+  "LOT3PK": {
+    "route": {
+      "fromCity": "Miami",
+      "fromIata": "MIA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-30T08:55:23.022192Z"
+  },
+  "RYR3RK": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T08:55:23.022192Z"
   }
 }
