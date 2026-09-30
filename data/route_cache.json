@@ -4884,7 +4884,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T09:05:24.499595Z"
+    "checked_at": "2026-09-30T09:10:28.162277Z"
   },
   "PYR013": {
     "route": null,
@@ -9498,7 +9498,7 @@
   },
   "DHAIZ": {
     "route": null,
-    "checked_at": "2026-09-29T07:30:40.871187Z"
+    "checked_at": "2026-09-30T09:10:28.162277Z"
   },
   "N628TS": {
     "route": null,
@@ -9888,7 +9888,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-29T09:15:30.447557Z"
+    "checked_at": "2026-09-30T09:10:28.162277Z"
   },
   "ROF440": {
     "route": null,
@@ -12586,5 +12586,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T09:05:22.754116Z"
+  },
+  "NSZ4363": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Palermo",
+      "toIata": "PMO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T09:10:28.162277Z"
+  },
+  "RYR2YL": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T09:10:28.162277Z"
   }
 }
