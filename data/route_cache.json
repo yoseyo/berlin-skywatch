@@ -155,7 +155,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T07:35:30.792399Z"
+    "checked_at": "2026-09-30T12:25:23.050582Z"
   },
   "AUA21P": {
     "route": {
@@ -3299,7 +3299,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-29T12:00:52.441332Z"
+    "checked_at": "2026-09-30T12:25:23.050582Z"
   },
   "EJU47DE": {
     "route": null,
@@ -3314,7 +3314,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T12:25:23.922463Z"
+    "checked_at": "2026-09-30T12:25:23.050582Z"
   },
   "KLM1314": {
     "route": {
@@ -12604,5 +12604,31 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-30T12:20:33.072757Z"
+  },
+  "CFC2903": {
+    "route": null,
+    "checked_at": "2026-09-30T12:25:23.050582Z"
+  },
+  "EJU5014": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T12:25:23.050582Z"
+  },
+  "MGH392": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-30T12:25:23.050582Z"
   }
 }
