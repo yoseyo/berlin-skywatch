@@ -4339,17 +4339,6 @@
     },
     "checked_at": "2026-09-28T21:15:29.343434Z"
   },
-  "NSZ24N": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-28T20:55:24.407518Z"
-  },
   "RYR98ST": {
     "route": {
       "fromCity": "Berlin",
@@ -5338,17 +5327,6 @@
   "QGA01A": {
     "route": null,
     "checked_at": "2026-09-29T15:35:24.456255Z"
-  },
-  "EJU94YN": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T20:55:24.407518Z"
   },
   "EZY63GU": {
     "route": {
@@ -12389,5 +12367,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T20:50:29.778175Z"
+  },
+  "NSZ7DE": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T21:00:53.395730Z"
+  },
+  "RYR85CE": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T21:00:53.395730Z"
+  },
+  "SAS79E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T21:00:53.395730Z"
   }
 }
