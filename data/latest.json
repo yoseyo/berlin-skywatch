@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "ELY005",
-      "country": "Israel",
-      "lat": 52.3239,
-      "lon": 13.2078,
-      "altKm": 10.8,
-      "speedKmh": 906,
-      "heading": 323,
+      "callsign": "RAM240S",
+      "country": "Morocco",
+      "lat": 52.7878,
+      "lon": 12.9892,
+      "altKm": 11.7,
+      "speedKmh": 862,
+      "heading": 65,
       "vertRateMs": -0.3,
+      "airline": "Royal Air Maroc",
+      "airlineCountry": "Morocco",
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "St. Petersburg",
+      "toIata": "LED",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-30T01:50:30.174321Z"
+  "updated_at": "2026-09-30T01:55:21.483156Z"
 }
