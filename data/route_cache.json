@@ -328,7 +328,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-29T13:35:24.022984Z"
+    "checked_at": "2026-09-30T13:45:30.219224Z"
   },
   "FIN5DL": {
     "route": {
@@ -3895,7 +3895,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T13:23:08.215249Z"
+    "checked_at": "2026-09-30T13:45:30.219224Z"
   },
   "DLH7MR": {
     "route": {
@@ -4061,17 +4061,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-09-28T15:20:29.145213Z"
-  },
-  "SEH875": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-09-28T13:45:29.362807Z"
   },
   "WMT2GJ": {
     "route": {
@@ -4435,7 +4424,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-29T12:10:31.844029Z"
+    "checked_at": "2026-09-30T13:45:30.219224Z"
   },
   "EWG72F": {
     "route": {
@@ -6578,43 +6567,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-30T10:15:28.002175Z"
-  },
-  "JFA29G": {
-    "route": null,
-    "checked_at": "2026-09-28T13:40:32.119555Z"
-  },
-  "WMT411": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-09-28T13:40:32.119555Z"
-  },
-  "CSN6041": {
-    "route": {
-      "fromCity": "\u00dcr\u00fcmqi",
-      "fromIata": "URC",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-28T13:45:29.362807Z"
-  },
-  "EJU9268": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T13:45:29.362807Z"
   },
   "AUH03": {
     "route": null,
@@ -12542,5 +12494,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-30T13:40:28.689085Z"
+  },
+  "EWG9KG": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T13:45:30.219224Z"
+  },
+  "RYR63VQ": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T13:45:30.219224Z"
   }
 }
