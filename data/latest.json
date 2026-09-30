@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "CHX71",
-      "country": "Germany",
-      "lat": 52.2083,
-      "lon": 13.187,
-      "altKm": 1.5,
-      "speedKmh": 205,
-      "heading": 143,
-      "vertRateMs": -0.3,
-      "category": "heli"
+      "callsign": "RYR8201",
+      "country": "Poland",
+      "lat": 52.6697,
+      "lon": 13.6731,
+      "altKm": 11.7,
+      "speedKmh": 905,
+      "heading": 126,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-30T22:35:21.175136Z"
+  "updated_at": "2026-09-30T22:40:28.041615Z"
 }
