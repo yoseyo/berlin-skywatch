@@ -1609,7 +1609,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-29T04:55:22.991473Z"
+    "checked_at": "2026-09-30T05:00:51.510187Z"
   },
   "DLH4RL": {
     "route": {
@@ -4218,7 +4218,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T05:00:50.338112Z"
+    "checked_at": "2026-09-30T05:00:51.510187Z"
   },
   "EJU83GC": {
     "route": {
@@ -6528,10 +6528,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T04:30:40.045798Z"
-  },
-  "DMSSF": {
-    "route": null,
-    "checked_at": "2026-09-28T05:00:48.064595Z"
   },
   "WMT482": {
     "route": {
@@ -12931,5 +12927,27 @@
   "CAT643": {
     "route": null,
     "checked_at": "2026-09-30T04:55:25.720502Z"
+  },
+  "CCA839": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-30T05:00:51.510187Z"
+  },
+  "WZZ9389": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-30T05:00:51.510187Z"
   }
 }
