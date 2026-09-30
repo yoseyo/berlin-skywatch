@@ -2532,7 +2532,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-29T09:20:33.262796Z"
+    "checked_at": "2026-09-30T09:15:28.225380Z"
   },
   "DLH4AK": {
     "route": {
@@ -2635,7 +2635,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T09:05:24.499595Z"
+    "checked_at": "2026-09-30T09:15:28.225380Z"
   },
   "LOT4LV": {
     "route": {
@@ -4356,17 +4356,6 @@
     },
     "checked_at": "2026-09-29T20:30:41.925290Z"
   },
-  "EZY18CE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-28T09:10:30.182637Z"
-  },
   "EIN33W": {
     "route": {
       "fromCity": "Berlin",
@@ -5245,7 +5234,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T09:10:28.695406Z"
+    "checked_at": "2026-09-30T09:15:28.225380Z"
   },
   "FIN4LK": {
     "route": {
@@ -5366,7 +5355,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T11:25:21.497553Z"
+    "checked_at": "2026-09-30T09:15:28.225380Z"
   },
   "HAJEP": {
     "route": null,
@@ -6618,14 +6607,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-29T09:15:30.447557Z"
-  },
-  "FJMFZ": {
-    "route": null,
-    "checked_at": "2026-09-28T09:10:30.182637Z"
-  },
-  "PTO7753": {
-    "route": null,
-    "checked_at": "2026-09-28T09:10:30.182637Z"
   },
   "RYR89YH": {
     "route": {
@@ -12608,5 +12589,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T09:10:28.162277Z"
+  },
+  "SDR70MN": {
+    "route": {
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T09:15:28.225380Z"
   }
 }
