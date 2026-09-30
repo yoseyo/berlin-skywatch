@@ -2201,7 +2201,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T07:40:32.200790Z"
+    "checked_at": "2026-09-30T07:35:58.553529Z"
   },
   "VLG9PX": {
     "route": {
@@ -2234,7 +2234,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T07:30:40.871187Z"
+    "checked_at": "2026-09-30T07:35:58.553529Z"
   },
   "KLM38Z": {
     "route": {
@@ -2245,7 +2245,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-29T07:30:40.871187Z"
+    "checked_at": "2026-09-30T07:35:58.553529Z"
   },
   "RYR9CL": {
     "route": {
@@ -6635,17 +6635,6 @@
     "route": null,
     "checked_at": "2026-09-30T05:55:22.309202Z"
   },
-  "RYR8602": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T07:33:58.352563Z"
-  },
   "SAS2831": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6655,7 +6644,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T07:30:40.871187Z"
+    "checked_at": "2026-09-30T07:35:58.553529Z"
   },
   "CFG3KD": {
     "route": {
@@ -12602,5 +12591,20 @@
   "ATV302": {
     "route": null,
     "checked_at": "2026-09-30T07:30:40.848916Z"
+  },
+  "DLH6LK": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T07:35:58.553529Z"
+  },
+  "NJE675T": {
+    "route": null,
+    "checked_at": "2026-09-30T07:35:58.553529Z"
   }
 }
