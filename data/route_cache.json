@@ -166,7 +166,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-29T14:00:56.110878Z"
+    "checked_at": "2026-09-30T14:00:51.390163Z"
   },
   "RYR96EU": {
     "route": {
@@ -1870,7 +1870,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T06:15:29.409439Z"
+    "checked_at": "2026-09-30T14:00:51.390163Z"
   },
   "KLM1771": {
     "route": {
@@ -5182,7 +5182,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-29T13:50:29.472650Z"
+    "checked_at": "2026-09-30T14:00:51.390163Z"
   },
   "HCX71": {
     "route": null,
@@ -12490,5 +12490,16 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-09-30T13:48:02.116261Z"
+  },
+  "EWG2RM": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T14:00:51.390163Z"
   }
 }
