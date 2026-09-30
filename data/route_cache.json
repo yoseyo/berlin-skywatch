@@ -923,7 +923,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-29T17:30:41.639239Z"
+    "checked_at": "2026-09-30T17:15:32.403823Z"
   },
   "IBE07MV": {
     "route": {
@@ -1198,7 +1198,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T19:20:30.106749Z"
+    "checked_at": "2026-09-30T17:15:32.403823Z"
   },
   "LOT3ND": {
     "route": {
@@ -5263,7 +5263,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-29T16:55:22.136494Z"
+    "checked_at": "2026-09-30T17:15:32.403823Z"
   },
   "EJU5087": {
     "route": null,
@@ -6524,21 +6524,6 @@
   "DGFKH": {
     "route": null,
     "checked_at": "2026-09-30T15:30:41.707496Z"
-  },
-  "TOM97D": {
-    "route": {
-      "fromCity": "Newcastle",
-      "fromIata": "NCL",
-      "toCity": "Dalaman",
-      "toIata": "DLM",
-      "airlineName": "TUI Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-28T17:10:32.511603Z"
-  },
-  "DERSL": {
-    "route": null,
-    "checked_at": "2026-09-28T17:15:30.479809Z"
   },
   "RUK4FM": {
     "route": {
@@ -12237,5 +12222,20 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-30T17:00:55.157114Z"
+  },
+  "GAF608": {
+    "route": null,
+    "checked_at": "2026-09-30T17:15:32.403823Z"
+  },
+  "ASL86W": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-30T17:15:32.403823Z"
   }
 }
