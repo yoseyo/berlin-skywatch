@@ -3358,7 +3358,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T13:05:23.241141Z"
+    "checked_at": "2026-09-30T13:10:30.348171Z"
   },
   "SAS1678": {
     "route": {
@@ -3380,7 +3380,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T13:10:30.325344Z"
+    "checked_at": "2026-09-30T13:10:30.348171Z"
   },
   "EWG7WB": {
     "route": {
@@ -3402,7 +3402,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-29T13:10:30.325344Z"
+    "checked_at": "2026-09-30T13:10:30.348171Z"
   },
   "LOT2PJ": {
     "route": {
@@ -6584,18 +6584,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-29T13:05:23.241141Z"
-  },
-  "EWG8602": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T13:10:28.728566Z"
+    "checked_at": "2026-09-30T13:10:30.348171Z"
   },
   "CFG5ZR": {
     "route": {
@@ -12561,5 +12550,38 @@
   "CHX35": {
     "route": null,
     "checked_at": "2026-09-30T13:05:22.195107Z"
+  },
+  "NOZ1105": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-30T13:10:30.348171Z"
+  },
+  "THY79K": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-30T13:10:30.348171Z"
+  },
+  "EWG99T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T13:10:30.348171Z"
   }
 }
