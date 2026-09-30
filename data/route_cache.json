@@ -3347,7 +3347,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T12:55:24.461787Z"
+    "checked_at": "2026-09-30T12:55:24.837330Z"
   },
   "DLH6MM": {
     "route": {
@@ -6581,28 +6581,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T05:10:28.750489Z"
-  },
-  "RYR12AV": {
-    "route": {
-      "fromCity": "Trieste",
-      "fromIata": "TRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T12:50:31.567054Z"
-  },
-  "VKG037": {
-    "route": {
-      "fromCity": "Preveza/Lefkada",
-      "fromIata": "PVK",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-28T12:55:23.470074Z"
   },
   "MFX7618": {
     "route": null,
@@ -12583,5 +12561,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T12:50:31.273795Z"
+  },
+  "NOZ57GW": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-30T12:55:24.837330Z"
   }
 }
