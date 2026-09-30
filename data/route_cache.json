@@ -6603,21 +6603,6 @@
     },
     "checked_at": "2026-09-30T21:20:30.308747Z"
   },
-  "SDR65HF": {
-    "route": null,
-    "checked_at": "2026-09-28T21:20:34.061872Z"
-  },
-  "SAS7744": {
-    "route": {
-      "fromCity": "Burgas",
-      "fromIata": "BOJ",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-28T21:24:26.257991Z"
-  },
   "RYR8EM": {
     "route": {
       "fromCity": "Bratislava",
@@ -12382,5 +12367,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-30T21:10:28.951143Z"
+  },
+  "NSZ5GT": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T21:25:21.815762Z"
   }
 }

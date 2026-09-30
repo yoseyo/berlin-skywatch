@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "NSZ5GT",
+      "country": "Sweden",
+      "lat": 52.8755,
+      "lon": 13.29,
+      "altKm": 11.7,
+      "speedKmh": 914,
+      "heading": 194,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "category": "plane"
+    },
+    {
       "callsign": "EJU67GK",
       "country": "Austria",
-      "lat": 52.176,
-      "lon": 13.1714,
-      "altKm": 1.4,
-      "speedKmh": 528,
-      "heading": 350,
-      "vertRateMs": -5.2,
+      "lat": 52.3354,
+      "lon": 13.4263,
+      "altKm": 0.3,
+      "speedKmh": 250,
+      "heading": 69,
+      "vertRateMs": -3.6,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Heraklion",
@@ -16,35 +33,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "SRR6227",
-      "country": "Denmark",
-      "lat": 52.4822,
-      "lon": 13.5799,
-      "altKm": 3.2,
-      "speedKmh": 549,
-      "heading": 266,
-      "vertRateMs": 20.5,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "category": "plane"
-    },
-    {
-      "callsign": "EWG6NT",
-      "country": "Germany",
-      "lat": 52.3325,
-      "lon": 13.4139,
-      "altKm": 0.3,
-      "speedKmh": 245,
-      "heading": 69,
-      "vertRateMs": -3.9,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-09-30T21:20:30.308747Z"
+  "updated_at": "2026-09-30T21:25:21.815762Z"
 }
