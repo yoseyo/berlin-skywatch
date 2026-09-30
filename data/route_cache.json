@@ -1143,7 +1143,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T19:30:40.614791Z"
+    "checked_at": "2026-09-30T19:25:24.553248Z"
   },
   "SAS1680": {
     "route": {
@@ -1396,7 +1396,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T19:20:30.918992Z"
+    "checked_at": "2026-09-30T19:25:24.553248Z"
   },
   "EJU34BQ": {
     "route": {
@@ -5280,17 +5280,6 @@
     },
     "checked_at": "2026-09-30T18:50:28.635218Z"
   },
-  "LOT285": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-28T19:25:23.069320Z"
-  },
   "SWR979E": {
     "route": {
       "fromCity": "Berlin",
@@ -5323,17 +5312,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T20:05:22.414555Z"
-  },
-  "WZZ50ML": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-28T19:25:23.069320Z"
   },
   "AUA238N": {
     "route": {
@@ -6566,28 +6544,6 @@
     },
     "checked_at": "2026-09-30T18:30:41.898919Z"
   },
-  "RYR430N": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T19:20:30.106749Z"
-  },
-  "EJU63CR": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T19:25:23.069320Z"
-  },
   "LOT4CN": {
     "route": {
       "fromCity": "Brussels",
@@ -6598,28 +6554,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-30T19:15:27.547249Z"
-  },
-  "CFG2EJ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T19:25:23.069320Z"
-  },
-  "LOT397": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-28T19:25:23.069320Z"
   },
   "EJU57LY": {
     "route": {
@@ -12294,5 +12228,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-30T19:20:29.443717Z"
+  },
+  "ETH3604": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Li\u00e8ge",
+      "toIata": "LGG",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-09-30T19:25:24.553248Z"
   }
 }
