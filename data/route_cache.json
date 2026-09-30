@@ -5326,7 +5326,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-28T10:30:45.378200Z"
+    "checked_at": "2026-09-30T10:10:29.120031Z"
   },
   "EWG1SU": {
     "route": {
@@ -6563,17 +6563,6 @@
   "WMT751": {
     "route": null,
     "checked_at": "2026-09-30T09:55:24.511587Z"
-  },
-  "SDR10EL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-28T10:05:25.984568Z"
   },
   "CFG2FR": {
     "route": {
@@ -12549,5 +12538,16 @@
       "airlineCountry": "Uzbekistan"
     },
     "checked_at": "2026-09-30T10:05:22.629319Z"
+  },
+  "RYR364N": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T10:10:29.120031Z"
   }
 }
