@@ -714,7 +714,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T17:00:51.777309Z"
+    "checked_at": "2026-09-30T17:00:55.157114Z"
   },
   "RYR8RZ": {
     "route": {
@@ -813,7 +813,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-29T17:20:31.564575Z"
+    "checked_at": "2026-09-30T17:00:55.157114Z"
   },
   "KLM1316": {
     "route": {
@@ -5215,7 +5215,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-09-29T16:50:29.023758Z"
+    "checked_at": "2026-09-30T17:00:55.157114Z"
   },
   "AUA234G": {
     "route": {
@@ -6524,21 +6524,6 @@
   "DGFKH": {
     "route": null,
     "checked_at": "2026-09-30T15:30:41.707496Z"
-  },
-  "DKH1667": {
-    "route": {
-      "fromCity": "Zhengzhou",
-      "fromIata": "CGO",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Juneyao Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-28T16:55:23.430994Z"
-  },
-  "T7AKR20": {
-    "route": null,
-    "checked_at": "2026-09-28T17:00:54.674055Z"
   },
   "TOM97D": {
     "route": {
@@ -12230,5 +12215,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-30T16:55:22.735763Z"
+  },
+  "AUA235D": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T17:00:55.157114Z"
+  },
+  "SAS97P": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T17:00:55.157114Z"
   }
 }
