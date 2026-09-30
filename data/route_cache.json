@@ -679,17 +679,6 @@
     },
     "checked_at": "2026-09-29T17:00:51.777309Z"
   },
-  "AUA235D": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T16:50:31.638048Z"
-  },
   "LHX195": {
     "route": {
       "fromCity": "Berlin",
@@ -6532,17 +6521,6 @@
     },
     "checked_at": "2026-09-30T16:30:41.581138Z"
   },
-  "TVF51KY": {
-    "route": {
-      "fromCity": "Nantes",
-      "fromIata": "NTE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-28T16:50:31.638048Z"
-  },
   "DGFKH": {
     "route": null,
     "checked_at": "2026-09-30T15:30:41.707496Z"
@@ -9448,7 +9426,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T16:50:29.023758Z"
+    "checked_at": "2026-09-30T16:55:22.735763Z"
   },
   "N10CD": {
     "route": null,
@@ -9478,7 +9456,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T17:05:25.084959Z"
+    "checked_at": "2026-09-30T16:55:22.735763Z"
   },
   "BBG273": {
     "route": {
@@ -9493,7 +9471,7 @@
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-09-29T17:10:32.459311Z"
+    "checked_at": "2026-09-30T16:55:22.735763Z"
   },
   "RYR53LP": {
     "route": {
@@ -12241,5 +12219,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T16:50:28.653947Z"
+  },
+  "NOZ6VM": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-30T16:55:22.735763Z"
   }
 }
