@@ -1719,7 +1719,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-29T05:10:28.750489Z"
+    "checked_at": "2026-09-30T04:45:28.161920Z"
   },
   "CHX49": {
     "route": null,
@@ -4328,7 +4328,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-29T04:30:40.045798Z"
+    "checked_at": "2026-09-30T04:45:28.161920Z"
   },
   "ICE14T": {
     "route": {
@@ -4546,17 +4546,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-29T03:50:30.766927Z"
-  },
-  "WZZ463H": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Liverpool",
-      "toIata": "LPL",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-28T04:40:30.478691Z"
   },
   "NSZ3730": {
     "route": {
@@ -6528,17 +6517,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-29T14:15:28.952610Z"
-  },
-  "RYR9WM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T04:40:30.478691Z"
   },
   "DLH7FM": {
     "route": {
@@ -12941,5 +12919,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T04:40:27.741685Z"
+  },
+  "PGT1617": {
+    "route": null,
+    "checked_at": "2026-09-30T04:45:28.161920Z"
+  },
+  "CES243": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-30T04:45:28.161920Z"
   }
 }
