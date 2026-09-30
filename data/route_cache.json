@@ -2190,7 +2190,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-29T07:15:28.748020Z"
+    "checked_at": "2026-09-30T07:20:30.377621Z"
   },
   "NSZ89C": {
     "route": {
@@ -4501,7 +4501,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-28T12:50:31.567054Z"
+    "checked_at": "2026-09-30T07:20:30.377621Z"
   },
   "EJU91FL": {
     "route": {
@@ -8092,7 +8092,7 @@
   },
   "BEC001": {
     "route": null,
-    "checked_at": "2026-09-28T14:20:30.415982Z"
+    "checked_at": "2026-09-30T07:20:30.377621Z"
   },
   "RYR46JP": {
     "route": {
@@ -12616,5 +12616,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-30T07:15:31.126969Z"
+  },
+  "AIC129": {
+    "route": {
+      "fromCity": "Mumbai",
+      "fromIata": "BOM",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Air India",
+      "airlineCountry": "India"
+    },
+    "checked_at": "2026-09-30T07:20:30.377621Z"
+  },
+  "LHX9JC": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T07:20:30.377621Z"
   }
 }
