@@ -3998,7 +3998,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-09-29T20:30:41.925290Z"
+    "checked_at": "2026-09-30T20:10:28.782560Z"
   },
   "EIN33W": {
     "route": {
@@ -12327,5 +12327,27 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-09-30T20:06:30.407070Z"
+  },
+  "EWG6901": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T20:10:28.782560Z"
+  },
+  "RYR1155": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T20:10:28.782560Z"
   }
 }
