@@ -1209,7 +1209,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-29T20:15:29.045454Z"
+    "checked_at": "2026-09-30T20:40:27.849657Z"
   },
   "AUA989D": {
     "route": {
@@ -6602,17 +6602,6 @@
   "AEG6911": {
     "route": null,
     "checked_at": "2026-09-30T20:35:21.942674Z"
-  },
-  "EWG3GH": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T20:35:23.433654Z"
   },
   "NSZ2805": {
     "route": {
@@ -12356,5 +12345,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T20:35:21.942674Z"
+  },
+  "WZZ513": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-30T20:40:27.849657Z"
+  },
+  "RYR28BE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T20:40:27.849657Z"
+  },
+  "RYR6908": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T20:40:27.849657Z"
+  },
+  "RYR30TE": {
+    "route": {
+      "fromCity": "Zemunik (Zadar)",
+      "fromIata": "ZAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T20:40:27.849657Z"
   }
 }
