@@ -1723,7 +1723,7 @@
   },
   "CHX49": {
     "route": null,
-    "checked_at": "2026-09-29T10:20:30.426477Z"
+    "checked_at": "2026-09-30T06:20:31.654816Z"
   },
   "DLH4UV": {
     "route": {
@@ -6679,17 +6679,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-09-29T06:15:29.409439Z"
-  },
-  "RYR48UK": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T06:20:29.631903Z"
   },
   "WMT9SL": {
     "route": {
@@ -12783,5 +12772,38 @@
   "SCO801X": {
     "route": null,
     "checked_at": "2026-09-30T06:15:29.919583Z"
+  },
+  "NSZ3748": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Palermo",
+      "toIata": "PMO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T06:20:31.654816Z"
+  },
+  "RYR786D": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T06:20:31.654816Z"
+  },
+  "NOZ1910": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-09-30T06:20:31.654816Z"
   }
 }
