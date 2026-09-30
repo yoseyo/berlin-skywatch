@@ -644,7 +644,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T16:31:18.212352Z"
+    "checked_at": "2026-09-30T16:40:28.598951Z"
   },
   "AUA99HC": {
     "route": {
@@ -714,7 +714,7 @@
   },
   "TVF89NN": {
     "route": null,
-    "checked_at": "2026-09-29T16:40:36.190328Z"
+    "checked_at": "2026-09-30T16:40:28.598951Z"
   },
   "DLH3X": {
     "route": {
@@ -5158,17 +5158,6 @@
     },
     "checked_at": "2026-09-30T14:25:25.299897Z"
   },
-  "EJU41DH": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T16:35:24.446657Z"
-  },
   "N125ME": {
     "route": null,
     "checked_at": "2026-09-29T15:25:23.120868Z"
@@ -5322,7 +5311,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T16:31:18.212352Z"
+    "checked_at": "2026-09-30T16:40:28.598951Z"
   },
   "EWG3V": {
     "route": {
@@ -6531,14 +6520,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T15:55:23.194846Z"
-  },
-  "EJU5165": {
-    "route": null,
-    "checked_at": "2026-09-28T16:35:24.446657Z"
-  },
-  "AAO54": {
-    "route": null,
-    "checked_at": "2026-09-28T16:35:24.446657Z"
   },
   "EJU83XU": {
     "route": {
@@ -12245,5 +12226,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-30T16:35:23.694063Z"
+  },
+  "NSZ4377": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T16:40:28.598951Z"
+  },
+  "EJU5075": {
+    "route": null,
+    "checked_at": "2026-09-30T16:40:28.598951Z"
   }
 }
