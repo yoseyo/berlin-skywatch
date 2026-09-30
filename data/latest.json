@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-09-30T23:40:27.973303Z"
+  "flights": [
+    {
+      "callsign": "RYR6GD",
+      "country": "Poland",
+      "lat": 52.4262,
+      "lon": 12.8936,
+      "altKm": 11.7,
+      "speedKmh": 834,
+      "heading": 87,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Rome",
+      "fromIata": "CIA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-09-30T23:45:24.763777Z"
 }
