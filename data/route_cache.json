@@ -394,7 +394,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-29T15:30:41.313269Z"
+    "checked_at": "2026-09-30T15:45:28.086845Z"
   },
   "AUA978": {
     "route": {
@@ -431,7 +431,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-28T15:50:33.036382Z"
+    "checked_at": "2026-09-30T15:45:28.086845Z"
   },
   "LHX194": {
     "route": {
@@ -453,7 +453,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T15:55:23.194846Z"
+    "checked_at": "2026-09-30T15:45:28.086845Z"
   },
   "EZY71CX": {
     "route": {
@@ -497,7 +497,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T15:50:30.063354Z"
+    "checked_at": "2026-09-30T15:45:28.086845Z"
   },
   "PGT7UZ": {
     "route": {
@@ -585,7 +585,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-29T15:55:23.194846Z"
+    "checked_at": "2026-09-30T15:45:28.086845Z"
   },
   "LOT389": {
     "route": {
@@ -6521,17 +6521,6 @@
     },
     "checked_at": "2026-09-29T15:35:24.456255Z"
   },
-  "NOZ8TF": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-28T15:40:31.058639Z"
-  },
   "RYR938": {
     "route": {
       "fromCity": "Brussels",
@@ -12349,5 +12338,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-30T15:40:29.547246Z"
+  },
+  "EJU57YZ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T15:45:28.086845Z"
   }
 }
