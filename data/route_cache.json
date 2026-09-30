@@ -2881,7 +2881,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-29T10:41:05.916410Z"
+    "checked_at": "2026-09-30T10:35:22.216133Z"
   },
   "PGT54XN": {
     "route": {
@@ -2925,7 +2925,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-29T10:41:05.916410Z"
+    "checked_at": "2026-09-30T10:35:22.216133Z"
   },
   "DLH2HH": {
     "route": {
@@ -3318,7 +3318,7 @@
   },
   "EJU47DE": {
     "route": null,
-    "checked_at": "2026-09-29T12:55:24.461787Z"
+    "checked_at": "2026-09-30T10:35:22.216133Z"
   },
   "SXS6ZK": {
     "route": {
@@ -6556,17 +6556,6 @@
   "UPEM029": {
     "route": null,
     "checked_at": "2026-09-30T06:35:32.334232Z"
-  },
-  "RYR5603": {
-    "route": {
-      "fromCity": "Kaunas",
-      "fromIata": "KUN",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T10:30:45.378200Z"
   },
   "LZB320": {
     "route": {
@@ -12491,5 +12480,31 @@
   "BPO519": {
     "route": null,
     "checked_at": "2026-09-30T10:30:38.595951Z"
+  },
+  "NSZ2MP": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T10:35:22.216133Z"
+  },
+  "HBKHR": {
+    "route": null,
+    "checked_at": "2026-09-30T10:35:22.216133Z"
+  },
+  "ASL506": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-30T10:35:22.216133Z"
   }
 }
