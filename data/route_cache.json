@@ -6130,7 +6130,7 @@
   },
   "EJU5087": {
     "route": null,
-    "checked_at": "2026-09-28T12:20:31.662585Z"
+    "checked_at": "2026-09-30T05:15:29.051567Z"
   },
   "CFE7026": {
     "route": {
@@ -12905,5 +12905,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-30T05:05:24.546379Z"
+  },
+  "EJU85XR": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T05:15:29.051567Z"
+  },
+  "EJU5019": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T05:15:29.051567Z"
   }
 }
