@@ -879,7 +879,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-29T18:35:25.050551Z"
+    "checked_at": "2026-09-30T18:25:21.307699Z"
   },
   "AUA26Z": {
     "route": {
@@ -978,7 +978,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-29T18:05:23.875200Z"
+    "checked_at": "2026-09-30T18:25:21.307699Z"
   },
   "SWR8X": {
     "route": {
@@ -1396,7 +1396,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T20:20:30.010843Z"
+    "checked_at": "2026-09-30T18:25:21.307699Z"
   },
   "SXS5HU": {
     "route": {
@@ -3454,7 +3454,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-29T13:00:55.143216Z"
+    "checked_at": "2026-09-30T18:25:21.307699Z"
   },
   "UAE57X": {
     "route": {
@@ -6551,28 +6551,6 @@
     "route": null,
     "checked_at": "2026-09-30T05:25:22.753689Z"
   },
-  "EZS1589": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-09-28T18:20:30.387731Z"
-  },
-  "HAT146P": {
-    "route": {
-      "fromCity": "Bucharest",
-      "fromIata": "BBU",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Air Taxi",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-09-28T18:20:30.387731Z"
-  },
   "NSZ2067": {
     "route": {
       "fromCity": "Prague",
@@ -9551,7 +9529,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-29T19:00:55.493798Z"
+    "checked_at": "2026-09-30T18:25:21.307699Z"
   },
   "BTI3PR": {
     "route": {
@@ -12271,5 +12249,27 @@
   "VJT473": {
     "route": null,
     "checked_at": "2026-09-30T18:20:29.136375Z"
+  },
+  "QTR24E": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-09-30T18:25:21.307699Z"
+  },
+  "RYR5074": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T18:25:21.307699Z"
   }
 }
