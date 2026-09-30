@@ -1055,7 +1055,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T20:10:29.327933Z"
+    "checked_at": "2026-09-30T18:35:58.548279Z"
   },
   "LOT1LH": {
     "route": {
@@ -2403,7 +2403,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T08:55:24.396010Z"
+    "checked_at": "2026-09-30T18:35:58.548279Z"
   },
   "TVF41HV": {
     "route": {
@@ -5096,17 +5096,6 @@
     "route": null,
     "checked_at": "2026-09-29T15:25:23.120868Z"
   },
-  "WZZ2706": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Debrecen",
-      "toIata": "DEB",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-28T18:30:44.963054Z"
-  },
   "NOZ1123": {
     "route": {
       "fromCity": "Berlin",
@@ -6561,28 +6550,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-30T18:15:29.162038Z"
-  },
-  "WZZ287": {
-    "route": {
-      "fromCity": "Skopje",
-      "fromIata": "SKP",
-      "toCity": "Malm\u00f6",
-      "toIata": "MMX",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-28T18:30:44.963054Z"
-  },
-  "SDR11DL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-28T18:35:25.400609Z"
   },
   "AUA99B": {
     "route": {
@@ -12275,5 +12242,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-30T18:30:41.898919Z"
+  },
+  "ASL44H": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-09-30T18:35:58.548279Z"
   }
 }
