@@ -1,29 +1,44 @@
 {
   "flights": [
     {
-      "callsign": "CHX82",
+      "callsign": "AWH91E",
       "country": "Germany",
-      "lat": 52.4642,
-      "lon": 12.8046,
-      "altKm": 0.6,
-      "speedKmh": 219,
-      "heading": 253,
-      "vertRateMs": -0.3,
+      "lat": 52.3598,
+      "lon": 13.4496,
+      "altKm": 0.5,
+      "speedKmh": 250,
+      "heading": 250,
+      "vertRateMs": 7.8,
       "category": "plane"
     },
     {
       "callsign": "RYR2323",
       "country": "Ireland",
-      "lat": 52.4787,
-      "lon": 13.618,
-      "altKm": 2.6,
-      "speedKmh": 495,
-      "heading": 299,
-      "vertRateMs": 19.5,
+      "lat": 52.4566,
+      "lon": 12.8091,
+      "altKm": 7.3,
+      "speedKmh": 792,
+      "heading": 266,
+      "vertRateMs": 15.0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "St. Athan",
+      "toIata": null,
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS2TR",
+      "country": "Turkey",
+      "lat": 52.1841,
+      "lon": 12.7028,
+      "altKm": 11.4,
+      "speedKmh": 791,
+      "heading": 313,
+      "vertRateMs": -4.9,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-09-30T03:45:29.510465Z"
+  "updated_at": "2026-09-30T03:50:26.858905Z"
 }
