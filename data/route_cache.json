@@ -2311,7 +2311,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T07:35:30.792399Z"
+    "checked_at": "2026-09-30T07:45:29.279625Z"
   },
   "DLH175": {
     "route": {
@@ -5387,10 +5387,6 @@
     },
     "checked_at": "2026-09-29T08:45:30.652479Z"
   },
-  "OMW105": {
-    "route": null,
-    "checked_at": "2026-09-28T07:45:27.905360Z"
-  },
   "FIN1DF": {
     "route": {
       "fromCity": "Split",
@@ -6645,17 +6641,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-09-30T07:30:40.848916Z"
-  },
-  "CKK235": {
-    "route": {
-      "fromCity": "Chongqing",
-      "fromIata": "CKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-28T07:45:27.905360Z"
   },
   "SAS86N": {
     "route": {
@@ -12595,5 +12580,38 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-09-30T07:40:31.587699Z"
+  },
+  "EJU65NU": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T07:45:29.279625Z"
+  },
+  "RYR7398": {
+    "route": {
+      "fromCity": "Pula",
+      "fromIata": "PUY",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T07:45:29.279625Z"
+  },
+  "RYR8AL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Rzesz\u00f3w",
+      "toIata": "RZE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T07:45:29.279625Z"
   }
 }
