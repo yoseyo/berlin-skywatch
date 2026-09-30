@@ -3906,7 +3906,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-28T12:20:31.662585Z"
+    "checked_at": "2026-09-30T12:20:33.072757Z"
   },
   "DLH2WR": {
     "route": {
@@ -4994,7 +4994,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-28T16:10:32.326356Z"
+    "checked_at": "2026-09-30T12:20:33.072757Z"
   },
   "DISAG": {
     "route": null,
@@ -6548,17 +6548,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T11:45:31.498379Z"
-  },
-  "LOT238": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-28T12:20:31.662585Z"
   },
   "LHX849": {
     "route": {
@@ -12589,5 +12578,31 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-30T12:15:30.998661Z"
+  },
+  "HLF8822": {
+    "route": {
+      "fromCity": "Vatry",
+      "fromIata": "XCR",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T12:20:33.072757Z"
+  },
+  "NJE206H": {
+    "route": null,
+    "checked_at": "2026-09-30T12:20:33.072757Z"
+  },
+  "CAI021P": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-30T12:20:33.072757Z"
   }
 }
