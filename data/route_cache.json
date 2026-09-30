@@ -1187,7 +1187,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-29T20:00:49.055328Z"
+    "checked_at": "2026-09-30T19:55:23.539803Z"
   },
   "BEL9NK": {
     "route": {
@@ -1220,7 +1220,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-29T19:45:28.873926Z"
+    "checked_at": "2026-09-30T19:55:23.539803Z"
   },
   "WZZ620U": {
     "route": {
@@ -4009,7 +4009,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T20:00:49.055328Z"
+    "checked_at": "2026-09-30T19:55:23.539803Z"
   },
   "EJU32RT": {
     "route": null,
@@ -4268,17 +4268,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-30T14:25:25.299897Z"
-  },
-  "RYR33KQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T19:50:29.001624Z"
   },
   "RYR28LA": {
     "route": {
@@ -12228,5 +12217,49 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-09-30T19:50:27.737720Z"
+  },
+  "WZZ50ML": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-30T19:55:23.539803Z"
+  },
+  "EJU49CR": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T19:55:23.539803Z"
+  },
+  "LOT6MB": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-09-30T19:55:23.539803Z"
+  },
+  "SAS95W": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T19:55:23.539803Z"
   }
 }
