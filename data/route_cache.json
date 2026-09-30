@@ -78,7 +78,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-29T13:45:28.461840Z"
+    "checked_at": "2026-09-30T13:40:28.689085Z"
   },
   "RYR24XK": {
     "route": {
@@ -3572,7 +3572,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T15:15:28.770430Z"
+    "checked_at": "2026-09-30T13:40:28.689085Z"
   },
   "AUA22S": {
     "route": {
@@ -6579,28 +6579,6 @@
     },
     "checked_at": "2026-09-30T10:15:28.002175Z"
   },
-  "DLH3YM": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T13:35:27.327466Z"
-  },
-  "SXS8VB": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-28T13:35:27.327466Z"
-  },
   "JFA29G": {
     "route": null,
     "checked_at": "2026-09-28T13:40:32.119555Z"
@@ -9476,7 +9454,7 @@
   },
   "DMHPH": {
     "route": null,
-    "checked_at": "2026-09-29T12:20:31.218624Z"
+    "checked_at": "2026-09-30T13:40:28.689085Z"
   },
   "SXS678": {
     "route": {
@@ -12538,5 +12516,31 @@
   "AWH92N": {
     "route": null,
     "checked_at": "2026-09-30T13:35:23.524377Z"
+  },
+  "THY3TR": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-09-30T13:40:28.689085Z"
+  },
+  "DEHKT": {
+    "route": null,
+    "checked_at": "2026-09-30T13:40:28.689085Z"
+  },
+  "CFG6JH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-09-30T13:40:28.689085Z"
   }
 }
