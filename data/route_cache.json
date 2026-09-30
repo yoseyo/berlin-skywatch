@@ -5289,7 +5289,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T16:20:32.046311Z"
+    "checked_at": "2026-09-30T05:40:30.337566Z"
   },
   "RYR5XX": {
     "route": {
@@ -6617,28 +6617,6 @@
     },
     "checked_at": "2026-09-29T05:45:29.972818Z"
   },
-  "SDR91CF": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Hannover",
-      "toIata": "HAJ",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-28T05:35:25.087192Z"
-  },
-  "RYR5979": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T05:35:25.087192Z"
-  },
   "OEEKA": {
     "route": null,
     "checked_at": "2026-09-29T05:35:28.639942Z"
@@ -6653,17 +6631,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T05:35:28.639942Z"
-  },
-  "JTD559": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-28T05:40:28.410882Z"
   },
   "EJU53YB": {
     "route": {
@@ -12908,5 +12875,9 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-30T05:35:22.434343Z"
+  },
+  "DBETI": {
+    "route": null,
+    "checked_at": "2026-09-30T05:40:30.337566Z"
   }
 }
