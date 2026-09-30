@@ -3152,7 +3152,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T12:10:31.844029Z"
+    "checked_at": "2026-09-30T12:00:50.527532Z"
   },
   "AFR92ZN": {
     "route": {
@@ -3163,7 +3163,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-29T11:55:23.530116Z"
+    "checked_at": "2026-09-30T12:00:50.527532Z"
   },
   "DLH9MH": {
     "route": {
@@ -3174,7 +3174,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T12:05:24.780725Z"
+    "checked_at": "2026-09-30T12:00:50.527532Z"
   },
   "DLH2NE": {
     "route": {
@@ -12540,5 +12540,35 @@
   "AXY662F": {
     "route": null,
     "checked_at": "2026-09-30T11:55:22.704064Z"
+  },
+  "RYR50PQ": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T12:00:50.527532Z"
+  },
+  "RYR3EM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T12:00:50.527532Z"
+  },
+  "VJT793": {
+    "route": null,
+    "checked_at": "2026-09-30T12:00:50.527532Z"
+  },
+  "HBJLH": {
+    "route": null,
+    "checked_at": "2026-09-30T12:00:50.527532Z"
   }
 }
