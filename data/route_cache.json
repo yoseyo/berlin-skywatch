@@ -6562,10 +6562,6 @@
     },
     "checked_at": "2026-09-30T03:25:23.942184Z"
   },
-  "ADZ3906": {
-    "route": null,
-    "checked_at": "2026-09-28T03:40:28.370932Z"
-  },
   "MFX7617": {
     "route": null,
     "checked_at": "2026-09-28T04:05:22.985662Z"
@@ -12912,5 +12908,16 @@
   "AWH91W": {
     "route": null,
     "checked_at": "2026-09-30T02:45:27.090862Z"
+  },
+  "CCA898": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-09-30T03:40:29.560707Z"
   }
 }
