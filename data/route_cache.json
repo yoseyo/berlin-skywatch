@@ -3251,7 +3251,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-29T12:55:24.461787Z"
+    "checked_at": "2026-09-30T12:10:30.670894Z"
   },
   "QTR37K": {
     "route": null,
@@ -3266,7 +3266,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-29T12:10:31.844029Z"
+    "checked_at": "2026-09-30T12:10:30.670894Z"
   },
   "EJU57RF": {
     "route": {
@@ -3568,7 +3568,7 @@
   },
   "EWG7DL": {
     "route": null,
-    "checked_at": "2026-09-29T15:20:32.816245Z"
+    "checked_at": "2026-09-30T12:10:30.670894Z"
   },
   "PYR014": {
     "route": null,
@@ -3896,17 +3896,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T09:50:31.394151Z"
-  },
-  "AUA977F": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T12:05:25.213742Z"
   },
   "WZZ93ZW": {
     "route": {
@@ -5182,7 +5171,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-28T12:10:31.656725Z"
+    "checked_at": "2026-09-30T12:10:30.670894Z"
   },
   "EJU71KT": {
     "route": {
@@ -5572,7 +5561,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T17:30:41.639239Z"
+    "checked_at": "2026-09-30T12:10:30.670894Z"
   },
   "BEL3JZ": {
     "route": {
@@ -6548,17 +6537,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-30T11:45:29.296417Z"
-  },
-  "EWG8SP": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-28T12:05:25.213742Z"
   },
   "LHX1HL": {
     "route": {
@@ -12592,5 +12570,50 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-30T12:05:21.860728Z"
+  },
+  "SAS58M": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T12:10:30.670894Z"
+  },
+  "JFA63Y": {
+    "route": null,
+    "checked_at": "2026-09-30T12:10:30.670894Z"
+  },
+  "VPCYW": {
+    "route": null,
+    "checked_at": "2026-09-30T12:10:30.670894Z"
+  },
+  "JDI7MP": {
+    "route": null,
+    "checked_at": "2026-09-30T12:10:30.670894Z"
+  },
+  "MSC2958": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Cairo",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-09-30T12:10:30.670894Z"
+  },
+  "SAS47D": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-09-30T12:10:30.670894Z"
   }
 }
