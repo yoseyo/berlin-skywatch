@@ -780,7 +780,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T17:00:51.777309Z"
+    "checked_at": "2026-09-30T17:45:29.818153Z"
   },
   "EJU82DY": {
     "route": {
@@ -3842,17 +3842,6 @@
     },
     "checked_at": "2026-09-30T13:45:30.219224Z"
   },
-  "BBG271": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-09-28T17:40:30.772664Z"
-  },
   "EWG55E": {
     "route": {
       "fromCity": "London",
@@ -6546,25 +6535,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-29T10:41:05.916410Z"
-  },
-  "RYR3U": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Girona",
-      "toIata": "GRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T17:40:30.772664Z"
-  },
-  "NJE463G": {
-    "route": null,
-    "checked_at": "2026-09-28T17:45:28.509735Z"
-  },
-  "VJT741": {
-    "route": null,
-    "checked_at": "2026-09-28T17:45:28.509735Z"
   },
   "RYR7088": {
     "route": {
@@ -12267,5 +12237,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-09-30T17:40:30.641140Z"
+  },
+  "WZZ2CE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-09-30T17:45:29.818153Z"
   }
 }
