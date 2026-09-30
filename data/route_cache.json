@@ -262,7 +262,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-09-30T02:00:51.151576Z"
+    "checked_at": "2026-09-30T20:20:32.667937Z"
   },
   "DLH192": {
     "route": {
@@ -6599,54 +6599,6 @@
     },
     "checked_at": "2026-09-30T20:15:29.557134Z"
   },
-  "RYR4359": {
-    "route": {
-      "fromCity": "Lanzarote Island",
-      "fromIata": "ACE",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T20:16:03.490442Z"
-  },
-  "RYR7QT": {
-    "route": {
-      "fromCity": "Lanzarote Island",
-      "fromIata": "ACE",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-28T20:16:03.490442Z"
-  },
-  "EJU98HY": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T20:20:30.010843Z"
-  },
-  "JTD244": {
-    "route": {
-      "fromCity": "Preveza/Lefkada",
-      "fromIata": "PVK",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-28T20:20:30.010843Z"
-  },
-  "AXY8432": {
-    "route": null,
-    "checked_at": "2026-09-28T20:20:30.010843Z"
-  },
   "SRN1987": {
     "route": {
       "fromCity": "Pozna\u0144",
@@ -6715,7 +6667,7 @@
       "airlineName": "Swiftair",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-29T20:30:41.925290Z"
+    "checked_at": "2026-09-30T20:20:32.667937Z"
   },
   "JTD528": {
     "route": {
@@ -12360,5 +12312,16 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-30T20:15:29.557134Z"
+  },
+  "EJU37BL": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T20:20:32.667937Z"
   }
 }
