@@ -2741,7 +2741,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-29T09:45:30.405190Z"
+    "checked_at": "2026-09-30T11:35:22.718953Z"
   },
   "RYR3NJ": {
     "route": {
@@ -3472,7 +3472,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-29T13:50:29.472650Z"
+    "checked_at": "2026-09-30T11:35:22.718953Z"
   },
   "AUA230U": {
     "route": {
@@ -6552,17 +6552,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-30T11:10:28.224233Z"
-  },
-  "EJU17HZ": {
-    "route": {
-      "fromCity": "Sevilla",
-      "fromIata": "SVQ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-28T11:30:41.898664Z"
   },
   "SAS1665": {
     "route": {
@@ -12558,5 +12547,27 @@
   "JTD308": {
     "route": null,
     "checked_at": "2026-09-30T11:30:37.978631Z"
+  },
+  "EJU5020": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-09-30T11:35:22.718953Z"
+  },
+  "RYR91SP": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T11:35:22.718953Z"
   }
 }
