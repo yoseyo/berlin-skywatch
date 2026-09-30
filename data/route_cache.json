@@ -3218,7 +3218,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T12:10:31.844029Z"
+    "checked_at": "2026-09-30T11:55:22.704064Z"
   },
   "WMT1RH": {
     "route": {
@@ -3229,7 +3229,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-29T11:50:30.995465Z"
+    "checked_at": "2026-09-30T11:55:22.704064Z"
   },
   "SWR1PL": {
     "route": {
@@ -3241,17 +3241,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-09-29T11:55:23.530116Z"
-  },
-  "THY6XB": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-28T11:55:22.622850Z"
   },
   "VLG48MQ": {
     "route": {
@@ -4481,17 +4470,6 @@
     },
     "checked_at": "2026-09-30T11:30:37.978631Z"
   },
-  "WZZ9UF": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-28T11:55:22.622850Z"
-  },
   "CES244": {
     "route": {
       "fromCity": "Milan",
@@ -4540,10 +4518,6 @@
     },
     "checked_at": "2026-09-30T05:45:27.401169Z"
   },
-  "DMAAC": {
-    "route": null,
-    "checked_at": "2026-09-28T11:50:28.604792Z"
-  },
   "RYR2962": {
     "route": {
       "fromCity": "Birmingham",
@@ -4590,7 +4564,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-09-29T11:35:23.262507Z"
+    "checked_at": "2026-09-30T11:55:22.704064Z"
   },
   "EJU38DP": {
     "route": {
@@ -6574,17 +6548,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-09-30T11:45:29.296417Z"
-  },
-  "IBE0783": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Iberia Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-09-28T11:55:22.622850Z"
   },
   "EWG8SP": {
     "route": {
@@ -12562,5 +12525,20 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-30T11:50:28.012042Z"
+  },
+  "RYR525H": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-09-30T11:55:22.704064Z"
+  },
+  "AXY662F": {
+    "route": null,
+    "checked_at": "2026-09-30T11:55:22.704064Z"
   }
 }
