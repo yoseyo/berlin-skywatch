@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-01T23:35:22.439308Z"
+  "flights": [
+    {
+      "callsign": "VKG755",
+      "country": "Denmark",
+      "lat": 52.6479,
+      "lon": 14.0505,
+      "altKm": 10.8,
+      "speedKmh": 814,
+      "heading": 342,
+      "vertRateMs": 0,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-01T23:40:27.452844Z"
 }
