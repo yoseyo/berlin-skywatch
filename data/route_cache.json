@@ -1782,7 +1782,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-30T06:10:27.823227Z"
+    "checked_at": "2026-10-01T06:20:28.502841Z"
   },
   "AUA223B": {
     "route": {
@@ -1907,7 +1907,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T06:25:24.961650Z"
+    "checked_at": "2026-10-01T06:20:28.502841Z"
   },
   "LOT1VZ": {
     "route": {
@@ -5571,17 +5571,6 @@
     },
     "checked_at": "2026-09-30T06:50:31.227012Z"
   },
-  "ASL94D": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-09-29T06:15:29.409439Z"
-  },
   "LHX5T": {
     "route": {
       "fromCity": "Munich",
@@ -6503,17 +6492,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T05:10:31.466291Z"
-  },
-  "VKG4128": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Espargos",
-      "toIata": "SID",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-09-29T06:15:29.409439Z"
   },
   "CFG3LK": {
     "route": {
@@ -12440,5 +12418,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T06:15:26.758977Z"
+  },
+  "VKG272": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-01T06:20:28.502841Z"
   }
 }
