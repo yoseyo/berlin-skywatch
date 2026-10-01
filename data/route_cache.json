@@ -1951,7 +1951,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T06:25:24.961650Z"
+    "checked_at": "2026-10-01T06:45:29.077544Z"
   },
   "LOT4MH": {
     "route": {
@@ -3730,7 +3730,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-30T07:15:31.126969Z"
+    "checked_at": "2026-10-01T06:45:29.077544Z"
   },
   "UAL963": {
     "route": {
@@ -5510,7 +5510,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-30T06:40:28.978029Z"
+    "checked_at": "2026-10-01T06:45:29.077544Z"
   },
   "WZZ2550": {
     "route": null,
@@ -6481,28 +6481,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-01T05:55:21.225789Z"
-  },
-  "CFG1FE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T06:40:30.318625Z"
-  },
-  "EJU16QM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T06:40:30.318625Z"
   },
   "AFR1434": {
     "route": {
@@ -12503,5 +12481,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-01T06:40:29.813827Z"
+  },
+  "RYR5602": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T06:45:29.077544Z"
   }
 }
