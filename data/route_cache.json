@@ -3189,7 +3189,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T13:15:28.051710Z"
+    "checked_at": "2026-10-01T12:45:28.009095Z"
   },
   "DLH6UT": {
     "route": {
@@ -5670,17 +5670,6 @@
     },
     "checked_at": "2026-09-30T12:15:30.998661Z"
   },
-  "LHX849": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T12:40:34.053471Z"
-  },
   "DLH882": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6498,28 +6487,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-01T11:05:26.078666Z"
-  },
-  "PGT714D": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-29T12:40:34.053471Z"
-  },
-  "NSZ4370": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-29T12:40:34.053471Z"
   },
   "RYR2244": {
     "route": {
@@ -12525,5 +12492,35 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T12:40:30.286459Z"
+  },
+  "EJU83LH": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T12:45:28.009095Z"
+  },
+  "N567PM": {
+    "route": null,
+    "checked_at": "2026-10-01T12:45:28.009095Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T12:45:28.009095Z"
+  },
+  "ATV403": {
+    "route": null,
+    "checked_at": "2026-10-01T12:45:28.009095Z"
   }
 }
