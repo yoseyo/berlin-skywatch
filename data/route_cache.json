@@ -258,7 +258,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T07:10:29.340280Z"
+    "checked_at": "2026-10-01T14:45:30.587128Z"
   },
   "CHX82": {
     "route": null,
@@ -361,7 +361,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T14:46:05.973080Z"
+    "checked_at": "2026-10-01T14:45:30.587128Z"
   },
   "AFR64PU": {
     "route": {
@@ -4587,7 +4587,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T16:00:55.809212Z"
+    "checked_at": "2026-10-01T14:45:30.587128Z"
   },
   "RYR76WJ": {
     "route": {
@@ -5510,7 +5510,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T15:20:32.816245Z"
+    "checked_at": "2026-10-01T14:45:30.587128Z"
   },
   "UPEM029": {
     "route": null,
@@ -12526,5 +12526,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T14:35:23.267763Z"
+  },
+  "FIN4VP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-01T14:45:30.587128Z"
+  },
+  "RYR55VV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T14:45:30.587128Z"
   }
 }
