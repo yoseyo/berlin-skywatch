@@ -1055,7 +1055,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-30T19:00:52.903584Z"
+    "checked_at": "2026-10-01T19:05:24.427757Z"
   },
   "AEE82B": {
     "route": {
@@ -1099,7 +1099,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-30T18:45:27.640725Z"
+    "checked_at": "2026-10-01T19:05:24.427757Z"
   },
   "KLC1335": {
     "route": {
@@ -3561,7 +3561,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T18:40:27.175170Z"
+    "checked_at": "2026-10-01T19:05:24.427757Z"
   },
   "KLM60M": {
     "route": {
@@ -4921,7 +4921,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T18:55:22.935960Z"
+    "checked_at": "2026-10-01T19:05:24.427757Z"
   },
   "NSZ2941": {
     "route": {
@@ -5798,7 +5798,7 @@
       "airlineName": "Compass Cargo Airlines",
       "airlineCountry": "Bulgaria"
     },
-    "checked_at": "2026-09-30T19:10:35.919842Z"
+    "checked_at": "2026-10-01T19:05:24.427757Z"
   },
   "ISR254": {
     "route": {
@@ -12706,5 +12706,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-01T19:00:55.395515Z"
+  },
+  "EJU38AB": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T19:05:24.427757Z"
+  },
+  "DLH898": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T19:05:24.427757Z"
+  },
+  "RYR7BW": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T19:05:24.427757Z"
   }
 }
