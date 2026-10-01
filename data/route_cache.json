@@ -2098,7 +2098,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T07:30:40.848916Z"
+    "checked_at": "2026-10-01T07:30:41.277132Z"
   },
   "EIN3JE": {
     "route": {
@@ -2109,7 +2109,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T07:35:58.553529Z"
+    "checked_at": "2026-10-01T07:30:41.277132Z"
   },
   "VLG9PX": {
     "route": {
@@ -2120,7 +2120,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-30T07:30:40.848916Z"
+    "checked_at": "2026-10-01T07:30:41.277132Z"
   },
   "PGT28RL": {
     "route": {
@@ -4800,7 +4800,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-29T07:25:25.565760Z"
+    "checked_at": "2026-10-01T07:30:41.277132Z"
   },
   "NOZ8BE": {
     "route": {
@@ -6474,21 +6474,6 @@
   "DMTWH": {
     "route": null,
     "checked_at": "2026-10-01T07:05:23.567394Z"
-  },
-  "RYR4422": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T07:25:25.565760Z"
-  },
-  "OEXSA": {
-    "route": null,
-    "checked_at": "2026-09-29T07:25:25.565760Z"
   },
   "RYR7JF": {
     "route": {
@@ -12520,5 +12505,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T07:25:20.582240Z"
+  },
+  "RYR9095": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T07:30:41.277132Z"
+  },
+  "EJU92MK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T07:30:41.277132Z"
   }
 }
