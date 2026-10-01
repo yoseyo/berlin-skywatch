@@ -1598,7 +1598,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-09-30T05:10:31.466291Z"
+    "checked_at": "2026-10-01T05:25:58.716142Z"
   },
   "TVF25AT": {
     "route": {
@@ -1609,7 +1609,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-30T05:35:22.434343Z"
+    "checked_at": "2026-10-01T05:25:58.716142Z"
   },
   "DLH7XV": {
     "route": {
@@ -4596,17 +4596,6 @@
     },
     "checked_at": "2026-09-30T16:30:41.581138Z"
   },
-  "EJU43RL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Olbia (SS)",
-      "toIata": "OLB",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T05:15:29.046669Z"
-  },
   "RYR44BG": {
     "route": {
       "fromCity": "Berlin",
@@ -5365,28 +5354,6 @@
     },
     "checked_at": "2026-10-01T05:00:50.576950Z"
   },
-  "EWG47Z": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T05:15:29.046669Z"
-  },
-  "EWG5QR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T05:15:29.046669Z"
-  },
   "DLH9YA": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5431,17 +5398,6 @@
     },
     "checked_at": "2026-09-30T05:20:30.709118Z"
   },
-  "NSZ3288": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-29T05:25:24.768119Z"
-  },
   "BTI74A": {
     "route": {
       "fromCity": "Riga",
@@ -5451,7 +5407,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-30T05:20:30.709118Z"
+    "checked_at": "2026-10-01T05:25:58.716142Z"
   },
   "BEL2JY": {
     "route": {
@@ -6562,10 +6518,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-30T14:25:25.299897Z"
-  },
-  "WMT7615": {
-    "route": null,
-    "checked_at": "2026-09-29T05:25:24.768119Z"
   },
   "RYR5928": {
     "route": {
@@ -9308,7 +9260,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-30T05:00:51.510187Z"
+    "checked_at": "2026-10-01T05:25:58.716142Z"
   },
   "NOZ1942": {
     "route": {
@@ -11194,7 +11146,7 @@
   },
   "VJH313": {
     "route": null,
-    "checked_at": "2026-09-30T16:25:22.448777Z"
+    "checked_at": "2026-10-01T05:25:58.716142Z"
   },
   "RYR95CH": {
     "route": {
@@ -12410,5 +12362,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-01T05:15:27.983305Z"
+  },
+  "SAS35K": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T05:25:58.716142Z"
   }
 }
