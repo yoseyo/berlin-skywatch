@@ -306,7 +306,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T15:10:29.127204Z"
+    "checked_at": "2026-10-01T20:40:28.288202Z"
   },
   "TKJ9NQ": {
     "route": {
@@ -1033,7 +1033,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T18:35:58.548279Z"
+    "checked_at": "2026-10-01T20:40:28.288202Z"
   },
   "LOT1LH": {
     "route": {
@@ -6651,10 +6651,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T15:00:59.858926Z"
-  },
-  "ABP713": {
-    "route": null,
-    "checked_at": "2026-09-29T20:35:22.998998Z"
   },
   "EJU65LD": {
     "route": {
@@ -12904,5 +12900,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T20:35:22.388001Z"
+  },
+  "RYR9SW": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T20:40:28.288202Z"
   }
 }
