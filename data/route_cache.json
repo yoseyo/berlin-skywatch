@@ -4129,17 +4129,6 @@
     },
     "checked_at": "2026-09-30T11:00:48.786526Z"
   },
-  "MEA246": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-09-29T11:40:31.225938Z"
-  },
   "DLH5MA": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5291,17 +5280,6 @@
     },
     "checked_at": "2026-10-01T05:45:25.952265Z"
   },
-  "EJU53YB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T11:40:31.225938Z"
-  },
   "DMS2PV": {
     "route": {
       "fromCity": "Saarbr\u00fccken",
@@ -5691,17 +5669,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-30T12:15:30.998661Z"
-  },
-  "DLH3TT": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T11:45:31.498379Z"
   },
   "LHX849": {
     "route": {
@@ -6480,17 +6447,6 @@
     },
     "checked_at": "2026-09-30T09:55:24.511587Z"
   },
-  "EWG2MD": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T11:40:31.225938Z"
-  },
   "EJU67GK": {
     "route": {
       "fromCity": "Heraklion",
@@ -6502,10 +6458,6 @@
     },
     "checked_at": "2026-09-30T21:20:30.308747Z"
   },
-  "NJE734Q": {
-    "route": null,
-    "checked_at": "2026-09-29T11:40:31.225938Z"
-  },
   "FIN4ER": {
     "route": {
       "fromCity": "Helsinki",
@@ -6516,17 +6468,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-09-30T13:15:28.051710Z"
-  },
-  "RYR5VH": {
-    "route": {
-      "fromCity": "Paphos",
-      "fromIata": "PFO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T11:45:31.498379Z"
   },
   "BNI5W": {
     "route": null,
@@ -12471,5 +12412,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T11:40:29.320215Z"
+  },
+  "UAE1Y": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Houston",
+      "toIata": "IAH",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-01T11:46:02.695402Z"
+  },
+  "ETD11B": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-01T11:46:02.695402Z"
   }
 }
