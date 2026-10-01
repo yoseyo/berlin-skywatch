@@ -3248,7 +3248,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-09-30T12:40:28.451374Z"
+    "checked_at": "2026-10-01T12:30:42.225960Z"
   },
   "SXS9SE": {
     "route": {
@@ -8859,7 +8859,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T10:10:29.120031Z"
+    "checked_at": "2026-10-01T12:30:42.225960Z"
   },
   "DMIPY": {
     "route": null,
@@ -12447,5 +12447,35 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-01T12:25:23.312090Z"
+  },
+  "BTI3TP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-01T12:30:42.225960Z"
+  },
+  "RYR1CZ": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T12:30:42.225960Z"
+  },
+  "NJE886F": {
+    "route": null,
+    "checked_at": "2026-10-01T12:30:42.225960Z"
+  },
+  "VJT449": {
+    "route": null,
+    "checked_at": "2026-10-01T12:30:42.225960Z"
   }
 }
