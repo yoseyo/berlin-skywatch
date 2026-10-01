@@ -1841,7 +1841,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-30T06:40:28.978029Z"
+    "checked_at": "2026-10-01T06:30:40.397785Z"
   },
   "RYR98HW": {
     "route": {
@@ -1874,7 +1874,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T06:10:27.823227Z"
+    "checked_at": "2026-10-01T06:30:40.397785Z"
   },
   "SAS661": {
     "route": {
@@ -3009,7 +3009,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T07:30:40.848916Z"
+    "checked_at": "2026-10-01T06:30:40.397785Z"
   },
   "KLM29G": {
     "route": {
@@ -4046,7 +4046,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T06:35:24.510939Z"
+    "checked_at": "2026-10-01T06:30:40.397785Z"
   },
   "SAS44A": {
     "route": {
@@ -5455,7 +5455,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T06:50:31.227012Z"
+    "checked_at": "2026-10-01T06:30:40.397785Z"
   },
   "AUA991D": {
     "route": {
@@ -12385,5 +12385,42 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-01T06:20:28.502841Z"
+  },
+  "EWG8588": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T06:30:40.397785Z"
+  },
+  "DEAPR": {
+    "route": null,
+    "checked_at": "2026-10-01T06:30:40.397785Z"
+  },
+  "CFG2CA": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T06:30:40.397785Z"
+  },
+  "RYR938": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T06:30:40.397785Z"
   }
 }
