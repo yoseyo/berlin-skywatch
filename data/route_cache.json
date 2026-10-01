@@ -2186,7 +2186,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T08:05:24.316630Z"
+    "checked_at": "2026-10-01T09:45:32.317593Z"
   },
   "SWR44E": {
     "route": {
@@ -4615,17 +4615,6 @@
     },
     "checked_at": "2026-09-30T09:40:29.885394Z"
   },
-  "AHY064": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Baku",
-      "toIata": "GYD",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-09-29T09:40:32.070869Z"
-  },
   "SAS63Z": {
     "route": {
       "fromCity": "Stockholm",
@@ -4800,7 +4789,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-29T09:45:30.405190Z"
+    "checked_at": "2026-10-01T09:45:32.317593Z"
   },
   "NSZ81MQ": {
     "route": {
@@ -6531,36 +6520,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-01T09:40:31.863514Z"
-  },
-  "SAS4733": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-29T09:45:30.405190Z"
-  },
-  "SDR14ML": {
-    "route": null,
-    "checked_at": "2026-09-29T09:45:30.405190Z"
-  },
-  "EJU96PC": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T09:45:30.405190Z"
-  },
-  "DFKAE": {
-    "route": null,
-    "checked_at": "2026-09-29T09:45:30.405190Z"
   },
   "GAF184": {
     "route": null,
@@ -10690,7 +10649,7 @@
   },
   "VJT426": {
     "route": null,
-    "checked_at": "2026-09-30T17:55:23.185538Z"
+    "checked_at": "2026-10-01T09:45:32.317593Z"
   },
   "KMM376": {
     "route": null,
@@ -12475,5 +12434,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T09:40:31.863514Z"
+  },
+  "NSZ3289": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T09:45:32.317593Z"
   }
 }
