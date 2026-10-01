@@ -284,7 +284,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-30T15:05:23.117080Z"
+    "checked_at": "2026-10-01T15:20:35.818894Z"
   },
   "KLM1779": {
     "route": {
@@ -2910,7 +2910,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T15:50:29.646520Z"
+    "checked_at": "2026-10-01T15:20:35.818894Z"
   },
   "DLH8LY": {
     "route": {
@@ -4363,7 +4363,7 @@
       "airlineName": "China Eastern Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-30T15:30:41.707496Z"
+    "checked_at": "2026-10-01T15:20:35.818894Z"
   },
   "SAS695": {
     "route": {
@@ -6500,17 +6500,6 @@
     "route": null,
     "checked_at": "2026-09-30T17:05:23.532069Z"
   },
-  "RYR1ZN": {
-    "route": {
-      "fromCity": "Killarney",
-      "fromIata": "KIR",
-      "toCity": "Frankfurt am Main",
-      "toIata": "HHN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T15:20:32.816245Z"
-  },
   "LHX1RV": {
     "route": {
       "fromCity": "Berlin",
@@ -6520,7 +6509,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T15:05:23.117080Z"
+    "checked_at": "2026-10-01T15:20:35.818894Z"
   },
   "DENRE": {
     "route": null,
@@ -12533,5 +12522,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T15:15:30.688944Z"
+  },
+  "SAS2963": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T15:20:35.818894Z"
+  },
+  "EWG41H": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T15:20:35.818894Z"
+  },
+  "SAS80D": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T15:20:35.818894Z"
   }
 }
