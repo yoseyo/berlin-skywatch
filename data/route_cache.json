@@ -1679,11 +1679,11 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T05:30:40.655073Z"
+    "checked_at": "2026-10-01T05:40:28.277149Z"
   },
   "EWG7ED": {
     "route": null,
-    "checked_at": "2026-09-30T05:20:30.709118Z"
+    "checked_at": "2026-10-01T05:40:28.277149Z"
   },
   "NSZ8ML": {
     "route": {
@@ -1705,7 +1705,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-30T05:05:24.546379Z"
+    "checked_at": "2026-10-01T05:40:28.277149Z"
   },
   "DLH172": {
     "route": {
@@ -3704,7 +3704,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-30T05:30:40.655073Z"
+    "checked_at": "2026-10-01T05:40:28.277149Z"
   },
   "WZZ977": {
     "route": {
@@ -5430,10 +5430,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T05:00:50.576950Z"
-  },
-  "OEEKA": {
-    "route": null,
-    "checked_at": "2026-09-29T05:35:28.639942Z"
   },
   "EWG5MJ": {
     "route": {
@@ -12377,5 +12373,20 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-01T05:35:22.834503Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T05:40:28.277149Z"
+  },
+  "CAT607": {
+    "route": null,
+    "checked_at": "2026-10-01T05:40:28.277149Z"
   }
 }
