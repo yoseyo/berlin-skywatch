@@ -374,17 +374,6 @@
     },
     "checked_at": "2026-09-30T15:05:23.117080Z"
   },
-  "BAW844": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-29T15:10:29.956667Z"
-  },
   "BEL2HJ": {
     "route": {
       "fromCity": "Brussels",
@@ -3519,17 +3508,6 @@
     },
     "checked_at": "2026-09-30T11:50:28.012042Z"
   },
-  "EWG3AM": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T15:10:29.956667Z"
-  },
   "SAS71T": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6521,28 +6499,6 @@
   "ADN36F": {
     "route": null,
     "checked_at": "2026-09-30T17:05:23.532069Z"
-  },
-  "RYR8VU": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Shannon",
-      "toIata": "SNN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T15:10:29.956667Z"
-  },
-  "CCA957": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-29T15:10:29.956667Z"
   },
   "RYR1ZN": {
     "route": {
@@ -12566,5 +12522,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T15:10:28.784023Z"
+  },
+  "AUA971": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T15:15:30.688944Z"
   }
 }
