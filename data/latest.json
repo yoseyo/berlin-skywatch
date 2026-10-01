@@ -1,40 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "EJU5088",
-      "country": "Austria",
-      "lat": 52.2751,
-      "lon": 13.1969,
-      "altKm": 1.2,
-      "speedKmh": 380,
-      "heading": 45,
-      "vertRateMs": -1.6,
-      "category": "plane"
-    },
-    {
-      "callsign": "CHX71",
-      "country": "Germany",
-      "lat": 52.1598,
-      "lon": 13.5927,
-      "altKm": 0.6,
-      "speedKmh": 203,
-      "heading": 157,
-      "vertRateMs": 0.7,
-      "category": "heli"
-    },
-    {
-      "callsign": "KLM27F",
-      "country": "Kingdom of the Netherlands",
-      "lat": 52.3451,
-      "lon": 13.467,
-      "altKm": 0.1,
-      "speedKmh": 265,
-      "heading": 68,
-      "vertRateMs": -1.9,
-      "airline": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands",
+      "callsign": "TAP4BE",
+      "country": "Portugal",
+      "lat": 52.162,
+      "lon": 12.9665,
+      "altKm": 2.3,
+      "speedKmh": 529,
+      "heading": 46,
+      "vertRateMs": -9.1,
+      "airline": "TAP Portugal",
+      "airlineCountry": "Portugal",
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-01T21:05:24.724110Z"
+  "updated_at": "2026-10-01T21:10:27.838860Z"
 }
