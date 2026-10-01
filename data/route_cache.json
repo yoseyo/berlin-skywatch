@@ -2976,7 +2976,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T11:10:28.224233Z"
+    "checked_at": "2026-10-01T11:40:29.320215Z"
   },
   "DLH4NF": {
     "route": {
@@ -3020,7 +3020,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T11:40:28.961087Z"
+    "checked_at": "2026-10-01T11:40:29.320215Z"
   },
   "TAP31DB": {
     "route": {
@@ -3031,7 +3031,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-09-30T12:50:31.273795Z"
+    "checked_at": "2026-10-01T11:40:29.320215Z"
   },
   "THY8TV": {
     "route": {
@@ -6469,17 +6469,6 @@
     },
     "checked_at": "2026-09-30T11:20:31.817313Z"
   },
-  "EJU89BR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T11:35:23.262507Z"
-  },
   "RYR3ZW": {
     "route": {
       "fromCity": "Berlin",
@@ -6490,17 +6479,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T09:55:24.511587Z"
-  },
-  "CSH870": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "Shanghai Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-29T11:35:23.262507Z"
   },
   "EWG2MD": {
     "route": {
@@ -12445,5 +12423,53 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-01T11:35:22.911090Z"
+  },
+  "DEMHF": {
+    "route": null,
+    "checked_at": "2026-10-01T11:40:29.320215Z"
+  },
+  "RYR5979": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T11:40:29.320215Z"
+  },
+  "PGT870R": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T11:40:29.320215Z"
+  },
+  "EJU16QM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T11:40:29.320215Z"
+  },
+  "RYR2GL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T11:40:29.320215Z"
   }
 }
