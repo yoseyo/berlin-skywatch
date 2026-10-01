@@ -4881,7 +4881,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T17:40:30.641140Z"
+    "checked_at": "2026-10-01T17:40:29.018129Z"
   },
   "AUA237": {
     "route": {
@@ -6581,28 +6581,6 @@
   "DERMS": {
     "route": null,
     "checked_at": "2026-09-30T15:21:03.705448Z"
-  },
-  "EJU95JF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T17:35:24.133885Z"
-  },
-  "DLH7PF": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T17:35:24.133885Z"
   },
   "BAW996G": {
     "route": {
@@ -12622,5 +12600,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T17:35:22.793993Z"
+  },
+  "FIN2PX": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-01T17:40:29.018129Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-01T17:40:29.018129Z"
   }
 }
