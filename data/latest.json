@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-01T22:41:05.029237Z"
+  "flights": [
+    {
+      "callsign": "WMT5TD",
+      "country": "Malta",
+      "lat": 52.6879,
+      "lon": 13.3998,
+      "altKm": 11.1,
+      "speedKmh": 813,
+      "heading": 176,
+      "vertRateMs": 0,
+      "airline": "Wizz Air Malta",
+      "airlineCountry": "Malta",
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-01T22:45:27.085201Z"
 }
