@@ -4881,7 +4881,7 @@
   },
   "LEJ110": {
     "route": null,
-    "checked_at": "2026-09-30T07:16:11.326334Z"
+    "checked_at": "2026-10-01T06:40:29.813827Z"
   },
   "CFE27PM": {
     "route": {
@@ -6481,17 +6481,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-01T05:55:21.225789Z"
-  },
-  "NOZ1950": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-29T06:35:24.510939Z"
   },
   "CFG1FE": {
     "route": {
@@ -12492,5 +12481,27 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-01T06:35:23.840301Z"
+  },
+  "THY5CS": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T06:40:29.813827Z"
+  },
+  "SAS31T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T06:40:29.813827Z"
   }
 }
