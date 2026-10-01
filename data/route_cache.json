@@ -2631,7 +2631,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-30T09:35:24.243794Z"
+    "checked_at": "2026-10-01T09:35:33.132797Z"
   },
   "KLM75C": {
     "route": {
@@ -3752,7 +3752,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-30T09:00:51.192513Z"
+    "checked_at": "2026-10-01T09:35:33.132797Z"
   },
   "RYR1EK": {
     "route": {
@@ -4106,17 +4106,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-30T06:55:22.917754Z"
-  },
-  "MEA245": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-09-29T09:30:43.007008Z"
   },
   "EJU17TX": {
     "route": {
@@ -4613,7 +4602,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T09:15:28.225380Z"
+    "checked_at": "2026-10-01T09:35:33.132797Z"
   },
   "ELY2372": {
     "route": {
@@ -6516,10 +6505,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T09:25:24.239294Z"
-  },
-  "NJE519E": {
-    "route": null,
-    "checked_at": "2026-09-29T09:30:43.007008Z"
   },
   "CAI17QT": {
     "route": {
@@ -12435,5 +12420,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-01T09:20:30.800948Z"
+  },
+  "WZZ54P": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-01T09:35:33.132797Z"
+  },
+  "RYR939": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T09:35:33.132797Z"
   }
 }
