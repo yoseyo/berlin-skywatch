@@ -714,7 +714,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T09:05:22.754116Z"
+    "checked_at": "2026-10-01T20:05:22.574471Z"
   },
   "RYR77CN": {
     "route": {
@@ -1198,7 +1198,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T19:55:23.539803Z"
+    "checked_at": "2026-10-01T20:05:22.574471Z"
   },
   "WZZ620U": {
     "route": {
@@ -1231,7 +1231,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T20:00:48.891668Z"
+    "checked_at": "2026-10-01T20:05:22.574471Z"
   },
   "RYR8YY": {
     "route": {
@@ -4155,17 +4155,6 @@
     },
     "checked_at": "2026-09-30T05:05:24.546379Z"
   },
-  "SAS2690": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-29T20:05:22.414555Z"
-  },
   "BTI8GC": {
     "route": {
       "fromCity": "Zurich",
@@ -6619,10 +6608,6 @@
     },
     "checked_at": "2026-10-01T18:25:21.360240Z"
   },
-  "T7PMM": {
-    "route": null,
-    "checked_at": "2026-09-29T20:00:49.055328Z"
-  },
   "WZZ4BB": {
     "route": {
       "fromCity": "Berlin",
@@ -6820,7 +6805,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-29T21:20:30.132103Z"
+    "checked_at": "2026-10-01T20:05:22.574471Z"
   },
   "NOZ1851": {
     "route": {
@@ -12882,5 +12867,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T20:00:48.817947Z"
+  },
+  "CXI16NP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-01T20:05:22.574471Z"
   }
 }
