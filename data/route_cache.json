@@ -486,7 +486,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T15:45:28.086845Z"
+    "checked_at": "2026-10-01T15:40:38.498794Z"
   },
   "PGT7UZ": {
     "route": {
@@ -519,7 +519,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T15:55:22.154900Z"
+    "checked_at": "2026-10-01T15:40:38.498794Z"
   },
   "DMS2RV": {
     "route": {
@@ -4734,7 +4734,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T15:21:03.705448Z"
+    "checked_at": "2026-10-01T15:40:38.498794Z"
   },
   "RYR17PM": {
     "route": {
@@ -6528,21 +6528,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-30T15:40:29.547246Z"
-  },
-  "EJU31GQ": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T15:40:29.344681Z"
-  },
-  "WZZ6658": {
-    "route": null,
-    "checked_at": "2026-09-29T15:40:29.344681Z"
   },
   "N759SB": {
     "route": null,
@@ -9427,7 +9412,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T16:30:41.581138Z"
+    "checked_at": "2026-10-01T15:40:38.498794Z"
   },
   "LDX600C": {
     "route": null,
@@ -12570,5 +12555,16 @@
   "MFX7611": {
     "route": null,
     "checked_at": "2026-10-01T15:35:26.253240Z"
+  },
+  "EJU61PU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T15:40:38.498794Z"
   }
 }
