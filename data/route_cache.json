@@ -2370,7 +2370,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T18:35:58.548279Z"
+    "checked_at": "2026-10-01T08:55:21.657153Z"
   },
   "TVF41HV": {
     "route": {
@@ -5847,17 +5847,6 @@
     },
     "checked_at": "2026-09-30T12:40:28.451374Z"
   },
-  "RYR30RG": {
-    "route": {
-      "fromCity": "Banja Luka",
-      "fromIata": "BNX",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T08:50:31.065814Z"
-  },
   "DLH891": {
     "route": {
       "fromCity": "Riga",
@@ -6388,7 +6377,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T14:25:25.299897Z"
+    "checked_at": "2026-10-01T08:55:21.657153Z"
   },
   "RYR5928": {
     "route": {
@@ -6531,29 +6520,6 @@
   "BPO506": {
     "route": null,
     "checked_at": "2026-09-30T06:55:22.917754Z"
-  },
-  "DMADH": {
-    "route": null,
-    "checked_at": "2026-09-29T08:50:31.065814Z"
-  },
-  "EWG44ME": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T08:50:31.065814Z"
-  },
-  "AIB547A": {
-    "route": null,
-    "checked_at": "2026-09-29T08:50:31.065814Z"
-  },
-  "CEF215": {
-    "route": null,
-    "checked_at": "2026-09-29T08:50:31.065814Z"
   },
   "RYR8PJ": {
     "route": {
@@ -12525,5 +12491,31 @@
   "BPO512": {
     "route": null,
     "checked_at": "2026-10-01T08:50:27.834836Z"
+  },
+  "SAS63M": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T08:55:21.657153Z"
+  },
+  "RYR671D": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T08:55:21.657153Z"
+  },
+  "DMWBA": {
+    "route": null,
+    "checked_at": "2026-10-01T08:55:21.657153Z"
   }
 }
