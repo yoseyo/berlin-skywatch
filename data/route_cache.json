@@ -3895,7 +3895,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T14:35:21.875711Z"
+    "checked_at": "2026-10-01T14:20:29.391092Z"
   },
   "ICE15M": {
     "route": {
@@ -5676,7 +5676,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-29T15:05:24.598648Z"
+    "checked_at": "2026-10-01T14:20:29.391092Z"
   },
   "EJU97JM": {
     "route": {
@@ -12578,5 +12578,20 @@
   "NJE686K": {
     "route": null,
     "checked_at": "2026-10-01T14:17:37.495893Z"
+  },
+  "BEL5XD": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-01T14:20:29.391092Z"
+  },
+  "PAV651": {
+    "route": null,
+    "checked_at": "2026-10-01T14:20:29.391092Z"
   }
 }
