@@ -2392,7 +2392,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-30T08:50:28.690462Z"
+    "checked_at": "2026-10-01T08:40:28.127845Z"
   },
   "SAS85J": {
     "route": {
@@ -3550,7 +3550,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T15:10:29.127204Z"
+    "checked_at": "2026-10-01T08:40:28.127845Z"
   },
   "BBG272": {
     "route": {
@@ -4451,7 +4451,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T08:20:29.336948Z"
+    "checked_at": "2026-10-01T08:40:28.127845Z"
   },
   "SAS44L": {
     "route": {
@@ -6108,7 +6108,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T15:50:29.646520Z"
+    "checked_at": "2026-10-01T08:40:28.127845Z"
   },
   "ISR253": {
     "route": {
@@ -6527,21 +6527,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-09-30T18:30:41.898919Z"
-  },
-  "RYR37CU": {
-    "route": {
-      "fromCity": "Leeds",
-      "fromIata": "LBA",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T08:35:37.650291Z"
-  },
-  "PYR005": {
-    "route": null,
-    "checked_at": "2026-09-29T08:35:37.650291Z"
   },
   "GAF734": {
     "route": null,
@@ -12536,5 +12521,16 @@
   "TYW524P": {
     "route": null,
     "checked_at": "2026-10-01T08:35:21.459057Z"
+  },
+  "NSZ82ME": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T08:40:28.127845Z"
   }
 }
