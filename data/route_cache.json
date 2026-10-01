@@ -2197,7 +2197,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T07:40:31.587699Z"
+    "checked_at": "2026-10-01T07:40:26.925214Z"
   },
   "QTR85X": {
     "route": {
@@ -2219,7 +2219,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T07:45:29.279625Z"
+    "checked_at": "2026-10-01T07:40:26.925214Z"
   },
   "DLH175": {
     "route": {
@@ -2274,7 +2274,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T07:50:28.432842Z"
+    "checked_at": "2026-10-01T07:40:26.925214Z"
   },
   "CTN480": {
     "route": {
@@ -5607,17 +5607,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T07:45:31.460898Z"
-  },
-  "ASL19P": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-09-29T07:35:30.792399Z"
   },
   "LHX5PN": {
     "route": {
@@ -12531,5 +12520,27 @@
   "GAF701": {
     "route": null,
     "checked_at": "2026-10-01T07:33:28.718170Z"
+  },
+  "SAS62T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T07:40:26.925214Z"
+  },
+  "SAS86N": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T07:40:26.925214Z"
   }
 }
