@@ -4923,17 +4923,6 @@
     },
     "checked_at": "2026-10-01T19:05:24.427757Z"
   },
-  "NSZ2941": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "BGY",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-29T19:30:40.614791Z"
-  },
   "EWG9QC": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6619,17 +6608,6 @@
     },
     "checked_at": "2026-10-01T18:50:29.048292Z"
   },
-  "NOZ1923": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-29T19:30:40.614791Z"
-  },
   "SXS5UE": {
     "route": {
       "fromCity": "Berlin",
@@ -7558,7 +7536,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T08:35:22.711305Z"
+    "checked_at": "2026-10-01T19:30:41.688603Z"
   },
   "NJE745Q": {
     "route": null,
@@ -12783,5 +12761,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T19:25:25.383112Z"
+  },
+  "RYR5ME": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T19:30:41.688603Z"
+  },
+  "BAW997T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-01T19:30:41.688603Z"
   }
 }
