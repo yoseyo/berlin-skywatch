@@ -317,7 +317,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T14:40:29.940033Z"
+    "checked_at": "2026-10-01T15:00:59.858926Z"
   },
   "KLM49N": {
     "route": {
@@ -4374,7 +4374,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-29T15:15:28.770430Z"
+    "checked_at": "2026-10-01T15:00:59.858926Z"
   },
   "CES787": {
     "route": {
@@ -4708,7 +4708,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-30T15:00:59.247223Z"
+    "checked_at": "2026-10-01T15:00:59.858926Z"
   },
   "AUA233": {
     "route": {
@@ -6522,25 +6522,6 @@
     "route": null,
     "checked_at": "2026-09-30T17:05:23.532069Z"
   },
-  "EJU72EC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T15:00:55.355585Z"
-  },
-  "DEOYS": {
-    "route": null,
-    "checked_at": "2026-09-29T15:00:55.355585Z"
-  },
-  "DEXRE": {
-    "route": null,
-    "checked_at": "2026-09-29T15:00:55.355585Z"
-  },
   "CFG5AK": {
     "route": {
       "fromCity": "Berlin",
@@ -7246,7 +7227,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-29T20:20:29.986063Z"
+    "checked_at": "2026-10-01T15:00:59.858926Z"
   },
   "NOZ1WC": {
     "route": {
@@ -12555,5 +12536,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T14:55:22.283107Z"
+  },
+  "ENT7SY": {
+    "route": null,
+    "checked_at": "2026-10-01T15:00:59.858926Z"
+  },
+  "BTI8QA": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-01T15:00:59.858926Z"
+  },
+  "DLH7MR": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T15:00:59.858926Z"
   }
 }
