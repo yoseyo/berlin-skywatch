@@ -8353,7 +8353,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T12:10:30.670894Z"
+    "checked_at": "2026-10-01T20:00:48.817947Z"
   },
   "SXS5DW": {
     "route": {
@@ -12827,5 +12827,60 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-01T19:55:21.994026Z"
+  },
+  "BTI9GR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-01T20:00:48.817947Z"
+  },
+  "CSS102": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "SF Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-01T20:00:48.817947Z"
+  },
+  "EJU15BJ": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T20:00:48.817947Z"
+  },
+  "RYR42MY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T20:00:48.817947Z"
+  },
+  "RYR81YP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T20:00:48.817947Z"
   }
 }
