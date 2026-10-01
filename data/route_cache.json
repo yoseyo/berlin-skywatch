@@ -1918,7 +1918,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T08:55:23.022192Z"
+    "checked_at": "2026-10-01T10:25:25.098198Z"
   },
   "NOZ2XM": {
     "route": {
@@ -2822,7 +2822,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T10:30:38.595951Z"
+    "checked_at": "2026-10-01T10:25:25.098198Z"
   },
   "FIN50M": {
     "route": {
@@ -5816,7 +5816,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-30T10:15:28.002175Z"
+    "checked_at": "2026-10-01T10:25:25.098198Z"
   },
   "PGT685B": {
     "route": null,
@@ -6494,10 +6494,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T10:05:24.975766Z"
-  },
-  "GAF220": {
-    "route": null,
-    "checked_at": "2026-09-29T10:20:30.426477Z"
   },
   "NOZ1951": {
     "route": {
@@ -12404,5 +12400,20 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-01T10:20:28.691789Z"
+  },
+  "PGT21PC": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T10:25:25.098198Z"
+  },
+  "DEQML": {
+    "route": null,
+    "checked_at": "2026-10-01T10:25:25.098198Z"
   }
 }
