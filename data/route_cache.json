@@ -1885,7 +1885,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T06:45:29.412360Z"
+    "checked_at": "2026-10-01T06:35:23.840301Z"
   },
   "SWR97Y": {
     "route": {
@@ -1929,7 +1929,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-30T06:45:29.412360Z"
+    "checked_at": "2026-10-01T06:35:23.840301Z"
   },
   "RYR97WV": {
     "route": {
@@ -5536,7 +5536,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-09-30T06:25:24.961650Z"
+    "checked_at": "2026-10-01T06:35:23.840301Z"
   },
   "LOT403": {
     "route": {
@@ -6524,7 +6524,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-30T06:30:40.839420Z"
+    "checked_at": "2026-10-01T06:35:23.840301Z"
   },
   "DACDC": {
     "route": null,
@@ -6550,7 +6550,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-09-30T06:30:40.839420Z"
+    "checked_at": "2026-10-01T06:35:23.840301Z"
   },
   "VJH334": {
     "route": null,
@@ -12422,5 +12422,75 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T06:30:40.397785Z"
+  },
+  "SAS1693": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T06:35:23.840301Z"
+  },
+  "THY73G": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T06:35:23.840301Z"
+  },
+  "FIN1AB": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-01T06:35:23.840301Z"
+  },
+  "DIGRK": {
+    "route": null,
+    "checked_at": "2026-10-01T06:35:23.840301Z"
+  },
+  "WZZ1BD": {
+    "route": {
+      "fromCity": "Timi\u015foara",
+      "fromIata": "TSR",
+      "toCity": "Frankfurt am Main",
+      "toIata": "HHN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-01T06:35:23.840301Z"
+  },
+  "WMT3CL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cluj-Napoca",
+      "toIata": "CLJ",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-01T06:35:23.840301Z"
+  },
+  "ASL94D": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-01T06:35:23.840301Z"
   }
 }
