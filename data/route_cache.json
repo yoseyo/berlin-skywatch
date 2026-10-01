@@ -3226,7 +3226,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T12:25:23.050582Z"
+    "checked_at": "2026-10-01T12:40:30.286459Z"
   },
   "KLM1314": {
     "route": {
@@ -3906,7 +3906,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-09-30T12:40:28.451374Z"
+    "checked_at": "2026-10-01T12:40:30.286459Z"
   },
   "RYR8TQ": {
     "route": {
@@ -5701,7 +5701,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T12:40:34.053471Z"
+    "checked_at": "2026-10-01T12:40:30.286459Z"
   },
   "DEUNK": {
     "route": null,
@@ -8748,7 +8748,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T09:50:29.925009Z"
+    "checked_at": "2026-10-01T12:40:30.286459Z"
   },
   "DEADX": {
     "route": null,
@@ -12514,5 +12514,16 @@
   "FHVYC": {
     "route": null,
     "checked_at": "2026-10-01T12:35:26.540563Z"
+  },
+  "DLH1RE": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T12:40:30.286459Z"
   }
 }
