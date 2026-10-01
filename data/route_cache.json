@@ -1554,7 +1554,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-30T05:00:51.510187Z"
+    "checked_at": "2026-10-01T04:50:28.231976Z"
   },
   "DLH4RL": {
     "route": {
@@ -4359,7 +4359,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T05:10:28.750489Z"
+    "checked_at": "2026-10-01T04:50:28.231976Z"
   },
   "WZZ1BD": {
     "route": {
@@ -12366,5 +12366,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T04:45:29.581343Z"
+  },
+  "SAS791": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T04:50:28.231976Z"
+  },
+  "RYR6505": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T04:50:28.231976Z"
   }
 }
