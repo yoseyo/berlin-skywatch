@@ -6469,10 +6469,6 @@
     "route": null,
     "checked_at": "2026-09-30T11:00:48.786526Z"
   },
-  "DHBEE": {
-    "route": null,
-    "checked_at": "2026-09-29T11:20:33.527204Z"
-  },
   "SAS2832": {
     "route": {
       "fromCity": "Split",
@@ -9585,7 +9581,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T12:50:31.273795Z"
+    "checked_at": "2026-10-01T11:25:23.267383Z"
   },
   "NOZ57GW": {
     "route": {
@@ -12386,5 +12382,16 @@
   "OKPCG": {
     "route": null,
     "checked_at": "2026-10-01T11:20:29.210679Z"
+  },
+  "RYR24AN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T11:25:23.267383Z"
   }
 }
