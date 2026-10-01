@@ -1521,7 +1521,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-09-30T04:25:23.736170Z"
+    "checked_at": "2026-10-01T04:35:23.160939Z"
   },
   "DLH8MC": {
     "route": {
@@ -1543,7 +1543,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T04:35:21.740823Z"
+    "checked_at": "2026-10-01T04:35:23.160939Z"
   },
   "IBE07BZ": {
     "route": {
@@ -1830,7 +1830,7 @@
   },
   "EWG6NT": {
     "route": null,
-    "checked_at": "2026-09-30T14:25:25.299897Z"
+    "checked_at": "2026-10-01T04:35:23.160939Z"
   },
   "EJU46ZJ": {
     "route": {
@@ -4596,17 +4596,6 @@
     },
     "checked_at": "2026-09-29T04:40:28.868724Z"
   },
-  "EWG27P": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T04:35:22.979584Z"
-  },
   "RYR3LF": {
     "route": {
       "fromCity": "Marseille",
@@ -5386,17 +5375,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-09-29T14:15:28.952610Z"
-  },
-  "DLH7FM": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T04:30:40.045798Z"
   },
   "EWG4Z": {
     "route": {
@@ -6606,43 +6584,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-01T03:40:27.718554Z"
-  },
-  "HLF8816": {
-    "route": null,
-    "checked_at": "2026-09-29T04:30:40.045798Z"
-  },
-  "RYR353": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T04:30:40.045798Z"
-  },
-  "EJU41NB": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T04:35:22.979584Z"
-  },
-  "SXS8LV": {
-    "route": {
-      "fromCity": "Hannover",
-      "fromIata": "HAJ",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-29T04:35:22.979584Z"
   },
   "NSZ3280": {
     "route": {
@@ -12410,5 +12351,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T04:30:38.980077Z"
+  },
+  "RYR5603": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T04:35:23.160939Z"
+  },
+  "SAS69P": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T04:35:23.160939Z"
   }
 }
