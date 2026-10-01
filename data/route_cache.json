@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-09-30T18:55:22.935960Z"
+    "checked_at": "2026-10-01T07:55:22.133492Z"
   },
   "KLM84H": {
     "route": {
@@ -2131,7 +2131,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T07:40:31.587699Z"
+    "checked_at": "2026-10-01T07:55:22.133492Z"
   },
   "DLH3EV": {
     "route": {
@@ -6475,25 +6475,6 @@
   "LHB2": {
     "route": null,
     "checked_at": "2026-09-30T12:15:30.998661Z"
-  },
-  "FCA1MA": {
-    "route": null,
-    "checked_at": "2026-09-29T07:50:34.030396Z"
-  },
-  "DFPOL": {
-    "route": null,
-    "checked_at": "2026-09-29T07:50:34.030396Z"
-  },
-  "BAW84NT": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-29T07:50:34.030396Z"
   },
   "SERMP": {
     "route": null,
@@ -12520,5 +12501,27 @@
   "PVD425Z": {
     "route": null,
     "checked_at": "2026-10-01T07:45:28.375907Z"
+  },
+  "CAI4AA": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T07:55:22.133492Z"
+  },
+  "ASL19P": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-01T07:55:22.133492Z"
   }
 }
