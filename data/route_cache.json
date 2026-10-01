@@ -3009,7 +3009,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T11:20:31.817313Z"
+    "checked_at": "2026-10-01T11:35:22.911090Z"
   },
   "AUA228T": {
     "route": {
@@ -3042,7 +3042,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T11:25:23.318395Z"
+    "checked_at": "2026-10-01T11:35:22.911090Z"
   },
   "FIN3YX": {
     "route": {
@@ -3108,7 +3108,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T11:20:31.817313Z"
+    "checked_at": "2026-10-01T11:35:22.911090Z"
   },
   "SAS1677": {
     "route": {
@@ -3119,7 +3119,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T11:45:29.296417Z"
+    "checked_at": "2026-10-01T11:35:22.911090Z"
   },
   "PGT93T": {
     "route": {
@@ -4149,7 +4149,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T11:30:37.978631Z"
+    "checked_at": "2026-10-01T11:35:22.911090Z"
   },
   "CES244": {
     "route": {
@@ -12408,5 +12408,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T11:30:40.393557Z"
+  },
+  "OMANA": {
+    "route": null,
+    "checked_at": "2026-10-01T11:35:22.911090Z"
+  },
+  "BTI878": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-01T11:35:22.911090Z"
+  },
+  "EWG7NF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T11:35:22.911090Z"
+  },
+  "WZZ58TF": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-01T11:35:22.911090Z"
   }
 }
