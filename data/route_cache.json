@@ -2028,7 +2028,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T07:30:40.848916Z"
+    "checked_at": "2026-10-01T07:25:20.582240Z"
   },
   "THY4VH": {
     "route": {
@@ -2076,7 +2076,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-09-30T07:10:29.340280Z"
+    "checked_at": "2026-10-01T07:25:20.582240Z"
   },
   "SWR2HD": {
     "route": {
@@ -6471,21 +6471,6 @@
     },
     "checked_at": "2026-10-01T06:35:23.840301Z"
   },
-  "BPO512": {
-    "route": null,
-    "checked_at": "2026-09-29T07:20:29.193102Z"
-  },
-  "RYR12KD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T07:20:29.193102Z"
-  },
   "DMTWH": {
     "route": null,
     "checked_at": "2026-10-01T07:05:23.567394Z"
@@ -6522,7 +6507,7 @@
   },
   "N628TS": {
     "route": null,
-    "checked_at": "2026-09-29T07:45:31.460898Z"
+    "checked_at": "2026-10-01T07:25:20.582240Z"
   },
   "SAS2835": {
     "route": {
@@ -6635,7 +6620,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T08:20:31.460532Z"
+    "checked_at": "2026-10-01T07:25:20.582240Z"
   },
   "AFR39SV": {
     "route": {
@@ -12513,5 +12498,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-01T07:15:27.844419Z"
+  },
+  "DLH8KF": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "M\u00fcnster",
+      "toIata": "FMO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T07:25:20.582240Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T07:25:20.582240Z"
   }
 }
