@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-01T22:10:28.795954Z"
+  "flights": [
+    {
+      "callsign": "9ACAW",
+      "country": "Croatia",
+      "lat": 52.4754,
+      "lon": 13.4309,
+      "altKm": 11.7,
+      "speedKmh": 806,
+      "heading": 176,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "WZZ1469",
+      "country": "Malta",
+      "lat": 52.6178,
+      "lon": 13.8824,
+      "altKm": 11.7,
+      "speedKmh": 830,
+      "heading": 170,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-01T22:15:29.753124Z"
 }
