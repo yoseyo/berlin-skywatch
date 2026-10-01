@@ -508,7 +508,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T16:05:24.063161Z"
+    "checked_at": "2026-10-01T16:05:26.325004Z"
   },
   "SWR23F": {
     "route": {
@@ -5735,7 +5735,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T16:20:32.289880Z"
+    "checked_at": "2026-10-01T16:05:26.325004Z"
   },
   "EWG7ZP": {
     "route": {
@@ -6532,32 +6532,6 @@
   "N759SB": {
     "route": null,
     "checked_at": "2026-09-30T10:05:22.629319Z"
-  },
-  "RYR5WP": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T16:00:52.932357Z"
-  },
-  "PAV654": {
-    "route": null,
-    "checked_at": "2026-09-29T16:00:52.932357Z"
-  },
-  "NOZ8BF": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-29T16:05:24.155763Z"
   },
   "AEE512": {
     "route": {
@@ -12595,5 +12569,16 @@
   "VJT645": {
     "route": null,
     "checked_at": "2026-10-01T16:00:51.340482Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-01T16:05:26.325004Z"
   }
 }
