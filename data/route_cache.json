@@ -1275,7 +1275,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T19:45:27.501175Z"
+    "checked_at": "2026-10-01T20:35:22.388001Z"
   },
   "RYR95MP": {
     "route": {
@@ -3605,7 +3605,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T20:25:21.996456Z"
+    "checked_at": "2026-10-01T20:35:22.388001Z"
   },
   "RYR1WP": {
     "route": {
@@ -12893,5 +12893,16 @@
   "NJE554W": {
     "route": null,
     "checked_at": "2026-10-01T20:30:40.732958Z"
+  },
+  "RYR12AV": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T20:35:22.388001Z"
   }
 }
