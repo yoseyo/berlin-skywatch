@@ -1664,7 +1664,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-30T04:45:28.161920Z"
+    "checked_at": "2026-10-01T05:35:22.834503Z"
   },
   "CHX49": {
     "route": null,
@@ -1694,7 +1694,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T05:30:40.655073Z"
+    "checked_at": "2026-10-01T05:35:22.834503Z"
   },
   "QTR29X": {
     "route": {
@@ -1716,7 +1716,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T05:30:40.655073Z"
+    "checked_at": "2026-10-01T05:35:22.834503Z"
   },
   "SWR5XL": {
     "route": {
@@ -3715,7 +3715,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-30T05:55:22.309202Z"
+    "checked_at": "2026-10-01T05:35:22.834503Z"
   },
   "WZZ8649": {
     "route": null,
@@ -6530,17 +6530,6 @@
     },
     "checked_at": "2026-09-30T05:10:31.466291Z"
   },
-  "WZZ148": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-29T05:30:39.365238Z"
-  },
   "RYR456B": {
     "route": {
       "fromCity": "Pisa",
@@ -8336,7 +8325,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-09-29T16:15:31.243744Z"
+    "checked_at": "2026-10-01T05:35:22.834503Z"
   },
   "LOT407": {
     "route": {
@@ -12377,5 +12366,16 @@
   "WMT7615": {
     "route": null,
     "checked_at": "2026-10-01T05:30:39.060267Z"
+  },
+  "SAS1691": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T05:35:22.834503Z"
   }
 }
