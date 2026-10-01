@@ -2499,7 +2499,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T10:05:22.629319Z"
+    "checked_at": "2026-10-01T09:20:30.800948Z"
   },
   "EIN3EG": {
     "route": {
@@ -2642,7 +2642,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T09:00:51.192513Z"
+    "checked_at": "2026-10-01T09:20:30.800948Z"
   },
   "LOT7VJ": {
     "route": {
@@ -4745,7 +4745,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T09:20:33.262796Z"
+    "checked_at": "2026-10-01T09:20:30.800948Z"
   },
   "NSZ3582": {
     "route": {
@@ -5648,17 +5648,6 @@
     },
     "checked_at": "2026-10-01T09:10:29.432717Z"
   },
-  "RYR89YH": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T09:15:30.447557Z"
-  },
   "RYR75VP": {
     "route": {
       "fromCity": "Vilnius",
@@ -5887,10 +5876,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-09-30T10:15:28.002175Z"
-  },
-  "FJO67M": {
-    "route": null,
-    "checked_at": "2026-09-29T09:15:30.447557Z"
   },
   "PGT685B": {
     "route": null,
@@ -6510,32 +6495,6 @@
     "route": null,
     "checked_at": "2026-09-30T06:55:22.917754Z"
   },
-  "DMRBW": {
-    "route": null,
-    "checked_at": "2026-09-29T09:15:30.447557Z"
-  },
-  "NSZ3289": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-29T09:15:30.447557Z"
-  },
-  "RYR7YZ": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T09:15:30.447557Z"
-  },
   "QTR68T": {
     "route": {
       "fromCity": "Seattle",
@@ -6546,10 +6505,6 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-09-30T09:10:28.162277Z"
-  },
-  "ROF440": {
-    "route": null,
-    "checked_at": "2026-09-29T09:15:30.447557Z"
   },
   "DLH890": {
     "route": {
@@ -7188,7 +7143,7 @@
   },
   "DMKFP": {
     "route": null,
-    "checked_at": "2026-09-29T12:55:24.461787Z"
+    "checked_at": "2026-10-01T09:20:30.800948Z"
   },
   "RYR108X": {
     "route": {
@@ -12454,5 +12409,31 @@
   "DESSU": {
     "route": null,
     "checked_at": "2026-10-01T09:15:29.195549Z"
+  },
+  "GPX3JX": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-01T09:20:30.800948Z"
+  },
+  "DMSXC": {
+    "route": null,
+    "checked_at": "2026-10-01T09:20:30.800948Z"
+  },
+  "BTI8KY": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-01T09:20:30.800948Z"
   }
 }
