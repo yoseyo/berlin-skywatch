@@ -1121,7 +1121,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T19:25:24.553248Z"
+    "checked_at": "2026-10-01T19:00:55.395515Z"
   },
   "SAS1680": {
     "route": {
@@ -1841,7 +1841,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-09-30T10:15:28.002175Z"
+    "checked_at": "2026-10-01T19:00:55.395515Z"
   },
   "PGT820D": {
     "route": {
@@ -9395,7 +9395,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T18:45:27.640725Z"
+    "checked_at": "2026-10-01T19:00:55.395515Z"
   },
   "EZS83KB": {
     "route": {
@@ -12684,5 +12684,27 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-01T18:55:23.162759Z"
+  },
+  "EJU16CF": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-01T19:00:55.395515Z"
+  },
+  "PGT816T": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T19:00:55.395515Z"
   }
 }
