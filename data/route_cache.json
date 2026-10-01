@@ -585,7 +585,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-09-30T16:25:22.448777Z"
+    "checked_at": "2026-10-01T16:45:49.108965Z"
   },
   "PGT49PK": {
     "route": {
@@ -1433,7 +1433,7 @@
   },
   "BPOBER": {
     "route": null,
-    "checked_at": "2026-10-01T00:30:40.582097Z"
+    "checked_at": "2026-10-01T16:45:49.108965Z"
   },
   "SXS8ER": {
     "route": {
@@ -2510,7 +2510,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-30T09:50:29.925009Z"
+    "checked_at": "2026-10-01T16:45:49.108965Z"
   },
   "WMT358": {
     "route": {
@@ -6544,17 +6544,6 @@
     },
     "checked_at": "2026-10-01T13:05:24.475317Z"
   },
-  "RYR25SC": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T16:45:28.785393Z"
-  },
   "NSZ3732": {
     "route": {
       "fromCity": "Copenhagen",
@@ -9330,7 +9319,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T16:35:23.694063Z"
+    "checked_at": "2026-10-01T16:45:49.108965Z"
   },
   "NSZ4377": {
     "route": {
@@ -9456,7 +9445,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T17:35:22.205760Z"
+    "checked_at": "2026-10-01T16:45:49.108965Z"
   },
   "FIN24Q": {
     "route": {
@@ -12577,5 +12566,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T16:35:22.099381Z"
+  },
+  "RYR14YY": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T16:45:49.108965Z"
+  },
+  "VKG525": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-01T16:45:49.108965Z"
   }
 }
