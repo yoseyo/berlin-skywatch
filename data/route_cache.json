@@ -2954,7 +2954,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-09-30T11:25:23.318395Z"
+    "checked_at": "2026-10-01T11:20:29.210679Z"
   },
   "KLM26L": {
     "route": {
@@ -3200,7 +3200,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T11:20:31.817313Z"
+    "checked_at": "2026-10-01T11:20:29.210679Z"
   },
   "MSC2960": {
     "route": {
@@ -3873,7 +3873,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-09-30T10:55:23.118508Z"
+    "checked_at": "2026-10-01T11:20:29.210679Z"
   },
   "WMT7WQ": {
     "route": {
@@ -5681,17 +5681,6 @@
     },
     "checked_at": "2026-10-01T11:10:30.295646Z"
   },
-  "SAS1665": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-29T11:15:31.858283Z"
-  },
   "BAW990G": {
     "route": {
       "fromCity": "London",
@@ -6475,28 +6464,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T05:30:39.060267Z"
-  },
-  "DLH9851": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T11:15:31.858283Z"
-  },
-  "RYR58ZM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T11:15:31.858283Z"
   },
   "UAG78D": {
     "route": null,
@@ -10423,7 +10390,7 @@
   },
   "BTX8H": {
     "route": null,
-    "checked_at": "2026-09-30T18:20:29.136375Z"
+    "checked_at": "2026-10-01T11:20:29.210679Z"
   },
   "VJT473": {
     "route": null,
@@ -12404,5 +12371,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T11:10:30.295646Z"
+  },
+  "LOT5ED": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-01T11:20:29.210679Z"
+  },
+  "OKPCG": {
+    "route": null,
+    "checked_at": "2026-10-01T11:20:29.210679Z"
   }
 }
