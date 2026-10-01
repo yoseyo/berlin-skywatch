@@ -879,7 +879,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T18:05:22.555582Z"
+    "checked_at": "2026-10-01T18:15:28.244150Z"
   },
   "DLH1XN": {
     "route": {
@@ -934,7 +934,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T18:15:29.162038Z"
+    "checked_at": "2026-10-01T18:15:28.244150Z"
   },
   "EWG5JH": {
     "route": {
@@ -1000,7 +1000,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-30T18:10:28.376604Z"
+    "checked_at": "2026-10-01T18:15:28.244150Z"
   },
   "BAW995": {
     "route": {
@@ -6557,7 +6557,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T16:55:22.735763Z"
+    "checked_at": "2026-10-01T18:15:28.244150Z"
   },
   "AFR17RZ": {
     "route": null,
@@ -12651,5 +12651,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-01T18:10:30.356262Z"
+  },
+  "SDR91CF": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T18:15:28.244150Z"
+  },
+  "EZY71RM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-01T18:15:28.244150Z"
+  },
+  "BAW996G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-01T18:15:28.244150Z"
   }
 }
