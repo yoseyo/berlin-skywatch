@@ -1962,7 +1962,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-30T07:00:54.293986Z"
+    "checked_at": "2026-10-01T06:55:23.078704Z"
   },
   "DLH2NL": {
     "route": {
@@ -1973,7 +1973,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T07:15:31.126969Z"
+    "checked_at": "2026-10-01T06:55:23.078704Z"
   },
   "SAS767": {
     "route": {
@@ -3708,7 +3708,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-09-30T06:50:31.227012Z"
+    "checked_at": "2026-10-01T06:55:23.078704Z"
   },
   "WZZ3EA": {
     "route": {
@@ -4068,7 +4068,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T07:10:29.340280Z"
+    "checked_at": "2026-10-01T06:55:23.078704Z"
   },
   "EJU69DQ": {
     "route": null,
@@ -6650,7 +6650,7 @@
   },
   "AMQ9I": {
     "route": null,
-    "checked_at": "2026-09-29T08:10:30.064331Z"
+    "checked_at": "2026-10-01T06:55:23.078704Z"
   },
   "DISIS": {
     "route": null,
@@ -12488,5 +12488,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-01T06:50:31.031412Z"
+  },
+  "THY3": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T06:55:23.078704Z"
+  },
+  "CFG8JC": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T06:55:23.078704Z"
   }
 }
