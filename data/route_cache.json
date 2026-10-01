@@ -3281,7 +3281,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T13:05:22.195107Z"
+    "checked_at": "2026-10-01T12:55:23.660880Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -6466,21 +6466,6 @@
     },
     "checked_at": "2026-10-01T11:05:26.078666Z"
   },
-  "RYR7GU": {
-    "route": {
-      "fromCity": "Memmingen",
-      "fromIata": "FMM",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T12:50:32.215774Z"
-  },
-  "AWH64D": {
-    "route": null,
-    "checked_at": "2026-09-29T12:50:32.215774Z"
-  },
   "RYR2JL": {
     "route": {
       "fromCity": "Cologne",
@@ -9399,7 +9384,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T13:10:30.348171Z"
+    "checked_at": "2026-10-01T12:55:23.660880Z"
   },
   "EWG99T": {
     "route": {
@@ -12485,5 +12470,16 @@
   "ATV403": {
     "route": null,
     "checked_at": "2026-10-01T12:45:28.009095Z"
+  },
+  "EWG79J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T12:55:23.660880Z"
   }
 }
