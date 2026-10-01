@@ -1165,7 +1165,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-30T19:55:23.539803Z"
+    "checked_at": "2026-10-01T19:55:21.994026Z"
   },
   "BEL9NK": {
     "route": {
@@ -1187,7 +1187,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-30T20:40:27.849657Z"
+    "checked_at": "2026-10-01T19:55:21.994026Z"
   },
   "AUA989D": {
     "route": {
@@ -3616,7 +3616,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T04:25:23.736170Z"
+    "checked_at": "2026-10-01T19:55:21.994026Z"
   },
   "TAP53EI": {
     "route": {
@@ -12805,5 +12805,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-01T19:45:38.097821Z"
+  },
+  "NSZ3305": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T19:55:21.994026Z"
+  },
+  "EZY89CH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-01T19:55:21.994026Z"
   }
 }
