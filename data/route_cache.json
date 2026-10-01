@@ -978,7 +978,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T17:55:23.185538Z"
+    "checked_at": "2026-10-01T17:45:49.917613Z"
   },
   "SAS55L": {
     "route": {
@@ -6581,17 +6581,6 @@
   "DERMS": {
     "route": null,
     "checked_at": "2026-09-30T15:21:03.705448Z"
-  },
-  "BAW996G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-29T17:40:30.135433Z"
   },
   "AEE513": {
     "route": {
@@ -12622,5 +12611,27 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-01T17:40:29.018129Z"
+  },
+  "RYR87DD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T17:45:49.917613Z"
+  },
+  "DLH7PF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T17:45:49.917613Z"
   }
 }
