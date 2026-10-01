@@ -1995,7 +1995,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T07:05:23.265510Z"
+    "checked_at": "2026-10-01T07:10:26.707789Z"
   },
   "FIN7HC": {
     "route": {
@@ -2043,7 +2043,7 @@
   },
   "TVF88JV": {
     "route": null,
-    "checked_at": "2026-09-30T06:50:31.227012Z"
+    "checked_at": "2026-10-01T07:10:26.707789Z"
   },
   "AUA224": {
     "route": {
@@ -5569,7 +5569,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-09-30T07:05:23.265510Z"
+    "checked_at": "2026-10-01T07:10:26.707789Z"
   },
   "DICMK": {
     "route": null,
@@ -6492,10 +6492,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-01T06:35:23.840301Z"
-  },
-  "VJH334": {
-    "route": null,
-    "checked_at": "2026-09-29T07:05:26.188140Z"
   },
   "N1569C": {
     "route": null,
@@ -12510,5 +12506,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T07:00:52.941527Z"
+  },
+  "CFG6DF": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T07:10:26.707789Z"
+  },
+  "RYR76HU": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T07:10:26.707789Z"
   }
 }
