@@ -155,7 +155,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T12:25:23.050582Z"
+    "checked_at": "2026-10-01T09:10:29.432717Z"
   },
   "AUA21P": {
     "route": {
@@ -2403,7 +2403,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T09:00:51.192513Z"
+    "checked_at": "2026-10-01T09:10:29.432717Z"
   },
   "AEE8RB": {
     "route": {
@@ -2451,7 +2451,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T09:00:51.192513Z"
+    "checked_at": "2026-10-01T09:10:29.432717Z"
   },
   "RYR4TC": {
     "route": {
@@ -5646,7 +5646,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T10:40:29.444463Z"
+    "checked_at": "2026-10-01T09:10:29.432717Z"
   },
   "RYR89YH": {
     "route": {
@@ -5861,17 +5861,6 @@
   "DEUNK": {
     "route": null,
     "checked_at": "2026-09-30T11:20:31.817313Z"
-  },
-  "BAW988G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-29T09:10:28.695406Z"
   },
   "CCA966": {
     "route": {
@@ -6520,32 +6509,6 @@
   "BPO506": {
     "route": null,
     "checked_at": "2026-09-30T06:55:22.917754Z"
-  },
-  "EJU93RY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T09:05:24.499595Z"
-  },
-  "TWY69": {
-    "route": null,
-    "checked_at": "2026-09-29T09:05:24.499595Z"
-  },
-  "BTI7EG": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-29T09:10:28.695406Z"
   },
   "DMRBW": {
     "route": null,
@@ -12465,5 +12428,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T09:00:52.954153Z"
+  },
+  "LHX179": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T09:10:29.432717Z"
+  },
+  "SDR70TS": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T09:10:29.432717Z"
   }
 }
