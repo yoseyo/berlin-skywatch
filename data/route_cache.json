@@ -1044,7 +1044,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-30T18:45:27.640725Z"
+    "checked_at": "2026-10-01T19:20:31.127809Z"
   },
   "VLG23BJ": {
     "route": {
@@ -1374,7 +1374,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T19:25:24.553248Z"
+    "checked_at": "2026-10-01T19:20:31.127809Z"
   },
   "EJU34BQ": {
     "route": {
@@ -4954,7 +4954,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T19:05:24.087348Z"
+    "checked_at": "2026-10-01T19:20:31.127809Z"
   },
   "DLH5CK": {
     "route": {
@@ -6618,10 +6618,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-01T18:50:29.048292Z"
-  },
-  "AXY215P": {
-    "route": null,
-    "checked_at": "2026-09-29T19:15:28.991555Z"
   },
   "NOZ1923": {
     "route": {
@@ -12732,5 +12728,38 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-01T19:15:28.332573Z"
+  },
+  "LOT285": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-01T19:20:31.127809Z"
+  },
+  "RYR9SL": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T19:20:31.127809Z"
+  },
+  "RYR19ZZ": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T19:20:31.127809Z"
   }
 }
