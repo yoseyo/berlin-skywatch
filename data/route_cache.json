@@ -1455,7 +1455,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T04:55:25.720502Z"
+    "checked_at": "2026-10-01T03:45:28.340894Z"
   },
   "KLM90J": {
     "route": {
@@ -5349,17 +5349,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T02:50:29.664964Z"
-  },
-  "BCS5959": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T03:40:30.065471Z"
   },
   "AEG6912": {
     "route": null,
@@ -12344,5 +12333,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-01T03:30:38.849694Z"
+  },
+  "SDR70WQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T03:45:28.340894Z"
   }
 }
