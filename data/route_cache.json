@@ -247,7 +247,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T14:15:31.125293Z"
+    "checked_at": "2026-10-01T14:17:37.495893Z"
   },
   "SAS81L": {
     "route": {
@@ -5464,17 +5464,6 @@
     },
     "checked_at": "2026-10-01T09:10:29.432717Z"
   },
-  "RYR75VP": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T14:10:31.055931Z"
-  },
   "RYR57ND": {
     "route": {
       "fromCity": "Milan",
@@ -5651,10 +5640,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-01T10:25:25.098198Z"
-  },
-  "PGT685B": {
-    "route": null,
-    "checked_at": "2026-09-29T14:10:31.055931Z"
   },
   "BEC001": {
     "route": null,
@@ -6495,14 +6480,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T14:10:29.308574Z"
-  },
-  "NJE118C": {
-    "route": null,
-    "checked_at": "2026-09-29T14:15:28.952610Z"
-  },
-  "VJT440": {
-    "route": null,
-    "checked_at": "2026-09-29T14:15:28.952610Z"
   },
   "ETH3739": {
     "route": {
@@ -12564,5 +12541,42 @@
   "N221TV": {
     "route": null,
     "checked_at": "2026-10-01T14:10:29.308574Z"
+  },
+  "THY9": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T14:17:37.495893Z"
+  },
+  "DLH715": {
+    "route": {
+      "fromCity": "Tokyo",
+      "fromIata": "HND",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T14:17:37.495893Z"
+  },
+  "CFG4FD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T14:17:37.495893Z"
+  },
+  "NJE686K": {
+    "route": null,
+    "checked_at": "2026-10-01T14:17:37.495893Z"
   }
 }
