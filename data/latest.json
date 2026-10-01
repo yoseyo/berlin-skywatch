@@ -1,4 +1,61 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-01T03:55:21.786532Z"
+  "flights": [
+    {
+      "callsign": "EJU9046",
+      "country": "Austria",
+      "lat": 52.2717,
+      "lon": 13.4527,
+      "altKm": 2.8,
+      "speedKmh": 517,
+      "heading": 256,
+      "vertRateMs": 21.5,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU62LY",
+      "country": "Austria",
+      "lat": 52.3473,
+      "lon": 13.5608,
+      "altKm": 0.7,
+      "speedKmh": 259,
+      "heading": 165,
+      "vertRateMs": 9.4,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
+      "callsign": "UAE221",
+      "country": "United Arab Emirates",
+      "lat": 52.5215,
+      "lon": 12.7153,
+      "altKm": 10.2,
+      "speedKmh": 861,
+      "heading": 320,
+      "vertRateMs": 0,
+      "airline": "Emirates",
+      "airlineCountry": "United Arab Emirates",
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Dallas-Fort Worth",
+      "toIata": "DFW",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG9B",
+      "country": "Germany",
+      "lat": 52.389,
+      "lon": 13.5757,
+      "altKm": 0.6,
+      "speedKmh": 361,
+      "heading": 71,
+      "vertRateMs": 4.9,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-01T04:00:50.410646Z"
 }
