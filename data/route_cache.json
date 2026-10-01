@@ -1565,7 +1565,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T05:10:31.466291Z"
+    "checked_at": "2026-10-01T05:00:50.576950Z"
   },
   "KLM64F": {
     "route": {
@@ -3873,7 +3873,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T05:00:51.510187Z"
+    "checked_at": "2026-10-01T05:00:50.576950Z"
   },
   "FIN07RT": {
     "route": {
@@ -4648,17 +4648,6 @@
     },
     "checked_at": "2026-09-29T08:05:24.977776Z"
   },
-  "RYR5SC": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "\u00d6rebro",
-      "toIata": "ORB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T04:55:22.991473Z"
-  },
   "SAS1694": {
     "route": {
       "fromCity": "Vienna",
@@ -5374,7 +5363,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T05:05:24.546379Z"
+    "checked_at": "2026-10-01T05:00:50.576950Z"
   },
   "EWG47Z": {
     "route": {
@@ -5418,7 +5407,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-09-30T05:05:24.546379Z"
+    "checked_at": "2026-10-01T05:00:50.576950Z"
   },
   "WZZ629": {
     "route": {
@@ -5484,7 +5473,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-29T05:45:29.972818Z"
+    "checked_at": "2026-10-01T05:00:50.576950Z"
   },
   "OEEKA": {
     "route": null,
@@ -6574,17 +6563,6 @@
     },
     "checked_at": "2026-10-01T04:40:27.615408Z"
   },
-  "RYR282D": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T04:55:22.991473Z"
-  },
   "EJU83ZK": {
     "route": {
       "fromCity": "Berlin",
@@ -6595,17 +6573,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-30T14:25:25.299897Z"
-  },
-  "WZZ31QC": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-29T05:00:50.338112Z"
   },
   "WMT7615": {
     "route": null,
@@ -12388,5 +12355,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T04:55:22.790798Z"
+  },
+  "SAS72U": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T05:00:50.576950Z"
+  },
+  "DLH7FM": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T05:00:50.576950Z"
   }
 }
