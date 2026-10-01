@@ -1642,7 +1642,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T05:10:31.466291Z"
+    "checked_at": "2026-10-01T05:15:27.983305Z"
   },
   "SXS75G": {
     "route": {
@@ -6019,17 +6019,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-29T12:40:34.053471Z"
-  },
-  "EWG3TF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T05:10:28.750489Z"
   },
   "DEUNK": {
     "route": null,
@@ -12388,5 +12377,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T05:10:26.547807Z"
+  },
+  "PGT1605": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-01T05:15:27.983305Z"
+  },
+  "DLH4EK": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T05:15:27.983305Z"
+  },
+  "FLI7154": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-01T05:15:27.983305Z"
   }
 }
