@@ -1532,7 +1532,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T04:25:23.736170Z"
+    "checked_at": "2026-10-01T04:30:38.980077Z"
   },
   "KLC80U": {
     "route": {
@@ -12388,5 +12388,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-01T04:20:28.786556Z"
+  },
+  "RYR7662": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T04:30:38.980077Z"
+  },
+  "CFG2FK": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T04:30:38.980077Z"
   }
 }
