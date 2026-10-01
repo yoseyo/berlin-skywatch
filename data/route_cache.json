@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-30T13:05:22.195107Z"
+    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "CHX100": {
     "route": null,
@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T12:35:22.921601Z"
+    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "MSC2961": {
     "route": {
@@ -3325,7 +3325,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-09-30T14:35:21.875711Z"
+    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "CHX71": {
     "route": null,
@@ -3421,7 +3421,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T18:25:21.307699Z"
+    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "UAE57X": {
     "route": {
@@ -5269,17 +5269,6 @@
     },
     "checked_at": "2026-10-01T05:45:25.952265Z"
   },
-  "CKK215": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-29T13:10:30.325344Z"
-  },
   "EWG4JP": {
     "route": {
       "fromCity": "Stuttgart",
@@ -5474,17 +5463,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-09-30T08:30:40.108740Z"
-  },
-  "RYR93QN": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T13:10:30.325344Z"
   },
   "CFE76JZ": {
     "route": {
@@ -5683,7 +5661,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-09-30T13:10:30.348171Z"
+    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "NOZ6TY": {
     "route": {
@@ -6492,17 +6470,6 @@
     },
     "checked_at": "2026-10-01T12:15:28.230026Z"
   },
-  "CCA432": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Jianyang, Chengdu",
-      "toIata": "TFU",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-29T13:10:30.325344Z"
-  },
   "CFG3DK": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6598,7 +6565,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-09-29T14:00:56.110878Z"
+    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "HBVAD": {
     "route": null,
@@ -12477,5 +12444,31 @@
   "DFGBB": {
     "route": null,
     "checked_at": "2026-10-01T13:05:24.475317Z"
+  },
+  "NSZ8YC": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T13:10:33.423972Z"
+  },
+  "N125NJ": {
+    "route": null,
+    "checked_at": "2026-10-01T13:10:33.423972Z"
+  },
+  "EWG20W": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T13:10:33.423972Z"
   }
 }
