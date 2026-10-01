@@ -1,38 +1,25 @@
 {
   "flights": [
     {
-      "callsign": "EWG9KG",
+      "callsign": "CHX71",
       "country": "Germany",
-      "lat": 52.328,
-      "lon": 13.3954,
+      "lat": 52.8571,
+      "lon": 12.7252,
       "altKm": 0.4,
-      "speedKmh": 234,
-      "heading": 69,
-      "vertRateMs": -3.6,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
-      "callsign": "DMTWH",
-      "country": "Germany",
-      "lat": 52.6796,
-      "lon": 12.729,
-      "altKm": 0.1,
-      "speedKmh": 99,
-      "heading": 213,
-      "vertRateMs": 0,
-      "category": "plane"
+      "speedKmh": 200,
+      "heading": 167,
+      "vertRateMs": -3.2,
+      "category": "heli"
     },
     {
       "callsign": "DLH192",
       "country": "Germany",
-      "lat": 52.1061,
-      "lon": 12.8946,
-      "altKm": 2.7,
-      "speedKmh": 529,
-      "heading": 43,
-      "vertRateMs": -7.8,
+      "lat": 52.2736,
+      "lon": 13.1614,
+      "altKm": 1.1,
+      "speedKmh": 496,
+      "heading": 66,
+      "vertRateMs": -1.3,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Frankfurt am Main",
@@ -40,35 +27,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "PBB16",
-      "country": "Germany",
-      "lat": 52.103,
-      "lon": 13.5182,
-      "altKm": 0.5,
-      "speedKmh": 172,
-      "heading": 187,
-      "vertRateMs": 0.7,
-      "category": "heli"
-    },
-    {
-      "callsign": "RYR15FP",
-      "country": "Malta",
-      "lat": 52.1311,
-      "lon": 13.4913,
-      "altKm": 12.0,
-      "speedKmh": 846,
-      "heading": 176,
-      "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-01T14:40:30.855405Z"
+  "updated_at": "2026-10-01T14:43:30.968902Z"
 }
