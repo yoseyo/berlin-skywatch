@@ -1253,7 +1253,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-09-30T20:06:30.407070Z"
+    "checked_at": "2026-10-01T21:00:50.913765Z"
   },
   "TVF73KL": {
     "route": {
@@ -1418,7 +1418,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T20:55:23.123985Z"
+    "checked_at": "2026-10-01T21:00:50.913765Z"
   },
   "BPOBER": {
     "route": null,
@@ -3906,7 +3906,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-09-30T20:10:28.782560Z"
+    "checked_at": "2026-10-01T21:00:50.913765Z"
   },
   "EIN33W": {
     "route": {
@@ -6662,50 +6662,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-09-30T19:50:27.737720Z"
-  },
-  "EJU96BD": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-29T20:55:22.616161Z"
-  },
-  "RYR1VL": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T20:55:22.616161Z"
-  },
-  "BCS8EL": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-29T21:00:50.435213Z"
-  },
-  "RYR44PB": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T21:00:50.435213Z"
   },
   "EJU37DJ": {
     "route": {
@@ -9581,7 +9537,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-09-30T20:20:32.667937Z"
+    "checked_at": "2026-10-01T21:00:50.913765Z"
   },
   "EJU74RM": {
     "route": {
@@ -12889,5 +12845,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T20:40:28.288202Z"
+  },
+  "DLH2466": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T21:00:50.913765Z"
   }
 }
