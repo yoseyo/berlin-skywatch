@@ -9282,7 +9282,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T06:15:29.919583Z"
+    "checked_at": "2026-10-01T06:15:26.758977Z"
   },
   "SCO801X": {
     "route": null,
@@ -12392,5 +12392,53 @@
   "DIHKW": {
     "route": null,
     "checked_at": "2026-10-01T06:10:29.414096Z"
+  },
+  "DUKE60": {
+    "route": null,
+    "checked_at": "2026-10-01T06:15:26.758977Z"
+  },
+  "NSZ3288": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-01T06:15:26.758977Z"
+  },
+  "CYZ257": {
+    "route": {
+      "fromCity": "Zhengzhou",
+      "fromIata": "CGO",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "China Postal Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-01T06:15:26.758977Z"
+  },
+  "JTD513": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-01T06:15:26.758977Z"
+  },
+  "RYR7952": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-01T06:15:26.758977Z"
   }
 }
