@@ -3314,7 +3314,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-09-30T13:10:30.348171Z"
+    "checked_at": "2026-10-01T13:00:55.508077Z"
   },
   "LOT2PJ": {
     "route": {
@@ -4642,7 +4642,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T12:30:38.800261Z"
+    "checked_at": "2026-10-01T13:00:55.508077Z"
   },
   "WZZ4782": {
     "route": {
@@ -6477,31 +6477,9 @@
     },
     "checked_at": "2026-09-30T17:25:26.652068Z"
   },
-  "RYR99FP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T12:55:24.461787Z"
-  },
   "DMKFP": {
     "route": null,
     "checked_at": "2026-10-01T09:20:30.800948Z"
-  },
-  "RYR108X": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-29T13:00:55.143216Z"
   },
   "SPSSZ": {
     "route": null,
@@ -12481,5 +12459,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T12:55:23.660880Z"
+  },
+  "LHX849": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-01T13:00:55.508077Z"
   }
 }
