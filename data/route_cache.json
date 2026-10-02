@@ -2131,7 +2131,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-01T08:00:49.839295Z"
+    "checked_at": "2026-10-02T08:10:31.781876Z"
   },
   "KLM31X": {
     "route": {
@@ -2219,7 +2219,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T08:15:27.163865Z"
+    "checked_at": "2026-10-02T08:10:31.781876Z"
   },
   "EJU32JG": {
     "route": {
@@ -4166,17 +4166,6 @@
     },
     "checked_at": "2026-10-01T04:50:28.231976Z"
   },
-  "LOT4NC": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-30T08:05:24.316630Z"
-  },
   "RYR62HD": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -5174,7 +5163,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T08:00:49.839295Z"
+    "checked_at": "2026-10-02T08:10:31.781876Z"
   },
   "DLH880": {
     "route": {
@@ -5861,7 +5850,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-01T08:05:22.777557Z"
+    "checked_at": "2026-10-02T08:10:31.781876Z"
   },
   "AUA99J": {
     "route": {
@@ -6620,21 +6609,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T06:55:21.275472Z"
-  },
-  "N985EK": {
-    "route": null,
-    "checked_at": "2026-09-30T08:05:24.316630Z"
-  },
-  "EJU9042": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-30T08:10:27.945056Z"
   },
   "NOZ1943": {
     "route": {
@@ -12899,5 +12873,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T08:05:23.391269Z"
+  },
+  "RYR18RV": {
+    "route": {
+      "fromCity": "Torp",
+      "fromIata": "TRF",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T08:10:31.781876Z"
   }
 }
