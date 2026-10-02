@@ -5387,7 +5387,7 @@
       "airlineName": "Nouvelair",
       "airlineCountry": "Tunisia"
     },
-    "checked_at": "2026-09-30T11:50:28.012042Z"
+    "checked_at": "2026-10-02T10:30:41.595541Z"
   },
   "TAP53ED": {
     "route": {
@@ -6651,18 +6651,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-01T12:30:42.225960Z"
-  },
-  "JFA90T": {
-    "route": null,
-    "checked_at": "2026-09-30T10:30:38.595951Z"
-  },
-  "PAV661": {
-    "route": null,
-    "checked_at": "2026-09-30T10:30:38.595951Z"
-  },
-  "BPO519": {
-    "route": null,
-    "checked_at": "2026-09-30T10:30:38.595951Z"
   },
   "NSZ2MP": {
     "route": {
@@ -9997,7 +9985,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T11:25:23.267383Z"
+    "checked_at": "2026-10-02T10:30:41.595541Z"
   },
   "WZZ82": {
     "route": {
@@ -12925,5 +12913,38 @@
   "PAV601": {
     "route": null,
     "checked_at": "2026-10-02T10:25:23.053081Z"
+  },
+  "NSZ2621": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T10:30:41.595541Z"
+  },
+  "CFG9VN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T10:30:41.595541Z"
+  },
+  "SXS9RW": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-02T10:30:41.595541Z"
   }
 }
