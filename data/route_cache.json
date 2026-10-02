@@ -3009,7 +3009,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T12:01:02.402428Z"
+    "checked_at": "2026-10-02T12:10:32.598046Z"
   },
   "AFR92ZN": {
     "route": {
@@ -6706,40 +6706,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-02T12:00:51.910088Z"
-  },
-  "SAS58M": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T12:10:30.670894Z"
-  },
-  "JFA63Y": {
-    "route": null,
-    "checked_at": "2026-09-30T12:10:30.670894Z"
-  },
-  "VPCYW": {
-    "route": null,
-    "checked_at": "2026-09-30T12:10:30.670894Z"
-  },
-  "JDI7MP": {
-    "route": null,
-    "checked_at": "2026-09-30T12:10:30.670894Z"
-  },
-  "MSC2958": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Cairo",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-09-30T12:10:30.670894Z"
   },
   "SAS47D": {
     "route": {
@@ -12904,5 +12870,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T12:05:22.582150Z"
+  },
+  "PAV602": {
+    "route": null,
+    "checked_at": "2026-10-02T12:10:32.598046Z"
+  },
+  "NMA738": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-02T12:10:32.598046Z"
   }
 }
