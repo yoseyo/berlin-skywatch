@@ -5174,7 +5174,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-01T08:45:28.142619Z"
+    "checked_at": "2026-10-02T08:46:59.530163Z"
   },
   "NSZ4505": {
     "route": {
@@ -7770,7 +7770,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-09-30T14:40:29.940033Z"
+    "checked_at": "2026-10-02T08:46:59.530163Z"
   },
   "NJE076B": {
     "route": null,
@@ -12876,5 +12876,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-02T08:45:30.742888Z"
+  },
+  "NSZ4378": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T08:46:59.530163Z"
+  },
+  "RYR3WY": {
+    "route": {
+      "fromCity": "Podgorica",
+      "fromIata": "TGD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T08:46:59.530163Z"
   }
 }
