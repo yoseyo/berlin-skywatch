@@ -3042,7 +3042,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T11:50:27.665623Z"
+    "checked_at": "2026-10-02T11:50:31.805700Z"
   },
   "KLC21A": {
     "route": {
@@ -3452,17 +3452,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T15:05:25.299364Z"
-  },
-  "RYR8BL": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T11:50:28.012042Z"
   },
   "SAS71T": {
     "route": {
@@ -4009,7 +3998,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T11:35:22.911090Z"
+    "checked_at": "2026-10-02T11:50:31.805700Z"
   },
   "CES244": {
     "route": {
@@ -4575,7 +4564,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T14:25:25.299897Z"
+    "checked_at": "2026-10-02T11:50:31.805700Z"
   },
   "NOZ1123": {
     "route": {
@@ -5225,7 +5214,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-09-30T12:15:30.998661Z"
+    "checked_at": "2026-10-02T11:50:31.805700Z"
   },
   "DLH882": {
     "route": {
@@ -5692,10 +5681,6 @@
     "route": null,
     "checked_at": "2026-09-30T12:15:30.998661Z"
   },
-  "SERMP": {
-    "route": null,
-    "checked_at": "2026-09-30T11:45:29.296417Z"
-  },
   "AMQ9I": {
     "route": null,
     "checked_at": "2026-10-01T06:55:23.078704Z"
@@ -5879,7 +5864,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-01T12:15:28.230026Z"
+    "checked_at": "2026-10-02T11:50:31.805700Z"
   },
   "DMHPH": {
     "route": null,
@@ -6673,10 +6658,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-02T11:45:26.471464Z"
-  },
-  "JFA95Z": {
-    "route": null,
-    "checked_at": "2026-09-30T11:45:29.296417Z"
   },
   "WZZ334": {
     "route": {
@@ -12883,5 +12864,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-02T11:40:28.826481Z"
+  },
+  "QTR20V": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-02T11:50:31.805700Z"
+  },
+  "RYR89XK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marrakech",
+      "toIata": "RAK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T11:50:31.805700Z"
   }
 }
