@@ -1995,7 +1995,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T07:25:20.582240Z"
+    "checked_at": "2026-10-02T07:35:20.130893Z"
   },
   "THY4VH": {
     "route": {
@@ -5187,17 +5187,6 @@
     },
     "checked_at": "2026-09-30T07:35:58.553529Z"
   },
-  "WMT968": {
-    "route": {
-      "fromCity": "Wroc\u0142aw",
-      "fromIata": "WRO",
-      "toCity": "Chi\u015fin\u0103u",
-      "toIata": "RMO",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-09-30T07:30:40.848916Z"
-  },
   "LHX5PN": {
     "route": {
       "fromCity": "Berlin",
@@ -6620,25 +6609,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T07:35:22.634426Z"
-  },
-  "NSZ3530": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T07:30:40.848916Z"
-  },
-  "FTY14": {
-    "route": null,
-    "checked_at": "2026-09-30T07:30:40.848916Z"
-  },
-  "ATV302": {
-    "route": null,
-    "checked_at": "2026-09-30T07:30:40.848916Z"
   },
   "DLH6LK": {
     "route": {
@@ -12866,5 +12836,31 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-02T07:30:40.273065Z"
+  },
+  "NSZ3LZ": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T07:35:20.130893Z"
+  },
+  "AMQ14C": {
+    "route": null,
+    "checked_at": "2026-10-02T07:35:20.130893Z"
+  },
+  "BAW84NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-02T07:35:20.130893Z"
   }
 }
