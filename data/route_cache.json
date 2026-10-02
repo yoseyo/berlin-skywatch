@@ -3097,7 +3097,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-01T12:01:02.402428Z"
+    "checked_at": "2026-10-02T12:40:30.338238Z"
   },
   "VLG48MQ": {
     "route": {
@@ -5216,17 +5216,6 @@
     },
     "checked_at": "2026-10-02T11:50:31.805700Z"
   },
-  "DLH882": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T12:40:28.451374Z"
-  },
   "DLH891": {
     "route": {
       "fromCity": "Riga",
@@ -5849,7 +5838,7 @@
   },
   "DHHFW": {
     "route": null,
-    "checked_at": "2026-10-01T09:00:52.954153Z"
+    "checked_at": "2026-10-02T12:40:30.338238Z"
   },
   "WZZ40LC": {
     "route": {
@@ -6971,7 +6960,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-09-30T14:20:28.925684Z"
+    "checked_at": "2026-10-02T12:40:30.338238Z"
   },
   "TIE304P": {
     "route": null,
@@ -9682,7 +9671,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T11:40:29.320215Z"
+    "checked_at": "2026-10-02T12:40:30.338238Z"
   },
   "RYR2GL": {
     "route": {
@@ -12928,5 +12917,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-02T12:35:26.447181Z"
+  },
+  "BTI8RY": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-02T12:40:30.338238Z"
+  },
+  "EJU5014": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T12:40:30.338238Z"
   }
 }
