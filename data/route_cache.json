@@ -890,7 +890,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T18:00:50.208538Z"
+    "checked_at": "2026-10-02T18:10:30.469865Z"
   },
   "SXS2KY": {
     "route": {
@@ -967,7 +967,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-01T18:15:28.244150Z"
+    "checked_at": "2026-10-02T18:10:30.469865Z"
   },
   "BAW995": {
     "route": {
@@ -5278,17 +5278,6 @@
     },
     "checked_at": "2026-10-02T12:05:22.582150Z"
   },
-  "CCA936": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-30T18:10:28.376604Z"
-  },
   "RYR15FP": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6851,17 +6840,6 @@
     },
     "checked_at": "2026-10-01T19:40:30.876148Z"
   },
-  "SDR15XL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T18:10:28.376604Z"
-  },
   "DLH8PN": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6890,7 +6868,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-09-30T18:25:21.307699Z"
+    "checked_at": "2026-10-02T18:10:30.469865Z"
   },
   "RYR5074": {
     "route": {
@@ -10090,7 +10068,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T18:10:30.356262Z"
+    "checked_at": "2026-10-02T18:10:30.469865Z"
   },
   "SDR91CF": {
     "route": {
@@ -13104,5 +13082,49 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-02T17:55:25.192243Z"
+  },
+  "EJU68NQ": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T18:10:30.469865Z"
+  },
+  "ETH725": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Addis Ababa",
+      "toIata": "ADD",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-02T18:10:30.469865Z"
+  },
+  "SDR11BL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T18:10:30.469865Z"
+  },
+  "RYR308B": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T18:10:30.469865Z"
   }
 }
