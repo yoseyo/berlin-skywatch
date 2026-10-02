@@ -1609,7 +1609,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T05:15:27.983305Z"
+    "checked_at": "2026-10-02T05:05:23.435947Z"
   },
   "SXS75G": {
     "route": {
@@ -5028,7 +5028,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T05:00:50.576950Z"
+    "checked_at": "2026-10-02T05:05:23.435947Z"
   },
   "DLH9YA": {
     "route": {
@@ -6662,17 +6662,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-02T04:05:22.487933Z"
-  },
-  "CCA839": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-30T05:00:51.510187Z"
   },
   "WZZ9389": {
     "route": {
@@ -9751,7 +9740,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T05:10:26.547807Z"
+    "checked_at": "2026-10-02T05:05:23.435947Z"
   },
   "PGT1605": {
     "route": {
@@ -12788,5 +12777,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T04:55:23.758971Z"
+  },
+  "EJU41NB": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T05:05:23.435947Z"
+  },
+  "KLM64F": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-02T05:05:23.435947Z"
+  },
+  "RYR5SC": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u00d6rebro",
+      "toIata": "ORB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T05:05:23.435947Z"
   }
 }
