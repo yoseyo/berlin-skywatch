@@ -350,7 +350,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-01T18:45:27.865540Z"
+    "checked_at": "2026-10-02T15:20:31.311021Z"
   },
   "BEL2HJ": {
     "route": {
@@ -6801,10 +6801,6 @@
     },
     "checked_at": "2026-10-01T14:50:31.214408Z"
   },
-  "TYW523P": {
-    "route": null,
-    "checked_at": "2026-09-30T15:15:29.981562Z"
-  },
   "CFG9NX": {
     "route": {
       "fromCity": "Berlin",
@@ -13104,5 +13100,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-02T15:15:29.310854Z"
+  },
+  "CFG3NY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T15:20:31.311021Z"
+  },
+  "DFLAG": {
+    "route": null,
+    "checked_at": "2026-10-02T15:20:31.311021Z"
   }
 }
