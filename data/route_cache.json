@@ -284,7 +284,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-01T15:45:30.660673Z"
+    "checked_at": "2026-10-02T14:30:45.813392Z"
   },
   "EJU81FH": {
     "route": {
@@ -3796,7 +3796,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T14:20:29.391092Z"
+    "checked_at": "2026-10-02T14:30:45.813392Z"
   },
   "ICE15M": {
     "route": {
@@ -4018,17 +4018,6 @@
   "DEHGB": {
     "route": null,
     "checked_at": "2026-10-01T15:55:28.687204Z"
-  },
-  "EJU38DP": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-30T14:25:25.299897Z"
   },
   "BTI8GC": {
     "route": {
@@ -6768,21 +6757,6 @@
     },
     "checked_at": "2026-10-02T12:40:30.338238Z"
   },
-  "TIE304P": {
-    "route": null,
-    "checked_at": "2026-09-30T14:30:42.254564Z"
-  },
-  "RYR45CC": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T14:30:42.254564Z"
-  },
   "THY40Y": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6863,7 +6837,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-01T14:25:23.518167Z"
+    "checked_at": "2026-10-02T14:30:45.813392Z"
   },
   "THY2NZ": {
     "route": {
@@ -13035,5 +13009,27 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-02T14:25:23.233896Z"
+  },
+  "BTI695": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-02T14:30:45.813392Z"
+  },
+  "RYR28LA": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T14:30:45.813392Z"
   }
 }
