@@ -1716,7 +1716,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T06:00:49.602002Z"
+    "checked_at": "2026-10-02T06:25:23.396464Z"
   },
   "DLH2X": {
     "route": {
@@ -2337,7 +2337,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T08:55:21.657153Z"
+    "checked_at": "2026-10-02T06:25:23.396464Z"
   },
   "TVF41HV": {
     "route": {
@@ -6625,39 +6625,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-01T06:15:26.758977Z"
-  },
-  "NSZ3748": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Palermo",
-      "toIata": "PMO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T06:20:31.654816Z"
-  },
-  "RYR786D": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T06:20:31.654816Z"
-  },
-  "NOZ1910": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-09-30T06:20:31.654816Z"
   },
   "SXS6JW": {
     "route": {
@@ -12787,5 +12754,64 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-02T06:20:29.174269Z"
+  },
+  "ETH724": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-02T06:25:23.396464Z"
+  },
+  "NOZ6FM": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-02T06:25:23.396464Z"
+  },
+  "DEQGS": {
+    "route": null,
+    "checked_at": "2026-10-02T06:25:23.396464Z"
+  },
+  "EZS53CU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-02T06:25:23.396464Z"
+  },
+  "WZZ5918": {
+    "route": {
+      "fromCity": "Yerevan",
+      "fromIata": "EVN",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T06:25:23.396464Z"
+  },
+  "RYR97WV": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T06:25:23.396464Z"
   }
 }
