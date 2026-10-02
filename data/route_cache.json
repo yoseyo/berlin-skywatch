@@ -1797,7 +1797,7 @@
   },
   "EWG6NT": {
     "route": null,
-    "checked_at": "2026-10-01T04:35:23.160939Z"
+    "checked_at": "2026-10-02T06:35:22.400289Z"
   },
   "EJU46ZJ": {
     "route": {
@@ -1918,7 +1918,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T06:45:29.077544Z"
+    "checked_at": "2026-10-02T06:35:22.400289Z"
   },
   "LOT4MH": {
     "route": {
@@ -3954,7 +3954,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T06:30:40.397785Z"
+    "checked_at": "2026-10-02T06:35:22.400289Z"
   },
   "SAS44A": {
     "route": {
@@ -5149,7 +5149,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T06:50:31.031412Z"
+    "checked_at": "2026-10-02T06:35:22.400289Z"
   },
   "BTI97T": {
     "route": {
@@ -6817,7 +6817,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T07:45:29.279625Z"
+    "checked_at": "2026-10-02T06:35:22.400289Z"
   },
   "RYR717M": {
     "route": {
@@ -12813,5 +12813,27 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-02T06:30:40.703639Z"
+  },
+  "CFG1KL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T06:35:22.400289Z"
+  },
+  "CFG2HD": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T06:35:22.400289Z"
   }
 }
