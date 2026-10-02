@@ -978,7 +978,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-01T18:10:30.356262Z"
+    "checked_at": "2026-10-02T18:20:31.580948Z"
   },
   "BEL9DL": {
     "route": {
@@ -5935,17 +5935,6 @@
     "route": null,
     "checked_at": "2026-10-02T18:15:31.579789Z"
   },
-  "PGT566B": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-30T18:20:29.136375Z"
-  },
   "WZZ6LM": {
     "route": {
       "fromCity": "Budapest",
@@ -6854,10 +6843,6 @@
   "BTX8H": {
     "route": null,
     "checked_at": "2026-10-01T11:20:29.210679Z"
-  },
-  "VJT473": {
-    "route": null,
-    "checked_at": "2026-09-30T18:20:29.136375Z"
   },
   "QTR24E": {
     "route": {
@@ -13148,5 +13133,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T18:15:31.579789Z"
+  },
+  "CTN4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-02T18:20:31.580948Z"
   }
 }
