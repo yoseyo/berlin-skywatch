@@ -1852,7 +1852,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T06:30:40.397785Z"
+    "checked_at": "2026-10-02T06:15:41.196408Z"
   },
   "SAS661": {
     "route": {
@@ -6625,10 +6625,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-01T06:15:26.758977Z"
-  },
-  "SCO801X": {
-    "route": null,
-    "checked_at": "2026-09-30T06:15:29.919583Z"
   },
   "NSZ3748": {
     "route": {
@@ -12765,5 +12761,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T06:10:29.842487Z"
+  },
+  "NOZ1870": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-02T06:15:41.196408Z"
   }
 }
