@@ -376,7 +376,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T15:25:25.127425Z"
+    "checked_at": "2026-10-02T15:30:43.258856Z"
   },
   "FIN01AD": {
     "route": {
@@ -589,7 +589,7 @@
   },
   "WZZ98RS": {
     "route": null,
-    "checked_at": "2026-10-01T17:10:28.972420Z"
+    "checked_at": "2026-10-02T15:30:43.258856Z"
   },
   "DLH1KY": {
     "route": {
@@ -4186,7 +4186,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T14:50:31.214408Z"
+    "checked_at": "2026-10-02T15:30:43.258856Z"
   },
   "RYR5XX": {
     "route": {
@@ -4418,17 +4418,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-02T15:03:42.347699Z"
-  },
-  "AUA233": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-30T15:30:41.707496Z"
   },
   "LEJ110": {
     "route": null,
@@ -5292,10 +5281,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T16:35:22.099381Z"
-  },
-  "DGFKH": {
-    "route": null,
-    "checked_at": "2026-09-30T15:30:41.707496Z"
   },
   "RYR67ZT": {
     "route": {
@@ -6785,10 +6770,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T14:50:31.214408Z"
-  },
-  "SPFMK": {
-    "route": null,
-    "checked_at": "2026-09-30T15:30:41.707496Z"
   },
   "BBB35P": {
     "route": null,
@@ -10036,7 +10017,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T15:20:35.818894Z"
+    "checked_at": "2026-10-02T15:30:43.258856Z"
   },
   "DERDH": {
     "route": null,
@@ -13063,5 +13044,27 @@
   "DFLAG": {
     "route": null,
     "checked_at": "2026-10-02T15:20:31.311021Z"
+  },
+  "LZB320": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Bulgaria Air",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-02T15:30:43.258856Z"
+  },
+  "EWG3GH": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T15:30:43.258856Z"
   }
 }
