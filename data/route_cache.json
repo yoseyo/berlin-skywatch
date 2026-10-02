@@ -2620,7 +2620,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T09:55:24.853509Z"
+    "checked_at": "2026-10-02T10:10:29.963955Z"
   },
   "KLM1775": {
     "route": {
@@ -2668,7 +2668,7 @@
   },
   "WUK1356": {
     "route": null,
-    "checked_at": "2026-10-01T10:10:27.685153Z"
+    "checked_at": "2026-10-02T10:10:29.963955Z"
   },
   "THY2XR": {
     "route": {
@@ -2712,7 +2712,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-01T10:05:24.975766Z"
+    "checked_at": "2026-10-02T10:10:29.963955Z"
   },
   "NSZ4506": {
     "route": {
@@ -2745,7 +2745,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T10:20:28.691789Z"
+    "checked_at": "2026-10-02T10:10:29.963955Z"
   },
   "AEE2WD": {
     "route": {
@@ -4553,7 +4553,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-01T10:20:28.691789Z"
+    "checked_at": "2026-10-02T10:10:29.963955Z"
   },
   "EWG67A": {
     "route": {
@@ -6000,17 +6000,6 @@
     "route": null,
     "checked_at": "2026-09-30T10:15:28.002175Z"
   },
-  "EJU58DM": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-30T10:05:22.629319Z"
-  },
   "SXS679": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -6139,10 +6128,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-09-30T15:40:29.547246Z"
-  },
-  "N759SB": {
-    "route": null,
-    "checked_at": "2026-09-30T10:05:22.629319Z"
   },
   "AEE512": {
     "route": {
@@ -6659,39 +6644,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-01T19:25:25.383112Z"
-  },
-  "FIN98J": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-30T10:05:22.629319Z"
-  },
-  "CFG3YU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T10:05:22.629319Z"
-  },
-  "MFX7662": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "Tashkent",
-      "toIata": "TAS",
-      "airlineName": "My Freighter LLC",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-09-30T10:05:22.629319Z"
   },
   "RYR364N": {
     "route": {
@@ -11486,7 +11438,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T19:05:24.427757Z"
+    "checked_at": "2026-10-02T10:10:29.963955Z"
   },
   "SFG55D": {
     "route": null,
@@ -12944,5 +12896,16 @@
   "WMT751": {
     "route": null,
     "checked_at": "2026-10-02T10:05:22.502248Z"
+  },
+  "QTR72U": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-02T10:10:29.963955Z"
   }
 }
