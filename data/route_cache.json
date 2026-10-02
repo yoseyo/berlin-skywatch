@@ -2998,7 +2998,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-01T12:01:02.402428Z"
+    "checked_at": "2026-10-02T12:20:30.793699Z"
   },
   "SAS2733": {
     "route": {
@@ -3156,7 +3156,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-01T12:15:28.230026Z"
+    "checked_at": "2026-10-02T12:20:30.793699Z"
   },
   "EJU47DE": {
     "route": null,
@@ -5676,10 +5676,6 @@
   "N628TS": {
     "route": null,
     "checked_at": "2026-10-01T07:25:20.582240Z"
-  },
-  "LHB2": {
-    "route": null,
-    "checked_at": "2026-09-30T12:15:30.998661Z"
   },
   "AMQ9I": {
     "route": null,
@@ -9812,7 +9808,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T12:15:28.230026Z"
+    "checked_at": "2026-10-02T12:20:30.793699Z"
   },
   "RYR97A": {
     "route": {
@@ -12907,5 +12903,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-02T12:15:30.184929Z"
+  },
+  "BTI72X": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-02T12:20:30.793699Z"
+  },
+  "BTI630": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-02T12:20:30.793699Z"
   }
 }
