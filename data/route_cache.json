@@ -1297,7 +1297,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-01T20:50:31.636248Z"
+    "checked_at": "2026-10-02T20:50:30.162898Z"
   },
   "EWG6AZ": {
     "route": {
@@ -1319,7 +1319,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T21:15:30.583752Z"
+    "checked_at": "2026-10-02T20:50:30.162898Z"
   },
   "RYR691A": {
     "route": {
@@ -1352,7 +1352,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T20:10:27.683299Z"
+    "checked_at": "2026-10-02T20:50:30.162898Z"
   },
   "RYR3QE": {
     "route": {
@@ -8279,7 +8279,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T10:15:29.175145Z"
+    "checked_at": "2026-10-02T20:50:30.162898Z"
   },
   "WZZ3GV": {
     "route": {
@@ -13009,5 +13009,38 @@
   "MFX152": {
     "route": null,
     "checked_at": "2026-10-02T20:45:28.457302Z"
+  },
+  "RYR7YZ": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T20:50:30.162898Z"
+  },
+  "QTR28L": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-02T20:50:30.162898Z"
+  },
+  "RYR7RJ": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T20:50:30.162898Z"
   }
 }
