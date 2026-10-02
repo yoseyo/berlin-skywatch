@@ -563,7 +563,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T16:20:29.626278Z"
+    "checked_at": "2026-10-02T16:35:24.165470Z"
   },
   "AFR99GT": {
     "route": {
@@ -4586,7 +4586,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T16:50:29.413933Z"
+    "checked_at": "2026-10-02T16:35:24.165470Z"
   },
   "EWG3V": {
     "route": {
@@ -6810,10 +6810,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T15:15:29.310854Z"
-  },
-  "LDX600C": {
-    "route": null,
-    "checked_at": "2026-09-30T16:35:23.694063Z"
   },
   "EWG63L": {
     "route": {
@@ -13135,5 +13131,16 @@
   "UPEM014": {
     "route": null,
     "checked_at": "2026-10-02T16:30:42.824395Z"
+  },
+  "NSZ3YL": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T16:35:24.165470Z"
   }
 }
