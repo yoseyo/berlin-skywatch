@@ -2532,7 +2532,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-01T09:15:29.195549Z"
+    "checked_at": "2026-10-02T09:55:22.828046Z"
   },
   "EJU5261": {
     "route": {
@@ -2642,7 +2642,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-01T10:00:52.087930Z"
+    "checked_at": "2026-10-02T09:55:22.828046Z"
   },
   "RYR9YD": {
     "route": {
@@ -2653,7 +2653,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T11:10:30.295646Z"
+    "checked_at": "2026-10-02T09:55:22.828046Z"
   },
   "RYR4PT": {
     "route": {
@@ -4187,17 +4187,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T04:00:48.978368Z"
-  },
-  "CTN384E": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-09-30T09:50:29.925009Z"
   },
   "EJU8624": {
     "route": {
@@ -6645,10 +6634,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-02T07:05:22.233265Z"
-  },
-  "BRJ502": {
-    "route": null,
-    "checked_at": "2026-09-30T09:50:29.925009Z"
   },
   "RYR13PB": {
     "route": {
@@ -12975,5 +12960,16 @@
   "ABP713": {
     "route": null,
     "checked_at": "2026-10-02T09:50:29.479430Z"
+  },
+  "BLX8HY": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T09:55:22.828046Z"
   }
 }
