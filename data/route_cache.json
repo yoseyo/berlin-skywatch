@@ -2396,7 +2396,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T09:10:29.432717Z"
+    "checked_at": "2026-10-02T09:15:27.973950Z"
   },
   "RYR4TC": {
     "route": {
@@ -11504,7 +11504,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T18:30:44.054976Z"
+    "checked_at": "2026-10-02T09:15:27.973950Z"
   },
   "EJU76NZ": {
     "route": {
@@ -12861,5 +12861,60 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-02T09:05:22.967600Z"
+  },
+  "EWG4DA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T09:15:27.973950Z"
+  },
+  "SAS92D": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T09:15:27.973950Z"
+  },
+  "LOT2LP": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-02T09:15:27.973950Z"
+  },
+  "EJU93RY": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T09:15:27.973950Z"
+  },
+  "CFG2YU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T09:15:27.973950Z"
   }
 }
