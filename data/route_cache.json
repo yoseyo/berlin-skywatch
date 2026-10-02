@@ -2407,7 +2407,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T13:40:29.969512Z"
+    "checked_at": "2026-10-02T10:00:52.213762Z"
   },
   "EJU87YF": {
     "route": {
@@ -2521,7 +2521,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-01T10:20:28.691789Z"
+    "checked_at": "2026-10-02T10:00:52.213762Z"
   },
   "TAP53LB": {
     "route": {
@@ -2701,7 +2701,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-01T10:00:52.087930Z"
+    "checked_at": "2026-10-02T10:00:52.213762Z"
   },
   "BEL4NK": {
     "route": {
@@ -5161,10 +5161,6 @@
     },
     "checked_at": "2026-10-01T16:40:28.904932Z"
   },
-  "WMT751": {
-    "route": null,
-    "checked_at": "2026-09-30T09:55:24.511587Z"
-  },
   "CFE34E": {
     "route": {
       "fromCity": "Berlin",
@@ -5403,10 +5399,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-01T16:10:29.241287Z"
-  },
-  "DEICO": {
-    "route": null,
-    "checked_at": "2026-09-30T09:55:24.511587Z"
   },
   "NSZ2066": {
     "route": {
@@ -6646,14 +6638,6 @@
     },
     "checked_at": "2026-10-01T12:40:30.286459Z"
   },
-  "DEADX": {
-    "route": null,
-    "checked_at": "2026-09-30T09:55:24.511587Z"
-  },
-  "NJE004R": {
-    "route": null,
-    "checked_at": "2026-09-30T09:55:24.511587Z"
-  },
   "DEMJM": {
     "route": null,
     "checked_at": "2026-09-30T10:00:52.711998Z"
@@ -6793,7 +6777,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T10:05:24.975766Z"
+    "checked_at": "2026-10-02T10:00:52.213762Z"
   },
   "HBKHR": {
     "route": null,
@@ -12971,5 +12955,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-02T09:55:22.828046Z"
+  },
+  "BTI4WA": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-02T10:00:52.213762Z"
   }
 }
