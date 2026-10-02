@@ -133,7 +133,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T13:50:29.009989Z"
+    "checked_at": "2026-10-02T14:00:51.729575Z"
   },
   "RYR1SM": {
     "route": {
@@ -1819,7 +1819,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T04:55:22.790798Z"
+    "checked_at": "2026-10-02T14:00:51.729575Z"
   },
   "WZZ84": {
     "route": {
@@ -10009,7 +10009,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T14:17:37.495893Z"
+    "checked_at": "2026-10-02T14:00:51.729575Z"
   },
   "CFG4FD": {
     "route": {
@@ -12970,5 +12970,31 @@
   "GAF679": {
     "route": null,
     "checked_at": "2026-10-02T13:55:22.827332Z"
+  },
+  "CES244": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-02T14:00:51.729575Z"
+  },
+  "CES5014": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Xi'an",
+      "toIata": "XIY",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-02T14:00:51.729575Z"
+  },
+  "CAT677": {
+    "route": null,
+    "checked_at": "2026-10-02T14:00:51.729575Z"
   }
 }
