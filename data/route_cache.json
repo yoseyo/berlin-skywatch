@@ -857,7 +857,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T18:40:31.377773Z"
+    "checked_at": "2026-10-02T17:55:25.192243Z"
   },
   "KLM1782": {
     "route": {
@@ -1055,7 +1055,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T17:55:22.710365Z"
+    "checked_at": "2026-10-02T17:55:25.192243Z"
   },
   "LOT2MN": {
     "route": {
@@ -5313,7 +5313,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T17:55:22.710365Z"
+    "checked_at": "2026-10-02T17:55:25.192243Z"
   },
   "SAS2768": {
     "route": {
@@ -6854,10 +6854,6 @@
   "VJT426": {
     "route": null,
     "checked_at": "2026-10-01T09:45:32.317593Z"
-  },
-  "KMM376": {
-    "route": null,
-    "checked_at": "2026-09-30T17:55:23.185538Z"
   },
   "BBG271": {
     "route": {
@@ -13149,5 +13145,16 @@
   "ATV504": {
     "route": null,
     "checked_at": "2026-10-02T17:50:31.716453Z"
+  },
+  "NOZ5HE": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-02T17:55:25.192243Z"
   }
 }
