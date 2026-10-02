@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-01T13:10:33.423972Z"
+    "checked_at": "2026-10-02T12:50:32.413192Z"
   },
   "MSC2961": {
     "route": {
@@ -5225,7 +5225,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T12:40:30.286459Z"
+    "checked_at": "2026-10-02T12:50:32.413192Z"
   },
   "CCA966": {
     "route": {
@@ -6714,28 +6714,6 @@
     },
     "checked_at": "2026-10-02T12:00:51.910088Z"
   },
-  "EWG9L": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T12:45:30.066080Z"
-  },
-  "RYR7UL": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T12:45:30.066080Z"
-  },
   "RYR159P": {
     "route": {
       "fromCity": "Vilnius",
@@ -6852,7 +6830,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-01T13:20:31.080808Z"
+    "checked_at": "2026-10-02T12:50:32.413192Z"
   },
   "RYR4DY": {
     "route": {
@@ -12939,5 +12917,35 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T12:40:30.338238Z"
+  },
+  "TOY504": {
+    "route": null,
+    "checked_at": "2026-10-02T12:50:32.413192Z"
+  },
+  "MPC003": {
+    "route": null,
+    "checked_at": "2026-10-02T12:50:32.413192Z"
+  },
+  "RYR91ZT": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T12:50:32.413192Z"
+  },
+  "WZZ60QL": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T12:50:32.413192Z"
   }
 }
