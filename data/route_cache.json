@@ -1907,7 +1907,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-01T06:35:23.840301Z"
+    "checked_at": "2026-10-02T06:55:21.275472Z"
   },
   "DLH174": {
     "route": {
@@ -3664,7 +3664,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-01T06:55:23.078704Z"
+    "checked_at": "2026-10-02T06:55:21.275472Z"
   },
   "WZZ3EA": {
     "route": {
@@ -6765,7 +6765,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T13:05:24.475317Z"
+    "checked_at": "2026-10-02T06:55:21.275472Z"
   },
   "N985EK": {
     "route": null,
@@ -9799,7 +9799,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T06:40:29.813827Z"
+    "checked_at": "2026-10-02T06:55:21.275472Z"
   },
   "SAS31T": {
     "route": {
@@ -12798,5 +12798,27 @@
   "WZZ2550": {
     "route": null,
     "checked_at": "2026-10-02T06:51:05.877437Z"
+  },
+  "LOT286": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-02T06:55:21.275472Z"
+  },
+  "FIN5R": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-02T06:55:21.275472Z"
   }
 }
