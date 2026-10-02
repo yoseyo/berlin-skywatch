@@ -475,7 +475,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T16:05:26.325004Z"
+    "checked_at": "2026-10-02T16:05:26.642771Z"
   },
   "SWR23F": {
     "route": {
@@ -541,7 +541,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-01T16:10:29.241287Z"
+    "checked_at": "2026-10-02T16:05:26.642771Z"
   },
   "IBE07WR": {
     "route": {
@@ -6800,32 +6800,6 @@
     },
     "checked_at": "2026-10-02T10:35:24.500408Z"
   },
-  "QTR58A": {
-    "route": {
-      "fromCity": "Los Angeles",
-      "fromIata": "LAX",
-      "toCity": "Li\u00e8ge",
-      "toIata": "LGG",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-09-30T16:00:55.809212Z"
-  },
-  "DHABH": {
-    "route": null,
-    "checked_at": "2026-09-30T16:00:55.809212Z"
-  },
-  "WZZ691": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "BGY",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-09-30T16:00:55.809212Z"
-  },
   "TKJ9TC": {
     "route": {
       "fromCity": "Ankara",
@@ -9638,7 +9612,7 @@
   },
   "N677AL": {
     "route": null,
-    "checked_at": "2026-10-01T13:40:29.969512Z"
+    "checked_at": "2026-10-02T16:05:26.642771Z"
   },
   "CKK215": {
     "route": {
@@ -13131,5 +13105,42 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-02T15:55:23.621694Z"
+  },
+  "EJU38DP": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T16:05:26.642771Z"
+  },
+  "JTD395": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-02T16:05:26.642771Z"
+  },
+  "N118MX": {
+    "route": null,
+    "checked_at": "2026-10-02T16:05:26.642771Z"
+  },
+  "RYR33KQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T16:05:26.642771Z"
   }
 }
