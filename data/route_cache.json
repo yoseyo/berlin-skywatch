@@ -6994,10 +6994,6 @@
     },
     "checked_at": "2026-10-01T19:50:04.471764Z"
   },
-  "MFX7667": {
-    "route": null,
-    "checked_at": "2026-09-30T21:10:28.951143Z"
-  },
   "RYR7FD": {
     "route": {
       "fromCity": "Berlin",
@@ -7008,17 +7004,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T17:05:27.369392Z"
-  },
-  "SDR33WB": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T21:10:28.951143Z"
   },
   "NSZ5GT": {
     "route": {
@@ -9990,7 +9975,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T19:55:21.994026Z"
+    "checked_at": "2026-10-02T21:10:30.409127Z"
   },
   "EZY89CH": {
     "route": {
@@ -13068,5 +13053,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T21:00:50.613546Z"
+  },
+  "RYR50PQ": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T21:10:30.409127Z"
   }
 }
