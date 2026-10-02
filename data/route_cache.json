@@ -2734,7 +2734,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-01T11:00:52.689746Z"
+    "checked_at": "2026-10-02T10:15:29.541009Z"
   },
   "PGT54XN": {
     "route": {
@@ -5306,7 +5306,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-01T10:25:25.098198Z"
+    "checked_at": "2026-10-02T10:15:29.541009Z"
   },
   "TAP532B": {
     "route": {
@@ -5619,7 +5619,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T15:45:30.660673Z"
+    "checked_at": "2026-10-02T10:15:29.541009Z"
   },
   "AEG6911": {
     "route": null,
@@ -5995,10 +5995,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T12:15:28.230026Z"
-  },
-  "DEEOE": {
-    "route": null,
-    "checked_at": "2026-09-30T10:15:28.002175Z"
   },
   "SXS679": {
     "route": {
@@ -12907,5 +12903,49 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-10-02T10:10:29.963955Z"
+  },
+  "FHY1273": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-02T10:15:29.541009Z"
+  },
+  "LBT249": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Monastir",
+      "toIata": "MIR",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-02T10:15:29.541009Z"
+  },
+  "CXI8T": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-02T10:15:29.541009Z"
+  },
+  "RYR127K": {
+    "route": {
+      "fromCity": "Marrakech",
+      "fromIata": "RAK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T10:15:29.541009Z"
   }
 }
