@@ -1044,7 +1044,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-01T19:35:22.947369Z"
+    "checked_at": "2026-10-02T19:10:29.016745Z"
   },
   "SXS6XP": {
     "route": {
@@ -1088,7 +1088,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T19:00:55.395515Z"
+    "checked_at": "2026-10-02T19:10:29.016745Z"
   },
   "SAS1680": {
     "route": {
@@ -3978,17 +3978,6 @@
     "route": null,
     "checked_at": "2026-10-01T15:55:28.687204Z"
   },
-  "BTI8GC": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-09-30T19:05:24.087348Z"
-  },
   "FIN78Q": {
     "route": {
       "fromCity": "Helsinki",
@@ -4681,7 +4670,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T19:20:31.127809Z"
+    "checked_at": "2026-10-02T19:10:29.016745Z"
   },
   "DLH5CK": {
     "route": {
@@ -6855,17 +6844,6 @@
     "route": null,
     "checked_at": "2026-10-02T08:30:39.025348Z"
   },
-  "CFG1CD": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T19:05:24.087348Z"
-  },
   "EJU32PZ": {
     "route": {
       "fromCity": "Geneva",
@@ -7033,7 +7011,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-01T19:10:31.959553Z"
+    "checked_at": "2026-10-02T19:10:29.016745Z"
   },
   "SAS95W": {
     "route": {
@@ -13170,5 +13148,16 @@
   "EJU32RT": {
     "route": null,
     "checked_at": "2026-10-02T19:05:23.696029Z"
+  },
+  "CFG1MP": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T19:10:29.016745Z"
   }
 }
