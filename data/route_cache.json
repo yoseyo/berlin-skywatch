@@ -2385,7 +2385,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-01T11:15:27.719804Z"
+    "checked_at": "2026-10-02T09:35:22.597860Z"
   },
   "DLH4AK": {
     "route": {
@@ -2466,7 +2466,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-01T16:45:49.108965Z"
+    "checked_at": "2026-10-02T09:35:22.597860Z"
   },
   "WMT358": {
     "route": {
@@ -5846,7 +5846,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T09:25:24.239294Z"
+    "checked_at": "2026-10-02T09:35:22.597860Z"
   },
   "CAI17QT": {
     "route": {
@@ -9807,7 +9807,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-01T09:20:30.800948Z"
+    "checked_at": "2026-10-02T09:35:22.597860Z"
   },
   "WZZ54P": {
     "route": {
@@ -12964,5 +12964,27 @@
   "ALE134": {
     "route": null,
     "checked_at": "2026-10-02T09:30:42.580609Z"
+  },
+  "SDR10CL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T09:35:22.597860Z"
+  },
+  "MEA245": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-02T09:35:22.597860Z"
   }
 }
