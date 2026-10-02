@@ -177,7 +177,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T13:20:31.080808Z"
+    "checked_at": "2026-10-02T07:45:29.716504Z"
   },
   "CHX31": {
     "route": null,
@@ -1782,7 +1782,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T14:00:51.390163Z"
+    "checked_at": "2026-10-02T07:45:29.716504Z"
   },
   "KLM1771": {
     "route": {
@@ -2153,7 +2153,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-01T07:40:26.925214Z"
+    "checked_at": "2026-10-02T07:45:29.716504Z"
   },
   "QTR85X": {
     "route": {
@@ -2175,7 +2175,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T07:40:26.925214Z"
+    "checked_at": "2026-10-02T07:45:29.716504Z"
   },
   "DLH175": {
     "route": {
@@ -6588,17 +6588,6 @@
     },
     "checked_at": "2026-10-01T07:35:22.634426Z"
   },
-  "CTN284E": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-09-30T07:40:31.587699Z"
-  },
   "EJU65NU": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6609,17 +6598,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T17:15:28.931159Z"
-  },
-  "RYR7398": {
-    "route": {
-      "fromCity": "Pula",
-      "fromIata": "PUY",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T07:45:29.279625Z"
   },
   "RYR8AL": {
     "route": {
@@ -12847,5 +12825,20 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-02T07:40:29.593898Z"
+  },
+  "DISAG": {
+    "route": null,
+    "checked_at": "2026-10-02T07:45:29.716504Z"
+  },
+  "EZY84XQ": {
+    "route": {
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-02T07:45:29.716504Z"
   }
 }
