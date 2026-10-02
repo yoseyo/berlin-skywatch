@@ -791,7 +791,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-01T17:30:41.776638Z"
+    "checked_at": "2026-10-02T17:15:29.503676Z"
   },
   "AEE8DT": {
     "route": {
@@ -4553,7 +4553,7 @@
   },
   "EJU5087": {
     "route": null,
-    "checked_at": "2026-10-01T17:20:33.949635Z"
+    "checked_at": "2026-10-02T17:15:29.503676Z"
   },
   "CFE7026": {
     "route": {
@@ -13168,5 +13168,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-02T17:05:27.369392Z"
+  },
+  "NOZ2XD": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-02T17:15:29.503676Z"
+  },
+  "RYR8PJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T17:15:29.503676Z"
+  },
+  "CTN4408": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-02T17:15:29.503676Z"
   }
 }
