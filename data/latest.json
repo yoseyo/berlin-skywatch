@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "SWR1317",
-      "country": "Latvia",
-      "lat": 52.297,
-      "lon": 13.3407,
-      "altKm": 12.0,
-      "speedKmh": 748,
-      "heading": 213,
-      "vertRateMs": 0,
-      "airline": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland",
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
+      "callsign": "NJE774R",
+      "country": "Portugal",
+      "lat": 52.4578,
+      "lon": 13.5029,
+      "altKm": 4.0,
+      "speedKmh": 492,
+      "heading": 276,
+      "vertRateMs": 18.5,
+      "category": "jet"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.1906,
+      "lon": 13.1049,
+      "altKm": 2.1,
+      "speedKmh": 436,
+      "heading": 345,
+      "vertRateMs": -7.8,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-02T03:50:27.884175Z"
+  "updated_at": "2026-10-02T03:55:26.763819Z"
 }
