@@ -1466,7 +1466,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T19:40:29.147589Z"
+    "checked_at": "2026-10-02T07:40:29.593898Z"
   },
   "EJU62LY": {
     "route": {
@@ -2100,17 +2100,6 @@
     },
     "checked_at": "2026-10-01T07:55:22.133492Z"
   },
-  "DLH3EV": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T07:35:58.553529Z"
-  },
   "KLM38Z": {
     "route": {
       "fromCity": "Berlin",
@@ -2252,7 +2241,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-01T07:45:28.375907Z"
+    "checked_at": "2026-10-02T07:40:29.593898Z"
   },
   "SAS2677": {
     "route": {
@@ -5176,17 +5165,6 @@
     },
     "checked_at": "2026-10-01T07:10:26.707789Z"
   },
-  "SAS2831": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T07:35:58.553529Z"
-  },
   "LHX5PN": {
     "route": {
       "fromCity": "Berlin",
@@ -6609,21 +6587,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T07:35:22.634426Z"
-  },
-  "DLH6LK": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T07:35:58.553529Z"
-  },
-  "NJE675T": {
-    "route": null,
-    "checked_at": "2026-09-30T07:35:58.553529Z"
   },
   "CTN284E": {
     "route": {
@@ -9933,7 +9896,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T08:00:49.839295Z"
+    "checked_at": "2026-10-02T07:40:29.593898Z"
   },
   "RYR7953": {
     "route": {
@@ -12862,5 +12825,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-02T07:35:20.130893Z"
+  },
+  "EJU92KA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T07:40:29.593898Z"
+  },
+  "WMT1JM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-02T07:40:29.593898Z"
   }
 }
