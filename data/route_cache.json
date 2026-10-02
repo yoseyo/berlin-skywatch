@@ -2866,7 +2866,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T15:20:35.818894Z"
+    "checked_at": "2026-10-02T12:05:22.582150Z"
   },
   "DLH8LY": {
     "route": {
@@ -3064,7 +3064,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T11:35:22.911090Z"
+    "checked_at": "2026-10-02T12:05:22.582150Z"
   },
   "PGT93T": {
     "route": {
@@ -4406,7 +4406,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-01T12:25:23.312090Z"
+    "checked_at": "2026-10-02T12:05:22.582150Z"
   },
   "EJU71KT": {
     "route": {
@@ -5431,7 +5431,7 @@
       "airlineName": "Nouvelair",
       "airlineCountry": "Tunisia"
     },
-    "checked_at": "2026-09-30T13:15:28.051710Z"
+    "checked_at": "2026-10-02T12:05:22.582150Z"
   },
   "CCA936": {
     "route": {
@@ -6706,17 +6706,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-02T12:00:51.910088Z"
-  },
-  "NSZ3749": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T12:05:21.860728Z"
   },
   "SAS58M": {
     "route": {
@@ -12893,5 +12882,27 @@
   "DCTOM": {
     "route": null,
     "checked_at": "2026-10-02T12:00:51.910088Z"
+  },
+  "BTI72C": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-02T12:05:22.582150Z"
+  },
+  "AUA977F": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T12:05:22.582150Z"
   }
 }
