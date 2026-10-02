@@ -3803,7 +3803,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T18:55:23.162759Z"
+    "checked_at": "2026-10-02T18:55:24.105032Z"
   },
   "UAE98V": {
     "route": {
@@ -10093,7 +10093,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-01T18:50:29.048292Z"
+    "checked_at": "2026-10-02T18:55:24.105032Z"
   },
   "RYR4DZ": {
     "route": {
@@ -13118,5 +13118,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T18:50:30.126014Z"
+  },
+  "RYR1VD": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Marrakech",
+      "toIata": "RAK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T18:55:24.105032Z"
+  },
+  "RYR8603": {
+    "route": {
+      "fromCity": "Weeze",
+      "fromIata": "NRN",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T18:55:24.105032Z"
   }
 }
