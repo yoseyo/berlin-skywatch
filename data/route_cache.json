@@ -225,7 +225,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-01T14:50:31.214408Z"
+    "checked_at": "2026-10-02T14:20:36.297041Z"
   },
   "AUA995F": {
     "route": {
@@ -3390,17 +3390,6 @@
     },
     "checked_at": "2026-09-30T14:30:42.254564Z"
   },
-  "DLH2PM": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T14:15:31.125293Z"
-  },
   "EWG7DL": {
     "route": null,
     "checked_at": "2026-10-02T10:45:28.895374Z"
@@ -4040,17 +4029,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-09-30T14:25:25.299897Z"
-  },
-  "RYR28LA": {
-    "route": {
-      "fromCity": "Kerkyra Island",
-      "fromIata": "CFU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T14:15:31.125293Z"
   },
   "BTI8GC": {
     "route": {
@@ -5236,7 +5214,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-01T14:25:23.518167Z"
+    "checked_at": "2026-10-02T14:20:36.297041Z"
   },
   "EJU93XZ": {
     "route": {
@@ -6128,10 +6106,6 @@
     "route": null,
     "checked_at": "2026-10-01T18:05:23.600463Z"
   },
-  "GAF811": {
-    "route": null,
-    "checked_at": "2026-09-30T14:20:28.925684Z"
-  },
   "PGT566B": {
     "route": {
       "fromCity": "Pendik, Istanbul",
@@ -6782,10 +6756,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T13:40:29.969512Z"
-  },
-  "DEJYZ": {
-    "route": null,
-    "checked_at": "2026-09-30T14:15:31.125293Z"
   },
   "RJA137": {
     "route": {
@@ -13021,5 +12991,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-02T14:15:30.714099Z"
+  },
+  "EJU59TY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T14:20:36.297041Z"
+  },
+  "BAW844": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-02T14:20:36.297041Z"
   }
 }
