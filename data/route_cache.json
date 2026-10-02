@@ -5821,10 +5821,6 @@
     },
     "checked_at": "2026-10-02T11:50:31.805700Z"
   },
-  "DMHPH": {
-    "route": null,
-    "checked_at": "2026-09-30T13:40:28.689085Z"
-  },
   "SXS678": {
     "route": {
       "fromCity": "Antalya",
@@ -5957,17 +5953,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T15:20:35.818894Z"
-  },
-  "RYR6FD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T13:35:23.524377Z"
   },
   "RYR785N": {
     "route": {
@@ -6765,10 +6750,6 @@
     },
     "checked_at": "2026-10-01T16:15:31.976997Z"
   },
-  "AWH92N": {
-    "route": null,
-    "checked_at": "2026-09-30T13:35:23.524377Z"
-  },
   "THY3TR": {
     "route": {
       "fromCity": "\u0130zmir",
@@ -6779,21 +6760,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-02T13:25:24.511650Z"
-  },
-  "DEHKT": {
-    "route": null,
-    "checked_at": "2026-09-30T13:40:28.689085Z"
-  },
-  "CFG6JH": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T13:40:28.689085Z"
   },
   "EWG9KG": {
     "route": {
@@ -12981,5 +12947,31 @@
   "GAF618": {
     "route": null,
     "checked_at": "2026-10-02T13:35:22.474611Z"
+  },
+  "EJU98TC": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T13:40:34.592089Z"
+  },
+  "N66HR": {
+    "route": null,
+    "checked_at": "2026-10-02T13:40:34.592089Z"
+  },
+  "SDR45EE": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T13:40:34.592089Z"
   }
 }
