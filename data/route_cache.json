@@ -2811,7 +2811,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-01T10:40:30.337050Z"
+    "checked_at": "2026-10-02T10:50:30.787176Z"
   },
   "AFR12DD": {
     "route": {
@@ -3807,7 +3807,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-01T11:20:29.210679Z"
+    "checked_at": "2026-10-02T10:50:30.787176Z"
   },
   "WMT7WQ": {
     "route": {
@@ -3998,7 +3998,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T10:55:25.189907Z"
+    "checked_at": "2026-10-02T10:50:30.787176Z"
   },
   "DLH1YY": {
     "route": {
@@ -5193,17 +5193,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T10:10:27.685153Z"
-  },
-  "BAW843": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-09-30T10:50:30.488078Z"
   },
   "LHX2T": {
     "route": {
@@ -6695,28 +6684,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-01T16:20:29.626278Z"
-  },
-  "UAE59": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-09-30T10:50:30.488078Z"
-  },
-  "SDR33TS": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T10:50:30.488078Z"
   },
   "BTI8KA": {
     "route": {
@@ -12935,5 +12902,20 @@
   "AWH38T": {
     "route": null,
     "checked_at": "2026-10-02T10:45:28.895374Z"
+  },
+  "GAC747P": {
+    "route": null,
+    "checked_at": "2026-10-02T10:50:30.787176Z"
+  },
+  "RYR96AP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T10:50:30.787176Z"
   }
 }
