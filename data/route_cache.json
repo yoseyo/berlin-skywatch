@@ -2098,7 +2098,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T07:55:22.133492Z"
+    "checked_at": "2026-10-02T07:50:29.198110Z"
   },
   "KLM38Z": {
     "route": {
@@ -2208,7 +2208,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-01T08:05:22.777557Z"
+    "checked_at": "2026-10-02T07:50:29.198110Z"
   },
   "AUA225B": {
     "route": {
@@ -4399,7 +4399,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-01T10:55:25.189907Z"
+    "checked_at": "2026-10-02T07:50:29.198110Z"
   },
   "AHY063": {
     "route": {
@@ -12840,5 +12840,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-02T07:45:29.716504Z"
+  },
+  "EWG8602": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T07:50:29.198110Z"
+  },
+  "WMT968": {
+    "route": {
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-02T07:50:29.198110Z"
   }
 }
