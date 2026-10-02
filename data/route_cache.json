@@ -1510,7 +1510,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T04:30:38.980077Z"
+    "checked_at": "2026-10-02T04:25:25.413364Z"
   },
   "KLC80U": {
     "route": {
@@ -6684,39 +6684,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-02T04:05:22.487933Z"
-  },
-  "RYR33BL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T04:20:29.929539Z"
-  },
-  "RYR39DH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T04:20:29.929539Z"
-  },
-  "FIN23B": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-09-30T04:25:23.736170Z"
   },
   "SXS6PQ": {
     "route": {
@@ -12859,5 +12826,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T04:20:27.683324Z"
+  },
+  "WMT707": {
+    "route": {
+      "fromCity": "Memmingen",
+      "fromIata": "FMM",
+      "toCity": "Timi\u015foara",
+      "toIata": "TSR",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-02T04:25:25.413364Z"
   }
 }
