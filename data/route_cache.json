@@ -1396,7 +1396,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T15:30:41.707496Z"
+    "checked_at": "2026-10-02T06:40:29.211619Z"
   },
   "IBE0787": {
     "route": {
@@ -1885,7 +1885,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-01T06:50:31.031412Z"
+    "checked_at": "2026-10-02T06:40:29.211619Z"
   },
   "RYR4WC": {
     "route": {
@@ -2263,7 +2263,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-09-30T08:25:22.599761Z"
+    "checked_at": "2026-10-02T06:40:29.211619Z"
   },
   "BAW42PB": {
     "route": {
@@ -5309,10 +5309,6 @@
     },
     "checked_at": "2026-10-01T14:45:30.587128Z"
   },
-  "UPEM029": {
-    "route": null,
-    "checked_at": "2026-09-30T06:35:32.334232Z"
-  },
   "EJU49AU": {
     "route": {
       "fromCity": "Berlin",
@@ -5875,7 +5871,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-01T06:35:23.840301Z"
+    "checked_at": "2026-10-02T06:40:29.211619Z"
   },
   "DMTWH": {
     "route": null,
@@ -6625,17 +6621,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-01T06:15:26.758977Z"
-  },
-  "CFG1RV": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T06:40:28.978029Z"
   },
   "SXS6SJ": {
     "route": {
@@ -12835,5 +12820,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T06:35:22.400289Z"
+  },
+  "SDR45DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T06:40:29.211619Z"
   }
 }
