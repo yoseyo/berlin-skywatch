@@ -2921,7 +2921,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T11:40:29.320215Z"
+    "checked_at": "2026-10-02T11:35:23.917696Z"
   },
   "DLH4NF": {
     "route": {
@@ -6662,17 +6662,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T08:40:28.097250Z"
-  },
-  "EJU5020": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-09-30T11:35:22.718953Z"
   },
   "RYR91SP": {
     "route": {
@@ -12861,5 +12850,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T11:30:41.900367Z"
+  },
+  "RYR24YX": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T11:35:23.917696Z"
+  },
+  "LOT29": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Miami",
+      "toIata": "MIA",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-02T11:35:23.917696Z"
+  },
+  "WZZ3WR": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T11:35:23.917696Z"
   }
 }
