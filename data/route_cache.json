@@ -361,7 +361,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-09-30T15:45:28.086845Z"
+    "checked_at": "2026-10-02T15:35:23.458012Z"
   },
   "TVF77EX": {
     "route": null,
@@ -453,7 +453,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T15:40:38.498794Z"
+    "checked_at": "2026-10-02T15:35:23.458012Z"
   },
   "PGT7UZ": {
     "route": {
@@ -5871,7 +5871,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T15:20:35.818894Z"
+    "checked_at": "2026-10-02T15:35:23.458012Z"
   },
   "RYR785N": {
     "route": {
@@ -6770,25 +6770,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T14:50:31.214408Z"
-  },
-  "BBB35P": {
-    "route": null,
-    "checked_at": "2026-09-30T15:35:21.963180Z"
-  },
-  "RYR8WU": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T15:35:21.963180Z"
-  },
-  "NJE470Y": {
-    "route": null,
-    "checked_at": "2026-09-30T15:35:21.963180Z"
   },
   "EJU5017": {
     "route": {
@@ -13066,5 +13047,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T15:30:43.258856Z"
+  },
+  "AUA978": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T15:35:23.458012Z"
+  },
+  "AUA233": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-02T15:35:23.458012Z"
+  },
+  "EWG41W": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T15:35:23.458012Z"
   }
 }
