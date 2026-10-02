@@ -2565,7 +2565,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-01T09:50:29.941003Z"
+    "checked_at": "2026-10-02T09:40:28.683869Z"
   },
   "AFR65AR": {
     "route": {
@@ -6645,17 +6645,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-02T07:05:22.233265Z"
-  },
-  "SDR14YL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T09:35:24.243794Z"
   },
   "FJMFZ": {
     "route": null,
@@ -12986,5 +12975,20 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-10-02T09:35:22.597860Z"
+  },
+  "RYR76WJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T09:40:28.683869Z"
+  },
+  "AWH29M": {
+    "route": null,
+    "checked_at": "2026-10-02T09:40:28.683869Z"
   }
 }
