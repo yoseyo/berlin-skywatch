@@ -3248,7 +3248,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-01T13:00:55.508077Z"
+    "checked_at": "2026-10-02T13:30:42.494298Z"
   },
   "LOT2PJ": {
     "route": {
@@ -3318,7 +3318,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T13:25:24.134823Z"
+    "checked_at": "2026-10-02T13:30:42.494298Z"
   },
   "RYR103K": {
     "route": {
@@ -9826,7 +9826,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-01T13:05:24.475317Z"
+    "checked_at": "2026-10-02T13:30:42.494298Z"
   },
   "DFGBB": {
     "route": null,
@@ -12907,5 +12907,71 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T13:25:24.511650Z"
+  },
+  "WZZ9EN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T13:30:42.494298Z"
+  },
+  "EWG71G": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T13:30:42.494298Z"
+  },
+  "RUK145": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-02T13:30:42.494298Z"
+  },
+  "JTD214": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-02T13:30:42.494298Z"
+  },
+  "CFG3UX": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T13:30:42.494298Z"
+  },
+  "WZZ287": {
+    "route": {
+      "fromCity": "Skopje",
+      "fromIata": "SKP",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T13:30:42.494298Z"
   }
 }
