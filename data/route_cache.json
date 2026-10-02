@@ -5165,17 +5165,6 @@
     },
     "checked_at": "2026-10-02T08:10:31.781876Z"
   },
-  "DLH880": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T08:30:40.108740Z"
-  },
   "CFE76JZ": {
     "route": {
       "fromCity": "London",
@@ -6610,10 +6599,6 @@
     },
     "checked_at": "2026-10-02T06:55:21.275472Z"
   },
-  "TTJ600": {
-    "route": null,
-    "checked_at": "2026-09-30T08:30:40.108740Z"
-  },
   "DLH894": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6624,17 +6609,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T08:30:40.315082Z"
-  },
-  "RYR9BJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T08:30:40.108740Z"
   },
   "SPIGK": {
     "route": null,
@@ -6649,7 +6623,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T19:30:41.688603Z"
+    "checked_at": "2026-10-02T08:35:22.080588Z"
   },
   "NJE745Q": {
     "route": null,
@@ -12873,5 +12847,49 @@
   "RCH4610": {
     "route": null,
     "checked_at": "2026-10-02T08:30:39.025348Z"
+  },
+  "LBT248": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-02T08:35:22.080588Z"
+  },
+  "SXS9NH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bodrum",
+      "toIata": "BJV",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-02T08:35:22.080588Z"
+  },
+  "RYR11CP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T08:35:22.080588Z"
+  },
+  "WZZ22UT": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T08:35:22.080588Z"
   }
 }
