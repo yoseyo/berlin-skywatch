@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-02T03:45:28.461192Z"
+  "flights": [
+    {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.297,
+      "lon": 13.3407,
+      "altKm": 12.0,
+      "speedKmh": 748,
+      "heading": 213,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-02T03:50:27.884175Z"
 }
