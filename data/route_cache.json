@@ -5933,7 +5933,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-10-01T18:05:23.600463Z"
+    "checked_at": "2026-10-02T18:15:31.579789Z"
   },
   "PGT566B": {
     "route": {
@@ -13126,5 +13126,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T18:10:30.469865Z"
+  },
+  "DLH5PR": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T18:15:31.579789Z"
+  },
+  "RYR8879": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T18:15:31.579789Z"
   }
 }
