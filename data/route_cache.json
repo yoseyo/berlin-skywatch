@@ -2300,7 +2300,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T08:35:21.459057Z"
+    "checked_at": "2026-10-02T08:45:30.742888Z"
   },
   "EZY18FP": {
     "route": {
@@ -2315,7 +2315,7 @@
   },
   "SWR3TE": {
     "route": null,
-    "checked_at": "2026-10-01T08:45:28.142619Z"
+    "checked_at": "2026-10-02T08:45:30.742888Z"
   },
   "RYR749C": {
     "route": {
@@ -3998,7 +3998,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T08:20:30.720209Z"
+    "checked_at": "2026-10-02T08:45:30.742888Z"
   },
   "DLH1KX": {
     "route": {
@@ -6621,32 +6621,6 @@
     },
     "checked_at": "2026-10-02T08:35:22.080588Z"
   },
-  "NJE745Q": {
-    "route": null,
-    "checked_at": "2026-09-30T08:40:32.349270Z"
-  },
-  "EWG63H": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-09-30T08:40:32.349270Z"
-  },
-  "NSZ3738": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-09-30T08:45:29.533910Z"
-  },
   "EZY78AL": {
     "route": {
       "fromCity": "Belfast",
@@ -6657,17 +6631,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-01T18:20:28.936077Z"
-  },
-  "MGH391": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-30T08:45:29.533910Z"
   },
   "TSC418": {
     "route": {
@@ -12902,5 +12865,16 @@
   "ABP712": {
     "route": null,
     "checked_at": "2026-10-02T08:40:28.097250Z"
+  },
+  "WZZ2709": {
+    "route": {
+      "fromCity": "Debrecen",
+      "fromIata": "DEB",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T08:45:30.742888Z"
   }
 }
