@@ -1275,7 +1275,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-01T20:30:40.732958Z"
+    "checked_at": "2026-10-02T21:00:50.613546Z"
   },
   "AFR69GW": {
     "route": {
@@ -1385,7 +1385,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-01T21:00:50.913765Z"
+    "checked_at": "2026-10-02T21:00:50.613546Z"
   },
   "BPOBER": {
     "route": null,
@@ -3307,7 +3307,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T12:35:26.540563Z"
+    "checked_at": "2026-10-02T21:00:50.613546Z"
   },
   "EJU69MZ": {
     "route": null,
@@ -13053,5 +13053,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T20:55:23.039142Z"
+  },
+  "NOZ3CG": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-02T21:00:50.613546Z"
+  },
+  "RYR38EA": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T21:00:50.613546Z"
+  },
+  "9ACAX": {
+    "route": null,
+    "checked_at": "2026-10-02T21:00:50.613546Z"
+  },
+  "RYR1155": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T21:00:50.613546Z"
   }
 }
