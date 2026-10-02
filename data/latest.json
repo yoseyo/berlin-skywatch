@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-02T00:40:30.740100Z"
+  "flights": [
+    {
+      "callsign": "JTD392",
+      "country": "Denmark",
+      "lat": 52.52,
+      "lon": 14.0443,
+      "altKm": 11.4,
+      "speedKmh": 820,
+      "heading": 344,
+      "vertRateMs": 0,
+      "airline": "Jet Time",
+      "airlineCountry": "Denmark",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-02T00:45:25.601746Z"
 }
