@@ -2488,7 +2488,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-01T09:40:31.863514Z"
+    "checked_at": "2026-10-02T09:00:50.621791Z"
   },
   "THY6EN": {
     "route": {
@@ -2910,7 +2910,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-01T11:20:29.210679Z"
+    "checked_at": "2026-10-02T09:00:50.621791Z"
   },
   "KLM26L": {
     "route": {
@@ -6643,39 +6643,6 @@
     },
     "checked_at": "2026-10-02T08:30:39.025348Z"
   },
-  "THY1YM": {
-    "route": {
-      "fromCity": "Kastamonu",
-      "fromIata": "KFS",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-30T08:55:23.022192Z"
-  },
-  "CKK235": {
-    "route": {
-      "fromCity": "Chongqing",
-      "fromIata": "CKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-30T08:55:23.022192Z"
-  },
-  "LOT3PK": {
-    "route": {
-      "fromCity": "Miami",
-      "fromIata": "MIA",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-09-30T08:55:23.022192Z"
-  },
   "RYR3RK": {
     "route": {
       "fromCity": "London",
@@ -9929,7 +9896,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T09:10:29.432717Z"
+    "checked_at": "2026-10-02T09:00:50.621791Z"
   },
   "SDR70TS": {
     "route": {
@@ -12913,5 +12880,38 @@
   "LDX12C": {
     "route": null,
     "checked_at": "2026-10-02T08:55:21.585935Z"
+  },
+  "NSZ2900": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T09:00:50.621791Z"
+  },
+  "DLH880": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T09:00:50.621791Z"
+  },
+  "EWG63H": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-02T09:00:50.621791Z"
   }
 }
