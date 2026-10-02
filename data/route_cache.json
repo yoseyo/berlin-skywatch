@@ -1631,7 +1631,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-01T05:35:22.834503Z"
+    "checked_at": "2026-10-02T04:46:03.435903Z"
   },
   "CHX49": {
     "route": null,
@@ -6685,21 +6685,6 @@
     },
     "checked_at": "2026-10-02T04:05:22.487933Z"
   },
-  "PGT1617": {
-    "route": null,
-    "checked_at": "2026-09-30T04:45:28.161920Z"
-  },
-  "CES243": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-09-30T04:45:28.161920Z"
-  },
   "ATU100": {
     "route": null,
     "checked_at": "2026-09-30T04:55:25.720502Z"
@@ -9870,7 +9855,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-01T05:35:22.834503Z"
+    "checked_at": "2026-10-02T04:46:03.435903Z"
   },
   "EJU37HE": {
     "route": {
@@ -12815,5 +12800,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-02T04:40:28.685116Z"
+  },
+  "RYR3PL": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T04:46:03.435903Z"
   }
 }
