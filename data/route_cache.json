@@ -4417,7 +4417,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-01T14:10:29.308574Z"
+    "checked_at": "2026-10-02T14:35:44.530607Z"
   },
   "SAS697": {
     "route": {
@@ -4689,7 +4689,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-09-30T17:05:23.532069Z"
+    "checked_at": "2026-10-02T14:35:44.530607Z"
   },
   "BTI4UJ": {
     "route": {
@@ -6757,21 +6757,6 @@
     },
     "checked_at": "2026-10-02T12:40:30.338238Z"
   },
-  "THY40Y": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Montr\u00e9al",
-      "toIata": "YUL",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-09-30T14:35:21.875711Z"
-  },
-  "JFA69W": {
-    "route": null,
-    "checked_at": "2026-09-30T14:35:21.875711Z"
-  },
   "SWU1951": {
     "route": {
       "fromCity": "Berlin",
@@ -6967,7 +6952,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-09-30T15:55:22.154900Z"
+    "checked_at": "2026-10-02T14:35:44.530607Z"
   },
   "EJU96ND": {
     "route": {
@@ -13031,5 +13016,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T14:30:45.813392Z"
+  },
+  "NSZ2901": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-02T14:35:44.530607Z"
+  },
+  "TVF875M": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-02T14:35:44.530607Z"
+  },
+  "RUK144": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-02T14:35:44.530607Z"
   }
 }
