@@ -1,16 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.1815,
-      "lon": 13.7901,
-      "altKm": 6.1,
-      "speedKmh": 501,
-      "heading": 68,
+      "callsign": "SRR6228",
+      "country": "Denmark",
+      "lat": 52.2956,
+      "lon": 12.9668,
+      "altKm": 2.5,
+      "speedKmh": 306,
+      "heading": 109,
+      "vertRateMs": -6.5,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "CCA965",
+      "country": "China",
+      "lat": 52.9359,
+      "lon": 13.6558,
+      "altKm": 10.8,
+      "speedKmh": 865,
+      "heading": 219,
       "vertRateMs": 0,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-02T03:15:27.312236Z"
+  "updated_at": "2026-10-02T03:20:31.587101Z"
 }
