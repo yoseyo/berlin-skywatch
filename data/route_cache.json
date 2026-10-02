@@ -2789,7 +2789,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T11:00:52.689746Z"
+    "checked_at": "2026-10-02T10:35:24.500408Z"
   },
   "SXS1CM": {
     "route": {
@@ -4461,7 +4461,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-01T10:05:24.975766Z"
+    "checked_at": "2026-10-02T10:35:24.500408Z"
   },
   "EWG1SU": {
     "route": {
@@ -6663,21 +6663,6 @@
     },
     "checked_at": "2026-10-02T10:00:52.213762Z"
   },
-  "HBKHR": {
-    "route": null,
-    "checked_at": "2026-09-30T10:35:22.216133Z"
-  },
-  "ASL506": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-09-30T10:35:22.216133Z"
-  },
   "AWH91T": {
     "route": null,
     "checked_at": "2026-09-30T10:40:29.444463Z"
@@ -6702,7 +6687,7 @@
       "airlineName": "Air Transat",
       "airlineCountry": "Canada"
     },
-    "checked_at": "2026-09-30T10:45:28.090817Z"
+    "checked_at": "2026-10-02T10:35:24.500408Z"
   },
   "EJU92LR": {
     "route": {
@@ -7627,7 +7612,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T12:25:23.312090Z"
+    "checked_at": "2026-10-02T10:35:24.500408Z"
   },
   "QTR58A": {
     "route": {
@@ -12946,5 +12931,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-02T10:30:41.595541Z"
+  },
+  "LOT16M": {
+    "route": {
+      "fromCity": "New York",
+      "fromIata": "EWR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-02T10:35:24.500408Z"
   }
 }
