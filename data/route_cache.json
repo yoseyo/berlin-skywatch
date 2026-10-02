@@ -47,17 +47,6 @@
     },
     "checked_at": "2026-10-01T13:05:24.475317Z"
   },
-  "RYR9TY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Katowice",
-      "toIata": "KTW",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-09-30T15:00:59.247223Z"
-  },
   "CFE93AU": {
     "route": {
       "fromCity": "London",
@@ -13071,5 +13060,38 @@
   "CAT311": {
     "route": null,
     "checked_at": "2026-10-02T14:55:24.526879Z"
+  },
+  "WZZ148": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Reykjav\u00edk",
+      "toIata": "KEF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-02T15:01:01.063690Z"
+  },
+  "RYR45CC": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T15:01:01.063690Z"
+  },
+  "RYR2962": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-02T15:01:01.063690Z"
   }
 }
