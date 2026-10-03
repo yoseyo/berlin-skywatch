@@ -1,4 +1,56 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-03T21:30:40.851148Z"
+  "flights": [
+    {
+      "callsign": "NSZ4WF",
+      "country": "Sweden",
+      "lat": 52.1407,
+      "lon": 14.0083,
+      "altKm": 11.9,
+      "speedKmh": 785,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "SAS7776",
+      "country": "Sweden",
+      "lat": 52.324,
+      "lon": 13.8614,
+      "altKm": 11.9,
+      "speedKmh": 809,
+      "heading": 347,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "SAS7368",
+      "country": "Sweden",
+      "lat": 52.5994,
+      "lon": 14.0181,
+      "altKm": 11.9,
+      "speedKmh": 810,
+      "heading": 351,
+      "vertRateMs": 0.3,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-03T21:35:23.313735Z"
 }
