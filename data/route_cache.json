@@ -5313,7 +5313,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T08:30:39.025348Z"
+    "checked_at": "2026-10-03T08:20:28.610569Z"
   },
   "DLH890": {
     "route": {
@@ -10417,7 +10417,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T09:40:28.683869Z"
+    "checked_at": "2026-10-03T08:20:28.610569Z"
   },
   "AWH29M": {
     "route": null,
@@ -13004,5 +13004,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T08:15:27.635054Z"
+  },
+  "RUK7547": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-03T08:20:28.610569Z"
+  },
+  "RYR7JF": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T08:20:28.610569Z"
   }
 }
