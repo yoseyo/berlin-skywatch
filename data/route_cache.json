@@ -1830,7 +1830,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T06:45:29.435476Z"
+    "checked_at": "2026-10-03T06:45:28.049587Z"
   },
   "SWR97Y": {
     "route": {
@@ -1852,7 +1852,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-02T06:40:29.211619Z"
+    "checked_at": "2026-10-03T06:45:28.049587Z"
   },
   "RYR4WC": {
     "route": {
@@ -1874,7 +1874,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-02T06:55:21.275472Z"
+    "checked_at": "2026-10-03T06:45:28.049587Z"
   },
   "DLH174": {
     "route": {
@@ -2293,7 +2293,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T06:25:23.396464Z"
+    "checked_at": "2026-10-03T06:45:28.049587Z"
   },
   "TVF41HV": {
     "route": {
@@ -3869,7 +3869,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T06:35:22.400289Z"
+    "checked_at": "2026-10-03T06:45:28.049587Z"
   },
   "SAS44A": {
     "route": {
@@ -4333,10 +4333,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-02T15:03:42.347699Z"
-  },
-  "LEJ110": {
-    "route": null,
-    "checked_at": "2026-10-01T06:40:29.813827Z"
   },
   "CFE27PM": {
     "route": {
@@ -10093,7 +10089,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-02T06:55:21.275472Z"
+    "checked_at": "2026-10-03T06:45:28.049587Z"
   },
   "PGT1041": {
     "route": {
@@ -13001,5 +12997,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T06:40:27.676439Z"
+  },
+  "BTI97T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-03T06:45:28.049587Z"
+  },
+  "WMT459": {
+    "route": {
+      "fromCity": "Cluj-Napoca",
+      "fromIata": "CLJ",
+      "toCity": "Cluj-Napoca",
+      "toIata": "CLJ",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-03T06:45:28.049587Z"
   }
 }
