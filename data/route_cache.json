@@ -4297,17 +4297,6 @@
     },
     "checked_at": "2026-10-02T20:00:50.401025Z"
   },
-  "EJU59FK": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-01T16:10:29.241287Z"
-  },
   "EWG6RY": {
     "route": {
       "fromCity": "Catania",
@@ -13185,5 +13174,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T16:10:27.787081Z"
+  },
+  "RYR85CE": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T16:15:30.982272Z"
+  },
+  "SAS4803": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T16:15:30.982272Z"
   }
 }
