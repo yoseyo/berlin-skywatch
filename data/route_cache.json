@@ -2339,10 +2339,6 @@
     },
     "checked_at": "2026-10-03T08:15:27.635054Z"
   },
-  "PBB16": {
-    "route": null,
-    "checked_at": "2026-10-01T09:15:29.195549Z"
-  },
   "KLM90Z": {
     "route": {
       "fromCity": "Lisbon",
@@ -2543,7 +2539,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-02T09:50:29.479430Z"
+    "checked_at": "2026-10-03T09:15:29.687550Z"
   },
   "KLM75C": {
     "route": {
@@ -3976,7 +3972,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-10-01T15:55:28.687204Z"
+    "checked_at": "2026-10-03T09:15:29.687550Z"
   },
   "FIN78Q": {
     "route": {
@@ -7039,21 +7035,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T09:00:50.621791Z"
-  },
-  "SDR70TS": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T09:10:29.432717Z"
-  },
-  "DESSU": {
-    "route": null,
-    "checked_at": "2026-10-01T09:15:29.195549Z"
   },
   "GPX3JX": {
     "route": {
@@ -10569,7 +10550,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T11:35:23.917696Z"
+    "checked_at": "2026-10-03T09:15:29.687550Z"
   },
   "LOT29": {
     "route": {
@@ -13013,5 +12994,16 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-03T09:10:28.527162Z"
+  },
+  "NOZ1923": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-03T09:15:29.687550Z"
   }
 }
