@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-03T02:45:26.075040Z"
+  "flights": [
+    {
+      "callsign": "HLF8822",
+      "country": "China",
+      "lat": 52.8919,
+      "lon": 13.5938,
+      "altKm": 11.6,
+      "speedKmh": 924,
+      "heading": 52,
+      "vertRateMs": 0,
+      "airline": "Hapagfly",
+      "airlineCountry": "Germany",
+      "fromCity": "Vatry",
+      "fromIata": "XCR",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-03T02:50:28.716653Z"
 }
