@@ -1613,7 +1613,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T05:30:42.590712Z"
+    "checked_at": "2026-10-03T05:25:21.282394Z"
   },
   "EWG7ED": {
     "route": null,
@@ -1661,7 +1661,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-02T05:35:22.198573Z"
+    "checked_at": "2026-10-03T05:25:21.282394Z"
   },
   "FIN3AW": {
     "route": {
@@ -13040,5 +13040,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-03T05:20:27.792333Z"
+  },
+  "BTI7PY": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-03T05:25:21.282394Z"
+  },
+  "RYR6996": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T05:25:21.282394Z"
   }
 }
