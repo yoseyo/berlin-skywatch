@@ -563,7 +563,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-02T16:40:30.727308Z"
+    "checked_at": "2026-10-03T16:55:23.303444Z"
   },
   "WZZ98RS": {
     "route": null,
@@ -3395,7 +3395,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-02T16:30:42.824395Z"
+    "checked_at": "2026-10-03T16:55:23.303444Z"
   },
   "KLM95T": {
     "route": {
@@ -5219,17 +5219,6 @@
     },
     "checked_at": "2026-10-03T11:30:38.910470Z"
   },
-  "NSZ3732": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T16:50:29.413933Z"
-  },
   "LHX851": {
     "route": {
       "fromCity": "Helsinki",
@@ -5266,17 +5255,6 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-02T17:20:30.383932Z"
-  },
-  "RYR4VG": {
-    "route": {
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Girona",
-      "toIata": "GRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T16:50:29.413933Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -7006,21 +6984,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T08:30:39.480857Z"
-  },
-  "PGT273A": {
-    "route": null,
-    "checked_at": "2026-10-01T16:50:29.413933Z"
-  },
-  "RYR2M": {
-    "route": {
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T16:50:29.413933Z"
   },
   "RYR8TQ": {
     "route": {
@@ -13079,5 +13042,60 @@
   "EJU5423": {
     "route": null,
     "checked_at": "2026-10-03T16:30:39.956071Z"
+  },
+  "NSZ4365": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T16:55:23.303444Z"
+  },
+  "THY1GJ": {
+    "route": {
+      "fromCity": "Moscow",
+      "fromIata": "VKO",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-03T16:55:23.303444Z"
+  },
+  "NSZ6FY": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T16:55:23.303444Z"
+  },
+  "SAS1759": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T16:55:23.303444Z"
+  },
+  "KLM67B": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-03T16:55:23.303444Z"
   }
 }
