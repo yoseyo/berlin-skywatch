@@ -5893,7 +5893,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-02T11:45:26.471464Z"
+    "checked_at": "2026-10-03T11:45:26.881441Z"
   },
   "WZZ334": {
     "route": {
@@ -5926,7 +5926,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-02T12:00:51.910088Z"
+    "checked_at": "2026-10-03T11:45:26.881441Z"
   },
   "SAS47D": {
     "route": {
@@ -7031,32 +7031,6 @@
     },
     "checked_at": "2026-10-02T15:05:23.354364Z"
   },
-  "DEMHF": {
-    "route": null,
-    "checked_at": "2026-10-01T11:40:29.320215Z"
-  },
-  "RYR5979": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T11:40:29.320215Z"
-  },
-  "PGT870R": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T11:40:29.320215Z"
-  },
   "EJU16QM": {
     "route": {
       "fromCity": "Berlin",
@@ -7067,17 +7041,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T12:40:30.338238Z"
-  },
-  "RYR2GL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T11:40:29.320215Z"
   },
   "UAE1Y": {
     "route": {
@@ -10826,7 +10789,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T15:35:23.458012Z"
+    "checked_at": "2026-10-03T11:45:26.881441Z"
   },
   "AUA233": {
     "route": {
@@ -13068,5 +13031,16 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-03T11:40:27.385029Z"
+  },
+  "TAP3335": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-10-03T11:45:26.881441Z"
   }
 }
