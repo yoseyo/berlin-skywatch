@@ -2021,7 +2021,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-02T07:30:40.273065Z"
+    "checked_at": "2026-10-03T07:40:27.638779Z"
   },
   "NSZ89C": {
     "route": {
@@ -2032,7 +2032,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T07:25:22.117202Z"
+    "checked_at": "2026-10-03T07:40:27.638779Z"
   },
   "EIN3JE": {
     "route": {
@@ -2208,7 +2208,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-02T07:40:29.593898Z"
+    "checked_at": "2026-10-03T07:40:27.638779Z"
   },
   "SAS2677": {
     "route": {
@@ -5849,17 +5849,6 @@
     },
     "checked_at": "2026-10-03T07:35:22.402419Z"
   },
-  "LHX9JC": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T07:35:22.634426Z"
-  },
   "EJU65NU": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -7054,28 +7043,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T07:15:29.042755Z"
-  },
-  "SAS62T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T07:40:26.925214Z"
-  },
-  "SAS86N": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Firenze",
-      "toIata": "FLR",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T07:40:26.925214Z"
   },
   "GAF647": {
     "route": null,
@@ -12971,5 +12938,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T07:30:38.659865Z"
+  },
+  "SAS2831": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T07:40:27.638779Z"
+  },
+  "NJE242U": {
+    "route": null,
+    "checked_at": "2026-10-03T07:40:27.638779Z"
   }
 }
