@@ -1602,7 +1602,7 @@
   },
   "CHX49": {
     "route": null,
-    "checked_at": "2026-10-02T13:25:24.511650Z"
+    "checked_at": "2026-10-03T12:05:24.165029Z"
   },
   "DLH4UV": {
     "route": {
@@ -2961,7 +2961,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-02T12:20:30.793699Z"
+    "checked_at": "2026-10-03T12:05:24.165029Z"
   },
   "SAS2733": {
     "route": {
@@ -3156,7 +3156,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-02T12:30:40.264318Z"
+    "checked_at": "2026-10-03T12:05:24.165029Z"
   },
   "SXS9SE": {
     "route": {
@@ -6062,7 +6062,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-02T12:40:30.338238Z"
+    "checked_at": "2026-10-03T12:05:24.165029Z"
   },
   "SWU1951": {
     "route": {
@@ -13065,5 +13065,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T12:00:47.346843Z"
+  },
+  "EWG26K": {
+    "route": {
+      "fromCity": "Olbia (SS)",
+      "fromIata": "OLB",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T12:05:24.165029Z"
+  },
+  "SAS7734": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Aalborg",
+      "toIata": "AAL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T12:05:24.165029Z"
+  },
+  "GPX6281": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-03T12:05:24.165029Z"
   }
 }
