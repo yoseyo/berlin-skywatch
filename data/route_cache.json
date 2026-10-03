@@ -3924,7 +3924,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T08:45:30.742888Z"
+    "checked_at": "2026-10-03T08:35:23.481373Z"
   },
   "DLH1KX": {
     "route": {
@@ -5501,7 +5501,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-01T14:25:23.518167Z"
+    "checked_at": "2026-10-03T08:35:23.481373Z"
   },
   "CCA931": {
     "route": {
@@ -7044,21 +7044,6 @@
     "route": null,
     "checked_at": "2026-10-02T10:05:22.502248Z"
   },
-  "SZN4001": {
-    "route": {
-      "fromCity": "Dakar",
-      "fromIata": "DSS",
-      "toCity": "Dakar",
-      "toIata": "DSS",
-      "airlineName": "Air Senegal",
-      "airlineCountry": "Senegal"
-    },
-    "checked_at": "2026-10-01T08:30:40.315082Z"
-  },
-  "ABF8": {
-    "route": null,
-    "checked_at": "2026-10-01T08:30:40.315082Z"
-  },
   "FHY1281": {
     "route": {
       "fromCity": "Antalya",
@@ -7069,10 +7054,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-02T14:25:23.233896Z"
-  },
-  "TYW524P": {
-    "route": null,
-    "checked_at": "2026-10-01T08:35:21.459057Z"
   },
   "NSZ82ME": {
     "route": {
@@ -10166,7 +10147,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T09:00:50.621791Z"
+    "checked_at": "2026-10-03T08:35:23.481373Z"
   },
   "EWG63H": {
     "route": {
@@ -13022,5 +13003,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-03T08:30:39.480857Z"
+  },
+  "EWG71C": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T08:35:23.481373Z"
   }
 }
