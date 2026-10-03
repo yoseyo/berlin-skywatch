@@ -4855,17 +4855,6 @@
     },
     "checked_at": "2026-10-02T12:50:32.413192Z"
   },
-  "CCA966": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-01T13:10:33.423972Z"
-  },
   "NOZ6TY": {
     "route": {
       "fromCity": "Oslo",
@@ -5292,17 +5281,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-02T11:50:31.805700Z"
-  },
-  "SXS679": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "RYR65YP": {
     "route": {
@@ -7063,21 +7041,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-02T13:30:42.494298Z"
-  },
-  "NSZ8YC": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T13:10:33.423972Z"
-  },
-  "N125NJ": {
-    "route": null,
-    "checked_at": "2026-10-01T13:10:33.423972Z"
   },
   "EWG20W": {
     "route": {
@@ -10074,7 +10037,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T12:40:30.338238Z"
+    "checked_at": "2026-10-03T13:10:37.671378Z"
   },
   "TOY504": {
     "route": null,
@@ -13108,5 +13071,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-03T13:07:17.434430Z"
+  },
+  "CAT336": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-03T13:10:37.671378Z"
   }
 }
