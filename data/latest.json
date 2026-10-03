@@ -1,19 +1,6 @@
 {
   "flights": [
     {
-      "callsign": "PGT984",
-      "country": "Turkey",
-      "lat": 52.3197,
-      "lon": 13.5898,
-      "altKm": 1.2,
-      "speedKmh": 345,
-      "heading": 142,
-      "vertRateMs": 6.2,
-      "airline": "Pegasus Airlines",
-      "airlineCountry": "Turkey",
-      "category": "plane"
-    },
-    {
       "callsign": "NOZ1910",
       "country": "Sweden",
       "lat": 52.7475,
@@ -31,31 +18,48 @@
       "category": "plane"
     },
     {
-      "callsign": "IBE07MV",
-      "country": "Spain",
-      "lat": 52.2628,
-      "lon": 13.2947,
-      "altKm": 2.6,
-      "speedKmh": 446,
-      "heading": 269,
-      "vertRateMs": 12.0,
-      "airline": "Iberia Airlines",
-      "airlineCountry": "Spain",
+      "callsign": "RYR5928",
+      "country": "Poland",
+      "lat": 52.5141,
+      "lon": 13.6575,
+      "altKm": 11.9,
+      "speedKmh": 797,
+      "heading": 344,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH1XN",
+      "country": "Germany",
+      "lat": 52.3502,
+      "lon": 13.7827,
+      "altKm": 3.3,
+      "speedKmh": 509,
+      "heading": 184,
+      "vertRateMs": 7.5,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
+      "toCity": "Munich",
+      "toIata": "MUC",
       "category": "plane"
     },
     {
       "callsign": "BAW995",
       "country": "United Kingdom",
-      "lat": 52.357,
-      "lon": 13.5178,
-      "altKm": 0.2,
-      "speedKmh": 281,
-      "heading": 70,
-      "vertRateMs": 14.6,
+      "lat": 52.2664,
+      "lon": 13.2307,
+      "altKm": 4.1,
+      "speedKmh": 572,
+      "heading": 275,
+      "vertRateMs": 7.2,
       "airline": "British Airways",
       "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
@@ -63,7 +67,18 @@
       "toCity": "London",
       "toIata": "LHR",
       "category": "plane"
+    },
+    {
+      "callsign": "AFR38LQ",
+      "country": "France",
+      "lat": 52.2629,
+      "lon": 13.4504,
+      "altKm": 2.2,
+      "speedKmh": 479,
+      "heading": 265,
+      "vertRateMs": 17.2,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-03T18:00:51.233507Z"
+  "updated_at": "2026-10-03T18:05:24.531963Z"
 }

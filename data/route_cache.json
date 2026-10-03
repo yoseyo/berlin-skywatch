@@ -835,7 +835,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T17:55:25.192243Z"
+    "checked_at": "2026-10-03T18:05:24.531963Z"
   },
   "IBE07MV": {
     "route": {
@@ -5214,7 +5214,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-10-02T18:15:31.579789Z"
+    "checked_at": "2026-10-03T18:05:24.531963Z"
   },
   "BTI3PR": {
     "route": {
@@ -7002,17 +7002,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T16:00:52.996749Z"
-  },
-  "EZY75YJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-01T18:05:23.600463Z"
   },
   "NSZ4507": {
     "route": {
@@ -13100,5 +13089,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T17:45:31.768581Z"
+  },
+  "RYR5928": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T18:05:24.531963Z"
   }
 }
