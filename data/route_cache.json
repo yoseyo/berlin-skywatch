@@ -328,7 +328,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-02T14:50:31.674871Z"
+    "checked_at": "2026-10-03T14:50:29.445198Z"
   },
   "AFR64PU": {
     "route": {
@@ -7092,7 +7092,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-02T14:45:30.194081Z"
+    "checked_at": "2026-10-03T14:50:29.445198Z"
   },
   "RYR55VV": {
     "route": {
@@ -13099,5 +13099,38 @@
   "VJT884": {
     "route": null,
     "checked_at": "2026-10-03T14:40:29.098010Z"
+  },
+  "NSZ3530": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T14:50:29.445198Z"
+  },
+  "WZZ63KR": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-03T14:50:29.445198Z"
+  },
+  "VKG543": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-03T14:50:29.445198Z"
   }
 }
