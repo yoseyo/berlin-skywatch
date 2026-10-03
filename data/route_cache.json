@@ -1220,7 +1220,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T16:15:27.947845Z"
+    "checked_at": "2026-10-03T18:11:06.043596Z"
   },
   "DLH4T": {
     "route": {
@@ -7060,7 +7060,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-10-02T18:35:23.493151Z"
+    "checked_at": "2026-10-03T18:11:06.043596Z"
   },
   "SAS1698": {
     "route": {
@@ -13100,5 +13100,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T18:05:24.531963Z"
+  },
+  "EJU14LE": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T18:11:06.043596Z"
+  },
+  "AUA972": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T18:11:06.043596Z"
+  },
+  "VKG584": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-03T18:11:06.043596Z"
   }
 }
