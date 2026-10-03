@@ -4075,7 +4075,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T16:30:42.824395Z"
+    "checked_at": "2026-10-03T15:20:29.570695Z"
   },
   "RYR98RQ": {
     "route": {
@@ -7097,17 +7097,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T19:35:22.231168Z"
-  },
-  "AUA971": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-01T15:15:30.688944Z"
   },
   "SAS2963": {
     "route": {
@@ -13148,5 +13137,39 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T15:10:28.716406Z"
+  },
+  "CMB338": {
+    "route": null,
+    "checked_at": "2026-10-03T15:20:29.570695Z"
+  },
+  "SAS2859": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T15:20:29.570695Z"
+  },
+  "EWG1R": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T15:20:29.570695Z"
+  },
+  "QAJ1": {
+    "route": null,
+    "checked_at": "2026-10-03T15:20:29.570695Z"
+  },
+  "GAF604": {
+    "route": null,
+    "checked_at": "2026-10-03T15:20:29.570695Z"
   }
 }
