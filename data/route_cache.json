@@ -1841,7 +1841,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-02T06:30:40.703639Z"
+    "checked_at": "2026-10-03T06:55:22.249259Z"
   },
   "LOT1VZ": {
     "route": {
@@ -1940,7 +1940,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-02T06:45:29.435476Z"
+    "checked_at": "2026-10-03T06:55:22.249259Z"
   },
   "RYR594F": {
     "route": {
@@ -5382,10 +5382,6 @@
     },
     "checked_at": "2026-10-02T08:30:39.025348Z"
   },
-  "DFWEL": {
-    "route": null,
-    "checked_at": "2026-10-01T06:50:31.031412Z"
-  },
   "DLH890": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -7092,17 +7088,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T19:05:23.696029Z"
-  },
-  "THY1LZ": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T06:50:31.031412Z"
   },
   "THY3": {
     "route": {
@@ -13034,5 +13019,20 @@
   "DIBFS": {
     "route": null,
     "checked_at": "2026-10-03T06:50:27.118583Z"
+  },
+  "DLH5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T06:55:22.249259Z"
+  },
+  "CAT673": {
+    "route": null,
+    "checked_at": "2026-10-03T06:55:22.249259Z"
   }
 }
