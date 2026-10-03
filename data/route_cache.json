@@ -1510,7 +1510,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T05:20:27.592877Z"
+    "checked_at": "2026-10-03T05:50:28.052159Z"
   },
   "DLH9CJ": {
     "route": {
@@ -1694,7 +1694,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T05:50:28.367451Z"
+    "checked_at": "2026-10-03T05:50:28.052159Z"
   },
   "LOT392": {
     "route": {
@@ -6175,7 +6175,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T10:55:23.071460Z"
+    "checked_at": "2026-10-03T05:50:28.052159Z"
   },
   "BEL9CK": {
     "route": {
@@ -13039,5 +13039,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T05:45:27.124607Z"
+  },
+  "SAS7465": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Kalamata",
+      "toIata": "KLX",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T05:50:28.052159Z"
+  },
+  "CFG2CK": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T05:50:28.052159Z"
   }
 }
