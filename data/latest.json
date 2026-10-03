@@ -1,31 +1,48 @@
 {
   "flights": [
     {
-      "callsign": "WMT7LY",
-      "country": "Malta",
-      "lat": 52.3924,
-      "lon": 13.5891,
-      "altKm": 0.9,
-      "speedKmh": 303,
-      "heading": 69,
-      "vertRateMs": 11.4,
-      "airline": "Wizz Air Malta",
-      "airlineCountry": "Malta",
+      "callsign": "SXS3FR",
+      "country": "Turkey",
+      "lat": 52.3286,
+      "lon": 13.738,
+      "altKm": 1.8,
+      "speedKmh": 445,
+      "heading": 82,
+      "vertRateMs": 10.7,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Chi\u015fin\u0103u",
-      "toIata": "RMO",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR63WX",
+      "country": "Malta",
+      "lat": 52.2604,
+      "lon": 13.086,
+      "altKm": 1.9,
+      "speedKmh": 431,
+      "heading": 34,
+      "vertRateMs": -5.8,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     },
     {
       "callsign": "RYR99FP",
       "country": "Ireland",
-      "lat": 52.4568,
-      "lon": 13.6608,
-      "altKm": 1.6,
-      "speedKmh": 435,
-      "heading": 20,
-      "vertRateMs": 15.3,
+      "lat": 52.4126,
+      "lon": 13.2913,
+      "altKm": 4.5,
+      "speedKmh": 675,
+      "heading": 231,
+      "vertRateMs": 15.6,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Berlin",
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-03T06:20:27.733876Z"
+  "updated_at": "2026-10-03T06:25:22.082466Z"
 }
