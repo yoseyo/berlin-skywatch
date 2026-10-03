@@ -11439,7 +11439,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T18:45:29.657109Z"
+    "checked_at": "2026-10-03T10:55:24.505124Z"
   },
   "NJE574A": {
     "route": null,
@@ -13076,5 +13076,31 @@
   "N99BY": {
     "route": null,
     "checked_at": "2026-10-03T10:50:28.932161Z"
+  },
+  "NSZ2055": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T10:55:24.505124Z"
+  },
+  "FUU121E": {
+    "route": null,
+    "checked_at": "2026-10-03T10:55:24.505124Z"
+  },
+  "ACA943": {
+    "route": {
+      "fromCity": "Hamilton",
+      "fromIata": "BDA",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Canada",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-03T10:55:24.505124Z"
   }
 }
