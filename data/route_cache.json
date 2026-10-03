@@ -7154,21 +7154,6 @@
     },
     "checked_at": "2026-10-03T10:15:28.953864Z"
   },
-  "HLF8848": {
-    "route": null,
-    "checked_at": "2026-10-01T20:10:27.683299Z"
-  },
-  "SXS2LD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gaziantep",
-      "toIata": "GZT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T20:10:27.683299Z"
-  },
   "RYR55HD": {
     "route": {
       "fromCity": "Souda",
@@ -13175,5 +13160,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-03T20:05:22.939027Z"
+  },
+  "GPX7EJ": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-03T20:10:36.767429Z"
+  },
+  "NSZ5GT": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T20:10:36.767429Z"
+  },
+  "NOZ8UD": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-03T20:10:36.767429Z"
   }
 }
