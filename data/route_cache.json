@@ -3579,7 +3579,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-02T06:55:21.275472Z"
+    "checked_at": "2026-10-03T11:25:21.194354Z"
   },
   "WZZ3EA": {
     "route": {
@@ -6325,10 +6325,6 @@
     },
     "checked_at": "2026-10-01T19:10:31.959553Z"
   },
-  "BTX8H": {
-    "route": null,
-    "checked_at": "2026-10-01T11:20:29.210679Z"
-  },
   "QTR24E": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -7005,21 +7001,6 @@
   "AAO56": {
     "route": null,
     "checked_at": "2026-10-02T07:25:22.117202Z"
-  },
-  "LOT5ED": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-01T11:20:29.210679Z"
-  },
-  "OKPCG": {
-    "route": null,
-    "checked_at": "2026-10-01T11:20:29.210679Z"
   },
   "RYR24AN": {
     "route": {
@@ -13081,5 +13062,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T11:20:28.264789Z"
+  },
+  "MFX7662": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Tashkent",
+      "toIata": "TAS",
+      "airlineName": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-10-03T11:25:21.194354Z"
+  },
+  "RYR3309": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T11:25:21.194354Z"
   }
 }
