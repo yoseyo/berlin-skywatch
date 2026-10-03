@@ -2855,7 +2855,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T11:40:28.826481Z"
+    "checked_at": "2026-10-03T07:00:49.661115Z"
   },
   "NOZ53Y": {
     "route": {
@@ -5334,10 +5334,6 @@
     "route": null,
     "checked_at": "2026-10-01T07:25:20.582240Z"
   },
-  "AMQ9I": {
-    "route": null,
-    "checked_at": "2026-10-01T06:55:23.078704Z"
-  },
   "AUA22FA": {
     "route": {
       "fromCity": "Hamburg",
@@ -7088,28 +7084,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-02T19:05:23.696029Z"
-  },
-  "THY3": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "New York",
-      "toIata": "JFK",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T06:55:23.078704Z"
-  },
-  "CFG8JC": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T06:55:23.078704Z"
   },
   "RYR9846": {
     "route": {
@@ -13034,5 +13008,16 @@
   "CAT673": {
     "route": null,
     "checked_at": "2026-10-03T06:55:22.249259Z"
+  },
+  "SAS4733": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T07:00:49.661115Z"
   }
 }
