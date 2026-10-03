@@ -111,7 +111,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T14:25:23.233896Z"
+    "checked_at": "2026-10-03T11:05:22.425207Z"
   },
   "SAS2736": {
     "route": {
@@ -5541,7 +5541,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T18:25:21.360240Z"
+    "checked_at": "2026-10-03T11:05:22.425207Z"
   },
   "EWG6TG": {
     "route": {
@@ -5926,7 +5926,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T10:55:23.071460Z"
+    "checked_at": "2026-10-03T11:05:22.425207Z"
   },
   "VJT793": {
     "route": null,
@@ -7016,17 +7016,6 @@
   "AAO56": {
     "route": null,
     "checked_at": "2026-10-02T07:25:22.117202Z"
-  },
-  "SAS67W": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T11:00:52.689746Z"
   },
   "NSZ5603": {
     "route": {
@@ -13095,5 +13084,16 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-03T11:00:49.121160Z"
+  },
+  "SAS7328": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T11:05:22.425207Z"
   }
 }
