@@ -2594,7 +2594,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-02T09:50:29.479430Z"
+    "checked_at": "2026-10-03T09:30:37.328956Z"
   },
   "IBE07KH": {
     "route": {
@@ -5307,17 +5307,6 @@
     },
     "checked_at": "2026-10-03T04:20:28.773191Z"
   },
-  "NOZ1951": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-01T09:25:24.239294Z"
-  },
   "PHAPW": {
     "route": null,
     "checked_at": "2026-10-01T14:05:26.192109Z"
@@ -5590,17 +5579,6 @@
   "AFR38LQ": {
     "route": null,
     "checked_at": "2026-10-02T18:15:31.579789Z"
-  },
-  "WZZ6LM": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-01T09:25:24.239294Z"
   },
   "BTI3PR": {
     "route": {
@@ -5975,10 +5953,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-02T11:05:22.680623Z"
-  },
-  "JSD944": {
-    "route": null,
-    "checked_at": "2026-10-01T09:25:24.239294Z"
   },
   "IJM666": {
     "route": null,
@@ -13027,5 +13001,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T09:25:20.788306Z"
+  },
+  "WMT1962": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-03T09:30:37.328956Z"
+  },
+  "NJE539A": {
+    "route": null,
+    "checked_at": "2026-10-03T09:30:37.328956Z"
+  },
+  "RYR65ZK": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T09:30:37.328956Z"
+  },
+  "RYR57AE": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T09:30:37.328956Z"
   }
 }
