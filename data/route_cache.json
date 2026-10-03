@@ -901,7 +901,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T17:30:41.776638Z"
+    "checked_at": "2026-10-03T17:25:22.546976Z"
   },
   "BAW846W": {
     "route": {
@@ -5103,7 +5103,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T04:50:27.649204Z"
+    "checked_at": "2026-10-03T17:25:22.546976Z"
   },
   "FIN4ER": {
     "route": {
@@ -6981,39 +6981,6 @@
     },
     "checked_at": "2026-10-03T17:05:24.902905Z"
   },
-  "EJU86PQ": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-01T17:20:33.949635Z"
-  },
-  "EZS1590": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-01T17:20:33.949635Z"
-  },
-  "RYR53JH": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T17:20:33.949635Z"
-  },
   "GAF201": {
     "route": null,
     "checked_at": "2026-10-01T17:25:23.994580Z"
@@ -7082,7 +7049,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-02T17:50:31.716453Z"
+    "checked_at": "2026-10-03T17:25:22.546976Z"
   },
   "EJU5267": {
     "route": {
@@ -13126,5 +13093,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T17:20:28.664188Z"
+  },
+  "NSZ4327": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Bastia/Poretta",
+      "toIata": "BIA",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T17:25:22.546976Z"
+  },
+  "TAP3333": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-10-03T17:25:22.546976Z"
   }
 }
