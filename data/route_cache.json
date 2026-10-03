@@ -1628,7 +1628,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T05:50:28.367451Z"
+    "checked_at": "2026-10-03T05:35:20.610139Z"
   },
   "QTR29X": {
     "route": {
@@ -13025,5 +13025,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T05:25:21.282394Z"
+  },
+  "SAS7303": {
+    "route": {
+      "fromCity": "Stavanger",
+      "fromIata": "SVG",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T05:35:20.610139Z"
+  },
+  "BTI74A": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-03T05:35:20.610139Z"
   }
 }
