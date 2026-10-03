@@ -7016,17 +7016,6 @@
     },
     "checked_at": "2026-10-02T03:20:31.587101Z"
   },
-  "SDR70WQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T03:45:28.340894Z"
-  },
   "EWG3PH": {
     "route": {
       "fromCity": "Hamburg",
@@ -13091,5 +13080,16 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-03T03:40:29.256260Z"
+  },
+  "EWG67J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T03:50:29.507450Z"
   }
 }
