@@ -5328,7 +5328,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-02T06:45:29.435476Z"
+    "checked_at": "2026-10-03T06:35:23.078259Z"
   },
   "FIN6AP": {
     "route": {
@@ -6065,7 +6065,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T12:40:30.286459Z"
+    "checked_at": "2026-10-03T06:35:23.078259Z"
   },
   "RYR36RH": {
     "route": {
@@ -7027,42 +7027,9 @@
     },
     "checked_at": "2026-10-03T04:50:28.795814Z"
   },
-  "EWG8588": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T06:30:40.397785Z"
-  },
   "DEAPR": {
     "route": null,
     "checked_at": "2026-10-02T13:15:29.725831Z"
-  },
-  "CFG2CA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T06:30:40.397785Z"
-  },
-  "RYR938": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Kaunas",
-      "toIata": "KUN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T06:30:40.397785Z"
   },
   "SAS1693": {
     "route": {
@@ -7121,7 +7088,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-01T06:35:23.840301Z"
+    "checked_at": "2026-10-03T06:35:23.078259Z"
   },
   "ASL94D": {
     "route": {
@@ -13038,5 +13005,16 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-03T06:30:36.790578Z"
+  },
+  "SAS779": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T06:35:23.078259Z"
   }
 }
