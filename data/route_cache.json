@@ -2252,7 +2252,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-02T08:15:29.114793Z"
+    "checked_at": "2026-10-03T08:15:27.635054Z"
   },
   "WUK7BU": {
     "route": null,
@@ -2337,7 +2337,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-02T08:25:22.550875Z"
+    "checked_at": "2026-10-03T08:15:27.635054Z"
   },
   "PBB16": {
     "route": null,
@@ -3101,7 +3101,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T18:25:24.371213Z"
+    "checked_at": "2026-10-03T08:15:27.635054Z"
   },
   "DLH6UT": {
     "route": {
@@ -5293,17 +5293,6 @@
     },
     "checked_at": "2026-10-03T06:30:36.790578Z"
   },
-  "AUA22FA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-01T08:15:27.163865Z"
-  },
   "AFR39SV": {
     "route": {
       "fromCity": "Berlin",
@@ -5869,7 +5858,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T08:51:05.451526Z"
+    "checked_at": "2026-10-03T08:15:27.635054Z"
   },
   "SXS6WA": {
     "route": {
@@ -11827,7 +11816,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T18:10:30.469865Z"
+    "checked_at": "2026-10-03T08:15:27.635054Z"
   },
   "ETH725": {
     "route": {
@@ -12993,5 +12982,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T08:10:27.887100Z"
+  },
+  "EJU84TJ": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T08:15:27.635054Z"
+  },
+  "AUA97F": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T08:15:27.635054Z"
   }
 }
