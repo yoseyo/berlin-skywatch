@@ -4613,10 +4613,6 @@
     },
     "checked_at": "2026-10-02T20:10:30.452282Z"
   },
-  "QGA01A": {
-    "route": null,
-    "checked_at": "2026-10-01T08:25:22.992848Z"
-  },
   "EZY63GU": {
     "route": {
       "fromCity": "Geneva",
@@ -6167,7 +6163,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-02T07:20:28.766694Z"
+    "checked_at": "2026-10-03T08:25:26.300327Z"
   },
   "CHX35": {
     "route": null,
@@ -7033,17 +7029,6 @@
     },
     "checked_at": "2026-10-02T07:40:29.593898Z"
   },
-  "RYR297": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T08:20:30.720209Z"
-  },
   "RYR31KN": {
     "route": {
       "fromCity": "Berlin",
@@ -7058,17 +7043,6 @@
   "MJF3B": {
     "route": null,
     "checked_at": "2026-10-02T10:05:22.502248Z"
-  },
-  "BTI7LZ": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-01T08:25:22.992848Z"
   },
   "SZN4001": {
     "route": {
@@ -13026,5 +13000,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T08:20:28.610569Z"
+  },
+  "MGH650": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-03T08:25:26.300327Z"
   }
 }
