@@ -2605,7 +2605,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-02T09:55:22.828046Z"
+    "checked_at": "2026-10-03T09:55:22.026668Z"
   },
   "RYR9YD": {
     "route": {
@@ -2664,7 +2664,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-02T10:00:52.213762Z"
+    "checked_at": "2026-10-03T09:55:22.026668Z"
   },
   "BEL4NK": {
     "route": {
@@ -6990,17 +6990,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-03T08:30:39.480857Z"
-  },
-  "CFG8DF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T09:50:29.941003Z"
   },
   "NSZ6ZD": {
     "route": {
@@ -13046,5 +13035,27 @@
   "DMVRG": {
     "route": null,
     "checked_at": "2026-10-03T09:50:27.530268Z"
+  },
+  "NSZ3740": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T09:55:22.026668Z"
+  },
+  "BCS3317": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T09:55:22.026668Z"
   }
 }
