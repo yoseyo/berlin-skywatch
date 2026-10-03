@@ -1066,7 +1066,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T19:35:22.231168Z"
+    "checked_at": "2026-10-03T19:25:22.732998Z"
   },
   "RYR3RD": {
     "route": {
@@ -3439,7 +3439,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T19:25:22.678736Z"
+    "checked_at": "2026-10-03T19:25:22.732998Z"
   },
   "EJU84GR": {
     "route": {
@@ -4016,7 +4016,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-02T18:45:29.657109Z"
+    "checked_at": "2026-10-03T19:25:22.732998Z"
   },
   "RYR9PG": {
     "route": {
@@ -5937,7 +5937,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-02T19:10:29.016745Z"
+    "checked_at": "2026-10-03T19:25:22.732998Z"
   },
   "EZS67CP": {
     "route": {
@@ -7087,28 +7087,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-02T19:30:40.412798Z"
-  },
-  "RYR9SL": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T19:20:31.127809Z"
-  },
-  "RYR19ZZ": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T19:20:31.127809Z"
   },
   "NSZ4508": {
     "route": {
@@ -13127,5 +13105,27 @@
   "EUW5228": {
     "route": null,
     "checked_at": "2026-10-03T19:20:28.566646Z"
+  },
+  "EJU17CG": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T19:25:22.732998Z"
+  },
+  "SAS64C": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T19:25:22.732998Z"
   }
 }
