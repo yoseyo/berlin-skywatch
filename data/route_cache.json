@@ -2098,7 +2098,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-02T08:10:31.781876Z"
+    "checked_at": "2026-10-03T07:50:29.397195Z"
   },
   "KLM31X": {
     "route": {
@@ -2142,7 +2142,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T07:45:29.716504Z"
+    "checked_at": "2026-10-03T07:50:29.397195Z"
   },
   "DLH175": {
     "route": {
@@ -2153,7 +2153,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T07:55:22.466982Z"
+    "checked_at": "2026-10-03T07:50:29.397195Z"
   },
   "DLH4X": {
     "route": {
@@ -7043,14 +7043,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T07:15:29.042755Z"
-  },
-  "GAF647": {
-    "route": null,
-    "checked_at": "2026-10-01T07:45:28.375907Z"
-  },
-  "PVD425Z": {
-    "route": null,
-    "checked_at": "2026-10-01T07:45:28.375907Z"
   },
   "CAI4AA": {
     "route": {
@@ -12975,5 +12967,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T07:45:26.714396Z"
+  },
+  "EJU85UF": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T07:50:29.397195Z"
+  },
+  "EJU3948": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T07:50:29.397195Z"
   }
 }
