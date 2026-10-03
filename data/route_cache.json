@@ -837,17 +837,6 @@
     },
     "checked_at": "2026-10-02T17:55:25.192243Z"
   },
-  "KLM1782": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-01T17:35:22.793993Z"
-  },
   "IBE07MV": {
     "route": {
       "fromCity": "Berlin",
@@ -6992,17 +6981,6 @@
     },
     "checked_at": "2026-10-03T17:30:39.235541Z"
   },
-  "ISR252": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-01T17:40:29.018129Z"
-  },
   "RYR87DD": {
     "route": {
       "fromCity": "Gothenburg",
@@ -7023,7 +7001,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-01T17:45:49.917613Z"
+    "checked_at": "2026-10-03T17:40:32.233974Z"
   },
   "WZZ2706": {
     "route": {
@@ -13100,5 +13078,49 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-03T17:25:22.546976Z"
+  },
+  "NOZ1942": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Pula",
+      "toIata": "PUY",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-03T17:40:32.233974Z"
+  },
+  "WZZ91VH": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Kopitnari",
+      "toIata": "KUT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-03T17:40:32.233974Z"
+  },
+  "BTI2GA": {
+    "route": {
+      "fromCity": "Tampere / Pirkkala",
+      "fromIata": "TMP",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-03T17:40:32.233974Z"
+  },
+  "TGZ781": {
+    "route": {
+      "fromCity": "Tbilisi",
+      "fromIata": "TBS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Georgian Airways",
+      "airlineCountry": "Georgia"
+    },
+    "checked_at": "2026-10-03T17:40:32.233974Z"
   }
 }
