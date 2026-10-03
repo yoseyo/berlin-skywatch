@@ -1716,7 +1716,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-02T06:05:22.423404Z"
+    "checked_at": "2026-10-03T06:10:29.939161Z"
   },
   "AUA223B": {
     "route": {
@@ -1819,7 +1819,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-02T06:15:41.196408Z"
+    "checked_at": "2026-10-03T06:10:29.939161Z"
   },
   "SAS661": {
     "route": {
@@ -5740,17 +5740,6 @@
     },
     "checked_at": "2026-10-01T16:50:29.413933Z"
   },
-  "RYR87VA": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T06:10:29.414096Z"
-  },
   "AFR38LQ": {
     "route": null,
     "checked_at": "2026-10-02T18:15:31.579789Z"
@@ -7027,10 +7016,6 @@
     },
     "checked_at": "2026-10-02T06:10:29.842487Z"
   },
-  "DIHKW": {
-    "route": null,
-    "checked_at": "2026-10-01T06:10:29.414096Z"
-  },
   "DUKE60": {
     "route": null,
     "checked_at": "2026-10-01T06:15:26.758977Z"
@@ -7195,7 +7180,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-01T06:35:23.840301Z"
+    "checked_at": "2026-10-03T06:10:29.939161Z"
   },
   "THY5CS": {
     "route": {
@@ -11684,7 +11669,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T14:30:45.813392Z"
+    "checked_at": "2026-10-03T06:10:29.939161Z"
   },
   "NSZ2901": {
     "route": {
@@ -13046,5 +13031,16 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-03T06:05:24.514893Z"
+  },
+  "AUA26Y": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-03T06:10:29.939161Z"
   }
 }
