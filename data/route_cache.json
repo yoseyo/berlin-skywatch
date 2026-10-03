@@ -4801,17 +4801,6 @@
     },
     "checked_at": "2026-10-02T06:35:22.400289Z"
   },
-  "BTI97T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-01T06:35:23.840301Z"
-  },
   "LOT403": {
     "route": {
       "fromCity": "Warsaw",
@@ -7041,32 +7030,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-02T06:30:40.703639Z"
-  },
-  "THY73G": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "San Francisco",
-      "toIata": "SFO",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T06:35:23.840301Z"
-  },
-  "FIN1AB": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-01T06:35:23.840301Z"
-  },
-  "DIGRK": {
-    "route": null,
-    "checked_at": "2026-10-01T06:35:23.840301Z"
   },
   "WZZ1BD": {
     "route": {
@@ -13016,5 +12979,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-03T06:35:23.078259Z"
+  },
+  "EWG6KW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T06:40:27.676439Z"
+  },
+  "EWG90V": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T06:40:27.676439Z"
   }
 }
