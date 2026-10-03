@@ -3652,7 +3652,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-02T19:30:40.412798Z"
+    "checked_at": "2026-10-03T19:01:09.901339Z"
   },
   "THY87X": {
     "route": {
@@ -5902,17 +5902,6 @@
     },
     "checked_at": "2026-10-02T18:10:30.469865Z"
   },
-  "EWG8UD": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T19:00:55.395515Z"
-  },
   "EZS83KB": {
     "route": {
       "fromCity": "B\u00e2le/Mulhouse",
@@ -7049,7 +7038,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-02T18:45:29.657109Z"
+    "checked_at": "2026-10-03T19:01:09.901339Z"
   },
   "EJU16CF": {
     "route": {
@@ -7061,17 +7050,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T09:50:29.479430Z"
-  },
-  "PGT816T": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T19:00:55.395515Z"
   },
   "EJU38AB": {
     "route": {
@@ -13053,5 +13031,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T18:45:29.107488Z"
+  },
+  "WZZ6LM": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-03T19:01:09.901339Z"
+  },
+  "NSZ3878": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T19:01:09.901339Z"
+  },
+  "LHX4YP": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T19:01:09.901339Z"
+  },
+  "SAS65K": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T19:01:09.901339Z"
   }
 }
