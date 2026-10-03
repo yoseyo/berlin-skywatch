@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-03T23:35:21.794074Z"
+  "flights": [
+    {
+      "callsign": "AIC188",
+      "country": "India",
+      "lat": 52.7656,
+      "lon": 12.9989,
+      "altKm": 11.6,
+      "speedKmh": 938,
+      "heading": 125,
+      "vertRateMs": -0.3,
+      "airline": "Air India",
+      "airlineCountry": "India",
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "New Delhi",
+      "toIata": "DEL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-03T23:40:29.383170Z"
 }
