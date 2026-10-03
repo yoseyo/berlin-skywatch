@@ -1,29 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "N324FP",
-      "country": "United States",
-      "lat": 52.3449,
-      "lon": 13.3891,
-      "altKm": 0.5,
-      "speedKmh": 264,
-      "heading": 69,
-      "vertRateMs": -3.6,
-      "category": "jet"
-    },
-    {
       "callsign": "EWG2W",
       "country": "Germany",
-      "lat": 52.3475,
-      "lon": 13.4769,
-      "altKm": 0.1,
-      "speedKmh": 167,
-      "heading": 69,
-      "vertRateMs": 0.3,
+      "lat": 52.2254,
+      "lon": 13.2616,
+      "altKm": 3.1,
+      "speedKmh": 496,
+      "heading": 217,
+      "vertRateMs": 15.9,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-03T03:30:39.806932Z"
+  "updated_at": "2026-10-03T03:35:23.023236Z"
 }
