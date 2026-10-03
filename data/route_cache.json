@@ -1055,7 +1055,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T19:10:29.016745Z"
+    "checked_at": "2026-10-03T19:05:26.586975Z"
   },
   "SAS1680": {
     "route": {
@@ -4887,17 +4887,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-03T18:55:23.499642Z"
-  },
-  "ADZ3907": {
-    "route": {
-      "fromCity": "\u00d6rebro",
-      "fromIata": "ORB",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Compass Cargo Airlines",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-01T19:05:24.427757Z"
   },
   "LOT4CN": {
     "route": {
@@ -13075,5 +13064,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-03T19:01:09.901339Z"
+  },
+  "NOZ51J": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-03T19:05:26.586975Z"
+  },
+  "TGZ782": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tbilisi",
+      "toIata": "TBS",
+      "airlineName": "Georgian Airways",
+      "airlineCountry": "Georgia"
+    },
+    "checked_at": "2026-10-03T19:05:26.586975Z"
   }
 }
