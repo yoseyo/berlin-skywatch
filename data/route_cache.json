@@ -7095,17 +7095,6 @@
     "route": null,
     "checked_at": "2026-10-02T11:10:29.186664Z"
   },
-  "ISR251": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-01T16:05:26.325004Z"
-  },
   "ATCTEST": {
     "route": null,
     "checked_at": "2026-10-01T16:15:31.976997Z"
@@ -13174,5 +13163,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T16:05:24.555559Z"
+  },
+  "SAS7775": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T16:10:27.787081Z"
+  },
+  "RYR7UL": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T16:10:27.787081Z"
   }
 }
