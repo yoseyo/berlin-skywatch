@@ -7016,28 +7016,6 @@
     },
     "checked_at": "2026-10-02T03:20:31.587101Z"
   },
-  "EJU9046": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-01T04:00:50.410646Z"
-  },
-  "UAE221": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Dallas-Fort Worth",
-      "toIata": "DFW",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-01T04:00:50.410646Z"
-  },
   "EWG9B": {
     "route": {
       "fromCity": "Cologne",
@@ -13080,5 +13058,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T03:50:29.507450Z"
+  },
+  "RYR8865": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Baden-Baden",
+      "toIata": "FKB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T04:05:23.049614Z"
   }
 }
