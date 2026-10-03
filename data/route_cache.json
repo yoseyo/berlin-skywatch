@@ -251,7 +251,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-02T15:15:29.310854Z"
+    "checked_at": "2026-10-03T15:05:24.360421Z"
   },
   "KLM1779": {
     "route": {
@@ -354,7 +354,7 @@
   },
   "TVF77EX": {
     "route": null,
-    "checked_at": "2026-10-02T18:05:25.326961Z"
+    "checked_at": "2026-10-03T15:05:24.360421Z"
   },
   "NSZ3303": {
     "route": {
@@ -4000,17 +4000,6 @@
     },
     "checked_at": "2026-10-03T10:05:22.385819Z"
   },
-  "RYR2SW": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T15:00:59.858926Z"
-  },
   "CES787": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -5439,17 +5428,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-01T20:15:27.820622Z"
-  },
-  "EJU78LB": {
-    "route": {
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-01T15:00:59.858926Z"
   },
   "TAP4BE": {
     "route": {
@@ -7093,21 +7071,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-02T14:45:30.194081Z"
-  },
-  "ENT7SY": {
-    "route": null,
-    "checked_at": "2026-10-01T15:00:59.858926Z"
-  },
-  "BTI8QA": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-01T15:00:59.858926Z"
   },
   "DLH7MR": {
     "route": {
@@ -10011,7 +9974,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-02T14:20:36.297041Z"
+    "checked_at": "2026-10-03T15:05:24.360421Z"
   },
   "LZB319": {
     "route": {
@@ -13144,5 +13107,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T15:00:53.528799Z"
+  },
+  "SAS4805": {
+    "route": {
+      "fromCity": "Trondheim",
+      "fromIata": "TRD",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T15:05:24.360421Z"
+  },
+  "CFG7VT": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T15:05:24.360421Z"
   }
 }
