@@ -3108,7 +3108,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T10:45:28.895374Z"
+    "checked_at": "2026-10-03T11:40:27.385029Z"
   },
   "MSC2960": {
     "route": {
@@ -7645,7 +7645,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-01T14:45:30.587128Z"
+    "checked_at": "2026-10-03T11:40:27.385029Z"
   },
   "NSZ72N": {
     "route": {
@@ -13046,5 +13046,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T11:35:57.916990Z"
+  },
+  "AIC190": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "New Delhi",
+      "toIata": "DEL",
+      "airlineName": "Air India",
+      "airlineCountry": "India"
+    },
+    "checked_at": "2026-10-03T11:40:27.385029Z"
+  },
+  "FIN98J": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-03T11:40:27.385029Z"
   }
 }
