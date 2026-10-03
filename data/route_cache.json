@@ -7176,17 +7176,6 @@
     },
     "checked_at": "2026-10-03T21:40:41.007860Z"
   },
-  "WMT5TD": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-01T22:45:27.085201Z"
-  },
   "NSZ2941": {
     "route": {
       "fromCity": "Milan",
@@ -13336,5 +13325,16 @@
   "CAT750": {
     "route": null,
     "checked_at": "2026-10-03T22:30:39.423003Z"
+  },
+  "WMT726": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-03T22:50:28.161832Z"
   }
 }
