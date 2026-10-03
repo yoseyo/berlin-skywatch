@@ -747,7 +747,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-01T17:00:52.797809Z"
+    "checked_at": "2026-10-03T17:00:51.338990Z"
   },
   "KLM1316": {
     "route": {
@@ -4271,17 +4271,6 @@
     },
     "checked_at": "2026-10-02T20:00:50.401025Z"
   },
-  "EWG6RY": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T16:55:25.280349Z"
-  },
   "BEL3JZ": {
     "route": {
       "fromCity": "Berlin",
@@ -5243,7 +5232,7 @@
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-10-02T16:55:22.806348Z"
+    "checked_at": "2026-10-03T17:00:51.338990Z"
   },
   "UAE61": {
     "route": {
@@ -5254,7 +5243,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-02T17:20:30.383932Z"
+    "checked_at": "2026-10-03T17:00:51.338990Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -5879,10 +5868,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-02T05:10:27.574536Z"
-  },
-  "EJU5075": {
-    "route": null,
-    "checked_at": "2026-10-01T16:55:25.280349Z"
   },
   "AUA235D": {
     "route": {
@@ -13097,5 +13082,16 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-03T16:55:23.303444Z"
+  },
+  "WZZ93": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-03T17:00:51.338990Z"
   }
 }
