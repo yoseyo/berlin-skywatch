@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-02T12:50:32.413192Z"
+    "checked_at": "2026-10-03T12:35:23.470099Z"
   },
   "MSC2961": {
     "route": {
@@ -2983,7 +2983,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-02T12:35:26.447181Z"
+    "checked_at": "2026-10-03T12:35:23.470099Z"
   },
   "DLH9MH": {
     "route": {
@@ -5673,7 +5673,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T06:55:21.275472Z"
+    "checked_at": "2026-10-03T12:35:23.470099Z"
   },
   "DLH894": {
     "route": {
@@ -5974,7 +5974,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-01T12:55:23.660880Z"
+    "checked_at": "2026-10-03T12:35:23.470099Z"
   },
   "EWG99T": {
     "route": {
@@ -7041,36 +7041,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-02T11:55:22.183449Z"
-  },
-  "BTI3TP": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-01T12:30:42.225960Z"
-  },
-  "RYR1CZ": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-01T12:30:42.225960Z"
-  },
-  "NJE886F": {
-    "route": null,
-    "checked_at": "2026-10-01T12:30:42.225960Z"
-  },
-  "VJT449": {
-    "route": null,
-    "checked_at": "2026-10-01T12:30:42.225960Z"
   },
   "CCA446": {
     "route": {
@@ -13106,5 +13076,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-03T12:30:40.104713Z"
+  },
+  "LBT2422": {
+    "route": {
+      "fromCity": "Djerba",
+      "fromIata": "DJE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-03T12:35:23.470099Z"
+  },
+  "SXS1ZN": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-03T12:35:23.470099Z"
   }
 }
