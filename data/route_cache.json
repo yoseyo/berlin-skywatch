@@ -1554,7 +1554,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T05:15:28.056347Z"
+    "checked_at": "2026-10-03T05:15:28.363758Z"
   },
   "BEL8YE": {
     "route": {
@@ -1587,7 +1587,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-02T05:45:27.004808Z"
+    "checked_at": "2026-10-03T05:15:28.363758Z"
   },
   "BAW99C": {
     "route": {
@@ -1617,7 +1617,7 @@
   },
   "EWG7ED": {
     "route": null,
-    "checked_at": "2026-10-02T05:35:22.198573Z"
+    "checked_at": "2026-10-03T05:15:28.363758Z"
   },
   "NSZ8ML": {
     "route": {
@@ -7016,17 +7016,6 @@
     },
     "checked_at": "2026-10-02T05:05:23.435947Z"
   },
-  "PGT1605": {
-    "route": {
-      "fromCity": "Gaziantep",
-      "fromIata": "GZT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T05:15:27.983305Z"
-  },
   "DLH4EK": {
     "route": {
       "fromCity": "Oslo",
@@ -7037,17 +7026,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T05:00:52.427394Z"
-  },
-  "FLI7154": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Karpathos Island",
-      "toIata": "AOK",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-10-01T05:15:27.983305Z"
   },
   "SAS35K": {
     "route": {
@@ -7103,7 +7081,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-01T05:50:29.809339Z"
+    "checked_at": "2026-10-03T05:15:28.363758Z"
   },
   "BTI877": {
     "route": {
@@ -13040,5 +13018,16 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-03T05:10:28.479025Z"
+  },
+  "RYR456B": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T05:15:28.363758Z"
   }
 }
