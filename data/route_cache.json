@@ -7176,21 +7176,6 @@
     },
     "checked_at": "2026-10-03T21:40:41.007860Z"
   },
-  "9ACAW": {
-    "route": null,
-    "checked_at": "2026-10-01T22:15:29.753124Z"
-  },
-  "WZZ1469": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Skopje",
-      "toIata": "SKP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-01T22:15:29.753124Z"
-  },
   "WMT5TD": {
     "route": {
       "fromCity": "Oslo",
@@ -13314,5 +13299,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T22:03:00.882849Z"
+  },
+  "SAS61W": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Stavanger",
+      "toIata": "SVG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-03T22:20:28.647490Z"
+  },
+  "NOZ5LB": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-03T22:20:28.647490Z"
+  },
+  "RYR1893": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T22:20:28.647490Z"
   }
 }
