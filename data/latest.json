@@ -1,64 +1,12 @@
 {
   "flights": [
     {
-      "callsign": "CHX100",
-      "country": "Germany",
-      "lat": 52.6298,
-      "lon": 13.5118,
-      "altKm": 0.1,
-      "speedKmh": 11,
-      "heading": 189,
-      "vertRateMs": -1.6,
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH206",
-      "country": "Germany",
-      "lat": 52.3602,
-      "lon": 13.453,
-      "altKm": 0.2,
-      "speedKmh": 269,
-      "heading": 68,
-      "vertRateMs": -2.9,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
-      "callsign": "TWY32",
-      "country": "United States",
-      "lat": 52.7305,
-      "lon": 13.0885,
-      "altKm": 12.5,
-      "speedKmh": 824,
-      "heading": 290,
-      "vertRateMs": 0,
-      "category": "jet"
-    },
-    {
-      "callsign": "IBE0787",
-      "country": "Spain",
-      "lat": 52.2946,
-      "lon": 13.2555,
-      "altKm": 0.9,
-      "speedKmh": 365,
-      "heading": 68,
-      "vertRateMs": -6.2,
-      "airline": "Iberia Airlines",
-      "airlineCountry": "Spain",
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "SAS2690",
       "country": "Ireland",
-      "lat": 52.1102,
-      "lon": 12.7151,
+      "lat": 52.707,
+      "lon": 13.0927,
       "altKm": 11.7,
-      "speedKmh": 843,
+      "speedKmh": 857,
       "heading": 21,
       "vertRateMs": 0,
       "airline": "Scandinavian Airlines System",
@@ -68,7 +16,24 @@
       "toCity": "Stockholm",
       "toIata": "ARN",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR2501",
+      "country": "Ireland",
+      "lat": 52.2153,
+      "lon": 12.984,
+      "altKm": 2.1,
+      "speedKmh": 481,
+      "heading": 47,
+      "vertRateMs": -4.9,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-03T20:45:29.021198Z"
+  "updated_at": "2026-10-03T20:50:29.044491Z"
 }
