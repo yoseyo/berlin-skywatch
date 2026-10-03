@@ -214,7 +214,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-02T14:20:36.297041Z"
+    "checked_at": "2026-10-03T14:26:10.802210Z"
   },
   "AUA995F": {
     "route": {
@@ -273,7 +273,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-02T14:30:45.813392Z"
+    "checked_at": "2026-10-03T14:26:10.802210Z"
   },
   "EJU81FH": {
     "route": {
@@ -3755,7 +3755,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T14:30:45.813392Z"
+    "checked_at": "2026-10-03T14:26:10.802210Z"
   },
   "ICE15M": {
     "route": {
@@ -4086,7 +4086,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T15:30:43.258856Z"
+    "checked_at": "2026-10-03T14:26:10.802210Z"
   },
   "RYR5XX": {
     "route": {
@@ -7072,17 +7072,6 @@
     "route": null,
     "checked_at": "2026-10-02T16:15:27.947845Z"
   },
-  "THY9": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Los Angeles",
-      "toIata": "LAX",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T14:17:37.495893Z"
-  },
   "DLH715": {
     "route": {
       "fromCity": "Tokyo",
@@ -7093,47 +7082,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T13:55:22.569408Z"
-  },
-  "CFG4FD": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-01T14:17:37.495893Z"
-  },
-  "NJE686K": {
-    "route": null,
-    "checked_at": "2026-10-01T14:17:37.495893Z"
-  },
-  "BEL5XD": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-01T14:20:29.391092Z"
-  },
-  "PAV651": {
-    "route": null,
-    "checked_at": "2026-10-01T14:20:29.391092Z"
-  },
-  "BTI629": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-01T14:25:23.518167Z"
   },
   "EJU96PC": {
     "route": {
@@ -8542,7 +8490,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-02T05:55:24.176003Z"
+    "checked_at": "2026-10-03T14:26:10.802210Z"
   },
   "RYR55XJ": {
     "route": {
@@ -13132,5 +13080,31 @@
   "DMZFD": {
     "route": null,
     "checked_at": "2026-10-03T14:05:23.149190Z"
+  },
+  "NJE416H": {
+    "route": null,
+    "checked_at": "2026-10-03T14:26:10.802210Z"
+  },
+  "RJA148": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Amman",
+      "toIata": "AMM",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-10-03T14:26:10.802210Z"
+  },
+  "CFG3VD": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T14:26:10.802210Z"
   }
 }
