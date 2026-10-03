@@ -1433,7 +1433,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T07:40:29.593898Z"
+    "checked_at": "2026-10-03T07:55:23.778402Z"
   },
   "EJU62LY": {
     "route": {
@@ -2131,7 +2131,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-02T08:05:23.391269Z"
+    "checked_at": "2026-10-03T07:55:23.778402Z"
   },
   "DLH9WF": {
     "route": {
@@ -2164,7 +2164,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T07:55:22.466982Z"
+    "checked_at": "2026-10-03T07:55:23.778402Z"
   },
   "DAL93": {
     "route": {
@@ -2175,7 +2175,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-02T07:50:29.198110Z"
+    "checked_at": "2026-10-03T07:55:23.778402Z"
   },
   "AUA225B": {
     "route": {
@@ -2256,7 +2256,7 @@
   },
   "WUK7BU": {
     "route": null,
-    "checked_at": "2026-10-02T08:15:29.114793Z"
+    "checked_at": "2026-10-03T07:55:23.778402Z"
   },
   "DLH3WU": {
     "route": {
@@ -7043,17 +7043,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T07:15:29.042755Z"
-  },
-  "CAI4AA": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-01T07:55:22.133492Z"
   },
   "ASL19P": {
     "route": {
@@ -12989,5 +12978,42 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T07:50:29.397195Z"
+  },
+  "PHMUE": {
+    "route": null,
+    "checked_at": "2026-10-03T07:55:23.778402Z"
+  },
+  "UAL82": {
+    "route": {
+      "fromCity": "New York",
+      "fromIata": "EWR",
+      "toCity": "New Delhi",
+      "toIata": "DEL",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-03T07:55:23.778402Z"
+  },
+  "CFG1RD": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-03T07:55:23.778402Z"
+  },
+  "CTN284E": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-03T07:55:23.778402Z"
   }
 }
