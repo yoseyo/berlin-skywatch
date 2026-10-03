@@ -339,7 +339,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-02T15:20:31.311021Z"
+    "checked_at": "2026-10-03T15:50:29.776712Z"
   },
   "BEL2HJ": {
     "route": {
@@ -519,7 +519,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-02T16:25:23.126764Z"
+    "checked_at": "2026-10-03T15:50:29.776712Z"
   },
   "LOT389": {
     "route": {
@@ -3390,17 +3390,6 @@
     },
     "checked_at": "2026-10-02T15:10:31.114538Z"
   },
-  "SAS71T": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-01T15:45:30.660673Z"
-  },
   "EJU51HZ": {
     "route": {
       "fromCity": "Berlin",
@@ -4908,7 +4897,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-02T15:40:29.762874Z"
+    "checked_at": "2026-10-03T15:50:29.776712Z"
   },
   "NSZ2066": {
     "route": {
@@ -7101,32 +7090,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T12:25:23.961652Z"
-  },
-  "FIN2K": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-01T15:50:29.695689Z"
-  },
-  "ETH3605": {
-    "route": {
-      "fromCity": "Li\u00e8ge",
-      "fromIata": "LGG",
-      "toCity": "Zhengzhou",
-      "toIata": "CGO",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-10-01T15:50:29.695689Z"
-  },
-  "AWH38E": {
-    "route": null,
-    "checked_at": "2026-10-01T15:50:29.695689Z"
   },
   "NOZ72C": {
     "route": {
@@ -13170,5 +13133,38 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-03T15:45:27.411512Z"
+  },
+  "BTI8WF": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-03T15:50:29.776712Z"
+  },
+  "FIN08PL": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-03T15:50:29.776712Z"
+  },
+  "RYR108X": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-03T15:50:29.776712Z"
   }
 }
