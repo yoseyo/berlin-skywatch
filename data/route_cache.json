@@ -89,7 +89,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-03T13:55:22.569408Z"
+    "checked_at": "2026-10-04T14:00:48.055358Z"
   },
   "NSZ3302": {
     "route": {
@@ -5187,7 +5187,7 @@
       "airlineName": "Easyjet Switzerland",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-02T18:30:41.475179Z"
+    "checked_at": "2026-10-04T14:00:48.055358Z"
   },
   "WZZ50ML": {
     "route": {
@@ -12921,5 +12921,31 @@
   "SPFWB": {
     "route": null,
     "checked_at": "2026-10-04T13:55:24.472830Z"
+  },
+  "CFE93AU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T14:00:48.055358Z"
+  },
+  "RYR17PM": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T14:00:48.055358Z"
+  },
+  "BPOBER": {
+    "route": null,
+    "checked_at": "2026-10-04T14:00:48.055358Z"
   }
 }
