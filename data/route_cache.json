@@ -2127,7 +2127,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-03T07:40:27.638779Z"
+    "checked_at": "2026-10-04T07:50:28.602766Z"
   },
   "SAS2677": {
     "route": {
@@ -4783,7 +4783,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-03T07:59:10.549636Z"
+    "checked_at": "2026-10-04T07:50:28.602766Z"
   },
   "AUA99J": {
     "route": {
@@ -7005,17 +7005,6 @@
   "DISAG": {
     "route": null,
     "checked_at": "2026-10-03T13:15:27.971688Z"
-  },
-  "EZY84XQ": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-02T07:45:29.716504Z"
   },
   "EWG8602": {
     "route": {
@@ -13077,5 +13066,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-04T07:45:27.355717Z"
+  },
+  "OAL3351": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "M\u00f6nchengladbach",
+      "toIata": "MGL",
+      "airlineName": "Olympic Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-04T07:50:28.602766Z"
+  },
+  "HYS408": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "HiSky Europe",
+      "airlineCountry": "Romania"
+    },
+    "checked_at": "2026-10-04T07:50:28.602766Z"
+  },
+  "NIA8702": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-04T07:50:28.602766Z"
   }
 }
