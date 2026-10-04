@@ -7036,54 +7036,6 @@
     },
     "checked_at": "2026-10-04T05:25:25.578632Z"
   },
-  "CEF214": {
-    "route": null,
-    "checked_at": "2026-10-02T05:50:28.367451Z"
-  },
-  "JTD557": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-02T05:50:28.367451Z"
-  },
-  "FLI7160": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Ioannina",
-      "toIata": "IOA",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-10-02T05:50:28.367451Z"
-  },
-  "AEE4318": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-02T05:50:28.367451Z"
-  },
-  "CAT345": {
-    "route": {
-      "fromCity": "Aalborg",
-      "fromIata": "AAL",
-      "toCity": "Preveza/Lefkada",
-      "toIata": "PVK",
-      "airlineName": "Copenhagen Airtaxi",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-02T05:50:28.367451Z"
-  },
   "EJU12HB": {
     "route": {
       "fromCity": "Berlin",
@@ -13269,5 +13221,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-04T05:30:41.494851Z"
+  },
+  "BTI3TP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-04T05:50:29.956516Z"
+  },
+  "FLI7120": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-04T05:50:29.956516Z"
   }
 }
