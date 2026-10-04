@@ -3250,17 +3250,6 @@
     },
     "checked_at": "2026-10-04T16:15:28.814611Z"
   },
-  "EWG55X": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T17:20:30.383932Z"
-  },
   "THY91B": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6605,17 +6594,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-04T16:40:32.023461Z"
-  },
-  "NOZ2XD": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-02T17:15:29.503676Z"
   },
   "RYR8PJ": {
     "route": {
@@ -12971,5 +12949,60 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-04T17:15:28.045227Z"
+  },
+  "EJU59FK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T17:20:31.873900Z"
+  },
+  "WZZ82": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-04T17:20:31.873900Z"
+  },
+  "EWG45B": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T17:20:31.873900Z"
+  },
+  "TKJ9HJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T17:20:31.873900Z"
+  },
+  "CTN4489": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-04T17:20:31.873900Z"
   }
 }
