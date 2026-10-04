@@ -2190,7 +2190,7 @@
   },
   "SWR3TE": {
     "route": null,
-    "checked_at": "2026-10-03T08:55:28.237240Z"
+    "checked_at": "2026-10-04T09:05:24.508013Z"
   },
   "RYR749C": {
     "route": {
@@ -2234,7 +2234,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-03T08:50:27.644854Z"
+    "checked_at": "2026-10-04T09:05:24.508013Z"
   },
   "AEE8RB": {
     "route": {
@@ -3523,7 +3523,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T18:30:41.475179Z"
+    "checked_at": "2026-10-04T09:05:24.508013Z"
   },
   "EWG5SP": {
     "route": {
@@ -6942,32 +6942,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T08:35:23.481373Z"
-  },
-  "N940DD": {
-    "route": null,
-    "checked_at": "2026-10-02T09:05:22.967600Z"
-  },
-  "PGT1678": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-02T09:05:22.967600Z"
-  },
-  "EZY3162": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paisley, Renfrewshire",
-      "toIata": "GLA",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-02T09:05:22.967600Z"
   },
   "EWG4DA": {
     "route": {
@@ -12980,5 +12954,27 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-04T08:55:26.469603Z"
+  },
+  "RYR8988": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T09:05:24.508013Z"
+  },
+  "CFG4RY": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T09:05:24.508013Z"
   }
 }
