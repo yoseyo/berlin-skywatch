@@ -4267,17 +4267,6 @@
     },
     "checked_at": "2026-10-03T13:45:29.374383Z"
   },
-  "NSZ2067": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T17:55:25.192243Z"
-  },
   "SAS2768": {
     "route": {
       "fromCity": "Valletta",
@@ -6583,17 +6572,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-04T07:45:27.355717Z"
-  },
-  "NOZ5HE": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-02T17:55:25.192243Z"
   },
   "EJU68NQ": {
     "route": {
@@ -13023,5 +13001,16 @@
   "KMM376": {
     "route": null,
     "checked_at": "2026-10-04T17:55:22.962649Z"
+  },
+  "ASL86W": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-04T18:00:48.216212Z"
   }
 }
