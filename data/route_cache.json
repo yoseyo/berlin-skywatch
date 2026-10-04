@@ -978,7 +978,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-03T18:35:23.994052Z"
+    "checked_at": "2026-10-04T19:25:26.972599Z"
   },
   "KLC1335": {
     "route": {
@@ -1089,17 +1089,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-03T21:25:22.319546Z"
-  },
-  "LGL74BE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "Luxair",
-      "airlineCountry": "Luxembourg"
-    },
-    "checked_at": "2026-10-02T19:25:22.678736Z"
   },
   "AUA239": {
     "route": {
@@ -4846,7 +4835,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-03T19:25:22.732998Z"
+    "checked_at": "2026-10-04T19:25:26.972599Z"
   },
   "EZS67CP": {
     "route": {
@@ -6521,28 +6510,6 @@
   "EJU32RT": {
     "route": null,
     "checked_at": "2026-10-04T12:00:50.446883Z"
-  },
-  "SXS8LA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-02T19:20:31.271014Z"
-  },
-  "WZZ2QN": {
-    "route": {
-      "fromCity": "Podgorica",
-      "fromIata": "TGD",
-      "toCity": "Malm\u00f6",
-      "toIata": "MMX",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-02T19:20:31.271014Z"
   },
   "HLF8816": {
     "route": null,
@@ -13005,5 +12972,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T19:20:30.284498Z"
+  },
+  "NSZ2941": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T19:25:26.972599Z"
+  },
+  "CXI1V": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-04T19:25:26.972599Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-04T19:25:26.972599Z"
   }
 }
