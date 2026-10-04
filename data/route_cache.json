@@ -2579,7 +2579,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-03T12:00:47.346843Z"
+    "checked_at": "2026-10-04T11:05:21.758766Z"
   },
   "PGT54XN": {
     "route": {
@@ -9652,7 +9652,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-03T10:15:28.953864Z"
+    "checked_at": "2026-10-04T11:05:21.758766Z"
   },
   "SAS4806": {
     "route": {
@@ -12834,5 +12834,38 @@
   "GAC564P": {
     "route": null,
     "checked_at": "2026-10-04T10:50:28.252867Z"
+  },
+  "TSC419": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-04T11:05:21.758766Z"
+  },
+  "MGH768": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T11:05:21.758766Z"
+  },
+  "FLI7121": {
+    "route": {
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-04T11:05:21.758766Z"
   }
 }
