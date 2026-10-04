@@ -692,7 +692,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T17:30:39.235541Z"
+    "checked_at": "2026-10-04T17:50:27.671496Z"
   },
   "SWR3BY": {
     "route": {
@@ -4012,7 +4012,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-02T18:25:24.371213Z"
+    "checked_at": "2026-10-04T17:50:27.671496Z"
   },
   "AUA237": {
     "route": {
@@ -5421,17 +5421,6 @@
     },
     "checked_at": "2026-10-03T13:55:22.569408Z"
   },
-  "RYR3U": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Girona",
-      "toIata": "GRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T17:45:29.932361Z"
-  },
   "FIN4VP": {
     "route": {
       "fromCity": "Helsinki",
@@ -5688,7 +5677,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T19:25:22.678736Z"
+    "checked_at": "2026-10-04T17:50:27.671496Z"
   },
   "BAW997T": {
     "route": {
@@ -9627,7 +9616,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-03T17:25:22.546976Z"
+    "checked_at": "2026-10-04T17:50:27.671496Z"
   },
   "NOZ1942": {
     "route": {
@@ -13008,5 +12997,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T17:45:28.805394Z"
+  },
+  "CKK216": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-04T17:50:27.671496Z"
+  },
+  "AEE4580": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-04T17:50:27.671496Z"
   }
 }
