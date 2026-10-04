@@ -155,7 +155,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T06:00:49.001572Z"
+    "checked_at": "2026-10-04T10:35:22.436438Z"
   },
   "CHX31": {
     "route": null,
@@ -633,7 +633,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-02T21:05:21.862627Z"
+    "checked_at": "2026-10-04T10:35:22.436438Z"
   },
   "TVF89NN": {
     "route": null,
@@ -2623,7 +2623,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-03T10:50:28.932161Z"
+    "checked_at": "2026-10-04T10:35:22.436438Z"
   },
   "DLH2HH": {
     "route": {
@@ -3545,7 +3545,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T19:15:27.718810Z"
+    "checked_at": "2026-10-04T10:35:22.436438Z"
   },
   "WMT6363": {
     "route": {
@@ -3600,7 +3600,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-03T10:35:22.138784Z"
+    "checked_at": "2026-10-04T10:35:22.436438Z"
   },
   "WMT7WQ": {
     "route": {
@@ -4475,17 +4475,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-02T14:40:29.608110Z"
-  },
-  "LBT232": {
-    "route": {
-      "fromCity": "Tunis",
-      "fromIata": "TUN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-02T10:30:41.595541Z"
   },
   "TAP53ED": {
     "route": {
@@ -6850,39 +6839,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T08:20:28.610569Z"
-  },
-  "NSZ2621": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T10:30:41.595541Z"
-  },
-  "CFG9VN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T10:30:41.595541Z"
-  },
-  "SXS9RW": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-02T10:30:41.595541Z"
   },
   "LOT16M": {
     "route": {
@@ -12933,5 +12889,16 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-04T10:25:21.615155Z"
+  },
+  "BAW87AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T10:35:22.436438Z"
   }
 }
