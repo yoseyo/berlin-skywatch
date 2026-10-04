@@ -5342,7 +5342,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T17:45:31.768581Z"
+    "checked_at": "2026-10-04T17:15:28.045227Z"
   },
   "EJU12TM": {
     "route": {
@@ -6231,7 +6231,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T09:15:29.687550Z"
+    "checked_at": "2026-10-04T17:15:28.045227Z"
   },
   "BAW843": {
     "route": {
@@ -12949,5 +12949,27 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-04T17:10:35.104054Z"
+  },
+  "PGT816T": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T17:15:28.045227Z"
+  },
+  "SXS8NM": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T17:15:28.045227Z"
   }
 }
