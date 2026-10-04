@@ -1591,7 +1591,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-03T05:35:20.610139Z"
+    "checked_at": "2026-10-04T04:55:22.509115Z"
   },
   "QTR29X": {
     "route": {
@@ -5179,17 +5179,6 @@
     },
     "checked_at": "2026-10-03T05:10:28.479025Z"
   },
-  "WZZ6072": {
-    "route": {
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-02T04:50:27.649204Z"
-  },
   "NSZ5NE": {
     "route": {
       "fromCity": "Stockholm",
@@ -7083,17 +7072,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T21:40:41.007860Z"
-  },
-  "EJU35TP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T04:50:27.649204Z"
   },
   "EWG3TF": {
     "route": {
@@ -13302,5 +13280,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-04T04:45:28.014615Z"
+  },
+  "CAT331": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-04T04:55:22.509115Z"
   }
 }
