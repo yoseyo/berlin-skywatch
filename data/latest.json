@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-04T02:15:29.787639Z"
+  "flights": [
+    {
+      "callsign": "VKG803",
+      "country": "Denmark",
+      "lat": 52.6405,
+      "lon": 13.9703,
+      "altKm": 12.5,
+      "speedKmh": 848,
+      "heading": 352,
+      "vertRateMs": 0,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-04T02:20:28.965460Z"
 }
