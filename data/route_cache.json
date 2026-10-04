@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-03T12:35:23.470099Z"
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   },
   "MSC2961": {
     "route": {
@@ -45,7 +45,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T08:10:27.887100Z"
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   },
   "CFE93AU": {
     "route": {
@@ -3130,7 +3130,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T16:35:22.278148Z"
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   },
   "WZZ262": {
     "route": {
@@ -5017,17 +5017,6 @@
     },
     "checked_at": "2026-10-03T12:35:23.470099Z"
   },
-  "EWG99T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T12:30:40.264318Z"
-  },
   "BAW91J": {
     "route": {
       "fromCity": "Berlin",
@@ -5947,17 +5936,6 @@
     "route": null,
     "checked_at": "2026-10-03T10:20:30.100115Z"
   },
-  "EJU61PU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T12:25:23.961652Z"
-  },
   "VJT645": {
     "route": null,
     "checked_at": "2026-10-04T09:00:53.883529Z"
@@ -6748,28 +6726,6 @@
     },
     "checked_at": "2026-10-04T12:00:50.446883Z"
   },
-  "SAS67E": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T12:25:23.961652Z"
-  },
-  "RYR786D": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T12:25:23.961652Z"
-  },
   "RYR48VZ": {
     "route": {
       "fromCity": "Berlin",
@@ -6780,14 +6736,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T12:00:47.346843Z"
-  },
-  "DHACB": {
-    "route": null,
-    "checked_at": "2026-10-02T12:30:40.264318Z"
-  },
-  "IFA6513": {
-    "route": null,
-    "checked_at": "2026-10-02T12:30:40.264318Z"
   },
   "UAE9656": {
     "route": {
@@ -9364,7 +9312,7 @@
   },
   "BPO701": {
     "route": null,
-    "checked_at": "2026-10-03T10:30:37.181954Z"
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   },
   "DMRBW": {
     "route": null,
@@ -9890,7 +9838,7 @@
   },
   "DMYHG": {
     "route": null,
-    "checked_at": "2026-10-03T13:15:27.971688Z"
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   },
   "EJU83ZK": {
     "route": {
@@ -10498,7 +10446,7 @@
   },
   "DEADX": {
     "route": null,
-    "checked_at": "2026-10-03T16:20:28.432075Z"
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   },
   "CAT749": {
     "route": null,
@@ -10734,7 +10682,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T17:45:31.768581Z"
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   },
   "RYR5928": {
     "route": {
@@ -12813,5 +12761,31 @@
   "GAF160": {
     "route": null,
     "checked_at": "2026-10-04T12:20:28.704662Z"
+  },
+  "TIE822J": {
+    "route": null,
+    "checked_at": "2026-10-04T12:30:40.789124Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T12:30:40.789124Z"
+  },
+  "AEE512": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-04T12:30:40.789124Z"
   }
 }
