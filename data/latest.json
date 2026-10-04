@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.6311,
+      "lon": 13.8581,
+      "altKm": 1.9,
+      "speedKmh": 436,
+      "heading": 177,
+      "vertRateMs": -7.2,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR95MP",
       "country": "Ireland",
-      "lat": 52.3451,
-      "lon": 13.3905,
-      "altKm": 1.1,
-      "speedKmh": 342,
-      "heading": 249,
-      "vertRateMs": 5.2,
+      "lat": 52.3364,
+      "lon": 12.8623,
+      "altKm": 3.9,
+      "speedKmh": 652,
+      "heading": 272,
+      "vertRateMs": 13,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Berlin",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-04T04:00:51.321661Z"
+  "updated_at": "2026-10-04T04:05:22.111816Z"
 }
