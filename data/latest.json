@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-04T01:10:30.791593Z"
+  "flights": [
+    {
+      "callsign": "NOZ6KB",
+      "country": "Norway",
+      "lat": 52.3631,
+      "lon": 13.9436,
+      "altKm": 10.7,
+      "speedKmh": 832,
+      "heading": 348,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Trondheim",
+      "toIata": "TRD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-04T01:15:27.732093Z"
 }
