@@ -2324,17 +2324,6 @@
     },
     "checked_at": "2026-10-04T09:00:53.883529Z"
   },
-  "BAW87AM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-02T09:35:22.597860Z"
-  },
   "WMT358": {
     "route": {
       "fromCity": "Memmingen",
@@ -2498,7 +2487,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-03T09:30:37.328956Z"
+    "checked_at": "2026-10-04T09:40:31.539549Z"
   },
   "IBE07KH": {
     "route": {
@@ -4726,17 +4715,6 @@
     },
     "checked_at": "2026-10-03T08:20:28.610569Z"
   },
-  "DLH890": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T09:35:22.597860Z"
-  },
   "EJU43CD": {
     "route": {
       "fromCity": "Berlin",
@@ -5831,17 +5809,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
-  "BTI8KY": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-02T09:35:22.597860Z"
   },
   "WZZ54P": {
     "route": {
@@ -6965,17 +6932,6 @@
     },
     "checked_at": "2026-10-03T06:00:49.001572Z"
   },
-  "SDR10CL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T09:35:22.597860Z"
-  },
   "MEA245": {
     "route": {
       "fromCity": "Beirut",
@@ -6997,10 +6953,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T08:20:28.610569Z"
-  },
-  "AWH29M": {
-    "route": null,
-    "checked_at": "2026-10-02T09:40:28.683869Z"
   },
   "ABP713": {
     "route": null,
@@ -12951,5 +12903,27 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-04T09:35:22.163436Z"
+  },
+  "ELY2372": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-04T09:40:31.539549Z"
+  },
+  "RYR1451": {
+    "route": {
+      "fromCity": "M\u00fcnster",
+      "fromIata": "FMO",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T09:40:31.539549Z"
   }
 }
