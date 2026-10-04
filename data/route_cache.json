@@ -1044,7 +1044,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-03T20:25:22.351330Z"
+    "checked_at": "2026-10-04T20:30:38.024902Z"
   },
   "BEL9NK": {
     "route": {
@@ -1198,7 +1198,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-03T20:40:33.547681Z"
+    "checked_at": "2026-10-04T20:30:38.024902Z"
   },
   "EWG6AZ": {
     "route": {
@@ -4369,7 +4369,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-03T20:05:22.939027Z"
+    "checked_at": "2026-10-04T20:30:38.024902Z"
   },
   "CHH489": {
     "route": {
@@ -8971,7 +8971,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T16:15:30.982272Z"
+    "checked_at": "2026-10-04T20:30:38.024902Z"
   },
   "SAS4803": {
     "route": {
@@ -13067,5 +13067,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T20:25:25.399281Z"
+  },
+  "NSZ4378": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T20:30:38.024902Z"
+  },
+  "EZY71RM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T20:30:38.024902Z"
   }
 }
