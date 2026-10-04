@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-04T23:25:21.831594Z"
+  "flights": [
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.1175,
+      "lon": 13.3852,
+      "altKm": 7.8,
+      "speedKmh": 798,
+      "heading": 53,
+      "vertRateMs": 5.2,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR92HL",
+      "country": "Malta",
+      "lat": 52.683,
+      "lon": 13.2591,
+      "altKm": 11.3,
+      "speedKmh": 889,
+      "heading": 217,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-04T23:30:38.923453Z"
 }
