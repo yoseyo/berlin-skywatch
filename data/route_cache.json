@@ -2432,7 +2432,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T16:45:35.232960Z"
+    "checked_at": "2026-10-04T19:35:22.404592Z"
   },
   "RYR4PT": {
     "route": {
@@ -5513,17 +5513,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-04T19:05:22.420230Z"
-  },
-  "NOZ5EU": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-02T19:35:22.231168Z"
   },
   "EZY18CE": {
     "route": {
@@ -12987,5 +12976,16 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-10-04T19:30:40.546575Z"
+  },
+  "RYR7949": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T19:35:22.404592Z"
   }
 }
