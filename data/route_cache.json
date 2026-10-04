@@ -1011,7 +1011,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-03T19:25:22.732998Z"
+    "checked_at": "2026-10-04T19:40:31.176294Z"
   },
   "RYR3RD": {
     "route": {
@@ -1033,7 +1033,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-02T19:40:28.150471Z"
+    "checked_at": "2026-10-04T19:40:31.176294Z"
   },
   "BEL1ZK": {
     "route": {
@@ -12987,5 +12987,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T19:35:22.404592Z"
+  },
+  "CFE8495": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T19:40:31.176294Z"
+  },
+  "BTI3PR": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-04T19:40:31.176294Z"
   }
 }
