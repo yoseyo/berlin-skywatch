@@ -1187,7 +1187,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-03T20:25:22.351330Z"
+    "checked_at": "2026-10-04T20:45:31.068356Z"
   },
   "SWR9LC": {
     "route": {
@@ -4001,7 +4001,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T19:45:29.802479Z"
+    "checked_at": "2026-10-04T20:45:31.068356Z"
   },
   "AUA238N": {
     "route": {
@@ -4190,10 +4190,6 @@
     },
     "checked_at": "2026-10-03T18:45:29.107488Z"
   },
-  "AEG6911": {
-    "route": null,
-    "checked_at": "2026-10-02T20:45:28.457302Z"
-  },
   "SRR6227": {
     "route": {
       "fromCity": "Berlin",
@@ -4274,17 +4270,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T17:25:22.546976Z"
-  },
-  "RYR65YP": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T20:40:29.948198Z"
   },
   "EJU34XG": {
     "route": {
@@ -5481,17 +5466,6 @@
     },
     "checked_at": "2026-10-04T19:05:22.420230Z"
   },
-  "EZY18CE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-02T20:40:29.948198Z"
-  },
   "NSZ3305": {
     "route": {
       "fromCity": "Berlin",
@@ -6444,21 +6418,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T14:05:23.149190Z"
-  },
-  "NSZ24N": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T20:40:29.948198Z"
-  },
-  "MFX152": {
-    "route": null,
-    "checked_at": "2026-10-02T20:45:28.457302Z"
   },
   "RYR7YZ": {
     "route": {
@@ -13100,5 +13059,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-04T20:40:28.754628Z"
+  },
+  "EZY63GU": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T20:45:31.068356Z"
+  },
+  "CSS102": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "SF Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-04T20:45:31.068356Z"
   }
 }
