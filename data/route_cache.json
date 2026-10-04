@@ -2755,7 +2755,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-03T10:50:28.932161Z"
+    "checked_at": "2026-10-04T11:10:27.989400Z"
   },
   "SXS5UY": {
     "route": {
@@ -5013,17 +5013,6 @@
     },
     "checked_at": "2026-10-04T04:35:23.141782Z"
   },
-  "BEL9CK": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-02T11:05:22.680623Z"
-  },
   "RYR91SP": {
     "route": {
       "fromCity": "Madrid",
@@ -6807,17 +6796,6 @@
     },
     "checked_at": "2026-10-03T10:25:22.943976Z"
   },
-  "BTI3BP": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-02T11:05:22.680623Z"
-  },
   "EZY94NJ": {
     "route": {
       "fromCity": "Edinburgh",
@@ -6857,7 +6835,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T11:00:49.121160Z"
+    "checked_at": "2026-10-04T11:10:27.989400Z"
   },
   "EJU17HZ": {
     "route": {
@@ -7324,7 +7302,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T13:40:34.592089Z"
+    "checked_at": "2026-10-04T11:10:27.989400Z"
   },
   "N66HR": {
     "route": null,
@@ -10160,7 +10138,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T13:01:04.077702Z"
+    "checked_at": "2026-10-04T11:10:27.989400Z"
   },
   "VKG433": {
     "route": {
@@ -12867,5 +12845,38 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-04T11:05:21.758766Z"
+  },
+  "CES786": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-04T11:10:27.989400Z"
+  },
+  "RYR159P": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T11:10:27.989400Z"
+  },
+  "CAT318": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Aalborg",
+      "toIata": "AAL",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-04T11:10:27.989400Z"
   }
 }
