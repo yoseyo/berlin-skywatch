@@ -912,7 +912,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T19:15:27.718810Z"
+    "checked_at": "2026-10-04T18:40:29.202003Z"
   },
   "LOT1LH": {
     "route": {
@@ -3259,7 +3259,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-03T18:25:23.299124Z"
+    "checked_at": "2026-10-04T18:40:29.202003Z"
   },
   "SAS52E": {
     "route": {
@@ -3545,7 +3545,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T18:30:41.856371Z"
+    "checked_at": "2026-10-04T18:40:29.202003Z"
   },
   "DLH2N": {
     "route": {
@@ -13053,5 +13053,16 @@
   "SFG55C": {
     "route": null,
     "checked_at": "2026-10-04T18:35:22.611636Z"
+  },
+  "EJU83LH": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T18:40:29.202003Z"
   }
 }
