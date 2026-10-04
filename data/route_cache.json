@@ -2810,7 +2810,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T11:35:57.916990Z"
+    "checked_at": "2026-10-04T11:40:29.094498Z"
   },
   "TAP31DB": {
     "route": {
@@ -4135,17 +4135,6 @@
     "route": null,
     "checked_at": "2026-10-02T17:15:29.503676Z"
   },
-  "CFE7026": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-02T11:40:28.826481Z"
-  },
   "DLH8WF": {
     "route": {
       "fromCity": "Munich",
@@ -5335,17 +5324,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-02T18:30:41.475179Z"
-  },
-  "WZZ9UF": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-02T11:40:28.826481Z"
   },
   "WZZ50ML": {
     "route": {
@@ -6829,28 +6807,6 @@
     },
     "checked_at": "2026-10-03T09:15:29.687550Z"
   },
-  "LOT29": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Miami",
-      "toIata": "MIA",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-02T11:35:23.917696Z"
-  },
-  "WZZ3WR": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-02T11:35:23.917696Z"
-  },
   "BAW843": {
     "route": {
       "fromCity": "Warsaw",
@@ -7149,7 +7105,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-02T13:30:42.494298Z"
+    "checked_at": "2026-10-04T11:40:29.094498Z"
   },
   "EWG71G": {
     "route": {
@@ -7408,7 +7364,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-02T14:35:44.530607Z"
+    "checked_at": "2026-10-04T11:40:29.094498Z"
   },
   "RUK144": {
     "route": {
@@ -12893,5 +12849,16 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-04T11:35:23.654989Z"
+  },
+  "SDR17RA": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T11:40:29.094498Z"
   }
 }
