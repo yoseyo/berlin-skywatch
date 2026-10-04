@@ -2432,7 +2432,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-02T09:40:28.683869Z"
+    "checked_at": "2026-10-04T09:35:22.163436Z"
   },
   "AFR65AR": {
     "route": {
@@ -2546,7 +2546,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T09:40:32.064515Z"
+    "checked_at": "2026-10-04T09:35:22.163436Z"
   },
   "DLH8N": {
     "route": {
@@ -6964,32 +6964,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T06:00:49.001572Z"
-  },
-  "SAS1916": {
-    "route": {
-      "fromCity": "Firenze",
-      "fromIata": "FLR",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T09:30:42.580609Z"
-  },
-  "RYR924": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T09:30:42.580609Z"
-  },
-  "ALE134": {
-    "route": null,
-    "checked_at": "2026-10-02T09:30:42.580609Z"
   },
   "SDR10CL": {
     "route": {
@@ -12962,5 +12936,20 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-04T09:25:22.755743Z"
+  },
+  "DMLCV": {
+    "route": null,
+    "checked_at": "2026-10-04T09:35:22.163436Z"
+  },
+  "LOT2LP": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-04T09:35:22.163436Z"
   }
 }
