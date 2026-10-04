@@ -133,7 +133,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T13:55:22.827332Z"
+    "checked_at": "2026-10-04T13:55:24.472830Z"
   },
   "RYR96EU": {
     "route": {
@@ -6076,17 +6076,6 @@
     },
     "checked_at": "2026-10-02T19:25:22.678736Z"
   },
-  "RYR5ME": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T13:50:32.027645Z"
-  },
   "BAW997T": {
     "route": {
       "fromCity": "Berlin",
@@ -6707,25 +6696,6 @@
   "N66HR": {
     "route": null,
     "checked_at": "2026-10-04T11:35:23.654989Z"
-  },
-  "GAF680": {
-    "route": null,
-    "checked_at": "2026-10-02T13:50:32.027645Z"
-  },
-  "TVS487P": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-02T13:55:22.827332Z"
-  },
-  "GAF679": {
-    "route": null,
-    "checked_at": "2026-10-02T13:55:22.827332Z"
   },
   "CES244": {
     "route": {
@@ -12947,5 +12917,9 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-04T13:45:27.533354Z"
+  },
+  "SPFWB": {
+    "route": null,
+    "checked_at": "2026-10-04T13:55:24.472830Z"
   }
 }
