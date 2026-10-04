@@ -6719,17 +6719,6 @@
     "route": null,
     "checked_at": "2026-10-04T11:35:23.654989Z"
   },
-  "SDR45EE": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T13:40:34.592089Z"
-  },
   "GAF680": {
     "route": null,
     "checked_at": "2026-10-02T13:50:32.027645Z"
@@ -12943,5 +12932,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T13:40:29.560286Z"
+  },
+  "JEI474": {
+    "route": null,
+    "checked_at": "2026-10-04T13:45:27.533354Z"
+  },
+  "BTI878": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-04T13:45:27.533354Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-04T13:45:27.533354Z"
   }
 }
