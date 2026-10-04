@@ -4443,17 +4443,6 @@
     },
     "checked_at": "2026-10-02T12:50:32.413192Z"
   },
-  "NOZ6TY": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-02T10:15:29.541009Z"
-  },
   "TAP532B": {
     "route": {
       "fromCity": "Lisbon",
@@ -4607,17 +4596,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T18:45:29.107488Z"
-  },
-  "RYR75DX": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T10:15:29.541009Z"
   },
   "AEG6911": {
     "route": null,
@@ -6895,50 +6873,6 @@
     },
     "checked_at": "2026-10-03T08:20:28.610569Z"
   },
-  "FHY1273": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-02T10:15:29.541009Z"
-  },
-  "LBT249": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-02T10:15:29.541009Z"
-  },
-  "CXI8T": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-02T10:15:29.541009Z"
-  },
-  "RYR127K": {
-    "route": {
-      "fromCity": "Marrakech",
-      "fromIata": "RAK",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T10:15:29.541009Z"
-  },
   "PAV601": {
     "route": null,
     "checked_at": "2026-10-02T10:25:23.053081Z"
@@ -8051,7 +7985,7 @@
   },
   "DEMSI": {
     "route": null,
-    "checked_at": "2026-10-03T12:50:28.394094Z"
+    "checked_at": "2026-10-04T10:20:31.609510Z"
   },
   "UPEM014": {
     "route": null,
@@ -12959,5 +12893,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T10:15:26.409637Z"
+  },
+  "MGH724": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T10:20:31.609510Z"
+  },
+  "AHY064": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Baku",
+      "toIata": "GYD",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-10-04T10:20:31.609510Z"
   }
 }
