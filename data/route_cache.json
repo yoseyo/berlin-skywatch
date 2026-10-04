@@ -1690,7 +1690,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T06:05:24.514893Z"
+    "checked_at": "2026-10-04T06:00:51.548516Z"
   },
   "SXS3FR": {
     "route": {
@@ -1701,7 +1701,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T06:25:22.082466Z"
+    "checked_at": "2026-10-04T06:00:51.548516Z"
   },
   "RYR120T": {
     "route": {
@@ -1713,17 +1713,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T13:15:27.971688Z"
-  },
-  "KLM1771": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-02T06:00:49.304138Z"
   },
   "EWG6NT": {
     "route": null,
@@ -3517,10 +3506,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-03T07:15:29.042755Z"
-  },
-  "WZZ8649": {
-    "route": null,
-    "checked_at": "2026-10-02T05:55:24.176003Z"
   },
   "LGL92B": {
     "route": {
@@ -13276,5 +13261,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T05:55:23.267035Z"
+  },
+  "WZZ6071": {
+    "route": null,
+    "checked_at": "2026-10-04T06:00:51.548516Z"
+  },
+  "CFG7ME": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T06:00:51.548516Z"
   }
 }
