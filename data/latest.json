@@ -1,14 +1,48 @@
 {
   "flights": [
     {
+      "callsign": "FIN3AW",
+      "country": "Finland",
+      "lat": 52.6771,
+      "lon": 13.8278,
+      "altKm": 2.3,
+      "speedKmh": 590,
+      "heading": 177,
+      "vertRateMs": -8.8,
+      "airline": "Finnair",
+      "airlineCountry": "Finland",
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH172",
+      "country": "Germany",
+      "lat": 52.1163,
+      "lon": 13.7464,
+      "altKm": 3.2,
+      "speedKmh": 551,
+      "heading": 37,
+      "vertRateMs": -7.5,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "SWR5XL",
       "country": "Switzerland",
-      "lat": 52.33,
-      "lon": 13.4327,
-      "altKm": 0.8,
-      "speedKmh": 294,
-      "heading": 229,
-      "vertRateMs": 15.0,
+      "lat": 52.1378,
+      "lon": 12.8717,
+      "altKm": 4.7,
+      "speedKmh": 705,
+      "heading": 246,
+      "vertRateMs": 13.3,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
       "fromCity": "Berlin",
@@ -16,7 +50,24 @@
       "toCity": "Zurich",
       "toIata": "ZRH",
       "category": "plane"
+    },
+    {
+      "callsign": "EWG58L",
+      "country": "Germany",
+      "lat": 52.2916,
+      "lon": 13.3607,
+      "altKm": 1.4,
+      "speedKmh": 425,
+      "heading": 228,
+      "vertRateMs": 18.2,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-04T05:35:22.974295Z"
+  "updated_at": "2026-10-04T05:40:28.620295Z"
 }
