@@ -4815,17 +4815,6 @@
     },
     "checked_at": "2026-10-04T14:00:48.055358Z"
   },
-  "WZZ50ML": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-02T19:30:40.412798Z"
-  },
   "LOT6MB": {
     "route": {
       "fromCity": "Warsaw",
@@ -5234,17 +5223,6 @@
     },
     "checked_at": "2026-10-04T11:50:28.996322Z"
   },
-  "RYR93QN": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T19:30:40.412798Z"
-  },
   "SEH875": {
     "route": {
       "fromCity": "Berlin",
@@ -5440,17 +5418,6 @@
     },
     "checked_at": "2026-10-04T16:45:31.922336Z"
   },
-  "EZY71RM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-02T19:30:40.412798Z"
-  },
   "BAW996G": {
     "route": {
       "fromCity": "London",
@@ -5486,7 +5453,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T19:50:27.462464Z"
+    "checked_at": "2026-10-04T19:30:40.546575Z"
   },
   "LOT6PA": {
     "route": {
@@ -13005,5 +12972,20 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-04T19:25:26.972599Z"
+  },
+  "EZY27LF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T19:30:40.546575Z"
+  },
+  "KMM377": {
+    "route": null,
+    "checked_at": "2026-10-04T19:30:40.546575Z"
   }
 }
