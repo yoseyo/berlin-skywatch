@@ -681,7 +681,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T17:05:24.902905Z"
+    "checked_at": "2026-10-04T18:15:28.121461Z"
   },
   "THY5MH": {
     "route": {
@@ -747,7 +747,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T17:45:31.768581Z"
+    "checked_at": "2026-10-04T18:15:28.121461Z"
   },
   "RYR2YR": {
     "route": {
@@ -780,7 +780,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T17:45:31.768581Z"
+    "checked_at": "2026-10-04T18:15:28.121461Z"
   },
   "DLH1XN": {
     "route": {
@@ -868,7 +868,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-03T17:50:28.767169Z"
+    "checked_at": "2026-10-04T18:15:28.121461Z"
   },
   "SAS55L": {
     "route": {
@@ -7891,7 +7891,7 @@
   },
   "BPO703": {
     "route": null,
-    "checked_at": "2026-10-03T09:20:27.444590Z"
+    "checked_at": "2026-10-04T18:15:28.121461Z"
   },
   "EJU94QK": {
     "route": {
@@ -12968,5 +12968,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T18:10:31.580622Z"
+  },
+  "SAS67M": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T18:15:28.121461Z"
+  },
+  "QTR24E": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-04T18:15:28.121461Z"
+  },
+  "SWR500V": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-04T18:15:28.121461Z"
   }
 }
