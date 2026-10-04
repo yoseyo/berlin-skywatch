@@ -4991,17 +4991,6 @@
     },
     "checked_at": "2026-10-03T15:25:24.577111Z"
   },
-  "SXS5DW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-02T12:00:51.910088Z"
-  },
   "SWU1950": {
     "route": {
       "fromCity": "Bolzano",
@@ -5932,10 +5921,6 @@
     },
     "checked_at": "2026-10-03T15:10:28.716406Z"
   },
-  "DFPRO": {
-    "route": null,
-    "checked_at": "2026-10-02T12:00:51.910088Z"
-  },
   "EJU12QE": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6763,32 +6748,6 @@
     },
     "checked_at": "2026-10-04T11:45:27.915999Z"
   },
-  "SAS67M": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T12:00:51.910088Z"
-  },
-  "RYR9WM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T12:00:51.910088Z"
-  },
-  "DCTOM": {
-    "route": null,
-    "checked_at": "2026-10-02T12:00:51.910088Z"
-  },
   "BTI72C": {
     "route": {
       "fromCity": "Pisa",
@@ -7571,7 +7530,7 @@
   },
   "N118MX": {
     "route": null,
-    "checked_at": "2026-10-02T16:05:26.642771Z"
+    "checked_at": "2026-10-04T12:05:21.560437Z"
   },
   "RYR33KQ": {
     "route": {
@@ -12838,5 +12797,16 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-04T12:00:50.446883Z"
+  },
+  "NOZ2WA": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-04T12:05:21.560437Z"
   }
 }
