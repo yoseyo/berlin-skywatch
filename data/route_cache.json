@@ -306,7 +306,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T14:50:29.445198Z"
+    "checked_at": "2026-10-04T15:01:00.119571Z"
   },
   "AFR64PU": {
     "route": {
@@ -6686,21 +6686,6 @@
     },
     "checked_at": "2026-10-04T14:10:28.077407Z"
   },
-  "CKK216": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-02T14:55:24.526879Z"
-  },
-  "CAT311": {
-    "route": null,
-    "checked_at": "2026-10-02T14:55:24.526879Z"
-  },
   "WZZ148": {
     "route": {
       "fromCity": "Budapest",
@@ -12956,5 +12941,16 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-04T14:50:27.843012Z"
+  },
+  "EJU69RD": {
+    "route": {
+      "fromCity": "Sharm el-Sheikh",
+      "fromIata": "SSH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T15:01:00.119571Z"
   }
 }
