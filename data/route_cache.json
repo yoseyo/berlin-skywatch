@@ -791,7 +791,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T18:05:24.531963Z"
+    "checked_at": "2026-10-04T18:20:28.049975Z"
   },
   "IBE07MV": {
     "route": {
@@ -824,7 +824,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T18:25:23.299124Z"
+    "checked_at": "2026-10-04T18:20:28.049975Z"
   },
   "EWG5JH": {
     "route": {
@@ -3832,7 +3832,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-03T17:50:28.767169Z"
+    "checked_at": "2026-10-04T18:20:28.049975Z"
   },
   "FIN50J": {
     "route": {
@@ -5563,7 +5563,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-10-03T18:11:06.043596Z"
+    "checked_at": "2026-10-04T18:20:28.049975Z"
   },
   "RYR70FL": {
     "route": {
@@ -9601,7 +9601,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T18:11:06.043596Z"
+    "checked_at": "2026-10-04T18:20:28.049975Z"
   },
   "VKG584": {
     "route": {
@@ -13001,5 +13001,31 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-04T18:15:28.121461Z"
+  },
+  "LGL9473": {
+    "route": {
+      "fromCity": "Luxembourg",
+      "fromIata": "LUX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Luxair",
+      "airlineCountry": "Luxembourg"
+    },
+    "checked_at": "2026-10-04T18:20:28.049975Z"
+  },
+  "MFROG": {
+    "route": null,
+    "checked_at": "2026-10-04T18:20:28.049975Z"
+  },
+  "RYR5WY": {
+    "route": {
+      "fromCity": "Nantes",
+      "fromIata": "NTE",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T18:20:28.049975Z"
   }
 }
