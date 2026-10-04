@@ -923,7 +923,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-03T18:30:41.856371Z"
+    "checked_at": "2026-10-04T19:10:28.718471Z"
   },
   "VLG23BJ": {
     "route": {
@@ -5039,17 +5039,6 @@
     },
     "checked_at": "2026-10-03T06:10:29.939161Z"
   },
-  "RYR5602": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Kaunas",
-      "toIata": "KUN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T19:05:23.696029Z"
-  },
   "DLH8KF": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6528,17 +6517,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T04:45:28.014615Z"
-  },
-  "PGT566B": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-02T19:05:23.696029Z"
   },
   "EJU32RT": {
     "route": null,
@@ -12983,5 +12961,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-04T19:05:22.420230Z"
+  },
+  "BTI6CD": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-04T19:10:28.718471Z"
+  },
+  "BTI89U": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-04T19:10:28.718471Z"
   }
 }
