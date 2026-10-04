@@ -225,7 +225,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-03T10:10:27.501593Z"
+    "checked_at": "2026-10-04T11:15:27.070023Z"
   },
   "CHX82": {
     "route": null,
@@ -6796,21 +6796,6 @@
     },
     "checked_at": "2026-10-03T10:25:22.943976Z"
   },
-  "EZY94NJ": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-02T11:10:29.186664Z"
-  },
-  "N1279D": {
-    "route": null,
-    "checked_at": "2026-10-02T11:10:29.186664Z"
-  },
   "DLH1YY": {
     "route": {
       "fromCity": "Pozna\u0144",
@@ -12878,5 +12863,35 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-04T11:10:27.989400Z"
+  },
+  "NSZ4501": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T11:15:27.070023Z"
+  },
+  "EJU5060": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T11:15:27.070023Z"
+  },
+  "DMFIS": {
+    "route": null,
+    "checked_at": "2026-10-04T11:15:27.070023Z"
+  },
+  "VCJ97G": {
+    "route": null,
+    "checked_at": "2026-10-04T11:15:27.070023Z"
   }
 }
