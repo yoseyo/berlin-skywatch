@@ -4901,7 +4901,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-03T19:15:27.718810Z"
+    "checked_at": "2026-10-04T18:50:28.501642Z"
   },
   "WZZ513": {
     "route": {
@@ -5288,17 +5288,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-04T11:50:28.996322Z"
-  },
-  "EWG20W": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T18:45:29.657109Z"
   },
   "RYR93QN": {
     "route": {
@@ -6572,21 +6561,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T10:55:24.505124Z"
-  },
-  "NJE574A": {
-    "route": null,
-    "checked_at": "2026-10-02T18:45:29.657109Z"
-  },
-  "ASL44H": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-02T18:45:29.657109Z"
   },
   "BCS852": {
     "route": {
@@ -13042,5 +13016,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-04T18:40:29.202003Z"
+  },
+  "BTI4UJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-04T18:50:28.501642Z"
+  },
+  "OHWAU": {
+    "route": null,
+    "checked_at": "2026-10-04T18:50:28.501642Z"
+  },
+  "EWG86H": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T18:50:28.501642Z"
   }
 }
