@@ -2256,7 +2256,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-02T09:35:22.597860Z"
+    "checked_at": "2026-10-04T09:15:33.493553Z"
   },
   "DLH4AK": {
     "route": {
@@ -3141,7 +3141,7 @@
   },
   "CHX71": {
     "route": null,
-    "checked_at": "2026-10-03T10:35:22.138784Z"
+    "checked_at": "2026-10-04T09:15:33.493553Z"
   },
   "AFR1235": {
     "route": {
@@ -3501,7 +3501,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T07:45:26.714396Z"
+    "checked_at": "2026-10-04T09:15:33.493553Z"
   },
   "WZZ8086": {
     "route": {
@@ -3512,7 +3512,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-03T09:05:23.665372Z"
+    "checked_at": "2026-10-04T09:15:33.493553Z"
   },
   "RYR1EK": {
     "route": {
@@ -3887,7 +3887,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T09:25:20.788306Z"
+    "checked_at": "2026-10-04T09:15:33.493553Z"
   },
   "EWG5EZ": {
     "route": {
@@ -3987,28 +3987,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T20:00:49.781819Z"
-  },
-  "SAS1694": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T09:10:29.739704Z"
-  },
-  "ELY2372": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "El Al Israel Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-02T09:10:29.739704Z"
   },
   "SAS63Z": {
     "route": {
@@ -6943,39 +6921,6 @@
     },
     "checked_at": "2026-10-03T08:35:23.481373Z"
   },
-  "EWG4DA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T09:15:27.973950Z"
-  },
-  "SAS92D": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T09:15:27.973950Z"
-  },
-  "LOT2LP": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-02T09:15:27.973950Z"
-  },
   "EJU93RY": {
     "route": {
       "fromCity": "London",
@@ -6986,17 +6931,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T08:40:27.312537Z"
-  },
-  "CFG2YU": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T09:15:27.973950Z"
   },
   "NSZ79AY": {
     "route": {
@@ -9925,7 +9859,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T09:20:27.444590Z"
+    "checked_at": "2026-10-04T09:15:33.493553Z"
   },
   "RYR62HD": {
     "route": {
@@ -13002,5 +12936,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-04T09:10:28.660323Z"
+  },
+  "ENT5ZM": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T09:15:33.493553Z"
+  },
+  "PGT77BA": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T09:15:33.493553Z"
+  },
+  "SXS6WA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dalaman",
+      "toIata": "DLM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T09:15:33.493553Z"
   }
 }
