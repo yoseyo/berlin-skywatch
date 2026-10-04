@@ -2149,7 +2149,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-02T08:00:50.169917Z"
+    "checked_at": "2026-10-04T08:00:53.276267Z"
   },
   "LOT5NA": {
     "route": {
@@ -13062,5 +13062,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-04T07:55:23.526150Z"
+  },
+  "CAI4AA": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T08:00:53.276267Z"
+  },
+  "RYR87DD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T08:00:53.276267Z"
+  },
+  "AHY063": {
+    "route": {
+      "fromCity": "Baku",
+      "fromIata": "GYD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-10-04T08:00:53.276267Z"
   }
 }
