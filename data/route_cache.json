@@ -387,7 +387,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-03T11:35:57.916990Z"
+    "checked_at": "2026-10-04T18:55:21.546792Z"
   },
   "RYR3PT": {
     "route": {
@@ -945,7 +945,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-03T18:50:30.858324Z"
+    "checked_at": "2026-10-04T18:55:21.546792Z"
   },
   "NOZ9VF": {
     "route": {
@@ -6561,17 +6561,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T10:55:24.505124Z"
-  },
-  "BCS852": {
-    "route": {
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "Brno",
-      "toIata": "BRQ",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T18:50:30.126014Z"
   },
   "RYR1VD": {
     "route": {
@@ -13042,5 +13031,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T18:50:28.501642Z"
+  },
+  "SAS1698": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T18:55:21.546792Z"
   }
 }
