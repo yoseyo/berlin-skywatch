@@ -431,7 +431,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T16:00:51.021433Z"
+    "checked_at": "2026-10-04T16:40:32.023461Z"
   },
   "SWR23F": {
     "route": {
@@ -648,7 +648,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-03T16:35:22.278148Z"
+    "checked_at": "2026-10-04T16:40:32.023461Z"
   },
   "EZY29HQ": {
     "route": {
@@ -6624,28 +6624,6 @@
     "route": null,
     "checked_at": "2026-10-03T16:25:58.384804Z"
   },
-  "NSZ3YL": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T16:35:24.165470Z"
-  },
-  "DKH1667": {
-    "route": {
-      "fromCity": "Zhengzhou",
-      "fromIata": "CGO",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Juneyao Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-02T16:40:30.727308Z"
-  },
   "AUA234G": {
     "route": {
       "fromCity": "Berlin",
@@ -6707,7 +6685,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T17:00:57.608166Z"
+    "checked_at": "2026-10-04T16:40:32.023461Z"
   },
   "SFG55A": {
     "route": null,
@@ -12979,5 +12957,27 @@
   "NJE138Y": {
     "route": null,
     "checked_at": "2026-10-04T16:35:23.375558Z"
+  },
+  "NSZ4377": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T16:40:32.023461Z"
+  },
+  "EWG67A": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T16:40:32.023461Z"
   }
 }
