@@ -218,7 +218,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T14:40:29.098010Z"
+    "checked_at": "2026-10-04T15:15:27.281295Z"
   },
   "QTR56W": {
     "route": {
@@ -5112,17 +5112,6 @@
     },
     "checked_at": "2026-10-02T19:45:28.519149Z"
   },
-  "EJU74RM": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T15:10:31.114538Z"
-  },
   "SAS696": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6652,17 +6641,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T14:10:28.077407Z"
-  },
-  "RYR9BJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T15:10:31.114538Z"
   },
   "BAW8RM": {
     "route": {
@@ -12931,5 +12909,16 @@
   "DIGRK": {
     "route": null,
     "checked_at": "2026-10-04T15:10:27.525869Z"
+  },
+  "RYR85QU": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T15:15:27.281295Z"
   }
 }
