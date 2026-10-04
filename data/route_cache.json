@@ -2843,7 +2843,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T12:10:32.598046Z"
+    "checked_at": "2026-10-04T12:15:27.958773Z"
   },
   "AFR92ZN": {
     "route": {
@@ -6747,21 +6747,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-04T12:00:50.446883Z"
-  },
-  "PAV602": {
-    "route": null,
-    "checked_at": "2026-10-02T12:10:32.598046Z"
-  },
-  "NMA738": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nesma Airlines",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-02T12:10:32.598046Z"
   },
   "CKK236": {
     "route": {
@@ -12809,5 +12794,53 @@
   "ECA3NT": {
     "route": null,
     "checked_at": "2026-10-04T12:10:30.566720Z"
+  },
+  "YULSA": {
+    "route": null,
+    "checked_at": "2026-10-04T12:15:27.958773Z"
+  },
+  "DLH3TT": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T12:15:27.958773Z"
+  },
+  "SDR10XL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T12:15:27.958773Z"
+  },
+  "SXS5DW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T12:15:27.958773Z"
+  },
+  "RYR88ZF": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T12:15:27.958773Z"
   }
 }
