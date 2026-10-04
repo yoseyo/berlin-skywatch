@@ -3237,7 +3237,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T15:10:31.114538Z"
+    "checked_at": "2026-10-04T15:10:27.525869Z"
   },
   "EJU51HZ": {
     "route": {
@@ -3578,7 +3578,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T14:26:10.802210Z"
+    "checked_at": "2026-10-04T15:10:27.525869Z"
   },
   "ICE15M": {
     "route": {
@@ -4538,17 +4538,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T07:40:30.520315Z"
-  },
-  "NSZ6HT": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T15:05:23.354364Z"
   },
   "RYR303F": {
     "route": {
@@ -12905,5 +12894,42 @@
   "VJT408": {
     "route": null,
     "checked_at": "2026-10-04T15:05:21.704835Z"
+  },
+  "NSZ3308": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T15:10:27.525869Z"
+  },
+  "NOZ8BE": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-04T15:10:27.525869Z"
+  },
+  "CFG7NY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T15:10:27.525869Z"
+  },
+  "DIGRK": {
+    "route": null,
+    "checked_at": "2026-10-04T15:10:27.525869Z"
   }
 }
