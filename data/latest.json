@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "BPOBER",
-      "country": "Germany",
-      "lat": 52.6033,
-      "lon": 13.4412,
-      "altKm": 1.1,
-      "speedKmh": 164,
-      "heading": 11,
-      "vertRateMs": -0.7,
-      "category": "heli"
+      "callsign": "AEE4581",
+      "country": "Greece",
+      "lat": 52.4996,
+      "lon": 13.1288,
+      "altKm": 11.0,
+      "speedKmh": 851,
+      "heading": 148,
+      "vertRateMs": 0.3,
+      "airline": "Aegean Airlines",
+      "airlineCountry": "Greece",
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-04T22:30:39.078932Z"
+  "updated_at": "2026-10-04T22:35:22.862833Z"
 }
