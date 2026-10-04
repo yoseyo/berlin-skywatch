@@ -2832,7 +2832,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T11:15:27.910824Z"
+    "checked_at": "2026-10-04T11:30:40.697851Z"
   },
   "FIN3YX": {
     "route": {
@@ -2887,7 +2887,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T11:35:57.916990Z"
+    "checked_at": "2026-10-04T11:30:40.697851Z"
   },
   "KLC21A": {
     "route": {
@@ -3986,7 +3986,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-02T13:10:29.329162Z"
+    "checked_at": "2026-10-04T11:30:40.697851Z"
   },
   "CHH490": {
     "route": {
@@ -4376,17 +4376,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-03T04:15:27.946303Z"
-  },
-  "NOZ1104": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-02T11:25:22.483596Z"
   },
   "BAW990G": {
     "route": {
@@ -6806,14 +6795,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-04T11:10:27.989400Z"
-  },
-  "BPO534": {
-    "route": null,
-    "checked_at": "2026-10-02T11:25:22.483596Z"
-  },
-  "CAT346": {
-    "route": null,
-    "checked_at": "2026-10-02T11:25:22.483596Z"
   },
   "MEA246": {
     "route": {
@@ -12875,5 +12856,16 @@
   "AXY971V": {
     "route": null,
     "checked_at": "2026-10-04T11:25:22.058185Z"
+  },
+  "NSZ5603": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T11:30:40.697851Z"
   }
 }
