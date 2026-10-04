@@ -1929,7 +1929,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T07:20:29.221555Z"
+    "checked_at": "2026-10-04T07:15:47.091539Z"
   },
   "RYR12EJ": {
     "route": {
@@ -4733,17 +4733,6 @@
     },
     "checked_at": "2026-10-03T18:40:27.854172Z"
   },
-  "EJU57LY": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T07:10:29.181614Z"
-  },
   "RYR2TL": {
     "route": {
       "fromCity": "Cologne",
@@ -5902,17 +5891,6 @@
     },
     "checked_at": "2026-10-02T19:05:23.696029Z"
   },
-  "SAS49L": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T07:10:29.181614Z"
-  },
   "DLH8KF": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6994,32 +6972,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-03T07:05:24.060820Z"
-  },
-  "SXS9LQ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-02T07:10:29.181614Z"
-  },
-  "DFEFY": {
-    "route": null,
-    "checked_at": "2026-10-02T07:10:29.181614Z"
-  },
-  "EJU91FL": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T07:15:28.043309Z"
   },
   "EWG58L": {
     "route": {
@@ -13143,5 +13095,9 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T07:10:28.193222Z"
+  },
+  "DCS607": {
+    "route": null,
+    "checked_at": "2026-10-04T07:15:47.091539Z"
   }
 }
