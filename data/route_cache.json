@@ -102,17 +102,6 @@
     },
     "checked_at": "2026-10-03T11:05:22.425207Z"
   },
-  "SAS2736": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T14:00:51.729575Z"
-  },
   "RYR1SM": {
     "route": {
       "fromCity": "London",
@@ -3152,7 +3141,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T13:20:28.362821Z"
+    "checked_at": "2026-10-04T14:05:23.323545Z"
   },
   "RYR103K": {
     "route": {
@@ -6316,7 +6305,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T04:55:23.015682Z"
+    "checked_at": "2026-10-04T14:05:23.323545Z"
   },
   "EWG3F": {
     "route": {
@@ -6707,21 +6696,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-03T13:45:29.374383Z"
-  },
-  "CES5014": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Xi'an",
-      "toIata": "XIY",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-02T14:00:51.729575Z"
-  },
-  "CAT677": {
-    "route": null,
-    "checked_at": "2026-10-02T14:00:51.729575Z"
   },
   "LOT1MU": {
     "route": {
@@ -12947,5 +12921,20 @@
   "BPOBER": {
     "route": null,
     "checked_at": "2026-10-04T14:00:48.055358Z"
+  },
+  "DERVM": {
+    "route": null,
+    "checked_at": "2026-10-04T14:05:23.323545Z"
+  },
+  "RYR5074": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T14:05:23.323545Z"
   }
 }
