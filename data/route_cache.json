@@ -497,7 +497,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-03T16:20:28.432075Z"
+    "checked_at": "2026-10-04T16:00:48.166466Z"
   },
   "IBE07WR": {
     "route": {
@@ -3769,7 +3769,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T15:10:28.716406Z"
+    "checked_at": "2026-10-04T16:00:48.166466Z"
   },
   "DEHGB": {
     "route": null,
@@ -6663,17 +6663,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-04T12:55:23.487322Z"
-  },
-  "LOT238": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-02T15:55:23.621694Z"
   },
   "EJU38DP": {
     "route": {
@@ -9637,7 +9626,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-03T15:45:27.411512Z"
+    "checked_at": "2026-10-04T16:00:48.166466Z"
   },
   "BTI8WF": {
     "route": {
@@ -12960,5 +12949,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-04T15:55:21.872310Z"
+  },
+  "WZZ3GV": {
+    "route": {
+      "fromCity": "Cluj-Napoca",
+      "fromIata": "CLJ",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-04T16:00:48.166466Z"
+  },
+  "CFE61X": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-04T16:00:48.166466Z"
   }
 }
