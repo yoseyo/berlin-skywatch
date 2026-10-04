@@ -4544,7 +4544,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-02T09:25:22.852026Z"
+    "checked_at": "2026-10-04T06:15:29.479019Z"
   },
   "CFE34E": {
     "route": {
@@ -5930,17 +5930,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-02T16:45:30.146439Z"
-  },
-  "NOZ2WA": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-02T06:10:29.842487Z"
   },
   "NSZ3288": {
     "route": {
@@ -13305,5 +13294,20 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-04T06:10:27.650644Z"
+  },
+  "RYR3696": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T06:15:29.479019Z"
+  },
+  "WZZ8649": {
+    "route": null,
+    "checked_at": "2026-10-04T06:15:29.479019Z"
   }
 }
