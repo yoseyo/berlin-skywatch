@@ -207,7 +207,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-10-03T11:10:28.239893Z"
+    "checked_at": "2026-10-04T17:05:22.146513Z"
   },
   "DLH192": {
     "route": {
@@ -3999,17 +3999,6 @@
     },
     "checked_at": "2026-10-04T16:50:28.489306Z"
   },
-  "BEL3JZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-02T17:00:57.608166Z"
-  },
   "EJU5087": {
     "route": null,
     "checked_at": "2026-10-04T17:00:48.128292Z"
@@ -4901,7 +4890,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T16:40:30.998244Z"
+    "checked_at": "2026-10-04T17:05:22.146513Z"
   },
   "DLH6TP": {
     "route": {
@@ -6617,17 +6606,6 @@
     },
     "checked_at": "2026-10-04T11:55:22.022884Z"
   },
-  "RYR14WN": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T17:00:57.608166Z"
-  },
   "EJU57YZ": {
     "route": {
       "fromCity": "Geneva",
@@ -6638,10 +6616,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-04T16:40:32.023461Z"
-  },
-  "SFG55A": {
-    "route": null,
-    "checked_at": "2026-10-02T17:00:57.608166Z"
   },
   "NSZ3754": {
     "route": {
@@ -12964,5 +12938,27 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-04T16:45:31.922336Z"
+  },
+  "BEL9PY": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-04T17:05:22.146513Z"
+  },
+  "BEL9SZ": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-04T17:05:22.146513Z"
   }
 }
