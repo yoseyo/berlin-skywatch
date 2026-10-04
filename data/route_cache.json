@@ -1517,7 +1517,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T05:15:28.363758Z"
+    "checked_at": "2026-10-04T05:20:28.433500Z"
   },
   "BEL8YE": {
     "route": {
@@ -1561,7 +1561,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-03T05:05:23.087465Z"
+    "checked_at": "2026-10-04T05:20:28.433500Z"
   },
   "CHX49": {
     "route": null,
@@ -4473,17 +4473,6 @@
     },
     "checked_at": "2026-10-02T05:25:23.201409Z"
   },
-  "EWG4JP": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T05:15:28.056347Z"
-  },
   "AUA991D": {
     "route": {
       "fromCity": "Vienna",
@@ -5911,7 +5900,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T17:45:29.932361Z"
+    "checked_at": "2026-10-04T05:20:28.433500Z"
   },
   "DLH7FM": {
     "route": {
@@ -13273,5 +13262,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-04T05:15:27.955939Z"
+  },
+  "EJU18LB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sharm el-Sheikh",
+      "toIata": "SSH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T05:20:28.433500Z"
+  },
+  "EZS91HE": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-04T05:20:28.433500Z"
   }
 }
