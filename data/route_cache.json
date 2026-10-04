@@ -159,7 +159,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-03T14:30:38.298372Z"
+    "checked_at": "2026-10-04T14:50:27.843012Z"
   },
   "RYR4JQ": {
     "route": {
@@ -4699,7 +4699,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-03T07:35:22.402419Z"
+    "checked_at": "2026-10-04T14:50:27.843012Z"
   },
   "RYR717M": {
     "route": {
@@ -5586,17 +5586,6 @@
     },
     "checked_at": "2026-10-04T11:50:28.996322Z"
   },
-  "EJU83LH": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T14:45:30.194081Z"
-  },
   "EWG20W": {
     "route": {
       "fromCity": "Stuttgart",
@@ -5714,17 +5703,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T11:40:27.385029Z"
-  },
-  "NSZ72N": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-02T14:45:30.194081Z"
   },
   "DLH7MR": {
     "route": {
@@ -10146,7 +10124,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T17:15:27.676693Z"
+    "checked_at": "2026-10-04T14:50:27.843012Z"
   },
   "EJU95GQ": {
     "route": {
@@ -12945,5 +12923,38 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-04T14:45:27.408527Z"
+  },
+  "NSZ3301": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-04T14:50:27.843012Z"
+  },
+  "EJU72TJ": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T14:50:27.843012Z"
+  },
+  "CAT333": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-04T14:50:27.843012Z"
   }
 }
