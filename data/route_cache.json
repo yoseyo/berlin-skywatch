@@ -5182,17 +5182,6 @@
     },
     "checked_at": "2026-10-02T11:05:22.680623Z"
   },
-  "RYR73QL": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Liverpool",
-      "toIata": "LPL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-02T08:40:28.097250Z"
-  },
   "RYR91SP": {
     "route": {
       "fromCity": "Madrid",
@@ -5427,17 +5416,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-02T14:50:31.674871Z"
-  },
-  "CXI8E": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Nuremberg",
-      "toIata": "NUE",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-02T08:40:28.097250Z"
   },
   "RYR95CH": {
     "route": {
@@ -5717,17 +5695,6 @@
   "WMT7615": {
     "route": null,
     "checked_at": "2026-10-03T05:10:28.479025Z"
-  },
-  "EJU37HE": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T08:40:28.097250Z"
   },
   "WZZ31QC": {
     "route": {
@@ -6979,21 +6946,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-03T10:40:30.139420Z"
-  },
-  "EJU17TX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T08:40:28.097250Z"
-  },
-  "ABP712": {
-    "route": null,
-    "checked_at": "2026-10-02T08:40:28.097250Z"
   },
   "WZZ2709": {
     "route": {
@@ -13065,5 +13017,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-04T08:35:22.175841Z"
+  },
+  "WZZ22UT": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-04T08:40:30.715191Z"
+  },
+  "MGH723": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T08:40:30.715191Z"
   }
 }
