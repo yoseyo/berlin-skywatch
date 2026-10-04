@@ -354,7 +354,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-03T17:05:24.902905Z"
+    "checked_at": "2026-10-04T15:45:26.645781Z"
   },
   "LHX194": {
     "route": {
@@ -5605,17 +5605,6 @@
     },
     "checked_at": "2026-10-03T13:55:22.569408Z"
   },
-  "EJU96PC": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T15:40:29.762874Z"
-  },
   "RYR3U": {
     "route": {
       "fromCity": "London",
@@ -5689,10 +5678,6 @@
   "VJT645": {
     "route": null,
     "checked_at": "2026-10-04T09:00:53.883529Z"
-  },
-  "DENRE": {
-    "route": null,
-    "checked_at": "2026-10-02T15:40:29.762874Z"
   },
   "RYR14YY": {
     "route": {
@@ -6656,17 +6641,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-03T08:05:22.864871Z"
-  },
-  "EJU9041": {
-    "route": {
-      "fromCity": "Maastricht",
-      "fromIata": "MST",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-02T15:40:29.762874Z"
   },
   "RYR7949": {
     "route": {
@@ -12975,5 +12949,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-04T15:40:28.164338Z"
+  },
+  "AUA233": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-04T15:45:26.645781Z"
+  },
+  "CAI98GP": {
+    "route": {
+      "fromCity": "Rostock",
+      "fromIata": "RLG",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-04T15:45:26.645781Z"
   }
 }
