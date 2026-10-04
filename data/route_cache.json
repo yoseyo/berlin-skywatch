@@ -1550,7 +1550,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-03T05:15:28.363758Z"
+    "checked_at": "2026-10-04T05:25:25.578632Z"
   },
   "BAW99C": {
     "route": {
@@ -1576,7 +1576,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T05:25:21.282394Z"
+    "checked_at": "2026-10-04T05:25:25.578632Z"
   },
   "EWG7ED": {
     "route": null,
@@ -4451,28 +4451,6 @@
     },
     "checked_at": "2026-10-03T04:40:29.016184Z"
   },
-  "BEL2JY": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-02T05:25:23.201409Z"
-  },
-  "EWG5MJ": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-02T05:25:23.201409Z"
-  },
   "AUA991D": {
     "route": {
       "fromCity": "Vienna",
@@ -7060,7 +7038,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-03T05:00:52.427394Z"
+    "checked_at": "2026-10-04T05:25:25.578632Z"
   },
   "WZZ629": {
     "route": {
@@ -7469,7 +7447,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-02T07:40:29.593898Z"
+    "checked_at": "2026-10-04T05:25:25.578632Z"
   },
   "WMT1JM": {
     "route": {
@@ -13284,5 +13262,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-04T05:20:28.433500Z"
+  },
+  "RYR57ND": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-04T05:25:25.578632Z"
+  },
+  "DLH893": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-04T05:25:25.578632Z"
   }
 }
