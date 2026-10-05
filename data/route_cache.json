@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T12:30:40.789124Z"
+    "checked_at": "2026-10-05T12:40:31.147160Z"
   },
   "MSC2961": {
     "route": {
@@ -2799,7 +2799,7 @@
   },
   "QTR37K": {
     "route": null,
-    "checked_at": "2026-10-04T12:45:29.339209Z"
+    "checked_at": "2026-10-05T12:40:31.147160Z"
   },
   "AUA29M": {
     "route": {
@@ -2858,7 +2858,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T12:55:23.487322Z"
+    "checked_at": "2026-10-05T12:40:31.147160Z"
   },
   "KLM1314": {
     "route": {
@@ -13151,5 +13151,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T12:35:27.106861Z"
+  },
+  "BTI3BP": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-05T12:40:31.147160Z"
+  },
+  "RYR5602": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T12:40:31.147160Z"
+  },
+  "RYR30RG": {
+    "route": {
+      "fromCity": "Banja Luka",
+      "fromIata": "BNX",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T12:40:31.147160Z"
   }
 }
