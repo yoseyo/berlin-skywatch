@@ -13228,5 +13228,27 @@
   "AEG6912": {
     "route": null,
     "checked_at": "2026-10-05T02:25:22.485235Z"
+  },
+  "AUA97B": {
+    "route": {
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T03:20:27.242755Z"
+  },
+  "SRR6228": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-05T03:20:27.242755Z"
   }
 }
