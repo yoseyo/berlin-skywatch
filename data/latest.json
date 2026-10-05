@@ -1,14 +1,70 @@
 {
   "flights": [
     {
+      "callsign": "WZZ20KU",
+      "country": "Hungary",
+      "lat": 52.3493,
+      "lon": 13.9765,
+      "altKm": 10.7,
+      "speedKmh": 810,
+      "heading": 301,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Reykjav\u00edk",
+      "toIata": "KEF",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU5015",
+      "country": "Austria",
+      "lat": 52.2953,
+      "lon": 13.3639,
+      "altKm": 1.4,
+      "speedKmh": 419,
+      "heading": 227,
+      "vertRateMs": 12.0,
+      "category": "plane"
+    },
+    {
+      "callsign": "TAP53EI",
+      "country": "Portugal",
+      "lat": 52.2146,
+      "lon": 13.1067,
+      "altKm": 3.1,
+      "speedKmh": 513,
+      "heading": 255,
+      "vertRateMs": 12.3,
+      "airline": "TAP Portugal",
+      "airlineCountry": "Portugal",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
+      "callsign": "MFX7613",
+      "country": "Uzbekistan",
+      "lat": 52.7742,
+      "lon": 13.4669,
+      "altKm": 10.7,
+      "speedKmh": 831,
+      "heading": 257,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "RYR8NZ",
       "country": "Malta",
-      "lat": 52.3653,
-      "lon": 13.475,
-      "altKm": 0.4,
-      "speedKmh": 299,
-      "heading": 249,
-      "vertRateMs": 20.5,
+      "lat": 52.3364,
+      "lon": 12.9034,
+      "altKm": 4.3,
+      "speedKmh": 652,
+      "heading": 272,
+      "vertRateMs": 13,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Berlin",
@@ -18,5 +74,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-05T04:20:28.762490Z"
+  "updated_at": "2026-10-05T04:25:25.461053Z"
 }
