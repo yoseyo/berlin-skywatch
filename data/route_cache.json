@@ -4339,7 +4339,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-03T21:05:22.157570Z"
+    "checked_at": "2026-10-05T08:45:31.805332Z"
   },
   "RYR364N": {
     "route": {
@@ -5469,17 +5469,6 @@
     },
     "checked_at": "2026-10-04T11:00:53.766093Z"
   },
-  "RYR30RG": {
-    "route": {
-      "fromCity": "Banja Luka",
-      "fromIata": "BNX",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T08:45:27.284350Z"
-  },
   "MEA245": {
     "route": {
       "fromCity": "Beirut",
@@ -6285,17 +6274,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-05T08:40:32.124633Z"
-  },
-  "EWG47Z": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T08:45:27.284350Z"
   },
   "TKJ3WS": {
     "route": {
@@ -13161,5 +13139,27 @@
   "LXC44": {
     "route": null,
     "checked_at": "2026-10-05T08:40:32.124633Z"
+  },
+  "WZZ2709": {
+    "route": {
+      "fromCity": "Debrecen",
+      "fromIata": "DEB",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-05T08:45:31.805332Z"
+  },
+  "THY91J": {
+    "route": {
+      "fromCity": "Detroit",
+      "fromIata": "DTW",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-05T08:45:31.805332Z"
   }
 }
