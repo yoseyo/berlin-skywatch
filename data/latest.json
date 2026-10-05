@@ -1,4 +1,56 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-05T03:35:22.123110Z"
+  "flights": [
+    {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.5331,
+      "lon": 13.4838,
+      "altKm": 11.9,
+      "speedKmh": 826,
+      "heading": 216,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.1221,
+      "lon": 14.0698,
+      "altKm": 3.2,
+      "speedKmh": 498,
+      "heading": 336,
+      "vertRateMs": -1.6,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG4EH",
+      "country": "Germany",
+      "lat": 52.3042,
+      "lon": 13.3838,
+      "altKm": 1.3,
+      "speedKmh": 363,
+      "heading": 230,
+      "vertRateMs": 7.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-05T03:40:27.808949Z"
 }
