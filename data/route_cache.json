@@ -837,17 +837,6 @@
     },
     "checked_at": "2026-10-04T15:25:22.001172Z"
   },
-  "LHX4KK": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T17:25:22.546976Z"
-  },
   "BAW846W": {
     "route": {
       "fromCity": "London",
@@ -3986,7 +3975,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T21:54:26.963736Z"
+    "checked_at": "2026-10-05T17:25:27.158888Z"
   },
   "SAS2768": {
     "route": {
@@ -4068,17 +4057,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-05T08:20:36.027138Z"
-  },
-  "RYR3ZW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T17:25:22.546976Z"
   },
   "RYR785N": {
     "route": {
@@ -6306,17 +6284,6 @@
     },
     "checked_at": "2026-10-05T11:05:25.173136Z"
   },
-  "NSZ4327": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Bastia/Poretta",
-      "toIata": "BIA",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T17:25:22.546976Z"
-  },
   "TAP3333": {
     "route": {
       "fromCity": "Berlin",
@@ -6444,7 +6411,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T17:35:23.516633Z"
+    "checked_at": "2026-10-05T17:25:27.158888Z"
   },
   "CFG2XU": {
     "route": {
@@ -13215,5 +13182,42 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T17:10:32.065323Z"
+  },
+  "NSZ2804": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T17:25:27.158888Z"
+  },
+  "NSZ3732": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T17:25:27.158888Z"
+  },
+  "ADN87D": {
+    "route": null,
+    "checked_at": "2026-10-05T17:25:27.158888Z"
+  },
+  "RYR9SW": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T17:25:27.158888Z"
   }
 }
