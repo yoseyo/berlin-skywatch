@@ -2241,7 +2241,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T09:30:39.306064Z"
+    "checked_at": "2026-10-05T09:30:42.399543Z"
   },
   "LOT266": {
     "route": {
@@ -6285,43 +6285,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T06:45:30.062790Z"
-  },
-  "WMT1962": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-03T09:30:37.328956Z"
-  },
-  "NJE539A": {
-    "route": null,
-    "checked_at": "2026-10-03T09:30:37.328956Z"
-  },
-  "RYR65ZK": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T09:30:37.328956Z"
-  },
-  "RYR57AE": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T09:30:37.328956Z"
   },
   "NSZ3280": {
     "route": {
@@ -13173,5 +13136,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T09:25:24.800462Z"
+  },
+  "NSZ3289": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T09:30:42.399543Z"
   }
 }
