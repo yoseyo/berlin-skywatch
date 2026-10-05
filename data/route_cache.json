@@ -1576,7 +1576,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-03T06:10:29.939161Z"
+    "checked_at": "2026-10-05T06:10:32.870363Z"
   },
   "AUA223B": {
     "route": {
@@ -4306,7 +4306,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T06:05:24.914126Z"
+    "checked_at": "2026-10-05T06:10:32.870363Z"
   },
   "PGT982": {
     "route": {
@@ -4828,17 +4828,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-03T06:35:23.078259Z"
-  },
-  "ASL94D": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-03T06:10:29.939161Z"
   },
   "DLH8KF": {
     "route": {
@@ -6366,39 +6355,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-04T17:55:22.962649Z"
-  },
-  "JTD519": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-03T06:05:24.514893Z"
-  },
-  "CAT335": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Copenhagen Airtaxi",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-03T06:05:24.514893Z"
-  },
-  "AUA26Y": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T06:10:29.939161Z"
   },
   "WMT7LY": {
     "route": {
@@ -10609,7 +10565,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-04T12:05:21.560437Z"
+    "checked_at": "2026-10-05T06:10:32.870363Z"
   },
   "DESSU": {
     "route": null,
@@ -10695,7 +10651,7 @@
   },
   "GAF160": {
     "route": null,
-    "checked_at": "2026-10-04T12:20:28.704662Z"
+    "checked_at": "2026-10-05T06:10:32.870363Z"
   },
   "TIE822J": {
     "route": null,
@@ -13174,5 +13130,38 @@
   "AYJ411": {
     "route": null,
     "checked_at": "2026-10-05T05:50:31.165508Z"
+  },
+  "EWG4JP": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T06:10:32.870363Z"
+  },
+  "FIN6Y": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-05T06:10:32.870363Z"
+  },
+  "AUA222": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T06:10:32.870363Z"
   }
 }
