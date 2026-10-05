@@ -6284,17 +6284,6 @@
     },
     "checked_at": "2026-10-04T16:00:48.166466Z"
   },
-  "RYR1825": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T16:05:24.555559Z"
-  },
   "SAS7775": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6419,7 +6408,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T16:15:28.814611Z"
+    "checked_at": "2026-10-05T16:05:26.788988Z"
   },
   "WZZ93": {
     "route": {
@@ -13182,5 +13171,42 @@
   "GAF757": {
     "route": null,
     "checked_at": "2026-10-05T16:00:55.568726Z"
+  },
+  "EWG6TG": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T16:05:26.788988Z"
+  },
+  "LOT3JK": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-05T16:05:26.788988Z"
+  },
+  "PTO6625": {
+    "route": null,
+    "checked_at": "2026-10-05T16:05:26.788988Z"
+  },
+  "RYR52WA": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T16:05:26.788988Z"
   }
 }
