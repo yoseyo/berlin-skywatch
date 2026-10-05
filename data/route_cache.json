@@ -148,7 +148,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T14:20:28.948432Z"
+    "checked_at": "2026-10-05T14:15:30.100805Z"
   },
   "LOT279": {
     "route": {
@@ -3806,7 +3806,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-04T14:35:24.016371Z"
+    "checked_at": "2026-10-05T14:15:30.100805Z"
   },
   "SAS697": {
     "route": {
@@ -13094,5 +13094,16 @@
   "TJD402": {
     "route": null,
     "checked_at": "2026-10-05T14:10:32.156330Z"
+  },
+  "CCA908": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-05T14:15:30.100805Z"
   }
 }
