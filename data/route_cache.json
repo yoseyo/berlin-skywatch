@@ -813,7 +813,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T18:30:41.625813Z"
+    "checked_at": "2026-10-05T19:05:34.065533Z"
   },
   "SXS2KY": {
     "route": {
@@ -1044,7 +1044,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-04T19:00:50.992296Z"
+    "checked_at": "2026-10-05T19:05:34.065533Z"
   },
   "BAW998": {
     "route": {
@@ -4493,7 +4493,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T18:50:28.501642Z"
+    "checked_at": "2026-10-05T19:05:34.065533Z"
   },
   "WZZ513": {
     "route": {
@@ -6288,17 +6288,6 @@
     },
     "checked_at": "2026-10-04T15:30:36.369886Z"
   },
-  "NSZ3878": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T19:01:09.901339Z"
-  },
   "LHX4YP": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6320,28 +6309,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-04T17:55:22.962649Z"
-  },
-  "NOZ51J": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-03T19:05:26.586975Z"
-  },
-  "TGZ782": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tbilisi",
-      "toIata": "TBS",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-10-03T19:05:26.586975Z"
   },
   "SAS6272": {
     "route": {
@@ -13286,5 +13253,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T18:50:34.175292Z"
+  },
+  "CFC3455": {
+    "route": null,
+    "checked_at": "2026-10-05T19:05:34.065533Z"
+  },
+  "LOT4CN": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-05T19:05:34.065533Z"
+  },
+  "FIN78Q": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-05T19:05:34.065533Z"
   }
 }
