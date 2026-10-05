@@ -4021,17 +4021,6 @@
     },
     "checked_at": "2026-10-05T06:05:23.119771Z"
   },
-  "LOT403": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-03T06:50:27.118583Z"
-  },
   "NSZ4505": {
     "route": {
       "fromCity": "Stockholm",
@@ -4307,17 +4296,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-05T06:10:32.870363Z"
-  },
-  "PGT982": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-03T06:50:27.118583Z"
   },
   "EZY39MB": {
     "route": {
@@ -6355,17 +6333,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-05T06:30:39.888710Z"
-  },
-  "PGT17GP": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-03T06:50:27.118583Z"
   },
   "DIBFS": {
     "route": null,
@@ -10229,7 +10196,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T10:40:29.670530Z"
+    "checked_at": "2026-10-05T06:50:31.440011Z"
   },
   "GAC564P": {
     "route": null,
@@ -13200,5 +13167,46 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-05T06:45:30.062790Z"
+  },
+  "WZZ2550": {
+    "route": null,
+    "checked_at": "2026-10-05T06:50:31.440011Z"
+  },
+  "SAS31T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T06:50:31.440011Z"
+  },
+  "RYR4384": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T06:50:31.440011Z"
+  },
+  "ATV107": {
+    "route": null,
+    "checked_at": "2026-10-05T06:50:31.440011Z"
+  },
+  "SDR41JJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T06:50:31.440011Z"
   }
 }
