@@ -1778,7 +1778,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T07:10:28.193222Z"
+    "checked_at": "2026-10-05T07:05:24.966298Z"
   },
   "FIN7HC": {
     "route": {
@@ -1789,7 +1789,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-04T07:05:22.332333Z"
+    "checked_at": "2026-10-05T07:05:24.966298Z"
   },
   "RYR594F": {
     "route": {
@@ -5458,17 +5458,6 @@
     },
     "checked_at": "2026-10-05T06:35:25.596529Z"
   },
-  "PGT1041": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-03T07:05:24.060820Z"
-  },
   "EWG58L": {
     "route": {
       "fromCity": "Berlin",
@@ -6337,10 +6326,6 @@
   "DIBFS": {
     "route": null,
     "checked_at": "2026-10-04T16:10:29.058037Z"
-  },
-  "NJE204K": {
-    "route": null,
-    "checked_at": "2026-10-03T07:05:24.060820Z"
   },
   "SAS68R": {
     "route": {
@@ -13237,5 +13222,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T07:00:52.365071Z"
+  },
+  "DMS2HR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saarbr\u00fccken",
+      "toIata": "SCN",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-10-05T07:05:24.966298Z"
   }
 }
