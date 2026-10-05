@@ -4471,7 +4471,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-04T19:25:26.972599Z"
+    "checked_at": "2026-10-05T19:25:43.692518Z"
   },
   "EZS67CP": {
     "route": {
@@ -6313,28 +6313,6 @@
   "EUW5228": {
     "route": null,
     "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
-  "EJU17CG": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T19:25:22.732998Z"
-  },
-  "SAS64C": {
-    "route": {
-      "fromCity": "Bologna",
-      "fromIata": "BLQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T19:25:22.732998Z"
   },
   "NSZ3299": {
     "route": {
@@ -13279,5 +13257,16 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-05T19:16:34.597838Z"
+  },
+  "CFG2EJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T19:25:43.692518Z"
   }
 }
