@@ -6297,28 +6297,6 @@
     },
     "checked_at": "2026-10-05T09:05:25.790924Z"
   },
-  "NSZ3740": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T09:55:22.026668Z"
-  },
-  "BCS3317": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T09:55:22.026668Z"
-  },
   "SDR16GL": {
     "route": null,
     "checked_at": "2026-10-03T10:00:49.648893Z"
@@ -9327,7 +9305,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-10-04T09:40:31.539549Z"
+    "checked_at": "2026-10-05T09:55:24.011854Z"
   },
   "RYR1451": {
     "route": {
@@ -13166,5 +13144,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T09:50:32.919195Z"
+  },
+  "WMT751": {
+    "route": null,
+    "checked_at": "2026-10-05T09:55:24.011854Z"
+  },
+  "FIN2WC": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-05T09:55:24.011854Z"
+  },
+  "EJU43NL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T09:55:24.011854Z"
+  },
+  "MGL137": {
+    "route": {
+      "fromCity": "Ulaanbaatar (Sergelen)",
+      "fromIata": "UBN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "MIAT Mongolian Airlines",
+      "airlineCountry": "Mongolia"
+    },
+    "checked_at": "2026-10-05T09:55:24.011854Z"
   }
 }
