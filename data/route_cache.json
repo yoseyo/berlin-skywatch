@@ -159,7 +159,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-04T14:50:27.843012Z"
+    "checked_at": "2026-10-05T14:20:32.321861Z"
   },
   "RYR4JQ": {
     "route": {
@@ -192,7 +192,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T14:20:28.948432Z"
+    "checked_at": "2026-10-05T14:20:32.321861Z"
   },
   "SAS81L": {
     "route": {
@@ -4449,7 +4449,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-04T14:45:27.408527Z"
+    "checked_at": "2026-10-05T14:20:32.321861Z"
   },
   "TKJ9TC": {
     "route": {
@@ -4537,7 +4537,7 @@
       "airlineName": "Easyjet Switzerland",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-04T14:00:48.055358Z"
+    "checked_at": "2026-10-05T14:20:32.321861Z"
   },
   "LOT6MB": {
     "route": {
@@ -13105,5 +13105,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-05T14:15:30.100805Z"
+  },
+  "RYR91ZT": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T14:20:32.321861Z"
+  },
+  "RYR19ZZ": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T14:20:32.321861Z"
   }
 }
