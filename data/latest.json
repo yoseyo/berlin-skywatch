@@ -3,12 +3,12 @@
     {
       "callsign": "VKG201",
       "country": "Denmark",
-      "lat": 52.2814,
-      "lon": 14.0915,
+      "lat": 52.7791,
+      "lon": 13.8354,
       "altKm": 11.4,
-      "speedKmh": 786,
+      "speedKmh": 783,
       "heading": 343,
-      "vertRateMs": 0,
+      "vertRateMs": -0.3,
       "airline": "SunClass Airlines",
       "airlineCountry": "Denmark",
       "fromCity": "Preveza/Lefkada",
@@ -16,7 +16,24 @@
       "toCity": "Copenhagen",
       "toIata": "CPH",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR8WH",
+      "country": "Ireland",
+      "lat": 52.4869,
+      "lon": 14.0226,
+      "altKm": 12.0,
+      "speedKmh": 788,
+      "heading": 342,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-05T22:00:53.915540Z"
+  "updated_at": "2026-10-05T22:05:24.604335Z"
 }
