@@ -1363,7 +1363,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T04:30:43.053407Z"
+    "checked_at": "2026-10-05T05:10:29.471458Z"
   },
   "IBE07BZ": {
     "route": {
@@ -1440,7 +1440,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-04T05:10:27.816412Z"
+    "checked_at": "2026-10-05T05:10:29.471458Z"
   },
   "AUA240": {
     "route": {
@@ -1451,7 +1451,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T05:05:22.457317Z"
+    "checked_at": "2026-10-05T05:10:29.471458Z"
   },
   "SXS75G": {
     "route": {
@@ -1462,7 +1462,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T05:25:25.578632Z"
+    "checked_at": "2026-10-05T05:10:29.471458Z"
   },
   "BAW99C": {
     "route": {
@@ -4442,7 +4442,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T11:20:28.264789Z"
+    "checked_at": "2026-10-05T05:10:29.471458Z"
   },
   "NSZ2MP": {
     "route": {
@@ -4810,10 +4810,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T04:50:27.603429Z"
-  },
-  "WMT7615": {
-    "route": null,
-    "checked_at": "2026-10-03T05:10:28.479025Z"
   },
   "WZZ31QC": {
     "route": {
@@ -5476,17 +5472,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-04T05:25:25.578632Z"
-  },
-  "EJU12HB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T05:10:28.479025Z"
   },
   "WMT9NH": {
     "route": {
@@ -6418,17 +6403,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T04:50:27.603429Z"
-  },
-  "NOZ1922": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-03T05:10:28.479025Z"
   },
   "RYR456B": {
     "route": {
@@ -13155,5 +13129,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T05:05:23.837283Z"
+  },
+  "CFE8PR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-05T05:10:29.471458Z"
+  },
+  "RYR5979": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T05:10:29.471458Z"
   }
 }
