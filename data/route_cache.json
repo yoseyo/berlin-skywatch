@@ -2498,7 +2498,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T10:50:28.252867Z"
+    "checked_at": "2026-10-05T11:15:30.790240Z"
   },
   "SXS1CM": {
     "route": {
@@ -6271,21 +6271,6 @@
       "airlineCountry": "Canada"
     },
     "checked_at": "2026-10-04T11:45:27.915999Z"
-  },
-  "BTI8KA": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-03T11:15:27.910824Z"
-  },
-  "NJE198V": {
-    "route": null,
-    "checked_at": "2026-10-03T11:15:27.910824Z"
   },
   "EJU93DL": {
     "route": {
@@ -13188,5 +13173,27 @@
   "N706GA": {
     "route": null,
     "checked_at": "2026-10-05T11:10:31.205510Z"
+  },
+  "NOZ1104": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-05T11:15:30.790240Z"
+  },
+  "BTI9TZ": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-05T11:15:30.790240Z"
   }
 }
