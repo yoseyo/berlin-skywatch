@@ -1154,7 +1154,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T20:25:25.399281Z"
+    "checked_at": "2026-10-05T21:25:30.657755Z"
   },
   "VLG1887": {
     "route": {
@@ -13092,5 +13092,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-05T21:20:40.060044Z"
+  },
+  "SAS7744": {
+    "route": {
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T21:25:30.657755Z"
+  },
+  "SRR6227": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-05T21:25:30.657755Z"
+  },
+  "RYR866X": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T21:25:30.657755Z"
   }
 }
