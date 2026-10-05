@@ -328,7 +328,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-04T15:35:21.160740Z"
+    "checked_at": "2026-10-05T15:50:31.026456Z"
   },
   "TVF77EX": {
     "route": null,
@@ -409,7 +409,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T16:35:23.375558Z"
+    "checked_at": "2026-10-05T15:50:31.026456Z"
   },
   "PGT7UZ": {
     "route": {
@@ -486,7 +486,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-04T16:35:23.375558Z"
+    "checked_at": "2026-10-05T15:50:31.026456Z"
   },
   "LOT389": {
     "route": {
@@ -659,7 +659,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-04T20:05:24.289490Z"
+    "checked_at": "2026-10-05T15:50:31.026456Z"
   },
   "SWR1PF": {
     "route": {
@@ -3977,17 +3977,6 @@
     },
     "checked_at": "2026-10-05T14:30:42.504608Z"
   },
-  "TAP53ED": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-03T15:50:29.776712Z"
-  },
   "RYR67ZT": {
     "route": {
       "fromCity": "Sofia",
@@ -6294,39 +6283,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-04T16:00:48.166466Z"
-  },
-  "BTI8WF": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-03T15:50:29.776712Z"
-  },
-  "FIN08PL": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-03T15:50:29.776712Z"
-  },
-  "RYR108X": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T15:50:29.776712Z"
   },
   "SAS7302": {
     "route": {
@@ -13186,5 +13142,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T15:45:31.986534Z"
+  },
+  "RUK1145": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-05T15:50:31.026456Z"
+  },
+  "LBT232": {
+    "route": {
+      "fromCity": "Tunis",
+      "fromIata": "TUN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-05T15:50:31.026456Z"
   }
 }
