@@ -4086,7 +4086,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-10-04T18:35:22.611636Z"
+    "checked_at": "2026-10-05T18:15:29.579694Z"
   },
   "TAP4BE": {
     "route": {
@@ -4919,7 +4919,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-10-04T18:20:28.049975Z"
+    "checked_at": "2026-10-05T18:15:29.579694Z"
   },
   "RYR70FL": {
     "route": {
@@ -6295,17 +6295,6 @@
     },
     "checked_at": "2026-10-04T12:30:40.789124Z"
   },
-  "EJU14LE": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T18:11:06.043596Z"
-  },
   "AUA972": {
     "route": {
       "fromCity": "Gothenburg",
@@ -6316,17 +6305,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-04T18:20:28.049975Z"
-  },
-  "VKG584": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-03T18:11:06.043596Z"
   },
   "EJU5424": {
     "route": null,
@@ -13264,5 +13242,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-05T18:10:32.863464Z"
+  },
+  "EJU5191": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T18:15:29.579694Z"
+  },
+  "EZS1589": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-05T18:15:29.579694Z"
   }
 }
