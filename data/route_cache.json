@@ -1330,7 +1330,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T13:40:29.560286Z"
+    "checked_at": "2026-10-05T05:25:23.614362Z"
   },
   "AFR84XP": {
     "route": {
@@ -1510,7 +1510,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-04T05:10:27.816412Z"
+    "checked_at": "2026-10-05T05:25:23.614362Z"
   },
   "DLH172": {
     "route": {
@@ -1532,7 +1532,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-04T05:35:22.974295Z"
+    "checked_at": "2026-10-05T05:25:23.614362Z"
   },
   "FIN3AW": {
     "route": {
@@ -6389,28 +6389,6 @@
     },
     "checked_at": "2026-10-04T04:50:27.603429Z"
   },
-  "BTI7PY": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-03T05:25:21.282394Z"
-  },
-  "RYR6996": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T05:25:21.282394Z"
-  },
   "SAS7303": {
     "route": {
       "fromCity": "Stavanger",
@@ -6431,7 +6409,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-03T05:35:20.610139Z"
+    "checked_at": "2026-10-05T05:25:23.614362Z"
   },
   "RYR9MC": {
     "route": {
@@ -13147,5 +13125,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T05:20:28.537780Z"
+  },
+  "NSZ3288": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T05:25:23.614362Z"
+  },
+  "BEL2JY": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-05T05:25:23.614362Z"
+  },
+  "EJU53YB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T05:25:23.614362Z"
   }
 }
