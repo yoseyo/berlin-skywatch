@@ -5621,7 +5621,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T15:35:21.160740Z"
+    "checked_at": "2026-10-05T15:10:30.728549Z"
   },
   "TVF97PR": {
     "route": {
@@ -6283,25 +6283,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T14:30:42.504608Z"
-  },
-  "CFC2907": {
-    "route": null,
-    "checked_at": "2026-10-03T15:10:28.716406Z"
-  },
-  "PYR014": {
-    "route": null,
-    "checked_at": "2026-10-03T15:10:28.716406Z"
-  },
-  "RYR2SW": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T15:10:28.716406Z"
   },
   "CMB338": {
     "route": null,
@@ -13124,5 +13105,27 @@
   "AXY455S": {
     "route": null,
     "checked_at": "2026-10-05T15:05:24.715855Z"
+  },
+  "NSZ72N": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T15:10:30.728549Z"
+  },
+  "RYR916R": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T15:10:30.728549Z"
   }
 }
