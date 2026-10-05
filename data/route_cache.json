@@ -2454,7 +2454,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T10:10:30.455201Z"
+    "checked_at": "2026-10-05T10:15:29.875731Z"
   },
   "AEE2WD": {
     "route": {
@@ -10059,7 +10059,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T13:25:22.866291Z"
+    "checked_at": "2026-10-05T10:15:29.875731Z"
   },
   "UAG65D": {
     "route": null,
@@ -13185,5 +13185,38 @@
   "ATV108": {
     "route": null,
     "checked_at": "2026-10-05T10:10:31.156195Z"
+  },
+  "FIN6PZ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-05T10:15:29.875731Z"
+  },
+  "RYR786D": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T10:15:29.875731Z"
+  },
+  "RYR7BW": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T10:15:29.875731Z"
   }
 }
