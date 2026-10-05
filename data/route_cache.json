@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-04T09:55:23.670091Z"
+    "checked_at": "2026-10-05T06:40:32.410576Z"
   },
   "KLM84H": {
     "route": {
@@ -1679,7 +1679,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T06:45:31.726760Z"
+    "checked_at": "2026-10-05T06:40:32.410576Z"
   },
   "SWR97Y": {
     "route": {
@@ -6345,17 +6345,6 @@
     },
     "checked_at": "2026-10-05T04:50:31.897507Z"
   },
-  "EWG90V": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T06:40:27.676439Z"
-  },
   "BTI97T": {
     "route": {
       "fromCity": "Berlin",
@@ -9552,7 +9541,7 @@
   },
   "WZZ8649": {
     "route": null,
-    "checked_at": "2026-10-04T06:15:29.479019Z"
+    "checked_at": "2026-10-05T06:40:32.410576Z"
   },
   "NSZ1VD": {
     "route": {
@@ -13163,5 +13152,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T06:35:25.596529Z"
+  },
+  "PAV601": {
+    "route": null,
+    "checked_at": "2026-10-05T06:40:32.410576Z"
+  },
+  "EWG6YP": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T06:40:32.410576Z"
   }
 }
