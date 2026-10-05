@@ -670,7 +670,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-04T17:00:48.128292Z"
+    "checked_at": "2026-10-05T16:55:24.051445Z"
   },
   "PGT49YQ": {
     "route": {
@@ -4482,7 +4482,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T16:50:28.489306Z"
+    "checked_at": "2026-10-05T16:55:24.051445Z"
   },
   "RYR5SB": {
     "route": {
@@ -4904,7 +4904,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-04T16:50:28.489306Z"
+    "checked_at": "2026-10-05T16:55:24.051445Z"
   },
   "FIN2PX": {
     "route": {
@@ -4937,7 +4937,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-04T17:10:35.104054Z"
+    "checked_at": "2026-10-05T16:55:24.051445Z"
   },
   "NSZ4507": {
     "route": {
@@ -6272,50 +6272,6 @@
   "DEADX": {
     "route": null,
     "checked_at": "2026-10-05T08:35:25.134922Z"
-  },
-  "NSZ4365": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T16:55:23.303444Z"
-  },
-  "THY1GJ": {
-    "route": {
-      "fromCity": "Moscow",
-      "fromIata": "VKO",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-03T16:55:23.303444Z"
-  },
-  "NSZ6FY": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T16:55:23.303444Z"
-  },
-  "SAS1759": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T16:55:23.303444Z"
   },
   "KLM67B": {
     "route": {
@@ -13259,5 +13215,16 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-05T16:50:31.060141Z"
+  },
+  "EWG33J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T16:55:24.051445Z"
   }
 }
