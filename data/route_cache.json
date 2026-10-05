@@ -3156,7 +3156,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T20:05:24.289490Z"
+    "checked_at": "2026-10-05T19:30:43.557517Z"
   },
   "EJU84GR": {
     "route": {
@@ -3865,7 +3865,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-04T19:00:50.992296Z"
+    "checked_at": "2026-10-05T19:30:43.557517Z"
   },
   "EWG9QC": {
     "route": {
@@ -6313,17 +6313,6 @@
   "EUW5228": {
     "route": null,
     "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
-  "NSZ3299": {
-    "route": {
-      "fromCity": "Sarajevo",
-      "fromIata": "SJJ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T19:30:41.418696Z"
   },
   "NSZ23PH": {
     "route": {
@@ -13268,5 +13257,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T19:25:43.692518Z"
+  },
+  "SAS7388": {
+    "route": {
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T19:30:43.557517Z"
+  },
+  "EZS1590": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-05T19:30:43.557517Z"
+  },
+  "RYR2962": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T19:30:43.557517Z"
   }
 }
