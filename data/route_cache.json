@@ -295,7 +295,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-04T14:55:21.118027Z"
+    "checked_at": "2026-10-05T15:00:56.220532Z"
   },
   "PGT978": {
     "route": {
@@ -5791,7 +5791,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T04:45:28.014615Z"
+    "checked_at": "2026-10-05T15:00:56.220532Z"
   },
   "EJU32RT": {
     "route": null,
@@ -6283,36 +6283,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T14:30:42.504608Z"
-  },
-  "WZZ6658": {
-    "route": null,
-    "checked_at": "2026-10-03T15:00:53.528799Z"
-  },
-  "CMB560": {
-    "route": null,
-    "checked_at": "2026-10-03T15:00:53.528799Z"
-  },
-  "SAS7669": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T15:00:53.528799Z"
-  },
-  "RYR1638": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T15:00:53.528799Z"
   },
   "SAS4805": {
     "route": {
@@ -9812,7 +9782,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-04T16:00:48.166466Z"
+    "checked_at": "2026-10-05T15:00:56.220532Z"
   },
   "RYR5ZE": {
     "route": {
@@ -13098,5 +13068,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T14:50:31.163218Z"
+  },
+  "EJU38AB": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T15:00:56.220532Z"
+  },
+  "EJU9108": {
+    "route": {
+      "fromCity": "Comiso",
+      "fromIata": "CIY",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T15:00:56.220532Z"
+  },
+  "DLH896": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T15:00:56.220532Z"
+  },
+  "PTO6627": {
+    "route": null,
+    "checked_at": "2026-10-05T15:00:56.220532Z"
   }
 }
