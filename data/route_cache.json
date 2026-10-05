@@ -758,7 +758,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T04:30:43.053407Z"
+    "checked_at": "2026-10-05T20:20:46.998804Z"
   },
   "NOZ8GB": {
     "route": {
@@ -978,7 +978,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T20:05:24.289490Z"
+    "checked_at": "2026-10-05T20:20:46.998804Z"
   },
   "DLH1CJ": {
     "route": {
@@ -3178,7 +3178,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T20:25:25.399281Z"
+    "checked_at": "2026-10-05T20:20:46.998804Z"
   },
   "RYR1WP": {
     "route": {
@@ -5672,17 +5672,6 @@
     },
     "checked_at": "2026-10-05T10:25:24.206506Z"
   },
-  "RYR1155": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T20:20:29.935503Z"
-  },
   "RYR50PQ": {
     "route": {
       "fromCity": "Palermo",
@@ -6318,61 +6307,6 @@
     "route": null,
     "checked_at": "2026-10-04T12:55:23.487322Z"
   },
-  "GPX7EJ": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "GP Aviation",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-03T20:10:36.767429Z"
-  },
-  "NSZ5GT": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T20:10:36.767429Z"
-  },
-  "NOZ8UD": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-03T20:10:36.767429Z"
-  },
-  "EJU39XF": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T20:20:29.935503Z"
-  },
-  "NOZ1865": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-03T20:20:29.935503Z"
-  },
   "NSZ7DE": {
     "route": {
       "fromCity": "Catania",
@@ -6463,7 +6397,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T18:10:31.580622Z"
+    "checked_at": "2026-10-05T20:20:46.998804Z"
   },
   "RYR2501": {
     "route": {
@@ -13257,5 +13191,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T20:10:33.849797Z"
+  },
+  "EJU46TQ": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T20:20:46.998804Z"
+  },
+  "JTD244": {
+    "route": {
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-05T20:20:46.998804Z"
+  },
+  "EJU98HY": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T20:20:46.998804Z"
+  },
+  "ISR254": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-05T20:20:46.998804Z"
   }
 }
