@@ -4781,10 +4781,6 @@
     },
     "checked_at": "2026-10-04T10:05:22.799260Z"
   },
-  "DEQML": {
-    "route": null,
-    "checked_at": "2026-10-03T10:30:37.181954Z"
-  },
   "PGT41EH": {
     "route": {
       "fromCity": "Antalya",
@@ -13203,5 +13199,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T10:25:24.206506Z"
+  },
+  "LZB320": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Bulgaria Air",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-05T10:30:45.364903Z"
+  },
+  "ELY105": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-05T10:30:45.364903Z"
   }
 }
