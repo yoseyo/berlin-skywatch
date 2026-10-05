@@ -3999,17 +3999,6 @@
     },
     "checked_at": "2026-10-03T21:54:26.963736Z"
   },
-  "RYR15FP": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T13:45:29.374383Z"
-  },
   "SAS2768": {
     "route": {
       "fromCity": "Valletta",
@@ -4949,17 +4938,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-04T16:50:28.489306Z"
-  },
-  "RYR7664": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T13:45:29.374383Z"
   },
   "FIN2PX": {
     "route": {
@@ -6312,28 +6290,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-05T04:45:29.911682Z"
-  },
-  "NOZ50H": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-03T13:45:29.374383Z"
-  },
-  "EWG60V": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T13:45:29.374383Z"
   },
   "RYR37CU": {
     "route": {
@@ -13170,5 +13126,24 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-05T13:40:31.677216Z"
+  },
+  "N724GD": {
+    "route": null,
+    "checked_at": "2026-10-05T13:45:31.791555Z"
+  },
+  "LEJ110": {
+    "route": null,
+    "checked_at": "2026-10-05T13:45:31.791555Z"
+  },
+  "CFG5ZR": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T13:45:31.791555Z"
   }
 }
