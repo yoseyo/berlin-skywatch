@@ -2696,7 +2696,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T12:15:27.958773Z"
+    "checked_at": "2026-10-05T13:10:31.390868Z"
   },
   "AFR92ZN": {
     "route": {
@@ -2891,7 +2891,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T13:00:51.523606Z"
+    "checked_at": "2026-10-05T13:10:31.390868Z"
   },
   "DLH6MM": {
     "route": {
@@ -2924,7 +2924,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T13:21:20.216751Z"
+    "checked_at": "2026-10-05T13:10:31.390868Z"
   },
   "EWG7WB": {
     "route": {
@@ -6293,17 +6293,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T07:00:52.365071Z"
-  },
-  "SDR16YT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T13:07:17.434430Z"
   },
   "CAT336": {
     "route": {
@@ -13184,5 +13173,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-05T13:05:22.226093Z"
+  },
+  "RYR12AV": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T13:10:31.390868Z"
   }
 }
