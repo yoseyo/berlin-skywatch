@@ -1745,7 +1745,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-04T06:45:31.726760Z"
+    "checked_at": "2026-10-05T07:00:52.365071Z"
   },
   "DLH2NL": {
     "route": {
@@ -1756,7 +1756,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T06:50:30.709556Z"
+    "checked_at": "2026-10-05T07:00:52.365071Z"
   },
   "SAS767": {
     "route": {
@@ -3321,7 +3321,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-03T11:25:21.194354Z"
+    "checked_at": "2026-10-05T07:00:52.365071Z"
   },
   "WZZ3EA": {
     "route": {
@@ -6338,17 +6338,6 @@
     "route": null,
     "checked_at": "2026-10-04T16:10:29.058037Z"
   },
-  "SAS4733": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T07:00:49.661115Z"
-  },
   "NJE204K": {
     "route": null,
     "checked_at": "2026-10-03T07:05:24.060820Z"
@@ -7545,7 +7534,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T13:05:24.912703Z"
+    "checked_at": "2026-10-05T07:00:52.365071Z"
   },
   "SDR16YT": {
     "route": {
@@ -13215,5 +13204,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T06:55:23.096980Z"
+  },
+  "LHX5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T07:00:52.365071Z"
+  },
+  "EJU51LD": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T07:00:52.365071Z"
+  },
+  "CFG2DC": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T07:00:52.365071Z"
   }
 }
