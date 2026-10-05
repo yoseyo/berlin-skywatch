@@ -2465,7 +2465,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-04T10:05:22.799260Z"
+    "checked_at": "2026-10-05T10:35:24.651362Z"
   },
   "AUA27Y": {
     "route": {
@@ -2487,7 +2487,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-04T10:35:22.436438Z"
+    "checked_at": "2026-10-05T10:35:24.651362Z"
   },
   "DLH2HH": {
     "route": {
@@ -2521,17 +2521,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-04T13:05:23.059524Z"
-  },
-  "AFR12DD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-03T10:35:22.138784Z"
   },
   "TKJ2JY": {
     "route": {
@@ -5848,17 +5837,6 @@
     },
     "checked_at": "2026-10-04T16:40:32.023461Z"
   },
-  "RYR8PJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T10:35:22.138784Z"
-  },
   "CTN4408": {
     "route": {
       "fromCity": "Zagreb",
@@ -6296,14 +6274,6 @@
   "BPO701": {
     "route": null,
     "checked_at": "2026-10-04T12:30:40.789124Z"
-  },
-  "DMRBW": {
-    "route": null,
-    "checked_at": "2026-10-03T10:35:22.138784Z"
-  },
-  "DFKAE": {
-    "route": null,
-    "checked_at": "2026-10-03T10:35:22.138784Z"
   },
   "SAS7702": {
     "route": {
@@ -13221,5 +13191,42 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-05T10:30:45.364903Z"
+  },
+  "NSZ2621": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T10:35:24.651362Z"
+  },
+  "NSZ5421": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T10:35:24.651362Z"
+  },
+  "EJU49AU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T10:35:24.651362Z"
+  },
+  "CAT760": {
+    "route": null,
+    "checked_at": "2026-10-05T10:35:24.651362Z"
   }
 }
