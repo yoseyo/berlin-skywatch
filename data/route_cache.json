@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-05T06:40:32.410576Z"
+    "checked_at": "2026-10-05T19:10:55.125792Z"
   },
   "KLM84H": {
     "route": {
@@ -934,7 +934,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-04T18:55:21.546792Z"
+    "checked_at": "2026-10-05T19:10:55.125792Z"
   },
   "NOZ9VF": {
     "route": {
@@ -3442,7 +3442,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T19:00:50.992296Z"
+    "checked_at": "2026-10-05T19:10:55.125792Z"
   },
   "UAE98V": {
     "route": {
@@ -3887,7 +3887,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T19:15:28.304957Z"
+    "checked_at": "2026-10-05T19:10:55.125792Z"
   },
   "DLH5CK": {
     "route": {
@@ -5360,7 +5360,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T11:10:27.989400Z"
+    "checked_at": "2026-10-05T19:10:55.125792Z"
   },
   "N66HR": {
     "route": null,
@@ -6309,50 +6309,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-04T17:55:22.962649Z"
-  },
-  "SAS6272": {
-    "route": {
-      "fromCity": "Newquay",
-      "fromIata": "NQY",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T19:10:30.156168Z"
-  },
-  "NOZ1275": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Stavanger",
-      "toIata": "SVG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-03T19:10:30.156168Z"
-  },
-  "RYR93BJ": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T19:10:30.156168Z"
-  },
-  "SDR16XK": {
-    "route": {
-      "fromCity": "Monastir",
-      "fromIata": "MIR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T19:10:30.156168Z"
   },
   "SDR17HL": {
     "route": null,
@@ -13279,5 +13235,16 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-05T19:05:34.065533Z"
+  },
+  "RYR9UM": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Brindisi",
+      "toIata": "BDS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T19:10:55.125792Z"
   }
 }
