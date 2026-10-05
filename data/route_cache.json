@@ -1624,7 +1624,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T07:30:40.094885Z"
+    "checked_at": "2026-10-05T07:25:22.943552Z"
   },
   "LOT2CM": {
     "route": {
@@ -1802,17 +1802,6 @@
     },
     "checked_at": "2026-10-05T06:30:39.888710Z"
   },
-  "DLH7HP": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T07:25:21.461804Z"
-  },
   "THY4VH": {
     "route": {
       "fromCity": "\u0130zmir",
@@ -1822,7 +1811,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T07:25:24.092131Z"
+    "checked_at": "2026-10-05T07:25:22.943552Z"
   },
   "TVF88JV": {
     "route": null,
@@ -3097,7 +3086,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T07:20:29.619914Z"
+    "checked_at": "2026-10-05T07:25:22.943552Z"
   },
   "KLC42X": {
     "route": {
@@ -4806,17 +4795,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T07:35:22.370845Z"
-  },
-  "ASL19P": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-03T07:25:21.461804Z"
   },
   "LHX178": {
     "route": {
@@ -13241,5 +13219,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T07:20:28.953772Z"
+  },
+  "LHX9JC": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T07:25:22.943552Z"
   }
 }
