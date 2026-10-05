@@ -1837,7 +1837,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T07:15:47.091539Z"
+    "checked_at": "2026-10-05T07:15:29.411232Z"
   },
   "RYR12EJ": {
     "route": {
@@ -3607,7 +3607,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T06:55:22.061618Z"
+    "checked_at": "2026-10-05T07:15:29.411232Z"
   },
   "EJU69DQ": {
     "route": {
@@ -4339,7 +4339,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-03T20:00:49.781819Z"
+    "checked_at": "2026-10-05T07:15:29.411232Z"
   },
   "TSC418": {
     "route": {
@@ -4383,7 +4383,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T12:20:28.704662Z"
+    "checked_at": "2026-10-05T07:15:29.411232Z"
   },
   "EZY18ZQ": {
     "route": {
@@ -5511,7 +5511,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-03T15:45:27.411512Z"
+    "checked_at": "2026-10-05T07:15:29.411232Z"
   },
   "DISAG": {
     "route": null,
@@ -6326,17 +6326,6 @@
   "DIBFS": {
     "route": null,
     "checked_at": "2026-10-04T16:10:29.058037Z"
-  },
-  "EJU73KU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T07:15:29.042755Z"
   },
   "AEE7CH": {
     "route": {
@@ -13215,5 +13204,16 @@
   "DFEFY": {
     "route": null,
     "checked_at": "2026-10-05T07:10:32.940726Z"
+  },
+  "LOT392": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-05T07:15:29.411232Z"
   }
 }
