@@ -2120,7 +2120,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T09:05:24.508013Z"
+    "checked_at": "2026-10-05T09:10:33.354966Z"
   },
   "AEE8RB": {
     "route": {
@@ -2153,7 +2153,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T09:10:28.660323Z"
+    "checked_at": "2026-10-05T09:10:33.354966Z"
   },
   "RYR4TC": {
     "route": {
@@ -3674,7 +3674,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T09:15:33.493553Z"
+    "checked_at": "2026-10-05T09:10:33.354966Z"
   },
   "EWG5EZ": {
     "route": {
@@ -6270,17 +6270,6 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
-  "NIA8601": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-03T09:10:28.527162Z"
   },
   "NOZ1923": {
     "route": {
@@ -13147,5 +13136,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T09:05:25.790924Z"
+  },
+  "DMTWH": {
+    "route": null,
+    "checked_at": "2026-10-05T09:10:33.354966Z"
+  },
+  "TKJ35Z": {
+    "route": {
+      "fromCity": "A\u011fr\u0131",
+      "fromIata": "AJI",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-05T09:10:33.354966Z"
+  },
+  "RYR89YH": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T09:10:33.354966Z"
   }
 }
