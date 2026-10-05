@@ -3112,7 +3112,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T15:10:27.525869Z"
+    "checked_at": "2026-10-05T15:05:24.715855Z"
   },
   "EJU51HZ": {
     "route": {
@@ -4702,7 +4702,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T09:10:28.660323Z"
+    "checked_at": "2026-10-05T15:05:24.715855Z"
   },
   "LHX179": {
     "route": {
@@ -6283,28 +6283,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T14:30:42.504608Z"
-  },
-  "SAS4805": {
-    "route": {
-      "fromCity": "Trondheim",
-      "fromIata": "TRD",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T15:05:24.360421Z"
-  },
-  "CFG7VT": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T15:05:24.360421Z"
   },
   "CFC2907": {
     "route": null,
@@ -13105,5 +13083,46 @@
   "PTO6627": {
     "route": null,
     "checked_at": "2026-10-05T15:00:56.220532Z"
+  },
+  "DKFBZ": {
+    "route": null,
+    "checked_at": "2026-10-05T15:05:24.715855Z"
+  },
+  "FIN45M": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-05T15:05:24.715855Z"
+  },
+  "RYR57AE": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T15:05:24.715855Z"
+  },
+  "RYR7664": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T15:05:24.715855Z"
+  },
+  "AXY455S": {
+    "route": null,
+    "checked_at": "2026-10-05T15:05:24.715855Z"
   }
 }
