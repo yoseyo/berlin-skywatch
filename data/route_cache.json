@@ -1429,7 +1429,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T05:20:28.433500Z"
+    "checked_at": "2026-10-05T05:20:28.537780Z"
   },
   "BEL8YE": {
     "route": {
@@ -1473,7 +1473,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-04T05:20:28.433500Z"
+    "checked_at": "2026-10-05T05:20:28.537780Z"
   },
   "CHX49": {
     "route": null,
@@ -5456,7 +5456,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T05:25:25.578632Z"
+    "checked_at": "2026-10-05T05:20:28.537780Z"
   },
   "WMT9NH": {
     "route": {
@@ -6388,17 +6388,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T04:50:27.603429Z"
-  },
-  "NOZ8BF": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-03T05:20:27.792333Z"
   },
   "BTI7PY": {
     "route": {
@@ -7916,7 +7905,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T13:20:28.362821Z"
+    "checked_at": "2026-10-05T05:20:28.537780Z"
   },
   "JSF344": {
     "route": null,
@@ -13136,5 +13125,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-05T05:15:30.718972Z"
+  },
+  "EWG66Y": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T05:20:28.537780Z"
+  },
+  "RYR4311": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Rovaniemi",
+      "toIata": "RVN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T05:20:28.537780Z"
   }
 }
