@@ -1374,7 +1374,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-04T04:45:28.014615Z"
+    "checked_at": "2026-10-05T04:50:31.897507Z"
   },
   "DLH4RL": {
     "route": {
@@ -1396,7 +1396,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T05:00:51.612582Z"
+    "checked_at": "2026-10-05T04:50:31.897507Z"
   },
   "DAL92": {
     "route": {
@@ -4848,17 +4848,6 @@
     },
     "checked_at": "2026-10-04T16:15:28.814611Z"
   },
-  "NSZ3288": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T04:50:28.795814Z"
-  },
   "WZZ1BD": {
     "route": {
       "fromCity": "Timi\u015foara",
@@ -6419,17 +6408,6 @@
     },
     "checked_at": "2026-10-04T05:55:23.267035Z"
   },
-  "RYR85KH": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T04:50:28.795814Z"
-  },
   "DLH9YA": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6681,7 +6659,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-03T06:40:27.676439Z"
+    "checked_at": "2026-10-05T04:50:31.897507Z"
   },
   "EWG90V": {
     "route": {
@@ -13133,5 +13111,27 @@
   "CAT759": {
     "route": null,
     "checked_at": "2026-10-05T04:45:29.911682Z"
+  },
+  "NSZ2900": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T04:50:31.897507Z"
+  },
+  "AUA221V": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T04:50:31.897507Z"
   }
 }
