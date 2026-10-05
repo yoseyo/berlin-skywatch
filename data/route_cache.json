@@ -1477,7 +1477,7 @@
   },
   "CHX49": {
     "route": null,
-    "checked_at": "2026-10-04T10:10:30.455201Z"
+    "checked_at": "2026-10-05T12:50:33.039154Z"
   },
   "DLH4UV": {
     "route": {
@@ -3053,7 +3053,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T13:05:23.059524Z"
+    "checked_at": "2026-10-05T12:50:33.039154Z"
   },
   "UAE57X": {
     "route": {
@@ -4427,7 +4427,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-04T12:45:29.339209Z"
+    "checked_at": "2026-10-05T12:50:33.039154Z"
   },
   "SWU1951": {
     "route": {
@@ -4603,7 +4603,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T07:30:40.094885Z"
+    "checked_at": "2026-10-05T12:50:33.039154Z"
   },
   "BTI4XH": {
     "route": {
@@ -6261,17 +6261,6 @@
     },
     "checked_at": "2026-10-04T12:20:28.704662Z"
   },
-  "EJU5367": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T12:50:28.394094Z"
-  },
   "DLH5N": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6282,10 +6271,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T12:50:30.510814Z"
-  },
-  "NJE081A": {
-    "route": null,
-    "checked_at": "2026-10-03T12:50:28.394094Z"
   },
   "VOE9CC": {
     "route": {
@@ -13162,5 +13147,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T12:45:29.766694Z"
+  },
+  "DLH891": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T12:50:33.039154Z"
+  },
+  "DIAPC": {
+    "route": null,
+    "checked_at": "2026-10-05T12:50:33.039154Z"
+  },
+  "SAS7947": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T12:50:33.039154Z"
   }
 }
