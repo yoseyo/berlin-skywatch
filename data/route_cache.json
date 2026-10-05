@@ -229,7 +229,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-04T15:40:28.164338Z"
+    "checked_at": "2026-10-05T14:50:31.163218Z"
   },
   "KLM1779": {
     "route": {
@@ -240,7 +240,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T14:35:24.016371Z"
+    "checked_at": "2026-10-05T14:50:31.163218Z"
   },
   "EJU81FH": {
     "route": {
@@ -251,7 +251,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T15:20:28.176613Z"
+    "checked_at": "2026-10-05T14:50:31.163218Z"
   },
   "TKJ9NQ": {
     "route": {
@@ -420,7 +420,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T16:30:39.020562Z"
+    "checked_at": "2026-10-05T14:50:31.163218Z"
   },
   "DLH2XC": {
     "route": {
@@ -4878,7 +4878,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T14:35:24.016371Z"
+    "checked_at": "2026-10-05T14:50:31.163218Z"
   },
   "EJU12QE": {
     "route": {
@@ -6273,17 +6273,6 @@
     "route": null,
     "checked_at": "2026-10-05T05:00:51.244630Z"
   },
-  "NSZ3530": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T14:50:29.445198Z"
-  },
   "WZZ63KR": {
     "route": {
       "fromCity": "Dortmund",
@@ -6294,17 +6283,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T14:30:42.504608Z"
-  },
-  "VKG543": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-03T14:50:29.445198Z"
   },
   "NSZ4VC": {
     "route": {
@@ -13135,5 +13113,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T14:40:32.975664Z"
+  },
+  "N7777Q": {
+    "route": null,
+    "checked_at": "2026-10-05T14:50:31.163218Z"
+  },
+  "DLH4RK": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T14:50:31.163218Z"
   }
 }
