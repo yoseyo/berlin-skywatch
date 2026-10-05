@@ -508,7 +508,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-04T17:00:48.128292Z"
+    "checked_at": "2026-10-05T17:10:32.065323Z"
   },
   "PGT49PK": {
     "route": {
@@ -714,7 +714,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T16:15:28.814611Z"
+    "checked_at": "2026-10-05T17:10:32.065323Z"
   },
   "LOT3KT": {
     "route": {
@@ -4104,7 +4104,7 @@
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-10-04T17:25:25.985428Z"
+    "checked_at": "2026-10-05T17:10:32.065323Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -6283,21 +6283,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-04T16:10:29.058037Z"
-  },
-  "RYR9092": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T17:05:24.902905Z"
-  },
-  "VJT732": {
-    "route": null,
-    "checked_at": "2026-10-03T17:10:29.017338Z"
   },
   "NOZ1910": {
     "route": {
@@ -13230,5 +13215,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-05T17:05:24.864910Z"
+  },
+  "EJU83XU": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T17:10:32.065323Z"
+  },
+  "RYR3U": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Girona",
+      "toIata": "GRO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T17:10:32.065323Z"
+  },
+  "WZZ8FN": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-05T17:10:32.065323Z"
   }
 }
