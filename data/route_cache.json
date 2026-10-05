@@ -1499,7 +1499,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T04:55:22.509115Z"
+    "checked_at": "2026-10-05T11:40:30.765999Z"
   },
   "QTR29X": {
     "route": {
@@ -2869,7 +2869,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-04T11:25:22.058185Z"
+    "checked_at": "2026-10-05T11:40:30.765999Z"
   },
   "MSR731": {
     "route": {
@@ -3027,7 +3027,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-03T17:30:39.235541Z"
+    "checked_at": "2026-10-05T11:40:30.765999Z"
   },
   "EJU69MZ": {
     "route": null,
@@ -3211,7 +3211,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T10:10:30.455201Z"
+    "checked_at": "2026-10-05T11:40:30.765999Z"
   },
   "TAP53EI": {
     "route": {
@@ -4812,7 +4812,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T11:45:27.915999Z"
+    "checked_at": "2026-10-05T11:40:30.765999Z"
   },
   "SEH874": {
     "route": {
@@ -6293,39 +6293,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-05T11:25:24.366368Z"
-  },
-  "EJU32FG": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T11:35:57.916990Z"
-  },
-  "AIC190": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "New Delhi",
-      "toIata": "DEL",
-      "airlineName": "Air India",
-      "airlineCountry": "India"
-    },
-    "checked_at": "2026-10-03T11:40:27.385029Z"
-  },
-  "FIN98J": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-03T11:40:27.385029Z"
   },
   "TAP3335": {
     "route": {
@@ -13221,5 +13188,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T11:35:23.859914Z"
+  },
+  "EJU17HZ": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T11:40:30.765999Z"
+  },
+  "THY1JU": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-05T11:40:30.765999Z"
   }
 }
