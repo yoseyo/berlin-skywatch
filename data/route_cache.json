@@ -3964,7 +3964,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-04T06:45:31.726760Z"
+    "checked_at": "2026-10-05T12:00:56.024321Z"
   },
   "TAP532B": {
     "route": {
@@ -5468,17 +5468,6 @@
     },
     "checked_at": "2026-10-04T12:00:50.446883Z"
   },
-  "RYR48VZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T12:00:47.346843Z"
-  },
   "EJU5014": {
     "route": {
       "fromCity": "Rhodes Island",
@@ -6271,32 +6260,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-04T12:35:22.549682Z"
-  },
-  "DEEWC": {
-    "route": null,
-    "checked_at": "2026-10-03T12:00:47.346843Z"
-  },
-  "RJA147": {
-    "route": {
-      "fromCity": "Amman",
-      "fromIata": "AMM",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Royal Jordanian",
-      "airlineCountry": "Jordan"
-    },
-    "checked_at": "2026-10-03T12:00:47.346843Z"
-  },
-  "RYR5VH": {
-    "route": {
-      "fromCity": "Paphos",
-      "fromIata": "PFO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T12:00:47.346843Z"
   },
   "EWG26K": {
     "route": {
@@ -13180,5 +13143,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T11:55:24.419210Z"
+  },
+  "FIN4ER": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-05T12:00:56.024321Z"
+  },
+  "DCUVH": {
+    "route": null,
+    "checked_at": "2026-10-05T12:00:56.024321Z"
+  },
+  "AUA97F": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T12:00:56.024321Z"
   }
 }
