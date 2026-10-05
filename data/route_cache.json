@@ -534,7 +534,7 @@
   },
   "WZZ98RS": {
     "route": null,
-    "checked_at": "2026-10-04T17:25:25.985428Z"
+    "checked_at": "2026-10-05T15:45:31.986534Z"
   },
   "DLH1KY": {
     "route": {
@@ -5518,7 +5518,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-04T15:20:28.176613Z"
+    "checked_at": "2026-10-05T15:45:31.986534Z"
   },
   "RYR28LA": {
     "route": {
@@ -6283,17 +6283,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T14:30:42.504608Z"
-  },
-  "NSZ3298": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T15:45:27.411512Z"
   },
   "TAP3332": {
     "route": {
@@ -13160,5 +13149,42 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-05T15:41:06.516820Z"
+  },
+  "SAS71T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-05T15:45:31.986534Z"
+  },
+  "CFG003": {
+    "route": null,
+    "checked_at": "2026-10-05T15:45:31.986534Z"
+  },
+  "RYR938": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T15:45:31.986534Z"
+  },
+  "RYR2SW": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T15:45:31.986534Z"
   }
 }
