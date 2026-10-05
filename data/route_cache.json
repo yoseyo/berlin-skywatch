@@ -111,7 +111,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T12:35:22.549682Z"
+    "checked_at": "2026-10-05T14:00:52.583611Z"
   },
   "AUA21P": {
     "route": {
@@ -122,7 +122,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T13:55:24.472830Z"
+    "checked_at": "2026-10-05T14:00:52.583611Z"
   },
   "RYR96EU": {
     "route": {
@@ -4823,7 +4823,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-04T13:05:23.059524Z"
+    "checked_at": "2026-10-05T14:00:52.583611Z"
   },
   "CCA935": {
     "route": {
@@ -6290,28 +6290,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-04T14:15:27.227033Z"
-  },
-  "DLH9897": {
-    "route": {
-      "fromCity": "Everett",
-      "fromIata": "PAE",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T14:00:49.103794Z"
-  },
-  "CTN433": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-03T14:00:49.103794Z"
   },
   "GAF748": {
     "route": null,
@@ -9788,7 +9766,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T15:20:28.176613Z"
+    "checked_at": "2026-10-05T14:00:52.583611Z"
   },
   "JTD503": {
     "route": {
@@ -13123,5 +13101,27 @@
   "AXY559G": {
     "route": null,
     "checked_at": "2026-10-05T13:50:32.355411Z"
+  },
+  "CCA931": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-05T14:00:52.583611Z"
+  },
+  "CFG7MA": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T14:00:52.583611Z"
   }
 }
