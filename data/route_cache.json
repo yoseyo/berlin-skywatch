@@ -2362,7 +2362,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T19:35:22.404592Z"
+    "checked_at": "2026-10-05T11:05:25.173136Z"
   },
   "RYR4PT": {
     "route": {
@@ -2553,7 +2553,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T11:50:28.996322Z"
+    "checked_at": "2026-10-05T11:05:25.173136Z"
   },
   "RYR6UR": {
     "route": {
@@ -4142,17 +4142,6 @@
   "AFR38LQ": {
     "route": null,
     "checked_at": "2026-10-04T18:35:22.611636Z"
-  },
-  "RYR415W": {
-    "route": {
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-03T11:05:22.425207Z"
   },
   "TAP4BE": {
     "route": {
@@ -6283,17 +6272,6 @@
     },
     "checked_at": "2026-10-04T11:45:27.915999Z"
   },
-  "SAS7328": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-03T11:05:22.425207Z"
-  },
   "DHEVY": {
     "route": null,
     "checked_at": "2026-10-03T11:10:28.239893Z"
@@ -7491,7 +7469,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-03T17:20:28.664188Z"
+    "checked_at": "2026-10-05T11:05:25.173136Z"
   },
   "NSZ4327": {
     "route": {
@@ -13210,5 +13188,16 @@
   "QAJ9": {
     "route": null,
     "checked_at": "2026-10-05T11:00:55.813513Z"
+  },
+  "NOZ1869": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-05T11:05:25.173136Z"
   }
 }
