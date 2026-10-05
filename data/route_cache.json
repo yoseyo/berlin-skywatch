@@ -6323,10 +6323,6 @@
     },
     "checked_at": "2026-10-04T09:00:53.883529Z"
   },
-  "PHMUE": {
-    "route": null,
-    "checked_at": "2026-10-03T07:55:23.778402Z"
-  },
   "UAL82": {
     "route": {
       "fromCity": "New York",
@@ -6337,28 +6333,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-04T07:35:22.370845Z"
-  },
-  "CFG1RD": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-03T07:55:23.778402Z"
-  },
-  "CTN284E": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-03T07:55:23.778402Z"
   },
   "LOT4NC": {
     "route": {
@@ -9423,7 +9397,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-10-04T07:40:30.520315Z"
+    "checked_at": "2026-10-05T07:55:24.715316Z"
   },
   "VLG9PX": {
     "route": {
@@ -13226,5 +13200,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T07:50:31.333046Z"
+  },
+  "DLH9WF": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-05T07:55:24.715316Z"
   }
 }
