@@ -1947,7 +1947,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-04T07:55:23.526150Z"
+    "checked_at": "2026-10-05T08:15:32.330958Z"
   },
   "DLH175": {
     "route": {
@@ -1980,7 +1980,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-04T08:05:25.614061Z"
+    "checked_at": "2026-10-05T08:15:32.330958Z"
   },
   "AUA225B": {
     "route": {
@@ -1991,7 +1991,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T08:10:31.150919Z"
+    "checked_at": "2026-10-05T08:15:32.330958Z"
   },
   "EJU32JG": {
     "route": {
@@ -2024,7 +2024,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-04T08:45:29.149108Z"
+    "checked_at": "2026-10-05T08:15:32.330958Z"
   },
   "BAW42PB": {
     "route": {
@@ -2046,7 +2046,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-04T08:15:30.718044Z"
+    "checked_at": "2026-10-05T08:15:32.330958Z"
   },
   "WUK7BU": {
     "route": null,
@@ -6311,28 +6311,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-04T07:35:22.370845Z"
-  },
-  "EJU84TJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T08:15:27.635054Z"
-  },
-  "AUA97F": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-03T08:15:27.635054Z"
   },
   "RUK7547": {
     "route": {
@@ -13204,5 +13182,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-05T08:10:34.877590Z"
+  },
+  "BTI8ED": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-05T08:15:32.330958Z"
+  },
+  "EJU43CX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T08:15:32.330958Z"
   }
 }
