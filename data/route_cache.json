@@ -1914,7 +1914,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-04T08:05:25.614061Z"
+    "checked_at": "2026-10-05T08:00:55.643872Z"
   },
   "KLM31X": {
     "route": {
@@ -1969,7 +1969,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T08:05:25.614061Z"
+    "checked_at": "2026-10-05T08:00:55.643872Z"
   },
   "DAL93": {
     "route": {
@@ -2035,7 +2035,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-04T08:00:53.276267Z"
+    "checked_at": "2026-10-05T08:00:55.643872Z"
   },
   "IBE07TT": {
     "route": {
@@ -3597,17 +3597,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-05T04:40:28.507754Z"
-  },
-  "BTI8ED": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-03T07:59:10.549636Z"
   },
   "SAS1674": {
     "route": {
@@ -6049,7 +6038,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T14:55:21.118027Z"
+    "checked_at": "2026-10-05T08:00:55.643872Z"
   },
   "CTN4409": {
     "route": {
@@ -6333,17 +6322,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-04T07:35:22.370845Z"
-  },
-  "LOT4NC": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-03T07:59:10.549636Z"
   },
   "DLH5PN": {
     "route": {
@@ -13211,5 +13189,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T07:55:24.715316Z"
+  },
+  "ASL84D": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-05T08:00:55.643872Z"
   }
 }
