@@ -600,7 +600,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-04T10:35:22.436438Z"
+    "checked_at": "2026-10-05T19:16:34.597838Z"
   },
   "TVF89NN": {
     "route": null,
@@ -945,7 +945,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-04T19:00:50.992296Z"
+    "checked_at": "2026-10-05T19:16:34.597838Z"
   },
   "SXS6XP": {
     "route": {
@@ -4438,7 +4438,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-04T19:05:22.420230Z"
+    "checked_at": "2026-10-05T19:16:34.597838Z"
   },
   "DLH8PN": {
     "route": {
@@ -6309,10 +6309,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-04T17:55:22.962649Z"
-  },
-  "SDR17HL": {
-    "route": null,
-    "checked_at": "2026-10-03T19:15:27.718810Z"
   },
   "EUW5228": {
     "route": null,
@@ -13246,5 +13242,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T19:10:55.125792Z"
+  },
+  "EJU38DP": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-05T19:16:34.597838Z"
+  },
+  "PBB16": {
+    "route": null,
+    "checked_at": "2026-10-05T19:16:34.597838Z"
+  },
+  "RYR28BE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-05T19:16:34.597838Z"
+  },
+  "LOT7EG": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Goleniow",
+      "toIata": "SZZ",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-05T19:16:34.597838Z"
   }
 }
