@@ -1,4 +1,44 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-06T01:45:30.563167Z"
+  "flights": [
+    {
+      "callsign": "ELY005",
+      "country": "Israel",
+      "lat": 52.3768,
+      "lon": 12.8789,
+      "altKm": 11.4,
+      "speedKmh": 889,
+      "heading": 318,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS1HF",
+      "country": "Turkey",
+      "lat": 52.3631,
+      "lon": 14.0623,
+      "altKm": 12.0,
+      "speedKmh": 794,
+      "heading": 342,
+      "vertRateMs": 0,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.6018,
+      "lon": 13.5777,
+      "altKm": 0.1,
+      "speedKmh": 82,
+      "heading": 95,
+      "vertRateMs": 1.6,
+      "category": "heli"
+    }
+  ],
+  "updated_at": "2026-10-06T01:50:30.554848Z"
 }
