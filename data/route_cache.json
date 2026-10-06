@@ -4504,7 +4504,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-10-05T18:15:29.579694Z"
+    "checked_at": "2026-10-06T18:15:31.027109Z"
   },
   "RYR70FL": {
     "route": {
@@ -5114,10 +5114,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-06T09:00:56.378489Z"
-  },
-  "BPO703": {
-    "route": null,
-    "checked_at": "2026-10-04T18:15:28.121461Z"
   },
   "SXS8HN": {
     "route": {
@@ -6121,28 +6117,6 @@
     },
     "checked_at": "2026-10-05T20:10:33.849797Z"
   },
-  "QTR24E": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-04T18:15:28.121461Z"
-  },
-  "SWR500V": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-04T18:15:28.121461Z"
-  },
   "LGL9473": {
     "route": {
       "fromCity": "Luxembourg",
@@ -6189,7 +6163,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T18:35:22.611636Z"
+    "checked_at": "2026-10-06T18:15:31.027109Z"
   },
   "RYR392T": {
     "route": {
@@ -6362,7 +6336,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-05T19:46:48.306583Z"
+    "checked_at": "2026-10-06T18:15:31.027109Z"
   },
   "KMM377": {
     "route": null,
@@ -12410,5 +12384,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T18:10:32.230270Z"
+  },
+  "WZZ46": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-06T18:15:31.027109Z"
+  },
+  "RYR2NB": {
+    "route": {
+      "fromCity": "Torp",
+      "fromIata": "TRF",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T18:15:31.027109Z"
+  },
+  "DLH7PF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T18:15:31.027109Z"
   }
 }
