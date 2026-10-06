@@ -4577,7 +4577,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T12:45:29.766694Z"
+    "checked_at": "2026-10-06T12:35:23.620676Z"
   },
   "FIN33A": {
     "route": {
@@ -5436,17 +5436,6 @@
     },
     "checked_at": "2026-10-05T11:25:24.366368Z"
   },
-  "TAP3335": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-04T12:35:22.549682Z"
-  },
   "DLH5N": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6083,21 +6072,6 @@
   "GAF160": {
     "route": null,
     "checked_at": "2026-10-05T06:10:32.870363Z"
-  },
-  "RYR2282": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T12:35:22.549682Z"
-  },
-  "CAT734": {
-    "route": null,
-    "checked_at": "2026-10-04T12:35:22.549682Z"
   },
   "WZZ40LC": {
     "route": {
@@ -9737,7 +9711,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T11:55:24.419210Z"
+    "checked_at": "2026-10-06T12:35:23.620676Z"
   },
   "RYR74EM": {
     "route": {
@@ -12812,5 +12786,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T12:25:25.545507Z"
+  },
+  "NOZ8UD": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-06T12:35:23.620676Z"
+  },
+  "SXS678": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-06T12:35:23.620676Z"
   }
 }
