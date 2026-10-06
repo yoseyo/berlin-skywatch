@@ -4148,7 +4148,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T19:25:43.692518Z"
+    "checked_at": "2026-10-06T19:10:33.462498Z"
   },
   "EZS67CP": {
     "route": {
@@ -4559,7 +4559,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-05T19:35:56.725592Z"
+    "checked_at": "2026-10-06T19:10:33.462498Z"
   },
   "NSZ3305": {
     "route": {
@@ -6139,28 +6139,6 @@
     },
     "checked_at": "2026-10-05T18:40:31.759002Z"
   },
-  "BTI6CD": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-04T19:10:28.718471Z"
-  },
-  "BTI89U": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-04T19:10:28.718471Z"
-  },
   "BTI6UQ": {
     "route": {
       "fromCity": "Munich",
@@ -6295,7 +6273,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-04T19:55:24.011604Z"
+    "checked_at": "2026-10-06T19:10:33.462498Z"
   },
   "SXS7JT": {
     "route": {
@@ -12384,5 +12362,20 @@
   "SXS7XE": {
     "route": null,
     "checked_at": "2026-10-06T19:05:26.803165Z"
+  },
+  "DLH898": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T19:10:33.462498Z"
+  },
+  "SDR84QF": {
+    "route": null,
+    "checked_at": "2026-10-06T19:10:33.462498Z"
   }
 }
