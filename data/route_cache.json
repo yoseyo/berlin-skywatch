@@ -6084,17 +6084,6 @@
     },
     "checked_at": "2026-10-05T11:50:34.251257Z"
   },
-  "CSH870": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "Shanghai Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-04T11:55:22.022884Z"
-  },
   "NSZ3351": {
     "route": {
       "fromCity": "Souda",
@@ -6115,7 +6104,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-05T11:25:24.366368Z"
+    "checked_at": "2026-10-06T11:55:29.876672Z"
   },
   "NOZ2WA": {
     "route": {
@@ -12905,5 +12894,27 @@
   "DFEBJ": {
     "route": null,
     "checked_at": "2026-10-06T11:50:36.070780Z"
+  },
+  "RYR7547": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T11:55:29.876672Z"
+  },
+  "RYR4DY": {
+    "route": {
+      "fromCity": "Lamezia Terme (CZ)",
+      "fromIata": "SUF",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T11:55:29.876672Z"
   }
 }
