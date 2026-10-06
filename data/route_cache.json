@@ -791,7 +791,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-05T18:35:27.859642Z"
+    "checked_at": "2026-10-06T18:40:40.753721Z"
   },
   "PGT984": {
     "route": {
@@ -6127,17 +6127,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-06T18:15:31.027109Z"
-  },
-  "EJU83LH": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-04T18:40:29.202003Z"
   },
   "BTI4UJ": {
     "route": {
@@ -12402,5 +12391,16 @@
   "QAV30E": {
     "route": null,
     "checked_at": "2026-10-06T18:30:46.241677Z"
+  },
+  "SXS5NH": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-06T18:40:40.753721Z"
   }
 }
