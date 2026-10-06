@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-05T19:10:55.125792Z"
+    "checked_at": "2026-10-06T07:15:35.104802Z"
   },
   "KLM84H": {
     "route": {
@@ -207,7 +207,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-10-05T07:45:31.984808Z"
+    "checked_at": "2026-10-06T07:15:35.104802Z"
   },
   "DLH192": {
     "route": {
@@ -1793,7 +1793,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-05T07:15:29.411232Z"
+    "checked_at": "2026-10-06T07:15:35.104802Z"
   },
   "RYR12EJ": {
     "route": {
@@ -1815,7 +1815,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-05T07:30:43.777243Z"
+    "checked_at": "2026-10-06T07:15:35.104802Z"
   },
   "NSZ89C": {
     "route": {
@@ -13032,5 +13032,27 @@
   "GAF142": {
     "route": null,
     "checked_at": "2026-10-06T07:05:26.109871Z"
+  },
+  "RYR7JF": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T07:15:35.104802Z"
+  },
+  "CXI8E": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Nuremberg",
+      "toIata": "NUE",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-06T07:15:35.104802Z"
   }
 }
