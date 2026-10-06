@@ -1969,7 +1969,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-05T08:15:32.330958Z"
+    "checked_at": "2026-10-06T08:25:26.218311Z"
   },
   "BAW42PB": {
     "route": {
@@ -2120,7 +2120,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-05T08:25:26.872544Z"
+    "checked_at": "2026-10-06T08:25:26.218311Z"
   },
   "EWG4EH": {
     "route": {
@@ -6197,10 +6197,6 @@
     },
     "checked_at": "2026-10-06T07:45:45.136700Z"
   },
-  "NJE693P": {
-    "route": null,
-    "checked_at": "2026-10-04T08:25:24.853963Z"
-  },
   "LOT5NA": {
     "route": {
       "fromCity": "Warsaw",
@@ -6210,7 +6206,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T08:30:44.801004Z"
+    "checked_at": "2026-10-06T08:25:26.218311Z"
   },
   "MGH767": {
     "route": {
@@ -9950,7 +9946,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T08:25:26.872544Z"
+    "checked_at": "2026-10-06T08:25:26.218311Z"
   },
   "AUA22FA": {
     "route": {
@@ -12937,5 +12933,27 @@
   "CEF220": {
     "route": null,
     "checked_at": "2026-10-06T08:20:31.423707Z"
+  },
+  "RYR37CU": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T08:25:26.218311Z"
+  },
+  "KLM31X": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-06T08:25:26.218311Z"
   }
 }
