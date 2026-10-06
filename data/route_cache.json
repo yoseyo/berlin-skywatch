@@ -4084,17 +4084,6 @@
     },
     "checked_at": "2026-10-04T15:50:28.451915Z"
   },
-  "SWU1950": {
-    "route": {
-      "fromCity": "Bolzano",
-      "fromIata": "BZO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Swiss European Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-04T12:50:30.510814Z"
-  },
   "BAW91J": {
     "route": {
       "fromCity": "Berlin",
@@ -5414,17 +5403,6 @@
     },
     "checked_at": "2026-10-05T11:25:24.366368Z"
   },
-  "DLH5N": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-04T12:50:30.510814Z"
-  },
   "RYR525H": {
     "route": {
       "fromCity": "Prague",
@@ -6083,10 +6061,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-06T12:25:25.545507Z"
-  },
-  "DMOMC": {
-    "route": null,
-    "checked_at": "2026-10-04T12:50:30.510814Z"
   },
   "DMUPY": {
     "route": null,
@@ -7008,7 +6982,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-05T15:15:31.071245Z"
+    "checked_at": "2026-10-06T12:50:34.557941Z"
   },
   "NJE138Y": {
     "route": null,
@@ -9851,7 +9825,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T12:50:33.039154Z"
+    "checked_at": "2026-10-06T12:50:34.557941Z"
   },
   "DIAPC": {
     "route": null,
@@ -12764,5 +12738,27 @@
   "N747MC": {
     "route": null,
     "checked_at": "2026-10-06T12:40:33.259818Z"
+  },
+  "NSZ4370": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-06T12:50:34.557941Z"
+  },
+  "RYR99FP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T12:50:34.557941Z"
   }
 }
