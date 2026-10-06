@@ -5278,17 +5278,6 @@
     },
     "checked_at": "2026-10-05T13:55:25.492371Z"
   },
-  "EWG72F": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-04T07:25:24.092131Z"
-  },
   "DLH2PM": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6288,10 +6277,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-05T16:15:30.911198Z"
-  },
-  "QGA50P": {
-    "route": null,
-    "checked_at": "2026-10-04T07:25:24.092131Z"
   },
   "WZZ2CE": {
     "route": {
@@ -10045,7 +10030,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T07:25:22.943552Z"
+    "checked_at": "2026-10-06T07:25:25.456143Z"
   },
   "GAF125": {
     "route": null,
@@ -13050,5 +13035,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-06T07:15:35.104802Z"
+  },
+  "DLH7HP": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T07:25:25.456143Z"
+  },
+  "RYR12KD": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T07:25:25.456143Z"
   }
 }
