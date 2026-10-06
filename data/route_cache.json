@@ -714,7 +714,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T17:20:33.384321Z"
+    "checked_at": "2026-10-06T18:20:33.038251Z"
   },
   "AEE8DT": {
     "route": {
@@ -824,7 +824,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T18:00:55.136065Z"
+    "checked_at": "2026-10-06T18:20:33.038251Z"
   },
   "BAW846W": {
     "route": {
@@ -3573,17 +3573,6 @@
     },
     "checked_at": "2026-10-06T17:25:25.108544Z"
   },
-  "BAW845": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-04T18:20:28.049975Z"
-  },
   "FIN50J": {
     "route": {
       "fromCity": "Milan",
@@ -4137,7 +4126,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T17:50:29.669367Z"
+    "checked_at": "2026-10-06T18:20:33.038251Z"
   },
   "EZS83KB": {
     "route": {
@@ -5263,17 +5252,6 @@
     },
     "checked_at": "2026-10-05T11:05:25.173136Z"
   },
-  "AUA972": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-04T18:20:28.049975Z"
-  },
   "KLM1782": {
     "route": {
       "fromCity": "Hamburg",
@@ -6127,21 +6105,6 @@
       "airlineCountry": "Luxembourg"
     },
     "checked_at": "2026-10-06T17:50:31.249915Z"
-  },
-  "MFROG": {
-    "route": null,
-    "checked_at": "2026-10-04T18:20:28.049975Z"
-  },
-  "RYR5WY": {
-    "route": {
-      "fromCity": "Nantes",
-      "fromIata": "NTE",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T18:20:28.049975Z"
   },
   "EWG3V": {
     "route": {
@@ -12417,5 +12380,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T18:15:31.027109Z"
+  },
+  "PGT566B": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-06T18:20:33.038251Z"
+  },
+  "RYR4VG": {
+    "route": {
+      "fromCity": "Belfast",
+      "fromIata": "BFS",
+      "toCity": "Girona",
+      "toIata": "GRO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T18:20:33.038251Z"
+  },
+  "CTN4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-06T18:20:33.038251Z"
   }
 }
