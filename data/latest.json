@@ -1,24 +1,13 @@
 {
   "flights": [
     {
-      "callsign": "SAR7832",
-      "country": "Poland",
-      "lat": 52.5138,
-      "lon": 13.9314,
-      "altKm": 6.0,
-      "speedKmh": 514,
-      "heading": 68,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
       "callsign": "SWR1317",
       "country": "Latvia",
-      "lat": 52.6412,
-      "lon": 13.7052,
+      "lat": 52.1229,
+      "lon": 13.1518,
       "altKm": 11.4,
-      "speedKmh": 825,
-      "heading": 214,
+      "speedKmh": 820,
+      "heading": 213,
       "vertRateMs": 0,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
@@ -29,44 +18,14 @@
       "category": "plane"
     },
     {
-      "callsign": "BCS15N",
-      "country": "Austria",
-      "lat": 52.7291,
-      "lon": 14.0038,
-      "altKm": 9.8,
-      "speedKmh": 820,
-      "heading": 47,
-      "vertRateMs": 0,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "category": "plane"
-    },
-    {
-      "callsign": "SXS8ER",
-      "country": "Turkey",
-      "lat": 52.4046,
-      "lon": 13.6414,
-      "altKm": 0.5,
-      "speedKmh": 266,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "SunExpress",
-      "airlineCountry": "Turkey",
-      "category": "plane"
-    },
-    {
       "callsign": "SWT3WZ",
       "country": "Spain",
-      "lat": 52.4424,
-      "lon": 13.8231,
-      "altKm": 1.2,
-      "speedKmh": 302,
-      "heading": 269,
-      "vertRateMs": -2.6,
+      "lat": 52.3796,
+      "lon": 13.5352,
+      "altKm": 0.1,
+      "speedKmh": 236,
+      "heading": 249,
+      "vertRateMs": -2.3,
       "airline": "Swiftair",
       "airlineCountry": "Spain",
       "fromCity": "Paris",
@@ -74,18 +33,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "BPOBER",
-      "country": "Germany",
-      "lat": 52.6022,
-      "lon": 13.5769,
-      "altKm": 0.1,
-      "speedKmh": 24,
-      "heading": 231,
-      "vertRateMs": -0.7,
-      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-06T03:40:29.854016Z"
+  "updated_at": "2026-10-06T03:45:29.397184Z"
 }
