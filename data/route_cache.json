@@ -2197,7 +2197,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-05T09:40:32.023326Z"
+    "checked_at": "2026-10-06T09:55:24.304813Z"
   },
   "LOT3JA": {
     "route": {
@@ -2274,7 +2274,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-05T10:00:53.829050Z"
+    "checked_at": "2026-10-06T09:55:24.304813Z"
   },
   "RYR9YD": {
     "route": {
@@ -2322,7 +2322,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T10:00:53.829050Z"
+    "checked_at": "2026-10-06T09:55:24.304813Z"
   },
   "CTN481": {
     "route": {
@@ -3534,7 +3534,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-10-05T12:25:24.703585Z"
+    "checked_at": "2026-10-06T09:55:24.304813Z"
   },
   "EJU5088": {
     "route": null,
@@ -6133,17 +6133,6 @@
     },
     "checked_at": "2026-10-06T05:10:34.348190Z"
   },
-  "RYR9504": {
-    "route": {
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "Bristol",
-      "toIata": "BRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T09:55:23.670091Z"
-  },
   "UAE216": {
     "route": {
       "fromCity": "Los Angeles",
@@ -6235,7 +6224,7 @@
       "airlineName": "Azerbaijan Airlines",
       "airlineCountry": "Azerbaijan"
     },
-    "checked_at": "2026-10-04T10:20:31.609510Z"
+    "checked_at": "2026-10-06T09:55:24.304813Z"
   },
   "EJU59RD": {
     "route": {
@@ -12940,5 +12929,27 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-10-06T09:50:32.152960Z"
+  },
+  "EJU96PC": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-06T09:55:24.304813Z"
+  },
+  "EWG44ME": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T09:55:24.304813Z"
   }
 }
