@@ -1,14 +1,59 @@
 {
   "flights": [
     {
+      "callsign": "BCS5959",
+      "country": "Bulgaria",
+      "lat": 52.1521,
+      "lon": 13.9284,
+      "altKm": 9.9,
+      "speedKmh": 804,
+      "heading": 60,
+      "vertRateMs": 8.1,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "category": "plane"
+    },
+    {
+      "callsign": "CES249",
+      "country": "China",
+      "lat": 52.7377,
+      "lon": 13.7777,
+      "altKm": 11.8,
+      "speedKmh": 922,
+      "heading": 213,
+      "vertRateMs": 0,
+      "airline": "China Eastern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "category": "plane"
+    },
+    {
+      "callsign": "SAR7832",
+      "country": "Poland",
+      "lat": 52.2293,
+      "lon": 12.7973,
+      "altKm": 6.0,
+      "speedKmh": 510,
+      "heading": 67,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.5428,
-      "lon": 13.2762,
-      "altKm": 4.0,
-      "speedKmh": 650,
-      "heading": 92,
-      "vertRateMs": -5.5,
+      "lat": 52.4602,
+      "lon": 13.8585,
+      "altKm": 1.3,
+      "speedKmh": 409,
+      "heading": 217,
+      "vertRateMs": -5.2,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -18,5 +63,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-06T03:25:23.745976Z"
+  "updated_at": "2026-10-06T03:30:42.900646Z"
 }
