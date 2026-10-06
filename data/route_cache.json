@@ -2311,7 +2311,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T09:40:32.023326Z"
+    "checked_at": "2026-10-06T09:45:30.866127Z"
   },
   "DLH8N": {
     "route": {
@@ -3222,7 +3222,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-05T09:00:55.271605Z"
+    "checked_at": "2026-10-06T09:45:30.866127Z"
   },
   "RYR1EK": {
     "route": {
@@ -4939,17 +4939,6 @@
     },
     "checked_at": "2026-10-06T09:10:32.297684Z"
   },
-  "MEA245": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-10-04T09:45:30.322616Z"
-  },
   "RYR76WJ": {
     "route": {
       "fromCity": "Berlin",
@@ -6136,14 +6125,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-06T09:15:32.429096Z"
-  },
-  "DMDKR": {
-    "route": null,
-    "checked_at": "2026-10-04T09:45:30.322616Z"
-  },
-  "OEXCP": {
-    "route": null,
-    "checked_at": "2026-10-04T09:45:30.322616Z"
   },
   "SDR78JA": {
     "route": {
@@ -7394,7 +7375,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-04T15:10:27.525869Z"
+    "checked_at": "2026-10-06T09:45:30.866127Z"
   },
   "CFG7NY": {
     "route": {
@@ -10021,7 +10002,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-05T10:00:53.829050Z"
+    "checked_at": "2026-10-06T09:45:30.866127Z"
   },
   "CFG2FR": {
     "route": {
@@ -12952,5 +12933,38 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-06T09:40:33.736464Z"
+  },
+  "SAS4733": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-06T09:45:30.866127Z"
+  },
+  "KLM90Z": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-06T09:45:30.866127Z"
+  },
+  "CAI17QT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-06T09:45:30.866127Z"
   }
 }
