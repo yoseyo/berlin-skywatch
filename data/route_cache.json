@@ -1330,7 +1330,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T04:30:40.308936Z"
+    "checked_at": "2026-10-06T04:45:30.800640Z"
   },
   "KLC80U": {
     "route": {
@@ -1385,7 +1385,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-05T05:45:34.902676Z"
+    "checked_at": "2026-10-06T04:45:30.800640Z"
   },
   "TVF25AT": {
     "route": {
@@ -6317,17 +6317,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T04:45:29.911682Z"
-  },
-  "SDR78KD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T04:45:28.014615Z"
   },
   "CAT331": {
     "route": {
@@ -13096,5 +13085,16 @@
   "HLF8816": {
     "route": null,
     "checked_at": "2026-10-06T04:40:32.982556Z"
+  },
+  "RYR282D": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T04:45:30.800640Z"
   }
 }
