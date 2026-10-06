@@ -2208,7 +2208,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T09:40:32.023326Z"
+    "checked_at": "2026-10-06T09:50:32.152960Z"
   },
   "KLM75C": {
     "route": {
@@ -2285,7 +2285,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T11:05:25.173136Z"
+    "checked_at": "2026-10-06T09:50:32.152960Z"
   },
   "RYR4PT": {
     "route": {
@@ -3189,7 +3189,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-05T07:35:24.033848Z"
+    "checked_at": "2026-10-06T09:50:32.152960Z"
   },
   "UAL963": {
     "route": {
@@ -3530,7 +3530,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T16:00:48.166466Z"
+    "checked_at": "2026-10-06T09:50:32.152960Z"
   },
   "DEHGB": {
     "route": null,
@@ -4715,10 +4715,6 @@
     },
     "checked_at": "2026-10-05T18:40:31.759002Z"
   },
-  "SFG55D": {
-    "route": null,
-    "checked_at": "2026-10-04T09:50:28.832989Z"
-  },
   "LOT285": {
     "route": {
       "fromCity": "Warsaw",
@@ -5536,17 +5532,6 @@
     },
     "checked_at": "2026-10-04T11:05:21.758766Z"
   },
-  "FIN4LK": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-04T09:50:28.832989Z"
-  },
   "BPO701": {
     "route": null,
     "checked_at": "2026-10-04T12:30:40.789124Z"
@@ -5984,7 +5969,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T10:10:31.156195Z"
+    "checked_at": "2026-10-06T09:50:32.152960Z"
   },
   "EWG27P": {
     "route": {
@@ -6125,28 +6110,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-06T09:15:32.429096Z"
-  },
-  "SDR78JA": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T09:50:28.832989Z"
-  },
-  "CFG182": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-04T09:50:28.832989Z"
   },
   "SAS1694": {
     "route": {
@@ -6438,7 +6401,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T11:15:27.070023Z"
+    "checked_at": "2026-10-06T09:50:32.152960Z"
   },
   "DMFIS": {
     "route": null,
@@ -12966,5 +12929,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-06T09:45:30.866127Z"
+  },
+  "MEA245": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-06T09:50:32.152960Z"
   }
 }
