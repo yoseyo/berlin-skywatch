@@ -2065,7 +2065,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-05T09:10:33.354966Z"
+    "checked_at": "2026-10-06T09:05:26.543672Z"
   },
   "AEE8RB": {
     "route": {
@@ -2153,7 +2153,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-05T10:00:53.829050Z"
+    "checked_at": "2026-10-06T09:05:26.543672Z"
   },
   "THY6EN": {
     "route": {
@@ -3222,7 +3222,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-05T09:15:32.469369Z"
+    "checked_at": "2026-10-06T09:05:26.543672Z"
   },
   "WZZ8086": {
     "route": {
@@ -6162,28 +6162,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T08:55:26.102627Z"
-  },
-  "RYR8988": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T09:05:24.508013Z"
-  },
-  "CFG4RY": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-04T09:05:24.508013Z"
   },
   "DMCDR": {
     "route": null,
@@ -12993,5 +12971,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T09:00:56.378489Z"
+  },
+  "WZZ54P": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-06T09:05:26.543672Z"
+  },
+  "CXI59ST": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-06T09:05:26.543672Z"
   }
 }
