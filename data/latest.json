@@ -1,55 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "RYR282D",
-      "country": "Poland",
-      "lat": 52.6727,
-      "lon": 13.7362,
-      "altKm": 11.8,
-      "speedKmh": 831,
-      "heading": 276,
-      "vertRateMs": 5.5,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH8MC",
-      "country": "Germany",
-      "lat": 52.3413,
-      "lon": 13.4518,
-      "altKm": 0.5,
-      "speedKmh": 313,
-      "heading": 247,
-      "vertRateMs": 7.5,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
-      "callsign": "HLF8816",
-      "country": "China",
-      "lat": 52.6803,
-      "lon": 13.552,
-      "altKm": 9.4,
-      "speedKmh": 928,
-      "heading": 41,
-      "vertRateMs": 5.5,
+      "callsign": "IBE07BZ",
+      "country": "Spain",
+      "lat": 52.2424,
+      "lon": 13.2253,
+      "altKm": 2.6,
+      "speedKmh": 501,
+      "heading": 255,
+      "vertRateMs": 14.6,
+      "airline": "Iberia Airlines",
+      "airlineCountry": "Spain",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
       "category": "plane"
     },
     {
       "callsign": "DAL92",
       "country": "United States",
-      "lat": 52.5928,
-      "lon": 13.3876,
-      "altKm": 3.2,
-      "speedKmh": 646,
-      "heading": 100,
-      "vertRateMs": 0.3,
+      "lat": 52.423,
+      "lon": 13.7989,
+      "altKm": 1.2,
+      "speedKmh": 357,
+      "heading": 252,
+      "vertRateMs": -5.5,
       "airline": "Delta Air Lines",
       "airlineCountry": "United States",
       "fromCity": "New York",
@@ -59,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-06T04:45:30.800640Z"
+  "updated_at": "2026-10-06T04:50:31.391414Z"
 }
