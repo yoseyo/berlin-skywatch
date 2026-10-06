@@ -2564,7 +2564,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-05T11:30:44.562290Z"
+    "checked_at": "2026-10-06T11:45:30.685577Z"
   },
   "AUA228T": {
     "route": {
@@ -2685,7 +2685,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-05T12:05:25.714927Z"
+    "checked_at": "2026-10-06T11:45:30.685577Z"
   },
   "SWR1PL": {
     "route": {
@@ -2873,7 +2873,7 @@
   },
   "CHX71": {
     "route": null,
-    "checked_at": "2026-10-05T09:35:23.841467Z"
+    "checked_at": "2026-10-06T11:45:30.685577Z"
   },
   "AFR1235": {
     "route": {
@@ -4946,17 +4946,6 @@
     },
     "checked_at": "2026-10-04T17:15:28.045227Z"
   },
-  "QTR20V": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-04T11:45:27.915999Z"
-  },
   "AUA977F": {
     "route": {
       "fromCity": "Vienna",
@@ -5466,17 +5455,6 @@
     "route": null,
     "checked_at": "2026-10-05T08:35:25.134922Z"
   },
-  "ACA943": {
-    "route": {
-      "fromCity": "Hamilton",
-      "fromIata": "BDA",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-04T11:45:27.915999Z"
-  },
   "SAS2832": {
     "route": {
       "fromCity": "Split",
@@ -5686,10 +5664,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-04T18:20:28.049975Z"
-  },
-  "DCLIK": {
-    "route": null,
-    "checked_at": "2026-10-04T11:45:27.915999Z"
   },
   "KLM1782": {
     "route": {
@@ -6201,7 +6175,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T12:15:27.958773Z"
+    "checked_at": "2026-10-06T11:45:30.685577Z"
   },
   "SDR10XL": {
     "route": {
@@ -12912,5 +12886,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T11:40:33.664939Z"
+  },
+  "MEA246": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-06T11:45:30.685577Z"
+  },
+  "ETD4RL": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-06T11:45:30.685577Z"
   }
 }
