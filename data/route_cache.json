@@ -6092,17 +6092,6 @@
     "route": null,
     "checked_at": "2026-10-05T13:55:25.492371Z"
   },
-  "EJU69RD": {
-    "route": {
-      "fromCity": "Sharm el-Sheikh",
-      "fromIata": "SSH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-04T15:01:00.119571Z"
-  },
   "DERVN": {
     "route": null,
     "checked_at": "2026-10-04T15:05:21.704835Z"
@@ -6344,7 +6333,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-05T15:00:56.220532Z"
+    "checked_at": "2026-10-06T15:01:00.840555Z"
   },
   "RYR5ZE": {
     "route": {
@@ -9576,7 +9565,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-05T14:25:29.021946Z"
+    "checked_at": "2026-10-06T15:01:00.840555Z"
   },
   "CHX35": {
     "route": null,
@@ -12611,5 +12600,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T14:55:25.390479Z"
+  },
+  "CFG5AK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T15:01:00.840555Z"
   }
 }
