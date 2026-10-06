@@ -1925,7 +1925,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T08:00:55.643872Z"
+    "checked_at": "2026-10-06T08:00:55.830641Z"
   },
   "DAL93": {
     "route": {
@@ -3222,7 +3222,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-05T08:20:36.027138Z"
+    "checked_at": "2026-10-06T08:00:55.830641Z"
   },
   "EJU45GF": {
     "route": {
@@ -3564,7 +3564,7 @@
   },
   "EJU5088": {
     "route": null,
-    "checked_at": "2026-10-04T20:35:25.435911Z"
+    "checked_at": "2026-10-06T08:00:55.830641Z"
   },
   "LOT4PJ": {
     "route": {
@@ -6211,39 +6211,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-06T07:35:24.628477Z"
-  },
-  "CAI4AA": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T08:00:53.276267Z"
-  },
-  "RYR87DD": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T08:00:53.276267Z"
-  },
-  "AHY063": {
-    "route": {
-      "fromCity": "Baku",
-      "fromIata": "GYD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-10-04T08:00:53.276267Z"
   },
   "BTI877": {
     "route": {
@@ -10005,7 +9972,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-05T08:15:32.330958Z"
+    "checked_at": "2026-10-06T08:00:55.830641Z"
   },
   "EJU43CX": {
     "route": {
@@ -11751,7 +11718,7 @@
       "airlineName": "Ryanair UK",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-05T16:50:31.060141Z"
+    "checked_at": "2026-10-06T08:00:55.830641Z"
   },
   "TVF51KY": {
     "route": {
@@ -12922,5 +12889,16 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-06T07:50:32.269622Z"
+  },
+  "AFR39SV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-06T08:00:55.830641Z"
   }
 }
