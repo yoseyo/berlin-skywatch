@@ -1712,7 +1712,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T06:30:39.888710Z"
+    "checked_at": "2026-10-06T06:35:26.668420Z"
   },
   "LOT4MH": {
     "route": {
@@ -3947,17 +3947,6 @@
   "ELY005": {
     "route": null,
     "checked_at": "2026-10-06T01:50:30.554848Z"
-  },
-  "AFR1434": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-04T06:35:22.634748Z"
   },
   "FIN6AP": {
     "route": {
@@ -6300,17 +6289,6 @@
     "route": null,
     "checked_at": "2026-10-05T06:40:32.410576Z"
   },
-  "NSZ1VD": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T06:35:22.634748Z"
-  },
   "EJU43RL": {
     "route": {
       "fromCity": "Berlin",
@@ -6321,17 +6299,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-06T05:00:59.286883Z"
-  },
-  "NIA8701": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-04T06:35:22.634748Z"
   },
   "RYR3QE": {
     "route": {
@@ -13035,5 +13002,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T06:30:44.247699Z"
+  },
+  "NSZ2892": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-06T06:35:26.668420Z"
   }
 }
