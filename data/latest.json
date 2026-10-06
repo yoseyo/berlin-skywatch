@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-06T01:25:28.811495Z"
+  "flights": [
+    {
+      "callsign": "BLX718",
+      "country": "Sweden",
+      "lat": 52.6995,
+      "lon": 13.7257,
+      "altKm": 11.4,
+      "speedKmh": 801,
+      "heading": 349,
+      "vertRateMs": 0,
+      "airline": "TUIfly Nordic",
+      "airlineCountry": "Sweden",
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-06T01:30:41.690014Z"
 }
