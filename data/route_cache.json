@@ -4939,10 +4939,6 @@
     },
     "checked_at": "2026-10-05T07:15:29.411232Z"
   },
-  "DISAG": {
-    "route": null,
-    "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
   "DLH880": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -4963,7 +4959,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-04T11:00:53.766093Z"
+    "checked_at": "2026-10-06T09:10:32.297684Z"
   },
   "MEA245": {
     "route": {
@@ -5363,17 +5359,6 @@
     },
     "checked_at": "2026-10-05T08:00:55.643872Z"
   },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
   "RYR1VD": {
     "route": {
       "fromCity": "Stockholm",
@@ -5535,17 +5520,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-06T09:00:56.378489Z"
-  },
-  "UAE220": {
-    "route": {
-      "fromCity": "Orlando",
-      "fromIata": "MCO",
-      "toCity": "Dubai",
-      "toIata": "DXB",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-04T09:10:28.660323Z"
   },
   "BPO703": {
     "route": null,
@@ -5909,10 +5883,6 @@
     },
     "checked_at": "2026-10-04T17:55:22.962649Z"
   },
-  "EUW5228": {
-    "route": null,
-    "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
   "WZZ4BB": {
     "route": {
       "fromCity": "Berlin",
@@ -6162,32 +6132,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-05T08:55:26.102627Z"
-  },
-  "DMCDR": {
-    "route": null,
-    "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
-  "SXS6PL": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Dalaman",
-      "toIata": "DLM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T09:10:28.660323Z"
-  },
-  "CAI9JM": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Gazipa\u015fa",
-      "toIata": "GZP",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T09:10:28.660323Z"
   },
   "ENT5ZM": {
     "route": {
@@ -9687,7 +9631,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-05T07:35:24.033848Z"
+    "checked_at": "2026-10-06T09:10:32.297684Z"
   },
   "WMT968": {
     "route": {
@@ -9940,7 +9884,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T09:10:33.354966Z"
+    "checked_at": "2026-10-06T09:10:32.297684Z"
   },
   "RYR89YH": {
     "route": {
@@ -12993,5 +12937,49 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-06T09:05:26.543672Z"
+  },
+  "EJU5261": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-06T09:10:32.297684Z"
+  },
+  "DLH9MA": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T09:10:32.297684Z"
+  },
+  "BAW988G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-06T09:10:32.297684Z"
+  },
+  "RYR14YY": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T09:10:32.297684Z"
   }
 }
