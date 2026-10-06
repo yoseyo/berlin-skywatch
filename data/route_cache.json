@@ -6227,39 +6227,6 @@
     },
     "checked_at": "2026-10-06T19:30:43.700594Z"
   },
-  "CSS102": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Los Angeles",
-      "toIata": "LAX",
-      "airlineName": "SF Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-04T20:45:31.068356Z"
-  },
-  "EJU74RM": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-04T20:50:28.486843Z"
-  },
-  "RYR33YN": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T20:50:28.486843Z"
-  },
   "NOZ5EU": {
     "route": {
       "fromCity": "Prague",
@@ -12327,5 +12294,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T20:45:28.838697Z"
+  },
+  "RYR24YX": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T20:50:32.760992Z"
   }
 }
