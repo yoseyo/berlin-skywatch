@@ -1991,7 +1991,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-05T08:15:32.330958Z"
+    "checked_at": "2026-10-06T08:20:31.423707Z"
   },
   "WUK7BU": {
     "route": null,
@@ -2017,7 +2017,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-05T09:50:32.919195Z"
+    "checked_at": "2026-10-06T08:20:31.423707Z"
   },
   "SWR3TE": {
     "route": null,
@@ -2076,7 +2076,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-05T08:35:25.134922Z"
+    "checked_at": "2026-10-06T08:20:31.423707Z"
   },
   "KLM90Z": {
     "route": {
@@ -4044,17 +4044,6 @@
     },
     "checked_at": "2026-10-05T07:15:29.411232Z"
   },
-  "TSC418": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Transat",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-04T08:20:29.878315Z"
-  },
   "RYR3RK": {
     "route": {
       "fromCity": "London",
@@ -4957,17 +4946,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-05T03:45:31.768614Z"
-  },
-  "BAW84NT": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-04T08:20:29.878315Z"
   },
   "EJU92KA": {
     "route": {
@@ -12933,5 +12911,31 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-06T08:15:31.577977Z"
+  },
+  "AHY063": {
+    "route": {
+      "fromCity": "Baku",
+      "fromIata": "GYD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-10-06T08:20:31.423707Z"
+  },
+  "LBT248": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-06T08:20:31.423707Z"
+  },
+  "CEF220": {
+    "route": null,
+    "checked_at": "2026-10-06T08:20:31.423707Z"
   }
 }
