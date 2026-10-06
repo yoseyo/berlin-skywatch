@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "BPOBER",
-      "country": "Germany",
-      "lat": 52.4313,
-      "lon": 13.5248,
-      "altKm": 2.2,
-      "speedKmh": 107,
-      "heading": 206,
-      "vertRateMs": 2.6,
-      "category": "heli"
+      "callsign": "BCS3612",
+      "country": "Ireland",
+      "lat": 52.3764,
+      "lon": 12.8734,
+      "altKm": 9.7,
+      "speedKmh": 855,
+      "heading": 32,
+      "vertRateMs": 7.2,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-06T03:03:40.495736Z"
+  "updated_at": "2026-10-06T03:05:24.590896Z"
 }
