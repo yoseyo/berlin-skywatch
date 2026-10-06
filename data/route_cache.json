@@ -3079,7 +3079,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-05T19:30:43.557517Z"
+    "checked_at": "2026-10-06T19:15:32.352909Z"
   },
   "EJU84GR": {
     "route": {
@@ -4537,7 +4537,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-04T20:00:46.712872Z"
+    "checked_at": "2026-10-06T19:15:32.352909Z"
   },
   "NSZ4508": {
     "route": {
@@ -12377,5 +12377,27 @@
   "SDR84QF": {
     "route": null,
     "checked_at": "2026-10-06T19:10:33.462498Z"
+  },
+  "WZZ6LM": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-06T19:15:32.352909Z"
+  },
+  "CXI38GL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-06T19:15:32.352909Z"
   }
 }
