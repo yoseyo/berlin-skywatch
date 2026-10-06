@@ -6115,10 +6115,6 @@
     "route": null,
     "checked_at": "2026-10-06T08:55:27.197778Z"
   },
-  "DMLCV": {
-    "route": null,
-    "checked_at": "2026-10-04T09:35:22.163436Z"
-  },
   "LOT2LP": {
     "route": {
       "fromCity": "Brussels",
@@ -12941,5 +12937,16 @@
   "PTO9942": {
     "route": null,
     "checked_at": "2026-10-06T09:30:47.453026Z"
+  },
+  "RYR7YZ": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T09:35:26.423197Z"
   }
 }
