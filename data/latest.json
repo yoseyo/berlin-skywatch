@@ -1,36 +1,42 @@
 {
   "flights": [
     {
-      "callsign": "DEUKS",
-      "country": "Germany",
-      "lat": 52.2072,
-      "lon": 13.1816,
-      "altKm": 0.2,
-      "speedKmh": 131,
-      "heading": 257,
-      "vertRateMs": -0.3,
+      "callsign": "AUA27Y",
+      "country": "Austria",
+      "lat": 52.2835,
+      "lon": 14.0342,
+      "altKm": 2.5,
+      "speedKmh": 537,
+      "heading": 342,
+      "vertRateMs": -9.8,
+      "airline": "Austrian Airlines",
+      "airlineCountry": "Austria",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     },
     {
-      "callsign": "SDR14ML",
+      "callsign": "CHX100",
       "country": "Germany",
-      "lat": 52.2599,
-      "lon": 13.4878,
-      "altKm": 3.4,
-      "speedKmh": 602,
-      "heading": 92,
-      "vertRateMs": 3.6,
+      "lat": 52.6115,
+      "lon": 13.385,
+      "altKm": 0.3,
+      "speedKmh": 216,
+      "heading": 264,
+      "vertRateMs": -1.0,
       "category": "plane"
     },
     {
       "callsign": "EJU51DR",
       "country": "Austria",
-      "lat": 52.3461,
-      "lon": 13.4716,
-      "altKm": 0.3,
-      "speedKmh": 313,
-      "heading": 247,
-      "vertRateMs": 12.0,
+      "lat": 52.1284,
+      "lon": 12.9978,
+      "altKm": 4.0,
+      "speedKmh": 607,
+      "heading": 235,
+      "vertRateMs": 11.1,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -40,5 +46,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-06T10:15:33.457796Z"
+  "updated_at": "2026-10-06T10:20:38.857715Z"
 }
