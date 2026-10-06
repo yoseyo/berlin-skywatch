@@ -604,7 +604,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T16:45:34.919488Z"
+    "checked_at": "2026-10-06T16:50:32.116313Z"
   },
   "RYR8RZ": {
     "route": {
@@ -3683,17 +3683,6 @@
     },
     "checked_at": "2026-10-06T15:15:33.147920Z"
   },
-  "DMS2LW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Saarbr\u00fccken",
-      "toIata": "SCN",
-      "airlineName": "Diamond Sky",
-      "airlineCountry": "Estonia"
-    },
-    "checked_at": "2026-10-04T16:50:28.489306Z"
-  },
   "EJU5087": {
     "route": null,
     "checked_at": "2026-10-06T04:25:28.800091Z"
@@ -3891,7 +3880,7 @@
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-10-05T17:10:32.065323Z"
+    "checked_at": "2026-10-06T16:50:32.116313Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -6098,28 +6087,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-06T15:55:25.850626Z"
-  },
-  "RYR62XF": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T16:45:31.922336Z"
-  },
-  "ISR251": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-04T16:45:31.922336Z"
   },
   "BEL9PY": {
     "route": {
@@ -12434,5 +12401,42 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-06T16:42:54.986958Z"
+  },
+  "EJU95JF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-06T16:50:32.116313Z"
+  },
+  "BTI2GA": {
+    "route": {
+      "fromCity": "Tampere / Pirkkala",
+      "fromIata": "TMP",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-06T16:50:32.116313Z"
+  },
+  "RYR25SC": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T16:50:32.116313Z"
+  },
+  "DMLEO": {
+    "route": null,
+    "checked_at": "2026-10-06T16:50:32.116313Z"
   }
 }
