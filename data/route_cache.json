@@ -2542,7 +2542,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T11:25:24.366368Z"
+    "checked_at": "2026-10-06T11:15:30.090250Z"
   },
   "DLH4NF": {
     "route": {
@@ -2586,7 +2586,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T11:20:31.473701Z"
+    "checked_at": "2026-10-06T11:15:30.090250Z"
   },
   "FIN3YX": {
     "route": {
@@ -6136,17 +6136,6 @@
     },
     "checked_at": "2026-10-05T06:50:31.440011Z"
   },
-  "NSZ4501": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T11:15:27.070023Z"
-  },
   "EJU5060": {
     "route": {
       "fromCity": "Rome",
@@ -6157,14 +6146,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-06T09:50:32.152960Z"
-  },
-  "DMFIS": {
-    "route": null,
-    "checked_at": "2026-10-04T11:15:27.070023Z"
-  },
-  "VCJ97G": {
-    "route": null,
-    "checked_at": "2026-10-04T11:15:27.070023Z"
   },
   "DEKPR": {
     "route": null,
@@ -9897,7 +9878,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-05T10:35:24.651362Z"
+    "checked_at": "2026-10-06T11:15:30.090250Z"
   },
   "CAT760": {
     "route": null,
@@ -12939,5 +12920,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T11:10:34.470274Z"
+  },
+  "AUA971": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-06T11:15:30.090250Z"
+  },
+  "EJU72PR": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-06T11:15:30.090250Z"
+  },
+  "DCS601": {
+    "route": null,
+    "checked_at": "2026-10-06T11:15:30.090250Z"
   }
 }
