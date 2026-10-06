@@ -1,25 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "AMQ3Z",
-      "country": "Poland",
-      "lat": 52.3777,
-      "lon": 13.5273,
-      "altKm": 0.1,
-      "speedKmh": 257,
-      "heading": 248,
-      "vertRateMs": -3.2,
-      "category": "jet"
-    },
-    {
       "callsign": "AUA237",
       "country": "Austria",
-      "lat": 52.2001,
-      "lon": 14.0282,
-      "altKm": 2.7,
-      "speedKmh": 523,
-      "heading": 335,
-      "vertRateMs": -5.8,
+      "lat": 52.3899,
+      "lon": 13.6576,
+      "altKm": 0.6,
+      "speedKmh": 329,
+      "heading": 249,
+      "vertRateMs": -5.2,
       "airline": "Austrian Airlines",
       "airlineCountry": "Austria",
       "fromCity": "Vienna",
@@ -29,22 +18,22 @@
       "category": "plane"
     },
     {
-      "callsign": "RYR8843",
-      "country": "Poland",
-      "lat": 52.1274,
-      "lon": 12.9169,
-      "altKm": 12.0,
-      "speedKmh": 880,
-      "heading": 306,
-      "vertRateMs": 0,
+      "callsign": "RYR53LP",
+      "country": "Ireland",
+      "lat": 52.3328,
+      "lon": 13.2971,
+      "altKm": 1.5,
+      "speedKmh": 447,
+      "heading": 264,
+      "vertRateMs": 10.1,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Aberdeen",
-      "toIata": "ABZ",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "BGY",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-06T18:05:25.054083Z"
+  "updated_at": "2026-10-06T18:10:32.230270Z"
 }
