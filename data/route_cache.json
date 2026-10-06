@@ -626,7 +626,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T17:40:31.785623Z"
+    "checked_at": "2026-10-06T17:10:33.696748Z"
   },
   "BAW94Q": {
     "route": {
@@ -12420,5 +12420,35 @@
   "SFG55B": {
     "route": null,
     "checked_at": "2026-10-06T17:05:25.170621Z"
+  },
+  "CTN4408": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-06T17:10:33.696748Z"
+  },
+  "AAO25": {
+    "route": null,
+    "checked_at": "2026-10-06T17:10:33.696748Z"
+  },
+  "DGFKH": {
+    "route": null,
+    "checked_at": "2026-10-06T17:10:33.696748Z"
+  },
+  "EWG3KA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T17:10:33.696748Z"
   }
 }
