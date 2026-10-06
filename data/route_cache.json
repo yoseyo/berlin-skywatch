@@ -1044,7 +1044,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-04T20:25:25.399281Z"
+    "checked_at": "2026-10-06T20:15:31.120274Z"
   },
   "AUA989D": {
     "route": {
@@ -1066,7 +1066,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-04T21:00:50.992395Z"
+    "checked_at": "2026-10-06T20:15:31.120274Z"
   },
   "AUA239": {
     "route": {
@@ -1143,7 +1143,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T21:25:32.058395Z"
+    "checked_at": "2026-10-06T20:15:31.120274Z"
   },
   "VLG1887": {
     "route": {
@@ -3884,7 +3884,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-04T20:30:38.024902Z"
+    "checked_at": "2026-10-06T20:15:31.120274Z"
   },
   "CHH489": {
     "route": {
@@ -6205,28 +6205,6 @@
     },
     "checked_at": "2026-10-06T19:10:33.462498Z"
   },
-  "ASL44H": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-04T20:10:34.401693Z"
-  },
-  "BTI9GR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-04T20:10:34.401693Z"
-  },
   "BTI8GC": {
     "route": {
       "fromCity": "Zurich",
@@ -6237,61 +6215,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-06T18:55:24.619712Z"
-  },
-  "EJU76NZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-04T20:15:30.515215Z"
-  },
-  "BTI9BQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-04T20:15:30.515215Z"
-  },
-  "FLI7135": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-10-04T20:15:30.515215Z"
-  },
-  "RYR42HH": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T20:15:30.515215Z"
-  },
-  "RYR739Y": {
-    "route": {
-      "fromCity": "Castell\u00f3n de la Plana",
-      "fromIata": "CDT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T20:15:30.515215Z"
   },
   "BLX176": {
     "route": {
@@ -12352,5 +12275,27 @@
   "PGT1616": {
     "route": null,
     "checked_at": "2026-10-06T20:00:54.774732Z"
+  },
+  "NOZ51J": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-06T20:15:31.120274Z"
+  },
+  "DLH5CK": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T20:15:31.120274Z"
   }
 }
