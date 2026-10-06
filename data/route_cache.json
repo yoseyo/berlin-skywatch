@@ -6110,14 +6110,6 @@
     "route": null,
     "checked_at": "2026-10-05T18:35:27.859642Z"
   },
-  "DHEER": {
-    "route": null,
-    "checked_at": "2026-10-04T14:10:28.077407Z"
-  },
-  "VKG593": {
-    "route": null,
-    "checked_at": "2026-10-04T14:10:28.077407Z"
-  },
   "THY95Y": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -12629,5 +12621,38 @@
   "SPSPZB": {
     "route": null,
     "checked_at": "2026-10-06T14:05:25.461129Z"
+  },
+  "AHY650": {
+    "route": {
+      "fromCity": "Montego Bay",
+      "fromIata": "MBJ",
+      "toCity": "Liberia",
+      "toIata": "LIR",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-10-06T14:10:33.547649Z"
+  },
+  "SXS679": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-06T14:10:33.547649Z"
+  },
+  "VOE9CC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-06T14:10:33.547649Z"
   }
 }
