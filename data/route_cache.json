@@ -1668,7 +1668,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-05T06:30:39.888710Z"
+    "checked_at": "2026-10-06T06:25:28.295061Z"
   },
   "LOT1VZ": {
     "route": {
@@ -1690,7 +1690,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T08:20:36.027138Z"
+    "checked_at": "2026-10-06T06:25:28.295061Z"
   },
   "NOZ2XM": {
     "route": {
@@ -4198,17 +4198,6 @@
     },
     "checked_at": "2026-10-05T04:05:24.215422Z"
   },
-  "RYR91SP": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T06:25:22.163960Z"
-  },
   "WZZ18DM": {
     "route": {
       "fromCity": "Warsaw",
@@ -5033,7 +5022,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-05T06:35:25.596529Z"
+    "checked_at": "2026-10-06T06:25:28.295061Z"
   },
   "EWG58L": {
     "route": {
@@ -5681,7 +5670,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-05T06:30:39.888710Z"
+    "checked_at": "2026-10-06T06:25:28.295061Z"
   },
   "DIBFS": {
     "route": null,
@@ -13002,5 +12991,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-06T06:20:31.884432Z"
+  },
+  "EJU16QM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-06T06:25:28.295061Z"
+  },
+  "PGT17GP": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-06T06:25:28.295061Z"
   }
 }
