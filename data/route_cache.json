@@ -5159,10 +5159,6 @@
     },
     "checked_at": "2026-10-06T06:25:28.295061Z"
   },
-  "DIBFS": {
-    "route": null,
-    "checked_at": "2026-10-04T16:10:29.058037Z"
-  },
   "SAS2831": {
     "route": {
       "fromCity": "Copenhagen",
@@ -5335,18 +5331,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-05T16:05:26.788988Z"
-  },
-  "WZZ93": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-04T16:10:29.058037Z"
+    "checked_at": "2026-10-06T16:10:33.407010Z"
   },
   "EJU95GQ": {
     "route": {
@@ -6070,17 +6055,6 @@
     },
     "checked_at": "2026-10-06T15:01:00.840555Z"
   },
-  "RYR2281": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T16:10:29.058037Z"
-  },
   "EJU35TP": {
     "route": {
       "fromCity": "Berlin",
@@ -6091,10 +6065,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-05T04:15:29.990034Z"
-  },
-  "N125ME": {
-    "route": null,
-    "checked_at": "2026-10-04T16:10:29.058037Z"
   },
   "EJU96ND": {
     "route": {
@@ -12487,5 +12457,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T16:05:26.927400Z"
+  },
+  "AEE512": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-06T16:10:33.407010Z"
   }
 }
