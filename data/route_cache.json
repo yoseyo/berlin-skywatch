@@ -2355,7 +2355,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-05T10:25:24.206506Z"
+    "checked_at": "2026-10-06T10:25:27.099308Z"
   },
   "WMT1HA": {
     "route": {
@@ -2432,7 +2432,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T10:40:30.658267Z"
+    "checked_at": "2026-10-06T10:25:27.099308Z"
   },
   "VLG2WM": {
     "route": {
@@ -6135,28 +6135,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-06T05:55:25.247770Z"
-  },
-  "RYR8201": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T10:25:21.615155Z"
-  },
-  "CFG3TN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-04T10:25:21.615155Z"
   },
   "TAP53LB": {
     "route": {
@@ -12917,5 +12895,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-06T10:15:33.457796Z"
+  },
+  "QTR58G": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Houston",
+      "toIata": "IAH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-06T10:25:27.099308Z"
+  },
+  "RYR467M": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T10:25:27.099308Z"
   }
 }
