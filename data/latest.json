@@ -1,16 +1,44 @@
 {
   "flights": [
     {
-      "callsign": "VKG035",
-      "country": "Denmark",
-      "lat": 52.5101,
-      "lon": 12.7402,
-      "altKm": 11.3,
-      "speedKmh": 922,
-      "heading": 15,
+      "callsign": "SAR7831",
+      "country": "Poland",
+      "lat": 52.2034,
+      "lon": 13.685,
+      "altKm": 6.3,
+      "speedKmh": 464,
+      "heading": 257,
       "vertRateMs": 0,
       "category": "plane"
+    },
+    {
+      "callsign": "RYR8842",
+      "country": "Poland",
+      "lat": 52.7333,
+      "lon": 13.7339,
+      "altKm": 12.2,
+      "speedKmh": 787,
+      "heading": 124,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Aberdeen",
+      "fromIata": "ABZ",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "category": "plane"
+    },
+    {
+      "callsign": "PBB17",
+      "country": "Germany",
+      "lat": 52.181,
+      "lon": 13.7466,
+      "altKm": 0.5,
+      "speedKmh": 222,
+      "heading": 346,
+      "vertRateMs": 0,
+      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-06T21:40:33.068914Z"
+  "updated_at": "2026-10-06T21:45:32.977761Z"
 }
