@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EJU84TJ",
+      "country": "Austria",
+      "lat": 52.9264,
+      "lon": 12.709,
+      "altKm": 11.9,
+      "speedKmh": 747,
+      "heading": 187,
+      "vertRateMs": -0.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "category": "plane"
+    },
+    {
       "callsign": "CFE8495",
       "country": "United Kingdom",
-      "lat": 52.5306,
-      "lon": 13.7676,
-      "altKm": 1.8,
-      "speedKmh": 494,
-      "heading": 102,
-      "vertRateMs": -4.5,
+      "lat": 52.3933,
+      "lon": 13.5933,
+      "altKm": 0.4,
+      "speedKmh": 243,
+      "heading": 249,
+      "vertRateMs": -3.6,
       "airline": "BA CityFlyer",
       "airlineCountry": "United Kingdom",
       "fromCity": "London",
@@ -18,18 +35,44 @@
       "category": "plane"
     },
     {
-      "callsign": "EJU84GR",
+      "callsign": "AUA238N",
       "country": "Austria",
-      "lat": 52.3523,
-      "lon": 13.75,
-      "altKm": 0.9,
-      "speedKmh": 414,
-      "heading": 4,
-      "vertRateMs": -5.2,
-      "airline": "easyJet Europe",
+      "lat": 52.2806,
+      "lon": 13.3389,
+      "altKm": 2.2,
+      "speedKmh": 384,
+      "heading": 228,
+      "vertRateMs": 21.8,
+      "airline": "Austrian Airlines",
       "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "category": "plane"
+    },
+    {
+      "callsign": "SDR15NL",
+      "country": "Germany",
+      "lat": 52.3264,
+      "lon": 14.014,
+      "altKm": 2.0,
+      "speedKmh": 548,
+      "heading": 341,
+      "vertRateMs": -5.2,
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS7XE",
+      "country": "Turkey",
+      "lat": 52.9288,
+      "lon": 12.9503,
+      "altKm": 10.9,
+      "speedKmh": 816,
+      "heading": 118,
+      "vertRateMs": 4.9,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-06T19:00:56.354868Z"
+  "updated_at": "2026-10-06T19:05:26.803165Z"
 }
