@@ -780,7 +780,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T17:55:24.479735Z"
+    "checked_at": "2026-10-06T17:55:23.544663Z"
   },
   "IBE07MV": {
     "route": {
@@ -802,7 +802,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T19:05:34.065533Z"
+    "checked_at": "2026-10-06T17:55:23.544663Z"
   },
   "SXS2KY": {
     "route": {
@@ -813,7 +813,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T18:00:55.136065Z"
+    "checked_at": "2026-10-06T17:55:23.544663Z"
   },
   "EWG5JH": {
     "route": {
@@ -3884,7 +3884,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-10-05T18:15:29.579694Z"
+    "checked_at": "2026-10-06T17:55:23.544663Z"
   },
   "TAP4BE": {
     "route": {
@@ -5060,17 +5060,6 @@
     },
     "checked_at": "2026-10-06T05:20:31.644313Z"
   },
-  "RYR9MC": {
-    "route": {
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T17:55:22.962649Z"
-  },
   "EWG6KW": {
     "route": {
       "fromCity": "Berlin",
@@ -5309,18 +5298,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T18:45:28.196328Z"
-  },
-  "SAS65K": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T17:55:22.962649Z"
+    "checked_at": "2026-10-06T17:55:23.544663Z"
   },
   "EJU67GK": {
     "route": {
@@ -6120,25 +6098,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T17:30:42.973943Z"
-  },
-  "PAV602": {
-    "route": null,
-    "checked_at": "2026-10-04T17:55:22.962649Z"
-  },
-  "SEH6403": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-04T17:55:22.962649Z"
-  },
-  "KMM376": {
-    "route": null,
-    "checked_at": "2026-10-04T17:55:22.962649Z"
   },
   "ASL86W": {
     "route": {
@@ -12403,5 +12362,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T17:50:31.249915Z"
+  },
+  "EWG55X": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T17:55:23.544663Z"
+  },
+  "CFG4803": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T17:55:23.544663Z"
   }
 }
