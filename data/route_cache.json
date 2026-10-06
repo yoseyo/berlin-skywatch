@@ -4550,17 +4550,6 @@
     },
     "checked_at": "2026-10-06T19:10:33.462498Z"
   },
-  "NSZ3305": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T20:55:23.543481Z"
-  },
   "EZY89CH": {
     "route": {
       "fromCity": "Birmingham",
@@ -4970,7 +4959,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-10-05T11:55:24.419210Z"
+    "checked_at": "2026-10-06T20:55:28.305833Z"
   },
   "RYR37YC": {
     "route": {
@@ -12305,5 +12294,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T20:50:32.760992Z"
+  },
+  "DLH2466": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T20:55:28.305833Z"
+  },
+  "RYR44PB": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T20:55:28.305833Z"
   }
 }
