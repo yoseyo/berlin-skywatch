@@ -2498,7 +2498,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T10:50:31.178136Z"
+    "checked_at": "2026-10-06T11:35:25.234471Z"
   },
   "RYR7BV": {
     "route": {
@@ -2674,7 +2674,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T11:50:34.251257Z"
+    "checked_at": "2026-10-06T11:35:25.234471Z"
   },
   "WMT1RH": {
     "route": {
@@ -5001,10 +5001,6 @@
     },
     "checked_at": "2026-10-05T19:10:55.125792Z"
   },
-  "N66HR": {
-    "route": null,
-    "checked_at": "2026-10-04T11:35:23.654989Z"
-  },
   "CES244": {
     "route": {
       "fromCity": "Milan",
@@ -6102,32 +6098,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-06T09:50:32.152960Z"
-  },
-  "DEMHU": {
-    "route": null,
-    "checked_at": "2026-10-04T11:35:23.654989Z"
-  },
-  "AHY6734": {
-    "route": {
-      "fromCity": "New York",
-      "fromIata": "JFK",
-      "toCity": "Baku",
-      "toIata": "GYD",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-10-04T11:35:23.654989Z"
-  },
-  "AEE4579": {
-    "route": {
-      "fromCity": "Karm\u00f8y",
-      "fromIata": "HAU",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-04T11:35:23.654989Z"
   },
   "SDR17RA": {
     "route": {
@@ -12890,5 +12860,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T11:30:47.098311Z"
+  },
+  "EWG26K": {
+    "route": {
+      "fromCity": "Olbia (SS)",
+      "fromIata": "OLB",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T11:35:25.234471Z"
+  },
+  "BAW99XC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-06T11:35:25.234471Z"
+  },
+  "RYR3ZW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T11:35:25.234471Z"
   }
 }
