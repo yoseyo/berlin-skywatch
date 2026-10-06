@@ -2078,17 +2078,6 @@
     },
     "checked_at": "2026-10-06T08:20:31.423707Z"
   },
-  "KLM90Z": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-04T09:15:33.493553Z"
-  },
   "DLH4AK": {
     "route": {
       "fromCity": "Zurich",
@@ -2175,7 +2164,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T10:25:24.206506Z"
+    "checked_at": "2026-10-06T09:20:32.539314Z"
   },
   "AUA226K": {
     "route": {
@@ -2186,7 +2175,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-05T09:30:42.399543Z"
+    "checked_at": "2026-10-06T09:20:32.539314Z"
   },
   "LOT266": {
     "route": {
@@ -5534,7 +5523,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-04T09:15:33.493553Z"
+    "checked_at": "2026-10-06T09:20:32.539314Z"
   },
   "RYR62HD": {
     "route": {
@@ -6133,61 +6122,9 @@
     },
     "checked_at": "2026-10-05T08:55:26.102627Z"
   },
-  "ENT5ZM": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-04T09:15:33.493553Z"
-  },
-  "PGT77BA": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T09:15:33.493553Z"
-  },
-  "SXS6WA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Dalaman",
-      "toIata": "DLM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T09:15:33.493553Z"
-  },
   "VLG6JY": {
     "route": null,
     "checked_at": "2026-10-06T08:55:27.197778Z"
-  },
-  "CAI17QT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T09:20:29.271180Z"
-  },
-  "GAC982L": {
-    "route": null,
-    "checked_at": "2026-10-04T09:20:29.271180Z"
-  },
-  "LNBOG": {
-    "route": null,
-    "checked_at": "2026-10-04T09:20:29.271180Z"
   },
   "UAE238": {
     "route": {
@@ -6435,7 +6372,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-05T10:10:31.156195Z"
+    "checked_at": "2026-10-06T09:20:32.539314Z"
   },
   "BAW87AM": {
     "route": {
@@ -13007,5 +12944,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T09:15:32.429096Z"
+  },
+  "SCR137": {
+    "route": null,
+    "checked_at": "2026-10-06T09:20:32.539314Z"
+  },
+  "RYR65QZ": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T09:20:32.539314Z"
   }
 }
