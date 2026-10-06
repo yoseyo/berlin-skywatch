@@ -273,7 +273,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-05T14:40:32.975664Z"
+    "checked_at": "2026-10-06T15:05:27.907554Z"
   },
   "FIN5DL": {
     "route": {
@@ -317,7 +317,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-05T16:20:30.915109Z"
+    "checked_at": "2026-10-06T15:05:27.907554Z"
   },
   "BEL2HJ": {
     "route": {
@@ -758,7 +758,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T20:20:46.998804Z"
+    "checked_at": "2026-10-06T15:05:27.907554Z"
   },
   "NOZ8GB": {
     "route": {
@@ -6092,14 +6092,6 @@
     "route": null,
     "checked_at": "2026-10-05T13:55:25.492371Z"
   },
-  "DERVN": {
-    "route": null,
-    "checked_at": "2026-10-04T15:05:21.704835Z"
-  },
-  "VJT408": {
-    "route": null,
-    "checked_at": "2026-10-04T15:05:21.704835Z"
-  },
   "NSZ3308": {
     "route": {
       "fromCity": "Copenhagen",
@@ -9670,7 +9662,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-05T15:05:24.715855Z"
+    "checked_at": "2026-10-06T15:05:27.907554Z"
   },
   "RYR57AE": {
     "route": {
@@ -12611,5 +12603,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T15:01:00.840555Z"
+  },
+  "NSZ2MP": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-06T15:05:27.907554Z"
   }
 }
