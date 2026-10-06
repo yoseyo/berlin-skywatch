@@ -6211,10 +6211,6 @@
     },
     "checked_at": "2026-10-05T08:55:26.102627Z"
   },
-  "NJE873V": {
-    "route": null,
-    "checked_at": "2026-10-04T08:45:29.149108Z"
-  },
   "SUS9011": {
     "route": {
       "fromCity": "Billund",
@@ -12970,5 +12966,46 @@
   "IJM666": {
     "route": null,
     "checked_at": "2026-10-06T08:40:32.507107Z"
+  },
+  "NSZ82ME": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-06T08:45:33.433359Z"
+  },
+  "TKJ9PR": {
+    "route": {
+      "fromCity": "Bodrum",
+      "fromIata": "BJV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-06T08:45:33.433359Z"
+  },
+  "GAF630": {
+    "route": null,
+    "checked_at": "2026-10-06T08:45:33.433359Z"
+  },
+  "ENT3SJ": {
+    "route": null,
+    "checked_at": "2026-10-06T08:45:33.433359Z"
+  },
+  "RYR65ZK": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T08:45:33.433359Z"
   }
 }
