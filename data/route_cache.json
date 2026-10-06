@@ -6062,21 +6062,6 @@
     },
     "checked_at": "2026-10-06T12:25:25.545507Z"
   },
-  "DMUPY": {
-    "route": null,
-    "checked_at": "2026-10-04T13:00:51.523606Z"
-  },
-  "SDR49KT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T13:00:51.523606Z"
-  },
   "BLX1VM": {
     "route": {
       "fromCity": "Souda",
@@ -12760,5 +12745,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T12:50:34.557941Z"
+  },
+  "RYR2JL": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T13:00:59.771678Z"
+  },
+  "VOE1462": {
+    "route": {
+      "fromCity": "Firenze",
+      "fromIata": "FLR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-06T13:00:59.771678Z"
   }
 }
