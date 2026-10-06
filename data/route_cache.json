@@ -1971,17 +1971,6 @@
     },
     "checked_at": "2026-10-05T08:40:32.124633Z"
   },
-  "CTN480": {
-    "route": {
-      "fromCity": "Zagreb",
-      "fromIata": "ZAG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-04T07:50:28.602766Z"
-  },
   "SAS2677": {
     "route": {
       "fromCity": "Stockholm",
@@ -3947,17 +3936,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-06T06:30:44.247699Z"
-  },
-  "AFR39SV": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-04T07:50:28.602766Z"
   },
   "AUA99J": {
     "route": {
@@ -6244,39 +6222,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-06T07:35:24.628477Z"
-  },
-  "OAL3351": {
-    "route": {
-      "fromCity": "M\u00f6nchengladbach",
-      "fromIata": "MGL",
-      "toCity": "M\u00f6nchengladbach",
-      "toIata": "MGL",
-      "airlineName": "Olympic Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-04T07:50:28.602766Z"
-  },
-  "HYS408": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Chi\u015fin\u0103u",
-      "toIata": "RMO",
-      "airlineName": "HiSky Europe",
-      "airlineCountry": "Romania"
-    },
-    "checked_at": "2026-10-04T07:50:28.602766Z"
-  },
-  "NIA8702": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-04T07:50:28.602766Z"
   },
   "NSZ5602": {
     "route": {
@@ -10228,7 +10173,7 @@
   },
   "DMTWH": {
     "route": null,
-    "checked_at": "2026-10-05T09:10:33.354966Z"
+    "checked_at": "2026-10-06T07:50:32.269622Z"
   },
   "TKJ35Z": {
     "route": {
@@ -12984,5 +12929,20 @@
   "DFHOT": {
     "route": null,
     "checked_at": "2026-10-06T07:45:45.136700Z"
+  },
+  "DFPOL": {
+    "route": null,
+    "checked_at": "2026-10-06T07:50:32.269622Z"
+  },
+  "ASL354": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-06T07:50:32.269622Z"
   }
 }
