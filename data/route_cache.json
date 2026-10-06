@@ -2476,7 +2476,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T11:05:25.173136Z"
+    "checked_at": "2026-10-06T11:05:25.218588Z"
   },
   "RYR6UR": {
     "route": {
@@ -2553,7 +2553,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T11:10:31.205510Z"
+    "checked_at": "2026-10-06T11:05:25.218588Z"
   },
   "KLM29G": {
     "route": {
@@ -2744,7 +2744,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T11:20:31.473701Z"
+    "checked_at": "2026-10-06T11:05:25.218588Z"
   },
   "MSC2960": {
     "route": {
@@ -4489,7 +4489,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-05T11:40:30.765999Z"
+    "checked_at": "2026-10-06T11:05:25.218588Z"
   },
   "SEH874": {
     "route": {
@@ -5491,17 +5491,6 @@
     },
     "checked_at": "2026-10-05T09:05:25.790924Z"
   },
-  "TAP3334": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-04T11:05:21.758766Z"
-  },
   "BPO701": {
     "route": null,
     "checked_at": "2026-10-04T12:30:40.789124Z"
@@ -5987,7 +5976,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T21:00:59.349458Z"
+    "checked_at": "2026-10-06T11:05:25.218588Z"
   },
   "RYR44BG": {
     "route": {
@@ -6157,39 +6146,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-05T06:50:31.440011Z"
-  },
-  "TSC419": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Transat",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-04T11:05:21.758766Z"
-  },
-  "MGH768": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T11:05:21.758766Z"
-  },
-  "FLI7121": {
-    "route": {
-      "fromCity": "Preveza/Lefkada",
-      "fromIata": "PVK",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-10-04T11:05:21.758766Z"
   },
   "CES786": {
     "route": {
@@ -10086,7 +10042,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-05T11:20:31.473701Z"
+    "checked_at": "2026-10-06T11:05:25.218588Z"
   },
   "ENT9EH": {
     "route": {
@@ -12979,5 +12935,20 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-06T11:00:56.936900Z"
+  },
+  "DEMLG": {
+    "route": null,
+    "checked_at": "2026-10-06T11:05:25.218588Z"
+  },
+  "EWG2MD": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T11:05:25.218588Z"
   }
 }
