@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T13:15:31.308889Z"
+    "checked_at": "2026-10-06T13:20:39.217277Z"
   },
   "CHX100": {
     "route": null,
@@ -2465,7 +2465,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T13:20:31.456275Z"
+    "checked_at": "2026-10-06T13:20:39.217277Z"
   },
   "DLH8XM": {
     "route": {
@@ -2869,7 +2869,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T13:15:31.308889Z"
+    "checked_at": "2026-10-06T13:20:39.217277Z"
   },
   "CHX71": {
     "route": null,
@@ -2987,7 +2987,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T13:30:45.338158Z"
+    "checked_at": "2026-10-06T13:20:39.217277Z"
   },
   "EWG7DL": {
     "route": null,
@@ -3266,7 +3266,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-04T13:50:29.014873Z"
+    "checked_at": "2026-10-06T13:20:39.217277Z"
   },
   "EWG55E": {
     "route": {
@@ -6076,17 +6076,6 @@
   "PRIMR01": {
     "route": null,
     "checked_at": "2026-10-05T07:10:32.940726Z"
-  },
-  "SAS1697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T13:20:28.665206Z"
   },
   "EWG1SU": {
     "route": {
@@ -12719,5 +12708,42 @@
   "FSF200B": {
     "route": null,
     "checked_at": "2026-10-06T13:15:33.162726Z"
+  },
+  "GFM6Y": {
+    "route": null,
+    "checked_at": "2026-10-06T13:20:39.217277Z"
+  },
+  "LHX849": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T13:20:39.217277Z"
+  },
+  "RYR8742": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Trieste",
+      "toIata": "TRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T13:20:39.217277Z"
+  },
+  "RYR108X": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T13:20:39.217277Z"
   }
 }
