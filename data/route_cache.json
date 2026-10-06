@@ -34,7 +34,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-05T13:30:45.338158Z"
+    "checked_at": "2026-10-06T13:40:33.350153Z"
   },
   "RYR54CX": {
     "route": {
@@ -5351,10 +5351,6 @@
     },
     "checked_at": "2026-10-05T09:05:25.790924Z"
   },
-  "DMFAV": {
-    "route": null,
-    "checked_at": "2026-10-04T13:40:29.560286Z"
-  },
   "CTN384E": {
     "route": {
       "fromCity": "Split",
@@ -6092,21 +6088,6 @@
     },
     "checked_at": "2026-10-05T12:20:32.612937Z"
   },
-  "NSZ3300": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T13:40:29.560286Z"
-  },
-  "DEMDE": {
-    "route": null,
-    "checked_at": "2026-10-04T13:40:29.560286Z"
-  },
   "NSZ3582": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6129,10 +6110,6 @@
     },
     "checked_at": "2026-10-05T15:30:44.700329Z"
   },
-  "DEUNK": {
-    "route": null,
-    "checked_at": "2026-10-04T13:40:29.560286Z"
-  },
   "BEL9CK": {
     "route": {
       "fromCity": "Brussels",
@@ -6144,53 +6121,9 @@
     },
     "checked_at": "2026-10-05T11:10:31.205510Z"
   },
-  "THY5KM": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Houston",
-      "toIata": "IAH",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T13:40:29.560286Z"
-  },
-  "TVF801D": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-04T13:40:29.560286Z"
-  },
-  "CTN848R": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-04T13:40:29.560286Z"
-  },
   "GAF304": {
     "route": null,
     "checked_at": "2026-10-05T06:05:23.119771Z"
-  },
-  "EWG16V": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-04T13:40:29.560286Z"
   },
   "JEI474": {
     "route": null,
@@ -12712,5 +12645,16 @@
   "QAJ2": {
     "route": null,
     "checked_at": "2026-10-06T13:35:25.899315Z"
+  },
+  "CFG7WJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T13:40:33.350153Z"
   }
 }
