@@ -218,7 +218,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T14:40:32.975664Z"
+    "checked_at": "2026-10-06T14:50:34.983246Z"
   },
   "QTR56W": {
     "route": {
@@ -3013,7 +3013,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T13:50:32.355411Z"
+    "checked_at": "2026-10-06T14:50:34.983246Z"
   },
   "AUA22S": {
     "route": {
@@ -5436,17 +5436,6 @@
     },
     "checked_at": "2026-10-04T16:10:29.058037Z"
   },
-  "RYR6V": {
-    "route": {
-      "fromCity": "Darlington, Durham",
-      "fromIata": "MME",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T14:50:27.843012Z"
-  },
   "EJU95GQ": {
     "route": {
       "fromCity": "London",
@@ -6113,39 +6102,6 @@
   "URPAPB": {
     "route": null,
     "checked_at": "2026-10-05T13:55:25.492371Z"
-  },
-  "NSZ3301": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-04T14:50:27.843012Z"
-  },
-  "EJU72TJ": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-04T14:50:27.843012Z"
-  },
-  "CAT333": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Copenhagen Airtaxi",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-04T14:50:27.843012Z"
   },
   "EJU69RD": {
     "route": {
@@ -12629,5 +12585,16 @@
   "OHKAO": {
     "route": null,
     "checked_at": "2026-10-06T14:45:34.198885Z"
+  },
+  "CCA939": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-06T14:50:34.983246Z"
   }
 }
