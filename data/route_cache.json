@@ -1319,7 +1319,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-05T04:35:24.373010Z"
+    "checked_at": "2026-10-06T04:25:28.800091Z"
   },
   "DLH8MC": {
     "route": {
@@ -3365,7 +3365,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-05T05:15:30.718972Z"
+    "checked_at": "2026-10-06T04:25:28.800091Z"
   },
   "ICE14T": {
     "route": {
@@ -3799,7 +3799,7 @@
   },
   "EJU5087": {
     "route": null,
-    "checked_at": "2026-10-04T17:00:48.128292Z"
+    "checked_at": "2026-10-06T04:25:28.800091Z"
   },
   "DLH8WF": {
     "route": {
@@ -6306,17 +6306,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-06T03:55:25.143237Z"
-  },
-  "SXS6JX": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-04T04:25:23.800903Z"
   },
   "WZZ463H": {
     "route": {
@@ -13092,5 +13081,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-06T04:15:32.437456Z"
+  },
+  "DLH7FM": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-06T04:25:28.800091Z"
+  },
+  "RYR353": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-06T04:25:28.800091Z"
   }
 }
