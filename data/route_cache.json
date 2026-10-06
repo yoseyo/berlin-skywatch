@@ -398,7 +398,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-05T15:41:06.516820Z"
+    "checked_at": "2026-10-06T20:30:43.283908Z"
   },
   "SXS16E": {
     "route": {
@@ -1165,7 +1165,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-04T20:45:31.068356Z"
+    "checked_at": "2026-10-06T20:30:43.283908Z"
   },
   "SWR9LC": {
     "route": {
@@ -5204,17 +5204,6 @@
     },
     "checked_at": "2026-10-05T14:30:42.504608Z"
   },
-  "RYR85CE": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T20:30:38.024902Z"
-  },
   "DEADX": {
     "route": null,
     "checked_at": "2026-10-05T08:35:25.134922Z"
@@ -6216,17 +6205,6 @@
     },
     "checked_at": "2026-10-06T18:55:24.619712Z"
   },
-  "RYR298": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T20:25:25.399281Z"
-  },
   "NSZ4378": {
     "route": {
       "fromCity": "Milan",
@@ -6237,17 +6215,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-05T08:53:52.178135Z"
-  },
-  "EZY71RM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-04T20:30:38.024902Z"
   },
   "RYR11GY": {
     "route": {
@@ -9649,7 +9616,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-05T20:01:05.495406Z"
+    "checked_at": "2026-10-06T20:30:43.283908Z"
   },
   "SXS2LD": {
     "route": {
@@ -12327,5 +12294,16 @@
   "PBB17": {
     "route": null,
     "checked_at": "2026-10-06T20:25:24.874551Z"
+  },
+  "SWT9ER": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Swiftair",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-06T20:30:43.283908Z"
   }
 }
