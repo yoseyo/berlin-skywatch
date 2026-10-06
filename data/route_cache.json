@@ -6132,17 +6132,6 @@
     },
     "checked_at": "2026-10-06T17:30:42.973943Z"
   },
-  "RYR297": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-04T17:45:28.805394Z"
-  },
   "CKK216": {
     "route": {
       "fromCity": "Paris",
@@ -12414,5 +12403,27 @@
   "LXJ611": {
     "route": null,
     "checked_at": "2026-10-06T17:25:25.108544Z"
+  },
+  "ELY011": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-06T17:45:29.943730Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-06T17:45:29.943730Z"
   }
 }
