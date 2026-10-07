@@ -2759,7 +2759,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-06T12:15:33.358245Z"
+    "checked_at": "2026-10-07T12:15:29.924374Z"
   },
   "SXS9SE": {
     "route": {
@@ -4616,17 +4616,6 @@
     "route": null,
     "checked_at": "2026-10-06T20:55:28.305833Z"
   },
-  "RYR37YC": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T12:10:32.265439Z"
-  },
   "EWG4J": {
     "route": {
       "fromCity": "Copenhagen",
@@ -4792,17 +4781,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T17:55:23.544663Z"
-  },
-  "EJU67GK": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-05T12:10:32.265439Z"
   },
   "VJT426": {
     "route": null,
@@ -5456,7 +5434,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T17:30:42.973943Z"
+    "checked_at": "2026-10-07T12:15:29.924374Z"
   },
   "CFE7026": {
     "route": {
@@ -11798,5 +11776,38 @@
   "BPO504": {
     "route": null,
     "checked_at": "2026-10-07T12:00:56.661028Z"
+  },
+  "AEE757": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-07T12:15:29.924374Z"
+  },
+  "SAS47D": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T12:15:29.924374Z"
+  },
+  "RYR7UL": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T12:15:29.924374Z"
   }
 }
