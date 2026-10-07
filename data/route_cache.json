@@ -556,7 +556,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T16:42:54.986958Z"
+    "checked_at": "2026-10-07T17:30:45.848807Z"
   },
   "SAS2657": {
     "route": {
@@ -5146,17 +5146,6 @@
     },
     "checked_at": "2026-10-07T17:25:25.336045Z"
   },
-  "BTI6UN": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-05T17:29:34.182757Z"
-  },
   "EWG6RY": {
     "route": {
       "fromCity": "Catania",
@@ -6316,17 +6305,6 @@
     },
     "checked_at": "2026-10-06T17:15:34.276510Z"
   },
-  "NSZ2804": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-05T17:25:27.158888Z"
-  },
   "NSZ3732": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6341,28 +6319,6 @@
   "ADN87D": {
     "route": null,
     "checked_at": "2026-10-06T07:45:45.136700Z"
-  },
-  "RYR9SW": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T17:25:27.158888Z"
-  },
-  "LBT233": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tunis",
-      "toIata": "TUN",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-05T17:29:34.182757Z"
   },
   "ISR253": {
     "route": {
@@ -6565,7 +6521,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T18:00:55.485048Z"
+    "checked_at": "2026-10-07T17:30:45.848807Z"
   },
   "CFC3455": {
     "route": null,
@@ -11711,5 +11667,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-07T17:25:25.336045Z"
+  },
+  "RYR2TD": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T17:30:45.848807Z"
   }
 }
