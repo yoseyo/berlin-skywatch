@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-07T21:55:24.508724Z"
+  "flights": [
+    {
+      "callsign": "WZZ620U",
+      "country": "Hungary",
+      "lat": 52.5805,
+      "lon": 13.1419,
+      "altKm": 10.9,
+      "speedKmh": 920,
+      "heading": 90,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-07T22:00:53.226523Z"
 }
