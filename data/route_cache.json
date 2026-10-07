@@ -1132,7 +1132,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-06T16:15:36.079292Z"
+    "checked_at": "2026-10-07T04:25:26.208631Z"
   },
   "DLH4T": {
     "route": {
@@ -5232,7 +5232,7 @@
       "airlineName": "Shanghai Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-06T03:55:25.143237Z"
+    "checked_at": "2026-10-07T04:25:26.208631Z"
   },
   "WZZ463H": {
     "route": {
@@ -6215,14 +6215,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-06T10:05:26.607295Z"
-  },
-  "EJU5015": {
-    "route": null,
-    "checked_at": "2026-10-05T04:25:25.461053Z"
-  },
-  "MFX7613": {
-    "route": null,
-    "checked_at": "2026-10-05T04:25:25.461053Z"
   },
   "NSZ3752": {
     "route": {
@@ -12122,5 +12114,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T04:10:32.144043Z"
+  },
+  "UAE88F": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Montr\u00e9al",
+      "toIata": "YUL",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-07T04:25:26.208631Z"
+  },
+  "EJU81BJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-07T04:25:26.208631Z"
+  },
+  "RYR33BL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T04:25:26.208631Z"
   }
 }
