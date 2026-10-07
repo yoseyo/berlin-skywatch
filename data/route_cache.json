@@ -207,7 +207,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-10-06T07:15:35.104802Z"
+    "checked_at": "2026-10-07T19:25:24.735727Z"
   },
   "DLH192": {
     "route": {
@@ -934,7 +934,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-06T18:45:33.230586Z"
+    "checked_at": "2026-10-07T19:25:24.735727Z"
   },
   "KLC1335": {
     "route": {
@@ -3009,7 +3009,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-06T19:15:32.352909Z"
+    "checked_at": "2026-10-07T19:25:24.735727Z"
   },
   "EJU84GR": {
     "route": {
@@ -11685,5 +11685,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T19:20:36.981960Z"
+  },
+  "RYR691A": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T19:25:24.735727Z"
+  },
+  "RYR1155": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T19:25:24.735727Z"
   }
 }
