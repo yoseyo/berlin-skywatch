@@ -2065,7 +2065,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T09:00:56.378489Z"
+    "checked_at": "2026-10-07T09:05:26.749727Z"
   },
   "RYR4TC": {
     "route": {
@@ -2840,7 +2840,7 @@
   },
   "CHX71": {
     "route": null,
-    "checked_at": "2026-10-06T11:45:30.685577Z"
+    "checked_at": "2026-10-07T09:05:26.749727Z"
   },
   "AFR1235": {
     "route": {
@@ -4148,7 +4148,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T09:00:56.378489Z"
+    "checked_at": "2026-10-07T09:05:26.749727Z"
   },
   "EJU5027": {
     "route": {
@@ -4829,17 +4829,6 @@
     },
     "checked_at": "2026-10-07T05:55:24.240227Z"
   },
-  "RYR4ZG": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Castell\u00f3n de la Plana",
-      "toIata": "CDT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T09:05:25.790924Z"
-  },
   "CTN384E": {
     "route": {
       "fromCity": "Split",
@@ -5325,10 +5314,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T09:15:32.429096Z"
-  },
-  "UAG65D": {
-    "route": null,
-    "checked_at": "2026-10-05T09:05:25.790924Z"
   },
   "SAS58M": {
     "route": {
@@ -6229,7 +6214,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-06T09:10:32.297684Z"
+    "checked_at": "2026-10-07T09:05:26.749727Z"
   },
   "RYR89YH": {
     "route": {
@@ -11811,5 +11796,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-07T09:00:57.245757Z"
+  },
+  "DEMSW": {
+    "route": null,
+    "checked_at": "2026-10-07T09:05:26.749727Z"
+  },
+  "CKK215": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-07T09:05:26.749727Z"
   }
 }
