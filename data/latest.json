@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-07T22:55:24.157710Z"
+  "flights": [
+    {
+      "callsign": "CHX71",
+      "country": "Germany",
+      "lat": 52.4236,
+      "lon": 13.9073,
+      "altKm": 0.6,
+      "speedKmh": 223,
+      "heading": 289,
+      "vertRateMs": 0.3,
+      "category": "heli"
+    },
+    {
+      "callsign": "RYR6GD",
+      "country": "Poland",
+      "lat": 52.3329,
+      "lon": 13.7154,
+      "altKm": 10.2,
+      "speedKmh": 903,
+      "heading": 93,
+      "vertRateMs": -10.7,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Rome",
+      "fromIata": "CIA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-07T23:00:54.053025Z"
 }
