@@ -2487,7 +2487,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-06T11:20:32.850802Z"
+    "checked_at": "2026-10-07T11:35:24.765748Z"
   },
   "KLM26L": {
     "route": {
@@ -2608,7 +2608,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T11:50:36.070780Z"
+    "checked_at": "2026-10-07T11:35:24.765748Z"
   },
   "KLC21A": {
     "route": {
@@ -2630,7 +2630,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-06T12:20:31.619271Z"
+    "checked_at": "2026-10-07T11:35:24.765748Z"
   },
   "PGT93T": {
     "route": {
@@ -5107,7 +5107,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-06T11:55:29.876672Z"
+    "checked_at": "2026-10-07T11:35:24.765748Z"
   },
   "DLH3TT": {
     "route": {
@@ -6248,32 +6248,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-07T10:55:24.247218Z"
-  },
-  "VJT813": {
-    "route": null,
-    "checked_at": "2026-10-05T11:30:44.562290Z"
-  },
-  "EJU61PU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-05T11:35:23.859914Z"
-  },
-  "WZZ11U": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-05T11:35:23.859914Z"
   },
   "EJU17HZ": {
     "route": {
@@ -9962,7 +9936,7 @@
   },
   "T7DRM": {
     "route": null,
-    "checked_at": "2026-10-06T15:55:25.850626Z"
+    "checked_at": "2026-10-07T11:35:24.765748Z"
   },
   "RYR5WP": {
     "route": {
@@ -11841,5 +11815,38 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-07T11:25:25.931474Z"
+  },
+  "EJU5020": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-07T11:35:24.765748Z"
+  },
+  "BEL9CK": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-07T11:35:24.765748Z"
+  },
+  "RYR8BL": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T11:35:24.765748Z"
   }
 }
