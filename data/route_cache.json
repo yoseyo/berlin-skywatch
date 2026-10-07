@@ -6279,32 +6279,6 @@
     },
     "checked_at": "2026-10-07T14:45:29.523812Z"
   },
-  "LOT3JK": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-05T16:05:26.788988Z"
-  },
-  "PTO6625": {
-    "route": null,
-    "checked_at": "2026-10-05T16:05:26.788988Z"
-  },
-  "RYR52WA": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T16:05:26.788988Z"
-  },
   "EJU92MK": {
     "route": {
       "fromCity": "Berlin",
@@ -11711,5 +11685,49 @@
   "NJE857E": {
     "route": null,
     "checked_at": "2026-10-07T16:05:25.724277Z"
+  },
+  "NSZ2066": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T16:10:31.357323Z"
+  },
+  "EJU5017": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-07T16:10:31.357323Z"
+  },
+  "EWG63L": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-07T16:10:31.357323Z"
+  },
+  "RYR3LF": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T16:10:31.357323Z"
   }
 }
