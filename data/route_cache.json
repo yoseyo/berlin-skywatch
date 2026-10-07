@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-06T12:55:24.361993Z"
+    "checked_at": "2026-10-07T12:50:35.264512Z"
   },
   "MSC2961": {
     "route": {
@@ -111,7 +111,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-06T07:55:25.108164Z"
+    "checked_at": "2026-10-07T12:50:35.264512Z"
   },
   "AUA21P": {
     "route": {
@@ -3904,17 +3904,6 @@
     },
     "checked_at": "2026-10-05T13:55:25.492371Z"
   },
-  "RJA137": {
-    "route": {
-      "fromCity": "Amman",
-      "fromIata": "AMM",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Royal Jordanian",
-      "airlineCountry": "Jordan"
-    },
-    "checked_at": "2026-10-05T12:50:33.039154Z"
-  },
   "RJA138": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -6259,21 +6248,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T12:50:34.557941Z"
-  },
-  "DIAPC": {
-    "route": null,
-    "checked_at": "2026-10-05T12:50:33.039154Z"
-  },
-  "SAS7947": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Preveza/Lefkada",
-      "toIata": "PVK",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-05T12:50:33.039154Z"
   },
   "RYR939": {
     "route": {
@@ -11816,5 +11790,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T12:45:32.222186Z"
+  },
+  "RYR525H": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T12:50:35.264512Z"
   }
 }
