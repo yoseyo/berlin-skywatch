@@ -6249,17 +6249,6 @@
     },
     "checked_at": "2026-10-06T12:50:34.557941Z"
   },
-  "RYR939": {
-    "route": {
-      "fromCity": "Kaunas",
-      "fromIata": "KUN",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T12:55:25.055357Z"
-  },
   "CSN461": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -11801,5 +11790,57 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-07T12:50:35.264512Z"
+  },
+  "DHEER": {
+    "route": null,
+    "checked_at": "2026-10-07T12:55:26.395917Z"
+  },
+  "SAS58M": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T12:55:26.395917Z"
+  },
+  "CHX47": {
+    "route": null,
+    "checked_at": "2026-10-07T12:55:26.395917Z"
+  },
+  "RJA137": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-10-07T12:55:26.395917Z"
+  },
+  "MSC2958": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Cairo",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-07T12:55:26.395917Z"
+  },
+  "WZZ93ZW": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-07T12:55:26.395917Z"
   }
 }
