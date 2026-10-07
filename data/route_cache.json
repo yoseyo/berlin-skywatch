@@ -901,7 +901,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-06T18:50:34.374345Z"
+    "checked_at": "2026-10-07T19:05:26.107860Z"
   },
   "NOZ9VF": {
     "route": {
@@ -912,7 +912,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-06T19:30:43.700594Z"
+    "checked_at": "2026-10-07T19:05:26.107860Z"
   },
   "SXS6XP": {
     "route": {
@@ -3704,17 +3704,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-07T17:15:35.233230Z"
-  },
-  "SAS2768": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-05T19:01:02.771987Z"
   },
   "ELY005": {
     "route": null,
@@ -11656,5 +11645,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-07T19:00:56.849084Z"
+  },
+  "KLM60M": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-07T19:05:26.107860Z"
+  },
+  "RYR5074": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T19:05:26.107860Z"
+  },
+  "ASL86W": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-07T19:05:26.107860Z"
   }
 }
