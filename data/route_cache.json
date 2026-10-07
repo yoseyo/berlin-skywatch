@@ -5232,7 +5232,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-06T19:10:33.462498Z"
+    "checked_at": "2026-10-07T19:20:36.981960Z"
   },
   "BTI8GC": {
     "route": {
@@ -6352,32 +6352,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-07T12:35:28.306847Z"
-  },
-  "PBB16": {
-    "route": null,
-    "checked_at": "2026-10-05T19:16:34.597838Z"
-  },
-  "RYR28BE": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T19:16:34.597838Z"
-  },
-  "LOT7EG": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Goleniow",
-      "toIata": "SZZ",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-05T19:16:34.597838Z"
   },
   "CFG2EJ": {
     "route": {
@@ -11678,5 +11652,38 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-10-07T19:11:09.316974Z"
+  },
+  "WZZ9UF": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-07T19:20:36.981960Z"
+  },
+  "SAS2778": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T19:20:36.981960Z"
+  },
+  "CFG1CD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-07T19:20:36.981960Z"
   }
 }
