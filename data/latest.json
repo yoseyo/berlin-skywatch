@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "AEG6912",
+      "country": "Estonia",
+      "lat": 52.1559,
+      "lon": 13.685,
+      "altKm": 6.0,
+      "speedKmh": 509,
+      "heading": 68,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.2794,
-      "lon": 13.1165,
-      "altKm": 1.6,
-      "speedKmh": 338,
+      "lat": 52.3609,
+      "lon": 13.4565,
+      "altKm": 0.2,
+      "speedKmh": 229,
       "heading": 69,
-      "vertRateMs": -4.9,
+      "vertRateMs": -3.2,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -16,7 +27,58 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.3993,
+      "lon": 13.4648,
+      "altKm": 9.4,
+      "speedKmh": 891,
+      "heading": 45,
+      "vertRateMs": 6.2,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
+      "callsign": "SWT3WZ",
+      "country": "Spain",
+      "lat": 52.2326,
+      "lon": 12.9913,
+      "altKm": 1.8,
+      "speedKmh": 482,
+      "heading": 55,
+      "vertRateMs": -2.6,
+      "airline": "Swiftair",
+      "airlineCountry": "Spain",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS3612",
+      "country": "Ireland",
+      "lat": 52.3804,
+      "lon": 12.8335,
+      "altKm": 9.4,
+      "speedKmh": 911,
+      "heading": 28,
+      "vertRateMs": 12.0,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-07T03:25:25.526240Z"
+  "updated_at": "2026-10-07T03:30:44.325814Z"
 }
