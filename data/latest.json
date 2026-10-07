@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "CHX71",
-      "country": "Germany",
-      "lat": 52.5432,
-      "lon": 13.412,
-      "altKm": 0.5,
-      "speedKmh": 223,
-      "heading": 291,
-      "vertRateMs": -0.7,
-      "category": "heli"
+      "callsign": "NSZ3355",
+      "country": "Sweden",
+      "lat": 52.7221,
+      "lon": 13.9297,
+      "altKm": 11.8,
+      "speedKmh": 806,
+      "heading": 344,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-07T23:10:30.757904Z"
+  "updated_at": "2026-10-07T23:15:32.253805Z"
 }
