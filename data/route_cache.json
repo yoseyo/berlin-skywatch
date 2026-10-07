@@ -3442,7 +3442,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-06T08:15:31.577977Z"
+    "checked_at": "2026-10-07T08:20:34.799212Z"
   },
   "DLH1KX": {
     "route": {
@@ -4537,7 +4537,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-05T08:30:44.801004Z"
+    "checked_at": "2026-10-07T08:20:34.799212Z"
   },
   "EJU93RY": {
     "route": {
@@ -6255,17 +6255,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-07T08:05:27.494412Z"
-  },
-  "EJU43CX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-05T08:15:32.330958Z"
   },
   "DEECR": {
     "route": null,
@@ -11875,5 +11864,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-07T08:10:31.257848Z"
+  },
+  "MGH391": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-07T08:20:34.799212Z"
+  },
+  "BAW84NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-07T08:20:34.799212Z"
   }
 }
