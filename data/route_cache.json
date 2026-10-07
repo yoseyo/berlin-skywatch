@@ -6355,7 +6355,7 @@
   },
   "AEG6911": {
     "route": null,
-    "checked_at": "2026-10-05T21:00:59.349458Z"
+    "checked_at": "2026-10-07T20:45:30.523120Z"
   },
   "SAS7744": {
     "route": {
@@ -11751,5 +11751,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-07T20:40:35.940408Z"
+  },
+  "WZZ9596": {
+    "route": {
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Paphos",
+      "toIata": "PFO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-07T20:45:30.523120Z"
+  },
+  "EZS67CP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-07T20:45:30.523120Z"
   }
 }
