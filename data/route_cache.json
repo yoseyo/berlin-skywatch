@@ -1187,7 +1187,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-05T21:00:59.349458Z"
+    "checked_at": "2026-10-07T21:05:26.043701Z"
   },
   "SXS8ER": {
     "route": {
@@ -4285,17 +4285,6 @@
   "EJU32RT": {
     "route": null,
     "checked_at": "2026-10-07T19:11:09.316974Z"
-  },
-  "EWG4J": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T21:00:59.349458Z"
   },
   "RYR98ST": {
     "route": {
@@ -11806,5 +11795,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-07T20:55:23.668750Z"
+  },
+  "SDR33WB": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T21:05:26.043701Z"
   }
 }
