@@ -262,7 +262,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-06T14:40:32.784766Z"
+    "checked_at": "2026-10-07T14:50:32.625259Z"
   },
   "KLM49N": {
     "route": {
@@ -4135,17 +4135,6 @@
     },
     "checked_at": "2026-10-06T11:25:27.337418Z"
   },
-  "DLH7MR": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T14:50:31.163218Z"
-  },
   "EJU12QE": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6252,21 +6241,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T14:20:32.771921Z"
-  },
-  "N7777Q": {
-    "route": null,
-    "checked_at": "2026-10-05T14:50:31.163218Z"
-  },
-  "DLH4RK": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T14:50:31.163218Z"
   },
   "EJU38AB": {
     "route": {
@@ -11841,5 +11815,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-07T14:40:32.086268Z"
+  },
+  "TKJ9TC": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-07T14:50:32.625259Z"
   }
 }
