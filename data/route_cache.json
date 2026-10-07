@@ -1385,7 +1385,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T05:40:34.658981Z"
+    "checked_at": "2026-10-07T05:20:34.763607Z"
   },
   "BEL8YE": {
     "route": {
@@ -4948,7 +4948,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-06T05:20:31.644313Z"
+    "checked_at": "2026-10-07T05:20:34.763607Z"
   },
   "EWG6KW": {
     "route": {
@@ -5078,17 +5078,6 @@
   "DMYHG": {
     "route": null,
     "checked_at": "2026-10-06T07:40:33.777965Z"
-  },
-  "EJU83ZK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-05T05:20:28.537780Z"
   },
   "EJU8624": {
     "route": {
@@ -6211,17 +6200,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T05:50:32.563182Z"
-  },
-  "RYR4311": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "BGY",
-      "toCity": "Rovaniemi",
-      "toIata": "RVN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T05:20:28.537780Z"
   },
   "NSZ3288": {
     "route": {
@@ -12081,5 +12059,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T05:15:32.173778Z"
+  },
+  "EJU85XR": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-07T05:20:34.763607Z"
+  },
+  "EJU12HB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-07T05:20:34.763607Z"
+  },
+  "EWG2W": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-07T05:20:34.763607Z"
   }
 }
