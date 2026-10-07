@@ -34,7 +34,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-06T13:40:33.350153Z"
+    "checked_at": "2026-10-07T13:30:46.476200Z"
   },
   "RYR54CX": {
     "route": {
@@ -6282,17 +6282,6 @@
     },
     "checked_at": "2026-10-06T13:45:33.657435Z"
   },
-  "ENT505N": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Chi\u015fin\u0103u",
-      "toIata": "RMO",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-05T13:30:45.338158Z"
-  },
   "DAHRT": {
     "route": null,
     "checked_at": "2026-10-05T13:35:25.157576Z"
@@ -11798,5 +11787,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T13:25:26.832920Z"
+  },
+  "MMD6283": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Alsie",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-07T13:30:46.476200Z"
+  },
+  "DWW055": {
+    "route": null,
+    "checked_at": "2026-10-07T13:30:46.476200Z"
+  },
+  "CFG5FE": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-07T13:30:46.476200Z"
   }
 }
