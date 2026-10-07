@@ -1,14 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "EWG7WB",
+      "country": "Germany",
+      "lat": 52.3132,
+      "lon": 13.7552,
+      "altKm": 2.2,
+      "speedKmh": 437,
+      "heading": 197,
+      "vertRateMs": 7.8,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR39DH",
       "country": "Malta",
-      "lat": 52.3763,
-      "lon": 13.5213,
-      "altKm": 0.1,
-      "speedKmh": 212,
-      "heading": 69,
-      "vertRateMs": 0.3,
+      "lat": 52.4839,
+      "lon": 13.3921,
+      "altKm": 3.5,
+      "speedKmh": 630,
+      "heading": 251,
+      "vertRateMs": 4.9,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Berlin",
@@ -18,5 +31,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-07T03:55:24.097372Z"
+  "updated_at": "2026-10-07T04:00:52.374109Z"
 }
