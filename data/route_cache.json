@@ -2711,7 +2711,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T11:05:25.218588Z"
+    "checked_at": "2026-10-07T11:10:31.662956Z"
   },
   "MSC2960": {
     "route": {
@@ -5241,17 +5241,6 @@
     },
     "checked_at": "2026-10-05T15:30:44.700329Z"
   },
-  "BEL9CK": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-05T11:10:31.205510Z"
-  },
   "CFE93AU": {
     "route": {
       "fromCity": "London",
@@ -5412,7 +5401,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-06T12:50:34.557941Z"
+    "checked_at": "2026-10-07T11:10:31.662956Z"
   },
   "EWG67A": {
     "route": {
@@ -6259,10 +6248,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T10:50:33.075231Z"
-  },
-  "N706GA": {
-    "route": null,
-    "checked_at": "2026-10-05T11:10:31.205510Z"
   },
   "NOZ1104": {
     "route": {
@@ -11845,5 +11830,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T11:00:54.627739Z"
+  },
+  "RYR364N": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T11:10:31.662956Z"
   }
 }
