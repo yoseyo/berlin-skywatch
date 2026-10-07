@@ -409,7 +409,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-06T15:25:29.986113Z"
+    "checked_at": "2026-10-07T15:35:25.362215Z"
   },
   "PGT7UZ": {
     "route": {
@@ -4434,7 +4434,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-06T15:40:32.331258Z"
+    "checked_at": "2026-10-07T15:35:25.362215Z"
   },
   "AUA234G": {
     "route": {
@@ -4976,17 +4976,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-06T11:30:47.098311Z"
-  },
-  "SAS23G": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-05T15:30:44.700329Z"
   },
   "CFE93AU": {
     "route": {
@@ -6241,32 +6230,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-07T15:20:31.778467Z"
-  },
-  "ADN57B": {
-    "route": null,
-    "checked_at": "2026-10-05T15:30:44.700329Z"
-  },
-  "FIN2K": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-05T15:30:44.700329Z"
-  },
-  "CFG9YT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T15:30:44.700329Z"
   },
   "RYR98AR": {
     "route": {
@@ -8920,7 +8883,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T14:25:24.784555Z"
+    "checked_at": "2026-10-07T15:35:25.362215Z"
   },
   "EWG2HC": {
     "route": {
@@ -11755,5 +11718,38 @@
   "DFLIR": {
     "route": null,
     "checked_at": "2026-10-07T15:30:43.975555Z"
+  },
+  "EWG9KG": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-07T15:35:25.362215Z"
+  },
+  "NSZ4VC": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T15:35:25.362215Z"
+  },
+  "WZZ9502": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-07T15:35:25.362215Z"
   }
 }
