@@ -5707,7 +5707,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-05T16:00:55.568726Z"
+    "checked_at": "2026-10-07T06:20:36.838318Z"
   },
   "CFE61X": {
     "route": {
@@ -6234,17 +6234,6 @@
     },
     "checked_at": "2026-10-07T06:15:31.130692Z"
   },
-  "JTD243": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Preveza/Lefkada",
-      "toIata": "PVK",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-05T06:15:32.242577Z"
-  },
   "BTI83L": {
     "route": {
       "fromCity": "Riga",
@@ -6255,28 +6244,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-06T06:15:31.420207Z"
-  },
-  "ASL94D": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-05T06:20:30.386249Z"
-  },
-  "RYR8603": {
-    "route": {
-      "fromCity": "Weeze",
-      "fromIata": "NRN",
-      "toCity": "Valencia",
-      "toIata": "VLC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T06:20:30.386249Z"
   },
   "WZZ5918": {
     "route": {
@@ -12018,5 +11985,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-07T06:15:31.130692Z"
+  },
+  "NSZ5NE": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T06:20:36.838318Z"
   }
 }
