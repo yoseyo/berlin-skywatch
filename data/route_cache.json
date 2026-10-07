@@ -2366,7 +2366,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-06T10:20:38.857715Z"
+    "checked_at": "2026-10-07T10:20:33.053159Z"
   },
   "FIN50M": {
     "route": {
@@ -4157,17 +4157,6 @@
     },
     "checked_at": "2026-10-05T10:25:24.206506Z"
   },
-  "FHY1282": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-05T10:20:29.952514Z"
-  },
   "EJU12TM": {
     "route": {
       "fromCity": "Paris",
@@ -5186,10 +5175,6 @@
     },
     "checked_at": "2026-10-06T11:55:29.876672Z"
   },
-  "DESSU": {
-    "route": null,
-    "checked_at": "2026-10-05T10:20:29.952514Z"
-  },
   "DLH3TT": {
     "route": {
       "fromCity": "Birmingham",
@@ -5243,7 +5228,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-05T10:40:30.658267Z"
+    "checked_at": "2026-10-07T10:20:33.053159Z"
   },
   "WZZ20KU": {
     "route": {
@@ -6274,17 +6259,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-07T10:10:31.667710Z"
-  },
-  "EJU49LD": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-05T10:20:29.952514Z"
   },
   "RYR93QN": {
     "route": {
@@ -11809,5 +11783,27 @@
   "GAF612": {
     "route": null,
     "checked_at": "2026-10-07T10:16:07.295648Z"
+  },
+  "MGH392": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-07T10:20:33.053159Z"
+  },
+  "MGL137": {
+    "route": {
+      "fromCity": "Ulaanbaatar (Sergelen)",
+      "fromIata": "UBN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "MIAT Mongolian Airlines",
+      "airlineCountry": "Mongolia"
+    },
+    "checked_at": "2026-10-07T10:20:33.053159Z"
   }
 }
