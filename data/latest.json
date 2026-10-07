@@ -1,14 +1,48 @@
 {
   "flights": [
     {
+      "callsign": "AFR84XP",
+      "country": "France",
+      "lat": 52.2898,
+      "lon": 13.5125,
+      "altKm": 1.5,
+      "speedKmh": 388,
+      "heading": 218,
+      "vertRateMs": 8.8,
+      "airline": "Air France",
+      "airlineCountry": "France",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU8624",
+      "country": "Austria",
+      "lat": 52.3553,
+      "lon": 13.5489,
+      "altKm": 0.7,
+      "speedKmh": 245,
+      "heading": 144,
+      "vertRateMs": 13,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "category": "plane"
+    },
+    {
       "callsign": "WMT2GJ",
       "country": "Malta",
-      "lat": 52.1209,
-      "lon": 13.7741,
-      "altKm": 3.5,
-      "speedKmh": 630,
-      "heading": 276,
-      "vertRateMs": -11.4,
+      "lat": 52.1892,
+      "lon": 13.2035,
+      "altKm": 1.5,
+      "speedKmh": 435,
+      "heading": 355,
+      "vertRateMs": -1.6,
       "airline": "Wizz Air Malta",
       "airlineCountry": "Malta",
       "fromCity": "Bucharest",
@@ -18,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-07T04:35:24.069266Z"
+  "updated_at": "2026-10-07T04:40:33.001463Z"
 }
