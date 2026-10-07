@@ -137,7 +137,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-10-06T06:10:34.210693Z"
+    "checked_at": "2026-10-07T07:00:55.778594Z"
   },
   "SXS8TG": {
     "route": {
@@ -1690,7 +1690,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-05T07:00:52.365071Z"
+    "checked_at": "2026-10-07T07:00:55.778594Z"
   },
   "DLH2NL": {
     "route": {
@@ -1701,7 +1701,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T06:50:32.136682Z"
+    "checked_at": "2026-10-07T07:00:55.778594Z"
   },
   "SAS767": {
     "route": {
@@ -1712,7 +1712,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-06T06:55:24.552437Z"
+    "checked_at": "2026-10-07T07:00:55.778594Z"
   },
   "DLH3TR": {
     "route": {
@@ -2476,7 +2476,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-06T07:00:52.760077Z"
+    "checked_at": "2026-10-07T07:00:55.778594Z"
   },
   "NOZ53Y": {
     "route": {
@@ -5009,17 +5009,6 @@
     },
     "checked_at": "2026-10-05T11:25:24.366368Z"
   },
-  "RYR525H": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T07:00:52.365071Z"
-  },
   "DMYHG": {
     "route": null,
     "checked_at": "2026-10-06T07:40:33.777965Z"
@@ -6255,28 +6244,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-06T07:10:34.487669Z"
-  },
-  "EJU51LD": {
-    "route": {
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-05T07:00:52.365071Z"
-  },
-  "CFG2DC": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T07:00:52.365071Z"
   },
   "DMS2HR": {
     "route": {
@@ -11937,5 +11904,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-07T06:55:25.146166Z"
+  },
+  "PGT982": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-07T07:00:55.778594Z"
+  },
+  "SXS6SJ": {
+    "route": {
+      "fromCity": "Dalaman",
+      "fromIata": "DLM",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-07T07:00:55.778594Z"
   }
 }
