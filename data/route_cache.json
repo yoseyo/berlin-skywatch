@@ -1433,7 +1433,7 @@
   },
   "CHX49": {
     "route": null,
-    "checked_at": "2026-10-06T13:50:34.329589Z"
+    "checked_at": "2026-10-07T15:20:31.778467Z"
   },
   "DLH4UV": {
     "route": {
@@ -3600,7 +3600,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T14:25:24.784555Z"
+    "checked_at": "2026-10-07T15:20:31.778467Z"
   },
   "SWR9YP": {
     "route": {
@@ -4435,39 +4435,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-06T15:40:32.331258Z"
-  },
-  "EWG41W": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T15:15:31.071245Z"
-  },
-  "EWG2WY": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Funchal",
-      "toIata": "FNC",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T15:10:30.728549Z"
-  },
-  "TVF97PR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "ORY",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-05T15:15:31.071245Z"
   },
   "AUA234G": {
     "route": {
@@ -6253,50 +6220,6 @@
     },
     "checked_at": "2026-10-06T21:14:53.048424Z"
   },
-  "NSZ72N": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-05T15:10:30.728549Z"
-  },
-  "RYR916R": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T15:10:30.728549Z"
-  },
-  "EZY84XQ": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-05T15:15:31.071245Z"
-  },
-  "RYR17UC": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-05T15:15:31.071245Z"
-  },
   "RYR11CP": {
     "route": {
       "fromCity": "Berlin",
@@ -6317,7 +6240,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-06T15:15:33.147920Z"
+    "checked_at": "2026-10-07T15:20:31.778467Z"
   },
   "SR812F": {
     "route": null,
@@ -11814,5 +11737,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-07T14:56:02.659184Z"
+  },
+  "EWG3AM": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-07T15:20:31.778467Z"
   }
 }
