@@ -5617,10 +5617,6 @@
     },
     "checked_at": "2026-10-05T11:10:31.205510Z"
   },
-  "GAF304": {
-    "route": null,
-    "checked_at": "2026-10-05T06:05:23.119771Z"
-  },
   "CFE93AU": {
     "route": {
       "fromCity": "London",
@@ -12044,5 +12040,20 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-07T06:00:56.631057Z"
+  },
+  "RYR1JK": {
+    "route": {
+      "fromCity": "Cork",
+      "fromIata": "ORK",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T06:05:26.344801Z"
+  },
+  "ATV301": {
+    "route": null,
+    "checked_at": "2026-10-07T06:05:26.344801Z"
   }
 }
