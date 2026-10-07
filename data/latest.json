@@ -1,16 +1,50 @@
 {
   "flights": [
     {
+      "callsign": "KLM73D",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.6529,
+      "lon": 13.7204,
+      "altKm": 12.1,
+      "speedKmh": 901,
+      "heading": 92,
+      "vertRateMs": -0.3,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
+    },
+    {
       "callsign": "CHX82",
       "country": "Germany",
-      "lat": 52.577,
-      "lon": 13.1986,
-      "altKm": 0.3,
-      "speedKmh": 128,
-      "heading": 112,
-      "vertRateMs": -1.6,
+      "lat": 52.5744,
+      "lon": 13.2005,
+      "altKm": 0.1,
+      "speedKmh": 13,
+      "heading": 188,
+      "vertRateMs": -1.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR11GY",
+      "country": "Malta",
+      "lat": 52.3715,
+      "lon": 13.5448,
+      "altKm": 11.8,
+      "speedKmh": 722,
+      "heading": 279,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "London",
+      "toIata": "STN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-07T22:25:25.360094Z"
+  "updated_at": "2026-10-07T22:30:42.974562Z"
 }
