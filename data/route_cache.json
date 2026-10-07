@@ -2289,7 +2289,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T09:55:24.304813Z"
+    "checked_at": "2026-10-07T10:05:25.709833Z"
   },
   "CTN481": {
     "route": {
@@ -2344,7 +2344,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-06T10:05:26.607295Z"
+    "checked_at": "2026-10-07T10:05:25.709833Z"
   },
   "AEE2WD": {
     "route": {
@@ -6242,17 +6242,6 @@
     },
     "checked_at": "2026-10-06T15:50:31.764437Z"
   },
-  "UBD446": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Arbil",
-      "toIata": "EBL",
-      "airlineName": "United Airways",
-      "airlineCountry": "Bangladesh"
-    },
-    "checked_at": "2026-10-05T10:00:53.829050Z"
-  },
   "AFR65AR": {
     "route": {
       "fromCity": "Paris",
@@ -6263,21 +6252,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-07T09:40:32.718719Z"
-  },
-  "CFG2FR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-05T10:00:53.829050Z"
-  },
-  "N47FR": {
-    "route": null,
-    "checked_at": "2026-10-05T10:05:24.205316Z"
   },
   "FIN1YB": {
     "route": {
@@ -6299,7 +6273,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-06T12:05:24.700287Z"
+    "checked_at": "2026-10-07T10:05:25.709833Z"
   },
   "ATV108": {
     "route": null,
@@ -11812,5 +11786,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-07T10:00:53.415323Z"
+  },
+  "CFG3YU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-07T10:05:25.709833Z"
+  },
+  "DEPAD": {
+    "route": null,
+    "checked_at": "2026-10-07T10:05:25.709833Z"
   }
 }
