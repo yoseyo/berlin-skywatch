@@ -534,7 +534,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T16:30:44.181071Z"
+    "checked_at": "2026-10-07T16:45:34.301303Z"
   },
   "AUA99HC": {
     "route": {
@@ -567,7 +567,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-05T16:45:34.919488Z"
+    "checked_at": "2026-10-07T16:45:34.301303Z"
   },
   "LHX195": {
     "route": {
@@ -659,7 +659,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-06T16:35:23.664802Z"
+    "checked_at": "2026-10-07T16:45:34.301303Z"
   },
   "PGT49YQ": {
     "route": {
@@ -3799,7 +3799,7 @@
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-10-06T16:50:32.116313Z"
+    "checked_at": "2026-10-07T16:45:34.301303Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -6289,28 +6289,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-06T16:00:54.962024Z"
-  },
-  "EZY3162": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paisley, Renfrewshire",
-      "toIata": "GLA",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-05T16:40:35.545075Z"
-  },
-  "DAH2072": {
-    "route": {
-      "fromCity": "Algiers",
-      "fromIata": "ALG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Algerie",
-      "airlineCountry": "Algeria"
-    },
-    "checked_at": "2026-10-05T16:40:35.545075Z"
   },
   "LHX851": {
     "route": {
@@ -9132,7 +9110,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T17:10:33.696748Z"
+    "checked_at": "2026-10-07T16:45:34.301303Z"
   },
   "EJU9041": {
     "route": {
@@ -11706,5 +11684,20 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-07T16:40:33.478551Z"
+  },
+  "NSZ4377": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-07T16:45:34.301303Z"
+  },
+  "EJU5075": {
+    "route": null,
+    "checked_at": "2026-10-07T16:45:34.301303Z"
   }
 }
