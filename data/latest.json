@@ -1,22 +1,61 @@
 {
   "flights": [
     {
-      "callsign": "DLH172",
-      "country": "Germany",
-      "lat": 52.3584,
-      "lon": 13.4456,
-      "altKm": 0.3,
-      "speedKmh": 240,
-      "heading": 69,
-      "vertRateMs": -3.2,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "TVF25AT",
+      "country": "France",
+      "lat": 52.4376,
+      "lon": 13.6382,
+      "altKm": 1.8,
+      "speedKmh": 470,
+      "heading": 340,
+      "vertRateMs": 10.4,
+      "airline": "Transavia France",
+      "airlineCountry": "France",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "ORY",
       "category": "plane"
+    },
+    {
+      "callsign": "BLX523",
+      "country": "Sweden",
+      "lat": 52.4004,
+      "lon": 13.4313,
+      "altKm": 11.5,
+      "speedKmh": 784,
+      "heading": 176,
+      "vertRateMs": 0,
+      "airline": "TUIfly Nordic",
+      "airlineCountry": "Sweden",
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "DCBEN",
+      "country": "Germany",
+      "lat": 52.3753,
+      "lon": 13.5151,
+      "altKm": 0.3,
+      "speedKmh": 292,
+      "heading": 64,
+      "vertRateMs": 18.5,
+      "category": "jet"
+    },
+    {
+      "callsign": "DICMK",
+      "country": "Germany",
+      "lat": 52.1846,
+      "lon": 13.4095,
+      "altKm": 3.5,
+      "speedKmh": 484,
+      "heading": 23,
+      "vertRateMs": 0,
+      "category": "jet"
     }
   ],
-  "updated_at": "2026-10-07T05:40:33.206928Z"
+  "updated_at": "2026-10-07T05:45:30.004809Z"
 }
