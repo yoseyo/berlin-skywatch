@@ -813,7 +813,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T18:20:33.038251Z"
+    "checked_at": "2026-10-07T18:40:33.652994Z"
   },
   "BAW846W": {
     "route": {
@@ -824,7 +824,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-06T19:40:32.572889Z"
+    "checked_at": "2026-10-07T18:40:33.652994Z"
   },
   "SWR8X": {
     "route": {
@@ -2998,7 +2998,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-05T18:40:31.759002Z"
+    "checked_at": "2026-10-07T18:40:33.652994Z"
   },
   "KLM60M": {
     "route": {
@@ -4101,17 +4101,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-07T18:30:48.939006Z"
-  },
-  "NSZ4507": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-05T18:40:31.759002Z"
   },
   "BAW996G": {
     "route": {
@@ -9055,7 +9044,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-06T18:20:33.038251Z"
+    "checked_at": "2026-10-07T18:40:33.652994Z"
   },
   "RYR4VG": {
     "route": {
@@ -11667,5 +11656,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T18:35:23.553391Z"
+  },
+  "RYR2789": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-07T18:40:33.652994Z"
   }
 }
