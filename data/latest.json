@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-07T03:50:33.429787Z"
+  "flights": [
+    {
+      "callsign": "RYR39DH",
+      "country": "Malta",
+      "lat": 52.3763,
+      "lon": 13.5213,
+      "altKm": 0.1,
+      "speedKmh": 212,
+      "heading": 69,
+      "vertRateMs": 0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-07T03:55:24.097372Z"
 }
