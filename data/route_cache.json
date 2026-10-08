@@ -3461,7 +3461,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-07T19:30:44.323966Z"
+    "checked_at": "2026-10-08T19:40:32.391958Z"
   },
   "CCA940": {
     "route": {
@@ -12098,5 +12098,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T19:35:24.647546Z"
+  },
+  "RYR70FL": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T19:40:32.391958Z"
+  },
+  "BAW997T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-08T19:40:32.391958Z"
   }
 }
