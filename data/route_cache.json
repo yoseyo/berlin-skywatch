@@ -589,7 +589,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T17:40:31.604774Z"
+    "checked_at": "2026-10-08T11:10:31.944194Z"
   },
   "TVF89NN": {
     "route": null,
@@ -2388,7 +2388,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-07T10:55:24.247218Z"
+    "checked_at": "2026-10-08T11:10:31.944194Z"
   },
   "RYR6UR": {
     "route": {
@@ -2454,7 +2454,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-07T11:20:31.984430Z"
+    "checked_at": "2026-10-08T11:10:31.944194Z"
   },
   "DLH4NF": {
     "route": {
@@ -2564,7 +2564,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-07T11:45:29.731973Z"
+    "checked_at": "2026-10-08T11:10:31.944194Z"
   },
   "SAS1677": {
     "route": {
@@ -5454,7 +5454,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-07T10:55:24.247218Z"
+    "checked_at": "2026-10-08T11:10:31.944194Z"
   },
   "LHX1HL": {
     "route": {
@@ -11781,5 +11781,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T11:00:57.145486Z"
+  },
+  "NSZ4501": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-08T11:10:31.944194Z"
+  },
+  "EJU12TM": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T11:10:31.944194Z"
+  },
+  "AME3162": {
+    "route": null,
+    "checked_at": "2026-10-08T11:10:31.944194Z"
+  },
+  "EWG7NF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T11:10:31.944194Z"
   }
 }
