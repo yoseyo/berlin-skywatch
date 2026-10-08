@@ -582,7 +582,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T11:16:08.088635Z"
+    "checked_at": "2026-10-08T20:00:52.572930Z"
   },
   "RYR77CN": {
     "route": {
@@ -978,7 +978,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-07T20:20:33.344877Z"
+    "checked_at": "2026-10-08T20:00:52.572930Z"
   },
   "AUA989D": {
     "route": {
@@ -2752,7 +2752,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-07T12:25:24.156187Z"
+    "checked_at": "2026-10-08T20:00:52.572930Z"
   },
   "EJU65CQ": {
     "route": {
@@ -6307,17 +6307,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T18:35:25.277266Z"
-  },
-  "SXS5UE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Samsun",
-      "toIata": "SZF",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-06T19:55:25.410276Z"
   },
   "PGT1616": {
     "route": null,
@@ -12123,5 +12112,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-08T19:55:22.994076Z"
+  },
+  "SAS79E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-08T20:00:52.572930Z"
+  },
+  "WZZ596": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-08T20:00:52.572930Z"
   }
 }
