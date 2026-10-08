@@ -5022,17 +5022,6 @@
     },
     "checked_at": "2026-10-08T09:30:44.337841Z"
   },
-  "RYR924": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T21:10:34.538502Z"
-  },
   "BPO562": {
     "route": null,
     "checked_at": "2026-10-07T06:50:34.514185Z"
@@ -5550,7 +5539,7 @@
       "airlineName": "Star Air",
       "airlineCountry": "Denmark"
     },
-    "checked_at": "2026-10-07T21:20:31.582700Z"
+    "checked_at": "2026-10-08T21:15:29.385620Z"
   },
   "BCS5959": {
     "route": {
@@ -12240,5 +12229,27 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-08T21:10:31.600890Z"
+  },
+  "EJU38AB": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T21:15:29.385620Z"
+  },
+  "EJU9047": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T21:15:29.385620Z"
   }
 }
