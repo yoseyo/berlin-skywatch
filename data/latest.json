@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "SRR6228",
+      "country": "Denmark",
+      "lat": 52.3086,
+      "lon": 12.8682,
+      "altKm": 2.9,
+      "speedKmh": 441,
+      "heading": 249,
+      "vertRateMs": -5.8,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.3904,
-      "lon": 13.1727,
+      "lat": 52.5055,
+      "lon": 13.3934,
       "altKm": 0.5,
-      "speedKmh": 236,
-      "heading": 49,
+      "speedKmh": 240,
+      "heading": 50,
       "vertRateMs": 0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-08T03:15:30.839452Z"
+  "updated_at": "2026-10-08T03:20:32.044616Z"
 }
