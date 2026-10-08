@@ -5539,7 +5539,7 @@
   },
   "AEG6911": {
     "route": null,
-    "checked_at": "2026-10-07T20:45:30.523120Z"
+    "checked_at": "2026-10-08T21:00:52.380423Z"
   },
   "SRR6227": {
     "route": {
@@ -6392,17 +6392,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-07T20:55:23.668750Z"
-  },
-  "RYR44PB": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T20:55:28.305833Z"
   },
   "CEF574": {
     "route": null,
@@ -12233,5 +12222,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T20:55:23.653854Z"
+  },
+  "NOZ47E": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-08T21:00:52.380423Z"
+  },
+  "RYR12AV": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T21:00:52.380423Z"
   }
 }
