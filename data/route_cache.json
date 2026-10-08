@@ -758,7 +758,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-07T18:00:55.764685Z"
+    "checked_at": "2026-10-08T18:30:44.379496Z"
   },
   "EWG5JH": {
     "route": {
@@ -802,7 +802,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-07T18:30:48.939006Z"
+    "checked_at": "2026-10-08T18:30:44.379496Z"
   },
   "BEL9DL": {
     "route": {
@@ -7247,7 +7247,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-07T08:50:34.189270Z"
+    "checked_at": "2026-10-08T18:30:44.379496Z"
   },
   "RYR3RK": {
     "route": {
@@ -11937,5 +11937,42 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-08T18:20:32.130150Z"
+  },
+  "SVW29VM": {
+    "route": null,
+    "checked_at": "2026-10-08T18:30:44.379496Z"
+  },
+  "EJU16CF": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T18:30:44.379496Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-08T18:30:44.379496Z"
+  },
+  "RYR5ME": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T18:30:44.379496Z"
   }
 }
