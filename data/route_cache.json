@@ -2311,7 +2311,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-07T09:50:35.540189Z"
+    "checked_at": "2026-10-08T09:50:32.860396Z"
   },
   "AUA27Y": {
     "route": {
@@ -4526,17 +4526,6 @@
     },
     "checked_at": "2026-10-07T10:00:53.415323Z"
   },
-  "EJU5060": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-06T09:50:32.152960Z"
-  },
   "TAP31DB": {
     "route": {
       "fromCity": "Berlin",
@@ -6352,7 +6341,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-10-06T09:50:32.152960Z"
+    "checked_at": "2026-10-08T09:50:32.860396Z"
   },
   "EJU96PC": {
     "route": {
@@ -9486,7 +9475,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T12:50:35.264512Z"
+    "checked_at": "2026-10-08T09:50:32.860396Z"
   },
   "DHEER": {
     "route": null,
@@ -11821,5 +11810,27 @@
   "PTO5528": {
     "route": null,
     "checked_at": "2026-10-08T09:45:33.130592Z"
+  },
+  "RYR4022": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T09:50:32.860396Z"
+  },
+  "LOT252": {
+    "route": {
+      "fromCity": "Luxembourg",
+      "fromIata": "LUX",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-08T09:50:32.860396Z"
   }
 }
