@@ -4432,7 +4432,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-07T18:20:33.769970Z"
+    "checked_at": "2026-10-08T18:15:31.832838Z"
   },
   "CFE27PM": {
     "route": {
@@ -4553,7 +4553,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-07T18:05:25.074078Z"
+    "checked_at": "2026-10-08T18:15:31.832838Z"
   },
   "EWG3V": {
     "route": {
@@ -6270,28 +6270,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T05:50:31.941031Z"
-  },
-  "WZZ46": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-06T18:15:31.027109Z"
-  },
-  "RYR2NB": {
-    "route": {
-      "fromCity": "Torp",
-      "fromIata": "TRF",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T18:15:31.027109Z"
   },
   "DLH7PF": {
     "route": {
@@ -11929,5 +11907,24 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T18:10:32.562543Z"
+  },
+  "GAF614": {
+    "route": null,
+    "checked_at": "2026-10-08T18:15:31.832838Z"
+  },
+  "UPEM014": {
+    "route": null,
+    "checked_at": "2026-10-08T18:15:31.832838Z"
+  },
+  "RYR7BW": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T18:15:31.832838Z"
   }
 }
