@@ -409,7 +409,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T15:55:23.614561Z"
+    "checked_at": "2026-10-08T16:10:32.153517Z"
   },
   "SWR23F": {
     "route": {
@@ -486,7 +486,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-07T16:05:25.724277Z"
+    "checked_at": "2026-10-08T16:10:32.153517Z"
   },
   "AFR99GT": {
     "route": {
@@ -4568,7 +4568,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-06T16:05:26.927400Z"
+    "checked_at": "2026-10-08T16:10:32.153517Z"
   },
   "WZZ82": {
     "route": {
@@ -6242,7 +6242,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T15:35:25.362215Z"
+    "checked_at": "2026-10-08T16:10:32.153517Z"
   },
   "EWG2HC": {
     "route": {
@@ -6339,17 +6339,6 @@
   "T7DRM": {
     "route": null,
     "checked_at": "2026-10-07T11:35:24.765748Z"
-  },
-  "RYR5WP": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T16:05:26.927400Z"
   },
   "AEE512": {
     "route": {
@@ -11904,5 +11893,53 @@
   "NJE782H": {
     "route": null,
     "checked_at": "2026-10-08T16:05:26.504340Z"
+  },
+  "DEMHU": {
+    "route": null,
+    "checked_at": "2026-10-08T16:10:32.153517Z"
+  },
+  "NSZ5504": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-08T16:10:32.153517Z"
+  },
+  "NSZ5TQ": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-08T16:10:32.153517Z"
+  },
+  "THY81D": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Boston",
+      "toIata": "BOS",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-08T16:10:32.153517Z"
+  },
+  "RYR874L": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Zakynthos Island",
+      "toIata": "ZTH",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T16:10:32.153517Z"
   }
 }
