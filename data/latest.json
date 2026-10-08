@@ -1,22 +1,50 @@
 {
   "flights": [
     {
-      "callsign": "SDR84GF",
-      "country": "Germany",
-      "lat": 52.4003,
-      "lon": 13.9504,
-      "altKm": 3.8,
-      "speedKmh": 637,
-      "heading": 110,
-      "vertRateMs": 16.9,
-      "airline": "City Airline",
-      "airlineCountry": "Sweden",
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Kassel",
-      "toIata": "KSF",
+      "callsign": "HKH2",
+      "country": "Hungary",
+      "lat": 52.3844,
+      "lon": 13.9751,
+      "altKm": 3.9,
+      "speedKmh": 609,
+      "heading": 109,
+      "vertRateMs": 14.6,
+      "category": "jet"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.1787,
+      "lon": 13.2511,
+      "altKm": 1.9,
+      "speedKmh": 452,
+      "heading": 324,
+      "vertRateMs": -2.9,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.9081,
+      "lon": 13.9997,
+      "altKm": 11.1,
+      "speedKmh": 671,
+      "heading": 213,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-08T03:40:32.897857Z"
+  "updated_at": "2026-10-08T03:45:28.660912Z"
 }
