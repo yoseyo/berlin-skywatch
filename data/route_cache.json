@@ -912,7 +912,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T19:30:44.323966Z"
+    "checked_at": "2026-10-08T19:15:29.658787Z"
   },
   "SAS1680": {
     "route": {
@@ -967,7 +967,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-07T19:00:56.849084Z"
+    "checked_at": "2026-10-08T19:15:29.658787Z"
   },
   "BAW998": {
     "route": {
@@ -2800,7 +2800,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T06:55:25.146166Z"
+    "checked_at": "2026-10-08T19:15:29.658787Z"
   },
   "KLC42X": {
     "route": {
@@ -2943,7 +2943,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T04:20:32.866776Z"
+    "checked_at": "2026-10-08T19:15:29.658787Z"
   },
   "TAP53EI": {
     "route": {
@@ -3439,7 +3439,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-07T18:45:31.400225Z"
+    "checked_at": "2026-10-08T19:15:29.658787Z"
   },
   "EWG9QC": {
     "route": {
@@ -3826,17 +3826,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-07T19:45:32.977425Z"
-  },
-  "BAW997T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-06T19:10:33.462498Z"
   },
   "RYR97WV": {
     "route": {
@@ -6296,21 +6285,6 @@
   "QAV30E": {
     "route": null,
     "checked_at": "2026-10-07T09:40:32.718719Z"
-  },
-  "DLH898": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-06T19:10:33.462498Z"
-  },
-  "SDR84QF": {
-    "route": null,
-    "checked_at": "2026-10-06T19:10:33.462498Z"
   },
   "WZZ6LM": {
     "route": {
@@ -12091,5 +12065,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-08T19:10:30.523530Z"
+  },
+  "EZY32CB": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-08T19:15:29.658787Z"
+  },
+  "WZZ8AZ": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Tuzla",
+      "toIata": "TZL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-08T19:15:29.658787Z"
   }
 }
