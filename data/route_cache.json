@@ -3939,7 +3939,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-10-07T19:11:09.316974Z"
+    "checked_at": "2026-10-08T20:45:29.861999Z"
   },
   "RYR98ST": {
     "route": {
@@ -6360,17 +6360,6 @@
     },
     "checked_at": "2026-10-08T15:25:26.759126Z"
   },
-  "EJU96BD": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-06T20:45:28.838697Z"
-  },
   "EWG6AZ": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6380,7 +6369,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T11:45:29.731973Z"
+    "checked_at": "2026-10-08T20:45:29.861999Z"
   },
   "RYR24YX": {
     "route": {
@@ -9234,7 +9223,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-07T22:30:42.974562Z"
+    "checked_at": "2026-10-08T20:45:29.861999Z"
   },
   "RYR11GY": {
     "route": {
@@ -12211,5 +12200,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T20:40:30.842931Z"
+  },
+  "NOZ5EU": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-08T20:45:29.861999Z"
+  },
+  "SWR1KV": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-08T20:45:29.861999Z"
   }
 }
