@@ -4287,10 +4287,6 @@
     },
     "checked_at": "2026-10-06T17:55:23.544663Z"
   },
-  "VJT426": {
-    "route": null,
-    "checked_at": "2026-10-06T11:00:56.936900Z"
-  },
   "RYR1ZR": {
     "route": {
       "fromCity": "London",
@@ -6331,32 +6327,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-08T10:40:32.157213Z"
-  },
-  "T7MNGM": {
-    "route": null,
-    "checked_at": "2026-10-06T11:00:56.936900Z"
-  },
-  "CFE9760": {
-    "route": {
-      "fromCity": "Cardiff",
-      "fromIata": "CWL",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-06T11:00:56.936900Z"
-  },
-  "BTI8WF": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-06T11:00:56.936900Z"
   },
   "DEMLG": {
     "route": null,
@@ -11833,5 +11803,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T10:45:32.127244Z"
+  },
+  "DLH1KX": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T11:00:57.145486Z"
   }
 }
