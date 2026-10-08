@@ -1782,7 +1782,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-07T07:30:45.273580Z"
+    "checked_at": "2026-10-08T08:10:31.819974Z"
   },
   "KLM38Z": {
     "route": {
@@ -1870,7 +1870,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-07T08:05:27.494412Z"
+    "checked_at": "2026-10-08T08:10:31.819974Z"
   },
   "AUA225B": {
     "route": {
@@ -5389,17 +5389,6 @@
     },
     "checked_at": "2026-10-07T08:30:44.149932Z"
   },
-  "AUA22FA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-06T08:05:25.672778Z"
-  },
   "CFE76JZ": {
     "route": {
       "fromCity": "London",
@@ -6257,17 +6246,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-07T08:05:27.494412Z"
-  },
-  "KAL541": {
-    "route": {
-      "fromCity": "Seoul",
-      "fromIata": "ICN",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Korean Air",
-      "airlineCountry": "South Korea"
-    },
-    "checked_at": "2026-10-06T08:05:25.672778Z"
   },
   "CAI4AA": {
     "route": {
@@ -11894,5 +11872,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T08:05:24.663630Z"
+  },
+  "JFA64D": {
+    "route": null,
+    "checked_at": "2026-10-08T08:10:31.819974Z"
+  },
+  "RYR7953": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T08:10:31.819974Z"
+  },
+  "RYR297": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T08:10:31.819974Z"
   }
 }
