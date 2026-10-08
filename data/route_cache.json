@@ -67,7 +67,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-07T13:25:26.832920Z"
+    "checked_at": "2026-10-08T13:45:30.053700Z"
   },
   "SXS1VZ": {
     "route": {
@@ -1066,7 +1066,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T10:30:42.402105Z"
+    "checked_at": "2026-10-08T13:45:30.053700Z"
   },
   "KLM27F": {
     "route": {
@@ -2032,7 +2032,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T13:55:23.937522Z"
+    "checked_at": "2026-10-08T13:45:30.053700Z"
   },
   "EJU87YF": {
     "route": {
@@ -6291,17 +6291,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T12:50:34.604670Z"
-  },
-  "CFG7WJ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-06T13:40:33.350153Z"
   },
   "EJU58DM": {
     "route": {
@@ -11841,5 +11830,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T13:40:32.539307Z"
+  },
+  "CKK204": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-08T13:45:30.053700Z"
+  },
+  "SAS55H": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-08T13:45:30.053700Z"
   }
 }
