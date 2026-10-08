@@ -45,7 +45,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T08:45:34.273597Z"
+    "checked_at": "2026-10-08T13:25:23.892555Z"
   },
   "RYR24XK": {
     "route": {
@@ -2877,7 +2877,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T13:25:26.832920Z"
+    "checked_at": "2026-10-08T13:25:23.892555Z"
   },
   "RYR3YW": {
     "route": {
@@ -3109,17 +3109,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T09:30:44.337841Z"
-  },
-  "DLH2WR": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-06T13:20:39.217277Z"
   },
   "EWG55E": {
     "route": {
@@ -3836,7 +3825,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-07T09:20:35.856747Z"
+    "checked_at": "2026-10-08T13:25:23.892555Z"
   },
   "FIN33A": {
     "route": {
@@ -6292,10 +6281,6 @@
     },
     "checked_at": "2026-10-07T17:35:24.108437Z"
   },
-  "GFM6Y": {
-    "route": null,
-    "checked_at": "2026-10-06T13:20:39.217277Z"
-  },
   "LHX849": {
     "route": {
       "fromCity": "Helsinki",
@@ -6306,28 +6291,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T12:50:34.604670Z"
-  },
-  "RYR8742": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Trieste",
-      "toIata": "TRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T13:20:39.217277Z"
-  },
-  "RYR108X": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T13:20:39.217277Z"
   },
   "EJU1765": {
     "route": {
@@ -11830,5 +11793,9 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-08T13:20:34.633229Z"
+  },
+  "DFC35N": {
+    "route": null,
+    "checked_at": "2026-10-08T13:25:23.892555Z"
   }
 }
