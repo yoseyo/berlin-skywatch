@@ -1547,7 +1547,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-07T06:40:32.246597Z"
+    "checked_at": "2026-10-08T07:51:40.282897Z"
   },
   "RYR98HW": {
     "route": {
@@ -3097,7 +3097,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-07T08:55:26.384889Z"
+    "checked_at": "2026-10-08T07:51:40.282897Z"
   },
   "EJU45GF": {
     "route": {
@@ -5376,7 +5376,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-07T08:05:27.494412Z"
+    "checked_at": "2026-10-08T07:51:40.282897Z"
   },
   "LHX5PN": {
     "route": {
@@ -5982,10 +5982,6 @@
     },
     "checked_at": "2026-10-06T17:05:25.170621Z"
   },
-  "ADN87D": {
-    "route": null,
-    "checked_at": "2026-10-06T07:45:45.136700Z"
-  },
   "NSZ2067": {
     "route": {
       "fromCity": "Prague",
@@ -6258,24 +6254,9 @@
     },
     "checked_at": "2026-10-07T16:05:25.724277Z"
   },
-  "DFHOT": {
-    "route": null,
-    "checked_at": "2026-10-06T07:45:45.136700Z"
-  },
   "DFPOL": {
     "route": null,
     "checked_at": "2026-10-07T08:35:29.323763Z"
-  },
-  "ASL354": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-06T07:50:32.269622Z"
   },
   "AFR39SV": {
     "route": {
@@ -6367,7 +6348,7 @@
       "airlineName": "Azerbaijan Airlines",
       "airlineCountry": "Azerbaijan"
     },
-    "checked_at": "2026-10-06T08:20:31.423707Z"
+    "checked_at": "2026-10-08T07:51:40.282897Z"
   },
   "LBT248": {
     "route": {
@@ -11868,5 +11849,16 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-08T07:40:34.596145Z"
+  },
+  "RAM221M": {
+    "route": {
+      "fromCity": "Moscow",
+      "fromIata": "DME",
+      "toCity": "Casablanca",
+      "toIata": "CMN",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-10-08T07:51:40.282897Z"
   }
 }
