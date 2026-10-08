@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-08T01:45:29.817742Z"
+  "flights": [
+    {
+      "callsign": "FIN1676",
+      "country": "Finland",
+      "lat": 52.9183,
+      "lon": 13.0767,
+      "altKm": 12.0,
+      "speedKmh": 908,
+      "heading": 32,
+      "vertRateMs": 0,
+      "airline": "Finnair",
+      "airlineCountry": "Finland",
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-08T01:50:31.721217Z"
 }
