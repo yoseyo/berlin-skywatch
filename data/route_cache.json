@@ -3737,7 +3737,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-07T09:25:26.557998Z"
+    "checked_at": "2026-10-08T07:00:53.679224Z"
   },
   "DLH894": {
     "route": {
@@ -5295,7 +5295,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T07:25:27.209764Z"
+    "checked_at": "2026-10-08T07:00:53.679224Z"
   },
   "LHX5T": {
     "route": {
@@ -6246,28 +6246,6 @@
   "DIETB": {
     "route": null,
     "checked_at": "2026-10-07T11:55:23.664004Z"
-  },
-  "RYR3289": {
-    "route": {
-      "fromCity": "Memmingen",
-      "fromIata": "FMM",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T07:00:52.760077Z"
-  },
-  "CFG4LH": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-06T07:00:52.760077Z"
   },
   "GAF142": {
     "route": null,
@@ -11820,5 +11798,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T06:55:24.911174Z"
+  },
+  "RYR5602": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T07:00:53.679224Z"
   }
 }
