@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-08T22:20:30.097980Z"
+  "flights": [
+    {
+      "callsign": "WZZ1469",
+      "country": "Hungary",
+      "lat": 52.6956,
+      "lon": 13.9169,
+      "altKm": 10.7,
+      "speedKmh": 893,
+      "heading": 171,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-08T22:25:23.542390Z"
 }
