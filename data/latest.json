@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "SXS8QA",
+      "country": "Turkey",
+      "lat": 52.6342,
+      "lon": 13.8776,
+      "altKm": 10.7,
+      "speedKmh": 924,
+      "heading": 158,
+      "vertRateMs": 0,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5863,
-      "lon": 13.3058,
-      "altKm": 0.7,
-      "speedKmh": 176,
-      "heading": 83,
-      "vertRateMs": -1.6,
+      "lat": 52.6107,
+      "lon": 13.5859,
+      "altKm": 0.3,
+      "speedKmh": 222,
+      "heading": 112,
+      "vertRateMs": -6.2,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-08T23:00:51.913847Z"
+  "updated_at": "2026-10-08T23:05:23.350306Z"
 }
