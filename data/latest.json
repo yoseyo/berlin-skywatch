@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "EJU5088",
-      "country": "Austria",
-      "lat": 52.382,
-      "lon": 13.623,
-      "altKm": 0.5,
-      "speedKmh": 241,
-      "heading": 249,
-      "vertRateMs": -3.6,
+      "callsign": "WZZ671",
+      "country": "Hungary",
+      "lat": 52.1045,
+      "lon": 13.0601,
+      "altKm": 11.3,
+      "speedKmh": 839,
+      "heading": 51,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-08T21:45:31.836746Z"
+  "updated_at": "2026-10-08T21:50:31.456347Z"
 }
