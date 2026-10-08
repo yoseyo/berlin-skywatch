@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "AEG6912",
+      "country": "Estonia",
+      "lat": 52.1676,
+      "lon": 13.751,
+      "altKm": 5.9,
+      "speedKmh": 529,
+      "heading": 67,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.3086,
-      "lon": 12.8682,
-      "altKm": 2.9,
-      "speedKmh": 441,
-      "heading": 249,
-      "vertRateMs": -5.8,
+      "lat": 52.2593,
+      "lon": 13.033,
+      "altKm": 1.7,
+      "speedKmh": 354,
+      "heading": 69,
+      "vertRateMs": -2.6,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -20,14 +31,14 @@
     {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.5055,
-      "lon": 13.3934,
-      "altKm": 0.5,
-      "speedKmh": 240,
-      "heading": 50,
-      "vertRateMs": 0,
+      "lat": 52.6085,
+      "lon": 13.567,
+      "altKm": 0.2,
+      "speedKmh": 135,
+      "heading": 144,
+      "vertRateMs": -3.2,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-08T03:20:32.044616Z"
+  "updated_at": "2026-10-08T03:25:24.045450Z"
 }
