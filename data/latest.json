@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "RYR28HY",
+      "callsign": "RYR5WP",
+      "country": "Poland",
+      "lat": 52.4382,
+      "lon": 13.3298,
+      "altKm": 11.3,
+      "speedKmh": 853,
+      "heading": 55,
+      "vertRateMs": 0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR8WH",
       "country": "Ireland",
-      "lat": 52.5535,
-      "lon": 13.9906,
-      "altKm": 11.7,
-      "speedKmh": 826,
-      "heading": 346,
+      "lat": 52.4141,
+      "lon": 14.0457,
+      "altKm": 11.0,
+      "speedKmh": 803,
+      "heading": 342,
       "vertRateMs": -0.3,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-08T22:00:51.538442Z"
+  "updated_at": "2026-10-08T22:05:26.823578Z"
 }
