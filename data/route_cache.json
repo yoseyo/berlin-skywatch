@@ -332,7 +332,7 @@
   },
   "TVF77EX": {
     "route": null,
-    "checked_at": "2026-10-07T14:56:02.659184Z"
+    "checked_at": "2026-10-08T15:00:58.197749Z"
   },
   "NSZ3303": {
     "route": {
@@ -6332,32 +6332,6 @@
     },
     "checked_at": "2026-10-07T04:55:25.549549Z"
   },
-  "EJU72EC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-06T14:55:25.390479Z"
-  },
-  "WZZ6658": {
-    "route": null,
-    "checked_at": "2026-10-06T14:55:25.390479Z"
-  },
-  "DLH5UW": {
-    "route": {
-      "fromCity": "Zemunik (Zadar)",
-      "fromIata": "ZAD",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-06T14:55:25.390479Z"
-  },
   "CFG5AK": {
     "route": {
       "fromCity": "Berlin",
@@ -11829,5 +11803,46 @@
   "DFOOD": {
     "route": null,
     "checked_at": "2026-10-08T14:55:24.757615Z"
+  },
+  "MABGS": {
+    "route": null,
+    "checked_at": "2026-10-08T15:00:58.197749Z"
+  },
+  "N47FR": {
+    "route": null,
+    "checked_at": "2026-10-08T15:00:58.197749Z"
+  },
+  "ACA921": {
+    "route": {
+      "fromCity": "West Palm Beach",
+      "fromIata": "PBI",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Canada",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-08T15:00:58.197749Z"
+  },
+  "CFG8TD": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T15:00:58.197749Z"
+  },
+  "FIN4VP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-08T15:00:58.197749Z"
   }
 }
