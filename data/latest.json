@@ -1,14 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "EJU62LY",
+      "country": "Austria",
+      "lat": 52.3624,
+      "lon": 13.5503,
+      "altKm": 0.4,
+      "speedKmh": 301,
+      "heading": 95,
+      "vertRateMs": 11.4,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
       "callsign": "BCS15N",
       "country": "Austria",
-      "lat": 52.1578,
-      "lon": 13.0127,
-      "altKm": 8.0,
-      "speedKmh": 843,
-      "heading": 52,
-      "vertRateMs": 6.8,
+      "lat": 52.5922,
+      "lon": 13.9476,
+      "altKm": 10.2,
+      "speedKmh": 918,
+      "heading": 53,
+      "vertRateMs": 0,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
@@ -16,24 +29,7 @@
       "toCity": "Gda\u0144sk",
       "toIata": "GDN",
       "category": "plane"
-    },
-    {
-      "callsign": "SWT3WZ",
-      "country": "Spain",
-      "lat": 52.3567,
-      "lon": 13.4389,
-      "altKm": 0.3,
-      "speedKmh": 298,
-      "heading": 70,
-      "vertRateMs": -4.2,
-      "airline": "Swiftair",
-      "airlineCountry": "Spain",
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-08T03:55:22.642790Z"
+  "updated_at": "2026-10-08T04:00:55.793392Z"
 }
