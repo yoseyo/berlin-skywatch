@@ -3185,7 +3185,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T14:20:33.177003Z"
+    "checked_at": "2026-10-08T14:30:44.163111Z"
   },
   "ICE15M": {
     "route": {
@@ -3369,7 +3369,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-06T16:05:26.927400Z"
+    "checked_at": "2026-10-08T14:30:44.163111Z"
   },
   "SAS63Z": {
     "route": {
@@ -11819,5 +11819,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-08T14:25:26.744060Z"
+  },
+  "EJU96PC": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T14:30:44.163111Z"
+  },
+  "RYR3U": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Girona",
+      "toIata": "GRO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T14:30:44.163111Z"
   }
 }
