@@ -295,7 +295,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-07T15:05:27.108235Z"
+    "checked_at": "2026-10-08T15:10:35.251467Z"
   },
   "PGT978": {
     "route": {
@@ -2899,7 +2899,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-07T15:05:27.108235Z"
+    "checked_at": "2026-10-08T15:10:35.251467Z"
   },
   "EJU51HZ": {
     "route": {
@@ -7756,7 +7756,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T08:50:34.189270Z"
+    "checked_at": "2026-10-08T15:10:35.251467Z"
   },
   "RYR67EU": {
     "route": {
@@ -11826,5 +11826,60 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-08T15:05:58.500535Z"
+  },
+  "EJU42DC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T15:10:35.251467Z"
+  },
+  "FIN45M": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-08T15:10:35.251467Z"
+  },
+  "CFG4LU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T15:10:35.251467Z"
+  },
+  "AFR64PU": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-08T15:10:35.251467Z"
+  },
+  "SXS9PL": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-08T15:10:35.251467Z"
   }
 }
