@@ -5323,17 +5323,6 @@
     },
     "checked_at": "2026-10-08T06:00:54.264612Z"
   },
-  "LHX9JC": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-06T07:25:25.456143Z"
-  },
   "ASL19P": {
     "route": {
       "fromCity": "Berlin",
@@ -6268,28 +6257,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-07T16:05:25.724277Z"
-  },
-  "DLH7HP": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-06T07:25:25.456143Z"
-  },
-  "RYR12KD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T07:25:25.456143Z"
   },
   "DFAFL": {
     "route": null,
@@ -11846,5 +11813,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-08T07:25:25.154641Z"
+  },
+  "RYR59LA": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T07:30:44.658989Z"
   }
 }
