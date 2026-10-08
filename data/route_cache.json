@@ -2704,7 +2704,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T13:05:25.478727Z"
+    "checked_at": "2026-10-08T13:01:33.566374Z"
   },
   "SAS1678": {
     "route": {
@@ -2759,7 +2759,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-07T13:15:36.988280Z"
+    "checked_at": "2026-10-08T13:01:33.566374Z"
   },
   "CHX71": {
     "route": null,
@@ -6303,17 +6303,6 @@
     },
     "checked_at": "2026-10-07T17:35:24.108437Z"
   },
-  "VOE1462": {
-    "route": {
-      "fromCity": "Firenze",
-      "fromIata": "FLR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Volotea",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-06T13:00:59.771678Z"
-  },
   "ENT511M": {
     "route": {
       "fromCity": "Kaunas",
@@ -6486,7 +6475,7 @@
       "airlineName": "Azerbaijan Airlines",
       "airlineCountry": "Azerbaijan"
     },
-    "checked_at": "2026-10-06T14:10:33.547649Z"
+    "checked_at": "2026-10-08T13:01:33.566374Z"
   },
   "SXS679": {
     "route": {
@@ -11830,5 +11819,16 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-08T12:55:26.406964Z"
+  },
+  "THY79K": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-08T13:01:33.566374Z"
   }
 }
