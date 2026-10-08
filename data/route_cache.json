@@ -203,7 +203,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-07T07:10:35.666213Z"
+    "checked_at": "2026-10-08T14:50:35.099617Z"
   },
   "CHX82": {
     "route": null,
@@ -5108,7 +5108,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T08:25:26.723594Z"
+    "checked_at": "2026-10-08T14:50:35.099617Z"
   },
   "DMTWH": {
     "route": null,
@@ -6331,32 +6331,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-07T04:55:25.549549Z"
-  },
-  "RYR9BJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T14:45:34.198885Z"
-  },
-  "OHKAO": {
-    "route": null,
-    "checked_at": "2026-10-06T14:45:34.198885Z"
-  },
-  "CCA939": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-06T14:50:34.983246Z"
   },
   "EJU72EC": {
     "route": {
@@ -11829,5 +11803,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-08T14:45:32.578296Z"
+  },
+  "FIN8KT": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-08T14:50:35.099617Z"
+  },
+  "DLH3XV": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T14:50:35.099617Z"
   }
 }
