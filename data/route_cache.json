@@ -4434,17 +4434,6 @@
     },
     "checked_at": "2026-10-08T10:35:23.483841Z"
   },
-  "WZZ20KU": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-06T13:45:33.657435Z"
-  },
   "CFE93AU": {
     "route": {
       "fromCity": "London",
@@ -5400,17 +5389,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T06:10:33.558814Z"
-  },
-  "THY7GF": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-06T13:45:33.657435Z"
   },
   "LEJ110": {
     "route": null,
@@ -11852,5 +11830,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-08T13:45:30.053700Z"
+  },
+  "DLH2WR": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T13:50:31.946564Z"
   }
 }
