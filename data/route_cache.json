@@ -2278,7 +2278,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-07T11:50:34.456275Z"
+    "checked_at": "2026-10-08T10:25:30.299578Z"
   },
   "WMT1HA": {
     "route": {
@@ -2322,7 +2322,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-07T10:20:33.053159Z"
+    "checked_at": "2026-10-08T10:25:30.299578Z"
   },
   "FIN50M": {
     "route": {
@@ -4748,7 +4748,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-07T11:10:31.662956Z"
+    "checked_at": "2026-10-08T10:25:30.299578Z"
   },
   "EWG67A": {
     "route": {
@@ -6354,28 +6354,6 @@
     },
     "checked_at": "2026-10-08T10:00:55.128390Z"
   },
-  "QTR58G": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Houston",
-      "toIata": "IAH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-06T10:25:27.099308Z"
-  },
-  "RYR467M": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T10:25:27.099308Z"
-  },
   "EJU53KD": {
     "route": {
       "fromCity": "Berlin",
@@ -7819,7 +7797,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-07T19:50:33.947819Z"
+    "checked_at": "2026-10-08T10:25:30.299578Z"
   },
   "PBB17": {
     "route": null,
@@ -11873,5 +11851,16 @@
   "DEXTA": {
     "route": null,
     "checked_at": "2026-10-08T10:20:38.826590Z"
+  },
+  "AIB437A": {
+    "route": {
+      "fromCity": "Gulfport",
+      "fromIata": "GPT",
+      "toCity": "Mobile",
+      "toIata": "BFM",
+      "airlineName": "Airbus Industrie",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-08T10:25:30.299578Z"
   }
 }
