@@ -1209,7 +1209,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-07T04:50:33.440558Z"
+    "checked_at": "2026-10-08T04:25:23.520743Z"
   },
   "RYR58RA": {
     "route": {
@@ -3053,7 +3053,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-07T04:15:31.015674Z"
+    "checked_at": "2026-10-08T04:25:23.520743Z"
   },
   "LGL91B": {
     "route": {
@@ -4204,17 +4204,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-06T14:15:31.379639Z"
-  },
-  "EJU59TY": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-06T04:20:31.931062Z"
   },
   "BAW844": {
     "route": {
@@ -11754,5 +11743,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-08T04:10:30.819869Z"
+  },
+  "BCS3906": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "\u00d6rebro",
+      "toIata": "ORB",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T04:25:23.520743Z"
+  },
+  "SXS6JX": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-08T04:25:23.520743Z"
+  },
+  "EWG3PH": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T04:25:23.520743Z"
   }
 }
