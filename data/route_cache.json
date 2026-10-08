@@ -1286,7 +1286,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-07T05:00:55.961641Z"
+    "checked_at": "2026-10-08T04:40:30.308895Z"
   },
   "IBE07BZ": {
     "route": {
@@ -1536,7 +1536,7 @@
   },
   "EWG6NT": {
     "route": null,
-    "checked_at": "2026-10-07T14:25:26.143702Z"
+    "checked_at": "2026-10-08T04:40:30.308895Z"
   },
   "EJU46ZJ": {
     "route": {
@@ -4095,17 +4095,6 @@
     },
     "checked_at": "2026-10-06T17:15:34.276510Z"
   },
-  "EJU41NB": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-06T04:35:23.831023Z"
-  },
   "KLM64F": {
     "route": {
       "fromCity": "Warsaw",
@@ -6345,17 +6334,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-08T03:50:33.533503Z"
-  },
-  "NSZ4AW": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-06T04:35:23.831023Z"
   },
   "HLF8816": {
     "route": null,
@@ -11776,5 +11754,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T04:35:23.044240Z"
+  },
+  "RYR5603": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T04:40:30.308895Z"
   }
 }
