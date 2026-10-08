@@ -725,7 +725,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T18:10:32.681966Z"
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   },
   "IBE07MV": {
     "route": {
@@ -879,7 +879,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-07T18:10:32.681966Z"
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   },
   "LOT2MN": {
     "route": {
@@ -3417,7 +3417,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-07T17:40:31.604774Z"
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   },
   "AUA237": {
     "route": {
@@ -3671,7 +3671,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-07T17:05:28.438190Z"
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   },
   "DLH8PN": {
     "route": {
@@ -3682,7 +3682,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T18:30:48.939006Z"
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   },
   "LOT6MB": {
     "route": {
@@ -3795,8 +3795,15 @@
     "checked_at": "2026-10-08T17:35:25.928526Z"
   },
   "FIN8DN": {
-    "route": null,
-    "checked_at": "2026-10-06T18:15:31.027109Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   },
   "LOT6PA": {
     "route": {
@@ -6263,17 +6270,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T05:50:31.941031Z"
-  },
-  "RYR53LP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T18:10:32.230270Z"
   },
   "WZZ46": {
     "route": {
@@ -9108,7 +9104,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T19:40:31.439149Z"
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   },
   "EZS83KB": {
     "route": {
@@ -11867,5 +11863,71 @@
   "RMB3": {
     "route": null,
     "checked_at": "2026-10-08T18:05:27.143215Z"
+  },
+  "THY29M": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-08T18:10:32.562543Z"
+  },
+  "FIN22P": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-08T18:10:32.562543Z"
+  },
+  "BAW996G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-08T18:10:32.562543Z"
+  },
+  "RYR6889": {
+    "route": {
+      "fromCity": "Tirana",
+      "fromIata": "TIA",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T18:10:32.562543Z"
+  },
+  "RYR87DD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T18:10:32.562543Z"
+  },
+  "RYR52WA": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-08T18:10:32.562543Z"
   }
 }
