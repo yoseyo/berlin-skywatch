@@ -1308,7 +1308,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T05:10:31.178388Z"
+    "checked_at": "2026-10-08T04:50:32.636788Z"
   },
   "DLH9CJ": {
     "route": {
@@ -1319,7 +1319,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T04:55:25.549549Z"
+    "checked_at": "2026-10-08T04:50:32.636788Z"
   },
   "DAL92": {
     "route": {
@@ -4284,7 +4284,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-06T05:10:34.348190Z"
+    "checked_at": "2026-10-08T04:50:32.636788Z"
   },
   "BTI97T": {
     "route": {
@@ -6334,17 +6334,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-08T03:50:33.533503Z"
-  },
-  "RYR282D": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-06T04:45:30.800640Z"
   },
   "WMT1ST": {
     "route": {
@@ -11761,5 +11750,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T04:40:30.308895Z"
+  },
+  "AUA221V": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T04:50:32.636788Z"
+  },
+  "SRN127": {
+    "route": {
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Rzesz\u00f3w",
+      "toIata": "RZE",
+      "airlineName": "Sirair",
+      "airlineCountry": "Russia"
+    },
+    "checked_at": "2026-10-08T04:50:32.636788Z"
   }
 }
