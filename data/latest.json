@@ -1,33 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.347,
-      "lon": 13.3984,
-      "altKm": 0.4,
-      "speedKmh": 267,
-      "heading": 68,
-      "vertRateMs": -3.9,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "BCS5959",
+      "country": "Bulgaria",
+      "lat": 52.196,
+      "lon": 13.9938,
+      "altKm": 9.6,
+      "speedKmh": 902,
+      "heading": 63,
+      "vertRateMs": 8.1,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
       "category": "plane"
-    },
-    {
-      "callsign": "PBB17",
-      "country": "Germany",
-      "lat": 52.6021,
-      "lon": 13.5754,
-      "altKm": 0.1,
-      "speedKmh": 22,
-      "heading": 132,
-      "vertRateMs": -1.9,
-      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-08T03:30:42.725286Z"
+  "updated_at": "2026-10-08T03:35:24.987198Z"
 }
