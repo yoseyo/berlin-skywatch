@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-07T12:50:35.264512Z"
+    "checked_at": "2026-10-08T13:30:47.446486Z"
   },
   "MSC2961": {
     "route": {
@@ -34,7 +34,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-07T13:30:46.476200Z"
+    "checked_at": "2026-10-08T13:30:47.446486Z"
   },
   "RYR54CX": {
     "route": {
@@ -133,7 +133,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T06:10:34.511090Z"
+    "checked_at": "2026-10-08T13:30:47.446486Z"
   },
   "CHX31": {
     "route": null,
@@ -2818,7 +2818,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-07T13:15:36.988280Z"
+    "checked_at": "2026-10-08T13:30:47.446486Z"
   },
   "RYR103K": {
     "route": {
@@ -3693,7 +3693,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-07T13:15:36.988280Z"
+    "checked_at": "2026-10-08T13:30:47.446486Z"
   },
   "RYR95CH": {
     "route": {
@@ -9671,7 +9671,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T18:40:33.652994Z"
+    "checked_at": "2026-10-08T13:30:47.446486Z"
   },
   "FIN7X": {
     "route": {
@@ -11797,5 +11797,38 @@
   "DFC35N": {
     "route": null,
     "checked_at": "2026-10-08T13:25:23.892555Z"
+  },
+  "EJU1923": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-08T13:30:47.446486Z"
+  },
+  "CCA966": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-08T13:30:47.446486Z"
+  },
+  "DLH4AA": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Trondheim",
+      "toIata": "TRD",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-08T13:30:47.446486Z"
   }
 }
