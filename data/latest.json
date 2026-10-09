@@ -3,12 +3,12 @@
     {
       "callsign": "RYR1155",
       "country": "Ireland",
-      "lat": 52.5588,
-      "lon": 13.6649,
-      "altKm": 1.9,
-      "speedKmh": 533,
-      "heading": 97,
-      "vertRateMs": -1.9,
+      "lat": 52.4429,
+      "lon": 13.8039,
+      "altKm": 1.2,
+      "speedKmh": 294,
+      "heading": 249,
+      "vertRateMs": -3.6,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Manchester",
@@ -20,20 +20,27 @@
     {
       "callsign": "EWG72F",
       "country": "Germany",
-      "lat": 52.2887,
-      "lon": 13.9388,
-      "altKm": 2.0,
-      "speedKmh": 499,
-      "heading": 339,
-      "vertRateMs": -7.2,
+      "lat": 52.384,
+      "lon": 13.6311,
+      "altKm": 0.5,
+      "speedKmh": 210,
+      "heading": 249,
+      "vertRateMs": -4.2,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
+      "category": "plane"
+    },
+    {
+      "callsign": "CAT754",
+      "country": "Denmark",
+      "lat": 52.4015,
+      "lon": 14.0021,
+      "altKm": 11.7,
+      "speedKmh": 832,
+      "heading": 338,
+      "vertRateMs": 0,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-09T21:30:42.956373Z"
+  "updated_at": "2026-10-09T21:35:24.538823Z"
 }
