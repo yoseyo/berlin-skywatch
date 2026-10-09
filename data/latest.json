@@ -1,14 +1,65 @@
 {
   "flights": [
     {
+      "callsign": "WZZ620U",
+      "country": "Hungary",
+      "lat": 52.8799,
+      "lon": 12.8854,
+      "altKm": 10.8,
+      "speedKmh": 956,
+      "heading": 88,
+      "vertRateMs": 0.3,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG4J",
+      "country": "Germany",
+      "lat": 52.2094,
+      "lon": 13.8733,
+      "altKm": 2.1,
+      "speedKmh": 534,
+      "heading": 48,
+      "vertRateMs": -10.4,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU12TM",
+      "country": "Austria",
+      "lat": 52.404,
+      "lon": 13.8733,
+      "altKm": 1.8,
+      "speedKmh": 405,
+      "heading": 346,
+      "vertRateMs": -4.5,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR1155",
       "country": "Ireland",
-      "lat": 52.4429,
-      "lon": 13.8039,
-      "altKm": 1.2,
-      "speedKmh": 294,
+      "lat": 52.3768,
+      "lon": 13.5235,
+      "altKm": 0.1,
+      "speedKmh": 260,
       "heading": 249,
-      "vertRateMs": -3.6,
+      "vertRateMs": -2.9,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Manchester",
@@ -16,31 +67,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "EWG72F",
-      "country": "Germany",
-      "lat": 52.384,
-      "lon": 13.6311,
-      "altKm": 0.5,
-      "speedKmh": 210,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
-      "callsign": "CAT754",
-      "country": "Denmark",
-      "lat": 52.4015,
-      "lon": 14.0021,
-      "altKm": 11.7,
-      "speedKmh": 832,
-      "heading": 338,
-      "vertRateMs": 0,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-09T21:35:24.538823Z"
+  "updated_at": "2026-10-09T21:40:31.723276Z"
 }
