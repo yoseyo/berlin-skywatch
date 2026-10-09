@@ -5074,7 +5074,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T18:20:32.130150Z"
+    "checked_at": "2026-10-09T18:15:29.678571Z"
   },
   "EJU47TU": {
     "route": {
@@ -6666,32 +6666,6 @@
   "TCOIL": {
     "route": null,
     "checked_at": "2026-10-09T16:00:55.034137Z"
-  },
-  "DEVCD": {
-    "route": null,
-    "checked_at": "2026-10-07T18:10:32.681966Z"
-  },
-  "BTI2MZ": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-07T18:10:32.681966Z"
-  },
-  "TGZ781": {
-    "route": {
-      "fromCity": "Tbilisi",
-      "fromIata": "TBS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-10-07T18:10:32.681966Z"
   },
   "SDR15XL": {
     "route": {
@@ -13068,5 +13042,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T18:10:30.993854Z"
+  },
+  "QTR24E": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-09T18:15:29.678571Z"
+  },
+  "RHH055": {
+    "route": null,
+    "checked_at": "2026-10-09T18:15:29.678571Z"
+  },
+  "NIA851": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-09T18:15:29.678571Z"
   }
 }
