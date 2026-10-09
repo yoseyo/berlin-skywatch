@@ -912,7 +912,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T19:15:29.658787Z"
+    "checked_at": "2026-10-09T19:05:23.285994Z"
   },
   "SAS1680": {
     "route": {
@@ -5087,17 +5087,6 @@
     },
     "checked_at": "2026-10-08T19:50:30.072337Z"
   },
-  "FIN78Q": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-07T19:00:56.849084Z"
-  },
   "RYR75DX": {
     "route": {
       "fromCity": "Rome",
@@ -6651,17 +6640,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T13:30:47.446486Z"
-  },
-  "WZZ2CE": {
-    "route": {
-      "fromCity": "Liverpool",
-      "fromIata": "LPL",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-07T19:00:56.849084Z"
   },
   "KLM60M": {
     "route": {
@@ -13079,5 +13057,16 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-09T18:55:25.668978Z"
+  },
+  "PGT566B": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-09T19:05:23.285994Z"
   }
 }
