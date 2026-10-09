@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-09T02:15:30.218912Z"
+  "flights": [
+    {
+      "callsign": "NSZ3355",
+      "country": "Sweden",
+      "lat": 52.4147,
+      "lon": 14.0333,
+      "altKm": 11.0,
+      "speedKmh": 752,
+      "heading": 344,
+      "vertRateMs": -0.3,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-09T02:20:32.150622Z"
 }
