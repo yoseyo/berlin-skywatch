@@ -2377,7 +2377,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-08T11:10:31.944194Z"
+    "checked_at": "2026-10-09T11:30:44.684392Z"
   },
   "DLH4NF": {
     "route": {
@@ -2388,7 +2388,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T11:25:23.385558Z"
+    "checked_at": "2026-10-09T11:30:44.684392Z"
   },
   "KLM29G": {
     "route": {
@@ -6375,17 +6375,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-09T11:15:30.272859Z"
-  },
-  "NOZ4RP": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-07T11:25:25.931474Z"
   },
   "EJU5020": {
     "route": {
@@ -12522,5 +12511,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-09T11:20:30.799430Z"
+  },
+  "WZZ2QZ": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-09T11:30:44.684392Z"
+  },
+  "EJU46TQ": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T11:30:44.684392Z"
   }
 }
