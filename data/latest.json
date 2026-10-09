@@ -1,39 +1,35 @@
 {
   "flights": [
     {
-      "callsign": "CSN465",
-      "country": "China",
-      "lat": 52.5949,
-      "lon": 12.7659,
-      "altKm": 10.5,
-      "speedKmh": 823,
-      "heading": 250,
-      "vertRateMs": 0,
-      "airline": "China Southern Airlines",
-      "airlineCountry": "China",
-      "fromCity": "Guangzhou (Huadu)",
-      "fromIata": "CAN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "category": "plane"
-    },
-    {
       "callsign": "SXS8ER",
       "country": "Turkey",
-      "lat": 52.4479,
-      "lon": 13.8266,
-      "altKm": 1.2,
-      "speedKmh": 291,
-      "heading": 249,
+      "lat": 52.3831,
+      "lon": 13.5502,
+      "altKm": 0.2,
+      "speedKmh": 232,
+      "heading": 248,
       "vertRateMs": -3.9,
       "airline": "SunExpress",
       "airlineCountry": "Turkey",
-      "fromCity": "Diyarbak\u0131r",
-      "fromIata": "DIY",
-      "toCity": "Antalya",
-      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "SWT3WZ",
+      "country": "Spain",
+      "lat": 52.1851,
+      "lon": 13.4804,
+      "altKm": 2.8,
+      "speedKmh": 544,
+      "heading": 59,
+      "vertRateMs": -8.8,
+      "airline": "Swiftair",
+      "airlineCountry": "Spain",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-09T03:45:29.792967Z"
+  "updated_at": "2026-10-09T03:50:29.661226Z"
 }
