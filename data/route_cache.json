@@ -3218,7 +3218,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T07:15:29.835200Z"
+    "checked_at": "2026-10-09T14:30:48.652402Z"
   },
   "DEHGB": {
     "route": null,
@@ -5688,7 +5688,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T14:20:33.322461Z"
+    "checked_at": "2026-10-09T14:30:48.652402Z"
   },
   "RYR6FD": {
     "route": {
@@ -5748,10 +5748,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-08T16:15:31.063592Z"
-  },
-  "DMLEO": {
-    "route": null,
-    "checked_at": "2026-10-07T14:30:44.369289Z"
   },
   "EWG3KA": {
     "route": {
@@ -6541,32 +6537,6 @@
     },
     "checked_at": "2026-10-09T11:40:32.780420Z"
   },
-  "NSZ3299": {
-    "route": {
-      "fromCity": "Sarajevo",
-      "fromIata": "SJJ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-07T14:30:44.369289Z"
-  },
-  "RJA138": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Amman",
-      "toIata": "AMM",
-      "airlineName": "Royal Jordanian",
-      "airlineCountry": "Jordan"
-    },
-    "checked_at": "2026-10-07T14:30:44.369289Z"
-  },
-  "DMOMC": {
-    "route": null,
-    "checked_at": "2026-10-07T14:30:44.369289Z"
-  },
   "HKH2": {
     "route": null,
     "checked_at": "2026-10-09T05:00:59.415635Z"
@@ -6580,7 +6550,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-07T14:40:32.086268Z"
+    "checked_at": "2026-10-09T14:30:48.652402Z"
   },
   "SAS49N": {
     "route": {
@@ -12755,5 +12725,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-09T14:25:25.738764Z"
+  },
+  "CSN6041": {
+    "route": {
+      "fromCity": "\u00dcr\u00fcmqi",
+      "fromIata": "URC",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-09T14:30:48.652402Z"
+  },
+  "RYR62XF": {
+    "route": {
+      "fromCity": "Nottingham",
+      "fromIata": "EMA",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T14:30:48.652402Z"
   }
 }
