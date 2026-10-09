@@ -1514,7 +1514,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T04:55:24.585982Z"
+    "checked_at": "2026-10-09T13:30:45.790587Z"
   },
   "WZZ84": {
     "route": {
@@ -2682,7 +2682,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-08T13:11:06.918760Z"
+    "checked_at": "2026-10-09T13:30:45.790587Z"
   },
   "LOT2PJ": {
     "route": {
@@ -6477,17 +6477,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-08T14:40:35.900935Z"
-  },
-  "CFG6JH": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-07T13:25:26.832920Z"
   },
   "MMD6283": {
     "route": {
@@ -12736,5 +12725,38 @@
   "NJE590B": {
     "route": null,
     "checked_at": "2026-10-09T13:25:23.644206Z"
+  },
+  "RUK144": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-09T13:30:45.790587Z"
+  },
+  "DLH715": {
+    "route": {
+      "fromCity": "Tokyo",
+      "fromIata": "HND",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T13:30:45.790587Z"
+  },
+  "EWG3PD": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T13:30:45.790587Z"
   }
 }
