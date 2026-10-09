@@ -857,7 +857,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-08T19:00:56.434906Z"
+    "checked_at": "2026-10-09T19:15:31.015967Z"
   },
   "NOZ9VF": {
     "route": {
@@ -3020,7 +3020,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T18:20:32.130150Z"
+    "checked_at": "2026-10-09T19:15:31.015967Z"
   },
   "EWG5SP": {
     "route": {
@@ -4435,7 +4435,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T19:45:32.858348Z"
+    "checked_at": "2026-10-09T19:15:31.015967Z"
   },
   "CFE8495": {
     "route": {
@@ -6662,32 +6662,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-09T17:45:29.467693Z"
-  },
-  "EJU49CR": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-07T19:11:09.316974Z"
-  },
-  "RYR3885": {
-    "route": {
-      "fromCity": "Olsztyn",
-      "fromIata": "SZY",
-      "toCity": "Weeze",
-      "toIata": "NRN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T19:11:09.316974Z"
-  },
-  "KMM377": {
-    "route": null,
-    "checked_at": "2026-10-07T19:11:09.316974Z"
   },
   "WZZ9UF": {
     "route": {
@@ -13083,5 +13057,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T19:10:33.892830Z"
+  },
+  "RAM222B": {
+    "route": {
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "SVO",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-10-09T19:15:31.015967Z"
+  },
+  "FIN78Q": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-09T19:15:31.015967Z"
+  },
+  "FIN50J": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-09T19:15:31.015967Z"
   }
 }
