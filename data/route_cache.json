@@ -67,7 +67,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-08T13:45:30.053700Z"
+    "checked_at": "2026-10-09T14:05:23.975568Z"
   },
   "SXS1VZ": {
     "route": {
@@ -6486,17 +6486,6 @@
     "route": null,
     "checked_at": "2026-10-09T06:55:27.251314Z"
   },
-  "CES5014": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Xi'an",
-      "toIata": "XIY",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-07T14:00:59.757182Z"
-  },
   "SWU1951": {
     "route": {
       "fromCity": "Berlin",
@@ -12758,5 +12747,20 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-09T14:00:55.733115Z"
+  },
+  "RYR48VZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T14:05:23.975568Z"
+  },
+  "CAT677": {
+    "route": null,
+    "checked_at": "2026-10-09T14:05:23.975568Z"
   }
 }
