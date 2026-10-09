@@ -1422,7 +1422,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T06:05:26.103956Z"
+    "checked_at": "2026-10-09T05:55:23.643558Z"
   },
   "DLH2X": {
     "route": {
@@ -1433,7 +1433,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T05:50:31.941031Z"
+    "checked_at": "2026-10-09T05:55:23.643558Z"
   },
   "LOT4WE": {
     "route": {
@@ -5162,17 +5162,6 @@
     },
     "checked_at": "2026-10-07T08:45:34.273597Z"
   },
-  "EJU79XD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-07T05:50:34.315106Z"
-  },
   "RYR87VA": {
     "route": {
       "fromCity": "Birmingham",
@@ -6352,17 +6341,6 @@
   "BPO507": {
     "route": null,
     "checked_at": "2026-10-08T05:25:24.789739Z"
-  },
-  "NSZ3374": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-07T05:50:34.315106Z"
   },
   "CAI3GK": {
     "route": {
@@ -12455,5 +12433,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-09T05:50:33.572705Z"
+  },
+  "EJU9042": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T05:55:23.643558Z"
+  },
+  "FLI7160": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Ioannina",
+      "toIata": "IOA",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-09T05:55:23.643558Z"
   }
 }
