@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-09T00:15:28.352496Z"
+  "flights": [
+    {
+      "callsign": "WMT726",
+      "country": "Hungary",
+      "lat": 52.5961,
+      "lon": 14.0789,
+      "altKm": 10.7,
+      "speedKmh": 915,
+      "heading": 174,
+      "vertRateMs": 0,
+      "airline": "Wizz Air Malta",
+      "airlineCountry": "Malta",
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-09T00:20:32.620540Z"
 }
