@@ -725,7 +725,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T18:10:32.562543Z"
+    "checked_at": "2026-10-09T18:25:24.099786Z"
   },
   "IBE07MV": {
     "route": {
@@ -6662,28 +6662,6 @@
   "TCOIL": {
     "route": null,
     "checked_at": "2026-10-09T16:00:55.034137Z"
-  },
-  "SDR15XL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-07T18:20:33.769970Z"
-  },
-  "RYR3696": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T18:20:33.769970Z"
   },
   "EWG8UD": {
     "route": {
@@ -13064,5 +13042,20 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-09T18:15:29.678571Z"
+  },
+  "QTR57H": {
+    "route": null,
+    "checked_at": "2026-10-09T18:25:24.099786Z"
+  },
+  "EWG3KA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T18:25:24.099786Z"
   }
 }
