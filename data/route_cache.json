@@ -4226,7 +4226,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-08T09:00:58.096983Z"
+    "checked_at": "2026-10-09T09:20:31.328685Z"
   },
   "THY8DE": {
     "route": {
@@ -12566,5 +12566,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-09T09:15:36.214001Z"
+  },
+  "EJU5060": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T09:20:31.328685Z"
+  },
+  "DLH4AK": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T09:20:31.328685Z"
+  },
+  "RYR3WY": {
+    "route": {
+      "fromCity": "Podgorica",
+      "fromIata": "TGD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T09:20:31.328685Z"
   }
 }
