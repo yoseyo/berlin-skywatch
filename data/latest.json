@@ -1,27 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "DLH206",
-      "country": "Germany",
-      "lat": 52.4199,
-      "lon": 13.7064,
-      "altKm": 0.8,
-      "speedKmh": 258,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
       "callsign": "RYR1155",
       "country": "Ireland",
-      "lat": 52.6236,
-      "lon": 12.7884,
-      "altKm": 4.3,
-      "speedKmh": 775,
-      "heading": 96,
-      "vertRateMs": -13,
+      "lat": 52.5588,
+      "lon": 13.6649,
+      "altKm": 1.9,
+      "speedKmh": 533,
+      "heading": 97,
+      "vertRateMs": -1.9,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Manchester",
@@ -29,7 +16,24 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "EWG72F",
+      "country": "Germany",
+      "lat": 52.2887,
+      "lon": 13.9388,
+      "altKm": 2.0,
+      "speedKmh": 499,
+      "heading": 339,
+      "vertRateMs": -7.2,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-09T21:25:23.454831Z"
+  "updated_at": "2026-10-09T21:30:42.956373Z"
 }
