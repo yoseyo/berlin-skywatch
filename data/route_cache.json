@@ -3816,17 +3816,6 @@
     },
     "checked_at": "2026-10-09T14:15:32.153764Z"
   },
-  "RYR28LA": {
-    "route": {
-      "fromCity": "Kerkyra Island",
-      "fromIata": "CFU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T14:20:33.177003Z"
-  },
   "DLH2PM": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -12755,5 +12744,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T14:20:31.538639Z"
+  },
+  "TVF875M": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-09T14:25:25.738764Z"
   }
 }
