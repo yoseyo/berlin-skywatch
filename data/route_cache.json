@@ -3921,7 +3921,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-08T16:00:56.787574Z"
+    "checked_at": "2026-10-09T16:35:25.851462Z"
   },
   "KLM1782": {
     "route": {
@@ -6643,28 +6643,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-08T15:05:58.500535Z"
-  },
-  "TKJ9HJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-07T16:30:44.294786Z"
-  },
-  "LOT2WP": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-07T16:30:44.294786Z"
   },
   "KLM95T": {
     "route": {
@@ -12983,5 +12961,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T16:30:43.289796Z"
+  },
+  "EXS8SY": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Bristol",
+      "toIata": "BRS",
+      "airlineName": "Jet2.com",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-09T16:35:25.851462Z"
   }
 }
