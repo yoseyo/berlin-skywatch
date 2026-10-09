@@ -1187,7 +1187,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T18:50:32.440221Z"
+    "checked_at": "2026-10-09T07:45:30.874175Z"
   },
   "EJU62LY": {
     "route": {
@@ -1477,7 +1477,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T13:55:23.937522Z"
+    "checked_at": "2026-10-09T07:45:30.874175Z"
   },
   "EWG6NT": {
     "route": null,
@@ -1683,7 +1683,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-08T07:35:24.323573Z"
+    "checked_at": "2026-10-09T07:45:30.874175Z"
   },
   "RYR12EJ": {
     "route": {
@@ -1705,7 +1705,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-08T07:25:25.154641Z"
+    "checked_at": "2026-10-09T07:45:30.874175Z"
   },
   "NSZ89C": {
     "route": {
@@ -3684,17 +3684,6 @@
     },
     "checked_at": "2026-10-08T19:05:25.977688Z"
   },
-  "DLH8KF": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "M\u00fcnster",
-      "toIata": "FMO",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-07T07:40:35.773710Z"
-  },
   "LHX178": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -4090,7 +4079,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-08T07:40:34.596145Z"
+    "checked_at": "2026-10-09T07:45:30.874175Z"
   },
   "BAW986G": {
     "route": {
@@ -4101,7 +4090,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T10:40:32.157213Z"
+    "checked_at": "2026-10-09T07:45:30.874175Z"
   },
   "LOT5NA": {
     "route": {
@@ -6325,14 +6314,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-08T17:15:32.435208Z"
-  },
-  "HRN431": {
-    "route": null,
-    "checked_at": "2026-10-07T07:40:35.773710Z"
-  },
-  "N473EC": {
-    "route": null,
-    "checked_at": "2026-10-07T07:40:35.773710Z"
   },
   "CTN480": {
     "route": {
@@ -12480,5 +12461,16 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-09T07:40:32.044496Z"
+  },
+  "SAS697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-09T07:45:30.874175Z"
   }
 }
