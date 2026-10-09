@@ -1547,7 +1547,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-08T06:30:44.482718Z"
+    "checked_at": "2026-10-09T06:40:34.655656Z"
   },
   "LOT1VZ": {
     "route": {
@@ -1580,7 +1580,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-08T06:45:30.793111Z"
+    "checked_at": "2026-10-09T06:40:34.655656Z"
   },
   "DLH174": {
     "route": {
@@ -1591,7 +1591,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T06:35:25.710852Z"
+    "checked_at": "2026-10-09T06:40:34.655656Z"
   },
   "LOT4MH": {
     "route": {
@@ -4777,7 +4777,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-08T06:35:25.710852Z"
+    "checked_at": "2026-10-09T06:40:34.655656Z"
   },
   "BEL5HW": {
     "route": {
@@ -6356,28 +6356,6 @@
     },
     "checked_at": "2026-10-09T06:00:55.440589Z"
   },
-  "CFG1RV": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-07T06:40:32.246597Z"
-  },
-  "RYR3516": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T06:40:32.246597Z"
-  },
   "DEJRH": {
     "route": null,
     "checked_at": "2026-10-07T06:45:33.426701Z"
@@ -6476,7 +6454,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-07T07:25:27.209764Z"
+    "checked_at": "2026-10-09T06:40:34.655656Z"
   },
   "N677AL": {
     "route": null,
@@ -12462,5 +12440,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-09T06:35:24.605912Z"
+  },
+  "EJU51LD": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T06:40:34.655656Z"
+  },
+  "CFG2HD": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T06:40:34.655656Z"
   }
 }
