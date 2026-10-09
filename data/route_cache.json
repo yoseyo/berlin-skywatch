@@ -137,7 +137,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-10-08T05:30:43.636873Z"
+    "checked_at": "2026-10-09T05:50:33.572705Z"
   },
   "SXS8TG": {
     "route": {
@@ -3270,7 +3270,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-08T05:55:25.883103Z"
+    "checked_at": "2026-10-09T05:50:33.572705Z"
   },
   "SXS8RG": {
     "route": {
@@ -12422,5 +12422,38 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-09T05:45:31.238208Z"
+  },
+  "EJU12HB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T05:50:33.572705Z"
+  },
+  "NIA8501": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-09T05:50:33.572705Z"
+  },
+  "EWG44CM": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T05:50:33.572705Z"
   }
 }
