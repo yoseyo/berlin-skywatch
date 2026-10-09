@@ -4303,7 +4303,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T10:25:30.299578Z"
+    "checked_at": "2026-10-09T10:20:34.430649Z"
   },
   "EWG67A": {
     "route": {
@@ -4854,7 +4854,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T10:15:34.207590Z"
+    "checked_at": "2026-10-09T10:20:34.430649Z"
   },
   "FIN6PZ": {
     "route": {
@@ -6353,36 +6353,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-08T20:25:23.111067Z"
-  },
-  "DEKPR": {
-    "route": null,
-    "checked_at": "2026-10-07T10:16:07.295648Z"
-  },
-  "GAF612": {
-    "route": null,
-    "checked_at": "2026-10-07T10:16:07.295648Z"
-  },
-  "MGH392": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-07T10:20:33.053159Z"
-  },
-  "MGL137": {
-    "route": {
-      "fromCity": "Ulaanbaatar (Sergelen)",
-      "fromIata": "UBN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "MIAT Mongolian Airlines",
-      "airlineCountry": "Mongolia"
-    },
-    "checked_at": "2026-10-07T10:20:33.053159Z"
   },
   "FIN98J": {
     "route": {
@@ -12538,5 +12508,42 @@
   "WMT751": {
     "route": null,
     "checked_at": "2026-10-09T10:15:34.584252Z"
+  },
+  "AAL161": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "American Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-09T10:20:34.430649Z"
+  },
+  "FIN1DF": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-09T10:20:34.430649Z"
+  },
+  "CHX35": {
+    "route": null,
+    "checked_at": "2026-10-09T10:20:34.430649Z"
+  },
+  "RYR4FU": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T10:20:34.430649Z"
   }
 }
