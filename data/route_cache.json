@@ -2520,7 +2520,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-08T12:05:26.149273Z"
+    "checked_at": "2026-10-09T12:45:30.525047Z"
   },
   "VLG48MQ": {
     "route": {
@@ -2594,7 +2594,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-08T12:20:33.192123Z"
+    "checked_at": "2026-10-09T12:45:30.525047Z"
   },
   "KLM1314": {
     "route": {
@@ -3594,7 +3594,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T13:30:47.446486Z"
+    "checked_at": "2026-10-09T12:45:30.525047Z"
   },
   "RYR95CH": {
     "route": {
@@ -4931,7 +4931,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T12:15:30.782826Z"
+    "checked_at": "2026-10-09T12:45:30.525047Z"
   },
   "RYR74EM": {
     "route": {
@@ -5553,10 +5553,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-08T10:40:32.157213Z"
-  },
-  "DEMLG": {
-    "route": null,
-    "checked_at": "2026-10-07T12:40:32.549843Z"
   },
   "EWG61V": {
     "route": {
@@ -6393,28 +6389,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-09T12:25:26.039242Z"
-  },
-  "EWG9L": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-07T12:40:32.549843Z"
-  },
-  "CHH7938": {
-    "route": {
-      "fromCity": "Los Angeles",
-      "fromIata": "LAX",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Hainan Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-07T12:40:32.549843Z"
   },
   "SWU1950": {
     "route": {
@@ -10824,7 +10798,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T21:00:52.380423Z"
+    "checked_at": "2026-10-09T12:45:30.525047Z"
   },
   "WMT6HS": {
     "route": {
@@ -12710,5 +12684,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-09T12:40:30.814725Z"
+  },
+  "QTR20V": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-09T12:45:30.525047Z"
+  },
+  "VKG185": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-09T12:45:30.525047Z"
   }
 }
