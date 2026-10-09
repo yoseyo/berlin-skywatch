@@ -3009,7 +3009,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-08T07:51:40.282897Z"
+    "checked_at": "2026-10-09T08:25:25.258787Z"
   },
   "EJU45GF": {
     "route": {
@@ -3207,7 +3207,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T08:45:33.589563Z"
+    "checked_at": "2026-10-09T08:25:25.258787Z"
   },
   "BAW992G": {
     "route": {
@@ -6332,17 +6332,6 @@
   "DINNA": {
     "route": null,
     "checked_at": "2026-10-08T06:00:54.264612Z"
-  },
-  "MGH391": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-07T08:20:34.799212Z"
   },
   "BAW84NT": {
     "route": {
@@ -12523,5 +12512,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T08:15:31.729003Z"
+  },
+  "RYR8EM": {
+    "route": {
+      "fromCity": "Bratislava",
+      "fromIata": "BTS",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T08:25:25.258787Z"
   }
 }
