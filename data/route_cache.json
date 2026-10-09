@@ -409,7 +409,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T16:10:32.153517Z"
+    "checked_at": "2026-10-09T17:10:31.716407Z"
   },
   "SWR23F": {
     "route": {
@@ -534,7 +534,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T18:00:54.547358Z"
+    "checked_at": "2026-10-09T17:10:31.716407Z"
   },
   "SAS2657": {
     "route": {
@@ -556,7 +556,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T18:20:32.130150Z"
+    "checked_at": "2026-10-09T17:10:31.716407Z"
   },
   "RYR61NG": {
     "route": {
@@ -648,7 +648,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-08T17:10:34.525228Z"
+    "checked_at": "2026-10-09T17:10:31.716407Z"
   },
   "KLM1316": {
     "route": {
@@ -1569,7 +1569,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T10:35:23.483841Z"
+    "checked_at": "2026-10-09T17:10:31.716407Z"
   },
   "NOZ2XM": {
     "route": {
@@ -6654,21 +6654,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-09T17:05:26.511478Z"
-  },
-  "EJU32PZ": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-07T17:05:28.438190Z"
-  },
-  "NJE698K": {
-    "route": null,
-    "checked_at": "2026-10-07T17:05:28.438190Z"
   },
   "VJH387": {
     "route": null,
@@ -13053,5 +13038,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-09T17:05:26.511478Z"
+  },
+  "UAE61": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-09T17:10:31.716407Z"
+  },
+  "EJU58DM": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T17:10:31.716407Z"
   }
 }
