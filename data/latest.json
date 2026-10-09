@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "NSZ3752",
+      "country": "Sweden",
+      "lat": 52.6341,
+      "lon": 13.4368,
+      "altKm": 11.4,
+      "speedKmh": 920,
+      "heading": 176,
+      "vertRateMs": -0.3,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "category": "plane"
+    },
+    {
       "callsign": "WMT707",
       "country": "Hungary",
-      "lat": 52.5998,
-      "lon": 13.6763,
-      "altKm": 11.1,
-      "speedKmh": 727,
-      "heading": 291,
-      "vertRateMs": 0.3,
+      "lat": 52.773,
+      "lon": 12.9108,
+      "altKm": 10.6,
+      "speedKmh": 671,
+      "heading": 290,
+      "vertRateMs": -7.2,
       "airline": "Wizz Air Malta",
       "airlineCountry": "Malta",
       "fromCity": "Memmingen",
@@ -16,24 +33,7 @@
       "toCity": "Timi\u015foara",
       "toIata": "TSR",
       "category": "plane"
-    },
-    {
-      "callsign": "EJU35TP",
-      "country": "Austria",
-      "lat": 52.2713,
-      "lon": 13.3206,
-      "altKm": 1.9,
-      "speedKmh": 462,
-      "heading": 228,
-      "vertRateMs": 17.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-09T04:30:45.181149Z"
+  "updated_at": "2026-10-09T04:35:24.132605Z"
 }
