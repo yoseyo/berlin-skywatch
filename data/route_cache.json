@@ -1760,7 +1760,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-08T08:05:24.663630Z"
+    "checked_at": "2026-10-09T07:50:32.225132Z"
   },
   "SWR44E": {
     "route": {
@@ -4799,7 +4799,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T07:40:34.596145Z"
+    "checked_at": "2026-10-09T07:50:32.225132Z"
   },
   "BTI8ED": {
     "route": {
@@ -5076,10 +5076,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T06:10:33.558814Z"
-  },
-  "LEJ110": {
-    "route": null,
-    "checked_at": "2026-10-07T07:45:33.015755Z"
   },
   "BTI72X": {
     "route": {
@@ -5686,7 +5682,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-07T09:45:38.589936Z"
+    "checked_at": "2026-10-09T07:50:32.225132Z"
   },
   "NOZ1951": {
     "route": {
@@ -6326,32 +6322,6 @@
     },
     "checked_at": "2026-10-08T07:40:34.596145Z"
   },
-  "SAS2831": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-07T07:45:33.015755Z"
-  },
-  "RYR38DD": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T07:45:33.015755Z"
-  },
-  "GAF661": {
-    "route": null,
-    "checked_at": "2026-10-07T07:45:33.015755Z"
-  },
   "RYR717M": {
     "route": {
       "fromCity": "Manchester",
@@ -6361,7 +6331,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T13:05:25.178296Z"
+    "checked_at": "2026-10-09T07:50:32.225132Z"
   },
   "DINNA": {
     "route": null,
@@ -12472,5 +12442,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T07:45:30.874175Z"
+  },
+  "EZY84XQ": {
+    "route": {
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-09T07:50:32.225132Z"
+  },
+  "RYR59DR": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T07:50:32.225132Z"
   }
 }
