@@ -1933,7 +1933,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-08T08:45:33.589563Z"
+    "checked_at": "2026-10-09T08:30:43.423461Z"
   },
   "SAS85J": {
     "route": {
@@ -4097,7 +4097,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-08T09:00:58.096983Z"
+    "checked_at": "2026-10-09T08:30:43.423461Z"
   },
   "WZZ22UT": {
     "route": {
@@ -9316,7 +9316,7 @@
   },
   "DISAG": {
     "route": null,
-    "checked_at": "2026-10-08T08:20:36.504370Z"
+    "checked_at": "2026-10-09T08:30:43.423461Z"
   },
   "RYR939": {
     "route": {
@@ -12523,5 +12523,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T08:25:25.258787Z"
+  },
+  "TSC418": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-09T08:30:43.423461Z"
+  },
+  "SXS9NH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bodrum",
+      "toIata": "BJV",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-09T08:30:43.423461Z"
   }
 }
