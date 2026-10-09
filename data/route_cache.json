@@ -978,7 +978,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T20:00:52.572930Z"
+    "checked_at": "2026-10-09T20:30:44.152689Z"
   },
   "AUA989D": {
     "route": {
@@ -7768,7 +7768,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-08T08:50:36.017187Z"
+    "checked_at": "2026-10-09T20:30:44.152689Z"
   },
   "RYR9847": {
     "route": {
@@ -13091,5 +13091,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T20:25:27.069537Z"
+  },
+  "RYR12KD": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T20:30:44.152689Z"
+  },
+  "EJU32PZ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T20:30:44.152689Z"
+  },
+  "RYR44PB": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T20:30:44.152689Z"
   }
 }
