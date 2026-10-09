@@ -2421,7 +2421,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-08T12:05:26.149273Z"
+    "checked_at": "2026-10-09T12:25:26.039242Z"
   },
   "SAS2733": {
     "route": {
@@ -2454,7 +2454,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T12:11:08.189549Z"
+    "checked_at": "2026-10-09T12:25:26.039242Z"
   },
   "DLH2NE": {
     "route": {
@@ -6383,25 +6383,6 @@
     },
     "checked_at": "2026-10-08T19:55:22.994076Z"
   },
-  "GAF931": {
-    "route": null,
-    "checked_at": "2026-10-07T12:20:32.714997Z"
-  },
-  "DMIPY": {
-    "route": null,
-    "checked_at": "2026-10-07T12:25:24.156187Z"
-  },
-  "RYR42HH": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T12:25:24.156187Z"
-  },
   "BTI98T": {
     "route": {
       "fromCity": "Vilnius",
@@ -6444,7 +6425,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-08T12:30:46.763068Z"
+    "checked_at": "2026-10-09T12:25:26.039242Z"
   },
   "EWG9L": {
     "route": {
@@ -12714,5 +12695,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-09T12:20:31.671221Z"
+  },
+  "SAS67M": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-09T12:25:26.039242Z"
   }
 }
