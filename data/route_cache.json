@@ -181,7 +181,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-08T15:05:58.500535Z"
+    "checked_at": "2026-10-09T14:55:22.542840Z"
   },
   "AUA995F": {
     "route": {
@@ -262,7 +262,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-08T15:05:58.500535Z"
+    "checked_at": "2026-10-09T14:55:22.542840Z"
   },
   "KLM49N": {
     "route": {
@@ -6541,17 +6541,6 @@
     },
     "checked_at": "2026-10-09T14:30:48.652402Z"
   },
-  "TKJ9TC": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-07T14:50:32.625259Z"
-  },
   "THY40Y": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -12789,5 +12778,16 @@
   "NJE270P": {
     "route": null,
     "checked_at": "2026-10-09T14:50:31.251418Z"
+  },
+  "LZB320": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Bulgaria Air",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-09T14:55:22.542840Z"
   }
 }
