@@ -923,7 +923,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T20:15:34.735728Z"
+    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "RYR3RD": {
     "route": {
@@ -956,7 +956,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-08T19:55:22.994076Z"
+    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "BEL9NK": {
     "route": {
@@ -1044,7 +1044,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-08T20:10:32.948234Z"
+    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "RYR95MP": {
     "route": {
@@ -3395,7 +3395,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-08T19:40:32.391958Z"
+    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "CCA940": {
     "route": {
@@ -3517,7 +3517,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-08T20:50:31.813500Z"
+    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "CHH489": {
     "route": {
@@ -4663,7 +4663,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T21:15:33.542959Z"
+    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "EWG3VL": {
     "route": {
@@ -13087,5 +13087,27 @@
   "GAF601": {
     "route": null,
     "checked_at": "2026-10-09T19:50:30.470697Z"
+  },
+  "NSZ3755": {
+    "route": {
+      "fromCity": "Ljubljana",
+      "fromIata": "LJU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-09T20:00:54.097340Z"
+  },
+  "ADZ3907": {
+    "route": {
+      "fromCity": "\u00d6rebro",
+      "fromIata": "ORB",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-09T20:00:54.097340Z"
   }
 }
