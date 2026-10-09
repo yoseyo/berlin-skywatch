@@ -1492,7 +1492,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-08T07:15:29.835200Z"
+    "checked_at": "2026-10-09T07:20:34.707061Z"
   },
   "LOT2CM": {
     "route": {
@@ -3605,7 +3605,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T07:00:53.679224Z"
+    "checked_at": "2026-10-09T07:20:34.707061Z"
   },
   "WZZ18DM": {
     "route": {
@@ -4844,17 +4844,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-07T07:35:24.881019Z"
-  },
-  "LOT403": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-07T07:15:34.173546Z"
   },
   "DLH9WF": {
     "route": {
@@ -12487,5 +12476,16 @@
   "NJE382B": {
     "route": null,
     "checked_at": "2026-10-09T07:10:31.349364Z"
+  },
+  "CFG2YU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T07:20:34.707061Z"
   }
 }
