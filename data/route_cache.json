@@ -2021,7 +2021,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-08T09:30:44.337841Z"
+    "checked_at": "2026-10-09T09:15:36.214001Z"
   },
   "AUA226K": {
     "route": {
@@ -4814,7 +4814,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-08T09:05:26.656774Z"
+    "checked_at": "2026-10-09T09:15:36.214001Z"
   },
   "RYR89YH": {
     "route": {
@@ -4950,7 +4950,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-08T09:35:25.831609Z"
+    "checked_at": "2026-10-09T09:15:36.214001Z"
   },
   "AFR12DD": {
     "route": {
@@ -6383,10 +6383,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-09T06:25:24.038836Z"
-  },
-  "NJE233A": {
-    "route": null,
-    "checked_at": "2026-10-07T09:15:33.125933Z"
   },
   "DEZMZ": {
     "route": null,
@@ -11240,7 +11236,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T19:40:32.391958Z"
+    "checked_at": "2026-10-09T09:15:36.214001Z"
   },
   "BAW997T": {
     "route": {
@@ -12526,5 +12522,49 @@
   "DELUR": {
     "route": null,
     "checked_at": "2026-10-09T09:10:32.498117Z"
+  },
+  "EWG4DA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T09:15:36.214001Z"
+  },
+  "EJU93RY": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T09:15:36.214001Z"
+  },
+  "EZY3162": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paisley, Renfrewshire",
+      "toIata": "GLA",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-09T09:15:36.214001Z"
+  },
+  "WZZ1628": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-09T09:15:36.214001Z"
   }
 }
