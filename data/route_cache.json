@@ -365,7 +365,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T15:45:31.331907Z"
+    "checked_at": "2026-10-09T16:55:23.924973Z"
   },
   "RYR3PT": {
     "route": {
@@ -3351,7 +3351,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T17:00:57.484051Z"
+    "checked_at": "2026-10-09T16:55:23.924973Z"
   },
   "SWR15V": {
     "route": {
@@ -4358,7 +4358,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-08T17:00:57.484051Z"
+    "checked_at": "2026-10-09T16:55:23.924973Z"
   },
   "EWG6RY": {
     "route": {
@@ -5413,10 +5413,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-09T06:55:27.251314Z"
-  },
-  "SCR137": {
-    "route": null,
-    "checked_at": "2026-10-07T16:50:33.812541Z"
   },
   "KLM90Z": {
     "route": {
@@ -13002,5 +12998,16 @@
   "ATV503": {
     "route": null,
     "checked_at": "2026-10-09T16:50:31.634792Z"
+  },
+  "RYR8879": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T16:55:23.924973Z"
   }
 }
