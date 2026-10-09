@@ -6784,17 +6784,6 @@
     },
     "checked_at": "2026-10-09T17:30:44.102863Z"
   },
-  "SDR33WB": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-07T21:05:26.043701Z"
-  },
   "RYR8201": {
     "route": {
       "fromCity": "Bari",
@@ -13117,5 +13106,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T21:00:58.400059Z"
+  },
+  "RYR50PQ": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T21:05:26.303699Z"
   }
 }
