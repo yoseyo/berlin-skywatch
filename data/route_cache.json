@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-08T06:35:25.710852Z"
+    "checked_at": "2026-10-09T06:00:55.440589Z"
   },
   "KLM84H": {
     "route": {
@@ -4085,17 +4085,6 @@
     },
     "checked_at": "2026-10-08T16:25:26.024061Z"
   },
-  "KLM1771": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-07T05:55:24.240227Z"
-  },
   "RYR3QE": {
     "route": {
       "fromCity": "Palermo",
@@ -4847,7 +4836,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-08T06:00:54.264612Z"
+    "checked_at": "2026-10-09T06:00:55.440589Z"
   },
   "ASL19P": {
     "route": {
@@ -6399,7 +6388,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T06:10:33.558814Z"
+    "checked_at": "2026-10-09T06:00:55.440589Z"
   },
   "CFG1AH": {
     "route": {
@@ -6747,7 +6736,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T08:50:34.189270Z"
+    "checked_at": "2026-10-09T06:00:55.440589Z"
   },
   "EJU94QK": {
     "route": {
@@ -12455,5 +12444,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-09T05:55:23.643558Z"
+  },
+  "ETH724": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-09T06:00:55.440589Z"
   }
 }
