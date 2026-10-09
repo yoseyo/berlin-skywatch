@@ -1602,7 +1602,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-08T06:45:30.793111Z"
+    "checked_at": "2026-10-09T06:45:31.590476Z"
   },
   "DLH2NL": {
     "route": {
@@ -12462,5 +12462,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-09T06:40:34.655656Z"
+  },
+  "EZS53CU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-09T06:45:31.590476Z"
+  },
+  "SAS661": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-09T06:45:31.590476Z"
+  },
+  "EWG58L": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T06:45:31.590476Z"
   }
 }
