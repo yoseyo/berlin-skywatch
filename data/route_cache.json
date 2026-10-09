@@ -5538,7 +5538,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-07T08:25:26.723594Z"
+    "checked_at": "2026-10-09T08:10:31.376619Z"
   },
   "AHY063": {
     "route": {
@@ -6332,17 +6332,6 @@
   "DINNA": {
     "route": null,
     "checked_at": "2026-10-08T06:00:54.264612Z"
-  },
-  "WZZ2HD": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Tuzla",
-      "toIata": "TZL",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-07T08:10:31.257848Z"
   },
   "MGH391": {
     "route": {
@@ -12497,5 +12486,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T08:00:53.942540Z"
+  },
+  "BTI629": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-09T08:10:31.376619Z"
+  },
+  "EJU92KA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T08:10:31.376619Z"
+  },
+  "DMXIB": {
+    "route": null,
+    "checked_at": "2026-10-09T08:10:31.376619Z"
   }
 }
