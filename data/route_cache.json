@@ -317,7 +317,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-08T15:30:49.562056Z"
+    "checked_at": "2026-10-09T16:10:36.921823Z"
   },
   "TVF77EX": {
     "route": null,
@@ -5052,7 +5052,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-08T16:30:45.092654Z"
+    "checked_at": "2026-10-09T16:10:36.921823Z"
   },
   "EWG33J": {
     "route": {
@@ -6535,7 +6535,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T15:30:49.562056Z"
+    "checked_at": "2026-10-09T16:10:36.921823Z"
   },
   "DLH7MR": {
     "route": {
@@ -6600,10 +6600,6 @@
     },
     "checked_at": "2026-10-09T15:55:26.680903Z"
   },
-  "NJE857E": {
-    "route": null,
-    "checked_at": "2026-10-07T16:05:25.724277Z"
-  },
   "NSZ2066": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6614,17 +6610,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-08T16:30:45.092654Z"
-  },
-  "EJU5017": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-07T16:10:31.357323Z"
   },
   "EWG63L": {
     "route": {
@@ -12888,5 +12873,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T15:55:26.680903Z"
+  },
+  "EWG2WY": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T16:10:36.921823Z"
+  },
+  "RYR90GK": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T16:10:36.921823Z"
   }
 }
