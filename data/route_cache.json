@@ -1367,7 +1367,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T05:30:43.636873Z"
+    "checked_at": "2026-10-09T05:45:31.238208Z"
   },
   "NSZ8ML": {
     "route": {
@@ -6120,10 +6120,6 @@
     },
     "checked_at": "2026-10-07T16:45:34.301303Z"
   },
-  "DCBEN": {
-    "route": null,
-    "checked_at": "2026-10-07T05:45:30.004809Z"
-  },
   "DLH5PR": {
     "route": {
       "fromCity": "Stockholm",
@@ -6356,21 +6352,6 @@
   "BPO507": {
     "route": null,
     "checked_at": "2026-10-08T05:25:24.789739Z"
-  },
-  "BLX523": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-07T05:45:30.004809Z"
-  },
-  "DICMK": {
-    "route": null,
-    "checked_at": "2026-10-07T05:45:30.004809Z"
   },
   "NSZ3374": {
     "route": {
@@ -9291,7 +9272,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-08T06:00:54.264612Z"
+    "checked_at": "2026-10-09T05:45:31.238208Z"
   },
   "EJU41DH": {
     "route": {
@@ -12419,5 +12400,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T05:40:32.992100Z"
+  },
+  "JTD557": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-09T05:45:31.238208Z"
+  },
+  "CAT345": {
+    "route": {
+      "fromCity": "Aalborg",
+      "fromIata": "AAL",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-09T05:45:31.238208Z"
   }
 }
