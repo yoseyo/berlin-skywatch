@@ -203,7 +203,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T14:50:35.099617Z"
+    "checked_at": "2026-10-09T07:05:27.485812Z"
   },
   "CHX82": {
     "route": null,
@@ -1624,7 +1624,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T07:15:29.835200Z"
+    "checked_at": "2026-10-09T07:05:27.485812Z"
   },
   "DLH3TR": {
     "route": {
@@ -1635,7 +1635,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T07:15:29.835200Z"
+    "checked_at": "2026-10-09T07:05:27.485812Z"
   },
   "FIN7HC": {
     "route": {
@@ -12480,5 +12480,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T07:00:51.075334Z"
+  },
+  "THY5CS": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-09T07:05:27.485812Z"
+  },
+  "EWG3F": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T07:05:27.485812Z"
   }
 }
