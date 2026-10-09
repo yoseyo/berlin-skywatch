@@ -593,7 +593,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T10:20:38.826590Z"
+    "checked_at": "2026-10-09T05:30:40.612623Z"
   },
   "EZY29HQ": {
     "route": {
@@ -1378,7 +1378,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T05:55:25.883103Z"
+    "checked_at": "2026-10-09T05:30:40.612623Z"
   },
   "QTR29X": {
     "route": {
@@ -1389,7 +1389,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-08T05:25:24.789739Z"
+    "checked_at": "2026-10-09T05:30:40.612623Z"
   },
   "DLH172": {
     "route": {
@@ -1411,7 +1411,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-08T05:25:24.789739Z"
+    "checked_at": "2026-10-09T05:30:40.612623Z"
   },
   "DLH207": {
     "route": {
@@ -4709,17 +4709,6 @@
     },
     "checked_at": "2026-10-09T05:15:28.792379Z"
   },
-  "EWG66Y": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-07T05:25:23.284199Z"
-  },
   "BEL2JY": {
     "route": {
       "fromCity": "Brussels",
@@ -4777,7 +4766,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T05:25:24.789739Z"
+    "checked_at": "2026-10-09T05:30:40.612623Z"
   },
   "BTI83L": {
     "route": {
@@ -12404,5 +12393,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-09T05:25:22.650389Z"
+  },
+  "SAS7319": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Crete Island",
+      "toIata": "JSH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-09T05:30:40.612623Z"
+  },
+  "NJE680H": {
+    "route": null,
+    "checked_at": "2026-10-09T05:30:40.612623Z"
   }
 }
