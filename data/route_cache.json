@@ -2627,7 +2627,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-08T12:50:34.604670Z"
+    "checked_at": "2026-10-09T13:00:59.549925Z"
   },
   "DLH6MM": {
     "route": {
@@ -2638,7 +2638,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T13:01:33.566374Z"
+    "checked_at": "2026-10-09T13:00:59.549925Z"
   },
   "SAS1678": {
     "route": {
@@ -6423,10 +6423,6 @@
     },
     "checked_at": "2026-10-08T09:50:32.860396Z"
   },
-  "DHEER": {
-    "route": null,
-    "checked_at": "2026-10-07T12:55:26.395917Z"
-  },
   "SAS58M": {
     "route": {
       "fromCity": "Milan",
@@ -6438,10 +6434,6 @@
     },
     "checked_at": "2026-10-08T12:30:46.763068Z"
   },
-  "CHX47": {
-    "route": null,
-    "checked_at": "2026-10-07T12:55:26.395917Z"
-  },
   "RJA137": {
     "route": {
       "fromCity": "Amman",
@@ -6452,17 +6444,6 @@
       "airlineCountry": "Jordan"
     },
     "checked_at": "2026-10-09T12:40:30.814725Z"
-  },
-  "MSC2958": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Cairo",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-07T12:55:26.395917Z"
   },
   "WZZ93ZW": {
     "route": {
@@ -12725,5 +12706,16 @@
   "NJE592C": {
     "route": null,
     "checked_at": "2026-10-09T12:55:23.499214Z"
+  },
+  "EWG71G": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T13:00:59.549925Z"
   }
 }
