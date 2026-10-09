@@ -1613,7 +1613,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T06:55:24.911174Z"
+    "checked_at": "2026-10-09T07:00:51.075334Z"
   },
   "SAS767": {
     "route": {
@@ -1646,7 +1646,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-08T08:00:52.724330Z"
+    "checked_at": "2026-10-09T07:00:51.075334Z"
   },
   "RYR594F": {
     "route": {
@@ -4083,7 +4083,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T15:40:33.511176Z"
+    "checked_at": "2026-10-09T07:00:51.075334Z"
   },
   "RYR44BG": {
     "route": {
@@ -6941,7 +6941,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T10:35:25.094254Z"
+    "checked_at": "2026-10-09T07:00:51.075334Z"
   },
   "DCORR": {
     "route": null,
@@ -12469,5 +12469,16 @@
   "DIPIT": {
     "route": null,
     "checked_at": "2026-10-09T06:55:27.251314Z"
+  },
+  "SDR45DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-09T07:00:51.075334Z"
   }
 }
