@@ -3693,7 +3693,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-08T11:40:33.674210Z"
+    "checked_at": "2026-10-09T12:00:56.982335Z"
   },
   "SEH875": {
     "route": {
@@ -4145,7 +4145,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-08T12:00:58.070420Z"
+    "checked_at": "2026-10-09T12:00:56.982335Z"
   },
   "WZZ40LC": {
     "route": {
@@ -7471,7 +7471,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-07T19:20:36.981960Z"
+    "checked_at": "2026-10-09T12:00:56.982335Z"
   },
   "SAS2778": {
     "route": {
@@ -9352,7 +9352,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T12:40:32.187942Z"
+    "checked_at": "2026-10-09T12:00:56.982335Z"
   },
   "EJU71KT": {
     "route": {
@@ -12570,5 +12570,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T11:55:24.197246Z"
+  },
+  "THY6XB": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-09T12:00:56.982335Z"
+  },
+  "AUA977F": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-09T12:00:56.982335Z"
+  },
+  "NMA739": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-09T12:00:56.982335Z"
   }
 }
