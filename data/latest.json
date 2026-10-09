@@ -3,14 +3,31 @@
     {
       "callsign": "FCK2FT",
       "country": "Germany",
-      "lat": 52.3639,
-      "lon": 13.4691,
-      "altKm": 0.2,
-      "speedKmh": 288,
-      "heading": 69,
-      "vertRateMs": -4.2,
+      "lat": 52.3071,
+      "lon": 13.3586,
+      "altKm": 0.7,
+      "speedKmh": 282,
+      "heading": 270,
+      "vertRateMs": 1.6,
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR85QU",
+      "country": "Ireland",
+      "lat": 52.7996,
+      "lon": 13.9243,
+      "altKm": 11.1,
+      "speedKmh": 748,
+      "heading": 252,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "London",
+      "toIata": "STN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-09T22:25:23.628672Z"
+  "updated_at": "2026-10-09T22:30:43.144720Z"
 }
