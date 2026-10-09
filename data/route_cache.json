@@ -229,7 +229,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-08T15:20:32.680224Z"
+    "checked_at": "2026-10-09T15:05:25.573875Z"
   },
   "KLM1779": {
     "route": {
@@ -12760,5 +12760,38 @@
   "CAT311": {
     "route": null,
     "checked_at": "2026-10-09T15:00:58.038622Z"
+  },
+  "TKJ9TC": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-09T15:05:25.573875Z"
+  },
+  "WZZ1607": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-09T15:05:25.573875Z"
+  },
+  "EWG72F": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-09T15:05:25.573875Z"
   }
 }
