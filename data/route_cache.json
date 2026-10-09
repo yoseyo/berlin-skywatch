@@ -2410,7 +2410,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-08T11:50:38.350137Z"
+    "checked_at": "2026-10-09T12:20:31.671221Z"
   },
   "FIN3YX": {
     "route": {
@@ -2531,7 +2531,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-08T12:11:08.189549Z"
+    "checked_at": "2026-10-09T12:20:31.671221Z"
   },
   "QTR37K": {
     "route": null,
@@ -2616,7 +2616,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-08T12:25:29.380879Z"
+    "checked_at": "2026-10-09T12:20:31.671221Z"
   },
   "SXS9SE": {
     "route": {
@@ -12666,5 +12666,53 @@
   "EFD1E": {
     "route": null,
     "checked_at": "2026-10-09T12:15:31.885493Z"
+  },
+  "CKK236": {
+    "route": {
+      "fromCity": "Los Angeles",
+      "fromIata": "LAX",
+      "toCity": "Chongqing",
+      "toIata": "CKG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-09T12:20:31.671221Z"
+  },
+  "ABP725": {
+    "route": null,
+    "checked_at": "2026-10-09T12:20:31.671221Z"
+  },
+  "RYR89XK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marrakech",
+      "toIata": "RAK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T12:20:31.671221Z"
+  },
+  "RYR91ZT": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T12:20:31.671221Z"
+  },
+  "WZZ60QL": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-09T12:20:31.671221Z"
   }
 }
