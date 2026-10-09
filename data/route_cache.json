@@ -1525,7 +1525,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-08T18:55:23.469934Z"
+    "checked_at": "2026-10-09T10:00:53.841981Z"
   },
   "PGT820D": {
     "route": {
@@ -2043,7 +2043,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-08T10:40:32.157213Z"
+    "checked_at": "2026-10-09T10:00:53.841981Z"
   },
   "SAS2678": {
     "route": {
@@ -2190,7 +2190,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-08T10:00:55.128390Z"
+    "checked_at": "2026-10-09T10:00:53.841981Z"
   },
   "BEL4NK": {
     "route": {
@@ -4834,10 +4834,6 @@
     },
     "checked_at": "2026-10-08T09:30:44.337841Z"
   },
-  "WMT751": {
-    "route": null,
-    "checked_at": "2026-10-07T09:55:29.112233Z"
-  },
   "AFR65AR": {
     "route": {
       "fromCity": "Paris",
@@ -5571,7 +5567,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-10-08T09:50:32.860396Z"
+    "checked_at": "2026-10-09T10:00:53.841981Z"
   },
   "EWG44ME": {
     "route": {
@@ -5810,7 +5806,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-07T13:15:36.988280Z"
+    "checked_at": "2026-10-09T10:00:53.841981Z"
   },
   "CES787": {
     "route": {
@@ -6346,10 +6342,6 @@
   "EWG7DL": {
     "route": null,
     "checked_at": "2026-10-08T14:10:34.121073Z"
-  },
-  "FJMFZ": {
-    "route": null,
-    "checked_at": "2026-10-07T10:00:53.415323Z"
   },
   "EZY18ZQ": {
     "route": {
@@ -12491,5 +12483,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T09:50:31.359610Z"
+  },
+  "ETH3728": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Addis Ababa",
+      "toIata": "ADD",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-09T10:00:53.841981Z"
+  },
+  "LBT249": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Monastir",
+      "toIata": "MIR",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-09T10:00:53.841981Z"
+  },
+  "CXI8T": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-09T10:00:53.841981Z"
   }
 }
