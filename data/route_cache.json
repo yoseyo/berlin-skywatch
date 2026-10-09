@@ -2976,7 +2976,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-08T06:00:54.264612Z"
+    "checked_at": "2026-10-09T05:40:32.992100Z"
   },
   "WZZ977": {
     "route": {
@@ -12397,5 +12397,27 @@
   "NJE680H": {
     "route": null,
     "checked_at": "2026-10-09T05:30:40.612623Z"
+  },
+  "BTI28P": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-09T05:40:32.992100Z"
+  },
+  "RYR50XX": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Cagliari",
+      "toIata": "CAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-09T05:40:32.992100Z"
   }
 }
