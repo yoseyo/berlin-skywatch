@@ -1,14 +1,48 @@
 {
   "flights": [
     {
+      "callsign": "SRR6227",
+      "country": "Denmark",
+      "lat": 52.3283,
+      "lon": 13.2716,
+      "altKm": 3.0,
+      "speedKmh": 472,
+      "heading": 259,
+      "vertRateMs": 15.9,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH206",
+      "country": "Germany",
+      "lat": 52.3205,
+      "lon": 13.8294,
+      "altKm": 1.6,
+      "speedKmh": 486,
+      "heading": 54,
+      "vertRateMs": -1.9,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Dresden",
+      "toIata": "DRS",
+      "category": "plane"
+    },
+    {
       "callsign": "BCS8EL",
       "country": "Ireland",
-      "lat": 52.5883,
-      "lon": 13.3723,
-      "altKm": 8.6,
-      "speedKmh": 771,
+      "lat": 52.1458,
+      "lon": 12.8711,
+      "altKm": 6.8,
+      "speedKmh": 682,
       "heading": 215,
-      "vertRateMs": -5.2,
+      "vertRateMs": -10.4,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Helsinki",
@@ -16,20 +50,7 @@
       "toCity": "Leipzig",
       "toIata": "LEJ",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR8RZ",
-      "country": "Malta",
-      "lat": 52.3838,
-      "lon": 13.5527,
-      "altKm": 0.2,
-      "speedKmh": 260,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-09T21:15:31.414601Z"
+  "updated_at": "2026-10-09T21:20:30.693666Z"
 }
