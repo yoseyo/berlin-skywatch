@@ -295,7 +295,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-08T15:10:35.251467Z"
+    "checked_at": "2026-10-09T15:00:58.038622Z"
   },
   "PGT978": {
     "route": {
@@ -3836,7 +3836,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-07T15:35:25.362215Z"
+    "checked_at": "2026-10-09T15:00:58.038622Z"
   },
   "EJU32RT": {
     "route": null,
@@ -6551,50 +6551,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-09T14:50:31.251418Z"
-  },
-  "BLX495": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-07T14:56:02.659184Z"
-  },
-  "RYR9TY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Katowice",
-      "toIata": "KTW",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T14:56:02.659184Z"
-  },
-  "MSC2959": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Air Cairo",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-07T14:56:02.659184Z"
-  },
-  "RYR31MR": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-07T14:56:02.659184Z"
   },
   "EWG3AM": {
     "route": {
@@ -12789,5 +12745,20 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-10-09T14:55:22.542840Z"
+  },
+  "BTI26R": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-09T15:00:58.038622Z"
+  },
+  "CAT311": {
+    "route": null,
+    "checked_at": "2026-10-09T15:00:58.038622Z"
   }
 }
