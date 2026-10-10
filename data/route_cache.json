@@ -545,7 +545,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T16:50:31.998747Z"
+    "checked_at": "2026-10-10T16:50:33.494604Z"
   },
   "LHX195": {
     "route": {
@@ -6712,21 +6712,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T16:35:24.315384Z"
-  },
-  "NOS4096": {
-    "route": null,
-    "checked_at": "2026-10-08T16:50:31.998747Z"
-  },
-  "LOT238": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-08T16:50:31.998747Z"
   },
   "DLH3X": {
     "route": {
@@ -13372,5 +13357,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T16:45:33.066377Z"
+  },
+  "AEE752": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-10T16:50:33.494604Z"
+  },
+  "SDR46DT": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T16:50:33.494604Z"
+  },
+  "CKK216": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-10T16:50:33.494604Z"
   }
 }
