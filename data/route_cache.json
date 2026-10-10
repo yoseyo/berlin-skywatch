@@ -1444,7 +1444,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T06:05:23.895393Z"
+    "checked_at": "2026-10-10T06:10:30.247798Z"
   },
   "AUA223B": {
     "route": {
@@ -5091,17 +5091,6 @@
     },
     "checked_at": "2026-10-08T06:21:07.521928Z"
   },
-  "PGT17GP": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T06:05:26.103956Z"
-  },
   "FIN1AB": {
     "route": {
       "fromCity": "Helsinki",
@@ -6830,17 +6819,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T16:20:33.123794Z"
-  },
-  "NOZ1950": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-08T06:05:26.103956Z"
   },
   "FIN6Y": {
     "route": {
@@ -13173,5 +13151,27 @@
   "TCTSM": {
     "route": null,
     "checked_at": "2026-10-10T06:05:22.484006Z"
+  },
+  "WMT7LY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-10T06:10:30.247798Z"
+  },
+  "SAS7465": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Kalamata",
+      "toIata": "KLX",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T06:10:30.247798Z"
   }
 }
