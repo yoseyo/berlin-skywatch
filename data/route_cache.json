@@ -133,7 +133,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T07:30:45.820685Z"
+    "checked_at": "2026-10-10T06:15:29.597460Z"
   },
   "CHX31": {
     "route": null,
@@ -1466,7 +1466,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T06:25:24.038836Z"
+    "checked_at": "2026-10-10T06:15:29.597460Z"
   },
   "RYR120T": {
     "route": {
@@ -1536,7 +1536,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T06:15:29.714063Z"
+    "checked_at": "2026-10-10T06:15:29.597460Z"
   },
   "SWR97Y": {
     "route": {
@@ -4549,7 +4549,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-09T06:05:23.895393Z"
+    "checked_at": "2026-10-10T06:15:29.597460Z"
   },
   "THY1LZ": {
     "route": {
@@ -4833,17 +4833,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-08T12:40:32.187942Z"
-  },
-  "RYR87VA": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T06:10:33.558814Z"
   },
   "EJU93XZ": {
     "route": {
@@ -5689,17 +5678,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T04:10:29.656311Z"
-  },
-  "CAI3GK": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T06:10:33.558814Z"
   },
   "RYR1JK": {
     "route": {
@@ -6820,28 +6798,6 @@
     },
     "checked_at": "2026-10-09T16:20:33.123794Z"
   },
-  "FIN6Y": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-08T06:10:33.558814Z"
-  },
-  "RYR7952": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T06:10:33.558814Z"
-  },
   "PVD456J": {
     "route": null,
     "checked_at": "2026-10-08T06:25:24.225402Z"
@@ -6877,7 +6833,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-08T06:25:24.225402Z"
+    "checked_at": "2026-10-10T06:15:29.597460Z"
   },
   "CFG2CA": {
     "route": {
@@ -13173,5 +13129,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T06:10:30.247798Z"
+  },
+  "CAT335": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-10T06:15:29.597460Z"
   }
 }
