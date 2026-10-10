@@ -1,33 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "SAS7726",
+      "callsign": "SAS61W",
       "country": "Sweden",
-      "lat": 52.5845,
-      "lon": 13.7864,
-      "altKm": 10.3,
-      "speedKmh": 904,
-      "heading": 346,
-      "vertRateMs": 0,
+      "lat": 52.162,
+      "lon": 13.7476,
+      "altKm": 10.9,
+      "speedKmh": 892,
+      "heading": 337,
+      "vertRateMs": -0.3,
       "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
       "fromCity": "Souda",
       "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
+      "toCity": "Stavanger",
+      "toIata": "SVG",
       "category": "plane"
     },
     {
       "callsign": "FCK2FT",
       "country": "Germany",
-      "lat": 52.339,
-      "lon": 13.4378,
-      "altKm": 0.3,
-      "speedKmh": 284,
-      "heading": 247,
-      "vertRateMs": 2.9,
+      "lat": 52.3929,
+      "lon": 13.4812,
+      "altKm": 1.3,
+      "speedKmh": 343,
+      "heading": 65,
+      "vertRateMs": -1.0,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-10T22:20:31.283451Z"
+  "updated_at": "2026-10-10T22:25:25.163276Z"
 }
