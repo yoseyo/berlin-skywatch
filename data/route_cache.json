@@ -1367,7 +1367,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T05:45:31.238208Z"
+    "checked_at": "2026-10-10T05:30:40.847369Z"
   },
   "NSZ8ML": {
     "route": {
@@ -1411,7 +1411,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-09T05:30:40.612623Z"
+    "checked_at": "2026-10-10T05:30:40.847369Z"
   },
   "DLH207": {
     "route": {
@@ -3932,7 +3932,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T16:25:26.024061Z"
+    "checked_at": "2026-10-10T05:30:40.847369Z"
   },
   "RYR3QE": {
     "route": {
@@ -5749,10 +5749,6 @@
     },
     "checked_at": "2026-10-10T04:10:29.656311Z"
   },
-  "BPO507": {
-    "route": null,
-    "checked_at": "2026-10-08T05:25:24.789739Z"
-  },
   "CAI3GK": {
     "route": {
       "fromCity": "Antalya",
@@ -6839,28 +6835,6 @@
     },
     "checked_at": "2026-10-10T04:40:30.704880Z"
   },
-  "WZZ31QC": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-08T05:25:24.789739Z"
-  },
-  "RYR17UC": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T05:25:24.789739Z"
-  },
   "RYR938": {
     "route": {
       "fromCity": "Brussels",
@@ -6881,7 +6855,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-08T05:35:25.490215Z"
+    "checked_at": "2026-10-10T05:30:40.847369Z"
   },
   "EJU37HE": {
     "route": {
@@ -13206,5 +13180,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-10T05:10:32.619167Z"
+  },
+  "NOZ8BF": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-10T05:30:40.847369Z"
   }
 }
