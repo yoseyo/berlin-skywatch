@@ -1,39 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "SXS75G",
-      "country": "Turkey",
-      "lat": 52.2744,
-      "lon": 13.2623,
-      "altKm": 3.0,
-      "speedKmh": 535,
-      "heading": 160,
-      "vertRateMs": 16.3,
-      "airline": "SunExpress",
-      "airlineCountry": "Turkey",
+      "callsign": "BEL8YE",
+      "country": "Belgium",
+      "lat": 52.3132,
+      "lon": 13.4006,
+      "altKm": 1.1,
+      "speedKmh": 296,
+      "heading": 230,
+      "vertRateMs": 4.2,
+      "airline": "Brussels Airlines",
+      "airlineCountry": "Belgium",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR456B",
-      "country": "Malta",
-      "lat": 52.7146,
-      "lon": 13.1869,
-      "altKm": 11.6,
-      "speedKmh": 925,
-      "heading": 20,
-      "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
+      "toCity": "Brussels",
+      "toIata": "BRU",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-10T05:20:30.990289Z"
+  "updated_at": "2026-10-10T05:25:23.138803Z"
 }
