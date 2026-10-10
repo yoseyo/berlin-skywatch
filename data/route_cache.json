@@ -4631,17 +4631,6 @@
     },
     "checked_at": "2026-10-09T18:15:29.678571Z"
   },
-  "EJU47TU": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T20:25:23.111067Z"
-  },
   "LOT4CN": {
     "route": {
       "fromCity": "Brussels",
@@ -5013,17 +5002,6 @@
     "route": null,
     "checked_at": "2026-10-09T08:50:33.074878Z"
   },
-  "SWT9ER": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Swiftair",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-08T20:20:32.880932Z"
-  },
   "EWG6AZ": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -5255,17 +5233,6 @@
   "EWG7DL": {
     "route": null,
     "checked_at": "2026-10-10T10:25:22.474742Z"
-  },
-  "EZY18ZQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-08T20:25:23.111067Z"
   },
   "RYR91SP": {
     "route": {
@@ -6800,39 +6767,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T20:05:23.775513Z"
-  },
-  "CXI16NP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-08T20:20:32.880932Z"
-  },
-  "SXS2LD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gaziantep",
-      "toIata": "GZT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T20:20:32.880932Z"
-  },
-  "RYR57BR": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T20:20:32.880932Z"
   },
   "BCS94Q": {
     "route": {
@@ -13393,5 +13327,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T20:20:31.946770Z"
+  },
+  "EJU72PR": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T20:25:24.603133Z"
+  },
+  "SAS1760": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T20:25:24.603133Z"
   }
 }
