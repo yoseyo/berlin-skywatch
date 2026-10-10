@@ -2649,7 +2649,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T12:50:32.861377Z"
+    "checked_at": "2026-10-10T13:00:55.264193Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -2693,7 +2693,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T13:10:32.476246Z"
+    "checked_at": "2026-10-10T13:00:55.264193Z"
   },
   "CHX71": {
     "route": null,
@@ -7666,7 +7666,7 @@
   },
   "UPEM014": {
     "route": null,
-    "checked_at": "2026-10-08T18:15:31.832838Z"
+    "checked_at": "2026-10-10T13:00:55.264193Z"
   },
   "RYR7BW": {
     "route": {
@@ -13305,5 +13305,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T12:55:23.858376Z"
+  },
+  "SAS7312": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T13:00:55.264193Z"
+  },
+  "RYR36RH": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T13:00:55.264193Z"
+  },
+  "DLH5N": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T13:00:55.264193Z"
   }
 }
