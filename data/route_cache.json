@@ -2256,7 +2256,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T10:45:29.407793Z"
+    "checked_at": "2026-10-10T10:20:33.294917Z"
   },
   "FIN50M": {
     "route": {
@@ -2855,7 +2855,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T16:30:43.289796Z"
+    "checked_at": "2026-10-10T10:20:33.294917Z"
   },
   "BBG272": {
     "route": {
@@ -3842,10 +3842,6 @@
     },
     "checked_at": "2026-10-09T08:56:13.017993Z"
   },
-  "N99BY": {
-    "route": null,
-    "checked_at": "2026-10-08T10:15:34.207590Z"
-  },
   "KLM67B": {
     "route": {
       "fromCity": "Amsterdam",
@@ -4668,17 +4664,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T19:10:33.892830Z"
-  },
-  "EJU49AU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Pisa",
-      "toIata": "PSA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T10:15:34.207590Z"
   },
   "LHX2T": {
     "route": {
@@ -6121,10 +6106,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-09T17:05:26.511478Z"
-  },
-  "VJH387": {
-    "route": null,
-    "checked_at": "2026-10-08T10:15:34.207590Z"
   },
   "N7378S": {
     "route": null,
@@ -13187,5 +13168,16 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-10-10T10:15:33.918956Z"
+  },
+  "MGH649": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T10:20:33.294917Z"
   }
 }
