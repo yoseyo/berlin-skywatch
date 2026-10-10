@@ -879,7 +879,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-09T21:00:58.400059Z"
+    "checked_at": "2026-10-10T20:05:22.431180Z"
   },
   "DLH1CJ": {
     "route": {
@@ -6789,28 +6789,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-09T20:25:27.069537Z"
-  },
-  "SAS79E": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T20:00:52.572930Z"
-  },
-  "WZZ596": {
-    "route": {
-      "fromCity": "Bucharest",
-      "fromIata": "OTP",
-      "toCity": "Valencia",
-      "toIata": "VLC",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-08T20:00:52.572930Z"
   },
   "EJU59PD": {
     "route": {
@@ -13437,5 +13415,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-10T20:00:52.006407Z"
+  },
+  "VLG1887": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-10T20:05:22.431180Z"
   }
 }
