@@ -1,14 +1,59 @@
 {
   "flights": [
     {
+      "callsign": "NSZ4WF",
+      "country": "Sweden",
+      "lat": 52.8727,
+      "lon": 13.7667,
+      "altKm": 10.9,
+      "speedKmh": 890,
+      "heading": 345,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU59PD",
+      "country": "Austria",
+      "lat": 52.2825,
+      "lon": 13.8693,
+      "altKm": 2.1,
+      "speedKmh": 441,
+      "heading": 329,
+      "vertRateMs": -11.1,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "FCK2FT",
+      "country": "Germany",
+      "lat": 52.3413,
+      "lon": 13.3765,
+      "altKm": 1.0,
+      "speedKmh": 299,
+      "heading": 248,
+      "vertRateMs": 1.3,
+      "category": "plane"
+    },
+    {
       "callsign": "RYR5WP",
       "country": "Poland",
-      "lat": 52.228,
-      "lon": 12.7232,
+      "lat": 52.6374,
+      "lon": 13.6868,
       "altKm": 11.2,
-      "speedKmh": 924,
-      "heading": 55,
-      "vertRateMs": -0.3,
+      "speedKmh": 934,
+      "heading": 56,
+      "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Katowice",
@@ -18,5 +63,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-10T21:35:23.467140Z"
+  "updated_at": "2026-10-10T21:40:30.488935Z"
 }
