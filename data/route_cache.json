@@ -475,7 +475,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-09T16:45:32.150210Z"
+    "checked_at": "2026-10-10T16:40:29.927833Z"
   },
   "PGT49PK": {
     "route": {
@@ -3468,8 +3468,15 @@
     "checked_at": "2026-10-10T11:20:31.846369Z"
   },
   "AFR17RZ": {
-    "route": null,
-    "checked_at": "2026-10-08T16:45:31.872144Z"
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-10T16:40:29.927833Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -6706,17 +6713,6 @@
     },
     "checked_at": "2026-10-10T08:25:24.846568Z"
   },
-  "RYR48UK": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T16:35:25.280014Z"
-  },
   "AUA234G": {
     "route": {
       "fromCity": "Berlin",
@@ -7473,7 +7469,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T20:40:30.842931Z"
+    "checked_at": "2026-10-10T16:40:29.927833Z"
   },
   "NOZ5EU": {
     "route": {
@@ -13387,5 +13383,16 @@
   "BFX1073": {
     "route": null,
     "checked_at": "2026-10-10T16:35:24.315384Z"
+  },
+  "SEH5515": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-10T16:40:29.927833Z"
   }
 }
