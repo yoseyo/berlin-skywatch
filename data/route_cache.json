@@ -5069,17 +5069,6 @@
     },
     "checked_at": "2026-10-09T03:50:29.661226Z"
   },
-  "WMT3CL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cluj-Napoca",
-      "toIata": "CLJ",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-08T06:21:07.521928Z"
-  },
   "FIN1AB": {
     "route": {
       "fromCity": "Helsinki",
@@ -5325,17 +5314,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-09T09:00:56.721671Z"
-  },
-  "EJU72PR": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T06:21:07.521928Z"
   },
   "DCS601": {
     "route": null,
@@ -5699,7 +5677,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T06:00:55.440589Z"
+    "checked_at": "2026-10-10T06:25:23.262770Z"
   },
   "EJU69DQ": {
     "route": {
@@ -13173,5 +13151,16 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-10T06:20:31.701749Z"
+  },
+  "EJU3947": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T06:25:23.262770Z"
   }
 }
