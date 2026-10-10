@@ -901,7 +901,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T20:00:54.097340Z"
+    "checked_at": "2026-10-10T19:20:32.384837Z"
   },
   "RYR3RD": {
     "route": {
@@ -2822,7 +2822,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T19:35:24.466650Z"
+    "checked_at": "2026-10-10T19:20:32.384837Z"
   },
   "EJU84GR": {
     "route": {
@@ -6745,17 +6745,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-09T18:55:25.668978Z"
-  },
-  "RYR19ZZ": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T19:20:31.591918Z"
   },
   "RYR42MY": {
     "route": {
@@ -13338,5 +13327,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T19:15:30.497200Z"
+  },
+  "SAS64C": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T19:20:32.384837Z"
   }
 }
