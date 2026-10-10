@@ -3417,7 +3417,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T06:10:31.438304Z"
+    "checked_at": "2026-10-10T06:05:22.484006Z"
   },
   "NSZ4505": {
     "route": {
@@ -6808,17 +6808,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T05:05:24.906959Z"
-  },
-  "NSZ3YT": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T06:00:54.264612Z"
   },
   "FIN3AW": {
     "route": {
@@ -11992,7 +11981,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T16:20:33.123794Z"
+    "checked_at": "2026-10-10T06:05:22.484006Z"
   },
   "FIN01AD": {
     "route": {
@@ -13169,5 +13158,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T05:50:31.982474Z"
+  },
+  "KLM1771": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-10T06:05:22.484006Z"
+  },
+  "TCTSM": {
+    "route": null,
+    "checked_at": "2026-10-10T06:05:22.484006Z"
   }
 }
