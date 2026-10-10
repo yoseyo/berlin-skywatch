@@ -6725,10 +6725,6 @@
     },
     "checked_at": "2026-10-10T05:20:30.990289Z"
   },
-  "AAO14": {
-    "route": null,
-    "checked_at": "2026-10-08T13:35:27.427155Z"
-  },
   "NSZ4502": {
     "route": {
       "fromCity": "Munich",
@@ -6771,7 +6767,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T13:40:32.986456Z"
+    "checked_at": "2026-10-10T13:40:30.499388Z"
   },
   "DLH2WR": {
     "route": {
@@ -7451,7 +7447,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T17:50:32.151404Z"
+    "checked_at": "2026-10-10T13:40:30.499388Z"
   },
   "AUA972": {
     "route": {
@@ -13389,5 +13385,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T13:35:23.382607Z"
+  },
+  "WZZ242": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Alghero",
+      "toIata": "AHO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-10T13:40:30.499388Z"
   }
 }
