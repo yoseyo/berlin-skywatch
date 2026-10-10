@@ -1977,7 +1977,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T09:05:27.232582Z"
+    "checked_at": "2026-10-10T09:15:30.129960Z"
   },
   "EIN3EG": {
     "route": {
@@ -2767,7 +2767,7 @@
   },
   "EJU69MZ": {
     "route": null,
-    "checked_at": "2026-10-09T19:10:33.892830Z"
+    "checked_at": "2026-10-10T09:15:30.129960Z"
   },
   "RYR7QZ": {
     "route": {
@@ -3196,7 +3196,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-09T13:40:32.986456Z"
+    "checked_at": "2026-10-10T09:15:30.129960Z"
   },
   "EWG9SK": {
     "route": {
@@ -5425,17 +5425,6 @@
     },
     "checked_at": "2026-10-10T06:35:22.886246Z"
   },
-  "WZZ6LM": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-08T09:10:32.603184Z"
-  },
   "RYR415W": {
     "route": {
       "fromCity": "Bydgoszcz",
@@ -6751,28 +6740,9 @@
     },
     "checked_at": "2026-10-09T20:30:44.152689Z"
   },
-  "TOY215": {
-    "route": null,
-    "checked_at": "2026-10-08T09:10:32.603184Z"
-  },
   "N661CH": {
     "route": null,
     "checked_at": "2026-10-09T13:05:25.434023Z"
-  },
-  "KRF64": {
-    "route": null,
-    "checked_at": "2026-10-08T09:10:32.603184Z"
-  },
-  "RYR9504": {
-    "route": {
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "Bristol",
-      "toIata": "BRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T09:10:32.603184Z"
   },
   "NSZ3289": {
     "route": {
@@ -13188,5 +13158,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T09:00:52.932208Z"
+  },
+  "EWG47Z": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T09:15:30.129960Z"
+  },
+  "RYR392T": {
+    "route": {
+      "fromCity": "Newcastle",
+      "fromIata": "NCL",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T09:15:30.129960Z"
   }
 }
