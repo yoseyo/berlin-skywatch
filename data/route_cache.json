@@ -1558,7 +1558,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T07:15:29.800519Z"
+    "checked_at": "2026-10-10T06:35:22.886246Z"
   },
   "RYR4WC": {
     "route": {
@@ -2344,7 +2344,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T13:40:32.986456Z"
+    "checked_at": "2026-10-10T06:35:22.886246Z"
   },
   "NOZ53Y": {
     "route": {
@@ -3476,7 +3476,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-09T07:30:45.820685Z"
+    "checked_at": "2026-10-10T06:35:22.886246Z"
   },
   "RYR785N": {
     "route": {
@@ -5537,7 +5537,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T16:55:24.964930Z"
+    "checked_at": "2026-10-10T06:35:22.886246Z"
   },
   "WZZ6LM": {
     "route": {
@@ -6786,17 +6786,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-10T06:15:29.597460Z"
-  },
-  "AUA222": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T06:30:44.482718Z"
   },
   "N177LN": {
     "route": null,
@@ -9331,7 +9320,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T20:55:23.653854Z"
+    "checked_at": "2026-10-10T06:35:22.886246Z"
   },
   "NOZ47E": {
     "route": {
@@ -13136,5 +13125,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T06:30:43.298735Z"
+  },
+  "FIN5R": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-10T06:35:22.886246Z"
+  },
+  "THY3359": {
+    "route": null,
+    "checked_at": "2026-10-10T06:35:22.886246Z"
+  },
+  "MSR985": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-10T06:35:22.886246Z"
   }
 }
