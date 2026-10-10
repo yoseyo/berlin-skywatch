@@ -670,7 +670,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T17:35:24.321569Z"
+    "checked_at": "2026-10-10T17:40:31.898975Z"
   },
   "AEE8DT": {
     "route": {
@@ -681,7 +681,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-09T17:45:29.467693Z"
+    "checked_at": "2026-10-10T17:40:31.898975Z"
   },
   "DLH9XY": {
     "route": {
@@ -4667,17 +4667,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T15:30:44.608158Z"
-  },
-  "RYR98AR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T17:35:25.928526Z"
   },
   "EWG6TG": {
     "route": {
@@ -13445,5 +13434,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-10T17:35:25.660798Z"
+  },
+  "RYR8BL": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T17:40:31.898975Z"
+  },
+  "RYR6V": {
+    "route": {
+      "fromCity": "Darlington, Durham",
+      "fromIata": "MME",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T17:40:31.898975Z"
   }
 }
