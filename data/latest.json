@@ -3,11 +3,11 @@
     {
       "callsign": "SWR1317",
       "country": "Latvia",
-      "lat": 52.6531,
-      "lon": 14.0254,
+      "lat": 52.2684,
+      "lon": 13.5744,
       "altKm": 11.1,
-      "speedKmh": 701,
-      "heading": 216,
+      "speedKmh": 705,
+      "heading": 215,
       "vertRateMs": 0,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
@@ -16,7 +16,37 @@
       "toCity": "Zurich",
       "toIata": "ZRH",
       "category": "plane"
+    },
+    {
+      "callsign": "UAL962",
+      "country": "United States",
+      "lat": 52.6118,
+      "lon": 13.2122,
+      "altKm": 3.0,
+      "speedKmh": 662,
+      "heading": 101,
+      "vertRateMs": -4.9,
+      "airline": "United Airlines",
+      "airlineCountry": "United States",
+      "fromCity": "New York",
+      "fromIata": "EWR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG9B",
+      "country": "Germany",
+      "lat": 52.3228,
+      "lon": 13.4152,
+      "altKm": 0.8,
+      "speedKmh": 344,
+      "heading": 226,
+      "vertRateMs": 6.2,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-10T04:00:52.660282Z"
+  "updated_at": "2026-10-10T04:05:23.066910Z"
 }
