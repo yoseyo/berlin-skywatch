@@ -3108,7 +3108,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T18:55:25.668978Z"
+    "checked_at": "2026-10-10T18:55:22.611402Z"
   },
   "UAE98V": {
     "route": {
@@ -6771,17 +6771,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T19:00:54.738345Z"
-  },
-  "SAS95W": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T18:50:37.573076Z"
   },
   "NOZ5HE": {
     "route": {
@@ -13401,5 +13390,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T18:50:31.362227Z"
+  },
+  "CFG2XU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T18:55:22.611402Z"
+  },
+  "SAS2768": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T18:55:22.611402Z"
   }
 }
