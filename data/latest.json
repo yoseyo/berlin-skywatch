@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-10T03:25:23.698769Z"
+  "flights": [
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.4539,
+      "lon": 13.8739,
+      "altKm": 1.3,
+      "speedKmh": 280,
+      "heading": 273,
+      "vertRateMs": -2.3,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-10T03:30:43.827269Z"
 }
