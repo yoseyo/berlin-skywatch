@@ -1716,7 +1716,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T07:25:26.691753Z"
+    "checked_at": "2026-10-10T07:30:41.672211Z"
   },
   "EIN3JE": {
     "route": {
@@ -1738,7 +1738,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T07:35:23.838983Z"
+    "checked_at": "2026-10-10T07:30:41.672211Z"
   },
   "RYR9CL": {
     "route": {
@@ -1837,7 +1837,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T08:00:53.942540Z"
+    "checked_at": "2026-10-10T07:30:41.672211Z"
   },
   "SAS2677": {
     "route": {
@@ -5102,17 +5102,6 @@
     },
     "checked_at": "2026-10-08T08:00:52.724330Z"
   },
-  "PGT390G": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T07:25:25.154641Z"
-  },
   "LOT4NC": {
     "route": {
       "fromCity": "Warsaw",
@@ -6772,17 +6761,6 @@
     },
     "checked_at": "2026-10-09T18:55:25.668978Z"
   },
-  "NSZ3LZ": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T07:25:25.154641Z"
-  },
   "RYR59LA": {
     "route": {
       "fromCity": "London",
@@ -6825,7 +6803,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-09T07:30:45.820685Z"
+    "checked_at": "2026-10-10T07:30:41.672211Z"
   },
   "T7AIX": {
     "route": null,
@@ -13200,5 +13178,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-10T07:25:25.117448Z"
+  },
+  "LHX9JC": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T07:30:41.672211Z"
+  },
+  "RYR93KF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T07:30:41.672211Z"
   }
 }
