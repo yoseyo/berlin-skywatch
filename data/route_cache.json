@@ -2234,7 +2234,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T10:10:34.243954Z"
+    "checked_at": "2026-10-10T09:55:22.793000Z"
   },
   "AEE2WD": {
     "route": {
@@ -5845,17 +5845,6 @@
     },
     "checked_at": "2026-10-08T12:50:34.604670Z"
   },
-  "RYR525H": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T09:50:32.860396Z"
-  },
   "SAS58M": {
     "route": {
       "fromCity": "Milan",
@@ -6699,28 +6688,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T08:40:30.843722Z"
-  },
-  "RYR4022": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T09:50:32.860396Z"
-  },
-  "LOT252": {
-    "route": {
-      "fromCity": "Luxembourg",
-      "fromIata": "LUX",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-08T09:50:32.860396Z"
   },
   "NOZ8BE": {
     "route": {
@@ -13224,5 +13191,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T09:50:29.795396Z"
+  },
+  "AUA41": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Washington",
+      "toIata": "IAD",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T09:55:22.793000Z"
   }
 }
