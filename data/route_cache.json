@@ -6812,17 +6812,6 @@
     },
     "checked_at": "2026-10-10T17:50:32.301124Z"
   },
-  "NSZ3733": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T21:55:23.197594Z"
-  },
   "RYR28HY": {
     "route": {
       "fromCity": "Dubrovnik",
@@ -13426,5 +13415,16 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-10T21:50:32.773850Z"
+  },
+  "RYR1ZR": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T21:55:23.892641Z"
   }
 }
