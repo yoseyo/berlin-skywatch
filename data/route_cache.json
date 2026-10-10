@@ -4540,10 +4540,6 @@
     },
     "checked_at": "2026-10-09T09:05:27.232582Z"
   },
-  "AMQ7A": {
-    "route": null,
-    "checked_at": "2026-10-08T14:15:31.062689Z"
-  },
   "EWG3XM": {
     "route": {
       "fromCity": "Hamburg",
@@ -5687,17 +5683,6 @@
     },
     "checked_at": "2026-10-09T13:35:25.763995Z"
   },
-  "BEL5XD": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-08T14:15:31.062689Z"
-  },
   "RYR45CC": {
     "route": {
       "fromCity": "Treviso",
@@ -6675,7 +6660,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T13:20:35.458053Z"
+    "checked_at": "2026-10-10T14:20:31.347839Z"
   },
   "RYR58ZM": {
     "route": {
@@ -13403,5 +13388,42 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-10T14:15:30.069294Z"
+  },
+  "EJU5005": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T14:20:31.347839Z"
+  },
+  "DLH8HU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Dresden",
+      "toIata": "DRS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T14:20:31.347839Z"
+  },
+  "DMAAC": {
+    "route": null,
+    "checked_at": "2026-10-10T14:20:31.347839Z"
+  },
+  "RYR14WN": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T14:20:31.347839Z"
   }
 }
