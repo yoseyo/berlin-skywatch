@@ -2730,7 +2730,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-09T11:05:25.638133Z"
+    "checked_at": "2026-10-10T12:55:23.858376Z"
   },
   "EJU65CQ": {
     "route": {
@@ -5076,17 +5076,6 @@
     },
     "checked_at": "2026-10-09T04:55:59.851553Z"
   },
-  "LHX849": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T12:50:34.604670Z"
-  },
   "AHY650": {
     "route": {
       "fromCity": "Montego Bay",
@@ -5682,17 +5671,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-10T08:25:24.846568Z"
-  },
-  "DLH882": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T12:50:34.604670Z"
   },
   "SAS58M": {
     "route": {
@@ -6735,10 +6713,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-09T12:10:32.315711Z"
-  },
-  "GAF621": {
-    "route": null,
-    "checked_at": "2026-10-08T12:50:34.604670Z"
   },
   "TAP3334": {
     "route": {
@@ -13309,5 +13283,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T12:50:32.299955Z"
+  },
+  "AAL343": {
+    "route": {
+      "fromCity": "Charlotte",
+      "fromIata": "CLT",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "American Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-10T12:55:23.858376Z"
+  },
+  "SAS44A": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T12:55:23.858376Z"
   }
 }
