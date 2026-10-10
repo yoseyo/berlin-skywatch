@@ -3575,7 +3575,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T18:50:31.019222Z"
+    "checked_at": "2026-10-10T18:45:28.757144Z"
   },
   "RYR30TE": {
     "route": {
@@ -5100,17 +5100,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-09T21:15:31.414601Z"
-  },
-  "SAS2820": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T18:45:28.311380Z"
   },
   "AEG6912": {
     "route": null,
@@ -13379,5 +13368,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-10T18:40:31.392646Z"
+  },
+  "THY91B": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T18:45:28.757144Z"
   }
 }
