@@ -1683,7 +1683,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T07:45:30.874175Z"
+    "checked_at": "2026-10-10T07:25:25.117448Z"
   },
   "RYR12EJ": {
     "route": {
@@ -3550,7 +3550,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-09T07:20:34.707061Z"
+    "checked_at": "2026-10-10T07:25:25.117448Z"
   },
   "WZZ18DM": {
     "route": {
@@ -5192,7 +5192,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-09T06:55:27.251314Z"
+    "checked_at": "2026-10-10T07:25:25.117448Z"
   },
   "KLM90Z": {
     "route": {
@@ -13178,5 +13178,27 @@
   "DHACB": {
     "route": null,
     "checked_at": "2026-10-10T07:20:32.896508Z"
+  },
+  "KLM38Z": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-10T07:25:25.117448Z"
+  },
+  "BAW84NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-10T07:25:25.117448Z"
   }
 }
