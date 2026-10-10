@@ -1793,7 +1793,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T08:00:53.942540Z"
+    "checked_at": "2026-10-10T07:55:21.523561Z"
   },
   "DLH4X": {
     "route": {
@@ -1815,7 +1815,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-09T07:55:27.334502Z"
+    "checked_at": "2026-10-10T07:55:21.523561Z"
   },
   "AUA225B": {
     "route": {
@@ -5100,18 +5100,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T08:10:31.376619Z"
-  },
-  "AHY063": {
-    "route": {
-      "fromCity": "Baku",
-      "fromIata": "GYD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-10-08T07:51:40.282897Z"
+    "checked_at": "2026-10-10T07:55:21.523561Z"
   },
   "KLM31X": {
     "route": {
@@ -6771,17 +6760,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-10T07:30:41.672211Z"
-  },
-  "RAM221M": {
-    "route": {
-      "fromCity": "Moscow",
-      "fromIata": "DME",
-      "toCity": "Casablanca",
-      "toIata": "CMN",
-      "airlineName": "Royal Air Maroc",
-      "airlineCountry": "Morocco"
-    },
-    "checked_at": "2026-10-08T07:51:40.282897Z"
   },
   "DFACT": {
     "route": null,
@@ -11523,7 +11501,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T15:43:11.868625Z"
+    "checked_at": "2026-10-10T07:55:21.523561Z"
   },
   "WZZ3XA": {
     "route": {
@@ -13200,5 +13178,49 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-10T07:50:29.679702Z"
+  },
+  "EJU3948": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T07:55:21.523561Z"
+  },
+  "EJU85UF": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T07:55:21.523561Z"
+  },
+  "RYR63KM": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T07:55:21.523561Z"
+  },
+  "CTN284E": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-10T07:55:21.523561Z"
   }
 }
