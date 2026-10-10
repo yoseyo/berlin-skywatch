@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-09T12:55:23.499214Z"
+    "checked_at": "2026-10-10T12:50:32.299955Z"
   },
   "MSC2961": {
     "route": {
@@ -6725,28 +6725,6 @@
     },
     "checked_at": "2026-10-09T12:35:23.294503Z"
   },
-  "SXS6SQ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T12:45:35.088418Z"
-  },
-  "WZZ242": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Alghero",
-      "toIata": "AHO",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-08T12:45:35.088418Z"
-  },
   "EWG20W": {
     "route": {
       "fromCity": "Stuttgart",
@@ -13298,5 +13276,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T12:45:28.689339Z"
+  },
+  "VLG961": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFN",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-10T12:50:32.299955Z"
+  },
+  "SAS7792": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T12:50:32.299955Z"
+  },
+  "RYR525H": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T12:50:32.299955Z"
   }
 }
