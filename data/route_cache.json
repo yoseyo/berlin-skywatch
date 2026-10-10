@@ -398,7 +398,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T16:00:55.034137Z"
+    "checked_at": "2026-10-10T15:45:32.924462Z"
   },
   "DLH2XC": {
     "route": {
@@ -453,7 +453,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T16:05:25.191338Z"
+    "checked_at": "2026-10-10T15:45:32.924462Z"
   },
   "LOT389": {
     "route": {
@@ -6691,36 +6691,6 @@
     },
     "checked_at": "2026-10-10T15:15:30.899126Z"
   },
-  "BTI8QA": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-08T15:40:32.658797Z"
-  },
-  "BMW55": {
-    "route": null,
-    "checked_at": "2026-10-08T15:40:32.658797Z"
-  },
-  "VKG504": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-08T15:40:32.658797Z"
-  },
-  "PSRSM": {
-    "route": null,
-    "checked_at": "2026-10-08T15:40:32.658797Z"
-  },
   "RYR8TQ": {
     "route": {
       "fromCity": "Beauvais",
@@ -6731,21 +6701,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T12:40:30.652595Z"
-  },
-  "EWG41H": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T15:45:31.331907Z"
-  },
-  "RYR91QV": {
-    "route": null,
-    "checked_at": "2026-10-08T15:45:31.331907Z"
   },
   "RYR5SB": {
     "route": {
@@ -7021,7 +6976,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T17:35:25.928526Z"
+    "checked_at": "2026-10-10T15:45:32.924462Z"
   },
   "RYR7664": {
     "route": {
@@ -13347,5 +13302,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T15:40:32.471243Z"
+  },
+  "NSZ3298": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T15:45:32.924462Z"
+  },
+  "SAS7309": {
+    "route": {
+      "fromCity": "Kjevik",
+      "fromIata": "KRS",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T15:45:32.924462Z"
+  },
+  "BTI8WF": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-10T15:45:32.924462Z"
+  },
+  "SAS6275": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T15:45:32.924462Z"
   }
 }
