@@ -556,7 +556,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T17:10:31.716407Z"
+    "checked_at": "2026-10-10T17:00:55.945054Z"
   },
   "RYR61NG": {
     "route": {
@@ -3668,17 +3668,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-09T13:25:23.644206Z"
-  },
-  "FIN33A": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-08T16:55:24.964930Z"
   },
   "WZZ2706": {
     "route": {
@@ -9228,7 +9217,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T12:05:24.443244Z"
+    "checked_at": "2026-10-10T17:00:55.945054Z"
   },
   "THY8EL": {
     "route": {
@@ -13394,5 +13383,27 @@
   "SVI8222": {
     "route": null,
     "checked_at": "2026-10-10T16:55:23.412736Z"
+  },
+  "NSZ4365": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T17:00:55.945054Z"
+  },
+  "DLH5KV": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T17:00:55.945054Z"
   }
 }
