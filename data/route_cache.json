@@ -3270,7 +3270,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T08:50:33.074878Z"
+    "checked_at": "2026-10-10T08:35:24.775701Z"
   },
   "CHH490": {
     "route": {
@@ -3781,7 +3781,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T08:40:33.186198Z"
+    "checked_at": "2026-10-10T08:35:24.775701Z"
   },
   "DLH1YY": {
     "route": {
@@ -6763,15 +6763,11 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T14:40:29.341406Z"
+    "checked_at": "2026-10-10T08:35:24.775701Z"
   },
   "DISAG": {
     "route": null,
     "checked_at": "2026-10-10T05:10:32.619167Z"
-  },
-  "DSO08FX": {
-    "route": null,
-    "checked_at": "2026-10-08T08:30:44.432283Z"
   },
   "CFG6DF": {
     "route": {
@@ -10091,7 +10087,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T09:15:36.214001Z"
+    "checked_at": "2026-10-10T08:35:24.775701Z"
   },
   "EZY3162": {
     "route": {
@@ -13229,5 +13225,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T08:30:43.649930Z"
+  },
+  "MGH650": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T08:35:24.775701Z"
+  },
+  "NOZ1950": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-10T08:35:24.775701Z"
   }
 }
