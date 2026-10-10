@@ -4033,17 +4033,6 @@
     },
     "checked_at": "2026-10-10T12:00:55.085948Z"
   },
-  "EWG99T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T13:40:32.539307Z"
-  },
   "WZZ4782": {
     "route": {
       "fromCity": "Cologne",
@@ -4752,28 +4741,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T17:35:25.928526Z"
-  },
-  "EWG2RM": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T13:40:32.539307Z"
-  },
-  "RYR2SW": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T13:40:32.539307Z"
   },
   "EWG6TG": {
     "route": {
@@ -5624,10 +5591,6 @@
     },
     "checked_at": "2026-10-09T11:05:25.638133Z"
   },
-  "BPO504": {
-    "route": null,
-    "checked_at": "2026-10-08T13:40:32.539307Z"
-  },
   "SAS47D": {
     "route": {
       "fromCity": "N\u00e1poli",
@@ -5693,17 +5656,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-09T12:30:46.168164Z"
-  },
-  "WZZ334": {
-    "route": {
-      "fromCity": "Dortmund",
-      "fromIata": "DTM",
-      "toCity": "Bucharest",
-      "toIata": "OTP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-08T13:40:32.539307Z"
   },
   "SAS11N": {
     "route": {
@@ -6724,28 +6676,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T05:20:30.990289Z"
-  },
-  "NSZ4502": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T13:40:32.539307Z"
-  },
-  "CFG4FD": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T13:40:32.539307Z"
   },
   "CKK204": {
     "route": {
@@ -10247,7 +10177,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-09T14:35:24.470687Z"
+    "checked_at": "2026-10-10T13:45:29.761943Z"
   },
   "TVS494F": {
     "route": null,
@@ -11225,7 +11155,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T20:30:44.152689Z"
+    "checked_at": "2026-10-10T13:45:29.761943Z"
   },
   "EJU32PZ": {
     "route": {
@@ -13396,5 +13326,49 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-10T13:40:30.499388Z"
+  },
+  "VLG14MZ": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-10T13:45:29.761943Z"
+  },
+  "NOZ50H": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-10T13:45:29.761943Z"
+  },
+  "RYR15FP": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T13:45:29.761943Z"
+  },
+  "EWG60V": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T13:45:29.761943Z"
   }
 }
