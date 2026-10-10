@@ -1378,7 +1378,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T05:30:40.612623Z"
+    "checked_at": "2026-10-10T05:40:29.460116Z"
   },
   "QTR29X": {
     "route": {
@@ -1389,7 +1389,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-09T05:30:40.612623Z"
+    "checked_at": "2026-10-10T05:40:29.460116Z"
   },
   "DLH172": {
     "route": {
@@ -4514,17 +4514,6 @@
     },
     "checked_at": "2026-10-10T04:55:22.575052Z"
   },
-  "BEL2JY": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-08T05:35:25.490215Z"
-  },
   "WZZ629": {
     "route": {
       "fromCity": "Sofia",
@@ -5528,10 +5517,6 @@
     },
     "checked_at": "2026-10-09T15:50:31.122909Z"
   },
-  "MARLI": {
-    "route": null,
-    "checked_at": "2026-10-08T05:35:25.490215Z"
-  },
   "EWG7ZP": {
     "route": {
       "fromCity": "Stuttgart",
@@ -5780,7 +5765,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T05:15:28.792379Z"
+    "checked_at": "2026-10-10T05:40:29.460116Z"
   },
   "PGT982": {
     "route": {
@@ -13173,5 +13158,16 @@
   "THY3352": {
     "route": null,
     "checked_at": "2026-10-10T05:35:23.877220Z"
+  },
+  "CFG2CK": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T05:40:29.460116Z"
   }
 }
