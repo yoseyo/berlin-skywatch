@@ -332,7 +332,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T15:30:44.608158Z"
+    "checked_at": "2026-10-10T12:10:31.205989Z"
   },
   "LHX194": {
     "route": {
@@ -2333,7 +2333,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T11:55:24.197246Z"
+    "checked_at": "2026-10-10T12:10:31.205989Z"
   },
   "RYR7BV": {
     "route": {
@@ -2509,7 +2509,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-09T12:05:24.443244Z"
+    "checked_at": "2026-10-10T12:10:31.205989Z"
   },
   "SWR1PL": {
     "route": {
@@ -2520,7 +2520,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-09T12:45:30.525047Z"
+    "checked_at": "2026-10-10T12:10:31.205989Z"
   },
   "VLG48MQ": {
     "route": {
@@ -5747,7 +5747,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-08T12:30:46.763068Z"
+    "checked_at": "2026-10-10T12:10:31.205989Z"
   },
   "RJA137": {
     "route": {
@@ -6720,25 +6720,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T14:45:31.477004Z"
-  },
-  "NJE188F": {
-    "route": null,
-    "checked_at": "2026-10-08T12:05:26.149273Z"
-  },
-  "CPI081": {
-    "route": null,
-    "checked_at": "2026-10-08T12:05:26.149273Z"
-  },
-  "RYR1NB": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Cagliari",
-      "toIata": "CAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T12:05:26.149273Z"
   },
   "BMW54": {
     "route": null,
@@ -13292,5 +13273,46 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T12:00:55.085948Z"
+  },
+  "EWG26K": {
+    "route": {
+      "fromCity": "Olbia (SS)",
+      "fromIata": "OLB",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T12:10:31.205989Z"
+  },
+  "NJE065H": {
+    "route": null,
+    "checked_at": "2026-10-10T12:10:31.205989Z"
+  },
+  "NIA8602": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-10T12:10:31.205989Z"
+  },
+  "DMOMC": {
+    "route": null,
+    "checked_at": "2026-10-10T12:10:31.205989Z"
+  },
+  "GPX6281": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-10T12:10:31.205989Z"
   }
 }
