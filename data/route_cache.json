@@ -1356,7 +1356,7 @@
   },
   "CHX49": {
     "route": null,
-    "checked_at": "2026-10-09T10:25:26.748616Z"
+    "checked_at": "2026-10-10T06:45:32.962834Z"
   },
   "DLH4UV": {
     "route": {
@@ -6809,29 +6809,6 @@
     },
     "checked_at": "2026-10-10T06:30:43.298735Z"
   },
-  "BMW47": {
-    "route": null,
-    "checked_at": "2026-10-08T06:40:34.017822Z"
-  },
-  "JFA60J": {
-    "route": null,
-    "checked_at": "2026-10-08T06:45:30.793111Z"
-  },
-  "JFA91S": {
-    "route": null,
-    "checked_at": "2026-10-08T06:45:30.793111Z"
-  },
-  "LOT2WA": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-08T06:45:30.793111Z"
-  },
   "GAM900": {
     "route": null,
     "checked_at": "2026-10-08T06:50:34.148934Z"
@@ -12025,7 +12002,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T17:10:31.716407Z"
+    "checked_at": "2026-10-10T06:45:32.962834Z"
   },
   "NSZ3754": {
     "route": {
@@ -13202,5 +13179,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T06:40:33.146458Z"
+  },
+  "LOT403": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-10T06:45:32.962834Z"
   }
 }
