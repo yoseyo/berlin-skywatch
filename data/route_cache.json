@@ -2065,7 +2065,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T09:50:31.359610Z"
+    "checked_at": "2026-10-10T10:00:54.648315Z"
   },
   "KLM75C": {
     "route": {
@@ -2179,7 +2179,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T10:05:24.721511Z"
+    "checked_at": "2026-10-10T10:00:54.648315Z"
   },
   "CTN481": {
     "route": {
@@ -2245,7 +2245,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-09T09:55:24.646084Z"
+    "checked_at": "2026-10-10T10:00:54.648315Z"
   },
   "AUA27Y": {
     "route": {
@@ -4003,17 +4003,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-09T09:10:32.498117Z"
-  },
-  "AHY064": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Baku",
-      "toIata": "GYD",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-10-08T09:55:26.274873Z"
   },
   "TAP53LB": {
     "route": {
@@ -6688,17 +6677,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T08:40:30.843722Z"
-  },
-  "NOZ8BE": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-08T09:55:26.274873Z"
   },
   "ENT2PE": {
     "route": {
@@ -13202,5 +13180,39 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T09:55:22.793000Z"
+  },
+  "AUA55": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Montr\u00e9al",
+      "toIata": "YUL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T10:00:54.648315Z"
+  },
+  "GAF637": {
+    "route": null,
+    "checked_at": "2026-10-10T10:00:54.648315Z"
+  },
+  "ABP951": {
+    "route": null,
+    "checked_at": "2026-10-10T10:00:54.648315Z"
+  },
+  "NIA8601": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-10T10:00:54.648315Z"
+  },
+  "DMSVV": {
+    "route": null,
+    "checked_at": "2026-10-10T10:00:54.648315Z"
   }
 }
