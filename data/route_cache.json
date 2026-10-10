@@ -1966,7 +1966,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T10:05:24.721511Z"
+    "checked_at": "2026-10-10T10:30:43.189996Z"
   },
   "EJU87YF": {
     "route": {
@@ -5344,17 +5344,6 @@
     },
     "checked_at": "2026-10-10T08:25:24.846568Z"
   },
-  "WZZ4BB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-08T10:25:30.299578Z"
-  },
   "PBB17": {
     "route": null,
     "checked_at": "2026-10-09T08:50:33.074878Z"
@@ -6691,17 +6680,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T20:25:27.069537Z"
-  },
-  "AIB437A": {
-    "route": {
-      "fromCity": "Gulfport",
-      "fromIata": "GPT",
-      "toCity": "Mobile",
-      "toIata": "BFM",
-      "airlineName": "Airbus Industrie",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-08T10:25:30.299578Z"
   },
   "NSZ2901": {
     "route": {
@@ -13164,5 +13142,49 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-10T10:20:33.294917Z"
+  },
+  "NSZ5HM": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T10:30:43.189996Z"
+  },
+  "RUK6624": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-10T10:30:43.189996Z"
+  },
+  "EJU51DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T10:30:43.189996Z"
+  },
+  "NIA852": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-10T10:30:43.189996Z"
   }
 }
