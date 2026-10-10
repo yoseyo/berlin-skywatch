@@ -648,7 +648,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-09T17:10:31.716407Z"
+    "checked_at": "2026-10-10T17:30:42.381874Z"
   },
   "KLM1316": {
     "route": {
@@ -1209,7 +1209,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T04:20:29.627831Z"
+    "checked_at": "2026-10-10T17:30:42.381874Z"
   },
   "AFR84XP": {
     "route": {
@@ -3237,7 +3237,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-09T17:30:44.102863Z"
+    "checked_at": "2026-10-10T17:30:42.381874Z"
   },
   "RYR9PG": {
     "route": {
@@ -5088,7 +5088,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-08T17:35:25.928526Z"
+    "checked_at": "2026-10-10T17:30:42.381874Z"
   },
   "RYR4VG": {
     "route": {
@@ -6719,28 +6719,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-10T16:20:31.905899Z"
-  },
-  "VKG754": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-08T17:25:24.365681Z"
-  },
-  "EZS1590": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-08T17:25:24.365681Z"
   },
   "GAF645": {
     "route": {
@@ -13445,5 +13423,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-10T17:25:23.401231Z"
+  },
+  "THY49T": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T17:30:42.381874Z"
   }
 }
