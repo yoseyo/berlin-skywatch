@@ -207,7 +207,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-10-09T00:25:24.590870Z"
+    "checked_at": "2026-10-10T07:45:30.567035Z"
   },
   "DLH192": {
     "route": {
@@ -1771,7 +1771,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-09T08:00:53.942540Z"
+    "checked_at": "2026-10-10T07:45:30.567035Z"
   },
   "QTR85X": {
     "route": {
@@ -2153,7 +2153,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T14:50:31.251418Z"
+    "checked_at": "2026-10-10T07:45:30.567035Z"
   },
   "WUK1356": {
     "route": null,
@@ -5133,7 +5133,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-08T08:05:24.663630Z"
+    "checked_at": "2026-10-10T07:45:30.567035Z"
   },
   "DUKE61": {
     "route": null,
@@ -6782,21 +6782,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-10T07:30:41.672211Z"
-  },
-  "T7AIX": {
-    "route": null,
-    "checked_at": "2026-10-08T07:40:34.596145Z"
-  },
-  "KLM9935": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-08T07:40:34.596145Z"
   },
   "RAM221M": {
     "route": {
@@ -13182,5 +13167,38 @@
   "VJT405": {
     "route": null,
     "checked_at": "2026-10-10T07:40:33.465302Z"
+  },
+  "THY3353": {
+    "route": {
+      "fromCity": "Van",
+      "fromIata": "VAN",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T07:45:30.567035Z"
+  },
+  "SAS2831": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T07:45:30.567035Z"
+  },
+  "PGT17GP": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T07:45:30.567035Z"
   }
 }
