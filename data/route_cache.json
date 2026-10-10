@@ -4527,7 +4527,7 @@
   },
   "EWG7ED": {
     "route": null,
-    "checked_at": "2026-10-09T05:10:30.024294Z"
+    "checked_at": "2026-10-10T05:50:31.982474Z"
   },
   "EWG4JP": {
     "route": {
@@ -5561,17 +5561,6 @@
     },
     "checked_at": "2026-10-08T15:50:31.791124Z"
   },
-  "EWG90Y": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T05:50:31.941031Z"
-  },
   "DLH7PF": {
     "route": {
       "fromCity": "Bristol",
@@ -6386,17 +6375,6 @@
     },
     "checked_at": "2026-10-08T16:40:34.396916Z"
   },
-  "RYR3LF": {
-    "route": {
-      "fromCity": "Marseille",
-      "fromIata": "MRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T05:50:31.941031Z"
-  },
   "BTI3FL": {
     "route": {
       "fromCity": "Vilnius",
@@ -6830,17 +6808,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T05:05:24.906959Z"
-  },
-  "VKG272": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-08T05:50:31.941031Z"
   },
   "BTI7705": {
     "route": {
@@ -13202,5 +13169,16 @@
   "WMT7615": {
     "route": null,
     "checked_at": "2026-10-10T05:45:29.464729Z"
+  },
+  "EJU92LR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T05:50:31.982474Z"
   }
 }
