@@ -1591,7 +1591,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T06:40:34.655656Z"
+    "checked_at": "2026-10-10T06:40:33.146458Z"
   },
   "LOT4MH": {
     "route": {
@@ -5089,7 +5089,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-09T06:35:24.605912Z"
+    "checked_at": "2026-10-10T06:40:33.146458Z"
   },
   "CXI8E": {
     "route": {
@@ -5879,7 +5879,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T12:40:32.187942Z"
+    "checked_at": "2026-10-10T06:40:33.146458Z"
   },
   "EWG7DL": {
     "route": null,
@@ -6786,10 +6786,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-10T06:15:29.597460Z"
-  },
-  "N177LN": {
-    "route": null,
-    "checked_at": "2026-10-08T06:35:25.710852Z"
   },
   "NOZ2WA": {
     "route": {
@@ -13151,5 +13147,60 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-10T06:35:22.886246Z"
+  },
+  "EWG6KW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T06:40:33.146458Z"
+  },
+  "THY3330": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Trabzon",
+      "toIata": "TZX",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T06:40:33.146458Z"
+  },
+  "RUK7546": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-10T06:40:33.146458Z"
+  },
+  "WMT3CL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cluj-Napoca",
+      "toIata": "CLJ",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-10T06:40:33.146458Z"
+  },
+  "SAS31T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T06:40:33.146458Z"
   }
 }
