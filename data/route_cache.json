@@ -868,7 +868,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T19:10:33.892830Z"
+    "checked_at": "2026-10-10T19:00:55.440287Z"
   },
   "KLC1335": {
     "route": {
@@ -5333,10 +5333,6 @@
     },
     "checked_at": "2026-10-09T07:00:51.075334Z"
   },
-  "DCORR": {
-    "route": null,
-    "checked_at": "2026-10-08T18:55:23.469934Z"
-  },
   "RYR364N": {
     "route": {
       "fromCity": "Gothenburg",
@@ -6782,39 +6778,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-09T17:40:33.394503Z"
-  },
-  "FIN8JD": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-08T18:55:23.469934Z"
-  },
-  "BTI6CD": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-08T18:55:23.469934Z"
-  },
-  "AUA99B": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T18:55:23.469934Z"
   },
   "RYR4DZ": {
     "route": {
@@ -13412,5 +13375,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T18:55:22.611402Z"
+  },
+  "WZZ6LM": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-10T19:00:55.440287Z"
   }
 }
