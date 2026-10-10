@@ -3020,7 +3020,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T19:10:33.892830Z"
+    "checked_at": "2026-10-10T19:05:24.104020Z"
   },
   "THY87X": {
     "route": {
@@ -4226,17 +4226,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-09T19:20:32.054186Z"
-  },
-  "BTI3PR": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-08T19:00:56.434906Z"
   },
   "WMT6363": {
     "route": {
@@ -6790,10 +6779,6 @@
     },
     "checked_at": "2026-10-10T06:50:34.280068Z"
   },
-  "FCA3FH": {
-    "route": null,
-    "checked_at": "2026-10-08T19:00:56.434906Z"
-  },
   "AEE4569": {
     "route": {
       "fromCity": "Paris",
@@ -8113,7 +8098,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T08:35:25.053417Z"
+    "checked_at": "2026-10-10T19:05:24.104020Z"
   },
   "PTO7745": {
     "route": null,
@@ -13386,5 +13371,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-10T19:00:55.440287Z"
+  },
+  "EWG6FR": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T19:05:24.104020Z"
   }
 }
