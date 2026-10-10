@@ -1242,7 +1242,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-09T04:40:30.597686Z"
+    "checked_at": "2026-10-10T04:35:23.226649Z"
   },
   "IBE07BZ": {
     "route": {
@@ -6838,28 +6838,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-09T13:20:35.458053Z"
-  },
-  "NSZ3280": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T04:35:23.044240Z"
-  },
-  "CFG2FK": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T04:35:23.044240Z"
   },
   "RYR5603": {
     "route": {
@@ -13173,5 +13151,16 @@
   "SXS7SC": {
     "route": null,
     "checked_at": "2026-10-10T04:30:43.739608Z"
+  },
+  "EJU36CL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T04:35:23.226649Z"
   }
 }
