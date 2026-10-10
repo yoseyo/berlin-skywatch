@@ -442,7 +442,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-09T16:15:32.639933Z"
+    "checked_at": "2026-10-10T16:20:31.905899Z"
   },
   "LOT5PX": {
     "route": {
@@ -6818,7 +6818,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-08T17:15:32.435208Z"
+    "checked_at": "2026-10-10T16:20:31.905899Z"
   },
   "RYR4359": {
     "route": {
@@ -13335,5 +13335,38 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-10T16:15:30.592305Z"
+  },
+  "NSZ6FY": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T16:20:31.905899Z"
+  },
+  "SAS4803": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T16:20:31.905899Z"
+  },
+  "RYR108X": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T16:20:31.905899Z"
   }
 }
