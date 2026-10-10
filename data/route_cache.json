@@ -89,7 +89,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-09T13:55:24.599272Z"
+    "checked_at": "2026-10-10T14:45:31.842386Z"
   },
   "NSZ3302": {
     "route": {
@@ -181,7 +181,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-09T14:55:22.542840Z"
+    "checked_at": "2026-10-10T14:45:31.842386Z"
   },
   "AUA995F": {
     "route": {
@@ -218,7 +218,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T15:15:32.374083Z"
+    "checked_at": "2026-10-10T14:45:31.842386Z"
   },
   "QTR56W": {
     "route": {
@@ -5620,17 +5620,6 @@
     },
     "checked_at": "2026-10-09T12:30:46.168164Z"
   },
-  "SAS11N": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T14:40:35.900935Z"
-  },
   "THY3TR": {
     "route": {
       "fromCity": "\u0130zmir",
@@ -5859,10 +5848,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-09T17:05:26.511478Z"
-  },
-  "N7378S": {
-    "route": null,
-    "checked_at": "2026-10-08T14:40:35.900935Z"
   },
   "DLH6TP": {
     "route": {
@@ -6701,32 +6686,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T17:25:23.371915Z"
-  },
-  "RYR46JP": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T14:40:35.900935Z"
-  },
-  "CCA931": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-08T14:40:35.900935Z"
-  },
-  "QAJ3": {
-    "route": null,
-    "checked_at": "2026-10-08T14:40:35.900935Z"
   },
   "BMW48": {
     "route": null,
@@ -8627,7 +8586,7 @@
   },
   "CHX39": {
     "route": null,
-    "checked_at": "2026-10-09T06:55:27.251314Z"
+    "checked_at": "2026-10-10T14:45:31.842386Z"
   },
   "DIPIT": {
     "route": null,
@@ -10099,7 +10058,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-09T14:40:29.341406Z"
+    "checked_at": "2026-10-10T14:45:31.842386Z"
   },
   "ADN75C": {
     "route": null,
@@ -13451,5 +13410,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-10T14:40:31.420049Z"
+  },
+  "WMT8GC": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Cluj-Napoca",
+      "toIata": "CLJ",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-10T14:45:31.842386Z"
   }
 }
