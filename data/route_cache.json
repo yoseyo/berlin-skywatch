@@ -6828,17 +6828,6 @@
     },
     "checked_at": "2026-10-09T17:00:55.975095Z"
   },
-  "BCS3906": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "\u00d6rebro",
-      "toIata": "ORB",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T04:25:23.520743Z"
-  },
   "SXS6JX": {
     "route": {
       "fromCity": "Antalya",
@@ -6849,17 +6838,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-09T13:20:35.458053Z"
-  },
-  "EWG3PH": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T04:25:23.520743Z"
   },
   "RYR7662": {
     "route": {
@@ -12195,7 +12173,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T15:50:31.122909Z"
+    "checked_at": "2026-10-10T04:25:23.915612Z"
   },
   "SAS71T": {
     "route": {
@@ -13191,5 +13169,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T04:15:28.965525Z"
+  },
+  "QTR24V": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Washington",
+      "toIata": "IAD",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-10T04:25:23.915612Z"
   }
 }
