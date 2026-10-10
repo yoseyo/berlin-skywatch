@@ -3831,17 +3831,6 @@
     "route": null,
     "checked_at": "2026-10-09T18:20:32.047360Z"
   },
-  "BTI97T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-08T06:55:24.911174Z"
-  },
   "TKJ3WS": {
     "route": {
       "fromCity": "Ankara",
@@ -6804,17 +6793,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-10T06:30:43.298735Z"
-  },
-  "RYR76HU": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T06:55:24.911174Z"
   },
   "RYR5602": {
     "route": {
@@ -13171,5 +13149,27 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-10T06:45:32.962834Z"
+  },
+  "CFG1RD": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T06:55:25.540981Z"
+  },
+  "RYR60RF": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T06:55:25.540981Z"
   }
 }
