@@ -3831,17 +3831,6 @@
     "route": null,
     "checked_at": "2026-10-09T18:20:32.047360Z"
   },
-  "BTI74A": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-08T05:40:35.612630Z"
-  },
   "BTI97T": {
     "route": {
       "fromCity": "Berlin",
@@ -6830,10 +6819,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T08:35:25.053417Z"
-  },
-  "DIPBB": {
-    "route": null,
-    "checked_at": "2026-10-08T05:40:35.612630Z"
   },
   "NSZ3288": {
     "route": {
@@ -13169,5 +13154,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T05:40:29.460116Z"
+  },
+  "THY9NS": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T05:41:31.741513Z"
   }
 }
