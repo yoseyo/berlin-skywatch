@@ -934,7 +934,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T19:10:30.523530Z"
+    "checked_at": "2026-10-10T15:30:45.755071Z"
   },
   "LOT3ND": {
     "route": {
@@ -5175,17 +5175,6 @@
     },
     "checked_at": "2026-10-08T20:20:32.880932Z"
   },
-  "EJU78LB": {
-    "route": {
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T15:25:26.759126Z"
-  },
   "EWG6AZ": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6679,10 +6668,6 @@
   "LHX3PP": {
     "route": null,
     "checked_at": "2026-10-10T14:55:24.205487Z"
-  },
-  "PYR006": {
-    "route": null,
-    "checked_at": "2026-10-08T15:25:26.759126Z"
   },
   "RYR55VV": {
     "route": {
@@ -13336,5 +13321,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T15:25:25.350429Z"
+  },
+  "NSZ3AM": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T15:30:45.755071Z"
   }
 }
