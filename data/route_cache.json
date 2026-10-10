@@ -1646,7 +1646,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-09T07:00:51.075334Z"
+    "checked_at": "2026-10-10T07:10:33.219268Z"
   },
   "RYR594F": {
     "route": {
@@ -1668,7 +1668,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T07:30:45.820685Z"
+    "checked_at": "2026-10-10T07:10:33.219268Z"
   },
   "TVF88JV": {
     "route": null,
@@ -3923,17 +3923,6 @@
     },
     "checked_at": "2026-10-09T07:00:51.075334Z"
   },
-  "RYR44BG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T07:10:31.223560Z"
-  },
   "ELY2371": {
     "route": {
       "fromCity": "Tel Aviv",
@@ -4550,17 +4539,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-09T06:40:34.655656Z"
-  },
-  "BEL5HW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-08T07:05:27.300433Z"
   },
   "WZZ2550": {
     "route": null,
@@ -5745,17 +5723,6 @@
     "route": null,
     "checked_at": "2026-10-09T12:05:24.443244Z"
   },
-  "BAW84NT": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-08T07:05:27.300433Z"
-  },
   "AUA99J": {
     "route": {
       "fromCity": "Vienna",
@@ -6804,14 +6771,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-09T18:55:25.668978Z"
-  },
-  "OEEKA": {
-    "route": null,
-    "checked_at": "2026-10-08T07:05:27.300433Z"
-  },
-  "OKHFH": {
-    "route": null,
-    "checked_at": "2026-10-08T07:10:31.223560Z"
   },
   "CFG8JC": {
     "route": {
@@ -13215,5 +13174,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-10T07:00:55.947957Z"
+  },
+  "RYR87VA": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T07:10:33.219268Z"
   }
 }
