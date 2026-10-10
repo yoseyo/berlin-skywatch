@@ -354,7 +354,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T16:15:32.639933Z"
+    "checked_at": "2026-10-10T15:55:23.982132Z"
   },
   "EZY71CX": {
     "route": {
@@ -409,7 +409,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T17:10:31.716407Z"
+    "checked_at": "2026-10-10T15:55:23.982132Z"
   },
   "SWR23F": {
     "route": {
@@ -659,7 +659,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-08T17:35:25.928526Z"
+    "checked_at": "2026-10-10T15:55:23.982132Z"
   },
   "LOT3KT": {
     "route": {
@@ -5116,17 +5116,6 @@
     },
     "checked_at": "2026-10-09T17:05:26.511478Z"
   },
-  "EJU97JM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T15:50:31.791124Z"
-  },
   "DLH7PF": {
     "route": {
       "fromCity": "Bristol",
@@ -5788,7 +5777,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-09T15:55:26.680903Z"
+    "checked_at": "2026-10-10T15:55:23.982132Z"
   },
   "EJU5075": {
     "route": null,
@@ -10156,7 +10145,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T16:25:23.691856Z"
+    "checked_at": "2026-10-10T15:55:23.982132Z"
   },
   "BTI9AG": {
     "route": {
@@ -13357,5 +13346,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T15:50:30.467620Z"
+  },
+  "AUA7K": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T15:55:23.982132Z"
+  },
+  "SAS7302": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "\u00c5lesund",
+      "toIata": "AES",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T15:55:23.982132Z"
   }
 }
