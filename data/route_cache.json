@@ -343,7 +343,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T15:43:11.868625Z"
+    "checked_at": "2026-10-10T15:40:32.471243Z"
   },
   "THY3ZA": {
     "route": {
@@ -9040,7 +9040,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T10:30:45.074245Z"
+    "checked_at": "2026-10-10T15:40:32.471243Z"
   },
   "FIN2WC": {
     "route": {
@@ -13321,5 +13321,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T15:35:23.274011Z"
+  },
+  "THY3354": {
+    "route": null,
+    "checked_at": "2026-10-10T15:40:32.471243Z"
+  },
+  "SAS2859": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T15:40:32.471243Z"
+  },
+  "RYR282D": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T15:40:32.471243Z"
   }
 }
