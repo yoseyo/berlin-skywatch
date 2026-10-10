@@ -1033,7 +1033,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T21:00:58.400059Z"
+    "checked_at": "2026-10-10T20:40:30.626461Z"
   },
   "AFR69GW": {
     "route": {
@@ -1470,7 +1470,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T13:30:45.790587Z"
+    "checked_at": "2026-10-10T20:40:30.626461Z"
   },
   "WZZ84": {
     "route": {
@@ -13386,5 +13386,27 @@
   "N324FP": {
     "route": null,
     "checked_at": "2026-10-10T20:35:22.172160Z"
+  },
+  "NSZ7DE": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T20:40:30.626461Z"
+  },
+  "EJU78LB": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T20:40:30.626461Z"
   }
 }
