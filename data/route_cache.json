@@ -2822,7 +2822,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T20:35:24.339303Z"
+    "checked_at": "2026-10-10T04:15:28.965525Z"
   },
   "RYR734J": {
     "route": {
@@ -2921,7 +2921,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-09T04:16:05.525231Z"
+    "checked_at": "2026-10-10T04:15:28.965525Z"
   },
   "UAL962": {
     "route": {
@@ -6838,17 +6838,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-09T17:00:55.975095Z"
-  },
-  "EJU83RT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T04:10:30.819869Z"
   },
   "BCS3906": {
     "route": {
@@ -13202,5 +13191,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T04:05:23.066910Z"
+  },
+  "RYR353": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T04:15:28.965525Z"
   }
 }
