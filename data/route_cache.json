@@ -1885,7 +1885,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T09:10:32.498117Z"
+    "checked_at": "2026-10-10T09:00:52.932208Z"
   },
   "EZY18FP": {
     "route": {
@@ -3671,7 +3671,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T09:00:56.721671Z"
+    "checked_at": "2026-10-10T09:00:52.932208Z"
   },
   "SEH874": {
     "route": {
@@ -5999,17 +5999,6 @@
     },
     "checked_at": "2026-10-09T13:45:33.294150Z"
   },
-  "EJU83ZK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-08T08:55:25.453112Z"
-  },
   "DFSOX": {
     "route": null,
     "checked_at": "2026-10-09T06:50:34.236805Z"
@@ -6772,17 +6761,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T20:30:44.152689Z"
-  },
-  "SDR70TS": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T08:55:25.453112Z"
   },
   "EJU5052": {
     "route": {
@@ -10075,7 +10053,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T09:20:31.328685Z"
+    "checked_at": "2026-10-10T09:00:52.932208Z"
   },
   "RYR3WY": {
     "route": {
@@ -13221,5 +13199,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-10T08:55:24.190289Z"
+  },
+  "PGT7191": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T09:00:52.932208Z"
+  },
+  "THY1YM": {
+    "route": {
+      "fromCity": "Kastamonu",
+      "fromIata": "KFS",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T09:00:52.932208Z"
+  },
+  "RYR57AE": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T09:00:52.932208Z"
   }
 }
