@@ -6790,17 +6790,6 @@
     },
     "checked_at": "2026-10-09T19:25:21.685851Z"
   },
-  "NGN7900": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "LEAV Aviation",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T20:15:34.735728Z"
-  },
   "NSZ3305": {
     "route": {
       "fromCity": "Berlin",
@@ -7111,7 +7100,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-08T23:11:08.315118Z"
+    "checked_at": "2026-10-10T20:20:31.946770Z"
   },
   "WMT726": {
     "route": {
@@ -13382,5 +13371,27 @@
   "SFG55D": {
     "route": null,
     "checked_at": "2026-10-10T20:15:32.900476Z"
+  },
+  "EJU49CR": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T20:20:31.946770Z"
+  },
+  "RYR2501": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T20:20:31.946770Z"
   }
 }
