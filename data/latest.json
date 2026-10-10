@@ -1,33 +1,44 @@
 {
   "flights": [
     {
-      "callsign": "FCK2FT",
-      "country": "Germany",
-      "lat": 52.4514,
-      "lon": 13.8412,
-      "altKm": 1.2,
-      "speedKmh": 292,
-      "heading": 248,
-      "vertRateMs": 1.0,
+      "callsign": "SAS7710",
+      "country": "Sweden",
+      "lat": 52.798,
+      "lon": 13.8882,
+      "altKm": 10.9,
+      "speedKmh": 905,
+      "heading": 344,
+      "vertRateMs": 0.3,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Billund",
+      "toIata": "BLL",
       "category": "plane"
     },
     {
-      "callsign": "NOZ5LB",
-      "country": "Norway",
-      "lat": 52.3133,
-      "lon": 12.9918,
+      "callsign": "FCK2FT",
+      "country": "Germany",
+      "lat": 52.3712,
+      "lon": 13.499,
+      "altKm": 0.2,
+      "speedKmh": 312,
+      "heading": 251,
+      "vertRateMs": 2.9,
+      "category": "plane"
+    },
+    {
+      "callsign": "CAT750",
+      "country": "Denmark",
+      "lat": 52.3358,
+      "lon": 13.4295,
       "altKm": 10.9,
-      "speedKmh": 874,
-      "heading": 336,
+      "speedKmh": 890,
+      "heading": 340,
       "vertRateMs": 0,
-      "airline": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway",
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Bergen",
-      "toIata": "BGO",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-10T23:05:23.409007Z"
+  "updated_at": "2026-10-10T23:10:29.344127Z"
 }
