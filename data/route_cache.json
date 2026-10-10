@@ -3623,7 +3623,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-08T19:05:25.977688Z"
+    "checked_at": "2026-10-10T17:10:33.079330Z"
   },
   "LHX178": {
     "route": {
@@ -6708,17 +6708,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T16:45:33.066377Z"
-  },
-  "BEL9PY": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-08T17:05:26.105811Z"
   },
   "NSZ4BV": {
     "route": {
@@ -13401,5 +13390,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T17:00:55.945054Z"
+  },
+  "RYR5928": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T17:10:33.079330Z"
+  },
+  "SXS6PC": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T17:10:33.079330Z"
   }
 }
