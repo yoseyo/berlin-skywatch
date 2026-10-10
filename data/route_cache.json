@@ -1922,7 +1922,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-09T10:25:26.748616Z"
+    "checked_at": "2026-10-10T09:35:24.299869Z"
   },
   "BEL8CE": {
     "route": {
@@ -4647,17 +4647,6 @@
     },
     "checked_at": "2026-10-08T10:10:33.358394Z"
   },
-  "THY1LP": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T09:30:44.337841Z"
-  },
   "AFR65AR": {
     "route": {
       "fromCity": "Paris",
@@ -6721,28 +6710,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T08:40:30.843722Z"
-  },
-  "EWG1SU": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T09:30:44.337841Z"
-  },
-  "SXS8HN": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T09:30:44.337841Z"
   },
   "PVD446U": {
     "route": null,
@@ -12067,7 +12034,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T21:05:26.303699Z"
+    "checked_at": "2026-10-10T09:35:24.299869Z"
   },
   "RYR1155": {
     "route": {
@@ -13206,5 +13173,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T09:30:43.504643Z"
+  },
+  "NSZ9EF": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T09:35:24.299869Z"
+  },
+  "DLH890": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T09:35:24.299869Z"
+  },
+  "EJU53KD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-10T09:35:24.299869Z"
   }
 }
