@@ -365,7 +365,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-09T16:55:23.924973Z"
+    "checked_at": "2026-10-10T11:15:31.629741Z"
   },
   "RYR3PT": {
     "route": {
@@ -2388,7 +2388,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T11:30:44.684392Z"
+    "checked_at": "2026-10-10T11:15:31.629741Z"
   },
   "KLM29G": {
     "route": {
@@ -2476,7 +2476,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-09T11:35:23.854153Z"
+    "checked_at": "2026-10-10T11:15:31.629741Z"
   },
   "SAS1677": {
     "route": {
@@ -2568,7 +2568,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T10:55:23.455503Z"
+    "checked_at": "2026-10-10T11:15:31.629741Z"
   },
   "MSC2960": {
     "route": {
@@ -3825,7 +3825,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-09T15:00:58.038622Z"
+    "checked_at": "2026-10-10T11:15:31.629741Z"
   },
   "EJU32RT": {
     "route": null,
@@ -6644,17 +6644,6 @@
     },
     "checked_at": "2026-10-09T10:45:29.407793Z"
   },
-  "NSZ4501": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T11:10:31.944194Z"
-  },
   "EJU12TM": {
     "route": {
       "fromCity": "Paris",
@@ -6665,10 +6654,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T10:05:23.891185Z"
-  },
-  "AME3162": {
-    "route": null,
-    "checked_at": "2026-10-08T11:10:31.944194Z"
   },
   "EWG7NF": {
     "route": {
@@ -13241,5 +13226,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T11:10:29.996190Z"
+  },
+  "PGT7192": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-10T11:15:31.629741Z"
+  },
+  "EWG4NR": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T11:15:31.629741Z"
   }
 }
