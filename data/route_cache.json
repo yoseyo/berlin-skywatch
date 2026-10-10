@@ -2278,7 +2278,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T10:55:23.455503Z"
+    "checked_at": "2026-10-10T10:55:25.426650Z"
   },
   "SXS1CM": {
     "route": {
@@ -2311,7 +2311,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T11:05:25.638133Z"
+    "checked_at": "2026-10-10T10:55:25.426650Z"
   },
   "LOT282": {
     "route": {
@@ -4158,17 +4158,6 @@
     },
     "checked_at": "2026-10-09T15:10:33.883273Z"
   },
-  "NOZ1123": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bergen",
-      "toIata": "BGO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-08T10:55:24.178481Z"
-  },
   "EJU5267": {
     "route": {
       "fromCity": "Berlin",
@@ -5021,10 +5010,6 @@
     },
     "checked_at": "2026-10-10T07:45:30.567035Z"
   },
-  "DUKE61": {
-    "route": null,
-    "checked_at": "2026-10-08T10:55:24.178481Z"
-  },
   "DLH9MA": {
     "route": {
       "fromCity": "Valletta",
@@ -5649,17 +5634,6 @@
   "DCORR": {
     "route": null,
     "checked_at": "2026-10-08T18:55:23.469934Z"
-  },
-  "RYR36RH": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-08T10:55:24.178481Z"
   },
   "RYR364N": {
     "route": {
@@ -13175,5 +13149,27 @@
   "FIN09DM": {
     "route": null,
     "checked_at": "2026-10-10T10:50:34.530122Z"
+  },
+  "NSZ2055": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-10T10:55:25.426650Z"
+  },
+  "CCA772": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-10T10:55:25.426650Z"
   }
 }
