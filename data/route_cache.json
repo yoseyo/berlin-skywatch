@@ -4667,7 +4667,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-09T10:05:24.721511Z"
+    "checked_at": "2026-10-10T10:05:23.891185Z"
   },
   "RYR93QN": {
     "route": {
@@ -6678,17 +6678,6 @@
     },
     "checked_at": "2026-10-10T08:40:30.843722Z"
   },
-  "ENT2PE": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Jerez de la Frontera",
-      "toIata": "XRY",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-08T10:00:55.128390Z"
-  },
   "FHY1282": {
     "route": {
       "fromCity": "Berlin",
@@ -6700,17 +6689,6 @@
     },
     "checked_at": "2026-10-09T16:05:25.191338Z"
   },
-  "CFG8DF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T10:00:55.128390Z"
-  },
   "SXS6EG": {
     "route": {
       "fromCity": "Antalya",
@@ -6721,10 +6699,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-09T10:10:34.243954Z"
-  },
-  "ALE44": {
-    "route": null,
-    "checked_at": "2026-10-08T10:00:55.128390Z"
   },
   "PGT21PC": {
     "route": {
@@ -6880,7 +6854,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T21:40:31.723276Z"
+    "checked_at": "2026-10-10T10:05:23.891185Z"
   },
   "AME3162": {
     "route": null,
@@ -13214,5 +13188,27 @@
   "DMSVV": {
     "route": null,
     "checked_at": "2026-10-10T10:00:54.648315Z"
+  },
+  "FXT42V": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "RKE",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Flexflight",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-10T10:05:23.891185Z"
+  },
+  "CFG3RW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T10:05:23.891185Z"
   }
 }
