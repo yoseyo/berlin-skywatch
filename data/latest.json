@@ -1,33 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "FCK2FT",
-      "country": "Germany",
-      "lat": 52.4165,
-      "lon": 13.7694,
-      "altKm": 1.0,
-      "speedKmh": 298,
-      "heading": 251,
-      "vertRateMs": -0.3,
+      "callsign": "SAS7726",
+      "country": "Sweden",
+      "lat": 52.5845,
+      "lon": 13.7864,
+      "altKm": 10.3,
+      "speedKmh": 904,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
       "category": "plane"
     },
     {
-      "callsign": "RYR67ZT",
-      "country": "Poland",
-      "lat": 52.5177,
-      "lon": 14.0279,
-      "altKm": 11.2,
-      "speedKmh": 882,
-      "heading": 89,
-      "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
+      "callsign": "FCK2FT",
+      "country": "Germany",
+      "lat": 52.339,
+      "lon": 13.4378,
+      "altKm": 0.3,
+      "speedKmh": 284,
+      "heading": 247,
+      "vertRateMs": 2.9,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-10T22:15:30.553913Z"
+  "updated_at": "2026-10-10T22:20:31.283451Z"
 }
