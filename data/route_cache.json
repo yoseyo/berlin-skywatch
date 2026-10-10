@@ -1492,7 +1492,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T07:20:34.707061Z"
+    "checked_at": "2026-10-10T06:30:43.298735Z"
   },
   "LOT2CM": {
     "route": {
@@ -1503,7 +1503,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T06:30:42.019716Z"
+    "checked_at": "2026-10-10T06:30:43.298735Z"
   },
   "RYR98HW": {
     "route": {
@@ -1547,7 +1547,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-09T06:40:34.655656Z"
+    "checked_at": "2026-10-10T06:30:43.298735Z"
   },
   "LOT1VZ": {
     "route": {
@@ -6776,32 +6776,6 @@
     },
     "checked_at": "2026-10-09T16:20:33.123794Z"
   },
-  "PVD456J": {
-    "route": null,
-    "checked_at": "2026-10-08T06:25:24.225402Z"
-  },
-  "QTR1731": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Dallas-Fort Worth",
-      "toIata": "DFW",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-08T06:25:24.225402Z"
-  },
-  "CTN848R": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-08T06:25:24.225402Z"
-  },
   "ASL94D": {
     "route": {
       "fromCity": "Belgrade",
@@ -6812,17 +6786,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-10T06:15:29.597460Z"
-  },
-  "CFG2CA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T06:25:24.225402Z"
   },
   "AUA222": {
     "route": {
@@ -6859,7 +6822,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-08T06:35:25.710852Z"
+    "checked_at": "2026-10-10T06:30:43.298735Z"
   },
   "BMW47": {
     "route": null,
@@ -13162,5 +13125,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T06:25:23.262770Z"
+  },
+  "EWG90V": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T06:30:43.298735Z"
   }
 }
