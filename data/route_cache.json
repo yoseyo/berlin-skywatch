@@ -6665,36 +6665,6 @@
     },
     "checked_at": "2026-10-09T17:25:23.371915Z"
   },
-  "MABGS": {
-    "route": null,
-    "checked_at": "2026-10-08T15:00:58.197749Z"
-  },
-  "N47FR": {
-    "route": null,
-    "checked_at": "2026-10-08T15:00:58.197749Z"
-  },
-  "ACA921": {
-    "route": {
-      "fromCity": "West Palm Beach",
-      "fromIata": "PBI",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-08T15:00:58.197749Z"
-  },
-  "CFG8TD": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-08T15:00:58.197749Z"
-  },
   "FIN4VP": {
     "route": {
       "fromCity": "Helsinki",
@@ -6763,7 +6733,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-09T15:15:32.374083Z"
+    "checked_at": "2026-10-10T15:05:24.946213Z"
   },
   "SXS9PL": {
     "route": {
@@ -13399,5 +13369,27 @@
   "WZZ6658": {
     "route": null,
     "checked_at": "2026-10-10T15:00:53.609247Z"
+  },
+  "CFG7VT": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T15:05:24.946213Z"
+  },
+  "RYR1638": {
+    "route": {
+      "fromCity": "Nottingham",
+      "fromIata": "EMA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-10T15:05:24.946213Z"
   }
 }
