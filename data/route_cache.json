@@ -6828,17 +6828,6 @@
     },
     "checked_at": "2026-10-09T02:20:32.150622Z"
   },
-  "SDR84GF": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Kassel",
-      "toIata": "KSF",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-08T03:40:32.897857Z"
-  },
   "SWR1317": {
     "route": {
       "fromCity": "Tallinn",
@@ -13191,5 +13180,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T03:35:24.004335Z"
+  },
+  "EWG67J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-10T03:45:28.803594Z"
   }
 }

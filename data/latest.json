@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-10T03:40:30.154698Z"
+  "flights": [
+    {
+      "callsign": "EWG67J",
+      "country": "Germany",
+      "lat": 52.1402,
+      "lon": 13.3027,
+      "altKm": 3.3,
+      "speedKmh": 584,
+      "heading": 171,
+      "vertRateMs": 5.8,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-10T03:45:28.803594Z"
 }
