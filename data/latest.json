@@ -1,33 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "CHX100",
-      "country": "Germany",
-      "lat": 52.63,
-      "lon": 13.5118,
-      "altKm": 0.1,
-      "speedKmh": 9,
-      "heading": 191,
-      "vertRateMs": -2.3,
-      "category": "plane"
-    },
-    {
-      "callsign": "EWG6AZ",
-      "country": "Germany",
-      "lat": 52.3973,
-      "lon": 13.6878,
-      "altKm": 0.7,
-      "speedKmh": 301,
-      "heading": 249,
-      "vertRateMs": -4.5,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "RYR5WP",
+      "country": "Poland",
+      "lat": 52.228,
+      "lon": 12.7232,
+      "altKm": 11.2,
+      "speedKmh": 924,
+      "heading": 55,
+      "vertRateMs": -0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Varna",
+      "toIata": "VAR",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-10T21:30:41.656542Z"
+  "updated_at": "2026-10-10T21:35:23.467140Z"
 }
