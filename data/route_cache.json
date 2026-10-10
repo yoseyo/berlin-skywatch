@@ -1749,7 +1749,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T18:05:26.289781Z"
+    "checked_at": "2026-10-10T10:40:32.288371Z"
   },
   "NOZ3JH": {
     "route": {
@@ -2289,7 +2289,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T10:50:30.987657Z"
+    "checked_at": "2026-10-10T10:40:32.288371Z"
   },
   "VLG2WM": {
     "route": {
@@ -2366,7 +2366,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-09T10:45:29.407793Z"
+    "checked_at": "2026-10-10T10:40:32.288371Z"
   },
   "SXS5UY": {
     "route": {
@@ -2943,7 +2943,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-09T05:40:32.992100Z"
+    "checked_at": "2026-10-10T10:40:32.288371Z"
   },
   "WZZ977": {
     "route": {
@@ -5091,17 +5091,6 @@
     },
     "checked_at": "2026-10-10T04:30:43.739608Z"
   },
-  "PGT41EH": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Bremen",
-      "toIata": "BRE",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-08T10:40:32.157213Z"
-  },
   "EWG61V": {
     "route": {
       "fromCity": "Berlin",
@@ -5682,17 +5671,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-08T10:55:24.178481Z"
-  },
-  "BAW843": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-08T10:40:32.157213Z"
   },
   "RYR364N": {
     "route": {
@@ -6680,14 +6658,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T20:25:27.069537Z"
-  },
-  "SCR762": {
-    "route": null,
-    "checked_at": "2026-10-08T10:35:23.483841Z"
-  },
-  "FYG64BM": {
-    "route": null,
-    "checked_at": "2026-10-08T10:35:23.483841Z"
   },
   "CES786": {
     "route": {
@@ -13190,5 +13160,16 @@
   "MFX7624": {
     "route": null,
     "checked_at": "2026-10-10T10:35:23.071190Z"
+  },
+  "WZZ54P": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-10T10:40:32.288371Z"
   }
 }
