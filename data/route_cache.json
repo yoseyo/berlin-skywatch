@@ -6342,7 +6342,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T20:30:44.152689Z"
+    "checked_at": "2026-10-11T20:35:24.388723Z"
   },
   "RYR44PB": {
     "route": {
@@ -13039,5 +13039,27 @@
   "GGVII": {
     "route": null,
     "checked_at": "2026-10-11T20:30:43.880881Z"
+  },
+  "RYR11GY": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T20:35:24.388723Z"
+  },
+  "SAS1830": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T20:35:24.388723Z"
   }
 }
