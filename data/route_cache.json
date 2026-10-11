@@ -2539,7 +2539,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-10T13:10:31.361691Z"
+    "checked_at": "2026-10-11T12:20:32.425356Z"
   },
   "SXS9SE": {
     "route": {
@@ -2642,7 +2642,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T16:00:55.170786Z"
+    "checked_at": "2026-10-11T12:20:32.425356Z"
   },
   "WZZ262": {
     "route": {
@@ -3788,7 +3788,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-10T12:00:55.085948Z"
+    "checked_at": "2026-10-11T12:20:32.425356Z"
   },
   "CFE93AU": {
     "route": {
@@ -4702,7 +4702,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T06:40:33.146458Z"
+    "checked_at": "2026-10-11T12:20:32.425356Z"
   },
   "EWG7DL": {
     "route": null,
@@ -5457,17 +5457,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-09T14:45:31.477004Z"
-  },
-  "SAS1665": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T12:15:31.885493Z"
   },
   "RYR24AN": {
     "route": {
@@ -6513,47 +6502,6 @@
     },
     "checked_at": "2026-10-11T12:05:23.779709Z"
   },
-  "RUK145": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-09T12:15:31.885493Z"
-  },
-  "EFD1E": {
-    "route": null,
-    "checked_at": "2026-10-09T12:15:31.885493Z"
-  },
-  "CKK236": {
-    "route": {
-      "fromCity": "Los Angeles",
-      "fromIata": "LAX",
-      "toCity": "Chongqing",
-      "toIata": "CKG",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-09T12:20:31.671221Z"
-  },
-  "ABP725": {
-    "route": null,
-    "checked_at": "2026-10-09T12:20:31.671221Z"
-  },
-  "RYR89XK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marrakech",
-      "toIata": "RAK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T12:20:31.671221Z"
-  },
   "RYR91ZT": {
     "route": {
       "fromCity": "Bologna",
@@ -6564,17 +6512,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T14:15:30.069294Z"
-  },
-  "WZZ60QL": {
-    "route": {
-      "fromCity": "Dortmund",
-      "fromIata": "DTM",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-09T12:20:31.671221Z"
   },
   "SAS67M": {
     "route": {
@@ -10808,7 +10745,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T17:40:31.898975Z"
+    "checked_at": "2026-10-11T12:20:32.425356Z"
   },
   "RYR6V": {
     "route": {
@@ -12844,5 +12781,16 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-11T12:15:30.106338Z"
+  },
+  "UAL85": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-11T12:20:32.425356Z"
   }
 }
