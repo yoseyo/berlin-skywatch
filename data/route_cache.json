@@ -714,7 +714,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-09T17:55:25.358758Z"
+    "checked_at": "2026-10-11T17:55:26.087544Z"
   },
   "DLH1XN": {
     "route": {
@@ -2087,7 +2087,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T07:45:30.567035Z"
+    "checked_at": "2026-10-11T17:55:26.087544Z"
   },
   "WUK1356": {
     "route": null,
@@ -3208,7 +3208,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-09T17:50:33.924260Z"
+    "checked_at": "2026-10-11T17:55:26.087544Z"
   },
   "AUA237": {
     "route": {
@@ -3858,18 +3858,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-09T18:05:26.289781Z"
-  },
-  "EJU15BJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T17:50:33.924260Z"
+    "checked_at": "2026-10-11T17:55:26.087544Z"
   },
   "BTI4UJ": {
     "route": {
@@ -6427,25 +6416,6 @@
   "QGA32A": {
     "route": null,
     "checked_at": "2026-10-11T14:15:28.712123Z"
-  },
-  "RYR33KQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T17:50:33.924260Z"
-  },
-  "GAF930": {
-    "route": null,
-    "checked_at": "2026-10-09T17:55:25.358758Z"
-  },
-  "ATV504": {
-    "route": null,
-    "checked_at": "2026-10-09T17:55:25.358758Z"
   },
   "SDR11BL": {
     "route": {
@@ -12996,5 +12966,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T17:50:31.853266Z"
+  },
+  "NOZ1552": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-11T17:55:26.087544Z"
+  },
+  "RYR9MC": {
+    "route": {
+      "fromCity": "Belfast",
+      "fromIata": "BFS",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T17:55:26.087544Z"
   }
 }
