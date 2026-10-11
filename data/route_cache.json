@@ -2410,7 +2410,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T11:55:23.405026Z"
+    "checked_at": "2026-10-11T12:55:24.035879Z"
   },
   "PGT93T": {
     "route": {
@@ -4728,7 +4728,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-10T08:25:24.846568Z"
+    "checked_at": "2026-10-11T12:55:24.035879Z"
   },
   "SAS58M": {
     "route": {
@@ -6457,10 +6457,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-10T11:45:29.548747Z"
-  },
-  "NJE592C": {
-    "route": null,
-    "checked_at": "2026-10-09T12:55:23.499214Z"
   },
   "EWG71G": {
     "route": {
@@ -12741,5 +12737,27 @@
   "NJE835P": {
     "route": null,
     "checked_at": "2026-10-11T12:50:33.217293Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T12:55:24.035879Z"
+  },
+  "EWG99T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T12:55:24.035879Z"
   }
 }
