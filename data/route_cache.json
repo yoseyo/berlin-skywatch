@@ -1727,7 +1727,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-10T07:45:30.567035Z"
+    "checked_at": "2026-10-11T07:55:22.965440Z"
   },
   "QTR85X": {
     "route": {
@@ -1804,7 +1804,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-09T07:55:27.334502Z"
+    "checked_at": "2026-10-11T07:55:22.965440Z"
   },
   "IBE07TT": {
     "route": {
@@ -4572,17 +4572,6 @@
     },
     "checked_at": "2026-10-10T09:40:31.508796Z"
   },
-  "EWG44ME": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T07:50:32.225132Z"
-  },
   "EJU43CD": {
     "route": {
       "fromCity": "Berlin",
@@ -6721,28 +6710,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-10T13:50:31.552792Z"
-  },
-  "EZY84XQ": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-09T07:50:32.225132Z"
-  },
-  "RYR59DR": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T07:50:32.225132Z"
   },
   "EWG8602": {
     "route": {
@@ -13263,5 +13230,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T07:40:37.069614Z"
+  },
+  "BAW986G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T07:55:22.965440Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T07:55:22.965440Z"
   }
 }
