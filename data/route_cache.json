@@ -6351,10 +6351,6 @@
     },
     "checked_at": "2026-10-10T19:45:31.555506Z"
   },
-  "CAT754": {
-    "route": null,
-    "checked_at": "2026-10-09T21:35:24.538823Z"
-  },
   "EWG4J": {
     "route": {
       "fromCity": "Copenhagen",
@@ -13094,5 +13090,16 @@
   "CAT334": {
     "route": null,
     "checked_at": "2026-10-11T21:30:43.554617Z"
+  },
+  "SAS96T": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T21:40:32.993718Z"
   }
 }

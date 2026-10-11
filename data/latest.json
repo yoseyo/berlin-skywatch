@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-11T21:35:22.611572Z"
+  "flights": [
+    {
+      "callsign": "SAS96T",
+      "country": "Ireland",
+      "lat": 52.2466,
+      "lon": 13.6097,
+      "altKm": 11.5,
+      "speedKmh": 842,
+      "heading": 25,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-11T21:40:32.993718Z"
 }
