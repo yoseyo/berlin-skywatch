@@ -5472,17 +5472,6 @@
     },
     "checked_at": "2026-10-09T19:00:54.738345Z"
   },
-  "NOZ5HE": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-09T17:40:33.394503Z"
-  },
   "RYR4DZ": {
     "route": {
       "fromCity": "London",
@@ -6435,35 +6424,9 @@
     },
     "checked_at": "2026-10-11T07:45:32.205770Z"
   },
-  "BLX361": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T17:40:33.394503Z"
-  },
-  "LHX4KK": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T17:40:33.394503Z"
-  },
   "QGA32A": {
     "route": null,
     "checked_at": "2026-10-11T14:15:28.712123Z"
-  },
-  "GULFD": {
-    "route": null,
-    "checked_at": "2026-10-09T17:45:29.467693Z"
   },
   "RYR33KQ": {
     "route": {
@@ -12937,5 +12900,42 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T17:40:32.492800Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-11T17:45:30.726461Z"
+  },
+  "BEL9DL": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-11T17:45:30.726461Z"
+  },
+  "RYR297": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T17:45:30.726461Z"
+  },
+  "KMM376": {
+    "route": null,
+    "checked_at": "2026-10-11T17:45:30.726461Z"
   }
 }
