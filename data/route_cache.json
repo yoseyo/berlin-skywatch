@@ -3031,7 +3031,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-10T19:50:29.249354Z"
+    "checked_at": "2026-10-11T20:05:24.903205Z"
   },
   "EIN33W": {
     "route": {
@@ -3918,17 +3918,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-10T06:15:29.597460Z"
-  },
-  "RYR4384": {
-    "route": {
-      "fromCity": "Malm\u00f6",
-      "fromIata": "MMX",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "LOT392": {
     "route": {
@@ -5417,17 +5406,6 @@
     },
     "checked_at": "2026-10-11T18:35:24.261116Z"
   },
-  "NSZ3305": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T20:05:23.775513Z"
-  },
   "EZY18CE": {
     "route": {
       "fromCity": "Berlin",
@@ -6354,28 +6332,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T18:15:31.627910Z"
-  },
-  "NSZ3755": {
-    "route": {
-      "fromCity": "Ljubljana",
-      "fromIata": "LJU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T20:00:54.097340Z"
-  },
-  "ADZ3907": {
-    "route": {
-      "fromCity": "\u00d6rebro",
-      "fromIata": "ORB",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Compass Cargo Airlines",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-09T20:00:54.097340Z"
   },
   "SXS8NX": {
     "route": null,
@@ -13072,5 +13028,16 @@
   "SDR9JS": {
     "route": null,
     "checked_at": "2026-10-11T20:00:53.730381Z"
+  },
+  "SDR10XL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T20:05:24.903205Z"
   }
 }
