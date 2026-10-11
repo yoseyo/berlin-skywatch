@@ -2712,7 +2712,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T13:05:26.266340Z"
+    "checked_at": "2026-10-11T12:45:30.382964Z"
   },
   "DLH4YC": {
     "route": {
@@ -3450,7 +3450,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T09:25:23.732776Z"
+    "checked_at": "2026-10-11T12:45:30.382964Z"
   },
   "BBG271": {
     "route": {
@@ -4730,17 +4730,6 @@
     },
     "checked_at": "2026-10-10T11:05:23.185350Z"
   },
-  "SAS47D": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T12:40:30.814725Z"
-  },
   "SWU1950": {
     "route": {
       "fromCity": "Bolzano",
@@ -5402,17 +5391,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T11:55:23.834376Z"
-  },
-  "EJU16QM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T12:40:30.814725Z"
   },
   "MEA246": {
     "route": {
@@ -6479,17 +6457,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T14:15:30.069294Z"
-  },
-  "JTD214": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-09T12:40:30.814725Z"
   },
   "QTR20V": {
     "route": {
@@ -12781,5 +12748,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T12:40:30.811902Z"
+  },
+  "PGT1686": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-11T12:45:30.382964Z"
   }
 }
