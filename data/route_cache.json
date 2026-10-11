@@ -3329,7 +3329,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T06:05:22.484006Z"
+    "checked_at": "2026-10-11T05:55:24.034253Z"
   },
   "NSZ4505": {
     "route": {
@@ -6774,50 +6774,6 @@
     },
     "checked_at": "2026-10-10T05:10:32.619167Z"
   },
-  "NIA8501": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-09T05:50:33.572705Z"
-  },
-  "EWG44CM": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T05:50:33.572705Z"
-  },
-  "EJU9042": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T05:55:23.643558Z"
-  },
-  "FLI7160": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Ioannina",
-      "toIata": "IOA",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-10-09T05:55:23.643558Z"
-  },
   "ETH724": {
     "route": {
       "fromCity": "Vienna",
@@ -6868,7 +6824,7 @@
   },
   "WZZ8649": {
     "route": null,
-    "checked_at": "2026-10-09T06:25:24.038836Z"
+    "checked_at": "2026-10-11T05:55:24.034253Z"
   },
   "WMT9NH": {
     "route": {
@@ -13393,5 +13349,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-11T05:50:31.690467Z"
+  },
+  "FLI7120": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-11T05:55:24.034253Z"
   }
 }
