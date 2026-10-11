@@ -453,7 +453,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T15:45:32.924462Z"
+    "checked_at": "2026-10-11T16:10:30.580389Z"
   },
   "LOT389": {
     "route": {
@@ -2278,7 +2278,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T06:35:22.886246Z"
+    "checked_at": "2026-10-11T16:10:30.580389Z"
   },
   "NOZ53Y": {
     "route": {
@@ -10402,7 +10402,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-10T20:00:52.006407Z"
+    "checked_at": "2026-10-11T16:10:30.580389Z"
   },
   "VLG1887": {
     "route": {
@@ -12882,5 +12882,16 @@
   "VKG266": {
     "route": null,
     "checked_at": "2026-10-11T16:05:25.865672Z"
+  },
+  "RYR2281": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T16:10:30.580389Z"
   }
 }
