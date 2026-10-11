@@ -1900,7 +1900,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-10T08:30:43.649930Z"
+    "checked_at": "2026-10-11T08:20:31.810530Z"
   },
   "RYR4TC": {
     "route": {
@@ -3123,7 +3123,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-10-10T12:05:26.027622Z"
+    "checked_at": "2026-10-11T08:20:31.810530Z"
   },
   "EJU5088": {
     "route": null,
@@ -4483,17 +4483,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-10T06:40:33.146458Z"
-  },
-  "CXI8E": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Nuremberg",
-      "toIata": "NUE",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-09T08:20:31.449556Z"
   },
   "AFR39SV": {
     "route": {
@@ -6725,17 +6714,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T05:15:29.667616Z"
-  },
-  "EJU43CX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T08:15:31.729003Z"
   },
   "RYR8EM": {
     "route": {
@@ -13263,5 +13241,57 @@
   "OEUDN": {
     "route": null,
     "checked_at": "2026-10-11T08:15:28.554927Z"
+  },
+  "MGH723": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-11T08:20:31.810530Z"
+  },
+  "BTI8QA": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-11T08:20:31.810530Z"
+  },
+  "BRK94": {
+    "route": null,
+    "checked_at": "2026-10-11T08:20:31.810530Z"
+  },
+  "LHX848": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T08:20:31.810530Z"
+  },
+  "NIA8702": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-11T08:20:31.810530Z"
+  },
+  "NJE926F": {
+    "route": null,
+    "checked_at": "2026-10-11T08:20:31.810530Z"
   }
 }
