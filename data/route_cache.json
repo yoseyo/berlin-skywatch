@@ -2311,7 +2311,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T11:35:27.335753Z"
+    "checked_at": "2026-10-11T11:20:31.912063Z"
   },
   "DLH4NF": {
     "route": {
@@ -4227,17 +4227,6 @@
     },
     "checked_at": "2026-10-09T19:10:33.892830Z"
   },
-  "LHX2T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T11:20:30.799430Z"
-  },
   "BTI9TZ": {
     "route": {
       "fromCity": "Riga",
@@ -4504,7 +4493,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T13:25:23.644206Z"
+    "checked_at": "2026-10-11T11:20:31.912063Z"
   },
   "LHX6T": {
     "route": {
@@ -4788,17 +4777,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T11:05:23.185350Z"
-  },
-  "NOZ1104": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-09T11:15:30.272859Z"
   },
   "SAS47D": {
     "route": {
@@ -6604,50 +6582,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T11:05:24.214924Z"
-  },
-  "THY9RZ": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-09T11:15:30.272859Z"
-  },
-  "SAS2784": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T11:15:30.272859Z"
-  },
-  "BTI7FR": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-09T11:15:30.272859Z"
-  },
-  "NOZ1869": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-09T11:20:30.799430Z"
   },
   "WZZ2QZ": {
     "route": {
@@ -13085,5 +13019,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-11T11:15:29.248099Z"
+  },
+  "EWG5NP": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T11:20:31.912063Z"
   }
 }
