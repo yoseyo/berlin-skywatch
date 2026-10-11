@@ -1378,7 +1378,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T06:00:52.867220Z"
+    "checked_at": "2026-10-11T06:00:53.999157Z"
   },
   "DLH2X": {
     "route": {
@@ -1411,7 +1411,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T06:00:52.867220Z"
+    "checked_at": "2026-10-11T06:00:53.999157Z"
   },
   "SXS3FR": {
     "route": {
@@ -3160,7 +3160,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T06:00:52.867220Z"
+    "checked_at": "2026-10-11T06:00:53.999157Z"
   },
   "SAS695": {
     "route": {
@@ -13360,5 +13360,27 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-11T05:55:24.034253Z"
+  },
+  "CFG7ME": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T06:00:53.999157Z"
+  },
+  "RYR3696": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T06:00:53.999157Z"
   }
 }
