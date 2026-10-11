@@ -1088,7 +1088,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-10T20:55:23.761274Z"
+    "checked_at": "2026-10-11T21:05:26.553698Z"
   },
   "SWR53Q": {
     "route": {
@@ -6350,17 +6350,6 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-10-11T20:55:25.841063Z"
-  },
-  "RYR38EA": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T21:00:58.400059Z"
   },
   "RYR50PQ": {
     "route": {
@@ -13075,5 +13064,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T21:00:54.250522Z"
+  },
+  "EZY63GU": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T21:05:26.553698Z"
   }
 }
