@@ -45,7 +45,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T08:05:22.535954Z"
+    "checked_at": "2026-10-11T12:25:26.349493Z"
   },
   "RYR24XK": {
     "route": {
@@ -4741,17 +4741,6 @@
     },
     "checked_at": "2026-10-09T12:40:30.814725Z"
   },
-  "NOZ1105": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-09T12:25:26.039242Z"
-  },
   "SWU1950": {
     "route": {
       "fromCity": "Bolzano",
@@ -5309,7 +5298,7 @@
   },
   "LDX11": {
     "route": null,
-    "checked_at": "2026-10-09T15:20:31.496106Z"
+    "checked_at": "2026-10-11T12:25:26.349493Z"
   },
   "EJU83GC": {
     "route": {
@@ -6512,17 +6501,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T14:15:30.069294Z"
-  },
-  "SAS67M": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T12:25:26.039242Z"
   },
   "TVF51KY": {
     "route": {
@@ -12792,5 +12770,16 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-11T12:20:32.425356Z"
+  },
+  "NOZ6RE": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-11T12:25:26.349493Z"
   }
 }
