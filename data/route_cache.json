@@ -615,7 +615,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-10T16:45:33.066377Z"
+    "checked_at": "2026-10-11T16:45:29.530154Z"
   },
   "PGT49YQ": {
     "route": {
@@ -3362,7 +3362,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-10T16:40:29.927833Z"
+    "checked_at": "2026-10-11T16:45:29.530154Z"
   },
   "TAP4BE": {
     "route": {
@@ -4739,7 +4739,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T17:20:30.726374Z"
+    "checked_at": "2026-10-11T16:45:29.530154Z"
   },
   "BTI6UN": {
     "route": {
@@ -5378,7 +5378,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T17:15:31.090329Z"
+    "checked_at": "2026-10-11T16:45:29.530154Z"
   },
   "AUA235D": {
     "route": {
@@ -6411,7 +6411,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T06:05:22.484006Z"
+    "checked_at": "2026-10-11T16:45:29.530154Z"
   },
   "LOT3JK": {
     "route": {
@@ -6434,28 +6434,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-11T16:25:26.381935Z"
-  },
-  "WZZ148": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-09T16:40:31.095732Z"
-  },
-  "RYR2962": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T16:40:31.095732Z"
   },
   "JTD395": {
     "route": {
@@ -12933,5 +12911,42 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T16:40:31.007956Z"
+  },
+  "FHY1684": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-11T16:45:29.530154Z"
+  },
+  "AUA99R": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T16:45:29.530154Z"
+  },
+  "QGA01A": {
+    "route": null,
+    "checked_at": "2026-10-11T16:45:29.530154Z"
+  },
+  "CTN4489": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-11T16:45:29.530154Z"
   }
 }
