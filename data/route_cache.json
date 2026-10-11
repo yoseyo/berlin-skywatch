@@ -1547,7 +1547,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T06:40:33.146458Z"
+    "checked_at": "2026-10-11T06:45:29.141257Z"
   },
   "LOT4MH": {
     "route": {
@@ -3373,7 +3373,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-10T06:35:22.886246Z"
+    "checked_at": "2026-10-11T06:45:29.141257Z"
   },
   "RYR785N": {
     "route": {
@@ -3740,7 +3740,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T07:00:51.075334Z"
+    "checked_at": "2026-10-11T06:45:29.141257Z"
   },
   "ELY2371": {
     "route": {
@@ -4215,17 +4215,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-10T06:15:29.597460Z"
-  },
-  "THY1LZ": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-09T06:40:34.655656Z"
   },
   "RYR4384": {
     "route": {
@@ -4906,17 +4895,6 @@
     },
     "checked_at": "2026-10-09T06:55:27.251314Z"
   },
-  "WZZ5918": {
-    "route": {
-      "fromCity": "Yerevan",
-      "fromIata": "EVN",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-09T06:40:34.655656Z"
-  },
   "CTN480": {
     "route": {
       "fromCity": "Zagreb",
@@ -5011,7 +4989,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T07:00:51.075334Z"
+    "checked_at": "2026-10-11T06:45:29.141257Z"
   },
   "RYR364N": {
     "route": {
@@ -6725,28 +6703,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-10T12:30:45.348512Z"
-  },
-  "EJU51LD": {
-    "route": {
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T06:40:34.655656Z"
-  },
-  "CFG2HD": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Ibiza",
-      "toIata": "IBZ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T06:40:34.655656Z"
   },
   "EZS53CU": {
     "route": {
@@ -13308,5 +13264,27 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-11T06:40:30.448342Z"
+  },
+  "NIA8701": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-11T06:45:29.141257Z"
+  },
+  "SAS1897": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T06:45:29.141257Z"
   }
 }
