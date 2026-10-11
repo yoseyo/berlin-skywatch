@@ -7285,7 +7285,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T08:10:31.376619Z"
+    "checked_at": "2026-10-11T05:15:29.667616Z"
   },
   "DMXIB": {
     "route": null,
@@ -11127,7 +11127,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T11:10:29.996190Z"
+    "checked_at": "2026-10-11T05:15:29.667616Z"
   },
   "SDR46KE": {
     "route": {
@@ -13338,5 +13338,38 @@
   "GAF600": {
     "route": null,
     "checked_at": "2026-10-11T05:10:34.117978Z"
+  },
+  "EJU18LB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sharm el-Sheikh",
+      "toIata": "SSH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T05:15:29.667616Z"
+  },
+  "VKG270": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-11T05:15:29.667616Z"
+  },
+  "CAT317": {
+    "route": {
+      "fromCity": "Aarhus",
+      "fromIata": "AAR",
+      "toCity": "Zakynthos Island",
+      "toIata": "ZTH",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-11T05:15:29.667616Z"
   }
 }
