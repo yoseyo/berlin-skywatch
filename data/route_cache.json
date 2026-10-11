@@ -3652,7 +3652,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-09T18:05:26.289781Z"
+    "checked_at": "2026-10-11T17:21:12.982024Z"
   },
   "RYR57ND": {
     "route": {
@@ -3837,17 +3837,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-11T17:10:33.247439Z"
-  },
-  "WZZ82": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-09T17:15:31.090329Z"
   },
   "EWG45B": {
     "route": {
@@ -4994,17 +4983,6 @@
     },
     "checked_at": "2026-10-09T18:55:25.668978Z"
   },
-  "EJU92MK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T17:20:31.951875Z"
-  },
   "AEE7CH": {
     "route": {
       "fromCity": "Athens",
@@ -5455,7 +5433,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-09T18:10:30.993854Z"
+    "checked_at": "2026-10-11T17:21:12.982024Z"
   },
   "UPEM014": {
     "route": null,
@@ -6456,17 +6434,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T12:40:30.811902Z"
-  },
-  "NSZ3754": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Ljubljana",
-      "toIata": "LJU",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T17:15:31.090329Z"
   },
   "RYR8PJ": {
     "route": {
@@ -12948,5 +12915,38 @@
   "NJE124V": {
     "route": null,
     "checked_at": "2026-10-11T17:15:29.729667Z"
+  },
+  "EWG55X": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T17:21:12.982024Z"
+  },
+  "BEL9PY": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-11T17:21:12.982024Z"
+  },
+  "EJU5267": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T17:21:12.982024Z"
   }
 }
