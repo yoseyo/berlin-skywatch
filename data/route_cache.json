@@ -923,7 +923,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-09T19:50:30.470697Z"
+    "checked_at": "2026-10-11T19:45:29.902574Z"
   },
   "BEL1ZK": {
     "route": {
@@ -934,7 +934,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-10T19:55:23.012749Z"
+    "checked_at": "2026-10-11T19:45:29.902574Z"
   },
   "BAW998": {
     "route": {
@@ -6365,17 +6365,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T18:15:31.627910Z"
-  },
-  "RYR8602": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T19:40:34.799541Z"
   },
   "GAF601": {
     "route": null,
@@ -13028,5 +13017,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T19:35:24.163640Z"
+  },
+  "EZY71RM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T19:45:29.902574Z"
   }
 }
