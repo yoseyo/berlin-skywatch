@@ -1231,7 +1231,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T05:00:53.417298Z"
+    "checked_at": "2026-10-11T05:00:52.094431Z"
   },
   "DAL92": {
     "route": {
@@ -6755,28 +6755,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T03:35:24.004335Z"
-  },
-  "SXS8LV": {
-    "route": {
-      "fromCity": "Hannover",
-      "fromIata": "HAJ",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-09T04:55:59.851553Z"
-  },
-  "RYR88ZF": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Pisa",
-      "toIata": "PSA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T04:55:59.851553Z"
   },
   "KLM64F": {
     "route": {
@@ -13371,5 +13349,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T04:55:22.544104Z"
+  },
+  "SAS75C": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T05:00:52.094431Z"
   }
 }
