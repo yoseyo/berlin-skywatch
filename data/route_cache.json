@@ -659,7 +659,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T15:55:23.982132Z"
+    "checked_at": "2026-10-11T17:05:25.042163Z"
   },
   "LOT3KT": {
     "route": {
@@ -4449,7 +4449,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T08:40:30.843722Z"
+    "checked_at": "2026-10-11T17:05:25.042163Z"
   },
   "BCS8EL": {
     "route": {
@@ -6445,28 +6445,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "NOZ2XD": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-09T17:00:55.975095Z"
-  },
-  "DKH1667": {
-    "route": {
-      "fromCity": "Zhengzhou",
-      "fromIata": "CGO",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Juneyao Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-09T17:00:55.975095Z"
   },
   "TKJ9HJ": {
     "route": {
@@ -12955,5 +12933,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T17:00:54.003020Z"
+  },
+  "RYR971": {
+    "route": {
+      "fromCity": "Zemunik (Zadar)",
+      "fromIata": "ZAD",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T17:05:25.042163Z"
   }
 }
