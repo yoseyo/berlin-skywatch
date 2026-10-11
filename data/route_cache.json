@@ -4818,17 +4818,6 @@
     },
     "checked_at": "2026-10-10T15:10:32.706720Z"
   },
-  "EWG9KG": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T13:45:33.294150Z"
-  },
   "PYR014": {
     "route": null,
     "checked_at": "2026-10-09T14:35:24.470687Z"
@@ -5704,17 +5693,6 @@
     "route": null,
     "checked_at": "2026-10-09T16:15:32.639933Z"
   },
-  "RYR5ME": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T13:45:33.294150Z"
-  },
   "EJU76NZ": {
     "route": {
       "fromCity": "Berlin",
@@ -6427,28 +6405,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T04:05:23.241327Z"
-  },
-  "CFG3UX": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T13:45:33.294150Z"
-  },
-  "SDR45EE": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T13:45:33.294150Z"
   },
   "LZB319": {
     "route": {
@@ -12825,5 +12781,9 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-11T13:45:28.996755Z"
+  },
+  "DBETI": {
+    "route": null,
+    "checked_at": "2026-10-11T13:50:31.320769Z"
   }
 }
