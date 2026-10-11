@@ -365,7 +365,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-10T11:15:31.629741Z"
+    "checked_at": "2026-10-11T18:30:44.852454Z"
   },
   "RYR3PT": {
     "route": {
@@ -3127,7 +3127,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T17:30:42.381874Z"
+    "checked_at": "2026-10-11T18:30:44.852454Z"
   },
   "RYR9PG": {
     "route": {
@@ -6406,21 +6406,6 @@
     "route": null,
     "checked_at": "2026-10-11T14:15:28.712123Z"
   },
-  "QTR57H": {
-    "route": null,
-    "checked_at": "2026-10-09T18:25:24.099786Z"
-  },
-  "EWG3KA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T18:25:24.099786Z"
-  },
   "EJU68NQ": {
     "route": {
       "fromCity": "Split",
@@ -6614,7 +6599,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T20:00:52.006407Z"
+    "checked_at": "2026-10-11T18:30:44.852454Z"
   },
   "RYR7RJ": {
     "route": {
@@ -13047,5 +13032,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-11T18:25:23.874825Z"
+  },
+  "QTR24E": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-11T18:30:44.852454Z"
+  },
+  "RYR5WY": {
+    "route": {
+      "fromCity": "Nantes",
+      "fromIata": "NTE",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T18:30:44.852454Z"
   }
 }
