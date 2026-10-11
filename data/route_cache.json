@@ -1771,7 +1771,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-10T07:55:21.523561Z"
+    "checked_at": "2026-10-11T08:25:25.622630Z"
   },
   "AUA225B": {
     "route": {
@@ -1819,7 +1819,7 @@
   },
   "WUK7BU": {
     "route": null,
-    "checked_at": "2026-10-10T08:15:29.412642Z"
+    "checked_at": "2026-10-11T08:25:25.622630Z"
   },
   "DLH3WU": {
     "route": {
@@ -3097,7 +3097,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T08:20:32.560001Z"
+    "checked_at": "2026-10-11T08:25:25.622630Z"
   },
   "BAW992G": {
     "route": {
@@ -3762,7 +3762,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T08:45:31.685394Z"
+    "checked_at": "2026-10-11T08:25:25.622630Z"
   },
   "WZZ22UT": {
     "route": {
@@ -6714,17 +6714,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T05:15:29.667616Z"
-  },
-  "RYR8EM": {
-    "route": {
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T08:25:25.258787Z"
   },
   "TSC418": {
     "route": {
@@ -13293,5 +13282,16 @@
   "NJE926F": {
     "route": null,
     "checked_at": "2026-10-11T08:20:31.810530Z"
+  },
+  "RYR39DH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T08:25:25.622630Z"
   }
 }
