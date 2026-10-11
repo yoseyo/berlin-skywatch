@@ -567,7 +567,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T19:40:34.799541Z"
+    "checked_at": "2026-10-11T09:45:29.534354Z"
   },
   "TVF89NN": {
     "route": null,
@@ -1988,7 +1988,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T09:30:43.504643Z"
+    "checked_at": "2026-10-11T09:45:29.534354Z"
   },
   "LOT3JA": {
     "route": {
@@ -6061,17 +6061,6 @@
     "route": null,
     "checked_at": "2026-10-09T16:15:32.639933Z"
   },
-  "EJU16CF": {
-    "route": {
-      "fromCity": "Kerkyra Island",
-      "fromIata": "CFU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T09:40:33.822890Z"
-  },
   "RYR5ME": {
     "route": {
       "fromCity": "Dublin",
@@ -6645,10 +6634,6 @@
     },
     "checked_at": "2026-10-11T09:30:42.592552Z"
   },
-  "DCMET": {
-    "route": null,
-    "checked_at": "2026-10-09T09:40:33.822890Z"
-  },
   "SDR10CL": {
     "route": {
       "fromCity": "Berlin",
@@ -6839,7 +6824,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-09T10:30:45.074245Z"
+    "checked_at": "2026-10-11T09:45:29.534354Z"
   },
   "ENT1512": {
     "route": {
@@ -13176,5 +13161,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T09:40:29.615070Z"
+  },
+  "EZY36DU": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T09:45:29.534354Z"
   }
 }
