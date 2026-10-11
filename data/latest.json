@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-11T00:40:32.887650Z"
+  "flights": [
+    {
+      "callsign": "VKG025",
+      "country": "Denmark",
+      "lat": 52.6091,
+      "lon": 12.9329,
+      "altKm": 10.9,
+      "speedKmh": 848,
+      "heading": 332,
+      "vertRateMs": 0.3,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Stavanger",
+      "toIata": "SVG",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-11T00:45:29.368383Z"
 }
