@@ -1312,7 +1312,7 @@
   },
   "CHX49": {
     "route": null,
-    "checked_at": "2026-10-10T06:45:32.962834Z"
+    "checked_at": "2026-10-11T11:35:24.064277Z"
   },
   "DLH4UV": {
     "route": {
@@ -2157,7 +2157,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-10T11:30:42.325182Z"
+    "checked_at": "2026-10-11T11:35:24.064277Z"
   },
   "PGT54XN": {
     "route": {
@@ -2333,7 +2333,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T11:10:29.996190Z"
+    "checked_at": "2026-10-11T11:35:24.064277Z"
   },
   "AUA228T": {
     "route": {
@@ -3674,7 +3674,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-10-09T18:20:32.047360Z"
+    "checked_at": "2026-10-11T11:35:24.064277Z"
   },
   "TKJ3WS": {
     "route": {
@@ -5730,17 +5730,6 @@
     },
     "checked_at": "2026-10-10T07:50:29.679702Z"
   },
-  "EJU61PU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T11:35:23.854153Z"
-  },
   "RYR5XX": {
     "route": {
       "fromCity": "Berlin",
@@ -6583,43 +6572,6 @@
     },
     "checked_at": "2026-10-11T11:05:24.214924Z"
   },
-  "WZZ2QZ": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-09T11:30:44.684392Z"
-  },
-  "EJU46TQ": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T11:30:44.684392Z"
-  },
-  "TAH424": {
-    "route": null,
-    "checked_at": "2026-10-09T11:35:23.854153Z"
-  },
-  "FIN4ER": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-09T11:35:23.854153Z"
-  },
   "CAT346": {
     "route": null,
     "checked_at": "2026-10-09T11:40:32.780420Z"
@@ -7171,7 +7123,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-09T14:25:25.738764Z"
+    "checked_at": "2026-10-11T11:35:24.064277Z"
   },
   "CSN6041": {
     "route": {
@@ -13045,5 +12997,16 @@
   "FHM7304": {
     "route": null,
     "checked_at": "2026-10-11T11:25:24.854640Z"
+  },
+  "RYR18RV": {
+    "route": {
+      "fromCity": "Torp",
+      "fromIata": "TRF",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T11:35:24.064277Z"
   }
 }
