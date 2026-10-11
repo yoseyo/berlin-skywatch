@@ -159,7 +159,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T14:30:43.333017Z"
+    "checked_at": "2026-10-11T14:45:33.581801Z"
   },
   "RYR4JQ": {
     "route": {
@@ -262,7 +262,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T15:00:53.609247Z"
+    "checked_at": "2026-10-11T14:45:33.581801Z"
   },
   "KLM49N": {
     "route": {
@@ -273,7 +273,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T13:20:31.893591Z"
+    "checked_at": "2026-10-11T14:45:33.581801Z"
   },
   "FIN5DL": {
     "route": {
@@ -5292,17 +5292,6 @@
     },
     "checked_at": "2026-10-11T11:25:24.854640Z"
   },
-  "EJU83LH": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T14:45:31.477004Z"
-  },
   "RYR24AN": {
     "route": {
       "fromCity": "Berlin",
@@ -6428,14 +6417,6 @@
     },
     "checked_at": "2026-10-10T14:45:31.842386Z"
   },
-  "ADN75C": {
-    "route": null,
-    "checked_at": "2026-10-09T14:45:31.477004Z"
-  },
-  "CPI095": {
-    "route": null,
-    "checked_at": "2026-10-09T14:45:31.477004Z"
-  },
   "RYR2NB": {
     "route": {
       "fromCity": "Torp",
@@ -6549,7 +6530,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T15:15:32.374083Z"
+    "checked_at": "2026-10-11T14:45:33.581801Z"
   },
   "RYR9BJ": {
     "route": {
@@ -12855,5 +12836,16 @@
   "NJE926M": {
     "route": null,
     "checked_at": "2026-10-11T14:40:31.882545Z"
+  },
+  "SWR9YP": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-11T14:45:33.581801Z"
   }
 }
