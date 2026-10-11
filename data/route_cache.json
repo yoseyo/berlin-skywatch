@@ -420,7 +420,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-10T16:00:55.170786Z"
+    "checked_at": "2026-10-11T16:55:26.469221Z"
   },
   "KLM1780": {
     "route": {
@@ -523,7 +523,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T16:15:30.592305Z"
+    "checked_at": "2026-10-11T16:55:26.469221Z"
   },
   "EWG5EY": {
     "route": {
@@ -5503,7 +5503,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-10T18:05:22.910360Z"
+    "checked_at": "2026-10-11T16:55:26.469221Z"
   },
   "NSZ4507": {
     "route": {
@@ -12918,5 +12918,31 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-11T16:45:29.530154Z"
+  },
+  "FIN33A": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-11T16:55:26.469221Z"
+  },
+  "VKG808": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-11T16:55:26.469221Z"
+  },
+  "NJE177P": {
+    "route": null,
+    "checked_at": "2026-10-11T16:55:26.469221Z"
   }
 }
