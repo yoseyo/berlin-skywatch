@@ -1448,7 +1448,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T06:30:43.298735Z"
+    "checked_at": "2026-10-11T07:15:29.966068Z"
   },
   "LOT2CM": {
     "route": {
@@ -1602,7 +1602,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-10T07:10:33.219268Z"
+    "checked_at": "2026-10-11T07:15:29.966068Z"
   },
   "RYR594F": {
     "route": {
@@ -4480,17 +4480,6 @@
     },
     "checked_at": "2026-10-09T08:55:26.694262Z"
   },
-  "EJU57LY": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T07:15:29.800519Z"
-  },
   "AEG6911": {
     "route": null,
     "checked_at": "2026-10-09T20:55:24.964699Z"
@@ -6235,7 +6224,7 @@
   },
   "UPEM014": {
     "route": null,
-    "checked_at": "2026-10-10T13:00:55.264193Z"
+    "checked_at": "2026-10-11T07:15:29.966068Z"
   },
   "RYR7BW": {
     "route": {
@@ -6732,21 +6721,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T11:45:29.548747Z"
-  },
-  "SXS9XP": {
-    "route": {
-      "fromCity": "Bodrum",
-      "fromIata": "BJV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-09T07:10:31.349364Z"
-  },
-  "NJE382B": {
-    "route": null,
-    "checked_at": "2026-10-09T07:10:31.349364Z"
   },
   "CFG2YU": {
     "route": {
@@ -13245,5 +13219,27 @@
   "SDR19NY": {
     "route": null,
     "checked_at": "2026-10-11T07:05:23.274366Z"
+  },
+  "EJU9044": {
+    "route": {
+      "fromCity": "Toulouse/Blagnac",
+      "fromIata": "TLS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T07:15:29.966068Z"
+  },
+  "EWG3CD": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T07:15:29.966068Z"
   }
 }
