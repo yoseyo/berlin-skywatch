@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T12:50:32.299955Z"
+    "checked_at": "2026-10-11T13:10:32.463949Z"
   },
   "MSC2961": {
     "route": {
@@ -2561,7 +2561,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T13:20:31.893591Z"
+    "checked_at": "2026-10-11T13:10:32.463949Z"
   },
   "SAS1678": {
     "route": {
@@ -12773,5 +12773,16 @@
   "DEPIB": {
     "route": null,
     "checked_at": "2026-10-11T13:05:26.648245Z"
+  },
+  "WZZ93ZW": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T13:10:32.463949Z"
   }
 }
