@@ -3340,7 +3340,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-10T08:00:53.560016Z"
+    "checked_at": "2026-10-11T06:40:30.448342Z"
   },
   "TAP532B": {
     "route": {
@@ -6726,28 +6726,6 @@
     },
     "checked_at": "2026-10-10T12:30:45.348512Z"
   },
-  "WMT9SL": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-09T06:35:24.605912Z"
-  },
-  "CFG1KL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T06:35:24.605912Z"
-  },
   "EJU51LD": {
     "route": {
       "fromCity": "Lyon",
@@ -9991,7 +9969,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T06:45:32.962834Z"
+    "checked_at": "2026-10-11T06:40:30.448342Z"
   },
   "CFG1RD": {
     "route": {
@@ -13319,5 +13297,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T06:35:24.283609Z"
+  },
+  "SRR901": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-11T06:40:30.448342Z"
   }
 }
