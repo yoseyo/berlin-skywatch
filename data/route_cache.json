@@ -604,7 +604,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-10T13:05:26.266340Z"
+    "checked_at": "2026-10-11T19:50:30.827170Z"
   },
   "SWR1PF": {
     "route": {
@@ -1077,7 +1077,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T20:00:52.006407Z"
+    "checked_at": "2026-10-11T19:50:30.827170Z"
   },
   "IBE0787": {
     "route": {
@@ -4697,17 +4697,6 @@
     },
     "checked_at": "2026-10-10T19:40:34.510189Z"
   },
-  "RYR28BE": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T19:50:30.470697Z"
-  },
   "ASL44H": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6365,10 +6354,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T18:15:31.627910Z"
-  },
-  "GAF601": {
-    "route": null,
-    "checked_at": "2026-10-09T19:50:30.470697Z"
   },
   "NSZ3755": {
     "route": {
@@ -13028,5 +13013,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-11T19:45:29.902574Z"
+  },
+  "EZY27LF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T19:50:30.827170Z"
   }
 }
