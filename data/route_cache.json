@@ -747,7 +747,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T18:15:29.149538Z"
+    "checked_at": "2026-10-11T18:10:30.749058Z"
   },
   "SXS2KY": {
     "route": {
@@ -857,7 +857,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T18:30:45.010376Z"
+    "checked_at": "2026-10-11T18:10:30.749058Z"
   },
   "LOT2MN": {
     "route": {
@@ -8054,7 +8054,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T09:40:31.508796Z"
+    "checked_at": "2026-10-11T18:10:30.749058Z"
   },
   "EJU95RP": {
     "route": {
@@ -9750,7 +9750,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T18:05:22.910360Z"
+    "checked_at": "2026-10-11T18:10:30.749058Z"
   },
   "VKG4024": {
     "route": {
@@ -12988,5 +12988,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T17:55:26.087544Z"
+  },
+  "BPO702": {
+    "route": null,
+    "checked_at": "2026-10-11T18:10:30.749058Z"
+  },
+  "SAS2670": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T18:10:30.749058Z"
+  },
+  "FIN8TA": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-11T18:10:30.749058Z"
   }
 }
