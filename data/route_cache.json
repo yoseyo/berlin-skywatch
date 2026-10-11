@@ -409,7 +409,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T15:55:23.982132Z"
+    "checked_at": "2026-10-11T16:35:25.503955Z"
   },
   "SWR23F": {
     "route": {
@@ -3197,7 +3197,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T16:55:23.924973Z"
+    "checked_at": "2026-10-11T16:35:25.503955Z"
   },
   "SWR15V": {
     "route": {
@@ -3516,7 +3516,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-10T16:16:40.850769Z"
+    "checked_at": "2026-10-11T16:35:25.503955Z"
   },
   "LOT6PA": {
     "route": {
@@ -6434,17 +6434,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-11T16:25:26.381935Z"
-  },
-  "EJU57YZ": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T16:30:43.289796Z"
   },
   "EXS8SY": {
     "route": {
@@ -12900,5 +12889,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T16:25:26.381935Z"
+  },
+  "SAS2669": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T16:35:25.503955Z"
   }
 }
