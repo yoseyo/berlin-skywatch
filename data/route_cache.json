@@ -133,7 +133,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T06:15:29.597460Z"
+    "checked_at": "2026-10-11T10:45:33.638296Z"
   },
   "CHX31": {
     "route": null,
@@ -2190,7 +2190,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T10:20:33.294917Z"
+    "checked_at": "2026-10-11T10:45:33.638296Z"
   },
   "FIN50M": {
     "route": {
@@ -2245,7 +2245,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T10:55:25.426650Z"
+    "checked_at": "2026-10-11T10:45:33.638296Z"
   },
   "LOT282": {
     "route": {
@@ -2517,7 +2517,7 @@
   },
   "EJU47DE": {
     "route": null,
-    "checked_at": "2026-10-10T16:30:43.943065Z"
+    "checked_at": "2026-10-11T10:45:33.638296Z"
   },
   "SXS6ZK": {
     "route": {
@@ -5473,17 +5473,6 @@
     },
     "checked_at": "2026-10-10T10:35:23.071190Z"
   },
-  "DLH1KX": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T10:45:29.407793Z"
-  },
   "EJU12TM": {
     "route": {
       "fromCity": "Paris",
@@ -6604,17 +6593,6 @@
       "airlineCountry": "Canada"
     },
     "checked_at": "2026-10-11T10:35:24.527599Z"
-  },
-  "RYR127K": {
-    "route": {
-      "fromCity": "Marrakech",
-      "fromIata": "RAK",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T10:40:30.366794Z"
   },
   "QTR727": {
     "route": {
@@ -13110,5 +13088,24 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T10:40:29.293354Z"
+  },
+  "OYJWM": {
+    "route": null,
+    "checked_at": "2026-10-11T10:45:33.638296Z"
+  },
+  "DEXTA": {
+    "route": null,
+    "checked_at": "2026-10-11T10:45:33.638296Z"
+  },
+  "SAS1812": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T10:45:33.638296Z"
   }
 }
