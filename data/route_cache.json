@@ -1367,7 +1367,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-10T05:30:40.847369Z"
+    "checked_at": "2026-10-11T05:40:30.152101Z"
   },
   "DLH207": {
     "route": {
@@ -13349,5 +13349,27 @@
   "WZZ6071": {
     "route": null,
     "checked_at": "2026-10-11T05:30:41.667342Z"
+  },
+  "RYR2TD": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T05:40:30.152101Z"
+  },
+  "EWG95T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T05:40:30.152101Z"
   }
 }
