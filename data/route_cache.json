@@ -3450,7 +3450,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T19:10:30.957436Z"
+    "checked_at": "2026-10-11T19:10:33.771368Z"
   },
   "SAS696": {
     "route": {
@@ -4805,7 +4805,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T20:10:32.052335Z"
+    "checked_at": "2026-10-11T19:10:33.771368Z"
   },
   "SWR1317": {
     "route": {
@@ -13043,5 +13043,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-11T19:05:24.390180Z"
+  },
+  "DLH898": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T19:10:33.771368Z"
+  },
+  "CFG9EH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T19:10:33.771368Z"
   }
 }
