@@ -637,7 +637,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T17:55:23.244441Z"
+    "checked_at": "2026-10-11T18:20:33.001720Z"
   },
   "SWR3BY": {
     "route": {
@@ -6474,7 +6474,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T18:00:53.832565Z"
+    "checked_at": "2026-10-11T18:20:33.001720Z"
   },
   "RYR1VD": {
     "route": {
@@ -13003,5 +13003,38 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-11T18:15:31.627910Z"
+  },
+  "EWG3V": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T18:20:33.001720Z"
+  },
+  "CCA958": {
+    "route": {
+      "fromCity": "Singapore",
+      "fromIata": "SIN",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-11T18:20:33.001720Z"
+  },
+  "CCA936": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-11T18:20:33.001720Z"
   }
 }
