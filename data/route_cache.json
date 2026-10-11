@@ -354,7 +354,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T15:55:23.982132Z"
+    "checked_at": "2026-10-11T16:15:29.317013Z"
   },
   "EZY71CX": {
     "route": {
@@ -3086,7 +3086,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T15:15:30.899126Z"
+    "checked_at": "2026-10-11T16:15:29.317013Z"
   },
   "DEHGB": {
     "route": null,
@@ -3880,7 +3880,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T16:55:23.924973Z"
+    "checked_at": "2026-10-11T16:15:29.317013Z"
   },
   "LGL9473": {
     "route": {
@@ -6416,17 +6416,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
-  },
-  "RYR90GK": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T16:10:36.921823Z"
   },
   "NSZ6HT": {
     "route": {
@@ -12893,5 +12882,60 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T16:10:30.580389Z"
+  },
+  "WZZ3GV": {
+    "route": {
+      "fromCity": "Cluj-Napoca",
+      "fromIata": "CLJ",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T16:15:29.317013Z"
+  },
+  "CFE27PM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T16:15:29.317013Z"
+  },
+  "SAS47D": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T16:15:29.317013Z"
+  },
+  "BTI3FL": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-11T16:15:29.317013Z"
+  },
+  "EJU16CF": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T16:15:29.317013Z"
   }
 }
