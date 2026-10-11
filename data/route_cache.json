@@ -4706,7 +4706,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-09T18:00:54.322604Z"
+    "checked_at": "2026-10-11T17:35:22.769924Z"
   },
   "BAW845": {
     "route": {
@@ -6434,28 +6434,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-11T07:45:32.205770Z"
-  },
-  "WMT969": {
-    "route": {
-      "fromCity": "Tirana",
-      "fromIata": "TIA",
-      "toCity": "Torp",
-      "toIata": "TRF",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-09T17:30:44.102863Z"
-  },
-  "EWG6YP": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T17:30:44.102863Z"
   },
   "BLX361": {
     "route": {
@@ -12937,5 +12915,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T17:30:41.314966Z"
+  },
+  "CFE7026": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T17:35:22.769924Z"
   }
 }
