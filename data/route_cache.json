@@ -6711,17 +6711,6 @@
     },
     "checked_at": "2026-10-10T13:50:31.552792Z"
   },
-  "EWG8602": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T07:55:27.334502Z"
-  },
   "DFATE": {
     "route": null,
     "checked_at": "2026-10-10T14:15:30.069294Z"
@@ -13252,5 +13241,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T07:55:22.965440Z"
+  },
+  "AHY063": {
+    "route": {
+      "fromCity": "Baku",
+      "fromIata": "GYD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-10-11T08:00:52.253167Z"
+  },
+  "WZZ3835": {
+    "route": {
+      "fromCity": "Skopje",
+      "fromIata": "SKP",
+      "toCity": "Friedrichshafen",
+      "toIata": "FDH",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T08:00:52.253167Z"
   }
 }
