@@ -6395,10 +6395,6 @@
     },
     "checked_at": "2026-10-10T11:55:23.405026Z"
   },
-  "CAT677": {
-    "route": null,
-    "checked_at": "2026-10-09T14:05:23.975568Z"
-  },
   "PGT685B": {
     "route": null,
     "checked_at": "2026-10-10T14:25:25.712100Z"
@@ -9619,7 +9615,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-10T13:40:30.499388Z"
+    "checked_at": "2026-10-11T14:10:34.490004Z"
   },
   "VLG14MZ": {
     "route": {
@@ -12763,5 +12759,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T14:05:23.943343Z"
+  },
+  "NSZ4502": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T14:10:34.490004Z"
+  },
+  "WZZ9502": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T14:10:34.490004Z"
+  },
+  "NSZ3582": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T14:10:34.490004Z"
+  },
+  "AOJ75J": {
+    "route": null,
+    "checked_at": "2026-10-11T14:10:34.490004Z"
   }
 }
