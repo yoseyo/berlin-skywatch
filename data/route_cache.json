@@ -3241,7 +3241,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T20:00:54.097340Z"
+    "checked_at": "2026-10-11T19:35:24.163640Z"
   },
   "CCA940": {
     "route": {
@@ -5460,17 +5460,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T16:40:29.927833Z"
-  },
-  "NOZ5EU": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-09T19:30:45.788045Z"
   },
   "RYR88JV": {
     "route": {
@@ -13017,5 +13006,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-11T19:28:19.212868Z"
+  },
+  "NSZ3304": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T19:35:24.163640Z"
+  },
+  "RYR7949": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T19:35:24.163640Z"
   }
 }
