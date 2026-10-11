@@ -1911,7 +1911,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T10:30:43.189996Z"
+    "checked_at": "2026-10-11T10:10:28.919160Z"
   },
   "EJU87YF": {
     "route": {
@@ -2168,7 +2168,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T09:55:22.793000Z"
+    "checked_at": "2026-10-11T10:10:28.919160Z"
   },
   "AEE2WD": {
     "route": {
@@ -6622,17 +6622,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T09:30:42.592552Z"
-  },
-  "FIN1701": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-09T10:05:24.721511Z"
   },
   "TAP3332": {
     "route": {
@@ -13183,5 +13172,31 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-11T10:00:51.761001Z"
+  },
+  "SAS10E": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T10:10:28.919160Z"
+  },
+  "SAS2678": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T10:10:28.919160Z"
+  },
+  "NJE682T": {
+    "route": null,
+    "checked_at": "2026-10-11T10:10:28.919160Z"
   }
 }
