@@ -725,7 +725,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T18:05:22.910360Z"
+    "checked_at": "2026-10-11T18:50:30.117273Z"
   },
   "IBE07MV": {
     "route": {
@@ -3020,7 +3020,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T18:55:22.611402Z"
+    "checked_at": "2026-10-11T18:50:30.117273Z"
   },
   "UAE98V": {
     "route": {
@@ -3138,7 +3138,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T14:10:32.124555Z"
+    "checked_at": "2026-10-11T18:50:30.117273Z"
   },
   "SAS63Z": {
     "route": {
@@ -4963,7 +4963,7 @@
   },
   "DISAG": {
     "route": null,
-    "checked_at": "2026-10-10T05:10:32.619167Z"
+    "checked_at": "2026-10-11T18:50:30.117273Z"
   },
   "LDX11": {
     "route": null,
@@ -5356,7 +5356,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-09T19:00:54.738345Z"
+    "checked_at": "2026-10-11T18:50:30.117273Z"
   },
   "BAW996G": {
     "route": {
@@ -13021,5 +13021,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-11T18:40:34.162578Z"
+  },
+  "WMT6363": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-11T18:50:30.117273Z"
+  },
+  "SAS1698": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T18:50:30.117273Z"
   }
 }
