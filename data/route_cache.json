@@ -3086,7 +3086,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-10T09:15:30.129960Z"
+    "checked_at": "2026-10-11T13:25:24.899874Z"
   },
   "EWG9SK": {
     "route": {
@@ -3517,17 +3517,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T09:05:23.698119Z"
-  },
-  "SEH875": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-09T13:25:23.644206Z"
   },
   "WZZ2706": {
     "route": {
@@ -5823,7 +5812,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T10:45:29.118327Z"
+    "checked_at": "2026-10-11T13:25:24.899874Z"
   },
   "RYR70FL": {
     "route": {
@@ -6438,21 +6427,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T11:50:32.961760Z"
-  },
-  "CFG4KC": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T13:25:23.644206Z"
-  },
-  "NJE590B": {
-    "route": null,
-    "checked_at": "2026-10-09T13:25:23.644206Z"
   },
   "RUK144": {
     "route": {
@@ -10751,7 +10725,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T18:55:22.611402Z"
+    "checked_at": "2026-10-11T13:25:24.899874Z"
   },
   "WZZ6LM": {
     "route": {
@@ -12832,5 +12806,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T13:20:31.505024Z"
+  },
+  "SEH874": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-11T13:25:24.899874Z"
+  },
+  "RYR26YA": {
+    "route": null,
+    "checked_at": "2026-10-11T13:25:24.899874Z"
   }
 }
