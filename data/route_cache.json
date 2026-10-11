@@ -497,7 +497,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-10T16:25:24.283378Z"
+    "checked_at": "2026-10-11T17:10:33.247439Z"
   },
   "WZZ98RS": {
     "route": null,
@@ -3186,7 +3186,7 @@
   },
   "EJU5087": {
     "route": null,
-    "checked_at": "2026-10-09T17:40:33.394503Z"
+    "checked_at": "2026-10-11T17:10:33.247439Z"
   },
   "DLH8WF": {
     "route": {
@@ -3836,7 +3836,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-09T17:45:29.467693Z"
+    "checked_at": "2026-10-11T17:10:33.247439Z"
   },
   "WZZ82": {
     "route": {
@@ -4384,17 +4384,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T17:45:31.432066Z"
-  },
-  "EWG55X": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T17:05:26.511478Z"
   },
   "DLH7PF": {
     "route": {
@@ -6456,28 +6445,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T16:30:42.215990Z"
-  },
-  "JTD561": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-09T17:05:26.511478Z"
-  },
-  "UAE61": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-09T17:10:31.716407Z"
   },
   "EJU58DM": {
     "route": {
@@ -12944,5 +12911,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T17:05:25.042163Z"
+  },
+  "RYR3884": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Beauvais",
+      "toIata": "BVA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T17:10:33.247439Z"
   }
 }
