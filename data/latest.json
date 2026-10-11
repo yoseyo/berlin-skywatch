@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-11T22:00:51.580801Z"
+  "flights": [
+    {
+      "callsign": "NSZ4KP",
+      "country": "Sweden",
+      "lat": 52.4926,
+      "lon": 12.825,
+      "altKm": 10.9,
+      "speedKmh": 826,
+      "heading": 356,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "JTD504",
+      "country": "Denmark",
+      "lat": 52.602,
+      "lon": 13.401,
+      "altKm": 11.5,
+      "speedKmh": 809,
+      "heading": 338,
+      "vertRateMs": 0,
+      "airline": "Jet Time",
+      "airlineCountry": "Denmark",
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-11T22:05:23.697579Z"
 }
