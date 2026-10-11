@@ -1,22 +1,35 @@
 {
   "flights": [
     {
+      "callsign": "EWG4EH",
+      "country": "Germany",
+      "lat": 52.333,
+      "lon": 13.436,
+      "altKm": 0.7,
+      "speedKmh": 331,
+      "heading": 228,
+      "vertRateMs": 7.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    },
+    {
       "callsign": "SXS8ER",
       "country": "Turkey",
-      "lat": 52.3246,
-      "lon": 13.9268,
-      "altKm": 1.8,
-      "speedKmh": 443,
-      "heading": 336,
-      "vertRateMs": -2.9,
+      "lat": 52.3954,
+      "lon": 13.6799,
+      "altKm": 0.7,
+      "speedKmh": 267,
+      "heading": 249,
+      "vertRateMs": -4.5,
       "airline": "SunExpress",
       "airlineCountry": "Turkey",
-      "fromCity": "Diyarbak\u0131r",
-      "fromIata": "DIY",
-      "toCity": "Antalya",
-      "toIata": "AYT",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-11T03:30:42.095862Z"
+  "updated_at": "2026-10-11T03:35:21.324504Z"
 }
