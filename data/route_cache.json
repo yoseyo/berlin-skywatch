@@ -1999,7 +1999,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T10:00:54.648315Z"
+    "checked_at": "2026-10-11T09:40:29.615070Z"
   },
   "KLM75C": {
     "route": {
@@ -4482,7 +4482,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-10-10T09:40:31.508796Z"
+    "checked_at": "2026-10-11T09:40:29.615070Z"
   },
   "EJU43CD": {
     "route": {
@@ -5448,7 +5448,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T08:35:24.775701Z"
+    "checked_at": "2026-10-11T09:40:29.615070Z"
   },
   "DISAG": {
     "route": null,
@@ -6633,28 +6633,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T09:00:55.928141Z"
-  },
-  "ETH3750": {
-    "route": {
-      "fromCity": "Li\u00e8ge",
-      "fromIata": "LGG",
-      "toCity": "Guangzhou (Huadu)",
-      "toIata": "CAN",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-10-09T09:35:25.893130Z"
-  },
-  "RYR924": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T09:35:25.893130Z"
   },
   "EJU79XD": {
     "route": {
@@ -13187,5 +13165,16 @@
   "GAF928": {
     "route": null,
     "checked_at": "2026-10-11T09:35:23.926647Z"
+  },
+  "THY1LP": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-11T09:40:29.615070Z"
   }
 }
