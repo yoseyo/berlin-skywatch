@@ -3604,7 +3604,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-10T15:10:32.706720Z"
+    "checked_at": "2026-10-11T14:50:31.754123Z"
   },
   "DLH2PM": {
     "route": {
@@ -4741,17 +4741,6 @@
     },
     "checked_at": "2026-10-11T08:45:30.234970Z"
   },
-  "THY40Y": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Montr\u00e9al",
-      "toIata": "YUL",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-09T14:50:31.251418Z"
-  },
   "EWG3AM": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5426,7 +5415,7 @@
   },
   "LHX3PP": {
     "route": null,
-    "checked_at": "2026-10-10T14:55:24.205487Z"
+    "checked_at": "2026-10-11T14:50:31.754123Z"
   },
   "RYR55VV": {
     "route": {
@@ -6431,21 +6420,6 @@
   "DMXIL": {
     "route": null,
     "checked_at": "2026-10-11T09:50:32.066499Z"
-  },
-  "AEE4570": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-09T14:50:31.251418Z"
-  },
-  "NJE270P": {
-    "route": null,
-    "checked_at": "2026-10-09T14:50:31.251418Z"
   },
   "LZB320": {
     "route": {
@@ -9702,7 +9676,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T14:20:31.347839Z"
+    "checked_at": "2026-10-11T14:50:31.754123Z"
   },
   "DMAAC": {
     "route": null,
@@ -12847,5 +12821,49 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-11T14:45:33.581801Z"
+  },
+  "BTI629": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-11T14:50:31.754123Z"
+  },
+  "BEL5XD": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-11T14:50:31.754123Z"
+  },
+  "EWG2Q": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T14:50:31.754123Z"
+  },
+  "CAT319": {
+    "route": {
+      "fromCity": "Aarhus",
+      "fromIata": "AAR",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-11T14:50:31.754123Z"
   }
 }
