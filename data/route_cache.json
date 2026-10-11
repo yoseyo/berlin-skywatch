@@ -1389,7 +1389,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T06:00:52.867220Z"
+    "checked_at": "2026-10-11T05:45:30.264367Z"
   },
   "LOT4WE": {
     "route": {
@@ -6762,28 +6762,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T04:40:30.704880Z"
-  },
-  "BTI28P": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-09T05:40:32.992100Z"
-  },
-  "RYR50XX": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Cagliari",
-      "toIata": "CAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T05:40:32.992100Z"
   },
   "JTD557": {
     "route": {
@@ -13371,5 +13349,60 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T05:40:30.152101Z"
+  },
+  "AUA90T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T05:45:30.264367Z"
+  },
+  "TVF801D": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-11T05:45:30.264367Z"
+  },
+  "VKG046": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Skiathos",
+      "toIata": "JSI",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-11T05:45:30.264367Z"
+  },
+  "EWG27P": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T05:45:30.264367Z"
+  },
+  "WZZ691": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T05:45:30.264367Z"
   }
 }
