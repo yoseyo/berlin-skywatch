@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T13:05:26.266340Z"
+    "checked_at": "2026-10-11T13:15:31.655458Z"
   },
   "CHX100": {
     "route": null,
@@ -2616,7 +2616,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T13:00:55.264193Z"
+    "checked_at": "2026-10-11T13:15:31.655458Z"
   },
   "CHX71": {
     "route": null,
@@ -5406,17 +5406,6 @@
     },
     "checked_at": "2026-10-09T15:25:23.769053Z"
   },
-  "THY79K": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "San Francisco",
-      "toIata": "SFO",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-09T13:10:32.476246Z"
-  },
   "RYR456B": {
     "route": {
       "fromCity": "Pisa",
@@ -7884,7 +7873,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T03:35:24.004335Z"
+    "checked_at": "2026-10-11T13:15:31.655458Z"
   },
   "EWG67J": {
     "route": {
@@ -12784,5 +12773,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-11T13:10:32.463949Z"
+  },
+  "ENT4UX": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-11T13:15:31.655458Z"
+  },
+  "WZZ4782": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T13:15:31.655458Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T13:15:31.655458Z"
   }
 }
