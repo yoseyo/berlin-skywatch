@@ -3847,7 +3847,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-09T16:15:32.639933Z"
+    "checked_at": "2026-10-11T15:25:23.995482Z"
   },
   "BEL3JZ": {
     "route": {
@@ -4899,17 +4899,6 @@
     },
     "checked_at": "2026-10-09T19:50:30.470697Z"
   },
-  "EJU74RM": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-09T15:20:31.496106Z"
-  },
   "ASL44H": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5269,17 +5258,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-10T17:55:23.244441Z"
-  },
-  "TAP3334": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-09T15:25:23.769053Z"
   },
   "RYR456B": {
     "route": {
@@ -6410,28 +6388,6 @@
     },
     "checked_at": "2026-10-11T14:45:33.581801Z"
   },
-  "EWG3GH": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T15:20:31.496106Z"
-  },
-  "CFG3NY": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T15:20:31.496106Z"
-  },
   "PWF1907": {
     "route": {
       "fromCity": "Berlin",
@@ -6463,7 +6419,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-09T15:40:33.851674Z"
+    "checked_at": "2026-10-11T15:25:23.995482Z"
   },
   "RYR7949": {
     "route": {
@@ -6485,7 +6441,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T07:55:21.523561Z"
+    "checked_at": "2026-10-11T15:25:23.995482Z"
   },
   "WZZ3XA": {
     "route": {
@@ -12851,5 +12807,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
+  },
+  "EJU35TP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T15:25:23.995482Z"
+  },
+  "AUA22S": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T15:25:23.995482Z"
+  },
+  "EJU69RD": {
+    "route": {
+      "fromCity": "Sharm el-Sheikh",
+      "fromIata": "SSH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T15:25:23.995482Z"
+  },
+  "PYR014": {
+    "route": null,
+    "checked_at": "2026-10-11T15:25:23.995482Z"
   }
 }
