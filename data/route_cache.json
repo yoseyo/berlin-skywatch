@@ -148,7 +148,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T14:30:43.333017Z"
+    "checked_at": "2026-10-11T14:30:44.693999Z"
   },
   "LOT279": {
     "route": {
@@ -192,7 +192,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T14:00:52.563580Z"
+    "checked_at": "2026-10-11T14:30:44.693999Z"
   },
   "SAS81L": {
     "route": {
@@ -1793,7 +1793,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T07:30:41.672211Z"
+    "checked_at": "2026-10-11T14:30:44.693999Z"
   },
   "BAW42PB": {
     "route": {
@@ -2998,7 +2998,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T14:25:25.712100Z"
+    "checked_at": "2026-10-11T14:30:44.693999Z"
   },
   "ICE15M": {
     "route": {
@@ -4717,7 +4717,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-10T11:55:23.405026Z"
+    "checked_at": "2026-10-11T14:30:44.693999Z"
   },
   "THY3TR": {
     "route": {
@@ -12822,5 +12822,42 @@
   "N87VS": {
     "route": null,
     "checked_at": "2026-10-11T14:25:23.667647Z"
+  },
+  "NJE491N": {
+    "route": null,
+    "checked_at": "2026-10-11T14:30:44.693999Z"
+  },
+  "SXS9QQ": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-11T14:30:44.693999Z"
+  },
+  "WZZ9EN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T14:30:44.693999Z"
+  },
+  "RYR33BL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T14:30:44.693999Z"
   }
 }
