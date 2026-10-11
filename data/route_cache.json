@@ -5426,7 +5426,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T14:20:31.347839Z"
+    "checked_at": "2026-10-11T13:45:28.996755Z"
   },
   "RYR58ZM": {
     "route": {
@@ -6427,17 +6427,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T04:05:23.241327Z"
-  },
-  "EWG2XZ": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T13:40:32.986456Z"
   },
   "CFG3UX": {
     "route": {
@@ -12814,5 +12803,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-11T13:35:25.652180Z"
+  },
+  "BEL9CK": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-11T13:45:28.996755Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-11T13:45:28.996755Z"
   }
 }
