@@ -1525,7 +1525,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T15:00:53.609247Z"
+    "checked_at": "2026-10-11T10:15:29.622119Z"
   },
   "NOZ2XM": {
     "route": {
@@ -2043,7 +2043,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T10:15:33.918956Z"
+    "checked_at": "2026-10-11T10:15:29.622119Z"
   },
   "KLM1775": {
     "route": {
@@ -2965,7 +2965,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T17:35:25.660798Z"
+    "checked_at": "2026-10-11T10:15:29.622119Z"
   },
   "THY4AY": {
     "route": {
@@ -3182,7 +3182,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T08:35:24.775701Z"
+    "checked_at": "2026-10-11T10:15:29.622119Z"
   },
   "CHH490": {
     "route": {
@@ -3822,17 +3822,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-10T12:00:55.085948Z"
-  },
-  "WZZ4782": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Skopje",
-      "toIata": "SKP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-09T10:10:34.243954Z"
   },
   "CFE93AU": {
     "route": {
@@ -6623,32 +6612,6 @@
     },
     "checked_at": "2026-10-11T09:30:42.592552Z"
   },
-  "TAP3332": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-09T10:10:34.243954Z"
-  },
-  "LBT232": {
-    "route": {
-      "fromCity": "Tunis",
-      "fromIata": "TUN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-09T10:10:34.243954Z"
-  },
-  "PTO7746": {
-    "route": null,
-    "checked_at": "2026-10-09T10:10:34.243954Z"
-  },
   "EJU49LD": {
     "route": {
       "fromCity": "Barcelona",
@@ -6747,7 +6710,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T15:40:32.471243Z"
+    "checked_at": "2026-10-11T10:15:29.622119Z"
   },
   "FIN2WC": {
     "route": {
@@ -13198,5 +13161,27 @@
   "NJE682T": {
     "route": null,
     "checked_at": "2026-10-11T10:10:28.919160Z"
+  },
+  "MGH724": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-11T10:15:29.622119Z"
+  },
+  "NOZ1871": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-11T10:15:29.622119Z"
   }
 }
