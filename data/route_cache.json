@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-10T17:45:31.432066Z"
+    "checked_at": "2026-10-11T07:35:22.781516Z"
   },
   "KLM84H": {
     "route": {
@@ -3762,7 +3762,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-10T07:00:55.947957Z"
+    "checked_at": "2026-10-11T07:35:22.781516Z"
   },
   "BAW986G": {
     "route": {
@@ -5959,7 +5959,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T04:50:29.817471Z"
+    "checked_at": "2026-10-11T07:35:22.781516Z"
   },
   "TAP3335": {
     "route": {
@@ -6732,17 +6732,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T07:30:44.644957Z"
-  },
-  "SAS23G": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-09T07:30:45.820685Z"
   },
   "EJU91FL": {
     "route": {
@@ -13263,5 +13252,49 @@
   "NJE571Y": {
     "route": null,
     "checked_at": "2026-10-11T07:30:44.644957Z"
+  },
+  "NSZ3LZ": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T07:35:22.781516Z"
+  },
+  "FHY1274": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-11T07:35:22.781516Z"
+  },
+  "HYS408": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "HiSky Europe",
+      "airlineCountry": "Romania"
+    },
+    "checked_at": "2026-10-11T07:35:22.781516Z"
+  },
+  "WZZ2CE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T07:35:22.781516Z"
   }
 }
