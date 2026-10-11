@@ -780,7 +780,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-10T18:15:29.149538Z"
+    "checked_at": "2026-10-11T19:15:30.270191Z"
   },
   "SWR8X": {
     "route": {
@@ -3221,17 +3221,6 @@
     },
     "checked_at": "2026-10-11T18:05:25.064252Z"
   },
-  "SWR979E": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-09T19:10:33.892830Z"
-  },
   "EWG9QC": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -4039,17 +4028,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-10T10:05:23.891185Z"
-  },
-  "RYR93QN": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T19:10:33.892830Z"
   },
   "BTI9TZ": {
     "route": {
@@ -6387,28 +6365,6 @@
   "FCK2FT": {
     "route": null,
     "checked_at": "2026-10-11T11:10:32.331006Z"
-  },
-  "CFG1MP": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T19:10:33.892830Z"
-  },
-  "RYR62EQ": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Rzesz\u00f3w",
-      "toIata": "RZE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T19:10:33.892830Z"
   },
   "RAM222B": {
     "route": {
@@ -10037,7 +9993,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T20:45:33.406846Z"
+    "checked_at": "2026-10-11T19:15:30.270191Z"
   },
   "RYR9TY": {
     "route": {
@@ -13065,5 +13021,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T19:10:33.771368Z"
+  },
+  "BBG271": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Bluebird Airways (BZ)",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-11T19:15:30.270191Z"
+  },
+  "BTI89U": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-11T19:15:30.270191Z"
+  },
+  "EJU15BJ": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-11T19:15:30.270191Z"
+  },
+  "RYR3885": {
+    "route": {
+      "fromCity": "Olsztyn",
+      "fromIata": "SZY",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T19:15:30.270191Z"
   }
 }
