@@ -4407,17 +4407,6 @@
     },
     "checked_at": "2026-10-11T11:20:31.912063Z"
   },
-  "LHX6T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T14:30:48.652402Z"
-  },
   "RYR6FD": {
     "route": {
       "fromCity": "London",
@@ -4752,17 +4741,6 @@
     },
     "checked_at": "2026-10-11T08:45:30.234970Z"
   },
-  "BEL9SZ": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-09T14:30:48.652402Z"
-  },
   "THY40Y": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -4934,7 +4912,7 @@
       "airlineName": "Easyjet Switzerland",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-09T18:30:45.860527Z"
+    "checked_at": "2026-10-11T14:35:22.490065Z"
   },
   "SXS2WP": {
     "route": {
@@ -6431,28 +6409,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-11T11:35:24.064277Z"
-  },
-  "CSN6041": {
-    "route": {
-      "fromCity": "\u00dcr\u00fcmqi",
-      "fromIata": "URC",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-09T14:30:48.652402Z"
-  },
-  "RYR62XF": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T14:30:48.652402Z"
   },
   "RJA138": {
     "route": {
@@ -12859,5 +12815,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T14:30:44.693999Z"
+  },
+  "SEH875": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-11T14:35:22.490065Z"
+  },
+  "RYR31MR": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T14:35:22.490065Z"
+  },
+  "NOZ1WC": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-11T14:35:22.490065Z"
   }
 }
