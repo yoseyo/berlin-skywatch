@@ -6428,28 +6428,6 @@
     },
     "checked_at": "2026-10-11T11:50:32.961760Z"
   },
-  "RUK144": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-09T13:30:45.790587Z"
-  },
-  "DLH715": {
-    "route": {
-      "fromCity": "Tokyo",
-      "fromIata": "HND",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-09T13:30:45.790587Z"
-  },
   "EWG3PD": {
     "route": {
       "fromCity": "Faro",
@@ -12821,5 +12799,31 @@
   "RYR26YA": {
     "route": null,
     "checked_at": "2026-10-11T13:25:24.899874Z"
+  },
+  "NSZ3301": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T13:35:25.652180Z"
+  },
+  "DMLED": {
+    "route": null,
+    "checked_at": "2026-10-11T13:35:25.652180Z"
+  },
+  "SWR9GE": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-11T13:35:25.652180Z"
   }
 }
