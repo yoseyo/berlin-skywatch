@@ -1738,7 +1738,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-10T08:05:22.535954Z"
+    "checked_at": "2026-10-11T08:05:24.052456Z"
   },
   "DLH175": {
     "route": {
@@ -1782,7 +1782,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T08:00:53.560016Z"
+    "checked_at": "2026-10-11T08:05:24.052456Z"
   },
   "EJU32JG": {
     "route": {
@@ -2491,7 +2491,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T08:05:22.535954Z"
+    "checked_at": "2026-10-11T08:05:24.052456Z"
   },
   "DLH6UT": {
     "route": {
@@ -4515,7 +4515,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T07:55:21.523561Z"
+    "checked_at": "2026-10-11T08:05:24.052456Z"
   },
   "KLM31X": {
     "route": {
@@ -4526,7 +4526,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T07:45:30.567035Z"
+    "checked_at": "2026-10-11T08:05:24.052456Z"
   },
   "DLH9MA": {
     "route": {
@@ -6714,28 +6714,6 @@
   "DFATE": {
     "route": null,
     "checked_at": "2026-10-10T14:15:30.069294Z"
-  },
-  "RYR18RV": {
-    "route": {
-      "fromCity": "Torp",
-      "fromIata": "TRF",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T08:00:53.942540Z"
-  },
-  "RYR39DH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T08:00:53.942540Z"
   },
   "BTI629": {
     "route": {
@@ -13263,5 +13241,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-11T08:00:52.253167Z"
+  },
+  "DLH6YW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-11T08:05:24.052456Z"
+  },
+  "SAS67W": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T08:05:24.052456Z"
+  },
+  "WZZ2HD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Tuzla",
+      "toIata": "TZL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-11T08:05:24.052456Z"
   }
 }
