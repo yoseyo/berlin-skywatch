@@ -2756,7 +2756,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-09T19:10:33.892830Z"
+    "checked_at": "2026-10-11T10:25:26.070139Z"
   },
   "AUA22S": {
     "route": {
@@ -3915,17 +3915,6 @@
     },
     "checked_at": "2026-10-09T15:55:26.680903Z"
   },
-  "CFE27PM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-09T10:20:34.430649Z"
-  },
   "EWG67A": {
     "route": {
       "fromCity": "Gran Canaria Island",
@@ -4215,17 +4204,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-11T10:00:51.761001Z"
-  },
-  "CFE34E": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-09T10:20:34.430649Z"
   },
   "FIN6PZ": {
     "route": {
@@ -6612,42 +6590,9 @@
     },
     "checked_at": "2026-10-10T08:20:32.560001Z"
   },
-  "AAL161": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "American Airlines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-09T10:20:34.430649Z"
-  },
-  "FIN1DF": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-09T10:20:34.430649Z"
-  },
   "CHX35": {
     "route": null,
     "checked_at": "2026-10-10T07:00:55.947957Z"
-  },
-  "RYR4FU": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-09T10:20:34.430649Z"
   },
   "DERDH": {
     "route": null,
@@ -9139,7 +9084,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-10T06:40:33.146458Z"
+    "checked_at": "2026-10-11T10:25:26.070139Z"
   },
   "RUK7546": {
     "route": {
@@ -13161,5 +13106,20 @@
   "DEMSI": {
     "route": null,
     "checked_at": "2026-10-11T10:20:30.934402Z"
+  },
+  "RYR8201": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-11T10:25:26.070139Z"
+  },
+  "OYZCC": {
+    "route": null,
+    "checked_at": "2026-10-11T10:25:26.070139Z"
   }
 }
