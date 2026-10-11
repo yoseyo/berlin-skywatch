@@ -2539,7 +2539,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-10T11:20:31.846369Z"
+    "checked_at": "2026-10-11T11:40:32.560897Z"
   },
   "MSR731": {
     "route": {
@@ -3439,7 +3439,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-10T12:15:32.813486Z"
+    "checked_at": "2026-10-11T11:40:32.560897Z"
   },
   "RYR3EM": {
     "route": {
@@ -13008,5 +13008,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T11:35:24.064277Z"
+  },
+  "NSZ4501": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T11:40:32.560897Z"
+  },
+  "SDR17RA": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-11T11:40:32.560897Z"
   }
 }
