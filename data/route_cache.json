@@ -732,14 +732,14 @@
   },
   "DLH1XN": {
     "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Rome",
+      "toIata": "FCO",
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T18:50:30.117273Z"
+    "checked_at": "2026-10-12T18:15:30.184203Z"
   },
   "IBE07MV": {
     "route": {
@@ -806,17 +806,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-12T18:00:56.117279Z"
-  },
-  "SAS55L": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T18:10:33.974852Z"
   },
   "DLH202": {
     "route": {
@@ -3211,7 +3200,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T18:05:25.064252Z"
+    "checked_at": "2026-10-12T18:15:30.184203Z"
   },
   "EWG9QC": {
     "route": {
@@ -6261,18 +6250,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-10-11T18:00:54.779055Z"
-  },
-  "TGZ781": {
-    "route": {
-      "fromCity": "Tbilisi",
-      "fromIata": "TBS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-10-10T18:15:29.149538Z"
+    "checked_at": "2026-10-12T18:15:30.184203Z"
   },
   "EJU5424": {
     "route": null,
@@ -13000,5 +12978,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-12T18:10:31.648443Z"
+  },
+  "RYR1CZ": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T18:15:30.184203Z"
+  },
+  "ISR254": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-12T18:15:30.184203Z"
   }
 }
