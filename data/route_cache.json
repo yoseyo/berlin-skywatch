@@ -915,7 +915,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-11T19:45:29.902574Z"
+    "checked_at": "2026-10-12T19:30:43.666239Z"
   },
   "BEL1ZK": {
     "route": {
@@ -3211,7 +3211,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T19:35:24.163640Z"
+    "checked_at": "2026-10-12T19:30:43.666239Z"
   },
   "CCA940": {
     "route": {
@@ -6284,39 +6284,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-11T19:00:53.207457Z"
-  },
-  "EJU14LE": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T19:30:42.803965Z"
-  },
-  "RYR41KN": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T19:30:42.803965Z"
-  },
-  "TGZ782": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tbilisi",
-      "toIata": "TBS",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-10-10T19:30:42.803965Z"
   },
   "NSZ3299": {
     "route": {
@@ -9913,7 +9880,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T21:10:32.855548Z"
+    "checked_at": "2026-10-12T19:30:43.666239Z"
   },
   "EJU49LD": {
     "route": {
@@ -13033,5 +13000,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T19:25:23.711664Z"
+  },
+  "RYR28BE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T19:30:43.666239Z"
+  },
+  "RYR67EU": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T19:30:43.666239Z"
   }
 }
