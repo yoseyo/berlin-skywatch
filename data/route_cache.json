@@ -504,7 +504,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-11T17:10:33.247439Z"
+    "checked_at": "2026-10-12T16:55:24.060785Z"
   },
   "WZZ98RS": {
     "route": {
@@ -585,7 +585,7 @@
   },
   "TVF89NN": {
     "route": null,
-    "checked_at": "2026-10-11T19:25:23.033044Z"
+    "checked_at": "2026-10-12T16:55:24.060785Z"
   },
   "RYR8RZ": {
     "route": {
@@ -3335,15 +3335,8 @@
     "checked_at": "2026-10-12T14:35:24.709075Z"
   },
   "AFR17RZ": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-11T16:45:29.530154Z"
+    "route": null,
+    "checked_at": "2026-10-12T16:55:24.060785Z"
   },
   "TAP4BE": {
     "route": {
@@ -4031,17 +4024,6 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-10-11T09:40:29.615070Z"
-  },
-  "RYR3ZW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T16:55:23.412736Z"
   },
   "EWG8MD": {
     "route": {
@@ -6243,10 +6225,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-11T14:40:31.882545Z"
-  },
-  "SVI8222": {
-    "route": null,
-    "checked_at": "2026-10-10T16:55:23.412736Z"
   },
   "NSZ4365": {
     "route": {
@@ -12988,5 +12966,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-12T16:50:34.286077Z"
+  },
+  "EWG7ZP": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T16:55:24.060785Z"
   }
 }
