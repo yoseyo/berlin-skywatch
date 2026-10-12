@@ -1547,7 +1547,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-11T07:00:51.263570Z"
+    "checked_at": "2026-10-12T06:55:25.672856Z"
   },
   "DLH2NL": {
     "route": {
@@ -1591,7 +1591,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-11T07:15:29.966068Z"
+    "checked_at": "2026-10-12T06:55:25.672856Z"
   },
   "RYR594F": {
     "route": {
@@ -2844,7 +2844,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-10T11:50:31.226463Z"
+    "checked_at": "2026-10-12T06:55:25.672856Z"
   },
   "WZZ3EA": {
     "route": {
@@ -3373,7 +3373,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T14:20:34.854611Z"
+    "checked_at": "2026-10-12T06:55:25.672856Z"
   },
   "WZZ18DM": {
     "route": {
@@ -3516,7 +3516,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T07:00:55.947957Z"
+    "checked_at": "2026-10-12T06:55:25.672856Z"
   },
   "DLH880": {
     "route": {
@@ -6284,28 +6284,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-11T06:40:30.448342Z"
-  },
-  "CFG1RD": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-10T06:55:25.540981Z"
-  },
-  "RYR60RF": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T06:55:25.540981Z"
   },
   "EJU73KU": {
     "route": {
@@ -13115,5 +13093,35 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-12T06:50:32.846420Z"
+  },
+  "THY1LZ": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-12T06:55:25.672856Z"
+  },
+  "DMS2HR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saarbr\u00fccken",
+      "toIata": "SCN",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-10-12T06:55:25.672856Z"
+  },
+  "DFEFY": {
+    "route": null,
+    "checked_at": "2026-10-12T06:55:25.672856Z"
+  },
+  "ATV103": {
+    "route": null,
+    "checked_at": "2026-10-12T06:55:25.672856Z"
   }
 }
