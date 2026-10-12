@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-12T22:15:31.422893Z"
+  "flights": [
+    {
+      "callsign": "GJT2XJ",
+      "country": "Lithuania",
+      "lat": 52.1285,
+      "lon": 13.9611,
+      "altKm": 11.5,
+      "speedKmh": 751,
+      "heading": 65,
+      "vertRateMs": 0,
+      "airline": "Gestion Aerea Ajecutiva",
+      "airlineCountry": "Spain",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-12T22:20:32.027619Z"
 }

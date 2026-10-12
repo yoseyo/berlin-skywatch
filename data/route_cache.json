@@ -6344,17 +6344,6 @@
     },
     "checked_at": "2026-10-12T06:15:30.158587Z"
   },
-  "SAS7726": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T22:20:31.283451Z"
-  },
   "SAS61W": {
     "route": {
       "fromCity": "Souda",
@@ -12975,5 +12964,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T21:55:23.127342Z"
+  },
+  "GJT2XJ": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Gestion Aerea Ajecutiva",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-12T22:20:32.027619Z"
   }
 }
