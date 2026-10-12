@@ -229,7 +229,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-11T15:00:55.335006Z"
+    "checked_at": "2026-10-12T15:20:36.597854Z"
   },
   "KLM1779": {
     "route": {
@@ -284,7 +284,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-11T15:20:29.300156Z"
+    "checked_at": "2026-10-12T15:20:36.597854Z"
   },
   "FIN79T": {
     "route": {
@@ -332,7 +332,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-11T15:20:29.300156Z"
+    "checked_at": "2026-10-12T15:20:36.597854Z"
   },
   "LHX194": {
     "route": {
@@ -4721,7 +4721,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-11T14:55:24.089265Z"
+    "checked_at": "2026-10-12T15:20:36.597854Z"
   },
   "AFR64PU": {
     "route": {
@@ -5540,7 +5540,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T15:25:23.995482Z"
+    "checked_at": "2026-10-12T15:20:36.597854Z"
   },
   "RYR63VQ": {
     "route": {
@@ -6184,7 +6184,7 @@
   },
   "DMYHG": {
     "route": null,
-    "checked_at": "2026-10-11T07:00:51.263570Z"
+    "checked_at": "2026-10-12T15:20:36.597854Z"
   },
   "EJU83ZK": {
     "route": {
@@ -6240,10 +6240,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "DMIDT": {
-    "route": null,
-    "checked_at": "2026-10-10T15:20:32.405366Z"
   },
   "RYR86NA": {
     "route": {
@@ -12951,5 +12947,31 @@
   "SXS674": {
     "route": null,
     "checked_at": "2026-10-12T15:15:32.758556Z"
+  },
+  "RYR11CP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T15:20:36.597854Z"
+  },
+  "RYR57AE": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T15:20:36.597854Z"
+  },
+  "VJT440": {
+    "route": null,
+    "checked_at": "2026-10-12T15:20:36.597854Z"
   }
 }
