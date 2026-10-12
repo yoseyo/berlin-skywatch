@@ -559,7 +559,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T16:50:33.494604Z"
+    "checked_at": "2026-10-12T16:45:31.576667Z"
   },
   "LHX195": {
     "route": {
@@ -4830,7 +4830,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T17:00:54.003020Z"
+    "checked_at": "2026-10-12T16:45:31.576667Z"
   },
   "DLH3X": {
     "route": {
@@ -8062,7 +8062,7 @@
   },
   "GAF928": {
     "route": null,
-    "checked_at": "2026-10-11T09:35:23.926647Z"
+    "checked_at": "2026-10-12T16:45:31.576667Z"
   },
   "THY1LP": {
     "route": {
@@ -12977,5 +12977,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T16:40:33.251782Z"
+  },
+  "ENT1XP": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-12T16:45:31.576667Z"
+  },
+  "TVF51KY": {
+    "route": {
+      "fromCity": "Nantes",
+      "fromIata": "NTE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-12T16:45:31.576667Z"
   }
 }
