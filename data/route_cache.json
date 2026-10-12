@@ -5529,7 +5529,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T15:25:23.995482Z"
+    "checked_at": "2026-10-12T15:25:24.230183Z"
   },
   "EWG41W": {
     "route": {
@@ -5573,7 +5573,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T15:20:29.300156Z"
+    "checked_at": "2026-10-12T15:25:24.230183Z"
   },
   "EJU38DP": {
     "route": {
@@ -5746,7 +5746,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T15:10:32.696417Z"
+    "checked_at": "2026-10-12T15:25:24.230183Z"
   },
   "SAS2690": {
     "route": {
@@ -8531,7 +8531,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T10:40:29.293354Z"
+    "checked_at": "2026-10-12T15:25:24.230183Z"
   },
   "OYJWM": {
     "route": null,
@@ -12973,5 +12973,31 @@
   "VJT440": {
     "route": null,
     "checked_at": "2026-10-12T15:20:36.597854Z"
+  },
+  "SAS23G": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T15:25:24.230183Z"
+  },
+  "RYR98AR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T15:25:24.230183Z"
+  },
+  "PYR006": {
+    "route": null,
+    "checked_at": "2026-10-12T15:25:24.230183Z"
   }
 }
