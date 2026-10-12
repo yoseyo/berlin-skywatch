@@ -4273,7 +4273,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-11T14:30:44.693999Z"
+    "checked_at": "2026-10-12T12:45:29.720408Z"
   },
   "THY3TR": {
     "route": {
@@ -6198,17 +6198,6 @@
     "route": null,
     "checked_at": "2026-10-12T07:50:33.874732Z"
   },
-  "SDR16YT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T12:45:28.689339Z"
-  },
   "VLG961": {
     "route": {
       "fromCity": "Tenerife",
@@ -6262,7 +6251,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-11T07:25:23.154985Z"
+    "checked_at": "2026-10-12T12:45:29.720408Z"
   },
   "SAS7312": {
     "route": {
@@ -13024,5 +13013,16 @@
   "DEICO": {
     "route": null,
     "checked_at": "2026-10-12T12:35:23.791596Z"
+  },
+  "NOZ1105": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-12T12:45:29.720408Z"
   }
 }
