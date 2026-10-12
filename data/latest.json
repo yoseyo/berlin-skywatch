@@ -1,31 +1,25 @@
 {
   "flights": [
     {
-      "callsign": "EJU34BQ",
-      "country": "Austria",
-      "lat": 52.4086,
-      "lon": 13.7354,
+      "callsign": "GAF626",
+      "country": "Germany",
+      "lat": 52.4223,
+      "lon": 13.7131,
       "altKm": 0.9,
-      "speedKmh": 297,
+      "speedKmh": 335,
       "heading": 249,
-      "vertRateMs": -3.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
+      "vertRateMs": -5.2,
+      "category": "jet"
     },
     {
       "callsign": "IBE0787",
       "country": "Spain",
-      "lat": 52.37,
-      "lon": 13.884,
-      "altKm": 1.1,
-      "speedKmh": 434,
-      "heading": 14,
-      "vertRateMs": -6.5,
+      "lat": 52.357,
+      "lon": 13.5172,
+      "altKm": 0.1,
+      "speedKmh": 242,
+      "heading": 249,
+      "vertRateMs": -3.2,
       "airline": "Iberia Airlines",
       "airlineCountry": "Spain",
       "fromCity": "Madrid",
@@ -33,24 +27,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "DLH4T",
-      "country": "Germany",
-      "lat": 52.3816,
-      "lon": 13.5435,
-      "altKm": 0.2,
-      "speedKmh": 267,
-      "heading": 249,
-      "vertRateMs": -3.9,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-12T20:55:24.766260Z"
+  "updated_at": "2026-10-12T21:00:55.252020Z"
 }
