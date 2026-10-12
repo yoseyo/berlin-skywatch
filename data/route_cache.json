@@ -2550,7 +2550,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T13:10:32.463949Z"
+    "checked_at": "2026-10-12T12:55:28.853697Z"
   },
   "SAS1678": {
     "route": {
@@ -6209,17 +6209,6 @@
     },
     "checked_at": "2026-10-12T08:35:26.152092Z"
   },
-  "AAL343": {
-    "route": {
-      "fromCity": "Charlotte",
-      "fromIata": "CLT",
-      "toCity": "San Francisco",
-      "toIata": "SFO",
-      "airlineName": "American Airlines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-10T12:55:23.858376Z"
-  },
   "SAS44A": {
     "route": {
       "fromCity": "Gran Canaria Island",
@@ -9396,7 +9385,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-11T13:10:32.463949Z"
+    "checked_at": "2026-10-12T12:55:28.853697Z"
   },
   "ENT4UX": {
     "route": {
@@ -13035,5 +13024,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T12:50:39.741288Z"
+  },
+  "PGT5050": {
+    "route": {
+      "fromCity": "Aarhus",
+      "fromIata": "AAR",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-12T12:55:28.853697Z"
   }
 }
