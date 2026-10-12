@@ -4368,7 +4368,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-11T17:35:22.769924Z"
+    "checked_at": "2026-10-12T17:25:25.541515Z"
   },
   "BAW845": {
     "route": {
@@ -6247,17 +6247,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-12T08:35:26.152092Z"
-  },
-  "THY3355": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ANK",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-10T17:25:23.401231Z"
   },
   "THY49T": {
     "route": {
@@ -12974,5 +12963,16 @@
   "JTD305": {
     "route": null,
     "checked_at": "2026-10-12T17:20:33.651422Z"
+  },
+  "RYR9SW": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T17:25:25.541515Z"
   }
 }
