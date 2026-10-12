@@ -1422,7 +1422,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T06:05:22.596857Z"
+    "checked_at": "2026-10-12T06:00:54.738934Z"
   },
   "RYR120T": {
     "route": {
@@ -1492,7 +1492,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T06:15:30.602452Z"
+    "checked_at": "2026-10-12T06:00:54.738934Z"
   },
   "SWR97Y": {
     "route": {
@@ -3105,7 +3105,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-11T06:00:53.999157Z"
+    "checked_at": "2026-10-12T06:00:54.738934Z"
   },
   "SAS695": {
     "route": {
@@ -3906,7 +3906,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-10T06:00:52.867220Z"
+    "checked_at": "2026-10-12T06:00:54.738934Z"
   },
   "ASL19P": {
     "route": {
@@ -5524,17 +5524,6 @@
     },
     "checked_at": "2026-10-10T19:05:24.104020Z"
   },
-  "RYR99FP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T06:00:52.867220Z"
-  },
   "EJU93RY": {
     "route": {
       "fromCity": "London",
@@ -6294,7 +6283,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-11T06:10:28.789864Z"
+    "checked_at": "2026-10-12T06:00:54.738934Z"
   },
   "TCTSM": {
     "route": null,
@@ -13093,5 +13082,27 @@
   "VKG130": {
     "route": null,
     "checked_at": "2026-10-12T05:55:22.650338Z"
+  },
+  "NSZ3754": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Ljubljana",
+      "toIata": "LJU",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T06:00:54.738934Z"
+  },
+  "NSZ3374": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T06:00:54.738934Z"
   }
 }
