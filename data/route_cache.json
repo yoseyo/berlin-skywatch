@@ -6283,7 +6283,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-11T20:30:43.880881Z"
+    "checked_at": "2026-10-12T20:15:30.089370Z"
   },
   "SFG55D": {
     "route": null,
@@ -9476,7 +9476,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T19:15:30.270191Z"
+    "checked_at": "2026-10-12T20:15:30.089370Z"
   },
   "RYR3885": {
     "route": {
@@ -13026,5 +13026,49 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-12T20:10:31.534430Z"
+  },
+  "BTI4XH": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-12T20:15:30.089370Z"
+  },
+  "EJU98HY": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T20:15:30.089370Z"
+  },
+  "EJU46TQ": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T20:15:30.089370Z"
+  },
+  "SWT9ER": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Swiftair",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-12T20:15:30.089370Z"
   }
 }
