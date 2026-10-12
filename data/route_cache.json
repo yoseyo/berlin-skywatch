@@ -1121,7 +1121,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-11T04:35:22.442150Z"
+    "checked_at": "2026-10-12T04:15:37.418893Z"
   },
   "RYR58RA": {
     "route": {
@@ -1705,7 +1705,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T11:10:32.331006Z"
+    "checked_at": "2026-10-12T04:15:37.418893Z"
   },
   "NOZ3JH": {
     "route": {
@@ -2811,7 +2811,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-11T04:20:30.455786Z"
+    "checked_at": "2026-10-12T04:15:37.418893Z"
   },
   "UAL962": {
     "route": {
@@ -6351,17 +6351,6 @@
     },
     "checked_at": "2026-10-11T13:15:31.655458Z"
   },
-  "RYR353": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T04:15:28.965525Z"
-  },
   "QTR24V": {
     "route": {
       "fromCity": "Doha",
@@ -9794,7 +9783,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-11T04:05:23.241327Z"
+    "checked_at": "2026-10-12T04:15:37.418893Z"
   },
   "CCA431": {
     "route": {
@@ -13106,5 +13095,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T04:05:24.145536Z"
+  },
+  "EJU5015": {
+    "route": null,
+    "checked_at": "2026-10-12T04:15:37.418893Z"
+  },
+  "SXS748": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-12T04:15:37.418893Z"
   }
 }
