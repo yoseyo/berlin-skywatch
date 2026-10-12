@@ -2190,7 +2190,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-11T10:50:34.029469Z"
+    "checked_at": "2026-10-12T10:45:34.388252Z"
   },
   "DLH2HH": {
     "route": {
@@ -2943,7 +2943,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-11T10:35:24.527599Z"
+    "checked_at": "2026-10-12T10:45:34.388252Z"
   },
   "WMT7WQ": {
     "route": {
@@ -3068,7 +3068,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-10-11T08:20:31.810530Z"
+    "checked_at": "2026-10-12T10:45:34.388252Z"
   },
   "EJU5088": {
     "route": null,
@@ -3918,17 +3918,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-11T11:15:29.248099Z"
-  },
-  "RYR11CP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T10:45:29.118327Z"
   },
   "SAS80D": {
     "route": {
@@ -5951,17 +5940,6 @@
     },
     "checked_at": "2026-10-11T20:35:24.388723Z"
   },
-  "RYR44PB": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T10:45:29.118327Z"
-  },
   "RYR7YZ": {
     "route": {
       "fromCity": "Valencia",
@@ -6270,39 +6248,6 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
-  },
-  "WZZ54P": {
-    "route": {
-      "fromCity": "Leeds",
-      "fromIata": "LBA",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-10T10:40:32.288371Z"
-  },
-  "NSZ2MP": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T10:45:29.118327Z"
-  },
-  "CTN384E": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-10T10:45:29.118327Z"
   },
   "BTI4VP": {
     "route": {
@@ -13156,5 +13101,27 @@
   "CAT744": {
     "route": null,
     "checked_at": "2026-10-12T10:40:30.003890Z"
+  },
+  "RYR81YP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T10:45:34.388252Z"
+  },
+  "RYR74EM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T10:45:34.388252Z"
   }
 }
