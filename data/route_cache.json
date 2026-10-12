@@ -2256,7 +2256,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T11:55:23.834376Z"
+    "checked_at": "2026-10-12T11:40:31.283466Z"
   },
   "RYR7BV": {
     "route": {
@@ -2399,7 +2399,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-11T12:55:24.035879Z"
+    "checked_at": "2026-10-12T11:40:31.283466Z"
   },
   "PGT93T": {
     "route": {
@@ -2675,7 +2675,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-10T19:40:34.510189Z"
+    "checked_at": "2026-10-12T11:40:31.283466Z"
   },
   "EJU69MZ": {
     "route": null,
@@ -5587,17 +5587,6 @@
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
   },
-  "RYR2NB": {
-    "route": {
-      "fromCity": "Torp",
-      "fromIata": "TRF",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T11:35:27.335753Z"
-  },
   "DMXIL": {
     "route": null,
     "checked_at": "2026-10-11T09:50:32.066499Z"
@@ -6274,17 +6263,6 @@
   "DMTWH": {
     "route": null,
     "checked_at": "2026-10-12T07:50:33.874732Z"
-  },
-  "EJU32FG": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T11:40:30.766133Z"
   },
   "FIN98J": {
     "route": {
@@ -13115,5 +13093,27 @@
   "NJE459A": {
     "route": null,
     "checked_at": "2026-10-12T11:35:27.250131Z"
+  },
+  "EJU17HZ": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T11:40:31.283466Z"
+  },
+  "SAS1665": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T11:40:31.283466Z"
   }
 }
