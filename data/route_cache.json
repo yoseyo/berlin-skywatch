@@ -317,11 +317,18 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-11T15:35:24.775753Z"
+    "checked_at": "2026-10-12T15:50:31.889017Z"
   },
   "TVF77EX": {
-    "route": null,
-    "checked_at": "2026-10-11T18:00:54.779055Z"
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-12T15:50:31.889017Z"
   },
   "NSZ3303": {
     "route": {
@@ -431,7 +438,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-11T16:20:32.172292Z"
+    "checked_at": "2026-10-12T15:50:31.889017Z"
   },
   "FIN9YA": {
     "route": {
@@ -453,7 +460,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-11T16:10:30.580389Z"
+    "checked_at": "2026-10-12T15:50:31.889017Z"
   },
   "LOT389": {
     "route": {
@@ -4877,17 +4884,6 @@
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
   },
-  "NSZ8JT": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T15:45:32.924462Z"
-  },
   "THY29M": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6240,50 +6236,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "NSZ3298": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T15:45:32.924462Z"
-  },
-  "SAS7309": {
-    "route": {
-      "fromCity": "Kjevik",
-      "fromIata": "KRS",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T15:45:32.924462Z"
-  },
-  "BTI8WF": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-10T15:45:32.924462Z"
-  },
-  "SAS6275": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T15:45:32.924462Z"
   },
   "NSZ9PR": {
     "route": {
@@ -13011,5 +12963,27 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-12T15:45:30.364567Z"
+  },
+  "THY9VA": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-12T15:50:31.889017Z"
+  },
+  "RUK1145": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-12T15:50:31.889017Z"
   }
 }
