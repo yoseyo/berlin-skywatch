@@ -1650,7 +1650,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-11T07:30:44.644957Z"
+    "checked_at": "2026-10-12T07:30:46.820445Z"
   },
   "NSZ89C": {
     "route": {
@@ -1672,7 +1672,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T07:30:44.644957Z"
+    "checked_at": "2026-10-12T07:30:46.820445Z"
   },
   "PGT28RL": {
     "route": {
@@ -1683,7 +1683,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T07:40:37.069614Z"
+    "checked_at": "2026-10-12T07:30:46.820445Z"
   },
   "RYR9CL": {
     "route": {
@@ -2690,7 +2690,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T07:00:51.263570Z"
+    "checked_at": "2026-10-12T07:30:46.820445Z"
   },
   "KLC42X": {
     "route": {
@@ -4704,17 +4704,6 @@
     },
     "checked_at": "2026-10-11T06:20:31.713433Z"
   },
-  "AEE7CH": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-10T07:30:41.672211Z"
-  },
   "FHY1281": {
     "route": {
       "fromCity": "Antalya",
@@ -6306,28 +6295,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-11T07:05:23.274366Z"
-  },
-  "LHX9JC": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-10T07:30:41.672211Z"
-  },
-  "RYR93KF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Valencia",
-      "toIata": "VLC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T07:30:41.672211Z"
   },
   "VJT405": {
     "route": null,
@@ -13165,5 +13132,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-12T07:25:24.843983Z"
+  },
+  "EJU9043": {
+    "route": {
+      "fromCity": "Maastricht",
+      "fromIata": "MST",
+      "toCity": "Ljubljana",
+      "toIata": "LJU",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T07:30:46.820445Z"
   }
 }
