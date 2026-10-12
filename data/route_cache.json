@@ -706,7 +706,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T17:50:31.853266Z"
+    "checked_at": "2026-10-12T18:00:56.117279Z"
   },
   "RYR2YR": {
     "route": {
@@ -805,7 +805,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-11T18:00:54.779055Z"
+    "checked_at": "2026-10-12T18:00:56.117279Z"
   },
   "SAS55L": {
     "route": {
@@ -5424,17 +5424,6 @@
     },
     "checked_at": "2026-10-11T14:45:33.581801Z"
   },
-  "PWF1907": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Augsburg",
-      "toIata": "AGB",
-      "airlineName": "Private Wings Flugcharter",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-10T18:00:53.832565Z"
-  },
   "TVF97PR": {
     "route": {
       "fromCity": "Berlin",
@@ -6247,17 +6236,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T14:20:34.854611Z"
-  },
-  "RYR3XX": {
-    "route": {
-      "fromCity": "Dortmund",
-      "fromIata": "DTM",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T18:00:53.832565Z"
   },
   "ETH725": {
     "route": {
@@ -9420,7 +9398,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-11T17:45:30.726461Z"
+    "checked_at": "2026-10-12T18:00:56.117279Z"
   },
   "RYR297": {
     "route": {
@@ -9549,15 +9527,8 @@
     "checked_at": "2026-10-11T18:15:31.627910Z"
   },
   "FIN8DN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-11T18:15:31.627910Z"
+    "route": null,
+    "checked_at": "2026-10-12T18:00:56.117279Z"
   },
   "PGT816T": {
     "route": {
@@ -13007,5 +12978,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T17:55:24.542402Z"
+  },
+  "TVF46LX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nantes",
+      "toIata": "NTE",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-12T18:00:56.117279Z"
   }
 }
