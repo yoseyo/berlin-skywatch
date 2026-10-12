@@ -343,7 +343,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T15:40:31.318024Z"
+    "checked_at": "2026-10-12T15:45:30.364567Z"
   },
   "THY3ZA": {
     "route": {
@@ -376,7 +376,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T14:25:23.667647Z"
+    "checked_at": "2026-10-12T15:45:30.364567Z"
   },
   "SXS16E": {
     "route": {
@@ -604,7 +604,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T19:50:30.827170Z"
+    "checked_at": "2026-10-12T15:45:30.364567Z"
   },
   "SWR1PF": {
     "route": {
@@ -3160,7 +3160,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T15:20:29.300156Z"
+    "checked_at": "2026-10-12T15:45:30.364567Z"
   },
   "EJU5087": {
     "route": null,
@@ -5562,7 +5562,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-10T15:50:30.467620Z"
+    "checked_at": "2026-10-12T15:45:30.364567Z"
   },
   "EWG2WY": {
     "route": {
@@ -6240,32 +6240,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "THY3354": {
-    "route": null,
-    "checked_at": "2026-10-10T15:40:32.471243Z"
-  },
-  "SAS2859": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T15:40:32.471243Z"
-  },
-  "RYR282D": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T15:40:32.471243Z"
   },
   "NSZ3298": {
     "route": {
@@ -13015,5 +12989,27 @@
   "CAT765": {
     "route": null,
     "checked_at": "2026-10-12T15:40:31.738515Z"
+  },
+  "EWG2RM": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T15:45:30.364567Z"
+  },
+  "FIN01AD": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-12T15:45:30.364567Z"
   }
 }
