@@ -2333,7 +2333,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T12:00:52.218593Z"
+    "checked_at": "2026-10-12T12:00:56.503528Z"
   },
   "FIN3YX": {
     "route": {
@@ -2517,7 +2517,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-11T11:40:32.560897Z"
+    "checked_at": "2026-10-12T12:00:56.503528Z"
   },
   "MSR731": {
     "route": {
@@ -3689,7 +3689,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-11T11:45:28.659096Z"
+    "checked_at": "2026-10-12T12:00:56.503528Z"
   },
   "WZZ40LC": {
     "route": {
@@ -6219,28 +6219,6 @@
   "DMTWH": {
     "route": null,
     "checked_at": "2026-10-12T07:50:33.874732Z"
-  },
-  "WIF6G": {
-    "route": {
-      "fromCity": "S\u00f8rkjosen",
-      "fromIata": "SOJ",
-      "toCity": "Troms\u00f8",
-      "toIata": "TOS",
-      "airlineName": "Wideroe",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-10T12:00:55.085948Z"
-  },
-  "RYR3309": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T12:00:55.085948Z"
   },
   "EWG26K": {
     "route": {
@@ -13093,5 +13071,31 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-12T11:55:27.347832Z"
+  },
+  "DEYZA": {
+    "route": null,
+    "checked_at": "2026-10-12T12:00:56.503528Z"
+  },
+  "JTD228": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-12T12:00:56.503528Z"
+  },
+  "SAS2733": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T12:00:56.503528Z"
   }
 }
