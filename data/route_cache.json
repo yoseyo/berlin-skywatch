@@ -849,7 +849,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-11T19:00:53.207457Z"
+    "checked_at": "2026-10-12T20:00:56.453466Z"
   },
   "SXS6XP": {
     "route": {
@@ -926,7 +926,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-11T19:45:29.902574Z"
+    "checked_at": "2026-10-12T20:00:56.453466Z"
   },
   "BAW998": {
     "route": {
@@ -3001,7 +3001,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T20:00:53.730381Z"
+    "checked_at": "2026-10-12T20:00:56.453466Z"
   },
   "SAS1673": {
     "route": {
@@ -6262,17 +6262,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-11T12:35:24.622573Z"
-  },
-  "RYR7DR": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Newcastle",
-      "toIata": "NCL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T20:00:52.006407Z"
   },
   "WZZ4BB": {
     "route": {
@@ -13015,5 +13004,16 @@
   "KRH645": {
     "route": null,
     "checked_at": "2026-10-12T19:55:24.066595Z"
+  },
+  "SXS2LD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-12T20:00:56.453466Z"
   }
 }
