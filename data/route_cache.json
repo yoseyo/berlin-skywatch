@@ -1025,7 +1025,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-11T20:25:24.324430Z"
+    "checked_at": "2026-10-12T20:30:43.759729Z"
   },
   "SWR9LC": {
     "route": {
@@ -4003,17 +4003,6 @@
     },
     "checked_at": "2026-10-12T16:10:43.108317Z"
   },
-  "RYR6FD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T20:30:42.543631Z"
-  },
   "CES787": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -4324,7 +4313,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T17:30:41.314966Z"
+    "checked_at": "2026-10-12T20:30:43.759729Z"
   },
   "KLM60M": {
     "route": {
@@ -6300,17 +6289,6 @@
     },
     "checked_at": "2026-10-12T07:55:24.324581Z"
   },
-  "SAS1760": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T20:25:24.603133Z"
-  },
   "EJU67GK": {
     "route": {
       "fromCity": "Heraklion",
@@ -6321,17 +6299,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-12T12:15:29.627985Z"
-  },
-  "EJU39XF": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T20:30:42.543631Z"
   },
   "NOZ1865": {
     "route": {
@@ -13070,5 +13037,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T20:25:24.259560Z"
+  },
+  "RYR41KN": {
+    "route": {
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T20:30:43.759729Z"
+  },
+  "RYR75DX": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T20:30:43.759729Z"
   }
 }
