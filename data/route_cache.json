@@ -482,7 +482,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-11T16:50:35.310927Z"
+    "checked_at": "2026-10-12T16:50:34.286077Z"
   },
   "PGT49PK": {
     "route": {
@@ -4375,7 +4375,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T16:45:29.530154Z"
+    "checked_at": "2026-10-12T16:50:34.286077Z"
   },
   "BTI6UN": {
     "route": {
@@ -4842,17 +4842,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T17:30:41.314966Z"
-  },
-  "NSZ4BV": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T16:45:33.066377Z"
   },
   "EJU86PQ": {
     "route": {
@@ -6243,28 +6232,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T20:00:53.730381Z"
-  },
-  "AEE752": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-10T16:50:33.494604Z"
-  },
-  "SDR46DT": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T16:50:33.494604Z"
   },
   "CKK216": {
     "route": {
@@ -12999,5 +12966,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-12T16:45:31.576667Z"
+  },
+  "NSZ3732": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T16:50:34.286077Z"
+  },
+  "DKH1667": {
+    "route": {
+      "fromCity": "Zhengzhou",
+      "fromIata": "CGO",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Juneyao Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-12T16:50:34.286077Z"
   }
 }
