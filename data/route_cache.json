@@ -3516,7 +3516,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T11:00:54.102622Z"
+    "checked_at": "2026-10-12T11:01:43.339127Z"
   },
   "BAW844": {
     "route": {
@@ -6237,54 +6237,6 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
-  },
-  "NSZ2055": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T10:55:25.426650Z"
-  },
-  "CCA772": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Shenzhen (Bao'an)",
-      "toIata": "SZX",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-10T10:55:25.426650Z"
-  },
-  "DLH3HY": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-10T11:00:54.385452Z"
-  },
-  "CXI039P": {
-    "route": null,
-    "checked_at": "2026-10-10T11:00:54.385452Z"
-  },
-  "ACA935": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-10T11:00:54.385452Z"
   },
   "SVA061": {
     "route": {
@@ -13130,5 +13082,24 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T10:55:22.550496Z"
+  },
+  "CSC9611": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Sichuan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-12T11:01:43.339127Z"
+  },
+  "GAF812": {
+    "route": null,
+    "checked_at": "2026-10-12T11:01:43.339127Z"
+  },
+  "VJT464": {
+    "route": null,
+    "checked_at": "2026-10-12T11:01:43.339127Z"
   }
 }
