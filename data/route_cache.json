@@ -427,7 +427,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-11T16:55:26.469221Z"
+    "checked_at": "2026-10-12T16:01:01.973735Z"
   },
   "KLM1780": {
     "route": {
@@ -507,8 +507,15 @@
     "checked_at": "2026-10-11T17:10:33.247439Z"
   },
   "WZZ98RS": {
-    "route": null,
-    "checked_at": "2026-10-11T16:05:25.865672Z"
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-12T16:01:01.973735Z"
   },
   "DLH1KY": {
     "route": {
@@ -5602,7 +5609,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T16:45:29.530154Z"
+    "checked_at": "2026-10-12T16:01:01.973735Z"
   },
   "BTI9AG": {
     "route": {
@@ -6236,17 +6243,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-11T16:40:31.007956Z"
-  },
-  "NSZ5DM": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T16:00:55.170786Z"
   },
   "NSZ5362": {
     "route": {
@@ -12963,5 +12959,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-12T15:55:24.524145Z"
+  },
+  "DESRX": {
+    "route": null,
+    "checked_at": "2026-10-12T16:01:01.973735Z"
+  },
+  "SAS7743": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Ioannina",
+      "toIata": "IOA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T16:01:01.973735Z"
   }
 }
