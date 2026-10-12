@@ -750,7 +750,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-11T18:15:31.627910Z"
+    "checked_at": "2026-10-12T18:35:24.300945Z"
   },
   "PGT984": {
     "route": {
@@ -3479,7 +3479,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-11T18:25:23.874825Z"
+    "checked_at": "2026-10-12T18:35:24.300945Z"
   },
   "RYR97WV": {
     "route": {
@@ -3925,17 +3925,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-12T15:55:24.524145Z"
-  },
-  "LOT4CN": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-10T18:35:22.421901Z"
   },
   "AFR1434": {
     "route": {
@@ -6262,21 +6251,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-12T05:50:33.788221Z"
-  },
-  "SVI8223": {
-    "route": null,
-    "checked_at": "2026-10-10T18:30:45.010376Z"
-  },
-  "RYR1ZN": {
-    "route": {
-      "fromCity": "Killarney",
-      "fromIata": "KIR",
-      "toCity": "Frankfurt am Main",
-      "toIata": "HHN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T18:30:45.010376Z"
   },
   "VLG23BJ": {
     "route": {
@@ -13040,5 +13014,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T18:20:33.442638Z"
+  },
+  "RYR2962": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T18:35:24.300945Z"
   }
 }
