@@ -783,7 +783,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T15:10:32.696417Z"
+    "checked_at": "2026-10-12T18:20:33.442638Z"
   },
   "BAW846W": {
     "route": {
@@ -794,7 +794,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T19:15:30.270191Z"
+    "checked_at": "2026-10-12T18:20:33.442638Z"
   },
   "SWR8X": {
     "route": {
@@ -860,7 +860,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T18:10:30.749058Z"
+    "checked_at": "2026-10-12T18:20:33.442638Z"
   },
   "LOT2MN": {
     "route": {
@@ -13000,5 +13000,49 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-12T18:15:30.184203Z"
+  },
+  "SAS55L": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T18:20:33.442638Z"
+  },
+  "EJU17TX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T18:20:33.442638Z"
+  },
+  "DLH8PN": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T18:20:33.442638Z"
+  },
+  "LHX4YP": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T18:20:33.442638Z"
   }
 }
