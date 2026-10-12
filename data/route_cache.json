@@ -2642,7 +2642,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-11T10:20:30.934402Z"
+    "checked_at": "2026-10-12T11:30:44.913340Z"
   },
   "EJU65CQ": {
     "route": {
@@ -6260,17 +6260,6 @@
     },
     "checked_at": "2026-10-11T05:15:29.667616Z"
   },
-  "SAS7734": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Aalborg",
-      "toIata": "AAL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T11:30:42.325182Z"
-  },
   "SAS2832": {
     "route": {
       "fromCity": "Split",
@@ -6281,50 +6270,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-12T11:20:31.745078Z"
-  },
-  "NOZ8US": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-10T11:30:42.325182Z"
-  },
-  "EJU83HL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Agadir (Temsia)",
-      "toIata": "AGA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T11:30:42.325182Z"
-  },
-  "MFX7668": {
-    "route": {
-      "fromCity": "Li\u00e8ge",
-      "fromIata": "LGG",
-      "toCity": "Almaty",
-      "toIata": "ALA",
-      "airlineName": "My Freighter LLC",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-10-10T11:30:42.325182Z"
-  },
-  "RYR5VH": {
-    "route": {
-      "fromCity": "Paphos",
-      "fromIata": "PFO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T11:30:42.325182Z"
   },
   "DMTWH": {
     "route": null,
@@ -10357,7 +10302,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-11T16:00:54.484798Z"
+    "checked_at": "2026-10-12T11:30:44.913340Z"
   },
   "UNI137": {
     "route": null,
@@ -13121,5 +13066,46 @@
   "NJE714U": {
     "route": null,
     "checked_at": "2026-10-12T11:25:26.721474Z"
+  },
+  "CHX64": {
+    "route": null,
+    "checked_at": "2026-10-12T11:30:44.913340Z"
+  },
+  "BTI28P": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-12T11:30:44.913340Z"
+  },
+  "DMDJL": {
+    "route": null,
+    "checked_at": "2026-10-12T11:30:44.913340Z"
+  },
+  "DLH8UE": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T11:30:44.913340Z"
+  },
+  "SDR41KM": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T11:30:44.913340Z"
   }
 }
