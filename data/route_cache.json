@@ -2076,7 +2076,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T17:55:26.087544Z"
+    "checked_at": "2026-10-12T07:55:24.324581Z"
   },
   "WUK1356": {
     "route": null,
@@ -3450,7 +3450,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T07:40:37.069614Z"
+    "checked_at": "2026-10-12T07:55:24.324581Z"
   },
   "LHX179": {
     "route": {
@@ -4049,7 +4049,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-11T08:05:24.052456Z"
+    "checked_at": "2026-10-12T07:55:24.324581Z"
   },
   "NOZ52Z": {
     "route": {
@@ -6158,7 +6158,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T11:10:32.331006Z"
+    "checked_at": "2026-10-12T07:55:24.324581Z"
   },
   "BTI74A": {
     "route": {
@@ -6296,17 +6296,6 @@
     },
     "checked_at": "2026-10-11T06:30:43.584367Z"
   },
-  "EJU3948": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T07:55:21.523561Z"
-  },
   "EJU85UF": {
     "route": {
       "fromCity": "Zurich",
@@ -6317,28 +6306,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T09:15:30.312547Z"
-  },
-  "RYR63KM": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T07:55:21.523561Z"
-  },
-  "CTN284E": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-10T07:55:21.523561Z"
   },
   "SAS92D": {
     "route": {
@@ -8719,7 +8686,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-10T20:25:24.603133Z"
+    "checked_at": "2026-10-12T07:55:24.324581Z"
   },
   "SAS1760": {
     "route": {
@@ -13155,5 +13122,16 @@
   "ATV104": {
     "route": null,
     "checked_at": "2026-10-12T07:50:33.874732Z"
+  },
+  "WMT968": {
+    "route": {
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-12T07:55:24.324581Z"
   }
 }
