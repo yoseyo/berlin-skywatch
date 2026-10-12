@@ -937,7 +937,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T20:25:24.324430Z"
+    "checked_at": "2026-10-12T20:25:24.259560Z"
   },
   "AUA989D": {
     "route": {
@@ -959,7 +959,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-11T20:15:31.331361Z"
+    "checked_at": "2026-10-12T20:25:24.259560Z"
   },
   "AUA239": {
     "route": {
@@ -2752,14 +2752,14 @@
   },
   "DLH5EE": {
     "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "M\u00fcnster",
+      "toIata": "FMO",
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T20:40:30.736082Z"
+    "checked_at": "2026-10-12T20:25:24.259560Z"
   },
   "RYR1WP": {
     "route": {
@@ -6983,7 +6983,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T06:15:30.602452Z"
+    "checked_at": "2026-10-12T20:25:24.259560Z"
   },
   "BLX697": {
     "route": {
@@ -13059,5 +13059,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T20:20:32.489335Z"
+  },
+  "RYR4359": {
+    "route": {
+      "fromCity": "Lanzarote Island",
+      "fromIata": "ACE",
+      "toCity": "Beauvais",
+      "toIata": "BVA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T20:25:24.259560Z"
   }
 }
