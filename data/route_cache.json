@@ -1014,7 +1014,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T21:00:54.250522Z"
+    "checked_at": "2026-10-12T20:50:33.179508Z"
   },
   "AFR69GW": {
     "route": {
@@ -1069,7 +1069,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-11T21:05:26.553698Z"
+    "checked_at": "2026-10-12T20:50:33.179508Z"
   },
   "SWR53Q": {
     "route": {
@@ -4357,7 +4357,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T06:50:31.119428Z"
+    "checked_at": "2026-10-12T20:50:33.179508Z"
   },
   "EZS83KB": {
     "route": {
@@ -6311,17 +6311,6 @@
     },
     "checked_at": "2026-10-11T14:40:31.882545Z"
   },
-  "SAS6272": {
-    "route": {
-      "fromCity": "Newquay",
-      "fromIata": "NQY",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T20:45:33.406846Z"
-  },
   "EZY18ZQ": {
     "route": {
       "fromCity": "Berlin",
@@ -6354,17 +6343,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-11T15:45:31.416050Z"
-  },
-  "AEE4577": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-10T20:50:30.800446Z"
   },
   "EJU65LD": {
     "route": {
@@ -13041,5 +13019,16 @@
   "ECA4US": {
     "route": null,
     "checked_at": "2026-10-12T20:45:30.419220Z"
+  },
+  "FIN6TF": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-12T20:50:33.179508Z"
   }
 }
