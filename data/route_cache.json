@@ -3726,7 +3726,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T15:30:42.522645Z"
+    "checked_at": "2026-10-12T15:35:24.248854Z"
   },
   "CFE61X": {
     "route": {
@@ -6240,28 +6240,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "NSZ3AM": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Olbia (SS)",
-      "toIata": "OLB",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T15:30:45.755071Z"
-  },
-  "EWG1R": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-10T15:35:23.274011Z"
   },
   "THY3354": {
     "route": null,
@@ -13003,5 +12981,20 @@
   "AIB547B": {
     "route": null,
     "checked_at": "2026-10-12T15:30:43.706696Z"
+  },
+  "DMVVL": {
+    "route": null,
+    "checked_at": "2026-10-12T15:35:24.248854Z"
+  },
+  "RYR916R": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T15:35:24.248854Z"
   }
 }
