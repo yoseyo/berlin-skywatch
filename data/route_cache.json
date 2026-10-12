@@ -1220,7 +1220,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T05:10:34.117978Z"
+    "checked_at": "2026-10-12T06:05:24.769794Z"
   },
   "DLH9CJ": {
     "route": {
@@ -1378,7 +1378,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T06:00:53.999157Z"
+    "checked_at": "2026-10-12T06:05:24.769794Z"
   },
   "DLH2X": {
     "route": {
@@ -6284,10 +6284,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-12T06:00:54.738934Z"
-  },
-  "TCTSM": {
-    "route": null,
-    "checked_at": "2026-10-10T06:05:22.484006Z"
   },
   "WMT7LY": {
     "route": {
@@ -13104,5 +13100,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-12T06:00:54.738934Z"
+  },
+  "JTD527": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Zakynthos Island",
+      "toIata": "ZTH",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-12T06:05:24.769794Z"
+  },
+  "AUA222": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T06:05:24.769794Z"
   }
 }
