@@ -4834,7 +4834,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T17:21:12.982024Z"
+    "checked_at": "2026-10-12T19:10:29.886115Z"
   },
   "UPEM014": {
     "route": null,
@@ -5319,7 +5319,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T10:50:34.029469Z"
+    "checked_at": "2026-10-12T19:10:29.886115Z"
   },
   "EJU5027": {
     "route": {
@@ -13022,5 +13022,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T19:05:25.164498Z"
+  },
+  "LOT7EG": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Goleniow",
+      "toIata": "SZZ",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-12T19:10:29.886115Z"
   }
 }
