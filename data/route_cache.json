@@ -1793,7 +1793,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T07:55:22.965440Z"
+    "checked_at": "2026-10-12T07:50:33.874732Z"
   },
   "IBE07TT": {
     "route": {
@@ -2867,17 +2867,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-11T08:35:27.309381Z"
-  },
-  "EJU45GF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T07:50:29.679702Z"
   },
   "WZZ8086": {
     "route": {
@@ -5397,7 +5386,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T07:30:44.644957Z"
+    "checked_at": "2026-10-12T07:50:33.874732Z"
   },
   "WMT1JM": {
     "route": {
@@ -6285,17 +6274,6 @@
     },
     "checked_at": "2026-10-12T07:45:30.042836Z"
   },
-  "THY3353": {
-    "route": {
-      "fromCity": "Van",
-      "fromIata": "VAN",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-10T07:45:30.567035Z"
-  },
   "SAS2831": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6306,17 +6284,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-12T07:35:26.132098Z"
-  },
-  "PGT17GP": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-10T07:45:30.567035Z"
   },
   "CYZ255": {
     "route": {
@@ -7142,7 +7109,7 @@
   },
   "DMTWH": {
     "route": null,
-    "checked_at": "2026-10-10T11:35:27.335753Z"
+    "checked_at": "2026-10-12T07:50:33.874732Z"
   },
   "EJU32FG": {
     "route": {
@@ -13162,5 +13129,31 @@
   "SCR137": {
     "route": null,
     "checked_at": "2026-10-12T07:45:30.042836Z"
+  },
+  "NSZ5610": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T07:50:33.874732Z"
+  },
+  "CKK235": {
+    "route": {
+      "fromCity": "Chongqing",
+      "fromIata": "CKG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-12T07:50:33.874732Z"
+  },
+  "ATV104": {
+    "route": null,
+    "checked_at": "2026-10-12T07:50:33.874732Z"
   }
 }
