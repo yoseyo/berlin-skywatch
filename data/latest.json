@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "ELY005",
+      "country": "Israel",
+      "lat": 52.2803,
+      "lon": 13.3707,
+      "altKm": 10.2,
+      "speedKmh": 846,
+      "heading": 330,
+      "vertRateMs": -0.3,
+      "category": "plane"
+    },
+    {
       "callsign": "FIN1676",
       "country": "Finland",
-      "lat": 52.4325,
-      "lon": 13.3164,
+      "lat": 52.9476,
+      "lon": 13.9768,
       "altKm": 11.2,
-      "speedKmh": 870,
+      "speedKmh": 878,
       "heading": 38,
-      "vertRateMs": 0.3,
+      "vertRateMs": 0,
       "airline": "Finnair",
       "airlineCountry": "Finland",
       "fromCity": "M\u00e1laga",
@@ -18,5 +29,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-12T01:45:28.916956Z"
+  "updated_at": "2026-10-12T01:50:30.562171Z"
 }
