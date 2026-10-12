@@ -1999,7 +1999,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-11T09:25:23.857045Z"
+    "checked_at": "2026-10-12T09:35:24.676912Z"
   },
   "LOT7VJ": {
     "route": {
@@ -2091,7 +2091,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T09:20:32.578577Z"
+    "checked_at": "2026-10-12T09:35:24.676912Z"
   },
   "DLH8N": {
     "route": {
@@ -6017,17 +6017,6 @@
     },
     "checked_at": "2026-10-11T20:55:25.841063Z"
   },
-  "RYR50PQ": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T09:35:24.299869Z"
-  },
   "RYR1155": {
     "route": {
       "fromCity": "Manchester",
@@ -6278,17 +6267,6 @@
     },
     "checked_at": "2026-10-12T09:25:26.630711Z"
   },
-  "NSZ9EF": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T09:35:24.299869Z"
-  },
   "DLH890": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6299,17 +6277,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T09:15:30.312547Z"
-  },
-  "EJU53KD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T09:35:24.299869Z"
   },
   "RYR62HD": {
     "route": {
@@ -13139,5 +13106,64 @@
   "DFKPJ": {
     "route": null,
     "checked_at": "2026-10-12T09:25:26.630711Z"
+  },
+  "THY8": {
+    "route": {
+      "fromCity": "Washington",
+      "fromIata": "IAD",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-12T09:35:24.676912Z"
+  },
+  "DEUTB": {
+    "route": null,
+    "checked_at": "2026-10-12T09:35:24.676912Z"
+  },
+  "SDR10EL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T09:35:24.676912Z"
+  },
+  "RYR127K": {
+    "route": {
+      "fromCity": "Marrakech",
+      "fromIata": "RAK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T09:35:24.676912Z"
+  },
+  "RYR3WY": {
+    "route": {
+      "fromCity": "Podgorica",
+      "fromIata": "TGD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T09:35:24.676912Z"
+  },
+  "RYR93QN": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T09:35:24.676912Z"
   }
 }
