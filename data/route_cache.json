@@ -6362,17 +6362,6 @@
     },
     "checked_at": "2026-10-11T20:50:33.533662Z"
   },
-  "AUA97B": {
-    "route": {
-      "fromCity": "Reykjav\u00edk",
-      "fromIata": "KEF",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T03:20:30.009484Z"
-  },
   "EWG2W": {
     "route": {
       "fromCity": "Graz (Feldkirchen bei Graz)",
@@ -13146,5 +13135,16 @@
   "N159JA": {
     "route": null,
     "checked_at": "2026-10-12T03:15:28.998442Z"
+  },
+  "SRR6228": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-12T03:20:33.070610Z"
   }
 }
