@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "RYR863",
+      "country": "Ireland",
+      "lat": 52.5191,
+      "lon": 13.2697,
+      "altKm": 11.8,
+      "speedKmh": 734,
+      "heading": 279,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Rzesz\u00f3w",
+      "fromIata": "RZE",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR9847",
       "country": "Ireland",
-      "lat": 52.2351,
-      "lon": 13.7337,
+      "lat": 52.2289,
+      "lon": 12.7912,
       "altKm": 11.8,
-      "speedKmh": 745,
-      "heading": 270,
-      "vertRateMs": -0.7,
+      "speedKmh": 774,
+      "heading": 269,
+      "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "\u0141\u00f3d\u017a",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-12T21:05:24.221462Z"
+  "updated_at": "2026-10-12T21:10:29.999283Z"
 }
