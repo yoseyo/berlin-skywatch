@@ -100,7 +100,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-11T14:20:34.854611Z"
+    "checked_at": "2026-10-12T14:20:31.778142Z"
   },
   "RYR1SM": {
     "route": {
@@ -111,7 +111,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T12:30:43.391498Z"
+    "checked_at": "2026-10-12T14:20:31.778142Z"
   },
   "AUA21P": {
     "route": {
@@ -2965,7 +2965,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T14:30:44.693999Z"
+    "checked_at": "2026-10-12T14:20:31.778142Z"
   },
   "ICE15M": {
     "route": {
@@ -3538,7 +3538,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T14:15:28.712123Z"
+    "checked_at": "2026-10-12T14:20:31.778142Z"
   },
   "BAW8RM": {
     "route": {
@@ -5460,7 +5460,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-11T11:35:24.064277Z"
+    "checked_at": "2026-10-12T14:20:31.778142Z"
   },
   "RJA138": {
     "route": {
@@ -6231,17 +6231,6 @@
     },
     "checked_at": "2026-10-11T14:15:28.712123Z"
   },
-  "EJU5005": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T14:20:31.347839Z"
-  },
   "DLH8HU": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6252,21 +6241,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-11T14:50:31.754123Z"
-  },
-  "DMAAC": {
-    "route": null,
-    "checked_at": "2026-10-10T14:20:31.347839Z"
-  },
-  "RYR14WN": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T14:20:31.347839Z"
   },
   "VOE9CC": {
     "route": {
@@ -9280,7 +9254,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T14:15:28.712123Z"
+    "checked_at": "2026-10-12T14:20:31.778142Z"
   },
   "EJU72TJ": {
     "route": {
@@ -12963,5 +12937,20 @@
   "CAT743": {
     "route": null,
     "checked_at": "2026-10-12T14:15:33.503255Z"
+  },
+  "NMA1140": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-12T14:20:31.778142Z"
+  },
+  "DMZFD": {
+    "route": null,
+    "checked_at": "2026-10-12T14:20:31.778142Z"
   }
 }
