@@ -1345,7 +1345,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-11T05:30:41.667342Z"
+    "checked_at": "2026-10-12T05:05:24.862820Z"
   },
   "DLH172": {
     "route": {
@@ -3884,7 +3884,7 @@
   },
   "EWG7ED": {
     "route": null,
-    "checked_at": "2026-10-10T05:50:31.982474Z"
+    "checked_at": "2026-10-12T05:05:24.862820Z"
   },
   "BTI83L": {
     "route": {
@@ -5390,17 +5390,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-10T10:15:33.918956Z"
-  },
-  "DLH4EK": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-10T05:00:53.417298Z"
   },
   "WZZ6072": {
     "route": {
@@ -7093,7 +7082,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-10T09:15:30.129960Z"
+    "checked_at": "2026-10-12T05:05:24.862820Z"
   },
   "RYR392T": {
     "route": {
@@ -13073,5 +13062,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T05:00:53.173298Z"
+  },
+  "EWG5QR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T05:05:24.862820Z"
+  },
+  "CFE8PR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-12T05:05:24.862820Z"
   }
 }
