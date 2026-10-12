@@ -1,16 +1,72 @@
 {
   "flights": [
     {
+      "callsign": "MFX7615",
+      "country": "Uzbekistan",
+      "lat": 52.8158,
+      "lon": 13.9007,
+      "altKm": 10.2,
+      "speedKmh": 826,
+      "heading": 251,
+      "vertRateMs": -0.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "DBETI",
+      "country": "Germany",
+      "lat": 52.3727,
+      "lon": 13.5062,
+      "altKm": 0.1,
+      "speedKmh": 247,
+      "heading": 248,
+      "vertRateMs": 8.8,
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU8624",
+      "country": "Austria",
+      "lat": 52.2589,
+      "lon": 13.2993,
+      "altKm": 2.2,
+      "speedKmh": 434,
+      "heading": 228,
+      "vertRateMs": 13.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "category": "plane"
+    },
+    {
       "callsign": "EJU5087",
       "country": "Austria",
-      "lat": 52.3447,
-      "lon": 13.4666,
-      "altKm": 0.3,
-      "speedKmh": 278,
-      "heading": 246,
-      "vertRateMs": 17.2,
+      "lat": 52.1941,
+      "lon": 13.0608,
+      "altKm": 3.7,
+      "speedKmh": 594,
+      "heading": 240,
+      "vertRateMs": 15.6,
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR5ME",
+      "country": "Poland",
+      "lat": 52.4384,
+      "lon": 13.3097,
+      "altKm": 11.5,
+      "speedKmh": 821,
+      "heading": 264,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-12T04:00:53.855499Z"
+  "updated_at": "2026-10-12T04:05:24.145536Z"
 }
