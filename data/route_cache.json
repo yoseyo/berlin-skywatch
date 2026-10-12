@@ -2146,7 +2146,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-11T11:35:24.064277Z"
+    "checked_at": "2026-10-12T10:55:22.550496Z"
   },
   "PGT54XN": {
     "route": {
@@ -2201,7 +2201,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T10:50:34.029469Z"
+    "checked_at": "2026-10-12T10:55:22.550496Z"
   },
   "SXS1CM": {
     "route": {
@@ -2234,7 +2234,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T10:45:33.638296Z"
+    "checked_at": "2026-10-12T10:55:22.550496Z"
   },
   "LOT282": {
     "route": {
@@ -5414,17 +5414,6 @@
     },
     "checked_at": "2026-10-11T10:35:24.527599Z"
   },
-  "QTR727": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Philadelphia",
-      "toIata": "PHL",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-10T10:50:34.530122Z"
-  },
   "N77LD": {
     "route": null,
     "checked_at": "2026-10-11T14:40:31.882545Z"
@@ -6248,21 +6237,6 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
-  },
-  "BTI4VP": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-10T10:50:34.530122Z"
-  },
-  "FIN09DM": {
-    "route": null,
-    "checked_at": "2026-10-10T10:50:34.530122Z"
   },
   "NSZ2055": {
     "route": {
@@ -9476,7 +9450,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T10:35:24.527599Z"
+    "checked_at": "2026-10-12T10:55:22.550496Z"
   },
   "EJU59RD": {
     "route": {
@@ -13134,5 +13108,27 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-12T10:50:32.334383Z"
+  },
+  "THY9RZ": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-12T10:55:22.550496Z"
+  },
+  "LHX2T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T10:55:22.550496Z"
   }
 }
