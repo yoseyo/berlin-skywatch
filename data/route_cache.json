@@ -1738,7 +1738,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T08:10:33.537798Z"
+    "checked_at": "2026-10-12T08:05:25.497701Z"
   },
   "DLH4X": {
     "route": {
@@ -3885,17 +3885,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T07:35:26.132098Z"
-  },
-  "BTI8ED": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-10T08:05:22.535954Z"
   },
   "TKJ35Z": {
     "route": {
@@ -6295,17 +6284,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T09:15:30.312547Z"
-  },
-  "SAS92D": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T08:05:22.535954Z"
   },
   "DLH5PN": {
     "route": {
@@ -13126,5 +13104,16 @@
   "DEPAD": {
     "route": null,
     "checked_at": "2026-10-12T08:01:03.453459Z"
+  },
+  "ASL19P": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-12T08:05:25.497701Z"
   }
 }
