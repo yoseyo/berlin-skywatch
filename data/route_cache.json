@@ -4611,7 +4611,7 @@
   },
   "LDX11": {
     "route": null,
-    "checked_at": "2026-10-11T12:25:26.349493Z"
+    "checked_at": "2026-10-12T13:45:31.285709Z"
   },
   "EJU83GC": {
     "route": {
@@ -5808,17 +5808,6 @@
     },
     "checked_at": "2026-10-12T12:10:33.735936Z"
   },
-  "RYR12KD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T13:45:29.761943Z"
-  },
   "EJU32PZ": {
     "route": {
       "fromCity": "Geneva",
@@ -6245,50 +6234,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-11T14:10:34.490004Z"
-  },
-  "VLG14MZ": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Vueling Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-10T13:45:29.761943Z"
-  },
-  "NOZ50H": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-10T13:45:29.761943Z"
-  },
-  "RYR15FP": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T13:45:29.761943Z"
-  },
-  "EWG60V": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-10T13:45:29.761943Z"
   },
   "CFG3VD": {
     "route": {
@@ -12988,5 +12933,31 @@
   "DBMHD": {
     "route": null,
     "checked_at": "2026-10-12T13:40:31.643552Z"
+  },
+  "SAS9240": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T13:45:31.285709Z"
+  },
+  "EJU46NG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T13:45:31.285709Z"
+  },
+  "EFD1E": {
+    "route": null,
+    "checked_at": "2026-10-12T13:45:31.285709Z"
   }
 }
