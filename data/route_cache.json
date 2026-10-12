@@ -684,7 +684,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-11T17:30:41.314966Z"
+    "checked_at": "2026-10-12T17:40:31.091318Z"
   },
   "AEE8DT": {
     "route": {
@@ -4071,14 +4071,14 @@
   },
   "DLH5PR": {
     "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Munich",
-      "toIata": "MUC",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T17:40:32.492800Z"
+    "checked_at": "2026-10-12T17:40:31.091318Z"
   },
   "EWG6AZ": {
     "route": {
@@ -6236,28 +6236,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-12T08:35:26.152092Z"
-  },
-  "GPX7JE": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "GP Aviation",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-10T17:35:25.660798Z"
-  },
-  "VKG150": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-10T17:35:25.660798Z"
   },
   "RYR8BL": {
     "route": {
@@ -9821,7 +9799,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-11T19:15:30.270191Z"
+    "checked_at": "2026-10-12T17:40:31.091318Z"
   },
   "BTI89U": {
     "route": {
@@ -12985,5 +12963,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T17:30:45.712842Z"
+  },
+  "LBT233": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tunis",
+      "toIata": "TUN",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-12T17:40:31.091318Z"
   }
 }
