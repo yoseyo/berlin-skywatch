@@ -629,7 +629,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-11T16:45:29.530154Z"
+    "checked_at": "2026-10-12T16:40:33.251782Z"
   },
   "PGT49YQ": {
     "route": {
@@ -5034,17 +5034,6 @@
     },
     "checked_at": "2026-10-11T21:00:54.250522Z"
   },
-  "RYR9SW": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T16:40:29.927833Z"
-  },
   "RYR88JV": {
     "route": {
       "fromCity": "Barcelona",
@@ -6240,31 +6229,9 @@
     },
     "checked_at": "2026-10-11T16:00:54.484798Z"
   },
-  "SAS1759": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T16:35:24.315384Z"
-  },
   "BFX1073": {
     "route": null,
     "checked_at": "2026-10-11T18:05:25.064252Z"
-  },
-  "SEH5515": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-10T16:40:29.927833Z"
   },
   "RYR85CE": {
     "route": {
@@ -9500,7 +9467,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-11T16:55:26.469221Z"
+    "checked_at": "2026-10-12T16:40:33.251782Z"
   },
   "VKG808": {
     "route": {
@@ -12977,5 +12944,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-12T16:30:46.685007Z"
+  },
+  "DAH2072": {
+    "route": {
+      "fromCity": "Algiers",
+      "fromIata": "ALG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Algerie",
+      "airlineCountry": "Algeria"
+    },
+    "checked_at": "2026-10-12T16:40:33.251782Z"
+  },
+  "ISR253": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-12T16:40:33.251782Z"
+  },
+  "RYR83CH": {
+    "route": {
+      "fromCity": "\u0141\u00f3d\u017a",
+      "fromIata": "LCJ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T16:40:33.251782Z"
   }
 }
