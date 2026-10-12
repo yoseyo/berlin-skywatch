@@ -1944,7 +1944,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T09:00:55.928141Z"
+    "checked_at": "2026-10-12T09:10:32.150512Z"
   },
   "LOT4LV": {
     "route": {
@@ -3884,7 +3884,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T09:10:29.578185Z"
+    "checked_at": "2026-10-12T09:10:32.150512Z"
   },
   "AFR65AR": {
     "route": {
@@ -13130,5 +13130,27 @@
   "FDS05": {
     "route": null,
     "checked_at": "2026-10-12T09:05:26.921023Z"
+  },
+  "AUA962D": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T09:10:32.150512Z"
+  },
+  "EJU45GF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T09:10:32.150512Z"
   }
 }
