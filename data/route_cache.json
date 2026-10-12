@@ -218,7 +218,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T15:05:25.135401Z"
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   },
   "QTR56W": {
     "route": {
@@ -251,7 +251,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T15:30:42.522645Z"
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   },
   "TKJ9NQ": {
     "route": {
@@ -306,7 +306,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T15:05:25.135401Z"
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   },
   "BEL2HJ": {
     "route": {
@@ -2866,7 +2866,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-11T08:35:27.309381Z"
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   },
   "WZZ8086": {
     "route": {
@@ -4611,7 +4611,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T09:10:29.578185Z"
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   },
   "FHY1282": {
     "route": {
@@ -4735,8 +4735,15 @@
     "checked_at": "2026-10-11T15:50:29.794460Z"
   },
   "LHX3PP": {
-    "route": null,
-    "checked_at": "2026-10-11T14:50:31.754123Z"
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   },
   "RYR55VV": {
     "route": {
@@ -5724,7 +5731,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T04:55:22.544104Z"
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   },
   "FCK2FT": {
     "route": null,
@@ -6233,10 +6240,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "WZZ6658": {
-    "route": null,
-    "checked_at": "2026-10-10T15:00:53.609247Z"
   },
   "CFG7VT": {
     "route": {
@@ -12918,5 +12921,42 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-12T14:40:32.007490Z"
+  },
+  "EJU38AB": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-12T15:00:57.465927Z"
+  },
+  "PAV512": {
+    "route": null,
+    "checked_at": "2026-10-12T15:00:57.465927Z"
+  },
+  "RYR7664": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T15:00:57.465927Z"
+  },
+  "RYR2SW": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-12T15:00:57.465927Z"
   }
 }
