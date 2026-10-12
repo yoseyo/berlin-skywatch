@@ -3711,7 +3711,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T13:40:31.831597Z"
+    "checked_at": "2026-10-12T13:40:31.643552Z"
   },
   "BPOBER": {
     "route": null,
@@ -4701,17 +4701,6 @@
     },
     "checked_at": "2026-10-12T09:55:31.149801Z"
   },
-  "SAS55H": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T13:40:30.499388Z"
-  },
   "DLH2WR": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -4902,17 +4891,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-10T15:45:32.924462Z"
-  },
-  "RYR7664": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T13:40:30.499388Z"
   },
   "THY29M": {
     "route": {
@@ -12995,5 +12973,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T13:35:24.339703Z"
+  },
+  "BTI72X": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-12T13:40:31.643552Z"
+  },
+  "DBMHD": {
+    "route": null,
+    "checked_at": "2026-10-12T13:40:31.643552Z"
   }
 }
