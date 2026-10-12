@@ -2924,7 +2924,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T19:28:19.212868Z"
+    "checked_at": "2026-10-12T18:50:32.844337Z"
   },
   "THY87X": {
     "route": {
@@ -4871,7 +4871,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T16:55:26.469221Z"
+    "checked_at": "2026-10-12T18:50:32.844337Z"
   },
   "NSZ4507": {
     "route": {
@@ -6262,28 +6262,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-12T18:40:32.018161Z"
-  },
-  "SAS4764": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Bergen",
-      "toIata": "BGO",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T18:50:31.362227Z"
-  },
-  "SDR16XK": {
-    "route": {
-      "fromCity": "Monastir",
-      "fromIata": "MIR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-10T18:50:31.362227Z"
   },
   "CFG2XU": {
     "route": {
@@ -10419,7 +10397,7 @@
   },
   "GAF641": {
     "route": null,
-    "checked_at": "2026-10-12T05:25:25.264772Z"
+    "checked_at": "2026-10-12T18:50:32.844337Z"
   },
   "RYR5979": {
     "route": {
@@ -13014,5 +12992,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T18:40:32.018161Z"
+  },
+  "DAH2073": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Algiers",
+      "toIata": "ALG",
+      "airlineName": "Air Algerie",
+      "airlineCountry": "Algeria"
+    },
+    "checked_at": "2026-10-12T18:50:32.844337Z"
   }
 }
