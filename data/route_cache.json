@@ -1782,7 +1782,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T14:30:44.693999Z"
+    "checked_at": "2026-10-12T09:00:57.296392Z"
   },
   "BAW42PB": {
     "route": {
@@ -1819,7 +1819,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T08:50:33.730316Z"
+    "checked_at": "2026-10-12T09:00:57.296392Z"
   },
   "EZY18FP": {
     "route": {
@@ -1845,7 +1845,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T16:50:35.310927Z"
+    "checked_at": "2026-10-12T09:00:57.296392Z"
   },
   "TVF41HV": {
     "route": {
@@ -1878,7 +1878,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-11T08:55:21.743326Z"
+    "checked_at": "2026-10-12T09:00:57.296392Z"
   },
   "AEE8RB": {
     "route": {
@@ -2745,7 +2745,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T16:50:35.310927Z"
+    "checked_at": "2026-10-12T09:00:57.296392Z"
   },
   "SAS52E": {
     "route": {
@@ -5390,7 +5390,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T09:00:55.928141Z"
+    "checked_at": "2026-10-12T09:00:57.296392Z"
   },
   "EJU79XD": {
     "route": {
@@ -6251,50 +6251,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-11T05:20:30.867870Z"
-  },
-  "PGT19T": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-10T08:55:24.190289Z"
-  },
-  "PGT7191": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-10T09:00:52.932208Z"
-  },
-  "THY1YM": {
-    "route": {
-      "fromCity": "Kastamonu",
-      "fromIata": "KFS",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-10T09:00:52.932208Z"
-  },
-  "RYR57AE": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T09:00:52.932208Z"
   },
   "EWG47Z": {
     "route": {
@@ -13100,5 +13056,71 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T08:50:36.576370Z"
+  },
+  "NSZ79AY": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T09:00:57.296392Z"
+  },
+  "NSZ3755": {
+    "route": {
+      "fromCity": "Ljubljana",
+      "fromIata": "LJU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-12T09:00:57.296392Z"
+  },
+  "QTR68T": {
+    "route": {
+      "fromCity": "Seattle",
+      "fromIata": "SEA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-12T09:00:57.296392Z"
+  },
+  "CFG7KE": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T09:00:57.296392Z"
+  },
+  "EWG3XM": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T09:00:57.296392Z"
+  },
+  "DLH9MA": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T09:00:57.296392Z"
   }
 }
