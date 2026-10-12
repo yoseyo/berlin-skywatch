@@ -1,33 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "ELY001",
-      "country": "Israel",
-      "lat": 52.4555,
-      "lon": 12.9112,
-      "altKm": 10.9,
-      "speedKmh": 859,
-      "heading": 328,
-      "vertRateMs": -0.3,
-      "category": "plane"
-    },
-    {
-      "callsign": "ELY025",
-      "country": "Israel",
-      "lat": 52.3701,
-      "lon": 13.1378,
-      "altKm": 10.9,
-      "speedKmh": 863,
-      "heading": 331,
-      "vertRateMs": -0.3,
-      "airline": "El Al Israel Airlines",
-      "airlineCountry": "Israel",
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "New York",
-      "toIata": "EWR",
+      "callsign": "FIN1676",
+      "country": "Finland",
+      "lat": 52.4325,
+      "lon": 13.3164,
+      "altKm": 11.2,
+      "speedKmh": 870,
+      "heading": 38,
+      "vertRateMs": 0.3,
+      "airline": "Finnair",
+      "airlineCountry": "Finland",
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-12T01:40:31.605034Z"
+  "updated_at": "2026-10-12T01:45:28.916956Z"
 }
