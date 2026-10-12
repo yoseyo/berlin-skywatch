@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-12T21:35:23.606366Z"
+  "flights": [
+    {
+      "callsign": "JTD244",
+      "country": "Denmark",
+      "lat": 52.2789,
+      "lon": 13.9084,
+      "altKm": 11.8,
+      "speedKmh": 615,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "Jet Time",
+      "airlineCountry": "Denmark",
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-12T21:40:29.578430Z"
 }
