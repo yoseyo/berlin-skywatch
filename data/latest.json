@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-12T00:05:22.051102Z"
+  "flights": [
+    {
+      "callsign": "BCS3612",
+      "country": "Germany",
+      "lat": 52.2343,
+      "lon": 12.756,
+      "altKm": 8.1,
+      "speedKmh": 781,
+      "heading": 31,
+      "vertRateMs": 7.8,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS4VD",
+      "country": "Turkey",
+      "lat": 52.7712,
+      "lon": 13.8474,
+      "altKm": 11.2,
+      "speedKmh": 888,
+      "heading": 170,
+      "vertRateMs": -0.3,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-12T00:10:29.163148Z"
 }
