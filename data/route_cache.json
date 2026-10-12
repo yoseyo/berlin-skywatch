@@ -1580,7 +1580,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T07:00:51.263570Z"
+    "checked_at": "2026-10-12T07:00:55.501154Z"
   },
   "FIN7HC": {
     "route": {
@@ -13123,5 +13123,31 @@
   "ATV103": {
     "route": null,
     "checked_at": "2026-10-12T06:55:25.672856Z"
+  },
+  "LHX5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T07:00:55.501154Z"
+  },
+  "GAC454T": {
+    "route": null,
+    "checked_at": "2026-10-12T07:00:55.501154Z"
+  },
+  "CFG3KD": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T07:00:55.501154Z"
   }
 }
