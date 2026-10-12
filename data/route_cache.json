@@ -981,7 +981,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T20:40:30.736082Z"
+    "checked_at": "2026-10-12T20:20:32.489335Z"
   },
   "KLM27F": {
     "route": {
@@ -6288,28 +6288,6 @@
   "SFG55D": {
     "route": null,
     "checked_at": "2026-10-11T12:50:33.217293Z"
-  },
-  "EJU49CR": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-10T20:20:31.946770Z"
-  },
-  "RYR2501": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-10T20:20:31.946770Z"
   },
   "EJU72PR": {
     "route": {
@@ -13070,5 +13048,16 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-12T20:15:30.089370Z"
+  },
+  "EWG3GH": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-12T20:20:32.489335Z"
   }
 }
