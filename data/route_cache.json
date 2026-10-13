@@ -673,7 +673,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T17:40:31.091318Z"
+    "checked_at": "2026-10-13T17:15:29.941654Z"
   },
   "AEE8DT": {
     "route": {
@@ -4176,17 +4176,6 @@
     },
     "checked_at": "2026-10-12T19:05:25.164498Z"
   },
-  "ASL86W": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-11T17:15:29.729667Z"
-  },
   "WZZ9UF": {
     "route": {
       "fromCity": "Varna",
@@ -6296,17 +6285,6 @@
     },
     "checked_at": "2026-10-12T16:40:33.251782Z"
   },
-  "RYR3884": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T17:10:33.247439Z"
-  },
   "BEL9SZ": {
     "route": {
       "fromCity": "Vilnius",
@@ -6317,21 +6295,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-12T14:40:32.007490Z"
-  },
-  "SXS8NM": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-11T17:15:29.729667Z"
-  },
-  "NJE124V": {
-    "route": null,
-    "checked_at": "2026-10-11T17:15:29.729667Z"
   },
   "EWG55X": {
     "route": {
@@ -12932,5 +12895,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T17:10:30.882352Z"
+  },
+  "CXI6BK": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-13T17:15:29.941654Z"
   }
 }
