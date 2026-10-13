@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-13T01:20:29.196198Z"
+  "flights": [
+    {
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.8334,
+      "lon": 13.4221,
+      "altKm": 0.6,
+      "speedKmh": 231,
+      "heading": 164,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "RAM220M",
+      "country": "Morocco",
+      "lat": 52.3143,
+      "lon": 12.9832,
+      "altKm": 11.6,
+      "speedKmh": 780,
+      "heading": 59,
+      "vertRateMs": 0,
+      "airline": "Royal Air Maroc",
+      "airlineCountry": "Morocco",
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "DME",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-13T01:25:22.748622Z"
 }
