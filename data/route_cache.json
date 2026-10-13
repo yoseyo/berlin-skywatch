@@ -3172,7 +3172,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T18:15:30.184203Z"
+    "checked_at": "2026-10-13T18:20:31.243558Z"
   },
   "EWG9QC": {
     "route": {
@@ -4585,7 +4585,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T18:50:32.844337Z"
+    "checked_at": "2026-10-13T18:20:31.243558Z"
   },
   "NSZ4507": {
     "route": {
@@ -6380,10 +6380,6 @@
     },
     "checked_at": "2026-10-12T18:10:31.648443Z"
   },
-  "BPO703": {
-    "route": null,
-    "checked_at": "2026-10-11T18:15:31.627910Z"
-  },
   "FIN8DN": {
     "route": null,
     "checked_at": "2026-10-12T18:00:56.117279Z"
@@ -6398,17 +6394,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-12T16:35:24.014999Z"
-  },
-  "NBT50E": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "New York",
-      "toIata": "JFK",
-      "airlineName": "Norse Atlantic Airways",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-11T18:15:31.627910Z"
   },
   "EWG3V": {
     "route": {
@@ -9930,7 +9915,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T18:20:33.442638Z"
+    "checked_at": "2026-10-13T18:20:31.243558Z"
   },
   "LHX4YP": {
     "route": {
@@ -12910,5 +12895,38 @@
   "SDR62DM": {
     "route": null,
     "checked_at": "2026-10-13T18:15:30.916756Z"
+  },
+  "BEL9965": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-13T18:20:31.243558Z"
+  },
+  "RYR8843": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Aberdeen",
+      "toIata": "ABZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T18:20:31.243558Z"
+  },
+  "CTN4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-13T18:20:31.243558Z"
   }
 }
