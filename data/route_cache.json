@@ -2353,7 +2353,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-12T12:15:29.627985Z"
+    "checked_at": "2026-10-13T11:50:32.124129Z"
   },
   "DLH9MH": {
     "route": {
@@ -2375,7 +2375,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T11:45:30.096528Z"
+    "checked_at": "2026-10-13T11:50:32.124129Z"
   },
   "KLC21A": {
     "route": {
@@ -2492,8 +2492,15 @@
     "checked_at": "2026-10-12T12:30:44.302631Z"
   },
   "EJU47DE": {
-    "route": null,
-    "checked_at": "2026-10-12T10:00:57.441268Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T11:50:32.124129Z"
   },
   "SXS6ZK": {
     "route": {
