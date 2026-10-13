@@ -2444,8 +2444,15 @@
     "checked_at": "2026-10-13T12:10:33.625015Z"
   },
   "QTR37K": {
-    "route": null,
-    "checked_at": "2026-10-12T12:15:29.627985Z"
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-13T12:35:23.237170Z"
   },
   "AUA29M": {
     "route": {
@@ -6543,7 +6550,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-12T12:50:39.741288Z"
+    "checked_at": "2026-10-13T12:35:23.237170Z"
   },
   "BEL9CK": {
     "route": {
@@ -13192,5 +13199,43 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-13T12:30:47.693647Z"
+  },
+  "DHEER": {
+    "route": null,
+    "checked_at": "2026-10-13T12:35:23.237170Z"
+  },
+  "NJE458D": {
+    "route": null,
+    "checked_at": "2026-10-13T12:35:23.237170Z"
+  },
+  "DLH891": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T12:35:23.237170Z"
+  },
+  "NJE942H": {
+    "route": null,
+    "checked_at": "2026-10-13T12:35:23.237170Z"
+  },
+  "WZZ3EP": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-13T12:35:23.237170Z"
+  },
+  "FHM4723": {
+    "route": null,
+    "checked_at": "2026-10-13T12:35:23.237170Z"
   }
 }
