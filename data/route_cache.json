@@ -1157,7 +1157,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-12T04:30:44.196207Z"
+    "checked_at": "2026-10-13T04:45:30.905013Z"
   },
   "DLH8MC": {
     "route": {
@@ -1168,7 +1168,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T04:40:34.389250Z"
+    "checked_at": "2026-10-13T04:45:30.905013Z"
   },
   "KLC80U": {
     "route": {
@@ -1223,7 +1223,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-12T07:05:25.766430Z"
+    "checked_at": "2026-10-13T04:45:30.905013Z"
   },
   "TVF25AT": {
     "route": {
@@ -4078,7 +4078,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T04:45:30.019551Z"
+    "checked_at": "2026-10-13T04:45:30.905013Z"
   },
   "CTN480": {
     "route": {
@@ -6321,17 +6321,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-13T04:30:43.894488Z"
-  },
-  "CAT331": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Copenhagen Airtaxi",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-11T04:45:27.763336Z"
   },
   "WMT2GJ": {
     "route": {
@@ -13008,5 +12997,16 @@
   "NJE867A": {
     "route": null,
     "checked_at": "2026-10-13T04:40:30.544759Z"
+  },
+  "SXS8LV": {
+    "route": {
+      "fromCity": "Hannover",
+      "fromIata": "HAJ",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T04:45:30.905013Z"
   }
 }
