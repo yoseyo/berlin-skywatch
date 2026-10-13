@@ -2019,7 +2019,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T08:40:32.400604Z"
+    "checked_at": "2026-10-13T10:00:55.667435Z"
   },
   "DLH9KK": {
     "route": {
@@ -6301,50 +6301,6 @@
     },
     "checked_at": "2026-10-13T09:25:24.807664Z"
   },
-  "NSZ3731": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T09:55:25.468382Z"
-  },
-  "EJU81BJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T09:55:25.468382Z"
-  },
-  "RYR28HY": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T09:55:25.468382Z"
-  },
-  "AEE751": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-11T10:00:51.761001Z"
-  },
   "SAS10E": {
     "route": {
       "fromCity": "Venice",
@@ -6794,7 +6750,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-11T13:00:54.848811Z"
+    "checked_at": "2026-10-13T10:00:55.667435Z"
   },
   "SDR49KT": {
     "route": {
@@ -13041,5 +12997,27 @@
   "CHX39": {
     "route": null,
     "checked_at": "2026-10-13T09:55:23.980286Z"
+  },
+  "NSZ5063": {
+    "route": {
+      "fromCity": "V\u00e4xj\u00f6",
+      "fromIata": "VXO",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T10:00:55.667435Z"
+  },
+  "EWG5SP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T10:00:55.667435Z"
   }
 }
