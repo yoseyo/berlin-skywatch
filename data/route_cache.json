@@ -306,7 +306,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-12T15:50:31.889017Z"
+    "checked_at": "2026-10-13T15:30:47.338364Z"
   },
   "TVF77EX": {
     "route": {
@@ -383,7 +383,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T16:05:27.213239Z"
+    "checked_at": "2026-10-13T15:30:47.338364Z"
   },
   "PGT7UZ": {
     "route": {
@@ -3293,7 +3293,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T13:15:29.826225Z"
+    "checked_at": "2026-10-13T15:30:47.338364Z"
   },
   "RYR303F": {
     "route": {
@@ -4509,17 +4509,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T15:00:57.465927Z"
-  },
-  "RYR55VV": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T15:30:42.522645Z"
   },
   "RYR5XX": {
     "route": {
@@ -6317,31 +6306,9 @@
     },
     "checked_at": "2026-10-13T15:05:26.203519Z"
   },
-  "EJU69RD": {
-    "route": {
-      "fromCity": "Sharm el-Sheikh",
-      "fromIata": "SSH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T15:25:23.995482Z"
-  },
   "PYR014": {
     "route": null,
     "checked_at": "2026-10-13T14:30:47.075043Z"
-  },
-  "NSZ2058": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T15:30:42.522645Z"
   },
   "AUA971": {
     "route": {
@@ -8438,7 +8405,7 @@
   },
   "SCR137": {
     "route": null,
-    "checked_at": "2026-10-12T07:45:30.042836Z"
+    "checked_at": "2026-10-13T15:30:47.338364Z"
   },
   "NSZ5610": {
     "route": {
@@ -9987,7 +9954,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-12T15:45:30.364567Z"
+    "checked_at": "2026-10-13T15:30:47.338364Z"
   },
   "THY9VA": {
     "route": {
@@ -13109,5 +13076,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-13T15:18:03.772278Z"
+  },
+  "LHX1RV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T15:30:47.338364Z"
   }
 }
