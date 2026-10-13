@@ -3510,7 +3510,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-10-12T12:05:23.500818Z"
+    "checked_at": "2026-10-13T20:45:30.810674Z"
   },
   "TKJ3WS": {
     "route": {
@@ -8892,7 +8892,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T15:25:24.230183Z"
+    "checked_at": "2026-10-13T20:45:30.810674Z"
   },
   "PYR006": {
     "route": null,
@@ -12760,5 +12760,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-13T20:40:32.736202Z"
+  },
+  "NOZ51J": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-13T20:45:30.810674Z"
+  },
+  "EJU37DJ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T20:45:30.810674Z"
   }
 }
