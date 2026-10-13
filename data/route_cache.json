@@ -1003,7 +1003,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T20:50:33.179508Z"
+    "checked_at": "2026-10-13T20:25:24.856122Z"
   },
   "AFR69GW": {
     "route": {
@@ -1014,7 +1014,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-12T20:30:43.759729Z"
+    "checked_at": "2026-10-13T20:25:24.856122Z"
   },
   "SWR9LC": {
     "route": {
@@ -6439,17 +6439,6 @@
     },
     "checked_at": "2026-10-12T19:40:31.636848Z"
   },
-  "EJU42JF": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Paris",
-      "toIata": "ORY",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T20:25:24.324430Z"
-  },
   "GGVII": {
     "route": null,
     "checked_at": "2026-10-11T20:30:43.880881Z"
@@ -9857,7 +9846,7 @@
       "airlineName": "Swiftair",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-12T20:15:30.089370Z"
+    "checked_at": "2026-10-13T20:25:24.856122Z"
   },
   "EWG3GH": {
     "route": {
@@ -12804,5 +12793,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T20:20:33.377346Z"
+  },
+  "RYR44PB": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T20:25:24.856122Z"
   }
 }
