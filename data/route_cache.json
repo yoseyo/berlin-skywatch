@@ -2089,7 +2089,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T09:35:24.676912Z"
+    "checked_at": "2026-10-13T09:45:29.300217Z"
   },
   "DLH8N": {
     "route": {
@@ -3643,7 +3643,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-10-12T10:05:25.009275Z"
+    "checked_at": "2026-10-13T09:45:29.300217Z"
   },
   "TAP53LB": {
     "route": {
@@ -3978,17 +3978,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-13T09:10:31.910130Z"
-  },
-  "MEA245": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-10-11T09:40:29.615070Z"
   },
   "EWG8MD": {
     "route": {
@@ -10130,7 +10119,7 @@
   },
   "HBKBC": {
     "route": null,
-    "checked_at": "2026-10-12T10:35:24.265279Z"
+    "checked_at": "2026-10-13T09:45:29.300217Z"
   },
   "CAT744": {
     "route": null,
@@ -13033,5 +13022,27 @@
   "GAF617": {
     "route": null,
     "checked_at": "2026-10-13T09:40:28.446543Z"
+  },
+  "RYR308B": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T09:45:29.300217Z"
+  },
+  "DLH1941": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T09:45:29.300217Z"
   }
 }
