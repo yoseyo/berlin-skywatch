@@ -2690,8 +2690,15 @@
     "checked_at": "2026-10-13T13:40:32.164915Z"
   },
   "EJU69MZ": {
-    "route": null,
-    "checked_at": "2026-10-12T09:55:31.149801Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T13:45:33.323805Z"
   },
   "RYR7QZ": {
     "route": {
@@ -3532,7 +3539,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-11T15:10:32.696417Z"
+    "checked_at": "2026-10-13T13:45:33.323805Z"
   },
   "EJU32RT": {
     "route": null,
@@ -6328,17 +6335,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-12T11:15:30.718956Z"
-  },
-  "AEE513": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-11T13:45:28.996755Z"
   },
   "DBETI": {
     "route": null,
