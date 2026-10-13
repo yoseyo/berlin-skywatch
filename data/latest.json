@@ -1,27 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "CHXE5",
-      "country": "Germany",
-      "lat": 52.5191,
-      "lon": 13.5676,
-      "altKm": 0.1,
-      "speedKmh": 0,
-      "heading": 0,
+      "callsign": "ACA43",
+      "country": "Canada",
+      "lat": 52.9415,
+      "lon": 13.5265,
+      "altKm": 10.0,
+      "speedKmh": 778,
+      "heading": 309,
       "vertRateMs": 0,
+      "airline": "Air Canada",
+      "airlineCountry": "Canada",
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
       "category": "plane"
-    },
-    {
-      "callsign": "CHX71",
-      "country": "Germany",
-      "lat": 52.2065,
-      "lon": 13.5447,
-      "altKm": 0.6,
-      "speedKmh": 240,
-      "heading": 158,
-      "vertRateMs": 0.3,
-      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-13T01:10:29.022965Z"
+  "updated_at": "2026-10-13T01:15:29.040566Z"
 }
