@@ -1025,7 +1025,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-12T20:35:24.419228Z"
+    "checked_at": "2026-10-13T20:20:33.377346Z"
   },
   "DLH206": {
     "route": {
@@ -2786,7 +2786,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T20:25:24.259560Z"
+    "checked_at": "2026-10-13T20:20:33.377346Z"
   },
   "RYR1WP": {
     "route": {
@@ -4531,17 +4531,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-12T06:35:25.168519Z"
-  },
-  "EJU76NZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T20:20:31.888347Z"
   },
   "BAW995": {
     "route": {
@@ -6449,17 +6438,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-12T19:40:31.636848Z"
-  },
-  "BTI9BQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-11T20:20:31.888347Z"
   },
   "EJU42JF": {
     "route": {
@@ -12815,5 +12793,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-13T20:10:31.284185Z"
+  },
+  "EJU65LD": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T20:20:33.377346Z"
   }
 }
