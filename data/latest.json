@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-13T21:20:31.010911Z"
+  "flights": [
+    {
+      "callsign": "CGF7827",
+      "country": "Bulgaria",
+      "lat": 52.3076,
+      "lon": 13.178,
+      "altKm": 3.3,
+      "speedKmh": 488,
+      "heading": 254,
+      "vertRateMs": 17.9,
+      "airline": "Cargo Air",
+      "airlineCountry": "Bulgaria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-13T21:25:24.840248Z"
 }
