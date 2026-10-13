@@ -860,7 +860,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T18:45:30.143541Z"
+    "checked_at": "2026-10-13T19:25:24.140701Z"
   },
   "KLC1335": {
     "route": {
@@ -882,7 +882,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T19:20:29.709933Z"
+    "checked_at": "2026-10-13T19:25:24.140701Z"
   },
   "RYR3RD": {
     "route": {
@@ -3260,7 +3260,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T17:20:33.651422Z"
+    "checked_at": "2026-10-13T19:25:24.140701Z"
   },
   "FIN6AP": {
     "route": {
@@ -3385,7 +3385,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T19:07:42.700122Z"
+    "checked_at": "2026-10-13T19:25:24.140701Z"
   },
   "RYR30TE": {
     "route": {
@@ -4197,17 +4197,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-12T15:05:27.993094Z"
-  },
-  "ASL44H": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-11T19:20:32.366120Z"
   },
   "WZZ513": {
     "route": {
@@ -6438,17 +6427,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T18:40:29.413872Z"
-  },
-  "WZZ1469": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Skopje",
-      "toIata": "SKP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-11T19:20:32.366120Z"
   },
   "LOT397": {
     "route": {
@@ -12877,5 +12855,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-13T19:20:31.882588Z"
+  },
+  "NSZ4366": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T19:25:24.140701Z"
   }
 }
