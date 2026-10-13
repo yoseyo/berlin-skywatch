@@ -4118,17 +4118,6 @@
     },
     "checked_at": "2026-10-12T07:05:25.766430Z"
   },
-  "SWU1950": {
-    "route": {
-      "fromCity": "Bolzano",
-      "fromIata": "BZO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Swiss European Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-11T12:55:24.035879Z"
-  },
   "RJA137": {
     "route": {
       "fromCity": "Amman",
@@ -6317,17 +6306,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T10:00:55.667435Z"
-  },
-  "SDR49KT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T13:00:54.848811Z"
   },
   "FLI7146": {
     "route": {
@@ -9377,7 +9355,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T09:35:24.676912Z"
+    "checked_at": "2026-10-13T13:00:56.629500Z"
   },
   "NJE084A": {
     "route": null,
@@ -13218,5 +13196,31 @@
   "NJE694P": {
     "route": null,
     "checked_at": "2026-10-13T12:55:23.578513Z"
+  },
+  "RYR2JL": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T13:00:56.629500Z"
+  },
+  "RYR108X": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T13:00:56.629500Z"
+  },
+  "DIGRK": {
+    "route": null,
+    "checked_at": "2026-10-13T13:00:56.629500Z"
   }
 }
