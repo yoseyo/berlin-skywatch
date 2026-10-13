@@ -1689,7 +1689,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-12T08:25:24.954586Z"
+    "checked_at": "2026-10-13T07:55:22.381291Z"
   },
   "SWR44E": {
     "route": {
@@ -1733,7 +1733,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T08:01:03.453459Z"
+    "checked_at": "2026-10-13T07:55:22.381291Z"
   },
   "DAL93": {
     "route": {
@@ -1777,7 +1777,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T07:50:33.874732Z"
+    "checked_at": "2026-10-13T07:55:22.381291Z"
   },
   "IBE07TT": {
     "route": {
@@ -4088,7 +4088,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-12T07:45:30.042836Z"
+    "checked_at": "2026-10-13T07:55:22.381291Z"
   },
   "AUA99J": {
     "route": {
@@ -13021,5 +13021,27 @@
   "NJE028D": {
     "route": null,
     "checked_at": "2026-10-13T07:47:22.050441Z"
+  },
+  "CAI4AA": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T07:55:22.381291Z"
+  },
+  "PGT390G": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T07:55:22.381291Z"
   }
 }
