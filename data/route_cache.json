@@ -2408,7 +2408,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T11:50:29.793863Z"
+    "checked_at": "2026-10-13T12:30:47.693647Z"
   },
   "WMT1RH": {
     "route": {
@@ -4586,7 +4586,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-11T20:10:31.155447Z"
+    "checked_at": "2026-10-13T12:30:47.693647Z"
   },
   "RYR8TQ": {
     "route": {
@@ -4597,7 +4597,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T12:40:31.374891Z"
+    "checked_at": "2026-10-13T12:30:47.693647Z"
   },
   "RYR5SB": {
     "route": {
@@ -6315,39 +6315,6 @@
     },
     "checked_at": "2026-10-12T06:35:25.168519Z"
   },
-  "NOZ6RE": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-11T12:25:26.349493Z"
-  },
-  "EWG1XN": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T12:30:43.391498Z"
-  },
-  "NSZ3300": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T12:30:43.391498Z"
-  },
   "JDI05W": {
     "route": null,
     "checked_at": "2026-10-11T12:35:24.622573Z"
@@ -6394,7 +6361,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T12:40:31.374891Z"
+    "checked_at": "2026-10-13T12:30:47.693647Z"
   },
   "N45JE": {
     "route": null,
@@ -13214,5 +13181,16 @@
   "BID21C": {
     "route": null,
     "checked_at": "2026-10-13T12:25:23.911317Z"
+  },
+  "BTI98T": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-13T12:30:47.693647Z"
   }
 }
