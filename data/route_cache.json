@@ -3756,7 +3756,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T17:00:58.650836Z"
+    "checked_at": "2026-10-13T16:50:34.259791Z"
   },
   "LGL9473": {
     "route": {
@@ -4574,7 +4574,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T17:30:45.712842Z"
+    "checked_at": "2026-10-13T16:50:34.259791Z"
   },
   "THY29M": {
     "route": {
@@ -4651,7 +4651,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T10:00:57.441268Z"
+    "checked_at": "2026-10-13T16:50:34.259791Z"
   },
   "RYR70FL": {
     "route": {
@@ -9869,7 +9869,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T16:50:34.286077Z"
+    "checked_at": "2026-10-13T16:50:34.259791Z"
   },
   "DKH1667": {
     "route": {
@@ -12932,5 +12932,27 @@
   "AEG7814": {
     "route": null,
     "checked_at": "2026-10-13T16:45:31.564553Z"
+  },
+  "DLH883": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T16:50:34.259791Z"
+  },
+  "LHX851": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T16:50:34.259791Z"
   }
 }
