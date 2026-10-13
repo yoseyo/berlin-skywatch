@@ -4601,7 +4601,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T09:55:31.149801Z"
+    "checked_at": "2026-10-13T10:50:40.872810Z"
   },
   "NSZ4357": {
     "route": {
@@ -5698,17 +5698,6 @@
     },
     "checked_at": "2026-10-12T12:45:29.720408Z"
   },
-  "RYR36RH": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T10:50:34.029469Z"
-  },
   "DLH5N": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6344,25 +6333,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T06:05:25.285931Z"
-  },
-  "OYJWM": {
-    "route": null,
-    "checked_at": "2026-10-11T10:45:33.638296Z"
-  },
-  "DEXTA": {
-    "route": null,
-    "checked_at": "2026-10-11T10:45:33.638296Z"
-  },
-  "SAS1812": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T10:45:33.638296Z"
   },
   "AMQ7A": {
     "route": null,
@@ -13184,5 +13154,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T10:45:29.738839Z"
+  },
+  "LBT249": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Monastir",
+      "toIata": "MIR",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-13T10:50:40.872810Z"
+  },
+  "MSR984": {
+    "route": {
+      "fromCity": "Los Angeles",
+      "fromIata": "LAX",
+      "toCity": "Cairo",
+      "toIata": "CAI",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-13T10:50:40.872810Z"
+  },
+  "SAS67W": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T10:50:40.872810Z"
   }
 }
