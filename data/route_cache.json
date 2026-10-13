@@ -1942,7 +1942,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T09:10:32.150512Z"
+    "checked_at": "2026-10-13T09:10:31.910130Z"
   },
   "LOT4LV": {
     "route": {
@@ -3621,7 +3621,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T08:25:24.954586Z"
+    "checked_at": "2026-10-13T09:10:31.910130Z"
   },
   "VLG6JY": {
     "route": {
@@ -3988,7 +3988,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-12T09:40:33.869823Z"
+    "checked_at": "2026-10-13T09:10:31.910130Z"
   },
   "MEA245": {
     "route": {
@@ -4076,7 +4076,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T03:45:28.961468Z"
+    "checked_at": "2026-10-13T09:10:31.910130Z"
   },
   "RYR1JK": {
     "route": {
@@ -5045,7 +5045,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T09:00:57.296392Z"
+    "checked_at": "2026-10-13T09:10:31.910130Z"
   },
   "EJU79XD": {
     "route": {
@@ -5399,17 +5399,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-11T13:40:31.831597Z"
-  },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-11T09:10:29.578185Z"
   },
   "AUA26Z": {
     "route": {
@@ -6344,21 +6333,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-12T08:30:47.013074Z"
-  },
-  "OEUDL": {
-    "route": null,
-    "checked_at": "2026-10-11T09:05:23.698119Z"
-  },
-  "RYR8988": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T09:05:23.698119Z"
   },
   "SAS2677": {
     "route": {
@@ -13038,5 +13012,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T09:05:22.628035Z"
+  },
+  "DBANN": {
+    "route": {
+      "fromCity": "Speyer",
+      "fromIata": null,
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-13T09:10:31.910130Z"
+  },
+  "RYR14YY": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T09:10:31.910130Z"
+  },
+  "CXI59ST": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-13T09:10:31.910130Z"
   }
 }
