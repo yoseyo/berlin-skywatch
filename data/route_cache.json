@@ -5658,7 +5658,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-11T14:55:24.089265Z"
+    "checked_at": "2026-10-13T14:35:26.526565Z"
   },
   "NSZ9PR": {
     "route": {
@@ -6346,17 +6346,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-12T13:20:33.226483Z"
-  },
-  "RYR31MR": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T14:35:22.490065Z"
   },
   "NOZ1WC": {
     "route": {
@@ -8506,8 +8495,15 @@
     "checked_at": "2026-10-13T07:20:31.108176Z"
   },
   "DFEFY": {
-    "route": null,
-    "checked_at": "2026-10-12T06:55:25.672856Z"
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "Bottrop-Kirchhellen",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-13T14:35:26.526565Z"
   },
   "ATV103": {
     "route": null,
@@ -8930,7 +8926,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T09:00:57.296392Z"
+    "checked_at": "2026-10-13T14:35:26.526565Z"
   },
   "DLH9MA": {
     "route": {
@@ -13150,5 +13146,24 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T14:30:47.075043Z"
+  },
+  "AWH91H": {
+    "route": null,
+    "checked_at": "2026-10-13T14:35:26.526565Z"
+  },
+  "RYR93KF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T14:35:26.526565Z"
+  },
+  "NJE963K": {
+    "route": null,
+    "checked_at": "2026-10-13T14:35:26.526565Z"
   }
 }
