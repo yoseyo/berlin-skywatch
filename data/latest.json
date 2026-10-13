@@ -1,56 +1,16 @@
 {
   "flights": [
     {
-      "callsign": "BCS5959",
-      "country": "Bulgaria",
-      "lat": 52.1782,
-      "lon": 13.9738,
-      "altKm": 10.3,
-      "speedKmh": 726,
-      "heading": 62,
-      "vertRateMs": -0.3,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "category": "plane"
-    },
-    {
-      "callsign": "CGF7828",
-      "country": "Bulgaria",
-      "lat": 52.2952,
-      "lon": 13.1812,
-      "altKm": 1.2,
-      "speedKmh": 360,
-      "heading": 69,
-      "vertRateMs": 0,
-      "airline": "Cargo Air",
-      "airlineCountry": "Bulgaria",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "CSN331",
-      "country": "China",
-      "lat": 52.6604,
-      "lon": 12.8817,
-      "altKm": 11.9,
-      "speedKmh": 892,
-      "heading": 248,
-      "vertRateMs": 0,
-      "airline": "China Southern Airlines",
-      "airlineCountry": "China",
-      "fromCity": "Guangzhou (Huadu)",
-      "fromIata": "CAN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "category": "plane"
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.5508,
+      "lon": 13.4396,
+      "altKm": 0.7,
+      "speedKmh": 195,
+      "heading": 239,
+      "vertRateMs": 0.3,
+      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-13T03:45:29.782109Z"
+  "updated_at": "2026-10-13T03:50:31.571012Z"
 }
