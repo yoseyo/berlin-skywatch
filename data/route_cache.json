@@ -4174,7 +4174,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-12T19:05:25.164498Z"
+    "checked_at": "2026-10-13T18:25:24.154579Z"
   },
   "WZZ9UF": {
     "route": {
@@ -6406,17 +6406,6 @@
     },
     "checked_at": "2026-10-13T17:25:25.988423Z"
   },
-  "CCA958": {
-    "route": {
-      "fromCity": "Singapore",
-      "fromIata": "SIN",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-11T18:20:33.001720Z"
-  },
   "CCA936": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6701,7 +6690,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T18:45:30.143541Z"
+    "checked_at": "2026-10-13T18:25:24.154579Z"
   },
   "CXI97DR": {
     "route": {
@@ -12928,5 +12917,20 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-13T18:20:31.243558Z"
+  },
+  "SDR15NL": {
+    "route": null,
+    "checked_at": "2026-10-13T18:25:24.154579Z"
+  },
+  "RYR2NB": {
+    "route": {
+      "fromCity": "Torp",
+      "fromIata": "TRF",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T18:25:24.154579Z"
   }
 }
