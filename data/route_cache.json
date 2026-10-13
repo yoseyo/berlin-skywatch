@@ -2551,7 +2551,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T13:20:33.226483Z"
+    "checked_at": "2026-10-13T13:15:32.043909Z"
   },
   "DLH6MM": {
     "route": {
@@ -2632,7 +2632,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-12T14:00:57.950251Z"
+    "checked_at": "2026-10-13T13:15:32.043909Z"
   },
   "RYR8WT": {
     "route": {
@@ -2676,7 +2676,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T13:25:23.969083Z"
+    "checked_at": "2026-10-13T13:15:32.043909Z"
   },
   "RYR103K": {
     "route": {
@@ -5377,17 +5377,6 @@
     },
     "checked_at": "2026-10-12T20:35:24.419228Z"
   },
-  "EWG2W": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Karpathos Island",
-      "toIata": "AOK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T13:15:31.655458Z"
-  },
   "RYR98ST": {
     "route": {
       "fromCity": "Berlin",
@@ -6318,17 +6307,6 @@
     },
     "checked_at": "2026-10-12T12:55:28.853697Z"
   },
-  "ENT4UX": {
-    "route": {
-      "fromCity": "Zakynthos Island",
-      "fromIata": "ZTH",
-      "toCity": "Katowice",
-      "toIata": "KTW",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-11T13:15:31.655458Z"
-  },
   "WZZ4782": {
     "route": {
       "fromCity": "Cologne",
@@ -6339,17 +6317,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-12T10:15:31.640529Z"
-  },
-  "SAS1697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T13:15:31.655458Z"
   },
   "JDI60F": {
     "route": null,
@@ -13218,5 +13185,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T13:10:33.149964Z"
+  },
+  "GAC655K": {
+    "route": null,
+    "checked_at": "2026-10-13T13:15:32.043909Z"
+  },
+  "RYR8742": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Trieste",
+      "toIata": "TRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T13:15:32.043909Z"
+  },
+  "VOE1462": {
+    "route": {
+      "fromCity": "Firenze",
+      "fromIata": "FLR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-13T13:15:32.043909Z"
   }
 }
