@@ -2254,7 +2254,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T11:40:31.283466Z"
+    "checked_at": "2026-10-13T11:20:32.128110Z"
   },
   "RYR7BV": {
     "route": {
@@ -2515,7 +2515,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-12T12:00:56.503528Z"
+    "checked_at": "2026-10-13T11:20:32.128110Z"
   },
   "MSR731": {
     "route": {
@@ -6319,39 +6319,6 @@
     },
     "checked_at": "2026-10-13T06:05:25.285931Z"
   },
-  "RYR159P": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T11:15:29.248099Z"
-  },
-  "FLI7121": {
-    "route": {
-      "fromCity": "Preveza/Lefkada",
-      "fromIata": "PVK",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-10-11T11:15:29.248099Z"
-  },
-  "EWG5NP": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T11:20:31.912063Z"
-  },
   "ENT9LT": {
     "route": {
       "fromCity": "Olbia (SS)",
@@ -6597,7 +6564,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T12:55:24.035879Z"
+    "checked_at": "2026-10-13T11:20:32.128110Z"
   },
   "EJU5060": {
     "route": {
@@ -7271,7 +7238,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-12T11:30:44.913340Z"
+    "checked_at": "2026-10-13T11:20:32.128110Z"
   },
   "UNI137": {
     "route": null,
@@ -9922,7 +9889,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T10:55:22.550496Z"
+    "checked_at": "2026-10-13T11:20:32.128110Z"
   },
   "LHX2T": {
     "route": {
@@ -13206,5 +13173,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T11:15:28.915518Z"
+  },
+  "EJU1765": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T11:20:32.128110Z"
+  },
+  "EJU93DL": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T11:20:32.128110Z"
   }
 }
