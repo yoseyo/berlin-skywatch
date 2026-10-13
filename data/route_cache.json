@@ -361,7 +361,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T14:05:26.985290Z"
+    "checked_at": "2026-10-13T14:55:25.227222Z"
   },
   "RYR3PT": {
     "route": {
@@ -5577,7 +5577,7 @@
   },
   "DMYHG": {
     "route": null,
-    "checked_at": "2026-10-12T15:20:36.597854Z"
+    "checked_at": "2026-10-13T14:55:25.227222Z"
   },
   "EJU83ZK": {
     "route": {
@@ -5600,17 +5600,6 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-13T14:00:58.050356Z"
-  },
-  "DLH8HU": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Dresden",
-      "toIata": "DRS",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T14:50:31.754123Z"
   },
   "THY95Y": {
     "route": {
@@ -6331,47 +6320,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-12T14:25:26.050390Z"
-  },
-  "EWG2Q": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T14:50:31.754123Z"
-  },
-  "CAT319": {
-    "route": {
-      "fromCity": "Aarhus",
-      "fromIata": "AAR",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Copenhagen Airtaxi",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-11T14:50:31.754123Z"
-  },
-  "DCUVH": {
-    "route": null,
-    "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "RYR17PM": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T14:55:24.089265Z"
-  },
-  "PEA302": {
-    "route": null,
-    "checked_at": "2026-10-11T14:55:24.089265Z"
   },
   "MSR760": {
     "route": {
@@ -13121,5 +13069,27 @@
   "DESNN": {
     "route": null,
     "checked_at": "2026-10-13T14:50:30.580830Z"
+  },
+  "CCA931": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-13T14:55:25.227222Z"
+  },
+  "TKJ9NQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T14:55:25.227222Z"
   }
 }
