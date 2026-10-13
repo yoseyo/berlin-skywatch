@@ -717,7 +717,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-12T18:55:23.021521Z"
+    "checked_at": "2026-10-13T18:30:45.453911Z"
   },
   "DLH1XN": {
     "route": {
@@ -816,7 +816,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T19:35:23.728071Z"
+    "checked_at": "2026-10-13T18:30:45.453911Z"
   },
   "AEE82B": {
     "route": {
@@ -3451,7 +3451,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T18:35:24.300945Z"
+    "checked_at": "2026-10-13T18:30:45.453911Z"
   },
   "RYR97WV": {
     "route": {
@@ -3789,7 +3789,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T18:40:32.018161Z"
+    "checked_at": "2026-10-13T18:30:45.453911Z"
   },
   "LGL74BE": {
     "route": {
@@ -5130,17 +5130,6 @@
     },
     "checked_at": "2026-10-12T15:25:24.230183Z"
   },
-  "SAS2690": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T18:30:44.852454Z"
-  },
   "RYR7RJ": {
     "route": {
       "fromCity": "Warsaw",
@@ -6427,28 +6416,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-13T17:55:25.063231Z"
-  },
-  "QTR24E": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-11T18:30:44.852454Z"
-  },
-  "RYR5WY": {
-    "route": {
-      "fromCity": "Nantes",
-      "fromIata": "NTE",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T18:30:44.852454Z"
   },
   "NOZ5HE": {
     "route": {
@@ -12932,5 +12899,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-13T18:25:24.154579Z"
+  },
+  "PGT566B": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T18:30:45.453911Z"
   }
 }
