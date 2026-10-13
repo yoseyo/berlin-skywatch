@@ -607,7 +607,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T15:45:30.364567Z"
+    "checked_at": "2026-10-13T16:15:32.405933Z"
   },
   "SWR1PF": {
     "route": {
@@ -6313,17 +6313,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-12T20:10:31.534430Z"
-  },
-  "BTI3FL": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-11T16:15:29.317013Z"
   },
   "EJU16CF": {
     "route": {
@@ -12983,5 +12972,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-13T16:10:33.863175Z"
+  },
+  "DBADO": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Mannheim",
+      "toIata": "MHG",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-13T16:15:32.405933Z"
+  },
+  "LOT3JK": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-13T16:15:32.405933Z"
   }
 }
