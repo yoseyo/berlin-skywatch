@@ -240,7 +240,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-12T14:40:32.007490Z"
+    "checked_at": "2026-10-13T14:30:47.075043Z"
   },
   "EJU81FH": {
     "route": {
@@ -3987,7 +3987,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-11T15:20:29.300156Z"
+    "checked_at": "2026-10-13T14:30:47.075043Z"
   },
   "EWG2HC": {
     "route": {
@@ -6325,21 +6325,6 @@
     },
     "checked_at": "2026-10-12T14:20:31.778142Z"
   },
-  "NJE491N": {
-    "route": null,
-    "checked_at": "2026-10-11T14:30:44.693999Z"
-  },
-  "SXS9QQ": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-11T14:30:44.693999Z"
-  },
   "WZZ9EN": {
     "route": {
       "fromCity": "Berlin",
@@ -6350,17 +6335,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-12T13:55:23.438942Z"
-  },
-  "RYR33BL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T14:30:44.693999Z"
   },
   "SEH875": {
     "route": {
@@ -6593,7 +6567,7 @@
   },
   "PYR014": {
     "route": null,
-    "checked_at": "2026-10-11T15:25:23.995482Z"
+    "checked_at": "2026-10-13T14:30:47.075043Z"
   },
   "NSZ2058": {
     "route": {
@@ -13165,5 +13139,16 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-13T14:25:25.349920Z"
+  },
+  "EJU34XG": {
+    "route": {
+      "fromCity": "Tivat",
+      "fromIata": "TIV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T14:30:47.075043Z"
   }
 }
