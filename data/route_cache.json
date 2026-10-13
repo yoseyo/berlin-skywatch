@@ -662,7 +662,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-12T16:30:46.685007Z"
+    "checked_at": "2026-10-13T16:10:33.863175Z"
   },
   "LOT3KT": {
     "route": {
@@ -992,7 +992,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T16:20:34.889480Z"
+    "checked_at": "2026-10-13T16:10:33.863175Z"
   },
   "DLH4T": {
     "route": {
@@ -5693,17 +5693,6 @@
     },
     "checked_at": "2026-10-11T19:00:53.207457Z"
   },
-  "WZZ4BB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-11T16:10:30.580389Z"
-  },
   "VLG1887": {
     "route": {
       "fromCity": "Berlin",
@@ -6291,17 +6280,6 @@
   "UNI137": {
     "route": null,
     "checked_at": "2026-10-12T07:05:25.766430Z"
-  },
-  "RYR2281": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T16:10:30.580389Z"
   },
   "WZZ3GV": {
     "route": {
@@ -12994,5 +12972,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-13T15:55:25.576593Z"
+  },
+  "THY81D": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Boston",
+      "toIata": "BOS",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T16:10:33.863175Z"
   }
 }
