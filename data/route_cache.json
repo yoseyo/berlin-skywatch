@@ -2984,7 +2984,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T19:00:52.823283Z"
+    "checked_at": "2026-10-13T18:55:25.820229Z"
   },
   "UAE98V": {
     "route": {
@@ -6360,7 +6360,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-10-12T18:00:56.117279Z"
+    "checked_at": "2026-10-13T18:55:25.820229Z"
   },
   "PGT816T": {
     "route": {
@@ -6416,17 +6416,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-12T19:25:23.711664Z"
-  },
-  "AEE4580": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-11T18:55:24.042078Z"
   },
   "BEL9NK": {
     "route": {
@@ -9816,7 +9805,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T18:20:33.442638Z"
+    "checked_at": "2026-10-13T18:55:25.820229Z"
   },
   "EJU17TX": {
     "route": {
@@ -12910,5 +12899,38 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-13T18:50:31.259015Z"
+  },
+  "ADZ3907": {
+    "route": {
+      "fromCity": "\u00d6rebro",
+      "fromIata": "ORB",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-13T18:55:25.820229Z"
+  },
+  "RAM222B": {
+    "route": {
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "SVO",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-10-13T18:55:25.820229Z"
+  },
+  "OKNGX": {
+    "route": {
+      "fromCity": "Brno",
+      "fromIata": "BRQ",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-13T18:55:25.820229Z"
   }
 }
