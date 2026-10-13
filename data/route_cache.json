@@ -2199,7 +2199,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T10:55:22.550496Z"
+    "checked_at": "2026-10-13T10:45:29.738839Z"
   },
   "SXS1CM": {
     "route": {
@@ -13143,5 +13143,46 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T10:40:29.731269Z"
+  },
+  "TKJ36N": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bodrum",
+      "toIata": "BJV",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T10:45:29.738839Z"
+  },
+  "NJE800P": {
+    "route": null,
+    "checked_at": "2026-10-13T10:45:29.738839Z"
+  },
+  "UAL125": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-13T10:45:29.738839Z"
+  },
+  "DEADX": {
+    "route": null,
+    "checked_at": "2026-10-13T10:45:29.738839Z"
+  },
+  "EJU53KD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T10:45:29.738839Z"
   }
 }
