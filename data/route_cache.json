@@ -3712,7 +3712,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T15:35:24.248854Z"
+    "checked_at": "2026-10-13T15:35:27.075647Z"
   },
   "CFE61X": {
     "route": {
@@ -3734,7 +3734,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T15:15:32.758556Z"
+    "checked_at": "2026-10-13T15:35:27.075647Z"
   },
   "BEL3JZ": {
     "route": {
@@ -4542,17 +4542,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-13T10:50:40.872810Z"
-  },
-  "NSZ4357": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T15:35:24.775753Z"
   },
   "AUA234G": {
     "route": {
@@ -6309,17 +6298,6 @@
   "PYR014": {
     "route": null,
     "checked_at": "2026-10-13T14:30:47.075043Z"
-  },
-  "AUA971": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T15:35:24.775753Z"
   },
   "NJE676W": {
     "route": null,
@@ -13087,5 +13065,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T15:30:47.338364Z"
+  },
+  "EJU31GQ": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T15:35:27.075647Z"
   }
 }
