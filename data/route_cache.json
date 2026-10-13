@@ -1791,8 +1791,15 @@
     "checked_at": "2026-10-13T08:20:33.448139Z"
   },
   "WUK7BU": {
-    "route": null,
-    "checked_at": "2026-10-12T08:20:33.504887Z"
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Wizz Air UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-13T08:45:29.155339Z"
   },
   "DLH3WU": {
     "route": {
@@ -1817,8 +1824,15 @@
     "checked_at": "2026-10-13T08:35:22.646476Z"
   },
   "SWR3TE": {
-    "route": null,
-    "checked_at": "2026-10-12T08:40:32.400604Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-13T08:45:29.155339Z"
   },
   "RYR749C": {
     "route": {
@@ -1895,7 +1909,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T08:35:26.152092Z"
+    "checked_at": "2026-10-13T08:45:29.155339Z"
   },
   "EIN3EG": {
     "route": {
@@ -9792,7 +9806,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T08:40:32.400604Z"
+    "checked_at": "2026-10-13T08:45:29.155339Z"
   },
   "RRR1341": {
     "route": null,
@@ -12991,5 +13005,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T08:40:31.053342Z"
+  },
+  "DEGDH": {
+    "route": null,
+    "checked_at": "2026-10-13T08:45:29.155339Z"
+  },
+  "LBT248": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-13T08:45:29.155339Z"
   }
 }
