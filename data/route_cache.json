@@ -159,7 +159,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T14:35:24.709075Z"
+    "checked_at": "2026-10-13T14:25:25.349920Z"
   },
   "RYR4JQ": {
     "route": {
@@ -3528,7 +3528,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T14:20:31.778142Z"
+    "checked_at": "2026-10-13T14:25:25.349920Z"
   },
   "BAW8RM": {
     "route": {
@@ -3998,7 +3998,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T16:10:43.108317Z"
+    "checked_at": "2026-10-13T14:25:25.349920Z"
   },
   "CES787": {
     "route": {
@@ -5730,17 +5730,6 @@
     },
     "checked_at": "2026-10-12T08:35:26.152092Z"
   },
-  "RYR6V": {
-    "route": {
-      "fromCity": "Darlington, Durham",
-      "fromIata": "MME",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T14:20:34.854611Z"
-  },
   "ETH725": {
     "route": {
       "fromCity": "Vienna",
@@ -6335,25 +6324,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-12T14:20:31.778142Z"
-  },
-  "EJU72TJ": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T14:20:34.854611Z"
-  },
-  "RSX6071": {
-    "route": null,
-    "checked_at": "2026-10-11T14:25:23.667647Z"
-  },
-  "N87VS": {
-    "route": null,
-    "checked_at": "2026-10-11T14:25:23.667647Z"
   },
   "NJE491N": {
     "route": null,
@@ -13162,5 +13132,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-13T14:15:32.214256Z"
+  },
+  "DLH715": {
+    "route": {
+      "fromCity": "Tokyo",
+      "fromIata": "HND",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T14:25:25.349920Z"
+  },
+  "RYR90GK": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T14:25:25.349920Z"
+  },
+  "VOE9CC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-13T14:25:25.349920Z"
   }
 }
