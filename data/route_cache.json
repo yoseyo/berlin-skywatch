@@ -2309,7 +2309,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T11:15:30.718956Z"
+    "checked_at": "2026-10-13T11:40:31.769963Z"
   },
   "KLM29G": {
     "route": {
@@ -9777,7 +9777,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T10:25:23.545771Z"
+    "checked_at": "2026-10-13T11:40:31.769963Z"
   },
   "DMVRG": {
     "route": null,
@@ -11609,7 +11609,7 @@
   },
   "GAF626": {
     "route": null,
-    "checked_at": "2026-10-12T21:00:55.252020Z"
+    "checked_at": "2026-10-13T11:40:31.769963Z"
   },
   "RYR9847": {
     "route": {
@@ -13221,5 +13221,27 @@
   "DMKKV": {
     "route": null,
     "checked_at": "2026-10-13T11:35:26.160062Z"
+  },
+  "EWG2MD": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T11:40:31.769963Z"
+  },
+  "ETD11B": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-13T11:40:31.769963Z"
   }
 }
