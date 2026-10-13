@@ -1920,7 +1920,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T08:45:32.171141Z"
+    "checked_at": "2026-10-13T08:55:22.585750Z"
   },
   "WMT358": {
     "route": {
@@ -6326,36 +6326,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-13T05:15:30.454992Z"
-  },
-  "TSC418": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Transat",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-11T08:50:33.730316Z"
-  },
-  "DECLP": {
-    "route": null,
-    "checked_at": "2026-10-11T08:50:33.730316Z"
-  },
-  "NJE491A": {
-    "route": null,
-    "checked_at": "2026-10-11T08:50:33.730316Z"
-  },
-  "PGT77BA": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-11T08:55:21.743326Z"
   },
   "NSZ72N": {
     "route": {
@@ -10847,7 +10817,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T14:00:57.950251Z"
+    "checked_at": "2026-10-13T08:55:22.585750Z"
   },
   "RYR2GL": {
     "route": {
@@ -13024,5 +12994,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-13T08:50:30.632083Z"
+  },
+  "TKJ9PR": {
+    "route": {
+      "fromCity": "Bodrum",
+      "fromIata": "BJV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T08:55:22.585750Z"
+  },
+  "WZZ54P": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-13T08:55:22.585750Z"
   }
 }
