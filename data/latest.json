@@ -3,12 +3,12 @@
     {
       "callsign": "EJU59PD",
       "country": "Austria",
-      "lat": 52.1694,
-      "lon": 14.0414,
-      "altKm": 2.8,
-      "speedKmh": 496,
-      "heading": 336,
-      "vertRateMs": -10.4,
+      "lat": 52.4108,
+      "lon": 13.7452,
+      "altKm": 1.0,
+      "speedKmh": 305,
+      "heading": 249,
+      "vertRateMs": -2.3,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Larnaca",
@@ -20,11 +20,11 @@
     {
       "callsign": "MBU9543",
       "country": "Czech Republic",
-      "lat": 52.8633,
-      "lon": 13.1908,
+      "lat": 52.5786,
+      "lon": 14.0211,
       "altKm": 8.5,
-      "speedKmh": 743,
-      "heading": 119,
+      "speedKmh": 733,
+      "heading": 120,
       "vertRateMs": 0,
       "airline": "Marabu Airlines",
       "airlineCountry": "Germany",
@@ -33,7 +33,24 @@
       "toCity": "Barcelona",
       "toIata": "BCN",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR63WX",
+      "country": "Malta",
+      "lat": 52.2253,
+      "lon": 13.5847,
+      "altKm": 2.2,
+      "speedKmh": 496,
+      "heading": 44,
+      "vertRateMs": -14.6,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-13T21:05:24.146956Z"
+  "updated_at": "2026-10-13T21:10:31.373331Z"
 }
