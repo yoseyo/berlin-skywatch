@@ -3987,7 +3987,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T20:40:31.879283Z"
+    "checked_at": "2026-10-13T20:40:32.736202Z"
   },
   "EWG4EH": {
     "route": {
@@ -6427,50 +6427,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-12T19:40:31.636848Z"
-  },
-  "NSZ3305": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T20:40:30.736082Z"
-  },
-  "NOZ5EU": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-11T20:40:30.736082Z"
-  },
-  "EJU74RM": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T20:40:30.736082Z"
-  },
-  "RYR298": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T20:40:30.736082Z"
   },
   "RYR33YN": {
     "route": {
@@ -12782,5 +12738,27 @@
   "AWH91K": {
     "route": null,
     "checked_at": "2026-10-13T20:30:45.075240Z"
+  },
+  "EJU78LB": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T20:40:32.736202Z"
+  },
+  "RYR415W": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T20:40:32.736202Z"
   }
 }
