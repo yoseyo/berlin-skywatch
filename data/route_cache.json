@@ -2397,7 +2397,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T11:40:31.283466Z"
+    "checked_at": "2026-10-13T11:55:27.865123Z"
   },
   "PGT93T": {
     "route": {
@@ -5058,17 +5058,6 @@
     },
     "checked_at": "2026-10-11T12:05:23.779709Z"
   },
-  "AUA977F": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T11:55:23.834376Z"
-  },
   "SXS5DW": {
     "route": {
       "fromCity": "Berlin",
@@ -5651,7 +5640,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T11:10:34.418636Z"
+    "checked_at": "2026-10-13T11:55:27.865123Z"
   },
   "SAS2832": {
     "route": {
@@ -9856,7 +9845,7 @@
   },
   "VJT464": {
     "route": null,
-    "checked_at": "2026-10-12T11:01:43.339127Z"
+    "checked_at": "2026-10-13T11:55:27.865123Z"
   },
   "UAE59": {
     "route": {
@@ -13206,5 +13195,31 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-13T11:40:31.769963Z"
+  },
+  "CKK215": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-13T11:55:27.865123Z"
+  },
+  "DCOLT": {
+    "route": {
+      "fromCity": "Dresden",
+      "fromIata": "DRS",
+      "toCity": "Dortmund",
+      "toIata": "DTM",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-13T11:55:27.865123Z"
+  },
+  "OKPVI": {
+    "route": null,
+    "checked_at": "2026-10-13T11:55:27.865123Z"
   }
 }
