@@ -783,7 +783,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T18:20:33.442638Z"
+    "checked_at": "2026-10-13T17:50:31.601559Z"
   },
   "SWR8X": {
     "route": {
@@ -794,7 +794,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-12T18:00:56.117279Z"
+    "checked_at": "2026-10-13T17:50:31.601559Z"
   },
   "DLH202": {
     "route": {
@@ -10019,7 +10019,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T18:20:33.442638Z"
+    "checked_at": "2026-10-13T17:50:31.601559Z"
   },
   "RYR2962": {
     "route": {
@@ -12928,5 +12928,35 @@
   "NJE371A": {
     "route": null,
     "checked_at": "2026-10-13T17:45:31.139442Z"
+  },
+  "ELY011": {
+    "route": null,
+    "checked_at": "2026-10-13T17:50:31.601559Z"
+  },
+  "FHLRK": {
+    "route": null,
+    "checked_at": "2026-10-13T17:50:31.601559Z"
+  },
+  "RYR3XX": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T17:50:31.601559Z"
+  },
+  "DLH7PF": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T17:50:31.601559Z"
   }
 }
