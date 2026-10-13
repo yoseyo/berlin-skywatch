@@ -1,16 +1,50 @@
 {
   "flights": [
     {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.4355,
+      "lon": 13.9165,
+      "altKm": 1.5,
+      "speedKmh": 284,
+      "heading": 299,
+      "vertRateMs": -4.2,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "SWT3WZ",
+      "country": "Spain",
+      "lat": 52.3062,
+      "lon": 13.7543,
+      "altKm": 2.8,
+      "speedKmh": 498,
+      "heading": 56,
+      "vertRateMs": -9.1,
+      "airline": "Swiftair",
+      "airlineCountry": "Spain",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5508,
-      "lon": 13.4396,
-      "altKm": 0.7,
-      "speedKmh": 195,
-      "heading": 239,
-      "vertRateMs": 0.3,
+      "lat": 52.4815,
+      "lon": 13.2368,
+      "altKm": 0.8,
+      "speedKmh": 207,
+      "heading": 242,
+      "vertRateMs": 0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-13T03:50:31.571012Z"
+  "updated_at": "2026-10-13T03:55:24.290866Z"
 }
