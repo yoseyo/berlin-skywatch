@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "AZG5721",
-      "country": "United Kingdom",
-      "lat": 52.6703,
-      "lon": 13.6051,
-      "altKm": 10.0,
-      "speedKmh": 814,
-      "heading": 310,
+      "callsign": "UAL83",
+      "country": "United States",
+      "lat": 52.349,
+      "lon": 13.9819,
+      "altKm": 11.2,
+      "speedKmh": 766,
+      "heading": 301,
       "vertRateMs": 0,
-      "airline": "Sakaviaservice",
-      "airlineCountry": "Georgia",
-      "fromCity": "Baku",
-      "fromIata": "GYD",
-      "toCity": "Baku",
-      "toIata": "GYD",
+      "airline": "United Airlines",
+      "airlineCountry": "United States",
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "category": "plane"
+    },
+    {
+      "callsign": "CHXE5",
+      "country": "Germany",
+      "lat": 52.5282,
+      "lon": 13.4604,
+      "altKm": 0.6,
+      "speedKmh": 186,
+      "heading": 311,
+      "vertRateMs": 2.6,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-13T02:05:24.936218Z"
+  "updated_at": "2026-10-13T02:10:35.442513Z"
 }
