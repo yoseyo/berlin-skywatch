@@ -849,7 +849,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T18:20:33.442638Z"
+    "checked_at": "2026-10-13T18:10:32.618493Z"
   },
   "LOT2MN": {
     "route": {
@@ -5487,10 +5487,6 @@
     },
     "checked_at": "2026-10-13T14:35:26.526565Z"
   },
-  "BFX1073": {
-    "route": null,
-    "checked_at": "2026-10-11T18:05:25.064252Z"
-  },
   "RYR85CE": {
     "route": {
       "fromCity": "Athens",
@@ -5534,17 +5530,6 @@
       "airlineCountry": "Ethiopia"
     },
     "checked_at": "2026-10-12T18:05:22.717607Z"
-  },
-  "AUA972": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T18:10:30.749058Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -6383,21 +6368,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T17:20:29.585296Z"
-  },
-  "BPO702": {
-    "route": null,
-    "checked_at": "2026-10-11T18:10:30.749058Z"
-  },
-  "SAS2670": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T18:10:30.749058Z"
   },
   "FIN8TA": {
     "route": {
@@ -12914,5 +12884,16 @@
   "JFA25R": {
     "route": null,
     "checked_at": "2026-10-13T18:05:24.721755Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-13T18:10:32.618493Z"
   }
 }
