@@ -2724,7 +2724,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T13:35:24.339703Z"
+    "checked_at": "2026-10-13T13:25:23.873850Z"
   },
   "RYR3YW": {
     "route": {
@@ -6317,36 +6317,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-12T10:15:31.640529Z"
-  },
-  "JDI60F": {
-    "route": null,
-    "checked_at": "2026-10-11T13:20:31.505024Z"
-  },
-  "TAH424": {
-    "route": null,
-    "checked_at": "2026-10-11T13:20:31.505024Z"
-  },
-  "CTN848R": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-11T13:20:31.505024Z"
-  },
-  "EWG16V": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T13:20:31.505024Z"
   },
   "SEH874": {
     "route": {
@@ -13215,5 +13185,16 @@
   "AWH91G": {
     "route": null,
     "checked_at": "2026-10-13T13:20:31.149215Z"
+  },
+  "CFG7WJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T13:25:23.873850Z"
   }
 }
