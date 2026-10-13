@@ -148,7 +148,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T14:32:00.794623Z"
+    "checked_at": "2026-10-13T14:05:24.031373Z"
   },
   "LOT279": {
     "route": {
@@ -6339,39 +6339,6 @@
   "DBETI": {
     "route": null,
     "checked_at": "2026-10-12T16:20:34.889480Z"
-  },
-  "NOZ1106": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-11T14:05:23.943343Z"
-  },
-  "RYR4RW": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "BGY",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T14:05:23.943343Z"
-  },
-  "CFG1DA": {
-    "route": {
-      "fromCity": "Fuerteventura Island",
-      "fromIata": "FUE",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T14:05:23.943343Z"
   },
   "NSZ4502": {
     "route": {
@@ -13203,5 +13170,16 @@
   "JEI525": {
     "route": null,
     "checked_at": "2026-10-13T14:00:58.050356Z"
+  },
+  "RYR2RB": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T14:05:24.031373Z"
   }
 }
