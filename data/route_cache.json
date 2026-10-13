@@ -1315,7 +1315,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-12T05:05:24.862820Z"
+    "checked_at": "2026-10-13T06:40:34.133554Z"
   },
   "DLH172": {
     "route": {
@@ -5624,7 +5624,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T07:05:25.766430Z"
+    "checked_at": "2026-10-13T06:40:34.133554Z"
   },
   "BTI97T": {
     "route": {
@@ -6284,28 +6284,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-12T20:25:24.259560Z"
-  },
-  "EWG75A": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T06:35:24.283609Z"
-  },
-  "SRR901": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Star Air",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-11T06:40:30.448342Z"
   },
   "NIA8701": {
     "route": {
@@ -12990,5 +12968,53 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T06:35:23.973329Z"
+  },
+  "SAS31T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T06:40:34.133554Z"
+  },
+  "FIN1AB": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-13T06:40:34.133554Z"
+  },
+  "DGFKH": {
+    "route": null,
+    "checked_at": "2026-10-13T06:40:34.133554Z"
+  },
+  "SDR62EG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marsa Alam",
+      "toIata": "RMF",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T06:40:34.133554Z"
+  },
+  "DLH7YC": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T06:40:34.133554Z"
   }
 }
