@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "BCS44C",
-      "country": "Ireland",
-      "lat": 52.2464,
-      "lon": 12.8307,
-      "altKm": 5.7,
-      "speedKmh": 690,
-      "heading": 194,
-      "vertRateMs": -3.9,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
+      "callsign": "AEG6911",
+      "country": "Estonia",
+      "lat": 52.2719,
+      "lon": 13.7983,
+      "altKm": 7.5,
+      "speedKmh": 414,
+      "heading": 257,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR8842",
+      "country": "Poland",
+      "lat": 52.9264,
+      "lon": 13.128,
+      "altKm": 11.5,
+      "speedKmh": 884,
+      "heading": 126,
+      "vertRateMs": -0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Aberdeen",
+      "fromIata": "ABZ",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-13T22:00:54.682465Z"
+  "updated_at": "2026-10-13T22:05:25.869903Z"
 }
