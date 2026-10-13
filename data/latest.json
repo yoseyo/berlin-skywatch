@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-13T02:00:51.799751Z"
+  "flights": [
+    {
+      "callsign": "AZG5721",
+      "country": "United Kingdom",
+      "lat": 52.6703,
+      "lon": 13.6051,
+      "altKm": 10.0,
+      "speedKmh": 814,
+      "heading": 310,
+      "vertRateMs": 0,
+      "airline": "Sakaviaservice",
+      "airlineCountry": "Georgia",
+      "fromCity": "Baku",
+      "fromIata": "GYD",
+      "toCity": "Baku",
+      "toIata": "GYD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-13T02:05:24.936218Z"
 }
