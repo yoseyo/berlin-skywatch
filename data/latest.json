@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-13T21:50:29.151391Z"
+  "flights": [
+    {
+      "callsign": "BCS44C",
+      "country": "Ireland",
+      "lat": 52.8873,
+      "lon": 13.0177,
+      "altKm": 9.3,
+      "speedKmh": 871,
+      "heading": 185,
+      "vertRateMs": -12.0,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-13T21:55:23.530677Z"
 }
