@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-12T12:35:23.791596Z"
+    "checked_at": "2026-10-13T12:50:34.895047Z"
   },
   "MSC2961": {
     "route": {
@@ -5653,17 +5653,6 @@
     },
     "checked_at": "2026-10-12T12:45:29.720408Z"
   },
-  "DLH5N": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-11T12:50:33.217293Z"
-  },
   "EJU8624": {
     "route": {
       "fromCity": "Berlin",
@@ -5939,10 +5928,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-12T20:15:30.089370Z"
-  },
-  "SFG55D": {
-    "route": null,
-    "checked_at": "2026-10-11T12:50:33.217293Z"
   },
   "EJU72PR": {
     "route": {
@@ -6299,14 +6284,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T12:30:47.693647Z"
-  },
-  "N45JE": {
-    "route": null,
-    "checked_at": "2026-10-11T12:50:33.217293Z"
-  },
-  "NJE835P": {
-    "route": null,
-    "checked_at": "2026-10-11T12:50:33.217293Z"
   },
   "EJU37HE": {
     "route": {
@@ -13189,5 +13166,31 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-13T12:45:42.898738Z"
+  },
+  "CCA950": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-13T12:50:34.895047Z"
+  },
+  "CEF6019": {
+    "route": null,
+    "checked_at": "2026-10-13T12:50:34.895047Z"
+  },
+  "RYR99FP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T12:50:34.895047Z"
   }
 }
