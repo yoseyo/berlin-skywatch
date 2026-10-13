@@ -1304,7 +1304,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T11:35:27.250131Z"
+    "checked_at": "2026-10-13T05:35:23.669653Z"
   },
   "QTR29X": {
     "route": {
@@ -1326,7 +1326,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T05:40:34.855279Z"
+    "checked_at": "2026-10-13T05:35:23.669653Z"
   },
   "SWR5XL": {
     "route": {
@@ -13007,5 +13007,42 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-13T05:30:44.259964Z"
+  },
+  "NSZ3730": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T05:35:23.669653Z"
+  },
+  "WMT7615": {
+    "route": null,
+    "checked_at": "2026-10-13T05:35:23.669653Z"
+  },
+  "LHX853": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T05:35:23.669653Z"
+  },
+  "RYR55XJ": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Banja Luka",
+      "toIata": "BNX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T05:35:23.669653Z"
   }
 }
