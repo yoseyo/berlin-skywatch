@@ -2232,7 +2232,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T10:55:22.550496Z"
+    "checked_at": "2026-10-13T11:15:28.915518Z"
   },
   "LOT282": {
     "route": {
@@ -2276,7 +2276,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-12T11:25:26.721474Z"
+    "checked_at": "2026-10-13T11:15:28.915518Z"
   },
   "KLM26L": {
     "route": {
@@ -2386,7 +2386,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-12T11:10:34.418636Z"
+    "checked_at": "2026-10-13T11:15:28.915518Z"
   },
   "SAS1677": {
     "route": {
@@ -3577,7 +3577,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T21:15:31.865109Z"
+    "checked_at": "2026-10-13T11:15:28.915518Z"
   },
   "ELY2371": {
     "route": {
@@ -5341,10 +5341,6 @@
     },
     "checked_at": "2026-10-12T15:00:57.465927Z"
   },
-  "FCK2FT": {
-    "route": null,
-    "checked_at": "2026-10-11T11:10:32.331006Z"
-  },
   "EJU12QE": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6322,17 +6318,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T06:05:25.285931Z"
-  },
-  "SXS4AX": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-11T11:10:32.331006Z"
   },
   "RYR159P": {
     "route": {
@@ -10113,7 +10098,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T11:40:31.283466Z"
+    "checked_at": "2026-10-13T11:15:28.915518Z"
   },
   "NOZ1104": {
     "route": {
@@ -13199,5 +13184,27 @@
   "SPSSZ": {
     "route": null,
     "checked_at": "2026-10-13T11:10:31.807656Z"
+  },
+  "NOZ1123": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-13T11:15:28.915518Z"
+  },
+  "DLH8LY": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T11:15:28.915518Z"
   }
 }
