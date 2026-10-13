@@ -2467,7 +2467,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T08:20:33.504887Z"
+    "checked_at": "2026-10-13T12:25:23.911317Z"
   },
   "DLH6UT": {
     "route": {
@@ -2489,7 +2489,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-12T12:30:44.302631Z"
+    "checked_at": "2026-10-13T12:25:23.911317Z"
   },
   "EJU47DE": {
     "route": {
@@ -5819,17 +5819,6 @@
     },
     "checked_at": "2026-10-12T08:35:26.152092Z"
   },
-  "RYR8BL": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T12:20:32.425356Z"
-  },
   "RYR6V": {
     "route": {
       "fromCity": "Darlington, Durham",
@@ -6325,17 +6314,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-12T06:35:25.168519Z"
-  },
-  "UAL85": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "New York",
-      "toIata": "EWR",
-      "airlineName": "United Airlines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-11T12:20:32.425356Z"
   },
   "NOZ6RE": {
     "route": {
@@ -13221,5 +13199,20 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-10-13T12:10:33.625015Z"
+  },
+  "EJU72EC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T12:25:23.911317Z"
+  },
+  "BID21C": {
+    "route": null,
+    "checked_at": "2026-10-13T12:25:23.911317Z"
   }
 }
