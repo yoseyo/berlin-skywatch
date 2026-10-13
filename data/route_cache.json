@@ -640,7 +640,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T17:45:28.552741Z"
+    "checked_at": "2026-10-13T17:45:31.139442Z"
   },
   "SWR3BY": {
     "route": {
@@ -684,7 +684,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-12T17:45:28.552741Z"
+    "checked_at": "2026-10-13T17:45:31.139442Z"
   },
   "DLH9XY": {
     "route": {
@@ -6340,17 +6340,6 @@
     },
     "checked_at": "2026-10-12T16:15:34.074243Z"
   },
-  "ISR252": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-11T17:45:30.726461Z"
-  },
   "BEL9DL": {
     "route": {
       "fromCity": "Brussels",
@@ -6361,21 +6350,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-13T17:40:30.502469Z"
-  },
-  "RYR297": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T17:45:30.726461Z"
-  },
-  "KMM376": {
-    "route": null,
-    "checked_at": "2026-10-11T17:45:30.726461Z"
   },
   "EJU92MK": {
     "route": {
@@ -12939,5 +12913,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T17:40:30.502469Z"
+  },
+  "RYR53LP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T17:45:31.139442Z"
+  },
+  "NJE371A": {
+    "route": null,
+    "checked_at": "2026-10-13T17:45:31.139442Z"
   }
 }
