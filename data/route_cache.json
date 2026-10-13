@@ -1593,8 +1593,15 @@
     "checked_at": "2026-10-13T06:55:28.885667Z"
   },
   "TVF88JV": {
-    "route": null,
-    "checked_at": "2026-10-12T07:10:34.393463Z"
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-13T07:25:25.226747Z"
   },
   "AUA224": {
     "route": {
@@ -13012,5 +13019,9 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T07:10:32.426155Z"
+  },
+  "DAHRT": {
+    "route": null,
+    "checked_at": "2026-10-13T07:25:25.226747Z"
   }
 }
