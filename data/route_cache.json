@@ -2902,7 +2902,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T04:55:25.919746Z"
+    "checked_at": "2026-10-13T05:05:24.388608Z"
   },
   "ICE14T": {
     "route": {
@@ -9676,7 +9676,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T05:10:34.643938Z"
+    "checked_at": "2026-10-13T05:05:24.388608Z"
   },
   "RYR4311": {
     "route": {
@@ -13041,5 +13041,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T05:00:54.335195Z"
+  },
+  "EUW9046": {
+    "route": null,
+    "checked_at": "2026-10-13T05:05:24.388608Z"
+  },
+  "DLH893": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-13T05:05:24.388608Z"
+  },
+  "WZZ31QC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-13T05:05:24.388608Z"
   }
 }
