@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-13T21:40:30.788508Z"
+  "flights": [
+    {
+      "callsign": "SAS2820",
+      "country": "Ireland",
+      "lat": 52.4235,
+      "lon": 13.9412,
+      "altKm": 11.9,
+      "speedKmh": 804,
+      "heading": 345,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-13T21:45:30.471189Z"
 }

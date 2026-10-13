@@ -6417,17 +6417,6 @@
     },
     "checked_at": "2026-10-12T09:55:31.149801Z"
   },
-  "SAS96T": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T21:40:32.993718Z"
-  },
   "EJU94YN": {
     "route": {
       "fromCity": "Nice",
@@ -12756,5 +12745,16 @@
   "VPBZE": {
     "route": null,
     "checked_at": "2026-10-13T21:35:22.584699Z"
+  },
+  "SAS2820": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T21:45:30.471189Z"
   }
 }
