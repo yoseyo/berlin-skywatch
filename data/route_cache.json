@@ -1447,7 +1447,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-12T10:15:31.640529Z"
+    "checked_at": "2026-10-13T09:15:30.766388Z"
   },
   "PGT820D": {
     "route": {
@@ -5646,17 +5646,6 @@
     },
     "checked_at": "2026-10-12T07:35:26.132098Z"
   },
-  "EJU85UF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T09:15:30.312547Z"
-  },
   "THY3331": {
     "route": {
       "fromCity": "Trabzon",
@@ -5714,7 +5703,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T06:50:32.846420Z"
+    "checked_at": "2026-10-13T09:15:30.766388Z"
   },
   "DMSVV": {
     "route": null,
@@ -6344,17 +6333,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-13T08:20:33.448139Z"
-  },
-  "SAS662": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T09:15:30.312547Z"
   },
   "CAI17QT": {
     "route": {
@@ -13045,5 +13023,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-13T09:10:31.910130Z"
+  },
+  "SAS1694": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T09:15:30.766388Z"
+  },
+  "RYR89YH": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T09:15:30.766388Z"
   }
 }
