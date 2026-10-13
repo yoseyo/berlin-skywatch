@@ -317,7 +317,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-12T15:50:31.889017Z"
+    "checked_at": "2026-10-13T15:18:03.772278Z"
   },
   "NSZ3303": {
     "route": {
@@ -13142,5 +13142,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T15:15:31.393889Z"
+  },
+  "FIN08PL": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-13T15:18:03.772278Z"
+  },
+  "THY2NZ": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T15:18:03.772278Z"
   }
 }
