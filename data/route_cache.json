@@ -192,7 +192,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-12T14:25:26.050390Z"
+    "checked_at": "2026-10-13T14:15:32.214256Z"
   },
   "SAS81L": {
     "route": {
@@ -203,7 +203,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T14:40:32.007490Z"
+    "checked_at": "2026-10-13T14:15:32.214256Z"
   },
   "CHX82": {
     "route": null,
@@ -4136,17 +4136,6 @@
     },
     "checked_at": "2026-10-12T12:45:29.720408Z"
   },
-  "SWU1951": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bolzano",
-      "toIata": "BZO",
-      "airlineName": "Swiss European Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-11T14:15:28.712123Z"
-  },
   "EJU46EK": {
     "route": {
       "fromCity": "Nice",
@@ -5259,10 +5248,6 @@
     },
     "checked_at": "2026-10-11T16:30:42.215990Z"
   },
-  "QGA32A": {
-    "route": null,
-    "checked_at": "2026-10-11T14:15:28.712123Z"
-  },
   "AUA26Z": {
     "route": {
       "fromCity": "Berlin",
@@ -5641,17 +5626,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T05:30:44.259964Z"
-  },
-  "WZZ242": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Alghero",
-      "toIata": "AHO",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-11T14:10:34.490004Z"
   },
   "UAE57X": {
     "route": {
@@ -6340,28 +6314,6 @@
     "route": null,
     "checked_at": "2026-10-12T16:20:34.889480Z"
   },
-  "NSZ4502": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T14:10:34.490004Z"
-  },
-  "WZZ9502": {
-    "route": {
-      "fromCity": "Dortmund",
-      "fromIata": "DTM",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-11T14:10:34.490004Z"
-  },
   "NSZ3582": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6372,10 +6324,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-13T11:35:26.160062Z"
-  },
-  "AOJ75J": {
-    "route": null,
-    "checked_at": "2026-10-11T14:10:34.490004Z"
   },
   "SXS678": {
     "route": {
@@ -7125,7 +7073,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-12T16:30:46.685007Z"
+    "checked_at": "2026-10-13T14:15:32.214256Z"
   },
   "EJU41DH": {
     "route": {
@@ -13203,5 +13151,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T14:10:32.758672Z"
+  },
+  "RYR48VZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-13T14:15:32.214256Z"
   }
 }
