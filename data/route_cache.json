@@ -2850,7 +2850,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-12T15:00:57.465927Z"
+    "checked_at": "2026-10-13T08:15:31.630384Z"
   },
   "WZZ8086": {
     "route": {
@@ -4100,17 +4100,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-12T08:15:31.439769Z"
-  },
-  "RYR3RK": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T08:15:28.554927Z"
   },
   "RYR13PB": {
     "route": {
@@ -6301,10 +6290,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-12T08:10:32.311293Z"
-  },
-  "OEUDN": {
-    "route": null,
-    "checked_at": "2026-10-11T08:15:28.554927Z"
   },
   "MGH723": {
     "route": {
@@ -9830,7 +9815,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T08:20:33.504887Z"
+    "checked_at": "2026-10-13T08:15:31.630384Z"
   },
   "SXS1QZ": {
     "route": {
@@ -13010,5 +12995,16 @@
       "airlineCountry": "South Korea"
     },
     "checked_at": "2026-10-13T08:05:24.796785Z"
+  },
+  "MGH261": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-13T08:15:31.630384Z"
   }
 }
