@@ -2941,7 +2941,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-12T06:20:31.790551Z"
+    "checked_at": "2026-10-13T09:50:33.089658Z"
   },
   "DLH3FN": {
     "route": {
@@ -3419,7 +3419,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-12T13:10:33.125193Z"
+    "checked_at": "2026-10-13T09:50:33.089658Z"
   },
   "LHX178": {
     "route": {
@@ -4471,17 +4471,6 @@
     },
     "checked_at": "2026-10-12T09:45:30.896043Z"
   },
-  "EJU12TM": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T09:50:32.066499Z"
-  },
   "EWG7NF": {
     "route": {
       "fromCity": "Berlin",
@@ -5058,17 +5047,6 @@
     },
     "checked_at": "2026-10-13T07:10:32.426155Z"
   },
-  "FIN2WC": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-11T09:45:29.534354Z"
-  },
   "TSC419": {
     "route": {
       "fromCity": "Berlin",
@@ -5193,10 +5171,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-11T15:20:29.300156Z"
-  },
-  "DMXIL": {
-    "route": null,
-    "checked_at": "2026-10-11T09:50:32.066499Z"
   },
   "EWG72F": {
     "route": {
@@ -6327,39 +6301,6 @@
     },
     "checked_at": "2026-10-13T09:25:24.807664Z"
   },
-  "EZY36DU": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-11T09:45:29.534354Z"
-  },
-  "IB07KH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Iberia Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-11T09:50:32.066499Z"
-  },
-  "AHY064": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Baku",
-      "toIata": "GYD",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-10-11T09:50:32.066499Z"
-  },
   "NSZ3731": {
     "route": {
       "fromCity": "Rome",
@@ -6424,7 +6365,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T09:45:30.896043Z"
+    "checked_at": "2026-10-13T09:50:33.089658Z"
   },
   "NJE682T": {
     "route": null,
@@ -9454,7 +9395,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-12T07:25:24.843983Z"
+    "checked_at": "2026-10-13T09:50:33.089658Z"
   },
   "EJU9043": {
     "route": {
@@ -13044,5 +12985,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T09:45:29.300217Z"
+  },
+  "CYZ237": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Li\u00e8ge",
+      "toIata": "LGG",
+      "airlineName": "China Postal Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-13T09:50:33.089658Z"
+  },
+  "EJU96PC": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-13T09:50:33.089658Z"
+  },
+  "GAF734": {
+    "route": null,
+    "checked_at": "2026-10-13T09:50:33.089658Z"
+  },
+  "MEA245": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-13T09:50:33.089658Z"
   }
 }
