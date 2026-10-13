@@ -3894,17 +3894,6 @@
     },
     "checked_at": "2026-10-13T11:00:56.276354Z"
   },
-  "SAS80D": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T12:40:30.811902Z"
-  },
   "TAP53ED": {
     "route": {
       "fromCity": "Berlin",
@@ -5285,17 +5274,6 @@
     },
     "checked_at": "2026-10-11T16:30:42.215990Z"
   },
-  "EJU58DM": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-11T12:40:30.811902Z"
-  },
   "QGA32A": {
     "route": null,
     "checked_at": "2026-10-11T14:15:28.712123Z"
@@ -5940,17 +5918,6 @@
     },
     "checked_at": "2026-10-11T19:00:53.207457Z"
   },
-  "SAS2820": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-11T12:35:24.622573Z"
-  },
   "WZZ4BB": {
     "route": {
       "fromCity": "Berlin",
@@ -6321,32 +6288,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-12T06:35:25.168519Z"
-  },
-  "JDI05W": {
-    "route": null,
-    "checked_at": "2026-10-11T12:35:24.622573Z"
-  },
-  "EZY32CB": {
-    "route": {
-      "fromCity": "Liverpool",
-      "fromIata": "LPL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-11T12:35:24.622573Z"
-  },
-  "RYR2282": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-11T12:40:30.811902Z"
   },
   "PGT1686": {
     "route": {
@@ -13237,5 +13178,16 @@
   "FHM4723": {
     "route": null,
     "checked_at": "2026-10-13T12:35:23.237170Z"
+  },
+  "NSZ4370": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-13T12:40:32.951169Z"
   }
 }
