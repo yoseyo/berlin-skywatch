@@ -684,7 +684,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-13T17:45:31.139442Z"
+    "checked_at": "2026-10-14T18:00:53.661503Z"
   },
   "DLH9XY": {
     "route": {
@@ -794,7 +794,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-13T17:50:31.601559Z"
+    "checked_at": "2026-10-14T18:00:53.661503Z"
   },
   "DLH202": {
     "route": {
@@ -3723,7 +3723,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-13T18:00:56.582717Z"
+    "checked_at": "2026-10-14T18:00:53.661503Z"
   },
   "BTI4UJ": {
     "route": {
@@ -5382,7 +5382,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-12T18:10:31.648443Z"
+    "checked_at": "2026-10-14T18:00:53.661503Z"
   },
   "FIN8DN": {
     "route": null,
@@ -6573,18 +6573,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-12T17:55:24.542402Z"
-  },
-  "SDR11DL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-12T17:55:24.542402Z"
+    "checked_at": "2026-10-14T18:00:53.661503Z"
   },
   "RYR15FP": {
     "route": {
@@ -6596,17 +6585,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T14:30:50.145842Z"
-  },
-  "RYR3U": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Girona",
-      "toIata": "GRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T17:55:24.542402Z"
   },
   "TVF46LX": {
     "route": {
@@ -12288,5 +12266,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-14T17:55:23.684856Z"
+  },
+  "RYR1856": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "HHN",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T18:00:53.661503Z"
   }
 }
