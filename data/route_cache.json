@@ -471,7 +471,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-13T16:30:45.741909Z"
+    "checked_at": "2026-10-14T16:35:25.010554Z"
   },
   "PGT49PK": {
     "route": {
@@ -493,7 +493,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-13T16:55:24.607577Z"
+    "checked_at": "2026-10-14T16:35:25.010554Z"
   },
   "WZZ98RS": {
     "route": {
@@ -526,7 +526,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T16:45:31.564553Z"
+    "checked_at": "2026-10-14T16:35:25.010554Z"
   },
   "EWG5EY": {
     "route": {
@@ -5407,17 +5407,6 @@
     "route": null,
     "checked_at": "2026-10-13T18:55:25.820229Z"
   },
-  "PGT816T": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-12T16:35:24.014999Z"
-  },
   "EWG3V": {
     "route": {
       "fromCity": "Hamburg",
@@ -8022,7 +8011,7 @@
       "airlineName": "Shanxi Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-13T07:30:44.427531Z"
+    "checked_at": "2026-10-14T16:35:25.010554Z"
   },
   "FCA1MA": {
     "route": null,
@@ -8323,7 +8312,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T09:15:30.766388Z"
+    "checked_at": "2026-10-14T16:35:25.010554Z"
   },
   "DMVLV": {
     "route": null,
@@ -12247,5 +12236,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-14T16:25:24.572210Z"
+  },
+  "BTI3FL": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-14T16:35:25.010554Z"
   }
 }
