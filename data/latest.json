@@ -3,12 +3,12 @@
     {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.8557,
-      "lon": 13.8926,
-      "altKm": 3.2,
-      "speedKmh": 523,
-      "heading": 184,
-      "vertRateMs": 0.3,
+      "lat": 52.4517,
+      "lon": 13.844,
+      "altKm": 1.2,
+      "speedKmh": 370,
+      "heading": 208,
+      "vertRateMs": -1.9,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -16,7 +16,37 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "CHH7937",
+      "country": "China",
+      "lat": 52.6632,
+      "lon": 14.016,
+      "altKm": 11.7,
+      "speedKmh": 906,
+      "heading": 173,
+      "vertRateMs": 0,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG7WB",
+      "country": "Germany",
+      "lat": 52.2738,
+      "lon": 13.3281,
+      "altKm": 1.7,
+      "speedKmh": 450,
+      "heading": 229,
+      "vertRateMs": 10.4,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-14T03:55:21.319994Z"
+  "updated_at": "2026-10-14T04:00:55.793524Z"
 }
