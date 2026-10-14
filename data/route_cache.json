@@ -1036,7 +1036,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T20:50:30.949622Z"
+    "checked_at": "2026-10-14T20:40:30.978730Z"
   },
   "SXS5HU": {
     "route": {
@@ -2632,7 +2632,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T13:10:33.149964Z"
+    "checked_at": "2026-10-14T20:40:30.978730Z"
   },
   "WZZ262": {
     "route": {
@@ -4483,17 +4483,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-14T17:50:29.976951Z"
-  },
-  "EWG4J": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-12T20:35:24.419228Z"
   },
   "RYR98ST": {
     "route": {
@@ -12383,5 +12372,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T20:30:43.459586Z"
+  },
+  "QTR28L": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-14T20:40:30.978730Z"
+  },
+  "SAS79E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T20:40:30.978730Z"
   }
 }
