@@ -100,7 +100,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-13T14:20:33.450101Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "RYR1SM": {
     "route": {
@@ -122,7 +122,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T13:55:25.690164Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "RYR96EU": {
     "route": {
@@ -148,7 +148,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-13T14:05:24.031373Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "LOT279": {
     "route": {
@@ -1392,7 +1392,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T06:50:33.060508Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "EJU46ZJ": {
     "route": {
@@ -3484,7 +3484,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T14:25:25.349920Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "BAW8RM": {
     "route": {
@@ -4504,7 +4504,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-13T13:40:32.164915Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "CCA939": {
     "route": {
@@ -4824,7 +4824,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T05:30:44.259964Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "UAE57X": {
     "route": {
@@ -4835,7 +4835,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-13T14:00:58.050356Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "THY95Y": {
     "route": {
@@ -5331,7 +5331,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-13T19:45:31.975658Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "SWR9YP": {
     "route": {
@@ -5343,28 +5343,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-14T14:10:36.051325Z"
-  },
-  "BEL5XD": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-12T14:25:26.050390Z"
-  },
-  "MSR760": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Cairo",
-      "toIata": "CAI",
-      "airlineName": "Egyptair",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-12T14:25:26.050390Z"
   },
   "AUA22S": {
     "route": {
@@ -6587,21 +6565,6 @@
     },
     "checked_at": "2026-10-14T07:10:31.828119Z"
   },
-  "NSZ6HT": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-12T14:25:26.050390Z"
-  },
-  "DERSL": {
-    "route": null,
-    "checked_at": "2026-10-12T14:25:26.050390Z"
-  },
   "RYR91ZT": {
     "route": {
       "fromCity": "Bologna",
@@ -7235,7 +7198,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T17:01:00.783519Z"
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   },
   "RYR3U": {
     "route": {
@@ -12388,5 +12351,27 @@
       "airlineCountry": "Jordan"
     },
     "checked_at": "2026-10-14T14:25:24.140630Z"
+  },
+  "NSZ3299": {
+    "route": {
+      "fromCity": "Sarajevo",
+      "fromIata": "SJJ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T14:30:50.145842Z"
+  },
+  "SAS49N": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T14:30:50.145842Z"
   }
 }
