@@ -4066,17 +4066,6 @@
     },
     "checked_at": "2026-10-12T15:05:27.993094Z"
   },
-  "WZZ513": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-12T13:00:56.838635Z"
-  },
   "EZS67CP": {
     "route": {
       "fromCity": "Berlin",
@@ -6527,28 +6516,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T05:00:54.335195Z"
-  },
-  "RYR939": {
-    "route": {
-      "fromCity": "Kaunas",
-      "fromIata": "KUN",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T13:00:56.838635Z"
-  },
-  "RYR12AV": {
-    "route": {
-      "fromCity": "Trieste",
-      "fromIata": "TRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T13:00:56.838635Z"
   },
   "NOZ6TY": {
     "route": {
@@ -12374,5 +12341,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T13:00:55.912812Z"
+  },
+  "PJJ214X": {
+    "route": null,
+    "checked_at": "2026-10-14T13:05:22.576732Z"
+  },
+  "ETD4RL": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-14T13:05:22.576732Z"
+  },
+  "RYR159P": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T13:05:22.576732Z"
   }
 }
