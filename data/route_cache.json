@@ -2562,7 +2562,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-13T13:05:26.840704Z"
+    "checked_at": "2026-10-14T13:00:55.912812Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -6527,17 +6527,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T05:00:54.335195Z"
-  },
-  "PGT5050": {
-    "route": {
-      "fromCity": "Aarhus",
-      "fromIata": "AAR",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-12T12:55:28.853697Z"
   },
   "RYR939": {
     "route": {
@@ -12374,5 +12363,16 @@
   "NJE612R": {
     "route": null,
     "checked_at": "2026-10-14T12:55:22.827430Z"
+  },
+  "RYR525H": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T13:00:55.912812Z"
   }
 }
