@@ -515,7 +515,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T16:40:34.960221Z"
+    "checked_at": "2026-10-14T17:10:32.729502Z"
   },
   "AUA99HC": {
     "route": {
@@ -651,7 +651,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-13T17:20:29.585296Z"
+    "checked_at": "2026-10-14T17:10:32.729502Z"
   },
   "KLM1316": {
     "route": {
@@ -6520,21 +6520,6 @@
     },
     "checked_at": "2026-10-13T15:55:25.576593Z"
   },
-  "UAE61": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-12T17:05:24.167062Z"
-  },
-  "FHY1548": {
-    "route": null,
-    "checked_at": "2026-10-12T17:05:24.167062Z"
-  },
   "EJU91FL": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6545,17 +6530,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T16:35:23.515204Z"
-  },
-  "NOZ4RP": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-12T17:05:24.167062Z"
   },
   "EWG33J": {
     "route": {
@@ -12251,5 +12225,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-14T17:05:23.582937Z"
+  },
+  "DLH6TP": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T17:10:32.729502Z"
   }
 }
