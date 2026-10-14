@@ -4795,7 +4795,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-13T19:10:33.052213Z"
+    "checked_at": "2026-10-14T19:10:33.911476Z"
   },
   "RYR1ZR": {
     "route": {
@@ -5430,7 +5430,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-13T18:25:24.154579Z"
+    "checked_at": "2026-10-14T19:10:33.911476Z"
   },
   "WZZ50ML": {
     "route": {
@@ -6592,17 +6592,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-14T19:00:55.673786Z"
-  },
-  "LOT7EG": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Goleniow",
-      "toIata": "SZZ",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-12T19:10:29.886115Z"
   },
   "EJU47TU": {
     "route": {
@@ -12258,5 +12247,38 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-10-14T19:05:26.555070Z"
+  },
+  "EJU5018": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T19:10:33.911476Z"
+  },
+  "WZZ9UF": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-14T19:10:33.911476Z"
+  },
+  "RYR3885": {
+    "route": {
+      "fromCity": "Olsztyn",
+      "fromIata": "SZY",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T19:10:33.911476Z"
   }
 }
