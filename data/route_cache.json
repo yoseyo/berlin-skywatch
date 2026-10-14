@@ -137,7 +137,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-10-13T08:05:24.796785Z"
+    "checked_at": "2026-10-14T07:00:56.292788Z"
   },
   "SXS8TG": {
     "route": {
@@ -1557,7 +1557,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-13T06:55:28.885667Z"
+    "checked_at": "2026-10-14T07:00:56.292788Z"
   },
   "RYR594F": {
     "route": {
@@ -2698,7 +2698,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T13:50:35.355831Z"
+    "checked_at": "2026-10-14T07:00:56.292788Z"
   },
   "KLC42X": {
     "route": {
@@ -6554,10 +6554,6 @@
     },
     "checked_at": "2026-10-13T14:35:26.526565Z"
   },
-  "ATV103": {
-    "route": null,
-    "checked_at": "2026-10-12T06:55:25.672856Z"
-  },
   "LHX5T": {
     "route": {
       "fromCity": "Munich",
@@ -6568,21 +6564,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T07:00:54.272848Z"
-  },
-  "GAC454T": {
-    "route": null,
-    "checked_at": "2026-10-12T07:00:55.501154Z"
-  },
-  "CFG3KD": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-12T07:00:55.501154Z"
   },
   "EJU51LD": {
     "route": {
@@ -12469,5 +12450,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T06:55:24.755611Z"
+  },
+  "EJU73KU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T07:00:56.292788Z"
+  },
+  "CFG1AH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T07:00:56.292788Z"
+  },
+  "SXS6SJ": {
+    "route": {
+      "fromCity": "Dalaman",
+      "fromIata": "DLM",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-14T07:00:56.292788Z"
+  },
+  "ARAS85": {
+    "route": null,
+    "checked_at": "2026-10-14T07:00:56.292788Z"
   }
 }
