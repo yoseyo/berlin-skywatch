@@ -926,7 +926,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-13T20:00:54.381054Z"
+    "checked_at": "2026-10-14T20:15:31.790102Z"
   },
   "AUA989D": {
     "route": {
@@ -3308,7 +3308,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-13T20:05:23.224419Z"
+    "checked_at": "2026-10-14T20:15:31.790102Z"
   },
   "WZZ9389": {
     "route": {
@@ -3396,7 +3396,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T09:50:33.089658Z"
+    "checked_at": "2026-10-14T20:15:31.790102Z"
   },
   "LHX178": {
     "route": {
@@ -6614,39 +6614,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T13:45:30.420072Z"
-  },
-  "BTI4XH": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-12T20:15:30.089370Z"
-  },
-  "EJU98HY": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-12T20:15:30.089370Z"
-  },
-  "EJU46TQ": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-12T20:15:30.089370Z"
   },
   "SWT9ER": {
     "route": {
@@ -12368,5 +12335,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T20:10:32.576643Z"
+  },
+  "EJU5106": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T20:15:31.790102Z"
+  },
+  "WZZ513": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-14T20:15:31.790102Z"
   }
 }
