@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "BCS5959",
-      "country": "Bulgaria",
-      "lat": 52.1561,
-      "lon": 13.9554,
-      "altKm": 9.4,
-      "speedKmh": 849,
-      "heading": 60,
-      "vertRateMs": 6.8,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "category": "plane"
-    },
-    {
       "callsign": "BCS15N",
       "country": "Austria",
-      "lat": 52.1825,
-      "lon": 12.8487,
-      "altKm": 8.3,
-      "speedKmh": 830,
+      "lat": 52.5932,
+      "lon": 13.6741,
+      "altKm": 10.2,
+      "speedKmh": 896,
       "heading": 51,
-      "vertRateMs": 7.5,
+      "vertRateMs": 4.9,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
@@ -35,16 +18,33 @@
       "category": "plane"
     },
     {
+      "callsign": "SWT3WZ",
+      "country": "Spain",
+      "lat": 52.2913,
+      "lon": 13.7471,
+      "altKm": 2.9,
+      "speedKmh": 548,
+      "heading": 54,
+      "vertRateMs": -7.2,
+      "airline": "Swiftair",
+      "airlineCountry": "Spain",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "SDR20JC",
       "country": "Germany",
-      "lat": 52.3341,
-      "lon": 13.3142,
-      "altKm": 1.6,
-      "speedKmh": 397,
-      "heading": 264,
-      "vertRateMs": 15.3,
+      "lat": 52.112,
+      "lon": 12.7992,
+      "altKm": 4.9,
+      "speedKmh": 663,
+      "heading": 206,
+      "vertRateMs": 11.4,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-14T03:40:29.520897Z"
+  "updated_at": "2026-10-14T03:45:30.152636Z"
 }
