@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-14T21:45:29.510408Z"
+  "flights": [
+    {
+      "callsign": "RYR6908",
+      "country": "Malta",
+      "lat": 52.7183,
+      "lon": 14.062,
+      "altKm": 11.3,
+      "speedKmh": 779,
+      "heading": 278,
+      "vertRateMs": -0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-14T21:50:31.039989Z"
 }
