@@ -1,4 +1,50 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-14T03:35:24.602255Z"
+  "flights": [
+    {
+      "callsign": "BCS5959",
+      "country": "Bulgaria",
+      "lat": 52.1561,
+      "lon": 13.9554,
+      "altKm": 9.4,
+      "speedKmh": 849,
+      "heading": 60,
+      "vertRateMs": 6.8,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.1825,
+      "lon": 12.8487,
+      "altKm": 8.3,
+      "speedKmh": 830,
+      "heading": 51,
+      "vertRateMs": 7.5,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
+      "callsign": "SDR20JC",
+      "country": "Germany",
+      "lat": 52.3341,
+      "lon": 13.3142,
+      "altKm": 1.6,
+      "speedKmh": 397,
+      "heading": 264,
+      "vertRateMs": 15.3,
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-14T03:40:29.520897Z"
 }
