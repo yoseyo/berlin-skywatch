@@ -871,7 +871,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-13T19:40:32.026856Z"
+    "checked_at": "2026-10-14T20:10:32.576643Z"
   },
   "DLH1CJ": {
     "route": {
@@ -937,7 +937,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T20:00:54.381054Z"
+    "checked_at": "2026-10-14T20:10:32.576643Z"
   },
   "WZZ620U": {
     "route": {
@@ -959,7 +959,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T19:55:23.817036Z"
+    "checked_at": "2026-10-14T20:10:32.576643Z"
   },
   "RYR8YY": {
     "route": {
@@ -981,7 +981,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-13T20:43:08.022042Z"
+    "checked_at": "2026-10-14T20:10:32.576643Z"
   },
   "RYR95MP": {
     "route": {
@@ -5197,17 +5197,6 @@
     },
     "checked_at": "2026-10-14T11:00:55.595288Z"
   },
-  "SAS47D": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-12T20:10:31.534430Z"
-  },
   "EJU16CF": {
     "route": {
       "fromCity": "Kerkyra Island",
@@ -6626,17 +6615,6 @@
     },
     "checked_at": "2026-10-14T13:45:30.420072Z"
   },
-  "EZS1590": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-12T20:10:31.534430Z"
-  },
   "BTI4XH": {
     "route": {
       "fromCity": "Munich",
@@ -6679,7 +6657,7 @@
       "airlineName": "Swiftair",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-13T20:25:24.856122Z"
+    "checked_at": "2026-10-14T20:10:32.576643Z"
   },
   "EWG3GH": {
     "route": {
@@ -12368,5 +12346,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-14T20:05:23.544606Z"
+  },
+  "EJU37BL": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T20:10:32.576643Z"
+  },
+  "RYR28BE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T20:10:32.576643Z"
   }
 }
