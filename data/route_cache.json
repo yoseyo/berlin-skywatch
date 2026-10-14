@@ -2188,7 +2188,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T10:45:29.738839Z"
+    "checked_at": "2026-10-14T10:40:32.391418Z"
   },
   "SXS1CM": {
     "route": {
@@ -2276,7 +2276,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-13T10:30:45.967174Z"
+    "checked_at": "2026-10-14T10:40:32.391418Z"
   },
   "SXS5UY": {
     "route": {
@@ -4212,17 +4212,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-13T08:50:30.632083Z"
-  },
-  "EWG7NF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-12T10:40:30.003890Z"
   },
   "THY8TV": {
     "route": {
@@ -6445,10 +6434,6 @@
   "HBKBC": {
     "route": null,
     "checked_at": "2026-10-13T09:45:29.300217Z"
-  },
-  "CAT744": {
-    "route": null,
-    "checked_at": "2026-10-12T10:40:30.003890Z"
   },
   "RYR81YP": {
     "route": {
@@ -12185,5 +12170,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T10:35:24.141156Z"
+  },
+  "NSZ3298": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T10:40:32.391418Z"
+  },
+  "SPAR20": {
+    "route": {
+      "fromCity": "Camp Springs",
+      "fromIata": "ADW",
+      "toCity": "Belleville",
+      "toIata": "BLV",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-14T10:40:32.391418Z"
   }
 }
