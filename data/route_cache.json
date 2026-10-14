@@ -4940,17 +4940,6 @@
     },
     "checked_at": "2026-10-12T20:25:24.259560Z"
   },
-  "RYR44BG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T16:05:27.213239Z"
-  },
   "BAW986G": {
     "route": {
       "fromCity": "London",
@@ -5324,7 +5313,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T16:20:32.819645Z"
+    "checked_at": "2026-10-14T16:10:34.898169Z"
   },
   "QGA01A": {
     "route": null,
@@ -5406,17 +5395,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-13T17:40:30.502469Z"
-  },
-  "EJU92MK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-12T16:05:27.213239Z"
   },
   "WZZ82": {
     "route": {
@@ -6553,28 +6531,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-14T16:00:57.314596Z"
-  },
-  "JTD243": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Preveza/Lefkada",
-      "toIata": "PVK",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-12T16:05:27.213239Z"
-  },
-  "RYR938": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Kaunas",
-      "toIata": "KUN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T16:05:27.213239Z"
   },
   "WZZ3XA": {
     "route": {
@@ -12295,5 +12251,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-14T16:05:25.827633Z"
+  },
+  "NSZ2902": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T16:10:34.898169Z"
+  },
+  "EWG63L": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T16:10:34.898169Z"
   }
 }
