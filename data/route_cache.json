@@ -1953,7 +1953,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T09:30:44.861863Z"
+    "checked_at": "2026-10-14T09:20:31.196517Z"
   },
   "LOT266": {
     "route": {
@@ -6484,47 +6484,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-14T09:05:26.167212Z"
-  },
-  "LZB319": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Bulgaria Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-12T09:15:32.264923Z"
-  },
-  "BAG12": {
-    "route": null,
-    "checked_at": "2026-10-12T09:15:32.264923Z"
-  },
-  "TVS4592": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Bucharest",
-      "toIata": "OTP",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-12T09:15:32.264923Z"
-  },
-  "DLH5KH": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-12T09:15:32.264923Z"
-  },
-  "NJE762H": {
-    "route": null,
-    "checked_at": "2026-10-12T09:18:27.216208Z"
   },
   "FJO53F": {
     "route": null,
@@ -12270,5 +12229,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T09:15:29.403241Z"
+  },
+  "TKJ35Z": {
+    "route": {
+      "fromCity": "A\u011fr\u0131",
+      "fromIata": "AJI",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-14T09:20:31.196517Z"
+  },
+  "BTI9TZ": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-14T09:20:31.196517Z"
   }
 }
