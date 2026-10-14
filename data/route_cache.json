@@ -1733,7 +1733,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-13T10:40:29.731269Z"
+    "checked_at": "2026-10-14T08:15:31.300198Z"
   },
   "AUA225B": {
     "route": {
@@ -1876,7 +1876,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-13T08:35:22.646476Z"
+    "checked_at": "2026-10-14T08:15:31.300198Z"
   },
   "RYR4TC": {
     "route": {
@@ -3054,7 +3054,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-10-12T10:45:34.388252Z"
+    "checked_at": "2026-10-14T08:15:31.300198Z"
   },
   "EJU5088": {
     "route": null,
@@ -5426,7 +5426,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T08:10:32.311293Z"
+    "checked_at": "2026-10-14T08:15:31.300198Z"
   },
   "EJU43RL": {
     "route": {
@@ -6546,28 +6546,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-13T07:45:29.238849Z"
-  },
-  "UBD445": {
-    "route": {
-      "fromCity": "Arbil",
-      "fromIata": "EBL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "United Airways",
-      "airlineCountry": "Bangladesh"
-    },
-    "checked_at": "2026-10-12T08:10:32.311293Z"
-  },
-  "EJU83RT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-12T08:10:32.311293Z"
   },
   "TAY1430": {
     "route": null,
@@ -12401,5 +12379,20 @@
   "FGSOM": {
     "route": null,
     "checked_at": "2026-10-14T08:05:26.388683Z"
+  },
+  "NSZ3DA": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T08:15:31.300198Z"
+  },
+  "DEPMW": {
+    "route": null,
+    "checked_at": "2026-10-14T08:15:31.300198Z"
   }
 }
