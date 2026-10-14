@@ -948,7 +948,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-13T20:15:32.033301Z"
+    "checked_at": "2026-10-14T20:55:23.331201Z"
   },
   "AUA239": {
     "route": {
@@ -3183,7 +3183,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T20:35:24.637248Z"
+    "checked_at": "2026-10-14T20:55:23.331201Z"
   },
   "AUA238N": {
     "route": {
@@ -6629,17 +6629,6 @@
   "AEG6911": {
     "route": null,
     "checked_at": "2026-10-14T20:45:30.182990Z"
-  },
-  "FIN6TF": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-12T20:50:33.179508Z"
   },
   "GAF626": {
     "route": null,
@@ -12379,5 +12368,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-14T20:40:30.978730Z"
+  },
+  "EJU74RM": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T20:55:23.331201Z"
   }
 }
