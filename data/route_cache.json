@@ -2929,7 +2929,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-13T10:40:29.731269Z"
+    "checked_at": "2026-10-14T10:30:46.445688Z"
   },
   "WMT7WQ": {
     "route": {
@@ -3227,7 +3227,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-13T09:05:22.628035Z"
+    "checked_at": "2026-10-14T10:30:46.445688Z"
   },
   "BAW990G": {
     "route": {
@@ -3610,17 +3610,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-14T09:30:44.948279Z"
-  },
-  "TAP53LB": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-12T10:30:42.963078Z"
   },
   "BAW87AM": {
     "route": {
@@ -6442,14 +6431,6 @@
     },
     "checked_at": "2026-10-13T11:40:31.769963Z"
   },
-  "DMVRG": {
-    "route": null,
-    "checked_at": "2026-10-12T10:30:42.963078Z"
-  },
-  "DMRBW": {
-    "route": null,
-    "checked_at": "2026-10-12T10:30:42.963078Z"
-  },
   "EJU43NL": {
     "route": {
       "fromCity": "Berlin",
@@ -6460,21 +6441,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-13T16:00:58.607526Z"
-  },
-  "DEJTT": {
-    "route": null,
-    "checked_at": "2026-10-12T10:30:42.963078Z"
-  },
-  "CTN487": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-12T10:30:42.963078Z"
   },
   "HBKBC": {
     "route": null,
@@ -12178,5 +12144,24 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T10:25:26.527721Z"
+  },
+  "ETH3604": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Li\u00e8ge",
+      "toIata": "LGG",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-14T10:30:46.445688Z"
+  },
+  "ARAS84": {
+    "route": null,
+    "checked_at": "2026-10-14T10:30:46.445688Z"
+  },
+  "DHCTR": {
+    "route": null,
+    "checked_at": "2026-10-14T10:30:46.445688Z"
   }
 }
