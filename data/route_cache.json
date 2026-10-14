@@ -1821,7 +1821,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-13T08:45:29.155339Z"
+    "checked_at": "2026-10-14T08:55:25.746666Z"
   },
   "RYR749C": {
     "route": {
@@ -1986,7 +1986,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-13T09:00:54.297897Z"
+    "checked_at": "2026-10-14T08:55:25.746666Z"
   },
   "LOT7VJ": {
     "route": {
@@ -3511,17 +3511,6 @@
   "EJU32RT": {
     "route": null,
     "checked_at": "2026-10-13T20:45:30.810674Z"
-  },
-  "TKJ3WS": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-12T08:50:36.576370Z"
   },
   "KLM67B": {
     "route": {
@@ -6484,28 +6473,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T08:50:31.918830Z"
-  },
-  "RYR4ZG": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Castell\u00f3n de la Plana",
-      "toIata": "CDT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T08:50:36.576370Z"
-  },
-  "EWG20W": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-12T08:50:36.576370Z"
   },
   "NSZ79AY": {
     "route": {
@@ -12299,5 +12266,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-14T08:50:31.918830Z"
+  },
+  "SPWIW": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Rzesz\u00f3w",
+      "toIata": "RZE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-14T08:55:25.746666Z"
   }
 }
