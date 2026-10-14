@@ -1480,7 +1480,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T07:05:25.176844Z"
+    "checked_at": "2026-10-14T09:10:31.497974Z"
   },
   "NOZ2XM": {
     "route": {
@@ -3418,7 +3418,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T09:20:34.091400Z"
+    "checked_at": "2026-10-14T09:10:31.497974Z"
   },
   "WZZ2706": {
     "route": {
@@ -4784,17 +4784,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-13T15:45:31.985746Z"
-  },
-  "EWG9L": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-12T09:05:26.921023Z"
   },
   "AUA26Z": {
     "route": {
@@ -6495,14 +6484,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T09:05:22.628035Z"
-  },
-  "MFX7616": {
-    "route": null,
-    "checked_at": "2026-10-12T09:05:26.921023Z"
-  },
-  "FDS05": {
-    "route": null,
-    "checked_at": "2026-10-12T09:05:26.921023Z"
   },
   "AUA962D": {
     "route": {
@@ -12270,5 +12251,16 @@
   "N99BY": {
     "route": null,
     "checked_at": "2026-10-14T09:00:55.496249Z"
+  },
+  "RYR3RK": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T09:10:31.497974Z"
   }
 }
