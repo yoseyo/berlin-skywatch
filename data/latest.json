@@ -1,30 +1,13 @@
 {
   "flights": [
     {
-      "callsign": "RYR85CE",
-      "country": "Ireland",
-      "lat": 52.4155,
-      "lon": 13.688,
-      "altKm": 0.7,
-      "speedKmh": 323,
-      "heading": 248,
-      "vertRateMs": -4.9,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "EWG6NT",
       "country": "Germany",
-      "lat": 52.2007,
-      "lon": 13.996,
-      "altKm": 2.6,
-      "speedKmh": 454,
-      "heading": 338,
+      "lat": 52.4129,
+      "lon": 13.6761,
+      "altKm": 0.7,
+      "speedKmh": 338,
+      "heading": 249,
       "vertRateMs": -5.8,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
@@ -33,7 +16,24 @@
       "toCity": "Heraklion",
       "toIata": "HER",
       "category": "plane"
+    },
+    {
+      "callsign": "SDR33WB",
+      "country": "Germany",
+      "lat": 52.1178,
+      "lon": 13.3285,
+      "altKm": 3.5,
+      "speedKmh": 629,
+      "heading": 55,
+      "vertRateMs": -4.2,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-14T21:25:22.848449Z"
+  "updated_at": "2026-10-14T21:30:46.737235Z"
 }
