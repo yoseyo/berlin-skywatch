@@ -4753,17 +4753,6 @@
     },
     "checked_at": "2026-10-14T18:55:24.717642Z"
   },
-  "SAS2768": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-12T19:00:52.823283Z"
-  },
   "VLG1887": {
     "route": {
       "fromCity": "Berlin",
@@ -6470,7 +6459,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T15:55:25.576593Z"
+    "checked_at": "2026-10-14T19:00:55.673786Z"
   },
   "EJU91FL": {
     "route": {
@@ -6602,15 +6591,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-12T19:00:52.823283Z"
-  },
-  "PBB17": {
-    "route": null,
-    "checked_at": "2026-10-12T19:00:52.823283Z"
-  },
-  "SDR21RP": {
-    "route": null,
-    "checked_at": "2026-10-12T19:00:52.823283Z"
+    "checked_at": "2026-10-14T19:00:55.673786Z"
   },
   "RYR9846": {
     "route": {
@@ -12262,5 +12243,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-14T18:55:24.717642Z"
+  },
+  "BTI8GC": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-14T19:00:55.673786Z"
+  },
+  "DLH898": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T19:00:55.673786Z"
   }
 }
