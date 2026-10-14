@@ -2852,7 +2852,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-12T06:55:25.672856Z"
+    "checked_at": "2026-10-14T06:55:24.755611Z"
   },
   "WZZ3EA": {
     "route": {
@@ -4020,7 +4020,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T04:45:30.905013Z"
+    "checked_at": "2026-10-14T06:55:24.755611Z"
   },
   "CTN480": {
     "route": {
@@ -12447,5 +12447,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-14T06:45:32.795387Z"
+  },
+  "PGT982": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-14T06:55:24.755611Z"
+  },
+  "CFG1RV": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T06:55:24.755611Z"
   }
 }
