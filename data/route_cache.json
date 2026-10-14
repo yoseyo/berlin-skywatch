@@ -1293,7 +1293,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-13T05:35:23.669653Z"
+    "checked_at": "2026-10-14T06:10:33.779173Z"
   },
   "QTR29X": {
     "route": {
@@ -1359,7 +1359,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T06:10:33.433944Z"
+    "checked_at": "2026-10-14T06:10:33.779173Z"
   },
   "SXS3FR": {
     "route": {
@@ -1447,7 +1447,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-13T08:20:33.448139Z"
+    "checked_at": "2026-10-14T06:10:33.779173Z"
   },
   "SWR97Y": {
     "route": {
@@ -6477,39 +6477,6 @@
     "route": null,
     "checked_at": "2026-10-13T05:40:32.622162Z"
   },
-  "JTD527": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Zakynthos Island",
-      "toIata": "ZTH",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-12T06:05:24.769794Z"
-  },
-  "AUA222": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-12T06:05:24.769794Z"
-  },
-  "FIN78D": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-12T06:10:30.921433Z"
-  },
   "EWG4JP": {
     "route": {
       "fromCity": "Stuttgart",
@@ -6519,7 +6486,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T06:05:25.285931Z"
+    "checked_at": "2026-10-14T06:10:33.779173Z"
   },
   "TVS459P": {
     "route": {
@@ -12546,5 +12513,27 @@
   "ATV301": {
     "route": null,
     "checked_at": "2026-10-14T06:05:23.905844Z"
+  },
+  "NSZ3748": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Palermo",
+      "toIata": "PMO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T06:10:33.779173Z"
+  },
+  "NOZ1910": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-14T06:10:33.779173Z"
   }
 }
