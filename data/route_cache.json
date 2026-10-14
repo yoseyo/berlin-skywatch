@@ -4996,7 +4996,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T09:05:22.628035Z"
+    "checked_at": "2026-10-14T09:00:55.496249Z"
   },
   "RYR62HD": {
     "route": {
@@ -12277,5 +12277,42 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-14T08:55:25.746666Z"
+  },
+  "EJU32EY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T09:00:55.496249Z"
+  },
+  "TKJ3WS": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-14T09:00:55.496249Z"
+  },
+  "RYR5ZE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T09:00:55.496249Z"
+  },
+  "N99BY": {
+    "route": null,
+    "checked_at": "2026-10-14T09:00:55.496249Z"
   }
 }
