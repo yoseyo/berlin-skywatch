@@ -111,7 +111,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T07:30:44.427531Z"
+    "checked_at": "2026-10-14T12:15:30.798960Z"
   },
   "AUA21P": {
     "route": {
@@ -207,7 +207,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-10-13T14:50:30.580830Z"
+    "checked_at": "2026-10-14T12:15:30.798960Z"
   },
   "DLH192": {
     "route": {
@@ -2452,7 +2452,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T12:10:33.625015Z"
+    "checked_at": "2026-10-14T12:15:30.798960Z"
   },
   "EJU57RF": {
     "route": {
@@ -2529,7 +2529,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-13T12:20:30.463543Z"
+    "checked_at": "2026-10-14T12:15:30.798960Z"
   },
   "SXS9SE": {
     "route": {
@@ -3113,7 +3113,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-12T12:15:29.627985Z"
+    "checked_at": "2026-10-14T12:15:30.798960Z"
   },
   "EWG7RB": {
     "route": {
@@ -4000,17 +4000,6 @@
     },
     "checked_at": "2026-10-12T12:45:29.720408Z"
   },
-  "EWG3AM": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-12T12:10:33.735936Z"
-  },
   "KLM95T": {
     "route": {
       "fromCity": "Amsterdam",
@@ -4696,17 +4685,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-12T15:25:24.230183Z"
-  },
-  "RYR37YC": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T12:10:33.735936Z"
   },
   "EWG4J": {
     "route": {
@@ -6506,25 +6484,6 @@
     },
     "checked_at": "2026-10-14T12:00:56.246199Z"
   },
-  "DMAUK": {
-    "route": null,
-    "checked_at": "2026-10-12T12:10:33.735936Z"
-  },
-  "THY9WC": {
-    "route": {
-      "fromCity": "San Francisco",
-      "fromIata": "SFO",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-12T12:10:33.735936Z"
-  },
-  "DEEIR": {
-    "route": null,
-    "checked_at": "2026-10-12T12:15:29.627985Z"
-  },
   "LHX1HL": {
     "route": {
       "fromCity": "Berlin",
@@ -6535,21 +6494,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T12:10:32.433200Z"
-  },
-  "JFA24S": {
-    "route": null,
-    "checked_at": "2026-10-12T12:15:29.627985Z"
-  },
-  "SAS42K": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-12T12:15:29.627985Z"
   },
   "BTI3BP": {
     "route": {
@@ -12302,5 +12246,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T12:10:32.433200Z"
+  },
+  "NSZ3740": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T12:15:30.798960Z"
   }
 }
