@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-14T01:00:54.967701Z"
+  "flights": [
+    {
+      "callsign": "BCS179",
+      "country": "Austria",
+      "lat": 52.7573,
+      "lon": 13.1013,
+      "altKm": 7.0,
+      "speedKmh": 736,
+      "heading": 194,
+      "vertRateMs": -6.5,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Alava",
+      "fromIata": "VIT",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-14T01:05:23.018217Z"
 }
