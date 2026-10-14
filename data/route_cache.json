@@ -1931,7 +1931,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-13T09:10:31.910130Z"
+    "checked_at": "2026-10-14T09:40:29.267253Z"
   },
   "LOT4LV": {
     "route": {
@@ -1975,7 +1975,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-13T10:25:26.544422Z"
+    "checked_at": "2026-10-14T09:40:29.267253Z"
   },
   "KLM75C": {
     "route": {
@@ -12192,5 +12192,20 @@
   "FRO1917": {
     "route": null,
     "checked_at": "2026-10-14T09:35:25.136616Z"
+  },
+  "TIE300J": {
+    "route": null,
+    "checked_at": "2026-10-14T09:40:29.267253Z"
+  },
+  "DAL79": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Delta Air Lines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-14T09:40:29.267253Z"
   }
 }
