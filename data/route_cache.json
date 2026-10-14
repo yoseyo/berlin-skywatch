@@ -3495,7 +3495,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-13T13:45:33.323805Z"
+    "checked_at": "2026-10-14T15:40:31.563601Z"
   },
   "EJU32RT": {
     "route": null,
@@ -3646,7 +3646,7 @@
   },
   "BPOBER": {
     "route": null,
-    "checked_at": "2026-10-13T22:35:22.893050Z"
+    "checked_at": "2026-10-14T15:40:31.563601Z"
   },
   "AUA233": {
     "route": {
@@ -3833,7 +3833,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-13T15:40:33.030186Z"
+    "checked_at": "2026-10-14T15:40:31.563601Z"
   },
   "AFR1434": {
     "route": {
@@ -12292,5 +12292,27 @@
   "ABF8": {
     "route": null,
     "checked_at": "2026-10-14T15:35:27.383426Z"
+  },
+  "EWG9KG": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T15:40:31.563601Z"
+  },
+  "NGN7904": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "LEAV Aviation",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T15:40:31.563601Z"
   }
 }
