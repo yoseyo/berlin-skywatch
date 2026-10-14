@@ -805,7 +805,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T18:40:29.413872Z"
+    "checked_at": "2026-10-14T18:35:26.121008Z"
   },
   "LOT1LH": {
     "route": {
@@ -3734,7 +3734,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-12T18:40:32.018161Z"
+    "checked_at": "2026-10-14T18:35:26.121008Z"
   },
   "CFE8495": {
     "route": {
@@ -6607,17 +6607,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T17:50:31.601559Z"
-  },
-  "RYR2962": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T18:35:24.300945Z"
   },
   "RYR430N": {
     "route": {
@@ -12244,5 +12233,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T18:30:45.785286Z"
+  },
+  "SDR15XL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T18:35:26.121008Z"
+  },
+  "RYR5074": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T18:35:26.121008Z"
   }
 }
