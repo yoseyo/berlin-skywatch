@@ -5338,7 +5338,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-13T17:40:30.502469Z"
+    "checked_at": "2026-10-14T17:40:33.085578Z"
   },
   "WZZ82": {
     "route": {
@@ -5442,17 +5442,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-13T19:00:56.549285Z"
-  },
-  "BBG271": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-12T17:40:31.091318Z"
   },
   "EJU15BJ": {
     "route": {
@@ -6563,17 +6552,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T17:35:27.216931Z"
-  },
-  "LBT233": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tunis",
-      "toIata": "TUN",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-12T17:40:31.091318Z"
   },
   "BAW99XC": {
     "route": {
@@ -12247,5 +12225,27 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-14T17:35:27.216931Z"
+  },
+  "ABP712": {
+    "route": {
+      "fromCity": "Rotterdam",
+      "fromIata": "RTM",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-14T17:40:33.085578Z"
+  },
+  "RYR2789": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T17:40:33.085578Z"
   }
 }
