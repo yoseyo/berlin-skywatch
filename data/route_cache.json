@@ -240,7 +240,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-13T14:30:47.075043Z"
+    "checked_at": "2026-10-14T14:25:24.140630Z"
   },
   "EJU81FH": {
     "route": {
@@ -5493,7 +5493,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-12T14:40:32.007490Z"
+    "checked_at": "2026-10-14T14:25:24.140630Z"
   },
   "EWG55X": {
     "route": {
@@ -9826,7 +9826,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-13T14:55:25.227222Z"
+    "checked_at": "2026-10-14T14:25:24.140630Z"
   },
   "TKJ9NQ": {
     "route": {
@@ -12366,5 +12366,27 @@
   "DMBAV": {
     "route": null,
     "checked_at": "2026-10-14T14:20:32.028587Z"
+  },
+  "THY3TR": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-14T14:25:24.140630Z"
+  },
+  "RJA148": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Amman",
+      "toIata": "AMM",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-10-14T14:25:24.140630Z"
   }
 }
