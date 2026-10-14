@@ -3135,7 +3135,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T15:25:23.923895Z"
+    "checked_at": "2026-10-14T15:35:27.383426Z"
   },
   "EJU5087": {
     "route": null,
@@ -6508,22 +6508,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T20:45:30.810674Z"
-  },
-  "DMVVL": {
-    "route": null,
-    "checked_at": "2026-10-12T15:35:24.248854Z"
-  },
-  "RYR916R": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T15:35:24.248854Z"
+    "checked_at": "2026-10-14T15:35:27.383426Z"
   },
   "RYR4022": {
     "route": {
@@ -12292,5 +12277,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T15:30:45.447695Z"
+  },
+  "NSZ4VC": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T15:35:27.383426Z"
+  },
+  "ABF8": {
+    "route": null,
+    "checked_at": "2026-10-14T15:35:27.383426Z"
   }
 }
