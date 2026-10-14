@@ -1,12 +1,29 @@
 {
   "flights": [
     {
+      "callsign": "PGT1604",
+      "country": "Turkey",
+      "lat": 52.2063,
+      "lon": 13.3871,
+      "altKm": 2.8,
+      "speedKmh": 555,
+      "heading": 97,
+      "vertRateMs": 15.0,
+      "airline": "Pegasus Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
+      "category": "plane"
+    },
+    {
       "callsign": "NSZ7DE",
       "country": "Sweden",
-      "lat": 52.3553,
-      "lon": 13.09,
-      "altKm": 12.0,
-      "speedKmh": 699,
+      "lat": 52.8735,
+      "lon": 13.0148,
+      "altKm": 11.9,
+      "speedKmh": 701,
       "heading": 355,
       "vertRateMs": 0,
       "airline": "Norwegian Air Sweden AOC",
@@ -20,11 +37,11 @@
     {
       "callsign": "EJU67GK",
       "country": "Austria",
-      "lat": 52.3728,
-      "lon": 13.8975,
-      "altKm": 1.2,
-      "speedKmh": 421,
-      "heading": 334,
+      "lat": 52.3846,
+      "lon": 13.5562,
+      "altKm": 0.2,
+      "speedKmh": 250,
+      "heading": 249,
       "vertRateMs": -3.6,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
@@ -33,41 +50,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR44DW",
-      "country": "Ireland",
-      "lat": 52.4159,
-      "lon": 13.689,
-      "altKm": 0.7,
-      "speedKmh": 313,
-      "heading": 249,
-      "vertRateMs": -4.9,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "IBE0787",
-      "country": "Spain",
-      "lat": 52.3912,
-      "lon": 13.5844,
-      "altKm": 0.3,
-      "speedKmh": 239,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "Iberia Airlines",
-      "airlineCountry": "Spain",
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-14T21:10:31.672966Z"
+  "updated_at": "2026-10-14T21:15:31.078279Z"
 }
