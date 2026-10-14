@@ -2386,7 +2386,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-13T11:55:27.865123Z"
+    "checked_at": "2026-10-14T11:55:26.825071Z"
   },
   "PGT93T": {
     "route": {
@@ -9670,7 +9670,7 @@
       "airlineName": "China Cargo Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-13T11:55:27.865123Z"
+    "checked_at": "2026-10-14T11:55:26.825071Z"
   },
   "DCOLT": {
     "route": {
@@ -12265,5 +12265,27 @@
   "PAV671": {
     "route": null,
     "checked_at": "2026-10-14T11:45:32.998535Z"
+  },
+  "NSZ3749": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T11:55:26.825071Z"
+  },
+  "RJA147": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-10-14T11:55:26.825071Z"
   }
 }
