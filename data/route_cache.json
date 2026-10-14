@@ -2320,7 +2320,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T11:45:29.710361Z"
+    "checked_at": "2026-10-14T11:35:23.126251Z"
   },
   "FIN3YX": {
     "route": {
@@ -12239,5 +12239,27 @@
   "MFX7656": {
     "route": null,
     "checked_at": "2026-10-14T11:25:24.619938Z"
+  },
+  "RYR8BL": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T11:35:23.126251Z"
+  },
+  "RYR8EM": {
+    "route": {
+      "fromCity": "Bratislava",
+      "fromIata": "BTS",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T11:35:23.126251Z"
   }
 }
