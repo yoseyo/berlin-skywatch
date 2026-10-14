@@ -6607,7 +6607,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-13T13:55:25.690164Z"
+    "checked_at": "2026-10-14T14:05:26.141132Z"
   },
   "JFA24Q": {
     "route": null,
@@ -6905,7 +6905,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-12T15:45:30.364567Z"
+    "checked_at": "2026-10-14T14:05:26.141132Z"
   },
   "FIN01AD": {
     "route": {
@@ -12337,5 +12337,38 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-14T13:55:23.719100Z"
+  },
+  "HLF8822": {
+    "route": {
+      "fromCity": "Vatry",
+      "fromIata": "XCR",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T14:05:26.141132Z"
+  },
+  "JFA30H": {
+    "route": {
+      "fromCity": "Dijon/Longvic",
+      "fromIata": "DIJ",
+      "toCity": "Dijon/Longvic",
+      "toIata": "DIJ",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-14T14:05:26.141132Z"
+  },
+  "GAF645": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "German Air Force",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T14:05:26.141132Z"
   }
 }
