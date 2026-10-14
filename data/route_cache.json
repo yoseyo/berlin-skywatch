@@ -4053,7 +4053,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-13T19:10:33.052213Z"
+    "checked_at": "2026-10-14T19:30:45.161462Z"
   },
   "EJU59TY": {
     "route": {
@@ -5452,7 +5452,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-12T19:40:31.636848Z"
+    "checked_at": "2026-10-14T19:30:45.161462Z"
   },
   "EZY63GU": {
     "route": {
@@ -5464,17 +5464,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-13T19:45:31.975658Z"
-  },
-  "EJU63CR": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-12T19:30:43.666239Z"
   },
   "EJU94YN": {
     "route": {
@@ -6625,28 +6614,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T05:30:44.516005Z"
-  },
-  "RYR28BE": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T19:30:43.666239Z"
-  },
-  "RYR67EU": {
-    "route": {
-      "fromCity": "Zagreb",
-      "fromIata": "ZAG",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-12T19:30:43.666239Z"
   },
   "MBU7HQ": {
     "route": {
@@ -12291,5 +12258,49 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-14T19:20:34.888129Z"
+  },
+  "RYR430N": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T19:30:45.161462Z"
+  },
+  "CFG1CD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-14T19:30:45.161462Z"
+  },
+  "RYR1155": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T19:30:45.161462Z"
+  },
+  "SAS95W": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T19:30:45.161462Z"
   }
 }
