@@ -2408,7 +2408,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-13T12:00:54.827247Z"
+    "checked_at": "2026-10-14T12:10:32.433200Z"
   },
   "SWR1PL": {
     "route": {
@@ -2419,7 +2419,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-13T12:05:26.325394Z"
+    "checked_at": "2026-10-14T12:10:32.433200Z"
   },
   "VLG48MQ": {
     "route": {
@@ -2485,7 +2485,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-13T12:25:23.911317Z"
+    "checked_at": "2026-10-14T12:10:32.433200Z"
   },
   "EJU47DE": {
     "route": {
@@ -3631,7 +3631,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-13T12:00:54.827247Z"
+    "checked_at": "2026-10-14T12:10:32.433200Z"
   },
   "CFE93AU": {
     "route": {
@@ -5298,7 +5298,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-12T12:55:28.853697Z"
+    "checked_at": "2026-10-14T12:10:32.433200Z"
   },
   "WZZ4782": {
     "route": {
@@ -6534,7 +6534,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T12:00:54.827247Z"
+    "checked_at": "2026-10-14T12:10:32.433200Z"
   },
   "JFA24S": {
     "route": null,
@@ -12269,5 +12269,38 @@
   "QQE549": {
     "route": null,
     "checked_at": "2026-10-14T12:00:56.246199Z"
+  },
+  "KAL542": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Seoul",
+      "toIata": "ICN",
+      "airlineName": "Korean Air",
+      "airlineCountry": "South Korea"
+    },
+    "checked_at": "2026-10-14T12:10:32.433200Z"
+  },
+  "AUA97F": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T12:10:32.433200Z"
+  },
+  "RYR42HH": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-14T12:10:32.433200Z"
   }
 }
