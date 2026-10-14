@@ -574,7 +574,7 @@
   },
   "TVF89NN": {
     "route": null,
-    "checked_at": "2026-10-13T16:40:34.960221Z"
+    "checked_at": "2026-10-14T16:25:24.572210Z"
   },
   "RYR8RZ": {
     "route": {
@@ -5142,10 +5142,6 @@
     },
     "checked_at": "2026-10-14T11:05:23.641535Z"
   },
-  "DBETI": {
-    "route": null,
-    "checked_at": "2026-10-12T16:20:34.889480Z"
-  },
   "NSZ3582": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6509,10 +6505,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-13T16:00:58.607526Z"
-  },
-  "EJU5165": {
-    "route": null,
-    "checked_at": "2026-10-12T16:20:34.889480Z"
   },
   "BTI8BX": {
     "route": {
@@ -12233,5 +12225,27 @@
   "5NEXS": {
     "route": null,
     "checked_at": "2026-10-14T16:20:31.921776Z"
+  },
+  "EJU96ND": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-14T16:25:24.572210Z"
+  },
+  "SAS695": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-14T16:25:24.572210Z"
   }
 }
