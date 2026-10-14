@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "AIC11E",
+      "callsign": "AIC44K",
       "country": "India",
-      "lat": 52.3746,
-      "lon": 13.2308,
-      "altKm": 11.7,
-      "speedKmh": 999,
-      "heading": 122,
+      "lat": 52.2954,
+      "lon": 13.1222,
+      "altKm": 10.4,
+      "speedKmh": 989,
+      "heading": 121,
       "vertRateMs": 0,
       "airline": "Air India",
       "airlineCountry": "India",
       "fromCity": "New York",
-      "fromIata": "JFK",
-      "toCity": "New Delhi",
-      "toIata": "DEL",
+      "fromIata": "EWR",
+      "toCity": "Mumbai",
+      "toIata": "BOM",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR6GD",
+      "country": "Poland",
+      "lat": 52.8089,
+      "lon": 13.626,
+      "altKm": 11.7,
+      "speedKmh": 861,
+      "heading": 89,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Rome",
+      "fromIata": "CIA",
+      "toCity": "Athens",
+      "toIata": "ATH",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-14T22:40:32.257195Z"
+  "updated_at": "2026-10-14T22:45:27.982804Z"
 }
