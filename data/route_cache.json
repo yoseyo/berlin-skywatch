@@ -4273,7 +4273,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T12:55:23.578513Z"
+    "checked_at": "2026-10-15T04:35:22.739654Z"
   },
   "SAS661": {
     "route": {
@@ -4797,17 +4797,6 @@
     },
     "checked_at": "2026-10-14T04:10:31.136634Z"
   },
-  "WZZ8025": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-13T04:30:43.894488Z"
-  },
   "WMT2GJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -4818,17 +4807,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-13T08:25:26.130435Z"
-  },
-  "EWG27P": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T04:30:43.894488Z"
   },
   "RYR3LF": {
     "route": {
@@ -6703,28 +6681,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T03:20:30.005978Z"
-  },
-  "NSZ4AW": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T04:30:43.894488Z"
-  },
-  "EJU41NB": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-13T04:30:43.894488Z"
   },
   "NSZ3280": {
     "route": {
@@ -12390,5 +12346,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T04:15:28.141830Z"
+  },
+  "NSZ2900": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T04:35:22.739654Z"
+  },
+  "RYR7662": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T04:35:22.739654Z"
+  },
+  "RYR5603": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T04:35:22.739654Z"
+  },
+  "SXS6JX": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T04:35:22.739654Z"
   }
 }
