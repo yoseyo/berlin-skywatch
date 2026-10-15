@@ -4742,17 +4742,6 @@
     },
     "checked_at": "2026-10-14T10:25:26.527721Z"
   },
-  "SAS2678": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T09:50:33.089658Z"
-  },
   "BAW843": {
     "route": {
       "fromCity": "Warsaw",
@@ -6514,48 +6503,15 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T16:35:25.010554Z"
+    "checked_at": "2026-10-15T09:50:34.464457Z"
   },
   "LDX8": {
     "route": null,
     "checked_at": "2026-10-14T15:30:45.447695Z"
   },
-  "CYZ237": {
-    "route": {
-      "fromCity": "Guangzhou (Huadu)",
-      "fromIata": "CAN",
-      "toCity": "Li\u00e8ge",
-      "toIata": "LGG",
-      "airlineName": "China Postal Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-13T09:50:33.089658Z"
-  },
-  "EJU96PC": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-13T09:50:33.089658Z"
-  },
   "GAF734": {
     "route": null,
     "checked_at": "2026-10-14T18:20:32.172093Z"
-  },
-  "MEA245": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-10-13T09:50:33.089658Z"
   },
   "N742C": {
     "route": null,
@@ -6640,7 +6596,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-13T10:10:33.630644Z"
+    "checked_at": "2026-10-15T09:50:34.464457Z"
   },
   "ATU100": {
     "route": null,
@@ -12316,5 +12272,31 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-15T09:45:32.112125Z"
+  },
+  "N1569C": {
+    "route": null,
+    "checked_at": "2026-10-15T09:50:34.464457Z"
+  },
+  "EWG6W": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T09:50:34.464457Z"
+  },
+  "VJT779": {
+    "route": {
+      "fromCity": "New York",
+      "fromIata": "EWR",
+      "toCity": "Tampa",
+      "toIata": "TPA",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-15T09:50:34.464457Z"
   }
 }
