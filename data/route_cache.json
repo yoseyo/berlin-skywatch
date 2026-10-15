@@ -284,7 +284,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-14T15:05:27.965484Z"
+    "checked_at": "2026-10-15T15:25:26.357146Z"
   },
   "NSZ3303": {
     "route": {
@@ -5308,10 +5308,6 @@
     },
     "checked_at": "2026-10-15T09:10:35.210386Z"
   },
-  "N651WE": {
-    "route": null,
-    "checked_at": "2026-10-13T15:25:23.923895Z"
-  },
   "DFKPJ": {
     "route": null,
     "checked_at": "2026-10-14T08:00:54.923298Z"
@@ -6606,7 +6602,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T16:05:25.827633Z"
+    "checked_at": "2026-10-15T15:25:26.357146Z"
   },
   "EJU31GQ": {
     "route": {
@@ -6628,7 +6624,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-13T15:40:33.030186Z"
+    "checked_at": "2026-10-15T15:25:26.357146Z"
   },
   "NOZ8BF": {
     "route": {
@@ -9156,7 +9152,7 @@
       "airlineName": "China Eastern Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-14T15:15:33.653058Z"
+    "checked_at": "2026-10-15T15:25:26.357146Z"
   },
   "DEKPR": {
     "route": null,
@@ -12326,5 +12322,27 @@
   "PYR006": {
     "route": null,
     "checked_at": "2026-10-15T15:20:38.228309Z"
+  },
+  "RYR91QV": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T15:25:26.357146Z"
+  },
+  "RYR8TQ": {
+    "route": {
+      "fromCity": "Beauvais",
+      "fromIata": "BVA",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T15:25:26.357146Z"
   }
 }
