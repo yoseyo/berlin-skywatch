@@ -2841,7 +2841,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-14T06:15:32.287177Z"
+    "checked_at": "2026-10-15T06:25:24.544239Z"
   },
   "LGL92B": {
     "route": {
@@ -5493,7 +5493,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T06:15:32.287177Z"
+    "checked_at": "2026-10-15T06:25:24.544239Z"
   },
   "SAS1693": {
     "route": {
@@ -5615,7 +5615,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T06:00:54.242406Z"
+    "checked_at": "2026-10-15T06:25:24.544239Z"
   },
   "EWG8ZJ": {
     "route": {
@@ -6626,32 +6626,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T06:00:58.637684Z"
-  },
-  "NSZ3746": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T06:20:32.506987Z"
-  },
-  "GAF604": {
-    "route": null,
-    "checked_at": "2026-10-13T06:20:32.506987Z"
-  },
-  "RYR14WN": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T06:20:32.506987Z"
   },
   "WMT3CL": {
     "route": {
@@ -12360,5 +12334,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T06:15:32.514827Z"
+  },
+  "NSZ3730": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T06:25:24.544239Z"
+  },
+  "DUKE60": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Constan\u0163a",
+      "toIata": "CND",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-15T06:25:24.544239Z"
   }
 }
