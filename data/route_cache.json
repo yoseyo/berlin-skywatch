@@ -2364,7 +2364,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T11:55:26.825071Z"
+    "checked_at": "2026-10-15T11:45:32.495329Z"
   },
   "PGT93T": {
     "route": {
@@ -3216,7 +3216,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T11:50:30.037275Z"
+    "checked_at": "2026-10-15T11:45:32.495329Z"
   },
   "TAP532B": {
     "route": {
@@ -3319,7 +3319,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-14T11:45:32.998535Z"
+    "checked_at": "2026-10-15T11:45:32.495329Z"
   },
   "RYR3EM": {
     "route": {
@@ -5530,10 +5530,6 @@
     "route": null,
     "checked_at": "2026-10-13T11:55:27.865123Z"
   },
-  "CHX64": {
-    "route": null,
-    "checked_at": "2026-10-13T11:45:29.710361Z"
-  },
   "SAS1665": {
     "route": {
       "fromCity": "Copenhagen",
@@ -5565,7 +5561,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-13T11:45:29.710361Z"
+    "checked_at": "2026-10-15T11:45:32.495329Z"
   },
   "SAS2733": {
     "route": {
@@ -12214,5 +12210,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-15T11:40:34.612132Z"
+  },
+  "EJU12TM": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T11:45:32.495329Z"
   }
 }
