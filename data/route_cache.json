@@ -416,7 +416,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T16:30:45.577772Z"
+    "checked_at": "2026-10-15T15:55:27.163997Z"
   },
   "IBE07WR": {
     "route": {
@@ -3752,7 +3752,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-14T15:40:31.563601Z"
+    "checked_at": "2026-10-15T15:55:27.163997Z"
   },
   "AFR1434": {
     "route": {
@@ -6610,17 +6610,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-15T15:25:26.357146Z"
-  },
-  "WZZ933H": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-13T15:55:25.576593Z"
   },
   "THY81D": {
     "route": {
@@ -12392,5 +12381,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T15:50:34.093116Z"
+  },
+  "THY8DE": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Seattle",
+      "toIata": "SEA",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T15:55:27.163997Z"
   }
 }
