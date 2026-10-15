@@ -3609,7 +3609,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T16:45:34.101505Z"
+    "checked_at": "2026-10-15T17:15:32.360894Z"
   },
   "LGL9473": {
     "route": {
@@ -6581,17 +6581,6 @@
   "ECA2SJ": {
     "route": null,
     "checked_at": "2026-10-15T07:00:55.424608Z"
-  },
-  "CXI6BK": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-13T17:15:29.941654Z"
   },
   "FIN2PX": {
     "route": {
@@ -12326,5 +12315,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T17:10:35.399368Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-15T17:15:32.360894Z"
   }
 }
