@@ -4504,7 +4504,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-14T06:00:54.242406Z"
+    "checked_at": "2026-10-15T06:10:30.026228Z"
   },
   "EWG6KW": {
     "route": {
@@ -4806,7 +4806,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T16:20:31.921776Z"
+    "checked_at": "2026-10-15T06:10:30.026228Z"
   },
   "BAW986G": {
     "route": {
@@ -4895,17 +4895,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-13T10:55:23.855912Z"
-  },
-  "EJU59RD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-13T06:05:25.285931Z"
   },
   "EWG1SU": {
     "route": {
@@ -5493,7 +5482,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-13T06:05:25.285931Z"
+    "checked_at": "2026-10-15T06:10:30.026228Z"
   },
   "LOT4WE": {
     "route": {
@@ -6018,7 +6007,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T18:15:30.916756Z"
+    "checked_at": "2026-10-15T06:10:30.026228Z"
   },
   "BTI72X": {
     "route": {
@@ -6637,10 +6626,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T06:00:58.637684Z"
-  },
-  "MFX7628": {
-    "route": null,
-    "checked_at": "2026-10-13T06:05:25.285931Z"
   },
   "NSZ3746": {
     "route": {
@@ -12342,5 +12327,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-15T06:05:24.319960Z"
+  },
+  "AUA222": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T06:10:30.026228Z"
+  },
+  "SXS662": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T06:10:30.026228Z"
   }
 }
