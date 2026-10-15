@@ -6582,28 +6582,6 @@
     "route": null,
     "checked_at": "2026-10-15T07:00:55.424608Z"
   },
-  "RYR25SC": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T17:01:00.783519Z"
-  },
-  "CTN4408": {
-    "route": {
-      "fromCity": "Zagreb",
-      "fromIata": "ZAG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-13T17:05:23.290369Z"
-  },
   "BBG273": {
     "route": {
       "fromCity": "Berlin",
@@ -12348,5 +12326,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-15T16:55:26.959405Z"
+  },
+  "EWG86H": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T17:05:27.621061Z"
   }
 }
