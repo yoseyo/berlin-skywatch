@@ -585,7 +585,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T17:50:29.976951Z"
+    "checked_at": "2026-10-15T19:00:58.696523Z"
   },
   "SWR3BY": {
     "route": {
@@ -750,7 +750,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T18:55:24.717642Z"
+    "checked_at": "2026-10-15T19:00:58.696523Z"
   },
   "AEE82B": {
     "route": {
@@ -816,7 +816,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T19:35:23.611151Z"
+    "checked_at": "2026-10-15T19:00:58.696523Z"
   },
   "RYR3RD": {
     "route": {
@@ -2892,7 +2892,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T18:55:24.717642Z"
+    "checked_at": "2026-10-15T19:00:58.696523Z"
   },
   "UAE98V": {
     "route": {
@@ -5732,7 +5732,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-14T19:00:55.673786Z"
+    "checked_at": "2026-10-15T19:00:58.696523Z"
   },
   "EJU47TU": {
     "route": {
@@ -6581,17 +6581,6 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-10-14T18:50:30.785544Z"
-  },
-  "KLM9938": {
-    "route": {
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-13T19:00:56.549285Z"
   },
   "RYR4VG": {
     "route": {
@@ -12361,5 +12350,38 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-15T18:55:26.801687Z"
+  },
+  "VKG563": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-15T19:00:58.696523Z"
+  },
+  "BTI6UQ": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-15T19:00:58.696523Z"
+  },
+  "RYR4DZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T19:00:58.696523Z"
   }
 }
