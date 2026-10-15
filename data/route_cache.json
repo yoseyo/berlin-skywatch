@@ -2753,7 +2753,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T19:15:32.086438Z"
+    "checked_at": "2026-10-15T12:40:35.418183Z"
   },
   "DLH5EE": {
     "route": {
@@ -6522,17 +6522,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T12:05:26.553013Z"
-  },
-  "NSZ4370": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T12:40:32.951169Z"
   },
   "THY79K": {
     "route": {
@@ -12231,5 +12220,16 @@
   "NJE089D": {
     "route": null,
     "checked_at": "2026-10-15T12:35:27.527417Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T12:40:35.418183Z"
   }
 }
