@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-15T22:50:31.600816Z"
+  "flights": [
+    {
+      "callsign": "WZZ47RG",
+      "country": "Hungary",
+      "lat": 52.1878,
+      "lon": 13.486,
+      "altKm": 11.4,
+      "speedKmh": 824,
+      "heading": 50,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-15T22:55:25.535896Z"
 }
