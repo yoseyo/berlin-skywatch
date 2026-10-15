@@ -4391,7 +4391,7 @@
   },
   "AFR38LQ": {
     "route": null,
-    "checked_at": "2026-10-14T18:03:12.330089Z"
+    "checked_at": "2026-10-15T18:20:35.190326Z"
   },
   "EJU5261": {
     "route": {
@@ -5732,7 +5732,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T18:40:34.299084Z"
+    "checked_at": "2026-10-15T18:20:35.190326Z"
   },
   "DLH8PN": {
     "route": {
@@ -6570,39 +6570,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-15T07:25:25.111546Z"
-  },
-  "BEL9965": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-13T18:20:31.243558Z"
-  },
-  "RYR8843": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Aberdeen",
-      "toIata": "ABZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T18:20:31.243558Z"
-  },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-13T18:20:31.243558Z"
   },
   "SDR15NL": {
     "route": null,
@@ -9418,7 +9385,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T19:30:45.161462Z"
+    "checked_at": "2026-10-15T18:20:35.190326Z"
   },
   "CFG1CD": {
     "route": {
@@ -12372,5 +12339,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-15T18:15:31.474404Z"
+  },
+  "EZY89CH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-15T18:20:35.190326Z"
   }
 }
