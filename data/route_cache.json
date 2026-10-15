@@ -3363,7 +3363,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-10-13T20:45:30.810674Z"
+    "checked_at": "2026-10-15T20:40:35.224325Z"
   },
   "KLM67B": {
     "route": {
@@ -6582,28 +6582,6 @@
     },
     "checked_at": "2026-10-15T19:35:26.245750Z"
   },
-  "EJU78LB": {
-    "route": {
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-13T20:40:32.736202Z"
-  },
-  "RYR415W": {
-    "route": {
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T20:40:32.736202Z"
-  },
   "NOZ51J": {
     "route": {
       "fromCity": "Catania",
@@ -9230,7 +9208,7 @@
       "airlineName": "Easyjet Switzerland",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-14T19:55:24.931542Z"
+    "checked_at": "2026-10-15T20:40:35.224325Z"
   },
   "RYR55HD": {
     "route": {
@@ -12529,5 +12507,16 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-15T20:35:26.552195Z"
+  },
+  "RYR24YX": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T20:40:35.224325Z"
   }
 }
