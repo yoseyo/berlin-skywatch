@@ -1766,7 +1766,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-14T08:10:31.924544Z"
+    "checked_at": "2026-10-15T08:20:34.146183Z"
   },
   "WUK7BU": {
     "route": {
@@ -4785,17 +4785,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T08:15:31.300198Z"
-  },
-  "SAS2677": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T08:20:33.448139Z"
   },
   "THY1LP": {
     "route": {
@@ -12294,5 +12283,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-15T08:15:32.558055Z"
+  },
+  "RYR939": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T08:20:34.146183Z"
   }
 }
