@@ -717,7 +717,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T18:25:24.444777Z"
+    "checked_at": "2026-10-15T17:50:34.108721Z"
   },
   "SWR8X": {
     "route": {
@@ -3407,7 +3407,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-14T17:30:49.203783Z"
+    "checked_at": "2026-10-15T17:50:34.108721Z"
   },
   "RYR57ND": {
     "route": {
@@ -5767,17 +5767,6 @@
     },
     "checked_at": "2026-10-14T18:15:34.772595Z"
   },
-  "LHX4YP": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T17:50:31.601559Z"
-  },
   "FIN78Q": {
     "route": {
       "fromCity": "Helsinki",
@@ -6593,36 +6582,6 @@
     },
     "checked_at": "2026-10-15T17:20:33.554690Z"
   },
-  "ELY011": {
-    "route": null,
-    "checked_at": "2026-10-13T17:50:31.601559Z"
-  },
-  "FHLRK": {
-    "route": null,
-    "checked_at": "2026-10-13T17:50:31.601559Z"
-  },
-  "RYR3XX": {
-    "route": {
-      "fromCity": "Dortmund",
-      "fromIata": "DTM",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T17:50:31.601559Z"
-  },
-  "DLH7PF": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T17:50:31.601559Z"
-  },
   "JFA25R": {
     "route": null,
     "checked_at": "2026-10-13T18:05:24.721755Z"
@@ -7411,7 +7370,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T07:00:56.292788Z"
+    "checked_at": "2026-10-15T17:50:34.108721Z"
   },
   "ARAS85": {
     "route": null,
@@ -7452,7 +7411,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T07:30:44.298885Z"
+    "checked_at": "2026-10-15T17:50:34.108721Z"
   },
   "NSZ3530": {
     "route": {
@@ -12344,5 +12303,16 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-15T17:45:33.147295Z"
+  },
+  "THY49T": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T17:50:34.108721Z"
   }
 }
