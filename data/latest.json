@@ -1,40 +1,12 @@
 {
   "flights": [
     {
-      "callsign": "EJU34BQ",
-      "country": "Austria",
-      "lat": 52.3963,
-      "lon": 13.6057,
-      "altKm": 0.4,
-      "speedKmh": 248,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "PBB17",
-      "country": "Germany",
-      "lat": 52.602,
-      "lon": 13.5773,
-      "altKm": 0.1,
-      "speedKmh": 41,
-      "heading": 252,
-      "vertRateMs": -1.9,
-      "category": "heli"
-    },
-    {
       "callsign": "RYR28HY",
       "country": "Ireland",
-      "lat": 52.2814,
-      "lon": 13.8777,
-      "altKm": 12.7,
-      "speedKmh": 739,
+      "lat": 52.812,
+      "lon": 13.6646,
+      "altKm": 12.6,
+      "speedKmh": 746,
       "heading": 346,
       "vertRateMs": 0,
       "airline": "Ryanair",
@@ -44,7 +16,24 @@
       "toCity": "Gothenburg",
       "toIata": "GOT",
       "category": "plane"
+    },
+    {
+      "callsign": "WZZ671",
+      "country": "Malta",
+      "lat": 52.4126,
+      "lon": 13.6555,
+      "altKm": 11.4,
+      "speedKmh": 806,
+      "heading": 39,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-15T21:45:32.236827Z"
+  "updated_at": "2026-10-15T21:50:32.973795Z"
 }
