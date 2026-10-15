@@ -4380,7 +4380,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-14T20:05:23.544606Z"
+    "checked_at": "2026-10-15T20:05:26.037094Z"
   },
   "EJU72PR": {
     "route": {
@@ -6581,21 +6581,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-15T19:35:26.245750Z"
-  },
-  "PGT1616": {
-    "route": null,
-    "checked_at": "2026-10-13T20:05:23.224419Z"
-  },
-  "DLH884": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T20:05:23.224419Z"
   },
   "RYR24YX": {
     "route": {
@@ -12478,5 +12463,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T20:00:56.031259Z"
+  },
+  "WZZ3072": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-15T20:05:26.037094Z"
+  },
+  "EZY18CE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-15T20:05:26.037094Z"
+  },
+  "SXS5HU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T20:05:26.037094Z"
   }
 }
