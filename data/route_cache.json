@@ -5499,17 +5499,6 @@
     },
     "checked_at": "2026-10-13T11:35:26.160062Z"
   },
-  "DMS2HR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Saarbr\u00fccken",
-      "toIata": "SCN",
-      "airlineName": "Diamond Sky",
-      "airlineCountry": "Estonia"
-    },
-    "checked_at": "2026-10-13T07:20:31.108176Z"
-  },
   "DFEFY": {
     "route": {
       "fromCity": "M\u00f6nchengladbach",
@@ -12336,5 +12325,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T07:15:29.409341Z"
+  },
+  "THY5CS": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T07:20:32.380229Z"
+  },
+  "EWG14AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T07:20:32.380229Z"
   }
 }
