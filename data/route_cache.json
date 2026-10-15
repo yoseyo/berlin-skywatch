@@ -4044,17 +4044,6 @@
     },
     "checked_at": "2026-10-14T19:30:45.161462Z"
   },
-  "FHY1281": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-13T07:10:32.426155Z"
-  },
   "FHY1282": {
     "route": {
       "fromCity": "Berlin",
@@ -5957,10 +5946,6 @@
     },
     "checked_at": "2026-10-14T11:45:32.998535Z"
   },
-  "DBMHD": {
-    "route": null,
-    "checked_at": "2026-10-13T07:10:32.426155Z"
-  },
   "EJU97JM": {
     "route": {
       "fromCity": "Berlin",
@@ -6596,32 +6581,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T06:20:31.005046Z"
-  },
-  "NJE492N": {
-    "route": null,
-    "checked_at": "2026-10-13T07:05:25.176844Z"
-  },
-  "DFKJM": {
-    "route": {
-      "fromCity": "Korbach",
-      "fromIata": null,
-      "toCity": "Trebbin",
-      "toIata": null,
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-13T07:05:25.176844Z"
-  },
-  "RYR12KD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T07:05:25.176844Z"
   },
   "EWG3VL": {
     "route": {
@@ -12333,5 +12292,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-15T07:05:23.493920Z"
+  },
+  "SAS49L": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T07:10:33.241807Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T07:10:33.241807Z"
   }
 }
