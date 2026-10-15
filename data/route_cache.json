@@ -1282,7 +1282,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T05:35:22.583015Z"
+    "checked_at": "2026-10-15T05:50:29.475957Z"
   },
   "NSZ8ML": {
     "route": {
@@ -7713,7 +7713,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-13T11:20:32.128110Z"
+    "checked_at": "2026-10-15T05:50:29.475957Z"
   },
   "EJU89BR": {
     "route": {
@@ -12339,5 +12339,27 @@
   "DIPBB": {
     "route": null,
     "checked_at": "2026-10-15T05:45:30.309048Z"
+  },
+  "ASL49G": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-15T05:50:29.475957Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T05:50:29.475957Z"
   }
 }
