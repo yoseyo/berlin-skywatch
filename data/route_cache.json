@@ -739,7 +739,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T18:35:26.121008Z"
+    "checked_at": "2026-10-15T18:50:35.135406Z"
   },
   "LOT1LH": {
     "route": {
@@ -827,7 +827,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T17:55:23.684856Z"
+    "checked_at": "2026-10-15T18:50:35.135406Z"
   },
   "LOT3ND": {
     "route": {
@@ -4896,17 +4896,6 @@
     },
     "checked_at": "2026-10-14T20:50:31.942231Z"
   },
-  "SWR979E": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-13T18:50:31.259015Z"
-  },
   "EZY27LF": {
     "route": {
       "fromCity": "Bristol",
@@ -6581,17 +6570,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-14T18:25:24.444777Z"
-  },
-  "BTI6UQ": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-13T18:50:31.259015Z"
   },
   "ADZ3907": {
     "route": {
@@ -9381,7 +9359,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T19:30:45.161462Z"
+    "checked_at": "2026-10-15T18:50:35.135406Z"
   },
   "WZZ4BB": {
     "route": {
@@ -12361,5 +12339,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-15T18:45:32.849127Z"
+  },
+  "NSZ3304": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T18:50:35.135406Z"
+  },
+  "RYR7GU": {
+    "route": {
+      "fromCity": "Memmingen",
+      "fromIata": "FMM",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T18:50:35.135406Z"
   }
 }
