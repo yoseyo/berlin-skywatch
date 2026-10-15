@@ -240,7 +240,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-14T15:05:27.965484Z"
+    "checked_at": "2026-10-15T15:10:36.142582Z"
   },
   "FIN79T": {
     "route": {
@@ -3587,7 +3587,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T15:05:27.965484Z"
+    "checked_at": "2026-10-15T15:10:36.142582Z"
   },
   "EWG67A": {
     "route": {
@@ -6562,7 +6562,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T15:45:31.876707Z"
+    "checked_at": "2026-10-15T15:10:36.142582Z"
   },
   "EJU68NQ": {
     "route": {
@@ -6574,39 +6574,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-14T04:50:30.415524Z"
-  },
-  "BTI29K": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-13T15:10:33.790154Z"
-  },
-  "RYR1ZN": {
-    "route": {
-      "fromCity": "Killarney",
-      "fromIata": "KIR",
-      "toCity": "Frankfurt am Main",
-      "toIata": "HHN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T15:10:33.790154Z"
-  },
-  "EWG1R": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T15:10:33.790154Z"
   },
   "RYR6FD": {
     "route": {
@@ -6764,7 +6731,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T17:25:23.059161Z"
+    "checked_at": "2026-10-15T15:10:36.142582Z"
   },
   "LOT7KU": {
     "route": {
@@ -12318,5 +12285,27 @@
   "CFG552": {
     "route": null,
     "checked_at": "2026-10-15T15:05:26.863122Z"
+  },
+  "CFG4LU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T15:10:36.142582Z"
+  },
+  "WZZ5168": {
+    "route": {
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Reykjav\u00edk",
+      "toIata": "KEF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-15T15:10:36.142582Z"
   }
 }
