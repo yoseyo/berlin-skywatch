@@ -849,7 +849,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-14T20:05:23.544606Z"
+    "checked_at": "2026-10-15T19:45:32.754678Z"
   },
   "BAW998": {
     "route": {
@@ -4861,7 +4861,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-14T18:55:24.717642Z"
+    "checked_at": "2026-10-15T19:45:32.754678Z"
   },
   "EJU15BJ": {
     "route": {
@@ -4905,7 +4905,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T19:30:45.161462Z"
+    "checked_at": "2026-10-15T19:45:32.754678Z"
   },
   "EZY63GU": {
     "route": {
@@ -12416,5 +12416,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T19:30:46.689970Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-15T19:45:32.754678Z"
+  },
+  "EJU86PQ": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T19:45:32.754678Z"
   }
 }
