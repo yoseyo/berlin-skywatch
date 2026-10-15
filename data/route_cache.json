@@ -2907,7 +2907,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-14T10:30:46.445688Z"
+    "checked_at": "2026-10-15T10:55:27.306567Z"
   },
   "WMT7WQ": {
     "route": {
@@ -6557,28 +6557,6 @@
     },
     "checked_at": "2026-10-15T10:45:32.467143Z"
   },
-  "LBT249": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-13T10:50:40.872810Z"
-  },
-  "MSR984": {
-    "route": {
-      "fromCity": "Los Angeles",
-      "fromIata": "LAX",
-      "toCity": "Cairo",
-      "toIata": "CAI",
-      "airlineName": "Egyptair",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-13T10:50:40.872810Z"
-  },
   "SAS67W": {
     "route": {
       "fromCity": "Stockholm",
@@ -6589,21 +6567,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-15T10:50:35.119045Z"
-  },
-  "NSZ5051": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T10:55:23.855912Z"
-  },
-  "FHM4724": {
-    "route": null,
-    "checked_at": "2026-10-13T10:55:23.855912Z"
   },
   "ETD3MB": {
     "route": {
@@ -6648,7 +6611,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T11:00:55.595288Z"
+    "checked_at": "2026-10-15T10:55:27.306567Z"
   },
   "EJU1765": {
     "route": {
@@ -12268,5 +12231,20 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-15T10:50:35.119045Z"
+  },
+  "FHY1282": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T10:55:27.306567Z"
+  },
+  "DISCA": {
+    "route": null,
+    "checked_at": "2026-10-15T10:55:27.306567Z"
   }
 }
