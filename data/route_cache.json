@@ -3587,7 +3587,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-14T12:05:25.450770Z"
+    "checked_at": "2026-10-15T11:55:26.152491Z"
   },
   "WZZ40LC": {
     "route": {
@@ -3598,7 +3598,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-14T12:10:32.433200Z"
+    "checked_at": "2026-10-15T11:55:26.152491Z"
   },
   "CFE93AU": {
     "route": {
@@ -12225,5 +12225,38 @@
   "JTD410": {
     "route": null,
     "checked_at": "2026-10-15T11:50:36.058826Z"
+  },
+  "NOZ5FD": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-15T11:55:26.152491Z"
+  },
+  "RYR5978": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T11:55:26.152491Z"
+  },
+  "EJU83LH": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T11:55:26.152491Z"
   }
 }
