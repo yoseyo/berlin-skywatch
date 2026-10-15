@@ -1953,7 +1953,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T09:35:25.136616Z"
+    "checked_at": "2026-10-15T09:35:26.614255Z"
   },
   "LOT3JA": {
     "route": {
@@ -1986,7 +1986,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T09:45:30.002703Z"
+    "checked_at": "2026-10-15T09:35:26.614255Z"
   },
   "RYR3NJ": {
     "route": {
@@ -6531,18 +6531,6 @@
     "route": null,
     "checked_at": "2026-10-14T15:30:45.447695Z"
   },
-  "HBKMA": {
-    "route": null,
-    "checked_at": "2026-10-13T09:35:24.069370Z"
-  },
-  "SDR14ML": {
-    "route": null,
-    "checked_at": "2026-10-13T09:35:24.069370Z"
-  },
-  "NOJ91": {
-    "route": null,
-    "checked_at": "2026-10-13T09:35:24.069370Z"
-  },
   "GAF617": {
     "route": null,
     "checked_at": "2026-10-13T09:40:28.446543Z"
@@ -6645,7 +6633,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T11:30:45.371941Z"
+    "checked_at": "2026-10-15T09:35:26.614255Z"
   },
   "SCR762": {
     "route": {
@@ -12299,5 +12287,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T09:30:45.609715Z"
+  },
+  "MMF51": {
+    "route": {
+      "fromCity": "Norfolk",
+      "fromIata": "ORF",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-15T09:35:26.614255Z"
+  },
+  "ABP721": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Aba Air",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-15T09:35:26.614255Z"
+  },
+  "LOT2LP": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-15T09:35:26.614255Z"
   }
 }
