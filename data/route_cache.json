@@ -1535,7 +1535,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T07:10:31.828119Z"
+    "checked_at": "2026-10-15T07:05:23.493920Z"
   },
   "FIN7HC": {
     "route": {
@@ -5541,7 +5541,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T07:05:25.617523Z"
+    "checked_at": "2026-10-15T07:05:23.493920Z"
   },
   "DBJUK": {
     "route": null,
@@ -12322,5 +12322,16 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-15T06:55:23.654385Z"
+  },
+  "SAS31T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T07:05:23.493920Z"
   }
 }
