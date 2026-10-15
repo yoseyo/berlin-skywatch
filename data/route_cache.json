@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-15T07:00:55.424608Z"
+    "checked_at": "2026-10-15T20:00:56.031259Z"
   },
   "KLM84H": {
     "route": {
@@ -915,7 +915,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-14T20:10:32.576643Z"
+    "checked_at": "2026-10-15T20:00:56.031259Z"
   },
   "RYR95MP": {
     "route": {
@@ -7298,7 +7298,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T08:30:42.777592Z"
+    "checked_at": "2026-10-15T20:00:56.031259Z"
   },
   "EZY78AL": {
     "route": {
@@ -7509,7 +7509,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T09:50:31.753783Z"
+    "checked_at": "2026-10-15T20:00:56.031259Z"
   },
   "ABP711": {
     "route": {
@@ -12456,5 +12456,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T19:55:25.791115Z"
+  },
+  "CSS102": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "SF Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-15T20:00:56.031259Z"
+  },
+  "EIN33W": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Aer Lingus",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T20:00:56.031259Z"
   }
 }
