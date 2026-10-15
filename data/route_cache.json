@@ -3594,7 +3594,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T13:50:30.271043Z"
+    "checked_at": "2026-10-15T13:40:32.881440Z"
   },
   "BPOBER": {
     "route": null,
@@ -4214,7 +4214,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T11:05:23.641535Z"
+    "checked_at": "2026-10-15T13:40:32.881440Z"
   },
   "EJU98TC": {
     "route": {
@@ -5621,10 +5621,6 @@
     },
     "checked_at": "2026-10-14T15:30:45.447695Z"
   },
-  "DMUPY": {
-    "route": null,
-    "checked_at": "2026-10-13T13:40:32.164915Z"
-  },
   "SAS2736": {
     "route": {
       "fromCity": "Prague",
@@ -5733,7 +5729,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T14:05:26.141132Z"
+    "checked_at": "2026-10-15T13:40:32.881440Z"
   },
   "FIN01AD": {
     "route": {
@@ -6537,17 +6533,6 @@
   "LEJ110": {
     "route": null,
     "checked_at": "2026-10-14T04:05:23.134617Z"
-  },
-  "CFG3DK": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T13:40:32.164915Z"
   },
   "ELY023": {
     "route": null,
@@ -8095,7 +8080,7 @@
   },
   "FGSOM": {
     "route": null,
-    "checked_at": "2026-10-14T08:05:26.388683Z"
+    "checked_at": "2026-10-15T13:40:32.881440Z"
   },
   "NSZ3DA": {
     "route": {
@@ -12313,5 +12298,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-15T13:35:25.977383Z"
+  },
+  "RYR58ZM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T13:40:32.881440Z"
+  },
+  "KLM49N": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-15T13:40:32.881440Z"
   }
 }
