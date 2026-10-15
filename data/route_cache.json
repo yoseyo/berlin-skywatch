@@ -2188,7 +2188,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-14T10:45:31.812149Z"
+    "checked_at": "2026-10-15T11:00:56.826047Z"
   },
   "TKJ2JY": {
     "route": {
@@ -2210,7 +2210,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T11:15:29.511623Z"
+    "checked_at": "2026-10-15T11:00:56.826047Z"
   },
   "RYR6UR": {
     "route": {
@@ -2452,7 +2452,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T11:20:30.488040Z"
+    "checked_at": "2026-10-15T11:00:56.826047Z"
   },
   "MSC2960": {
     "route": {
@@ -6568,21 +6568,6 @@
     },
     "checked_at": "2026-10-15T10:50:35.119045Z"
   },
-  "ETD3MB": {
-    "route": {
-      "fromCity": "Abu Dhabi",
-      "fromIata": "AUH",
-      "toCity": "Boston",
-      "toIata": "BOS",
-      "airlineName": "Etihad Airways",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-13T11:00:56.276354Z"
-  },
-  "SVA021": {
-    "route": null,
-    "checked_at": "2026-10-13T11:00:56.276354Z"
-  },
   "AYJ422": {
     "route": null,
     "checked_at": "2026-10-13T11:05:22.333177Z"
@@ -6600,7 +6585,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-13T11:15:28.915518Z"
+    "checked_at": "2026-10-15T11:00:56.826047Z"
   },
   "DLH8LY": {
     "route": {
@@ -12246,5 +12231,38 @@
   "DISCA": {
     "route": null,
     "checked_at": "2026-10-15T10:55:27.306567Z"
+  },
+  "RYR5979": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T11:00:56.826047Z"
+  },
+  "PGT41EH": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T11:00:56.826047Z"
+  },
+  "GAF833": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-15T11:00:56.826047Z"
   }
 }
