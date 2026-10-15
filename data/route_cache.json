@@ -618,7 +618,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-14T18:00:53.661503Z"
+    "checked_at": "2026-10-15T17:55:25.063081Z"
   },
   "DLH9XY": {
     "route": {
@@ -7567,7 +7567,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T08:35:23.343064Z"
+    "checked_at": "2026-10-15T17:55:25.063081Z"
   },
   "SFG55B": {
     "route": null,
@@ -12314,5 +12314,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-15T17:50:34.108721Z"
+  },
+  "BAW996G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-15T17:55:25.063081Z"
+  },
+  "RYR87DD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T17:55:25.063081Z"
   }
 }
