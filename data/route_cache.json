@@ -2606,7 +2606,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T07:00:56.292788Z"
+    "checked_at": "2026-10-15T18:15:31.474404Z"
   },
   "KLC42X": {
     "route": {
@@ -4225,7 +4225,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T17:50:29.976951Z"
+    "checked_at": "2026-10-15T18:15:31.474404Z"
   },
   "RYR98ST": {
     "route": {
@@ -6570,21 +6570,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-15T07:25:25.111546Z"
-  },
-  "RYR4DZ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T18:15:30.916756Z"
-  },
-  "SDR62DM": {
-    "route": null,
-    "checked_at": "2026-10-13T18:15:30.916756Z"
   },
   "BEL9965": {
     "route": {
@@ -12365,5 +12350,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T18:10:37.859091Z"
+  },
+  "FIN5G": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-15T18:15:31.474404Z"
+  },
+  "EZY71RM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-15T18:15:31.474404Z"
   }
 }
