@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "SRN1988",
-      "country": "Poland",
-      "lat": 52.2242,
-      "lon": 13.9524,
-      "altKm": 6.6,
-      "speedKmh": 486,
-      "heading": 68,
-      "vertRateMs": 0,
-      "airline": "Sirair",
-      "airlineCountry": "Russia",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "category": "plane"
-    },
-    {
       "callsign": "SWT3WZ",
       "country": "Spain",
-      "lat": 52.4143,
-      "lon": 13.9212,
-      "altKm": 1.5,
-      "speedKmh": 373,
-      "heading": 345,
-      "vertRateMs": -8.4,
+      "lat": 52.3943,
+      "lon": 13.5976,
+      "altKm": 0.4,
+      "speedKmh": 258,
+      "heading": 249,
+      "vertRateMs": -4.2,
       "airline": "Swiftair",
       "airlineCountry": "Spain",
       "fromCity": "Paris",
@@ -33,7 +16,20 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "EWG9B",
+      "country": "Germany",
+      "lat": 52.2872,
+      "lon": 13.3508,
+      "altKm": 1.2,
+      "speedKmh": 449,
+      "heading": 229,
+      "vertRateMs": 15.3,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-15T03:40:29.203625Z"
+  "updated_at": "2026-10-15T03:45:30.847847Z"
 }

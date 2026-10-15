@@ -6700,28 +6700,6 @@
     },
     "checked_at": "2026-10-14T03:40:29.520897Z"
   },
-  "CGF7828": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Cargo Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-13T03:45:29.782109Z"
-  },
-  "CSN331": {
-    "route": {
-      "fromCity": "Guangzhou (Huadu)",
-      "fromIata": "CAN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-13T03:45:29.782109Z"
-  },
   "SWT3WZ": {
     "route": {
       "fromCity": "Paris",
@@ -12401,5 +12379,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-15T02:25:21.816627Z"
+  },
+  "EWG9B": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T03:45:30.847847Z"
   }
 }
