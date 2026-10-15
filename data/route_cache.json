@@ -2287,7 +2287,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-14T11:40:30.486622Z"
+    "checked_at": "2026-10-15T11:05:25.879975Z"
   },
   "AUA228T": {
     "route": {
@@ -2353,7 +2353,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-14T11:15:29.511623Z"
+    "checked_at": "2026-10-15T11:05:25.879975Z"
   },
   "SAS1677": {
     "route": {
@@ -3342,17 +3342,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-14T13:15:30.984179Z"
-  },
-  "RYR95CH": {
-    "route": {
-      "fromCity": "Bucharest",
-      "fromIata": "OTP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T11:05:22.333177Z"
   },
   "LOT6MB": {
     "route": {
@@ -5605,7 +5594,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T10:55:25.226174Z"
+    "checked_at": "2026-10-15T11:05:25.879975Z"
   },
   "CSC9611": {
     "route": {
@@ -5646,7 +5635,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-14T11:10:35.504246Z"
+    "checked_at": "2026-10-15T11:05:25.879975Z"
   },
   "FIN4ER": {
     "route": {
@@ -6567,10 +6556,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-15T10:50:35.119045Z"
-  },
-  "AYJ422": {
-    "route": null,
-    "checked_at": "2026-10-13T11:05:22.333177Z"
   },
   "SPSSZ": {
     "route": null,
@@ -12264,5 +12249,24 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-15T11:00:56.826047Z"
+  },
+  "EJU63CR": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T11:05:25.879975Z"
+  },
+  "NJE150Q": {
+    "route": null,
+    "checked_at": "2026-10-15T11:05:25.879975Z"
+  },
+  "NJE122P": {
+    "route": null,
+    "checked_at": "2026-10-15T11:05:25.879975Z"
   }
 }
