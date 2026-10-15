@@ -1524,7 +1524,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T07:05:25.617523Z"
+    "checked_at": "2026-10-15T06:55:23.654385Z"
   },
   "DLH3TR": {
     "route": {
@@ -1546,7 +1546,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-14T07:00:56.292788Z"
+    "checked_at": "2026-10-15T06:55:23.654385Z"
   },
   "RYR594F": {
     "route": {
@@ -3451,7 +3451,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-13T07:00:54.272848Z"
+    "checked_at": "2026-10-15T06:55:23.654385Z"
   },
   "BAW844": {
     "route": {
@@ -5530,7 +5530,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-10-13T14:35:26.526565Z"
+    "checked_at": "2026-10-15T06:55:23.654385Z"
   },
   "LHX5T": {
     "route": {
@@ -12333,5 +12333,38 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-15T06:50:33.355692Z"
+  },
+  "CFG8JC": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T06:55:23.654385Z"
+  },
+  "THY9NS": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T06:55:23.654385Z"
+  },
+  "LOT4MH": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-15T06:55:23.654385Z"
   }
 }
