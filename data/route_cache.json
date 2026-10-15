@@ -2030,7 +2030,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-14T09:45:30.002703Z"
+    "checked_at": "2026-10-15T10:00:57.719018Z"
   },
   "RYR9YD": {
     "route": {
@@ -2067,7 +2067,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T09:50:31.753783Z"
+    "checked_at": "2026-10-15T10:00:57.719018Z"
   },
   "CTN481": {
     "route": {
@@ -3032,7 +3032,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-10-14T08:15:31.300198Z"
+    "checked_at": "2026-10-15T10:00:57.719018Z"
   },
   "EJU5088": {
     "route": null,
@@ -3789,7 +3789,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-14T09:50:31.753783Z"
+    "checked_at": "2026-10-15T10:00:57.719018Z"
   },
   "AFR12DD": {
     "route": {
@@ -4786,17 +4786,6 @@
     },
     "checked_at": "2026-10-14T13:25:23.507814Z"
   },
-  "EJU5060": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-13T10:00:55.667435Z"
-  },
   "WZZ93ZW": {
     "route": {
       "fromCity": "Sofia",
@@ -4817,7 +4806,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-14T10:10:31.105105Z"
+    "checked_at": "2026-10-15T10:00:57.719018Z"
   },
   "SEH874": {
     "route": {
@@ -6516,17 +6505,6 @@
   "CHX39": {
     "route": null,
     "checked_at": "2026-10-14T13:25:23.507814Z"
-  },
-  "NSZ5063": {
-    "route": {
-      "fromCity": "V\u00e4xj\u00f6",
-      "fromIata": "VXO",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T10:00:55.667435Z"
   },
   "EWG5SP": {
     "route": {
@@ -12283,5 +12261,60 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-15T09:50:34.464457Z"
+  },
+  "RYR4022": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T10:00:57.719018Z"
+  },
+  "MEA245": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-15T10:00:57.719018Z"
+  },
+  "THY3338": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T10:00:57.719018Z"
+  },
+  "CFG8DF": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T10:00:57.719018Z"
+  },
+  "CSN469": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-15T10:00:57.719018Z"
   }
 }
