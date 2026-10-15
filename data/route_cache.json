@@ -2639,7 +2639,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T13:19:20.856958Z"
+    "checked_at": "2026-10-15T13:25:29.263790Z"
   },
   "RYR103K": {
     "route": {
@@ -6545,17 +6545,6 @@
     },
     "checked_at": "2026-10-15T12:45:34.071178Z"
   },
-  "CFG7WJ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T13:25:23.873850Z"
-  },
   "RYR7GU": {
     "route": {
       "fromCity": "Memmingen",
@@ -9142,7 +9131,7 @@
   },
   "RYR26YA": {
     "route": null,
-    "checked_at": "2026-10-14T13:15:30.984179Z"
+    "checked_at": "2026-10-15T13:25:29.263790Z"
   },
   "CFG6JH": {
     "route": {
@@ -12298,5 +12287,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-15T13:20:33.916386Z"
+  },
+  "GAF118": {
+    "route": null,
+    "checked_at": "2026-10-15T13:25:29.263790Z"
+  },
+  "ABP722": {
+    "route": {
+      "fromCity": "Halifax",
+      "fromIata": "YHZ",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Aba Air",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-15T13:25:29.263790Z"
+  },
+  "CFG4FD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T13:25:29.263790Z"
   }
 }
