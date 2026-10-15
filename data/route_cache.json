@@ -23,7 +23,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-14T13:10:31.550493Z"
+    "checked_at": "2026-10-15T12:30:47.926347Z"
   },
   "MSC2961": {
     "route": {
@@ -2940,7 +2940,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-14T12:20:34.055345Z"
+    "checked_at": "2026-10-15T12:30:47.926347Z"
   },
   "EIN33T": {
     "route": {
@@ -4033,28 +4033,6 @@
     },
     "checked_at": "2026-10-14T15:15:33.653058Z"
   },
-  "RYR5XX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Pisa",
-      "toIata": "PSA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T12:30:47.693647Z"
-  },
-  "RYR8TQ": {
-    "route": {
-      "fromCity": "Beauvais",
-      "fromIata": "BVA",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T12:30:47.693647Z"
-  },
   "RYR5SB": {
     "route": {
       "fromCity": "M\u00e1laga",
@@ -4725,7 +4703,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T12:40:34.088797Z"
+    "checked_at": "2026-10-15T12:30:47.926347Z"
   },
   "EWG99T": {
     "route": {
@@ -6544,17 +6522,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T12:05:26.553013Z"
-  },
-  "BTI98T": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-13T12:30:47.693647Z"
   },
   "DHEER": {
     "route": null,
@@ -8922,7 +8889,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T11:00:55.595288Z"
+    "checked_at": "2026-10-15T12:30:47.926347Z"
   },
   "WZZ405": {
     "route": {
@@ -12246,5 +12213,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T12:25:26.960073Z"
+  },
+  "BLX314": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T12:30:47.926347Z"
+  },
+  "BTI3TP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-15T12:30:47.926347Z"
+  },
+  "NJE687K": {
+    "route": null,
+    "checked_at": "2026-10-15T12:30:47.926347Z"
   }
 }
