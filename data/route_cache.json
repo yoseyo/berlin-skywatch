@@ -67,7 +67,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-14T13:40:31.659805Z"
+    "checked_at": "2026-10-15T14:30:49.726613Z"
   },
   "SXS1VZ": {
     "route": {
@@ -12307,5 +12307,38 @@
   "NJE712A": {
     "route": null,
     "checked_at": "2026-10-15T14:15:39.853160Z"
+  },
+  "SAS81L": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T14:30:49.726613Z"
+  },
+  "EJU96PC": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T14:30:49.726613Z"
+  },
+  "FIN4VP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-15T14:30:49.726613Z"
   }
 }
