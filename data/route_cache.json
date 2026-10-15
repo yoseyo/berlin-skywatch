@@ -1157,7 +1157,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T04:30:42.754302Z"
+    "checked_at": "2026-10-15T05:20:30.070870Z"
   },
   "KLC80U": {
     "route": {
@@ -1223,7 +1223,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T05:10:30.386758Z"
+    "checked_at": "2026-10-15T05:20:30.070870Z"
   },
   "BEL8YE": {
     "route": {
@@ -1267,7 +1267,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T05:00:55.535919Z"
+    "checked_at": "2026-10-15T05:20:30.070870Z"
   },
   "CHX49": {
     "route": null,
@@ -3778,7 +3778,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T05:10:30.386758Z"
+    "checked_at": "2026-10-15T05:20:30.070870Z"
   },
   "LOT392": {
     "route": {
@@ -12309,5 +12309,38 @@
   "FLI9154": {
     "route": null,
     "checked_at": "2026-10-15T05:15:30.514542Z"
+  },
+  "DLH893": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T05:20:30.070870Z"
+  },
+  "DLH4EK": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T05:20:30.070870Z"
+  },
+  "WZZ31QC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-15T05:20:30.070870Z"
   }
 }
