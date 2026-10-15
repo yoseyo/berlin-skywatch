@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-15T02:20:30.033356Z"
+  "flights": [
+    {
+      "callsign": "CSN8021",
+      "country": "China",
+      "lat": 52.5769,
+      "lon": 13.5381,
+      "altKm": 11.4,
+      "speedKmh": 944,
+      "heading": 231,
+      "vertRateMs": -0.3,
+      "airline": "China Southern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Hunnan, Shenyang",
+      "fromIata": "SHE",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-15T02:25:21.816627Z"
 }
