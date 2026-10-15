@@ -1964,7 +1964,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T09:40:29.267253Z"
+    "checked_at": "2026-10-15T09:30:45.609715Z"
   },
   "KLM75C": {
     "route": {
@@ -4262,7 +4262,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T09:15:29.403241Z"
+    "checked_at": "2026-10-15T09:30:45.609715Z"
   },
   "SXS8RG": {
     "route": {
@@ -6514,7 +6514,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T09:05:26.167212Z"
+    "checked_at": "2026-10-15T09:30:45.609715Z"
   },
   "RYR89YH": {
     "route": {
@@ -6526,14 +6526,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-14T16:35:25.010554Z"
-  },
-  "SVW24JM": {
-    "route": null,
-    "checked_at": "2026-10-13T09:30:44.861863Z"
-  },
-  "DKWSC": {
-    "route": null,
-    "checked_at": "2026-10-13T09:30:44.861863Z"
   },
   "LDX8": {
     "route": null,
@@ -12296,5 +12288,16 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-15T09:20:34.013238Z"
+  },
+  "RYR671D": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T09:30:45.609715Z"
   }
 }
