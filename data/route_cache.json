@@ -295,7 +295,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T15:30:45.447695Z"
+    "checked_at": "2026-10-15T15:30:49.931798Z"
   },
   "LHX194": {
     "route": {
@@ -306,7 +306,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T15:55:26.992481Z"
+    "checked_at": "2026-10-15T15:30:49.931798Z"
   },
   "THY3ZA": {
     "route": {
@@ -383,7 +383,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-14T16:00:57.314596Z"
+    "checked_at": "2026-10-15T15:30:49.931798Z"
   },
   "FIN9YA": {
     "route": {
@@ -3065,7 +3065,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T15:35:27.383426Z"
+    "checked_at": "2026-10-15T15:30:49.931798Z"
   },
   "EJU5087": {
     "route": null,
@@ -3983,7 +3983,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-14T15:15:33.653058Z"
+    "checked_at": "2026-10-15T15:30:49.931798Z"
   },
   "RYR5SB": {
     "route": {
@@ -5237,10 +5237,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-15T06:25:24.544239Z"
-  },
-  "SCR137": {
-    "route": null,
-    "checked_at": "2026-10-13T15:30:47.338364Z"
   },
   "WMT968": {
     "route": {
@@ -12344,5 +12340,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T15:25:26.357146Z"
+  },
+  "BLX9435": {
+    "route": null,
+    "checked_at": "2026-10-15T15:30:49.931798Z"
+  },
+  "EZY71CX": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-15T15:30:49.931798Z"
+  },
+  "RYR5XX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T15:30:49.931798Z"
   }
 }
