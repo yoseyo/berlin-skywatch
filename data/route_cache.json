@@ -1711,7 +1711,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T08:00:54.923298Z"
+    "checked_at": "2026-10-15T08:10:33.827381Z"
   },
   "DAL93": {
     "route": {
@@ -2863,7 +2863,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-14T07:58:14.060491Z"
+    "checked_at": "2026-10-15T08:10:33.827381Z"
   },
   "WZZ8086": {
     "route": {
@@ -6143,17 +6143,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T15:15:33.653058Z"
-  },
-  "RUK4FM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-13T08:10:32.277472Z"
   },
   "LHX4KK": {
     "route": {
@@ -12264,5 +12253,20 @@
   "AEE4773": {
     "route": null,
     "checked_at": "2026-10-15T08:05:26.345981Z"
+  },
+  "N53235": {
+    "route": null,
+    "checked_at": "2026-10-15T08:10:33.827381Z"
+  },
+  "CXI457": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-15T08:10:33.827381Z"
   }
 }
