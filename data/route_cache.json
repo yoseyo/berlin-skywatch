@@ -6568,17 +6568,6 @@
     },
     "checked_at": "2026-10-14T11:00:55.595288Z"
   },
-  "PGT41EH": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Bremen",
-      "toIata": "BRE",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-13T10:35:23.501544Z"
-  },
   "DLH1KX": {
     "route": {
       "fromCity": "Helsinki",
@@ -12283,5 +12272,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T10:30:46.393421Z"
+  },
+  "PGT21PC": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-15T10:35:24.894263Z"
   }
 }
