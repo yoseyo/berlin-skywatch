@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.8276,
+      "lon": 13.9107,
+      "altKm": 11.4,
+      "speedKmh": 840,
+      "heading": 214,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.5416,
-      "lon": 13.8356,
-      "altKm": 1.6,
-      "speedKmh": 379,
-      "heading": 78,
-      "vertRateMs": -1.3,
+      "lat": 52.4248,
+      "lon": 13.727,
+      "altKm": 0.9,
+      "speedKmh": 324,
+      "heading": 249,
+      "vertRateMs": -5.2,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-15T03:25:22.192946Z"
+  "updated_at": "2026-10-15T03:30:42.142715Z"
 }
