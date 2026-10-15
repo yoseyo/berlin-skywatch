@@ -4791,7 +4791,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T16:10:34.898169Z"
+    "checked_at": "2026-10-15T16:20:35.074086Z"
   },
   "FIN33A": {
     "route": {
@@ -6577,17 +6577,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-15T05:45:30.309048Z"
-  },
-  "KLM9937": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-13T16:20:32.819645Z"
   },
   "EWG55E": {
     "route": {
@@ -12363,5 +12352,38 @@
   "LOKI18": {
     "route": null,
     "checked_at": "2026-10-15T16:15:33.257961Z"
+  },
+  "LHX4EL": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T16:20:35.074086Z"
+  },
+  "RYR14YY": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T16:20:35.074086Z"
+  },
+  "KLM1316": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-15T16:20:35.074086Z"
   }
 }
