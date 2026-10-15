@@ -1,47 +1,25 @@
 {
   "flights": [
     {
-      "callsign": "UPC6004",
-      "country": "Kazakhstan",
-      "lat": 52.1329,
-      "lon": 13.744,
-      "altKm": 11.8,
-      "speedKmh": 848,
-      "heading": 64,
-      "vertRateMs": -0.3,
-      "category": "plane"
-    },
-    {
-      "callsign": "EJU5088",
-      "country": "Austria",
-      "lat": 52.3705,
-      "lon": 13.5741,
-      "altKm": 0.3,
-      "speedKmh": 244,
-      "heading": 249,
-      "vertRateMs": -3.6,
-      "category": "plane"
-    },
-    {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.5716,
-      "lon": 13.6482,
-      "altKm": 0.6,
-      "speedKmh": 166,
-      "heading": 147,
-      "vertRateMs": -0.7,
+      "lat": 52.4505,
+      "lon": 13.5381,
+      "altKm": 0.5,
+      "speedKmh": 195,
+      "heading": 211,
+      "vertRateMs": 0,
       "category": "heli"
     },
     {
       "callsign": "NGN7904",
       "country": "Germany",
-      "lat": 52.3727,
-      "lon": 14.002,
-      "altKm": 10.2,
-      "speedKmh": 851,
-      "heading": 259,
-      "vertRateMs": 6.2,
+      "lat": 52.2513,
+      "lon": 13.0143,
+      "altKm": 11.5,
+      "speedKmh": 825,
+      "heading": 258,
+      "vertRateMs": 0,
       "airline": "LEAV Aviation",
       "airlineCountry": "Germany",
       "fromCity": "Athens",
@@ -51,33 +29,16 @@
       "category": "plane"
     },
     {
-      "callsign": "WZZ90BV",
-      "country": "Malta",
-      "lat": 52.8875,
-      "lon": 12.9118,
-      "altKm": 11.8,
-      "speedKmh": 843,
-      "heading": 64,
-      "vertRateMs": 0,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "category": "plane"
-    },
-    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.364,
-      "lon": 13.4135,
+      "lat": 52.5113,
+      "lon": 13.5363,
       "altKm": 0.7,
-      "speedKmh": 224,
-      "heading": 29,
-      "vertRateMs": 0,
+      "speedKmh": 217,
+      "heading": 25,
+      "vertRateMs": 0.3,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-15T21:10:33.998924Z"
+  "updated_at": "2026-10-15T21:15:34.530219Z"
 }
