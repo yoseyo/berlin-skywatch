@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T13:45:30.420072Z"
+    "checked_at": "2026-10-15T13:15:32.397603Z"
   },
   "CHX100": {
     "route": null,
@@ -6560,32 +6560,6 @@
     },
     "checked_at": "2026-10-15T12:45:34.071178Z"
   },
-  "GAC655K": {
-    "route": null,
-    "checked_at": "2026-10-13T13:15:32.043909Z"
-  },
-  "RYR8742": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Trieste",
-      "toIata": "TRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T13:15:32.043909Z"
-  },
-  "VOE1462": {
-    "route": {
-      "fromCity": "Firenze",
-      "fromIata": "FLR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Volotea",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-13T13:15:32.043909Z"
-  },
   "AWH91G": {
     "route": null,
     "checked_at": "2026-10-13T13:20:31.149215Z"
@@ -12258,5 +12232,46 @@
   "TVS379F": {
     "route": null,
     "checked_at": "2026-10-15T13:10:35.259044Z"
+  },
+  "EJU1923": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T13:15:32.397603Z"
+  },
+  "EWG79J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T13:15:32.397603Z"
+  },
+  "VJH721": {
+    "route": null,
+    "checked_at": "2026-10-15T13:15:32.397603Z"
+  },
+  "RSX5009": {
+    "route": null,
+    "checked_at": "2026-10-15T13:15:32.397603Z"
+  },
+  "WZZ20KU": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Reykjav\u00edk",
+      "toIata": "KEF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-15T13:15:32.397603Z"
   }
 }
