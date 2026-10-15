@@ -1,22 +1,52 @@
 {
   "flights": [
     {
-      "callsign": "EJU83RT",
+      "callsign": "EJU5261",
       "country": "Austria",
-      "lat": 52.2538,
-      "lon": 13.3209,
-      "altKm": 1.8,
-      "speedKmh": 506,
-      "heading": 179,
-      "vertRateMs": 10.4,
+      "lat": 52.437,
+      "lon": 13.2699,
+      "altKm": 3.7,
+      "speedKmh": 569,
+      "heading": 353,
+      "vertRateMs": 4.9,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG6NT",
+      "country": "Germany",
+      "lat": 52.3455,
+      "lon": 13.468,
+      "altKm": 0.4,
+      "speedKmh": 308,
+      "heading": 250,
+      "vertRateMs": 14.6,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG3PH",
+      "country": "Germany",
+      "lat": 52.2951,
+      "lon": 13.3665,
+      "altKm": 1.2,
+      "speedKmh": 450,
+      "heading": 228,
+      "vertRateMs": 9.8,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-15T04:10:29.297354Z"
+  "updated_at": "2026-10-15T04:15:28.141830Z"
 }
