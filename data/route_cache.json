@@ -1135,7 +1135,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T04:10:31.136634Z"
+    "checked_at": "2026-10-15T05:35:24.725262Z"
   },
   "AFR84XP": {
     "route": {
@@ -1315,7 +1315,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T05:40:30.676427Z"
+    "checked_at": "2026-10-15T05:35:24.725262Z"
   },
   "SWR5XL": {
     "route": {
@@ -5414,17 +5414,6 @@
     },
     "checked_at": "2026-10-13T10:40:29.731269Z"
   },
-  "EWG5QR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T05:30:44.259964Z"
-  },
   "CFE8PR": {
     "route": {
       "fromCity": "Berlin",
@@ -5457,17 +5446,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-14T05:25:23.550105Z"
-  },
-  "NSZ3288": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T05:30:44.259964Z"
   },
   "BEL2JY": {
     "route": {
@@ -6649,53 +6627,9 @@
     },
     "checked_at": "2026-10-15T04:40:30.198948Z"
   },
-  "VKG818": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Espargos",
-      "toIata": "SID",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-13T05:30:44.259964Z"
-  },
-  "NSZ3730": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T05:35:23.669653Z"
-  },
   "WMT7615": {
     "route": null,
     "checked_at": "2026-10-15T05:15:30.514542Z"
-  },
-  "LHX853": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T05:35:23.669653Z"
-  },
-  "RYR55XJ": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Banja Luka",
-      "toIata": "BNX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T05:35:23.669653Z"
   },
   "RYR86NA": {
     "route": {
@@ -12342,5 +12276,24 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-15T05:20:30.070870Z"
+  },
+  "DEWLS": {
+    "route": null,
+    "checked_at": "2026-10-15T05:35:24.725262Z"
+  },
+  "DCS604": {
+    "route": null,
+    "checked_at": "2026-10-15T05:35:24.725262Z"
+  },
+  "RYR938": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T05:35:24.725262Z"
   }
 }
