@@ -2819,7 +2819,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-14T04:20:30.292087Z"
+    "checked_at": "2026-10-15T05:00:51.045410Z"
   },
   "LGL91B": {
     "route": {
@@ -2918,7 +2918,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T05:00:55.535919Z"
+    "checked_at": "2026-10-15T05:00:51.045410Z"
   },
   "ICE14T": {
     "route": {
@@ -5522,7 +5522,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-13T05:00:54.335195Z"
+    "checked_at": "2026-10-15T05:00:51.045410Z"
   },
   "DMS2PV": {
     "route": {
@@ -6681,28 +6681,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-14T05:00:55.535919Z"
-  },
-  "WMT1ST": {
-    "route": {
-      "fromCity": "Chi\u015fin\u0103u",
-      "fromIata": "RMO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-13T04:55:24.497080Z"
-  },
-  "RYR282D": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T04:55:24.497080Z"
   },
   "DLH4EK": {
     "route": {
@@ -12386,5 +12364,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-15T04:55:23.027069Z"
+  },
+  "NSZ4AW": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T05:00:51.045410Z"
+  },
+  "ETD93C": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-15T05:00:51.045410Z"
+  },
+  "RYR17UC": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T05:00:51.045410Z"
   }
 }
