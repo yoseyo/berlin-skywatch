@@ -3017,7 +3017,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T08:10:31.924544Z"
+    "checked_at": "2026-10-15T08:25:26.461499Z"
   },
   "BAW992G": {
     "route": {
@@ -3565,7 +3565,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T08:30:42.777592Z"
+    "checked_at": "2026-10-15T08:25:26.461499Z"
   },
   "VLG6JY": {
     "route": {
@@ -4275,17 +4275,6 @@
     },
     "checked_at": "2026-10-14T05:20:31.897982Z"
   },
-  "EJU93RY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-13T08:25:26.130435Z"
-  },
   "DLH4AK": {
     "route": {
       "fromCity": "Zurich",
@@ -4741,17 +4730,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-14T04:10:31.136634Z"
-  },
-  "WMT2GJ": {
-    "route": {
-      "fromCity": "Bucharest",
-      "fromIata": "OTP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-13T08:25:26.130435Z"
   },
   "RYR3LF": {
     "route": {
@@ -12294,5 +12272,57 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T08:20:34.146183Z"
+  },
+  "DEUNK": {
+    "route": null,
+    "checked_at": "2026-10-15T08:25:26.461499Z"
+  },
+  "DLH894": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stavanger",
+      "toIata": "SVG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T08:25:26.461499Z"
+  },
+  "DHABH": {
+    "route": null,
+    "checked_at": "2026-10-15T08:25:26.461499Z"
+  },
+  "ASL19P": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-15T08:25:26.461499Z"
+  },
+  "RYR297": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T08:25:26.461499Z"
+  },
+  "RYR31KN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T08:25:26.461499Z"
   }
 }
