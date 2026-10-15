@@ -2309,7 +2309,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-14T12:20:34.055345Z"
+    "checked_at": "2026-10-15T12:05:26.553013Z"
   },
   "AFR92ZN": {
     "route": {
@@ -2430,7 +2430,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T12:15:30.798960Z"
+    "checked_at": "2026-10-15T12:05:26.553013Z"
   },
   "EJU57RF": {
     "route": {
@@ -5535,7 +5535,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-14T10:55:25.226174Z"
+    "checked_at": "2026-10-15T12:05:26.553013Z"
   },
   "NOZ1104": {
     "route": {
@@ -6543,29 +6543,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T12:25:26.384516Z"
-  },
-  "UZB201": {
-    "route": {
-      "fromCity": "Tashkent",
-      "fromIata": "TAS",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Uzbekistan Airways",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-10-13T12:05:26.325394Z"
-  },
-  "RYR7547": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T12:05:26.325394Z"
+    "checked_at": "2026-10-15T12:05:26.553013Z"
   },
   "QTR18F": {
     "route": {
@@ -9280,7 +9258,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T12:50:32.292909Z"
+    "checked_at": "2026-10-15T12:05:26.553013Z"
   },
   "RYR63VQ": {
     "route": {
@@ -12250,5 +12228,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-15T11:55:26.152491Z"
+  },
+  "RYR24AN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T12:05:26.553013Z"
+  },
+  "VJT431": {
+    "route": {
+      "fromCity": "Doncaster",
+      "fromIata": "DSA",
+      "toCity": "Farnborough",
+      "toIata": "FAB",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-15T12:05:26.553013Z"
   }
 }
