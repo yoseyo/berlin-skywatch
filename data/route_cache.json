@@ -6534,32 +6534,6 @@
     },
     "checked_at": "2026-10-14T13:35:25.611154Z"
   },
-  "CCA950": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-13T12:50:34.895047Z"
-  },
-  "CEF6019": {
-    "route": null,
-    "checked_at": "2026-10-13T12:50:34.895047Z"
-  },
-  "RYR99FP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T12:50:34.895047Z"
-  },
   "EJU5367": {
     "route": {
       "fromCity": "Berlin",
@@ -12231,5 +12205,42 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-15T12:40:35.418183Z"
+  },
+  "4XCNZ": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-15T12:50:35.862312Z"
+  },
+  "BLX464": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T12:50:35.862312Z"
+  },
+  "GFM5E": {
+    "route": null,
+    "checked_at": "2026-10-15T12:50:35.862312Z"
+  },
+  "DIMTP": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "M\u00f6nchengladbach",
+      "toIata": "MGL",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-15T12:50:35.862312Z"
   }
 }
