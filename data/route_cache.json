@@ -6593,17 +6593,6 @@
     },
     "checked_at": "2026-10-15T18:45:32.849127Z"
   },
-  "RYR8842": {
-    "route": {
-      "fromCity": "Aberdeen",
-      "fromIata": "ABZ",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-13T22:05:25.869903Z"
-  },
   "MFX7668": {
     "route": {
       "fromCity": "Li\u00e8ge",
@@ -12529,5 +12518,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-15T21:50:32.973795Z"
+  },
+  "RYR5WP": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T22:05:25.893721Z"
   }
 }

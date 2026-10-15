@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-15T22:00:54.918095Z"
+  "flights": [
+    {
+      "callsign": "RYR5WP",
+      "country": "Poland",
+      "lat": 52.4095,
+      "lon": 13.5472,
+      "altKm": 11.7,
+      "speedKmh": 829,
+      "heading": 53,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-15T22:05:25.893721Z"
 }
