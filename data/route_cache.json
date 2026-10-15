@@ -3271,7 +3271,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T19:35:23.611151Z"
+    "checked_at": "2026-10-15T19:30:46.689970Z"
   },
   "RYR30TE": {
     "route": {
@@ -6593,17 +6593,6 @@
     },
     "checked_at": "2026-10-15T09:10:35.210386Z"
   },
-  "UZB252": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Tashkent",
-      "toIata": "TAS",
-      "airlineName": "Uzbekistan Airways",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-10-13T19:30:44.000204Z"
-  },
   "NSZ2941": {
     "route": {
       "fromCity": "Milan",
@@ -7405,7 +7394,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T09:00:55.496249Z"
+    "checked_at": "2026-10-15T19:30:46.689970Z"
   },
   "TKJ3WS": {
     "route": {
@@ -12427,5 +12416,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T19:25:25.407330Z"
+  },
+  "NSZ4508": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-15T19:30:46.689970Z"
+  },
+  "RYR42MY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T19:30:46.689970Z"
   }
 }
