@@ -273,7 +273,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-14T17:15:32.206412Z"
+    "checked_at": "2026-10-15T15:35:27.377926Z"
   },
   "TVF77EX": {
     "route": {
@@ -3576,7 +3576,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T15:30:45.447695Z"
+    "checked_at": "2026-10-15T15:35:27.377926Z"
   },
   "CFE61X": {
     "route": {
@@ -4765,7 +4765,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-14T15:30:45.447695Z"
+    "checked_at": "2026-10-15T15:35:27.377926Z"
   },
   "PYR014": {
     "route": null,
@@ -5688,7 +5688,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-14T15:30:45.447695Z"
+    "checked_at": "2026-10-15T15:35:27.377926Z"
   },
   "THY9VA": {
     "route": {
@@ -6599,17 +6599,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T15:25:26.357146Z"
-  },
-  "EJU31GQ": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-13T15:35:27.075647Z"
   },
   "FIN2K": {
     "route": {
@@ -12366,5 +12355,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T15:30:49.931798Z"
+  },
+  "QTR56W": {
+    "route": {
+      "fromCity": "Johannesburg",
+      "fromIata": "JNB",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-15T15:35:27.377926Z"
+  },
+  "IGA634": {
+    "route": {
+      "fromCity": "Prestwick, South Ayrshire",
+      "fromIata": "PIK",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "airlineName": "Skytaxi",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-15T15:35:27.377926Z"
+  },
+  "CFG003": {
+    "route": null,
+    "checked_at": "2026-10-15T15:35:27.377926Z"
   }
 }
