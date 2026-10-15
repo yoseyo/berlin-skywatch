@@ -1469,7 +1469,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-14T06:50:35.334999Z"
+    "checked_at": "2026-10-15T06:35:24.962240Z"
   },
   "RYR4WC": {
     "route": {
@@ -1491,7 +1491,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-14T06:40:31.485676Z"
+    "checked_at": "2026-10-15T06:35:24.962240Z"
   },
   "DLH174": {
     "route": {
@@ -1502,7 +1502,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T06:35:27.649368Z"
+    "checked_at": "2026-10-15T06:35:24.962240Z"
   },
   "LOT4MH": {
     "route": {
@@ -5654,10 +5654,6 @@
     },
     "checked_at": "2026-10-14T08:45:30.715114Z"
   },
-  "RRR1341": {
-    "route": null,
-    "checked_at": "2026-10-13T06:35:23.973329Z"
-  },
   "DLH880": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6622,17 +6618,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-15T06:00:58.637684Z"
-  },
-  "CFG1FE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T06:35:23.973329Z"
   },
   "SAS31T": {
     "route": {
@@ -12319,5 +12304,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-15T06:25:24.544239Z"
+  },
+  "BTI97T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-15T06:35:24.962240Z"
+  },
+  "CFG6DF": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-15T06:35:24.962240Z"
   }
 }
