@@ -6678,17 +6678,6 @@
     },
     "checked_at": "2026-10-15T02:00:51.049452Z"
   },
-  "UAL83": {
-    "route": {
-      "fromCity": "New Delhi",
-      "fromIata": "DEL",
-      "toCity": "New York",
-      "toIata": "EWR",
-      "airlineName": "United Airlines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-13T02:10:35.442513Z"
-  },
   "SWR1317": {
     "route": {
       "fromCity": "Tallinn",
@@ -12397,5 +12386,9 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-15T01:05:23.486431Z"
+  },
+  "ELY005": {
+    "route": null,
+    "checked_at": "2026-10-15T02:15:28.896559Z"
   }
 }
