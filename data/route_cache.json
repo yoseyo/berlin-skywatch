@@ -3844,7 +3844,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-14T06:30:46.025095Z"
+    "checked_at": "2026-10-15T06:45:31.554215Z"
   },
   "AFR39SV": {
     "route": {
@@ -4516,17 +4516,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T04:50:31.995057Z"
-  },
-  "LOT403": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-13T06:40:34.133554Z"
   },
   "KLM38Z": {
     "route": {
@@ -6619,17 +6608,6 @@
     },
     "checked_at": "2026-10-15T06:00:58.637684Z"
   },
-  "SAS31T": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T06:40:34.133554Z"
-  },
   "FIN1AB": {
     "route": {
       "fromCity": "Helsinki",
@@ -6640,21 +6618,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-15T06:40:31.717659Z"
-  },
-  "DGFKH": {
-    "route": null,
-    "checked_at": "2026-10-13T06:40:34.133554Z"
-  },
-  "SDR62EG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marsa Alam",
-      "toIata": "RMF",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-13T06:40:34.133554Z"
   },
   "DLH7YC": {
     "route": {
@@ -12352,5 +12315,38 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-15T06:40:31.717659Z"
+  },
+  "RYR9846": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T06:45:31.554215Z"
+  },
+  "WZZ1BD": {
+    "route": {
+      "fromCity": "Timi\u015foara",
+      "fromIata": "TSR",
+      "toCity": "Frankfurt am Main",
+      "toIata": "HHN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-15T06:45:31.554215Z"
+  },
+  "ASL94D": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-15T06:45:31.554215Z"
   }
 }
