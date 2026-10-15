@@ -2507,7 +2507,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-14T12:15:30.798960Z"
+    "checked_at": "2026-10-15T12:35:27.527417Z"
   },
   "SXS9SE": {
     "route": {
@@ -5395,7 +5395,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-13T13:00:56.629500Z"
+    "checked_at": "2026-10-15T12:35:27.527417Z"
   },
   "RYR924": {
     "route": {
@@ -6522,44 +6522,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T12:05:26.553013Z"
-  },
-  "DHEER": {
-    "route": null,
-    "checked_at": "2026-10-13T12:35:23.237170Z"
-  },
-  "NJE458D": {
-    "route": null,
-    "checked_at": "2026-10-13T12:35:23.237170Z"
-  },
-  "DLH891": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-13T12:35:23.237170Z"
-  },
-  "NJE942H": {
-    "route": null,
-    "checked_at": "2026-10-13T12:35:23.237170Z"
-  },
-  "WZZ3EP": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-13T12:35:23.237170Z"
-  },
-  "FHM4723": {
-    "route": null,
-    "checked_at": "2026-10-13T12:35:23.237170Z"
   },
   "NSZ4370": {
     "route": {
@@ -12239,5 +12201,35 @@
   "NJE687K": {
     "route": null,
     "checked_at": "2026-10-15T12:30:47.926347Z"
+  },
+  "BTI98T": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-15T12:35:27.527417Z"
+  },
+  "GAF165": {
+    "route": null,
+    "checked_at": "2026-10-15T12:35:27.527417Z"
+  },
+  "MEA246": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-15T12:35:27.527417Z"
+  },
+  "NJE089D": {
+    "route": null,
+    "checked_at": "2026-10-15T12:35:27.527417Z"
   }
 }
