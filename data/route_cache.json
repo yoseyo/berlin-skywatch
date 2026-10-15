@@ -251,7 +251,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-14T15:05:27.965484Z"
+    "checked_at": "2026-10-15T15:01:03.154956Z"
   },
   "PGT978": {
     "route": {
@@ -262,7 +262,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T15:30:45.447695Z"
+    "checked_at": "2026-10-15T15:01:03.154956Z"
   },
   "BEL2HJ": {
     "route": {
@@ -5795,7 +5795,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T15:15:33.653058Z"
+    "checked_at": "2026-10-15T15:01:03.154956Z"
   },
   "LHX4KK": {
     "route": {
@@ -6574,17 +6574,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-14T04:50:30.415524Z"
-  },
-  "CCA957": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-13T15:00:57.990856Z"
   },
   "CFG5AK": {
     "route": {
@@ -9226,7 +9215,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-14T15:05:27.965484Z"
+    "checked_at": "2026-10-15T15:01:03.154956Z"
   },
   "NJE041N": {
     "route": null,
@@ -12329,5 +12318,16 @@
   "DMAAC": {
     "route": null,
     "checked_at": "2026-10-15T14:55:26.010187Z"
+  },
+  "RYR3U": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Girona",
+      "toIata": "GRO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-15T15:01:03.154956Z"
   }
 }
