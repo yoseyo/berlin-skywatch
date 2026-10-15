@@ -209,17 +209,6 @@
     },
     "checked_at": "2026-10-15T14:40:36.611811Z"
   },
-  "QTR56W": {
-    "route": {
-      "fromCity": "Johannesburg",
-      "fromIata": "JNB",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-13T14:50:30.580830Z"
-  },
   "KLM1779": {
     "route": {
       "fromCity": "Amsterdam",
@@ -12310,5 +12299,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T14:40:36.611811Z"
+  },
+  "AUA971": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T14:50:36.743260Z"
+  },
+  "EJU12QE": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-15T14:50:36.743260Z"
+  },
+  "BTI26R": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-15T14:50:36.743260Z"
+  },
+  "SPSMF": {
+    "route": null,
+    "checked_at": "2026-10-15T14:50:36.743260Z"
   }
 }
