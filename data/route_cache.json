@@ -1975,7 +1975,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T07:45:32.582925Z"
+    "checked_at": "2026-10-16T13:40:33.793639Z"
   },
   "WUK1356": {
     "route": null,
@@ -2925,7 +2925,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T14:00:59.792614Z"
+    "checked_at": "2026-10-16T13:40:33.793639Z"
   },
   "EWG9SK": {
     "route": {
@@ -12711,5 +12711,27 @@
   "AYJ424": {
     "route": null,
     "checked_at": "2026-10-16T13:35:25.658588Z"
+  },
+  "EWG3PD": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-16T13:40:33.793639Z"
+  },
+  "THY3330": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Trabzon",
+      "toIata": "TZX",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-16T13:40:33.793639Z"
   }
 }
