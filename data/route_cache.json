@@ -1887,7 +1887,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-15T09:30:45.609715Z"
+    "checked_at": "2026-10-16T10:10:35.920148Z"
   },
   "KLM75C": {
     "route": {
@@ -1979,7 +1979,7 @@
   },
   "WUK1356": {
     "route": null,
-    "checked_at": "2026-10-15T10:05:26.890451Z"
+    "checked_at": "2026-10-16T10:10:35.920148Z"
   },
   "DLH8N": {
     "route": {
@@ -5067,7 +5067,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-14T10:10:31.105105Z"
+    "checked_at": "2026-10-16T10:10:35.920148Z"
   },
   "EJU49AU": {
     "route": {
@@ -6562,25 +6562,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T12:55:26.704768Z"
-  },
-  "DMOCP": {
-    "route": null,
-    "checked_at": "2026-10-14T10:10:31.105105Z"
-  },
-  "MGH392": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-14T10:10:31.105105Z"
-  },
-  "N541GP": {
-    "route": null,
-    "checked_at": "2026-10-14T10:10:31.105105Z"
   },
   "CFG3YU": {
     "route": {
@@ -12828,5 +12809,31 @@
   "OKACB": {
     "route": null,
     "checked_at": "2026-10-16T10:05:27.211664Z"
+  },
+  "SXS6EG": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-16T10:10:35.920148Z"
+  },
+  "CHX71": {
+    "route": null,
+    "checked_at": "2026-10-16T10:10:35.920148Z"
+  },
+  "EJU93RY": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-16T10:10:35.920148Z"
   }
 }
