@@ -3135,7 +3135,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T08:30:45.735500Z"
+    "checked_at": "2026-10-16T19:35:23.435068Z"
   },
   "FIN6AP": {
     "route": {
@@ -3598,7 +3598,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-15T19:55:25.791115Z"
+    "checked_at": "2026-10-16T19:35:23.435068Z"
   },
   "EJU34BQ": {
     "route": {
@@ -3873,7 +3873,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-15T19:20:34.388090Z"
+    "checked_at": "2026-10-16T19:35:23.435068Z"
   },
   "DLH2WR": {
     "route": {
@@ -4652,7 +4652,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-15T19:45:32.754678Z"
+    "checked_at": "2026-10-16T19:35:23.435068Z"
   },
   "EZY63GU": {
     "route": {
@@ -6108,7 +6108,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-15T17:55:25.063081Z"
+    "checked_at": "2026-10-16T19:35:23.435068Z"
   },
   "SPWIW": {
     "route": {
@@ -6800,28 +6800,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-15T18:20:35.190326Z"
-  },
-  "CFG1CD": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-14T19:30:45.161462Z"
-  },
-  "RYR1155": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-14T19:30:45.161462Z"
   },
   "SAS95W": {
     "route": {
@@ -13081,5 +13059,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T19:30:45.021972Z"
+  },
+  "CCA750": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Beijing",
+      "toIata": "PKX",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-16T19:35:23.435068Z"
   }
 }
