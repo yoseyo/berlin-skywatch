@@ -1601,7 +1601,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-15T08:30:45.735500Z"
+    "checked_at": "2026-10-16T07:55:26.254800Z"
   },
   "QTR85X": {
     "route": {
@@ -6496,10 +6496,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T07:15:33.721449Z"
-  },
-  "JFA71J": {
-    "route": null,
-    "checked_at": "2026-10-14T07:55:24.922169Z"
   },
   "CKK235": {
     "route": {
@@ -12745,5 +12741,42 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T07:50:32.460355Z"
+  },
+  "PGT7392": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "Nicosia",
+      "toIata": "ECN",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-16T07:55:26.254800Z"
+  },
+  "EZY84XQ": {
+    "route": {
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-16T07:55:26.254800Z"
+  },
+  "SAS2678": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T07:55:26.254800Z"
+  },
+  "HRN171": {
+    "route": null,
+    "checked_at": "2026-10-16T07:55:26.254800Z"
   }
 }
