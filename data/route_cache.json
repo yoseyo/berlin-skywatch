@@ -761,7 +761,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-15T19:50:33.382199Z"
+    "checked_at": "2026-10-16T20:05:22.588504Z"
   },
   "NOZ9VF": {
     "route": {
@@ -849,7 +849,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-15T19:45:32.754678Z"
+    "checked_at": "2026-10-16T20:05:22.588504Z"
   },
   "BAW998": {
     "route": {
@@ -6852,39 +6852,6 @@
     },
     "checked_at": "2026-10-15T19:20:34.388090Z"
   },
-  "NSZ4378": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-14T20:00:55.020717Z"
-  },
-  "HLF8868": {
-    "route": {
-      "fromCity": "Bangkok",
-      "fromIata": "BKK",
-      "toCity": "Yantai",
-      "toIata": "YNT",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-14T20:00:55.020717Z"
-  },
-  "TGZ782": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tbilisi",
-      "toIata": "TBS",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-10-14T20:00:55.020717Z"
-  },
   "NOZ1865": {
     "route": {
       "fromCity": "Bari",
@@ -10111,7 +10078,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-15T20:25:25.151979Z"
+    "checked_at": "2026-10-16T20:05:22.588504Z"
   },
   "SDR10WH": {
     "route": null,
@@ -13121,5 +13088,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T20:00:54.651959Z"
+  },
+  "SDR19BY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T20:05:22.588504Z"
   }
 }
