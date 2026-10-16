@@ -504,7 +504,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-15T16:55:26.959405Z"
+    "checked_at": "2026-10-16T16:55:24.492368Z"
   },
   "LHX195": {
     "route": {
@@ -6738,14 +6738,6 @@
   "EJU5075": {
     "route": null,
     "checked_at": "2026-10-15T17:10:35.399368Z"
-  },
-  "N724GD": {
-    "route": null,
-    "checked_at": "2026-10-14T16:55:23.062650Z"
-  },
-  "ATV305": {
-    "route": null,
-    "checked_at": "2026-10-14T16:55:23.062650Z"
   },
   "RYR44BG": {
     "route": {
@@ -13081,5 +13073,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T16:50:32.939653Z"
+  },
+  "RYR90GK": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-16T16:55:24.492368Z"
   }
 }
