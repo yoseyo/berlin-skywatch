@@ -1282,7 +1282,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T06:05:24.319960Z"
+    "checked_at": "2026-10-16T06:10:34.663136Z"
   },
   "SXS3FR": {
     "route": {
@@ -2955,7 +2955,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-15T06:05:24.319960Z"
+    "checked_at": "2026-10-16T06:10:34.663136Z"
   },
   "SAS44L": {
     "route": {
@@ -3091,7 +3091,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T06:20:31.005046Z"
+    "checked_at": "2026-10-16T06:10:34.663136Z"
   },
   "NSZ4505": {
     "route": {
@@ -4960,7 +4960,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-15T06:25:24.544239Z"
+    "checked_at": "2026-10-16T06:10:34.663136Z"
   },
   "SAS1693": {
     "route": {
@@ -5976,7 +5976,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T09:35:26.614255Z"
+    "checked_at": "2026-10-16T06:10:34.663136Z"
   },
   "NOZ8BE": {
     "route": {
@@ -6522,28 +6522,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-16T05:50:32.447791Z"
-  },
-  "NSZ3748": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Palermo",
-      "toIata": "PMO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-14T06:10:33.779173Z"
-  },
-  "NOZ1910": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-14T06:10:33.779173Z"
   },
   "NSZ5NE": {
     "route": {
@@ -12643,5 +12621,27 @@
   "WZZ8649": {
     "route": null,
     "checked_at": "2026-10-16T06:05:25.873400Z"
+  },
+  "EJU41NB": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-16T06:10:34.663136Z"
+  },
+  "THY67C": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-16T06:10:34.663136Z"
   }
 }
