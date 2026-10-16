@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "BCS15N",
-      "country": "Austria",
-      "lat": 52.5025,
-      "lon": 13.5181,
-      "altKm": 9.6,
-      "speedKmh": 891,
-      "heading": 50,
-      "vertRateMs": 9.8,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "category": "plane"
-    },
-    {
       "callsign": "SWT3WZ",
       "country": "Spain",
-      "lat": 52.1635,
-      "lon": 13.3261,
-      "altKm": 4.0,
-      "speedKmh": 662,
-      "heading": 59,
-      "vertRateMs": -8.1,
+      "lat": 52.4016,
+      "lon": 13.8895,
+      "altKm": 1.9,
+      "speedKmh": 486,
+      "heading": 5,
+      "vertRateMs": -5.2,
       "airline": "Swiftair",
       "airlineCountry": "Spain",
       "fromCity": "Paris",
@@ -33,7 +16,24 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "AEE6186",
+      "country": "Greece",
+      "lat": 52.2984,
+      "lon": 13.5445,
+      "altKm": 12.1,
+      "speedKmh": 767,
+      "heading": 358,
+      "vertRateMs": 0,
+      "airline": "Aegean Airlines",
+      "airlineCountry": "Greece",
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-16T03:25:26.026126Z"
+  "updated_at": "2026-10-16T03:30:44.927908Z"
 }
