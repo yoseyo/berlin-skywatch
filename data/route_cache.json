@@ -78,7 +78,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-15T15:45:33.075451Z"
+    "checked_at": "2026-10-16T15:25:26.274817Z"
   },
   "MSR732": {
     "route": {
@@ -251,7 +251,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-15T15:01:03.154956Z"
+    "checked_at": "2026-10-16T15:25:26.274817Z"
   },
   "PGT978": {
     "route": {
@@ -2936,7 +2936,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T07:15:29.409341Z"
+    "checked_at": "2026-10-16T15:25:26.274817Z"
   },
   "DEHGB": {
     "route": null,
@@ -5913,7 +5913,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-15T15:10:36.142582Z"
+    "checked_at": "2026-10-16T15:25:26.274817Z"
   },
   "THY2NZ": {
     "route": {
@@ -6701,17 +6701,6 @@
   "DEKPR": {
     "route": null,
     "checked_at": "2026-10-16T09:20:32.964222Z"
-  },
-  "SAS80D": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-14T15:25:25.311511Z"
   },
   "EJU57YZ": {
     "route": {
@@ -12962,5 +12951,31 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-16T15:20:34.811440Z"
+  },
+  "SAS2963": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T15:25:26.274817Z"
+  },
+  "CHX39": {
+    "route": null,
+    "checked_at": "2026-10-16T15:25:26.274817Z"
+  },
+  "NMA739": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-16T15:25:26.274817Z"
   }
 }
