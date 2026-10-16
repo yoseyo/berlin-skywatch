@@ -1102,7 +1102,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-15T04:45:28.447016Z"
+    "checked_at": "2026-10-16T04:40:34.094559Z"
   },
   "DLH4RL": {
     "route": {
@@ -1190,7 +1190,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-15T05:20:30.070870Z"
+    "checked_at": "2026-10-16T04:40:34.094559Z"
   },
   "CHX49": {
     "route": null,
@@ -6577,17 +6577,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-15T04:20:31.355182Z"
-  },
-  "WZZ463H": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Liverpool",
-      "toIata": "LPL",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-14T04:40:33.552927Z"
   },
   "CAT9643": {
     "route": null,
@@ -12533,5 +12522,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T04:35:26.595539Z"
+  },
+  "NSZ3752": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T04:40:34.094559Z"
   }
 }
