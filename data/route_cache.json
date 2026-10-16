@@ -816,7 +816,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T19:00:58.696523Z"
+    "checked_at": "2026-10-16T19:00:52.899805Z"
   },
   "RYR3RD": {
     "route": {
@@ -4226,7 +4226,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-15T18:55:26.801687Z"
+    "checked_at": "2026-10-16T19:00:52.899805Z"
   },
   "VLG1887": {
     "route": {
@@ -9925,7 +9925,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-15T18:55:26.801687Z"
+    "checked_at": "2026-10-16T19:00:52.899805Z"
   },
   "VKG563": {
     "route": {
@@ -9947,7 +9947,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-15T19:00:58.696523Z"
+    "checked_at": "2026-10-16T19:00:52.899805Z"
   },
   "RYR4DZ": {
     "route": {
@@ -13052,5 +13052,27 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-16T18:50:30.703347Z"
+  },
+  "BTI696": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-16T19:00:52.899805Z"
+  },
+  "ASL44H": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-16T19:00:52.899805Z"
   }
 }
