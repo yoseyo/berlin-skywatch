@@ -1909,7 +1909,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-15T09:35:26.614255Z"
+    "checked_at": "2026-10-16T09:35:26.056039Z"
   },
   "RYR3NJ": {
     "route": {
@@ -3451,7 +3451,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-10-15T09:55:27.729560Z"
+    "checked_at": "2026-10-16T09:35:26.056039Z"
   },
   "BAW87AM": {
     "route": {
@@ -6556,21 +6556,6 @@
     },
     "checked_at": "2026-10-16T09:15:32.101048Z"
   },
-  "EJU95RP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-14T09:35:25.136616Z"
-  },
-  "FRO1917": {
-    "route": null,
-    "checked_at": "2026-10-14T09:35:25.136616Z"
-  },
   "TIE300J": {
     "route": null,
     "checked_at": "2026-10-14T09:40:29.267253Z"
@@ -9450,7 +9435,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-15T08:15:32.558055Z"
+    "checked_at": "2026-10-16T09:35:26.056039Z"
   },
   "RYR939": {
     "route": {
@@ -9832,7 +9817,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-15T10:00:57.719018Z"
+    "checked_at": "2026-10-16T09:35:26.056039Z"
   },
   "CFG8DF": {
     "route": {
@@ -12839,5 +12824,16 @@
   "TOY431": {
     "route": null,
     "checked_at": "2026-10-16T09:30:48.147739Z"
+  },
+  "EZY3162": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paisley, Renfrewshire",
+      "toIata": "GLA",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-16T09:35:26.056039Z"
   }
 }
