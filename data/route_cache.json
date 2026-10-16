@@ -67,7 +67,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-15T14:30:49.726613Z"
+    "checked_at": "2026-10-16T13:25:26.414005Z"
   },
   "SXS1VZ": {
     "route": {
@@ -2518,7 +2518,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-15T13:45:35.427323Z"
+    "checked_at": "2026-10-16T13:25:26.414005Z"
   },
   "RYR8WT": {
     "route": {
@@ -5716,10 +5716,6 @@
     "route": null,
     "checked_at": "2026-10-14T18:20:32.172093Z"
   },
-  "CHX39": {
-    "route": null,
-    "checked_at": "2026-10-14T13:25:23.507814Z"
-  },
   "EWG5SP": {
     "route": {
       "fromCity": "Berlin",
@@ -5981,17 +5977,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-15T15:10:36.142582Z"
-  },
-  "RYR6FD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-14T13:25:23.507814Z"
   },
   "THY2NZ": {
     "route": {
@@ -12685,5 +12670,27 @@
   "EFD1E": {
     "route": null,
     "checked_at": "2026-10-16T13:20:35.402243Z"
+  },
+  "CFG3UX": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-16T13:25:26.414005Z"
+  },
+  "WZZ9EN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-16T13:25:26.414005Z"
   }
 }
