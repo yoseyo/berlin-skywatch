@@ -6911,17 +6911,6 @@
     },
     "checked_at": "2026-10-15T12:00:58.940289Z"
   },
-  "RYR85CE": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-14T21:20:34.304387Z"
-  },
   "SDR33WB": {
     "route": {
       "fromCity": "Gran Canaria Island",
@@ -13173,5 +13162,27 @@
   "SXS8NX": {
     "route": null,
     "checked_at": "2026-10-16T21:20:30.060105Z"
+  },
+  "SWR53Q": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-16T21:25:23.447830Z"
+  },
+  "BCS8EL": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-16T21:25:23.447830Z"
   }
 }
