@@ -2562,7 +2562,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T13:25:29.263790Z"
+    "checked_at": "2026-10-16T13:45:32.772714Z"
   },
   "RYR103K": {
     "route": {
@@ -5443,17 +5443,6 @@
     },
     "checked_at": "2026-10-15T19:55:25.791115Z"
   },
-  "RYR2TL": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-14T13:45:30.420072Z"
-  },
   "SWT9ER": {
     "route": {
       "fromCity": "Berlin",
@@ -6650,17 +6639,6 @@
   "RYR26YA": {
     "route": null,
     "checked_at": "2026-10-15T13:25:29.263790Z"
-  },
-  "NSZ9EF": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-14T13:45:30.420072Z"
   },
   "PWF1837": {
     "route": null,
@@ -12733,5 +12711,20 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-16T13:40:33.793639Z"
+  },
+  "TVF51KY": {
+    "route": {
+      "fromCity": "Nantes",
+      "fromIata": "NTE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-16T13:45:32.772714Z"
+  },
+  "SPJMP": {
+    "route": null,
+    "checked_at": "2026-10-16T13:45:32.772714Z"
   }
 }
