@@ -306,7 +306,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T15:30:49.931798Z"
+    "checked_at": "2026-10-16T15:40:35.545909Z"
   },
   "THY3ZA": {
     "route": {
@@ -5931,7 +5931,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T15:25:26.357146Z"
+    "checked_at": "2026-10-16T15:40:35.545909Z"
   },
   "FIN2K": {
     "route": {
@@ -9723,7 +9723,7 @@
   },
   "DMAAC": {
     "route": null,
-    "checked_at": "2026-10-15T14:55:26.010187Z"
+    "checked_at": "2026-10-16T15:40:35.545909Z"
   },
   "RYR3U": {
     "route": {
@@ -12969,5 +12969,49 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-16T15:35:28.313757Z"
+  },
+  "EWG2WY": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-16T15:40:35.545909Z"
+  },
+  "THY3351": {
+    "route": {
+      "fromCity": "Van",
+      "fromIata": "VAN",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-16T15:40:35.545909Z"
+  },
+  "RYR2962": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-16T15:40:35.545909Z"
+  },
+  "RYR95CH": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-16T15:40:35.545909Z"
   }
 }
