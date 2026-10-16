@@ -1964,7 +1964,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T11:25:27.405566Z"
+    "checked_at": "2026-10-16T09:45:32.591562Z"
   },
   "RYR4PT": {
     "route": {
@@ -6052,17 +6052,6 @@
     "route": null,
     "checked_at": "2026-10-14T15:15:33.653058Z"
   },
-  "EJU58DM": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-14T09:45:30.002703Z"
-  },
   "CCA935": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -6555,17 +6544,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-16T09:15:32.101048Z"
-  },
-  "EJU31MK": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-14T09:45:30.002703Z"
   },
   "SDR14YL": {
     "route": {
@@ -12820,5 +12798,35 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-16T09:35:26.056039Z"
+  },
+  "EJU79XD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-16T09:45:32.591562Z"
+  },
+  "DMPCR": {
+    "route": null,
+    "checked_at": "2026-10-16T09:45:32.591562Z"
+  },
+  "FIN8KR": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-16T09:45:32.591562Z"
+  },
+  "DKHJL": {
+    "route": null,
+    "checked_at": "2026-10-16T09:45:32.591562Z"
   }
 }
