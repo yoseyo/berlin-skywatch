@@ -1348,7 +1348,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T04:50:31.995057Z"
+    "checked_at": "2026-10-16T15:01:10.059524Z"
   },
   "WZZ84": {
     "route": {
@@ -3157,7 +3157,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T20:30:49.891056Z"
+    "checked_at": "2026-10-16T15:01:10.059524Z"
   },
   "RYR303F": {
     "route": {
@@ -3348,7 +3348,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-14T15:40:31.563601Z"
+    "checked_at": "2026-10-16T15:01:10.059524Z"
   },
   "EJU32RT": {
     "route": null,
@@ -8803,7 +8803,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T09:40:34.849858Z"
+    "checked_at": "2026-10-16T15:01:10.059524Z"
   },
   "RYR47GB": {
     "route": {
@@ -12834,5 +12834,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T14:55:24.882257Z"
+  },
+  "NSZ72N": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T15:01:10.059524Z"
+  },
+  "CCA957": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-16T15:01:10.059524Z"
+  },
+  "EWG72F": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-16T15:01:10.059524Z"
   }
 }
