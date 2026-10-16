@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "RYR55HD",
+      "country": "Poland",
+      "lat": 52.9027,
+      "lon": 13.64,
+      "altKm": 11.6,
+      "speedKmh": 858,
+      "heading": 120,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4105,
-      "lon": 13.5614,
+      "lat": 52.4242,
+      "lon": 13.5717,
       "altKm": 0.6,
-      "speedKmh": 121,
-      "heading": 275,
+      "speedKmh": 135,
+      "heading": 103,
       "vertRateMs": 0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-16T21:50:29.205225Z"
+  "updated_at": "2026-10-16T21:51:48.873550Z"
 }
