@@ -794,7 +794,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-15T19:50:33.382199Z"
+    "checked_at": "2026-10-16T19:40:30.725633Z"
   },
   "KLC1335": {
     "route": {
@@ -2661,7 +2661,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-15T19:55:25.791115Z"
+    "checked_at": "2026-10-16T19:40:30.725633Z"
   },
   "EJU84GR": {
     "route": {
@@ -6822,10 +6822,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-15T10:15:34.591962Z"
-  },
-  "NJE289N": {
-    "route": null,
-    "checked_at": "2026-10-14T19:40:30.356778Z"
   },
   "EJU49CR": {
     "route": {
@@ -13070,5 +13066,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-16T19:35:23.435068Z"
+  },
+  "ASL72D": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-16T19:40:30.725633Z"
   }
 }
