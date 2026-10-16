@@ -695,7 +695,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-15T18:25:25.480108Z"
+    "checked_at": "2026-10-16T18:40:30.741767Z"
   },
   "EWG5JH": {
     "route": {
@@ -4619,7 +4619,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-14T18:45:30.263201Z"
+    "checked_at": "2026-10-16T18:40:30.741767Z"
   },
   "BEL9NK": {
     "route": {
@@ -5942,7 +5942,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-14T19:15:32.086438Z"
+    "checked_at": "2026-10-16T18:40:30.741767Z"
   },
   "ADZ3907": {
     "route": {
@@ -6767,28 +6767,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-15T18:45:32.849127Z"
-  },
-  "SDR15XL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-14T18:35:26.121008Z"
-  },
-  "RYR5074": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-14T18:35:26.121008Z"
   },
   "TGZ781": {
     "route": {
@@ -13096,5 +13074,27 @@
   "DGJ567": {
     "route": null,
     "checked_at": "2026-10-16T18:25:23.072823Z"
+  },
+  "LOT4CN": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-16T18:40:30.741767Z"
+  },
+  "RYR8603": {
+    "route": {
+      "fromCity": "Weeze",
+      "fromIata": "NRN",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-16T18:40:30.741767Z"
   }
 }
