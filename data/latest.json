@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-16T02:35:24.716880Z"
+  "flights": [
+    {
+      "callsign": "FLI9160",
+      "country": "Denmark",
+      "lat": 52.1544,
+      "lon": 12.7856,
+      "altKm": 12.4,
+      "speedKmh": 886,
+      "heading": 149,
+      "vertRateMs": 0,
+      "airline": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands",
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-16T02:40:32.394078Z"
 }
