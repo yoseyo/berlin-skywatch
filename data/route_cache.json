@@ -3124,7 +3124,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-15T14:25:25.872223Z"
+    "checked_at": "2026-10-16T14:40:34.085687Z"
   },
   "RYR67ZT": {
     "route": {
@@ -3304,7 +3304,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T12:00:58.940289Z"
+    "checked_at": "2026-10-16T14:40:34.085687Z"
   },
   "LOT286": {
     "route": {
@@ -6661,32 +6661,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-15T14:35:27.606019Z"
-  },
-  "BLX364": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-14T14:40:32.654446Z"
-  },
-  "GAF831": {
-    "route": null,
-    "checked_at": "2026-10-14T14:40:32.654446Z"
-  },
-  "RYR31MR": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-14T14:40:32.654446Z"
   },
   "RYR4MD": {
     "route": {
@@ -12808,5 +12782,16 @@
   "DMSAT": {
     "route": null,
     "checked_at": "2026-10-16T14:35:24.277002Z"
+  },
+  "NSZ2FT": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T14:40:34.085687Z"
   }
 }
