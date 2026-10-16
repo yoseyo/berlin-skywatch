@@ -1645,7 +1645,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-15T08:05:26.345981Z"
+    "checked_at": "2026-10-16T08:00:53.991004Z"
   },
   "AUA225B": {
     "route": {
@@ -6047,17 +6047,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-15T09:10:35.210386Z"
-  },
-  "DCOLT": {
-    "route": {
-      "fromCity": "Dresden",
-      "fromIata": "DRS",
-      "toCity": "Dortmund",
-      "toIata": "DTM",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-14T07:58:14.060491Z"
   },
   "DLH3TT": {
     "route": {
@@ -12778,5 +12767,16 @@
   "HRN171": {
     "route": null,
     "checked_at": "2026-10-16T07:55:26.254800Z"
+  },
+  "EJU92KA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-16T08:00:53.991004Z"
   }
 }
