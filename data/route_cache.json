@@ -6651,28 +6651,6 @@
     },
     "checked_at": "2026-10-16T08:40:35.056247Z"
   },
-  "HLF8822": {
-    "route": {
-      "fromCity": "Vatry",
-      "fromIata": "XCR",
-      "toCity": "Shenzhen (Bao'an)",
-      "toIata": "SZX",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-14T14:05:26.141132Z"
-  },
-  "JFA30H": {
-    "route": {
-      "fromCity": "Dijon/Longvic",
-      "fromIata": "DIJ",
-      "toCity": "Dijon/Longvic",
-      "toIata": "DIJ",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-14T14:05:26.141132Z"
-  },
   "GAF645": {
     "route": {
       "fromCity": "Stuttgart",
@@ -12859,5 +12837,31 @@
   "HBKJT": {
     "route": null,
     "checked_at": "2026-10-16T14:05:25.779954Z"
+  },
+  "CCA950": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-16T14:10:35.790248Z"
+  },
+  "NJU919F": {
+    "route": null,
+    "checked_at": "2026-10-16T14:10:35.790248Z"
+  },
+  "SDR45EE": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T14:10:35.790248Z"
   }
 }
