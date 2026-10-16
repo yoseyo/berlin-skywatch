@@ -1124,7 +1124,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T05:05:23.892244Z"
+    "checked_at": "2026-10-16T05:05:26.544139Z"
   },
   "DAL92": {
     "route": {
@@ -1157,7 +1157,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-15T06:00:58.637684Z"
+    "checked_at": "2026-10-16T05:05:26.544139Z"
   },
   "AUA240": {
     "route": {
@@ -6134,7 +6134,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-14T09:55:24.563241Z"
+    "checked_at": "2026-10-16T05:05:26.544139Z"
   },
   "SPEMC": {
     "route": null,
@@ -9449,7 +9449,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T05:20:30.070870Z"
+    "checked_at": "2026-10-16T05:05:26.544139Z"
   },
   "WZZ31QC": {
     "route": {
@@ -12540,5 +12540,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T05:00:56.601067Z"
+  },
+  "KLM64F": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-16T05:05:26.544139Z"
+  },
+  "WZZ463H": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Liverpool",
+      "toIata": "LPL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-16T05:05:26.544139Z"
   }
 }
