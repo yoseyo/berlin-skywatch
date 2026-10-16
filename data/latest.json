@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "SRN1988",
+      "country": "Poland",
+      "lat": 52.1091,
+      "lon": 13.5206,
+      "altKm": 6.7,
+      "speedKmh": 490,
+      "heading": 67,
+      "vertRateMs": 0,
+      "airline": "Sirair",
+      "airlineCountry": "Russia",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "category": "plane"
+    },
+    {
       "callsign": "SWT3WZ",
       "country": "Spain",
-      "lat": 52.4016,
-      "lon": 13.8895,
-      "altKm": 1.9,
-      "speedKmh": 486,
-      "heading": 5,
-      "vertRateMs": -5.2,
+      "lat": 52.3887,
+      "lon": 13.5736,
+      "altKm": 0.3,
+      "speedKmh": 256,
+      "heading": 249,
+      "vertRateMs": -3.9,
       "airline": "Swiftair",
       "airlineCountry": "Spain",
       "fromCity": "Paris",
@@ -18,12 +35,29 @@
       "category": "plane"
     },
     {
+      "callsign": "BCS9CG",
+      "country": "Ireland",
+      "lat": 52.9065,
+      "lon": 12.9434,
+      "altKm": 10.5,
+      "speedKmh": 860,
+      "heading": 23,
+      "vertRateMs": 0,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "category": "plane"
+    },
+    {
       "callsign": "AEE6186",
       "country": "Greece",
-      "lat": 52.2984,
-      "lon": 13.5445,
-      "altKm": 12.1,
-      "speedKmh": 767,
+      "lat": 52.8333,
+      "lon": 13.5201,
+      "altKm": 12.0,
+      "speedKmh": 776,
       "heading": 358,
       "vertRateMs": 0,
       "airline": "Aegean Airlines",
@@ -35,5 +69,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-16T03:30:44.927908Z"
+  "updated_at": "2026-10-16T03:35:24.491046Z"
 }
