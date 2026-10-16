@@ -2892,7 +2892,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-15T20:20:36.275074Z"
+    "checked_at": "2026-10-16T20:00:54.651959Z"
   },
   "SAS1673": {
     "route": {
@@ -3183,7 +3183,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-15T20:10:34.285774Z"
+    "checked_at": "2026-10-16T20:00:54.651959Z"
   },
   "EZY39MB": {
     "route": {
@@ -4494,7 +4494,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T16:20:35.074086Z"
+    "checked_at": "2026-10-16T20:00:54.651959Z"
   },
   "FIN33A": {
     "route": {
@@ -9169,7 +9169,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T14:50:36.743260Z"
+    "checked_at": "2026-10-16T20:00:54.651959Z"
   },
   "BTI26R": {
     "route": {
@@ -13088,5 +13088,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-16T19:55:25.762987Z"
+  },
+  "RYR7RJ": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-16T20:00:54.651959Z"
+  },
+  "UPS273": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Louisville",
+      "toIata": "SDF",
+      "airlineName": "United Parcel Service",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-16T20:00:54.651959Z"
+  },
+  "RYR8602": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-16T20:00:54.651959Z"
   }
 }
