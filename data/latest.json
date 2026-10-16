@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-16T01:15:29.601578Z"
+  "flights": [
+    {
+      "callsign": "RAM220M",
+      "country": "Morocco",
+      "lat": 52.9178,
+      "lon": 13.5714,
+      "altKm": 11.4,
+      "speedKmh": 877,
+      "heading": 65,
+      "vertRateMs": 0,
+      "airline": "Royal Air Maroc",
+      "airlineCountry": "Morocco",
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "DME",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-16T01:20:31.329779Z"
 }
