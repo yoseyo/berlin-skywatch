@@ -926,7 +926,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T16:10:34.673550Z"
+    "checked_at": "2026-10-16T16:10:33.561472Z"
   },
   "DLH4T": {
     "route": {
@@ -3168,7 +3168,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T16:50:36.166188Z"
+    "checked_at": "2026-10-16T16:10:33.561472Z"
   },
   "AFR17RZ": {
     "route": null,
@@ -3840,7 +3840,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-15T16:01:02.268532Z"
+    "checked_at": "2026-10-16T16:10:33.561472Z"
   },
   "BTI6UN": {
     "route": {
@@ -4571,7 +4571,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T19:20:34.388090Z"
+    "checked_at": "2026-10-16T16:10:33.561472Z"
   },
   "CFE7026": {
     "route": {
@@ -6723,17 +6723,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-16T15:55:25.211536Z"
-  },
-  "WZZ691": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "BGY",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-14T16:05:25.827633Z"
   },
   "NSZ2902": {
     "route": {
@@ -9960,7 +9949,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-15T16:20:35.074086Z"
+    "checked_at": "2026-10-16T16:10:33.561472Z"
   },
   "LOT3JK": {
     "route": {
@@ -13051,5 +13040,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-16T16:05:24.913530Z"
+  },
+  "NJE810P": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "RKE",
+      "toCity": "Copenhagen",
+      "toIata": "RKE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-16T16:10:33.561472Z"
+  },
+  "SAS55N": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-16T16:10:33.561472Z"
+  },
+  "EWG3GH": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-16T16:10:33.561472Z"
   }
 }
