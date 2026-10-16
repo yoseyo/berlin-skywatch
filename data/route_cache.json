@@ -1080,7 +1080,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T05:20:30.070870Z"
+    "checked_at": "2026-10-16T04:30:45.873751Z"
   },
   "KLC80U": {
     "route": {
@@ -1091,7 +1091,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-15T04:30:42.077742Z"
+    "checked_at": "2026-10-16T04:30:45.873751Z"
   },
   "IBE07BZ": {
     "route": {
@@ -6577,17 +6577,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-15T04:20:31.355182Z"
-  },
-  "SXS6PQ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-14T04:30:42.754302Z"
   },
   "WZZ463H": {
     "route": {
@@ -12507,5 +12496,20 @@
   "EJU5015": {
     "route": null,
     "checked_at": "2026-10-16T04:10:32.048862Z"
+  },
+  "SDR10TK": {
+    "route": null,
+    "checked_at": "2026-10-16T04:30:45.873751Z"
+  },
+  "UPS272": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "United Parcel Service",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-16T04:30:45.873751Z"
   }
 }
