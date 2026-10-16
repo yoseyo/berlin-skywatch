@@ -706,7 +706,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T18:25:25.480108Z"
+    "checked_at": "2026-10-16T19:10:33.541555Z"
   },
   "BAW846W": {
     "route": {
@@ -739,7 +739,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T18:50:35.135406Z"
+    "checked_at": "2026-10-16T19:10:33.541555Z"
   },
   "LOT1LH": {
     "route": {
@@ -4571,7 +4571,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-15T11:40:34.612132Z"
+    "checked_at": "2026-10-16T19:10:33.541555Z"
   },
   "EWG8ZG": {
     "route": {
@@ -6789,10 +6789,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-15T19:05:25.840922Z"
-  },
-  "KMM377": {
-    "route": null,
-    "checked_at": "2026-10-14T19:05:26.555070Z"
   },
   "EJU5018": {
     "route": {
@@ -13085,5 +13081,27 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-16T19:05:24.790325Z"
+  },
+  "CTN4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-16T19:10:33.541555Z"
+  },
+  "RYR44PB": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-16T19:10:33.541555Z"
   }
 }
