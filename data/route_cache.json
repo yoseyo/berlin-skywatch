@@ -1612,7 +1612,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T08:30:45.079409Z"
+    "checked_at": "2026-10-17T08:55:21.391819Z"
   },
   "DLH4X": {
     "route": {
@@ -2738,7 +2738,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-16T07:30:45.679863Z"
+    "checked_at": "2026-10-17T08:55:21.391819Z"
   },
   "UAL963": {
     "route": {
@@ -7025,17 +7025,6 @@
     },
     "checked_at": "2026-10-17T08:25:20.665513Z"
   },
-  "EJU5052": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-15T08:50:34.224115Z"
-  },
   "EJU83GC": {
     "route": {
       "fromCity": "Split",
@@ -10359,7 +10348,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T09:55:25.131148Z"
+    "checked_at": "2026-10-17T08:55:21.391819Z"
   },
   "ECC653": {
     "route": null,
@@ -13279,5 +13268,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T08:50:28.824919Z"
+  },
+  "EWG71C": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T08:55:21.391819Z"
+  },
+  "EWG47Z": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T08:55:21.391819Z"
   }
 }
