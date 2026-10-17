@@ -1634,7 +1634,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-16T08:00:53.991004Z"
+    "checked_at": "2026-10-17T08:00:51.389713Z"
   },
   "AUA225B": {
     "route": {
@@ -1645,7 +1645,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T08:25:24.422656Z"
+    "checked_at": "2026-10-17T08:00:51.389713Z"
   },
   "EJU32JG": {
     "route": {
@@ -6992,10 +6992,6 @@
     },
     "checked_at": "2026-10-16T08:05:24.876141Z"
   },
-  "DEOEL": {
-    "route": null,
-    "checked_at": "2026-10-15T07:55:25.266086Z"
-  },
   "DFTOM": {
     "route": null,
     "checked_at": "2026-10-15T08:05:26.345981Z"
@@ -10099,7 +10095,7 @@
   },
   "PHMUE": {
     "route": null,
-    "checked_at": "2026-10-16T07:35:26.072787Z"
+    "checked_at": "2026-10-17T08:00:51.389713Z"
   },
   "SXS9XP": {
     "route": {
@@ -13281,5 +13277,38 @@
   "NJE483G": {
     "route": null,
     "checked_at": "2026-10-17T07:54:12.909274Z"
+  },
+  "DEMLF": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "M\u00f6nchengladbach",
+      "toIata": "MGL",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-17T08:00:51.389713Z"
+  },
+  "EJU3948": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T08:00:51.389713Z"
+  },
+  "RYR415W": {
+    "route": {
+      "fromCity": "Bydgoszcz",
+      "fromIata": "BZG",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T08:00:51.389713Z"
   }
 }
