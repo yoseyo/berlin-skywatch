@@ -5676,17 +5676,6 @@
     },
     "checked_at": "2026-10-16T14:30:51.291564Z"
   },
-  "NGN7904": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "LEAV Aviation",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T21:10:33.998924Z"
-  },
   "GAF860": {
     "route": null,
     "checked_at": "2026-10-16T10:20:39.161171Z"
@@ -7109,21 +7098,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T14:05:25.779954Z"
-  },
-  "UPC6004": {
-    "route": null,
-    "checked_at": "2026-10-15T21:10:33.998924Z"
-  },
-  "WZZ90BV": {
-    "route": {
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-15T21:10:33.998924Z"
   },
   "RYR83CH": {
     "route": {
@@ -13485,5 +13459,27 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-17T21:10:30.353903Z"
+  },
+  "EJU78LB": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T21:15:30.479139Z"
+  },
+  "NOZ1911": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-17T21:15:30.479139Z"
   }
 }
