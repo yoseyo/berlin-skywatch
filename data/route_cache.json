@@ -1124,7 +1124,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-16T05:35:25.241001Z"
+    "checked_at": "2026-10-17T05:25:23.289490Z"
   },
   "DLH7XV": {
     "route": {
@@ -6969,17 +6969,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T04:55:21.056400Z"
-  },
-  "WZZ31QC": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-15T05:20:30.070870Z"
   },
   "DEWLS": {
     "route": null,
@@ -13210,5 +13199,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T05:20:27.091332Z"
+  },
+  "WZZ9389": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-17T05:25:23.289490Z"
   }
 }
