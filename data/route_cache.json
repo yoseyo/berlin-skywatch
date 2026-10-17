@@ -3730,7 +3730,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-16T19:35:23.435068Z"
+    "checked_at": "2026-10-17T19:30:41.984558Z"
   },
   "DLH2WR": {
     "route": {
@@ -7055,17 +7055,6 @@
     },
     "checked_at": "2026-10-17T07:25:22.142948Z"
   },
-  "CFG2FH": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T19:25:25.407330Z"
-  },
   "BAW997T": {
     "route": {
       "fromCity": "Berlin",
@@ -7076,17 +7065,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-16T19:25:25.165923Z"
-  },
-  "RYR19ZZ": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T19:25:25.407330Z"
   },
   "NSZ4508": {
     "route": {
@@ -13375,5 +13353,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T19:20:29.245747Z"
+  },
+  "EJU67GK": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T19:30:41.984558Z"
+  },
+  "NIA6388": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-17T19:30:41.984558Z"
   }
 }
