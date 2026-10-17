@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "NSZ3749",
+      "country": "Sweden",
+      "lat": 52.7182,
+      "lon": 13.5871,
+      "altKm": 11.8,
+      "speedKmh": 882,
+      "heading": 348,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
       "callsign": "EJU78LB",
       "country": "Austria",
-      "lat": 52.5466,
-      "lon": 12.7799,
-      "altKm": 5.4,
-      "speedKmh": 646,
-      "heading": 89,
-      "vertRateMs": -7.8,
+      "lat": 52.5367,
+      "lon": 13.4892,
+      "altKm": 3.2,
+      "speedKmh": 530,
+      "heading": 97,
+      "vertRateMs": -9.1,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Funchal",
@@ -16,24 +33,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "NOZ1911",
-      "country": "Norway",
-      "lat": 52.4695,
-      "lon": 14.0884,
-      "altKm": 11.8,
-      "speedKmh": 850,
-      "heading": 347,
-      "vertRateMs": 0,
-      "airline": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway",
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-17T21:15:30.479139Z"
+  "updated_at": "2026-10-17T21:20:28.379969Z"
 }
