@@ -2276,7 +2276,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-15T12:25:26.960073Z"
+    "checked_at": "2026-10-17T12:30:41.996760Z"
   },
   "QTR37K": {
     "route": {
@@ -2793,7 +2793,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-15T12:30:47.926347Z"
+    "checked_at": "2026-10-17T12:30:41.996760Z"
   },
   "EIN33T": {
     "route": {
@@ -2912,17 +2912,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T15:15:32.948602Z"
-  },
-  "CHH490": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Hainan Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-15T12:25:26.960073Z"
   },
   "EWG7RB": {
     "route": {
@@ -6936,17 +6925,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T10:55:25.628475Z"
-  },
-  "RYR1CZ": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T12:25:26.960073Z"
   },
   "BLX314": {
     "route": {
@@ -13121,5 +13099,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T12:25:22.883482Z"
+  },
+  "CTN432": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-17T12:30:41.996760Z"
+  },
+  "SAS37L": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T12:30:41.996760Z"
   }
 }
