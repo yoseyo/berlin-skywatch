@@ -6904,21 +6904,6 @@
     },
     "checked_at": "2026-10-17T11:35:25.370748Z"
   },
-  "FCA1MA": {
-    "route": null,
-    "checked_at": "2026-10-15T13:00:58.449177Z"
-  },
-  "CES5064": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Xi'an",
-      "toIata": "XIY",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-15T13:00:58.449177Z"
-  },
   "EJU5367": {
     "route": {
       "fromCity": "Berlin",
@@ -6928,11 +6913,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T13:00:58.449177Z"
-  },
-  "N562M": {
-    "route": null,
-    "checked_at": "2026-10-15T13:00:58.449177Z"
+    "checked_at": "2026-10-17T13:05:22.400777Z"
   },
   "SFG55A": {
     "route": null,
@@ -13102,5 +13083,27 @@
   "JTD492": {
     "route": null,
     "checked_at": "2026-10-17T13:00:51.554023Z"
+  },
+  "DLH9MH": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T13:05:22.400777Z"
+  },
+  "EJU83ZK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T13:05:22.400777Z"
   }
 }
