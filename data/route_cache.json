@@ -1733,7 +1733,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-16T10:35:24.549000Z"
+    "checked_at": "2026-10-17T09:45:26.981083Z"
   },
   "BEL8CE": {
     "route": {
@@ -1843,7 +1843,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T09:40:34.392459Z"
+    "checked_at": "2026-10-17T09:45:26.981083Z"
   },
   "LOT266": {
     "route": {
@@ -1854,7 +1854,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-16T09:30:48.147739Z"
+    "checked_at": "2026-10-17T09:45:26.981083Z"
   },
   "LOT3JA": {
     "route": {
@@ -6999,17 +6999,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T15:01:10.059524Z"
-  },
-  "RYR47GB": {
-    "route": {
-      "fromCity": "Olsztyn",
-      "fromIata": "SZY",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T09:40:34.849858Z"
   },
   "LOT5N": {
     "route": {
@@ -13187,5 +13176,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T09:40:27.461831Z"
+  },
+  "FIN1802": {
+    "route": {
+      "fromCity": "Verona",
+      "fromIata": "VRN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-17T09:45:26.981083Z"
+  },
+  "RYR8742": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Trieste",
+      "toIata": "TRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T09:45:26.981083Z"
+  },
+  "LBT2335": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Djerba",
+      "toIata": "DJE",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-17T09:45:26.981083Z"
+  },
+  "WZZ54P": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-17T09:45:26.981083Z"
   }
 }
