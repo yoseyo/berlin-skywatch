@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-17T22:20:31.683038Z"
+  "flights": [
+    {
+      "callsign": "NOZ5LB",
+      "country": "Norway",
+      "lat": 52.549,
+      "lon": 13.3726,
+      "altKm": 11.2,
+      "speedKmh": 851,
+      "heading": 339,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR1ZR",
+      "country": "Poland",
+      "lat": 52.426,
+      "lon": 13.6346,
+      "altKm": 10.9,
+      "speedKmh": 817,
+      "heading": 98,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-17T22:25:20.993665Z"
 }
