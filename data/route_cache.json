@@ -794,7 +794,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-16T19:55:25.762987Z"
+    "checked_at": "2026-10-17T20:05:23.027561Z"
   },
   "DLH1CJ": {
     "route": {
@@ -7088,17 +7088,6 @@
     },
     "checked_at": "2026-10-17T07:20:28.055853Z"
   },
-  "CSS102": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Los Angeles",
-      "toIata": "LAX",
-      "airlineName": "SF Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-15T20:00:56.031259Z"
-  },
   "EIN33W": {
     "route": {
       "fromCity": "Berlin",
@@ -7108,7 +7097,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T20:20:31.622124Z"
+    "checked_at": "2026-10-17T20:05:23.027561Z"
   },
   "WZZ3072": {
     "route": {
@@ -13397,5 +13386,49 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T19:55:21.764996Z"
+  },
+  "WZZ4BB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-17T20:05:23.027561Z"
+  },
+  "SAS96T": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T20:05:23.027561Z"
+  },
+  "RYR7DR": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Newcastle",
+      "toIata": "NCL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T20:05:23.027561Z"
+  },
+  "EWG1908": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T20:05:23.027561Z"
   }
 }
