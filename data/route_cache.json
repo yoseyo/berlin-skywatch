@@ -100,7 +100,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T14:30:51.291564Z"
+    "checked_at": "2026-10-17T10:55:22.596817Z"
   },
   "RYR1SM": {
     "route": {
@@ -5010,17 +5010,6 @@
     },
     "checked_at": "2026-10-16T18:25:23.072823Z"
   },
-  "BAW99XC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-15T10:50:35.119045Z"
-  },
   "NSZ2067": {
     "route": {
       "fromCity": "Prague",
@@ -5362,17 +5351,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-16T10:55:25.628475Z"
-  },
-  "SAS67W": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T10:50:35.119045Z"
   },
   "NOZ1123": {
     "route": {
@@ -6988,17 +6966,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-16T10:25:26.964576Z"
-  },
-  "NSZ4501": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T10:50:35.119045Z"
   },
   "CES786": {
     "route": {
@@ -13172,5 +13139,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T10:45:28.487502Z"
+  },
+  "MSC2970": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Air Cairo",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-17T10:55:22.596817Z"
+  },
+  "THY9RZ": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T10:55:22.596817Z"
+  },
+  "RYR4TR": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T10:55:22.596817Z"
   }
 }
