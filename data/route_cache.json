@@ -137,7 +137,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-10-16T05:35:25.241001Z"
+    "checked_at": "2026-10-17T06:05:22.409952Z"
   },
   "SXS8TG": {
     "route": {
@@ -1282,7 +1282,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T07:00:59.065355Z"
+    "checked_at": "2026-10-17T06:05:22.409952Z"
   },
   "RYR120T": {
     "route": {
@@ -3080,7 +3080,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T06:10:34.663136Z"
+    "checked_at": "2026-10-17T06:05:22.409952Z"
   },
   "NSZ4505": {
     "route": {
@@ -5395,17 +5395,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-15T06:15:32.514827Z"
-  },
-  "PGT17GP": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-15T06:00:58.637684Z"
   },
   "FIN1AB": {
     "route": {
@@ -13184,5 +13173,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-17T06:00:49.879059Z"
+  },
+  "DLH2606": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T06:05:22.409952Z"
   }
 }
