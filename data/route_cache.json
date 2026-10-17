@@ -181,7 +181,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T14:15:32.069412Z"
+    "checked_at": "2026-10-17T14:20:30.404055Z"
   },
   "CHX82": {
     "route": null,
@@ -1458,7 +1458,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T04:50:33.980159Z"
+    "checked_at": "2026-10-17T14:20:30.404055Z"
   },
   "THY4VH": {
     "route": {
@@ -4861,7 +4861,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T14:20:36.816160Z"
+    "checked_at": "2026-10-17T14:20:30.404055Z"
   },
   "SAS55L": {
     "route": {
@@ -6936,14 +6936,6 @@
   "QGA01A": {
     "route": null,
     "checked_at": "2026-10-16T07:35:26.072787Z"
-  },
-  "NJE347F": {
-    "route": null,
-    "checked_at": "2026-10-15T14:15:39.853160Z"
-  },
-  "NJE712A": {
-    "route": null,
-    "checked_at": "2026-10-15T14:15:39.853160Z"
   },
   "SAS81L": {
     "route": {
@@ -13198,5 +13190,27 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-17T14:15:28.061081Z"
+  },
+  "BTI7NV": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-17T14:20:30.404055Z"
+  },
+  "RYR9092": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T14:20:30.404055Z"
   }
 }
