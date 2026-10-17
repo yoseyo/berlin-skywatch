@@ -1887,7 +1887,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T04:00:54.057082Z"
+    "checked_at": "2026-10-17T13:45:28.795123Z"
   },
   "DLH9KK": {
     "route": {
@@ -2419,7 +2419,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T13:15:33.375156Z"
+    "checked_at": "2026-10-17T13:45:28.795123Z"
   },
   "WMT9SW": {
     "route": {
@@ -4753,17 +4753,6 @@
     },
     "checked_at": "2026-10-15T18:05:30.393473Z"
   },
-  "EWG2RM": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T13:40:32.881440Z"
-  },
   "FIN01AD": {
     "route": {
       "fromCity": "Barcelona",
@@ -5535,10 +5524,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-16T07:15:33.721449Z"
-  },
-  "FGSOM": {
-    "route": null,
-    "checked_at": "2026-10-15T13:40:32.881440Z"
   },
   "SXS6WA": {
     "route": {
@@ -13126,5 +13111,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T13:40:29.041158Z"
+  },
+  "CFC2910": {
+    "route": null,
+    "checked_at": "2026-10-17T13:45:28.795123Z"
+  },
+  "RYR7664": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T13:45:28.795123Z"
   }
 }
