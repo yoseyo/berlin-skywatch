@@ -6937,32 +6937,6 @@
     "route": null,
     "checked_at": "2026-10-16T07:35:26.072787Z"
   },
-  "TWI356": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Tailwind Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-15T13:55:26.081037Z"
-  },
-  "NOZ8LY": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-15T13:55:26.081037Z"
-  },
-  "N125ME": {
-    "route": null,
-    "checked_at": "2026-10-15T13:55:26.081037Z"
-  },
   "DGACR": {
     "route": null,
     "checked_at": "2026-10-15T14:05:28.857119Z"
@@ -9811,7 +9785,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T13:50:35.405267Z"
+    "checked_at": "2026-10-17T14:00:50.931516Z"
   },
   "THY3350": {
     "route": {
@@ -11090,7 +11064,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T20:35:23.785642Z"
+    "checked_at": "2026-10-17T14:00:50.931516Z"
   },
   "RYR1155": {
     "route": {
@@ -13133,5 +13107,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T13:50:32.954682Z"
+  },
+  "EJU84GR": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Mykonos Island",
+      "toIata": "JMK",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T14:00:50.931516Z"
+  },
+  "AEE4576": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Troms\u00f8",
+      "toIata": "TOS",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-17T14:00:50.931516Z"
+  },
+  "DLH715": {
+    "route": {
+      "fromCity": "Tokyo",
+      "fromIata": "HND",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T14:00:50.931516Z"
   }
 }
