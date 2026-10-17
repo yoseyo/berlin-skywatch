@@ -273,7 +273,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-15T15:25:26.357146Z"
+    "checked_at": "2026-10-17T15:20:32.296343Z"
   },
   "NSZ3303": {
     "route": {
@@ -6978,32 +6978,6 @@
     "route": null,
     "checked_at": "2026-10-17T15:15:27.996969Z"
   },
-  "SDR44PT": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T15:15:32.767412Z"
-  },
-  "DENRE": {
-    "route": null,
-    "checked_at": "2026-10-15T15:15:32.767412Z"
-  },
-  "EJU61PU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-15T15:15:32.767412Z"
-  },
   "IJM666": {
     "route": null,
     "checked_at": "2026-10-16T09:50:35.269102Z"
@@ -13231,5 +13205,16 @@
   "TWI805": {
     "route": null,
     "checked_at": "2026-10-17T15:10:29.953579Z"
+  },
+  "SAS2859": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T15:20:32.296343Z"
   }
 }
