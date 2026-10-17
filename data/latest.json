@@ -1,33 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "RAM240S",
-      "country": "Morocco",
-      "lat": 52.7426,
-      "lon": 13.1342,
-      "altKm": 11.3,
-      "speedKmh": 909,
-      "heading": 63,
-      "vertRateMs": 0,
-      "airline": "Royal Air Maroc",
-      "airlineCountry": "Morocco",
-      "fromCity": "Casablanca",
-      "fromIata": "CMN",
-      "toCity": "St. Petersburg",
-      "toIata": "LED",
-      "category": "plane"
-    },
-    {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.7357,
-      "lon": 13.6364,
+      "lat": 52.8354,
+      "lon": 13.6906,
       "altKm": 0.5,
-      "speedKmh": 216,
-      "heading": 18,
-      "vertRateMs": 0,
+      "speedKmh": 3,
+      "heading": 135,
+      "vertRateMs": -1.0,
       "category": "heli"
+    },
+    {
+      "callsign": "SXS1HF",
+      "country": "Turkey",
+      "lat": 52.3765,
+      "lon": 13.9354,
+      "altKm": 11.9,
+      "speedKmh": 866,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-17T01:45:27.230189Z"
+  "updated_at": "2026-10-17T01:50:27.650190Z"
 }
