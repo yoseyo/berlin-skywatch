@@ -3906,7 +3906,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T18:05:24.122131Z"
+    "checked_at": "2026-10-17T18:10:30.030727Z"
   },
   "KLM1771": {
     "route": {
@@ -4654,17 +4654,6 @@
     },
     "checked_at": "2026-10-17T10:40:30.233691Z"
   },
-  "RYR98AR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T18:05:30.393473Z"
-  },
   "FIN01AD": {
     "route": {
       "fromCity": "Barcelona",
@@ -4762,7 +4751,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T18:25:23.072823Z"
+    "checked_at": "2026-10-17T18:10:30.030727Z"
   },
   "DLH8PN": {
     "route": {
@@ -13323,5 +13312,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T18:05:22.566474Z"
+  },
+  "GAF901": {
+    "route": null,
+    "checked_at": "2026-10-17T18:10:30.030727Z"
+  },
+  "ETH725": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Addis Ababa",
+      "toIata": "ADD",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-17T18:10:30.030727Z"
+  },
+  "AUA972": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T18:10:30.030727Z"
+  },
+  "SDR60YJ": {
+    "route": {
+      "fromCity": "Marsa Alam",
+      "fromIata": "RMF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T18:10:30.030727Z"
   }
 }
