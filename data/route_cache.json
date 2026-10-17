@@ -5846,7 +5846,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-16T08:40:35.056247Z"
+    "checked_at": "2026-10-17T14:15:28.061081Z"
   },
   "GAF645": {
     "route": {
@@ -6936,10 +6936,6 @@
   "QGA01A": {
     "route": null,
     "checked_at": "2026-10-16T07:35:26.072787Z"
-  },
-  "NJE607B": {
-    "route": null,
-    "checked_at": "2026-10-15T14:10:33.748607Z"
   },
   "NJE347F": {
     "route": null,
@@ -8766,7 +8762,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-16T07:20:34.006039Z"
+    "checked_at": "2026-10-17T14:15:28.061081Z"
   },
   "NIA8501": {
     "route": {
@@ -13158,5 +13154,49 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T14:10:30.099402Z"
+  },
+  "TVS4593": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-17T14:15:28.061081Z"
+  },
+  "DLH8HU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Dresden",
+      "toIata": "DRS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T14:15:28.061081Z"
+  },
+  "SXS8VB": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T14:15:28.061081Z"
+  },
+  "IBS1805": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Iberia Express",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-17T14:15:28.061081Z"
   }
 }
