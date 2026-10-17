@@ -4720,17 +4720,6 @@
     },
     "checked_at": "2026-10-17T08:05:23.954261Z"
   },
-  "RYR2SW": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T13:30:46.551052Z"
-  },
   "EWG6TG": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6948,17 +6937,6 @@
     },
     "checked_at": "2026-10-16T04:45:31.595316Z"
   },
-  "VKG177": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-15T13:30:46.551052Z"
-  },
   "WZZ334": {
     "route": {
       "fromCity": "Dortmund",
@@ -6990,7 +6968,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-16T13:35:25.658588Z"
+    "checked_at": "2026-10-17T13:35:22.209399Z"
   },
   "CFG8TD": {
     "route": {
@@ -13089,5 +13067,49 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-17T13:30:41.916804Z"
+  },
+  "NOZ50H": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-17T13:35:22.209399Z"
+  },
+  "CFG3VD": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T13:35:22.209399Z"
+  },
+  "SAH59P": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-17T13:35:22.209399Z"
+  },
+  "LOT2083": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-17T13:35:22.209399Z"
   }
 }
