@@ -5771,17 +5771,6 @@
     },
     "checked_at": "2026-10-15T15:10:36.142582Z"
   },
-  "AEE512": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-15T05:45:30.309048Z"
-  },
   "LHX851": {
     "route": {
       "fromCity": "Helsinki",
@@ -6126,7 +6115,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T16:10:34.673550Z"
+    "checked_at": "2026-10-17T05:50:27.369362Z"
   },
   "RYR13PB": {
     "route": {
@@ -6995,21 +6984,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T04:35:20.867841Z"
-  },
-  "BTI8ZF": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-15T05:45:30.309048Z"
-  },
-  "DIPBB": {
-    "route": null,
-    "checked_at": "2026-10-15T05:45:30.309048Z"
   },
   "ASL49G": {
     "route": {
@@ -13210,5 +13184,27 @@
   "WZZ161": {
     "route": null,
     "checked_at": "2026-10-17T05:40:29.790492Z"
+  },
+  "CFG2CK": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T05:50:27.369362Z"
+  },
+  "WZZ31QC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-17T05:50:27.369362Z"
   }
 }
