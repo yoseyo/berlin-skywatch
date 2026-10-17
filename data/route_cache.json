@@ -2353,7 +2353,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T13:30:48.867186Z"
+    "checked_at": "2026-10-17T12:25:22.883482Z"
   },
   "KLM1314": {
     "route": {
@@ -3807,7 +3807,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T16:30:48.002420Z"
+    "checked_at": "2026-10-17T12:25:22.883482Z"
   },
   "AUA234G": {
     "route": {
@@ -4719,17 +4719,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-16T11:50:33.655400Z"
-  },
-  "LHX1HL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T12:20:35.294964Z"
   },
   "NOZ6TY": {
     "route": {
@@ -13121,5 +13110,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T12:20:29.084284Z"
+  },
+  "EWG44D": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T12:25:22.883482Z"
   }
 }
