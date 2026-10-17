@@ -772,7 +772,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T18:30:45.642470Z"
+    "checked_at": "2026-10-17T18:30:41.574188Z"
   },
   "LOT2MN": {
     "route": {
@@ -3991,7 +3991,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T04:20:32.193615Z"
+    "checked_at": "2026-10-17T18:30:41.574188Z"
   },
   "VLG23BJ": {
     "route": {
@@ -7010,10 +7010,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-16T19:15:31.342873Z"
-  },
-  "AMQ14C": {
-    "route": null,
-    "checked_at": "2026-10-15T18:25:25.480108Z"
   },
   "VJT725": {
     "route": {
@@ -13353,5 +13349,31 @@
   "EJU5424": {
     "route": null,
     "checked_at": "2026-10-17T18:25:22.002595Z"
+  },
+  "TKJ5158": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T18:30:41.574188Z"
+  },
+  "SVI8222": {
+    "route": null,
+    "checked_at": "2026-10-17T18:30:41.574188Z"
+  },
+  "SAS65K": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T18:30:41.574188Z"
   }
 }
