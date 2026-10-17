@@ -6993,10 +6993,6 @@
     },
     "checked_at": "2026-10-17T13:20:29.444170Z"
   },
-  "BLX9435": {
-    "route": null,
-    "checked_at": "2026-10-15T15:30:49.931798Z"
-  },
   "EZY71CX": {
     "route": {
       "fromCity": "Edinburgh",
@@ -13227,5 +13223,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T15:30:41.560418Z"
+  },
+  "NSZ3AM": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T15:35:23.234354Z"
+  },
+  "AUA971": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T15:35:23.234354Z"
   }
 }
