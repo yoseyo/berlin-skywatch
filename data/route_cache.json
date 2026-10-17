@@ -519,7 +519,7 @@
   },
   "TVF89NN": {
     "route": null,
-    "checked_at": "2026-10-15T16:40:34.111813Z"
+    "checked_at": "2026-10-17T16:30:41.704497Z"
   },
   "RYR8RZ": {
     "route": {
@@ -5909,7 +5909,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T16:35:25.619741Z"
+    "checked_at": "2026-10-17T16:30:41.704497Z"
   },
   "EJU5075": {
     "route": null,
@@ -13293,5 +13293,38 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-17T16:25:23.561529Z"
+  },
+  "RYR85CE": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T16:30:41.704497Z"
+  },
+  "JTD537": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-17T16:30:41.704497Z"
+  },
+  "AEE508": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-17T16:30:41.704497Z"
   }
 }
