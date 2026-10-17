@@ -6970,17 +6970,6 @@
     },
     "checked_at": "2026-10-17T08:50:28.824919Z"
   },
-  "AUA971": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-15T14:50:36.743260Z"
-  },
   "EJU12QE": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -6991,21 +6980,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T20:00:54.651959Z"
-  },
-  "BTI26R": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-15T14:50:36.743260Z"
-  },
-  "SPSMF": {
-    "route": null,
-    "checked_at": "2026-10-15T14:50:36.743260Z"
   },
   "DMAAC": {
     "route": null,
@@ -10062,7 +10036,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-16T15:01:10.059524Z"
+    "checked_at": "2026-10-17T14:55:23.325907Z"
   },
   "EWG72F": {
     "route": {
@@ -13234,5 +13208,27 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-17T14:45:29.430788Z"
+  },
+  "LBT2423": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Djerba",
+      "toIata": "DJE",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-17T14:55:23.325907Z"
+  },
+  "RYR48VZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T14:55:23.325907Z"
   }
 }
