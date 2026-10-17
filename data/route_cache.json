@@ -838,7 +838,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-16T20:05:22.588504Z"
+    "checked_at": "2026-10-17T19:55:21.764996Z"
   },
   "BAW998": {
     "route": {
@@ -882,7 +882,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T19:55:25.762987Z"
+    "checked_at": "2026-10-17T19:55:21.764996Z"
   },
   "RYR8YY": {
     "route": {
@@ -7076,17 +7076,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-16T21:15:30.447323Z"
-  },
-  "RYR81YP": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T19:50:33.382199Z"
   },
   "RYR88JV": {
     "route": {
@@ -13375,5 +13364,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T19:45:26.496224Z"
+  },
+  "SAS2820": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T19:55:21.764996Z"
+  },
+  "RYR2501": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T19:55:21.764996Z"
+  },
+  "SDR16XK": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T19:55:21.764996Z"
   }
 }
