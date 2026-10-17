@@ -56,7 +56,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-16T13:25:26.414005Z"
+    "checked_at": "2026-10-17T14:10:30.099402Z"
   },
   "SXS1VZ": {
     "route": {
@@ -2889,7 +2889,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T15:15:32.948602Z"
+    "checked_at": "2026-10-17T14:10:30.099402Z"
   },
   "EWG7RB": {
     "route": {
@@ -6936,10 +6936,6 @@
   "QGA01A": {
     "route": null,
     "checked_at": "2026-10-16T07:35:26.072787Z"
-  },
-  "DGACR": {
-    "route": null,
-    "checked_at": "2026-10-15T14:05:28.857119Z"
   },
   "NJE607B": {
     "route": null,
@@ -13140,5 +13136,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T14:00:50.931516Z"
+  },
+  "VLG1889": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-17T14:10:30.099402Z"
+  },
+  "SDR16YT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Monastir",
+      "toIata": "MIR",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T14:10:30.099402Z"
   }
 }
