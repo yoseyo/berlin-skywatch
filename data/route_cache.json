@@ -2496,7 +2496,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T13:45:32.772714Z"
+    "checked_at": "2026-10-17T13:30:41.916804Z"
   },
   "RYR103K": {
     "route": {
@@ -2900,7 +2900,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T16:01:02.268532Z"
+    "checked_at": "2026-10-17T13:30:41.916804Z"
   },
   "DLH7T": {
     "route": {
@@ -5863,10 +5863,6 @@
     },
     "checked_at": "2026-10-16T09:00:56.902048Z"
   },
-  "RYR26YA": {
-    "route": null,
-    "checked_at": "2026-10-15T13:25:29.263790Z"
-  },
   "SWU1951": {
     "route": {
       "fromCity": "Berlin",
@@ -6951,32 +6947,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T04:45:31.595316Z"
-  },
-  "GAF118": {
-    "route": null,
-    "checked_at": "2026-10-15T13:25:29.263790Z"
-  },
-  "ABP722": {
-    "route": {
-      "fromCity": "Halifax",
-      "fromIata": "YHZ",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "Aba Air",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-15T13:25:29.263790Z"
-  },
-  "CFG4FD": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T13:25:29.263790Z"
   },
   "VKG177": {
     "route": {
@@ -13086,5 +13056,38 @@
       "airlineCountry": "Tunisia"
     },
     "checked_at": "2026-10-17T13:25:21.921433Z"
+  },
+  "CFG6NZ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T13:30:41.916804Z"
+  },
+  "SAS82C": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T13:30:41.916804Z"
+  },
+  "VOE9CC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-17T13:30:41.916804Z"
   }
 }
