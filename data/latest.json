@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-17T03:15:30.795262Z"
+  "flights": [
+    {
+      "callsign": "AUA97B",
+      "country": "Austria",
+      "lat": 52.359,
+      "lon": 12.7666,
+      "altKm": 11.6,
+      "speedKmh": 794,
+      "heading": 144,
+      "vertRateMs": 0,
+      "airline": "Austrian Airlines",
+      "airlineCountry": "Austria",
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-17T03:18:30.036009Z"
 }
