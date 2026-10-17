@@ -5390,7 +5390,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T04:45:31.595316Z"
+    "checked_at": "2026-10-17T04:40:30.571750Z"
   },
   "WMT7615": {
     "route": null,
@@ -6914,17 +6914,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-16T08:55:26.029197Z"
-  },
-  "RYR7662": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T04:35:22.739654Z"
   },
   "RYR5603": {
     "route": {
@@ -13269,5 +13258,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T04:35:20.867841Z"
+  },
+  "PGT1611": {
+    "route": {
+      "fromCity": "Samsun",
+      "fromIata": "SZF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T04:40:30.571750Z"
   }
 }
