@@ -416,7 +416,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-16T16:40:31.458337Z"
+    "checked_at": "2026-10-17T16:40:31.298351Z"
   },
   "PGT49PK": {
     "route": {
@@ -449,7 +449,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-16T17:00:56.417771Z"
+    "checked_at": "2026-10-17T16:40:31.298351Z"
   },
   "DLH1KY": {
     "route": {
@@ -1931,7 +1931,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T09:45:32.591562Z"
+    "checked_at": "2026-10-17T16:40:31.298351Z"
   },
   "RYR4PT": {
     "route": {
@@ -3532,7 +3532,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-16T16:15:32.761238Z"
+    "checked_at": "2026-10-17T16:40:31.298351Z"
   },
   "AFR1434": {
     "route": {
@@ -4862,17 +4862,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-15T20:20:36.275074Z"
-  },
-  "RYR75DX": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T16:35:35.986755Z"
   },
   "AEG6911": {
     "route": null,
@@ -13304,5 +13293,27 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-17T16:30:41.704497Z"
+  },
+  "ICL981": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "CAL Cargo Air Lines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-17T16:40:31.298351Z"
+  },
+  "SAS1759": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T16:40:31.298351Z"
   }
 }
