@@ -2837,7 +2837,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T15:25:26.274817Z"
+    "checked_at": "2026-10-17T16:20:29.491589Z"
   },
   "DEHGB": {
     "route": null,
@@ -3719,7 +3719,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T19:55:25.791115Z"
+    "checked_at": "2026-10-17T16:20:29.491589Z"
   },
   "KLM73D": {
     "route": {
@@ -3807,7 +3807,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-15T16:35:35.986755Z"
+    "checked_at": "2026-10-17T16:20:29.491589Z"
   },
   "BAW995": {
     "route": {
@@ -6981,21 +6981,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-16T15:35:28.313757Z"
-  },
-  "EZS1589": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-15T16:15:33.257961Z"
-  },
-  "LOKI18": {
-    "route": null,
-    "checked_at": "2026-10-15T16:15:33.257961Z"
   },
   "LHX4EL": {
     "route": {
@@ -13286,5 +13271,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T16:15:29.365741Z"
+  },
+  "THY3355": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ANK",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T16:20:29.491589Z"
+  },
+  "LOT4TL": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-17T16:20:29.491589Z"
   }
 }
