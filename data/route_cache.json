@@ -361,7 +361,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-16T15:50:32.210503Z"
+    "checked_at": "2026-10-17T15:50:28.520327Z"
   },
   "KLM1780": {
     "route": {
@@ -4752,17 +4752,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-16T15:55:25.211536Z"
-  },
-  "THY9VA": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Hannover",
-      "toIata": "HAJ",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-15T15:45:33.075451Z"
   },
   "NSZ2066": {
     "route": {
@@ -13293,5 +13282,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T15:45:27.799878Z"
+  },
+  "NSZ9PR": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T15:50:28.520327Z"
+  },
+  "NSZ3748": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Palermo",
+      "toIata": "PMO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T15:50:28.520327Z"
+  },
+  "BTI8WF": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-17T15:50:28.520327Z"
   }
 }
