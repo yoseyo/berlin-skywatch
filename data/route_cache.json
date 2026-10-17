@@ -3293,7 +3293,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-16T15:01:10.059524Z"
+    "checked_at": "2026-10-17T11:15:28.043138Z"
   },
   "EJU32RT": {
     "route": null,
@@ -7000,32 +7000,6 @@
     },
     "checked_at": "2026-10-16T15:55:25.211536Z"
   },
-  "NSZ5603": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T11:10:33.766605Z"
-  },
-  "JFA90C": {
-    "route": null,
-    "checked_at": "2026-10-15T11:10:33.766605Z"
-  },
-  "RYR866X": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T11:10:33.766605Z"
-  },
   "BPO510": {
     "route": null,
     "checked_at": "2026-10-15T11:15:33.075143Z"
@@ -10628,7 +10602,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T14:35:24.277002Z"
+    "checked_at": "2026-10-17T11:15:28.043138Z"
   },
   "DMSAT": {
     "route": null,
@@ -13149,5 +13123,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T11:05:23.480136Z"
+  },
+  "EJU32FG": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T11:15:28.043138Z"
   }
 }
