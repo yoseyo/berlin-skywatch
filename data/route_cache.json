@@ -218,7 +218,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T20:50:35.101557Z"
+    "checked_at": "2026-10-17T20:20:31.352466Z"
   },
   "FIN5DL": {
     "route": {
@@ -926,7 +926,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T20:45:27.775864Z"
+    "checked_at": "2026-10-17T20:20:31.352466Z"
   },
   "AFR69GW": {
     "route": {
@@ -2793,7 +2793,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-16T20:00:54.651959Z"
+    "checked_at": "2026-10-17T20:20:31.352466Z"
   },
   "SAS1673": {
     "route": {
@@ -2959,7 +2959,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-16T20:20:31.622124Z"
+    "checked_at": "2026-10-17T20:20:31.352466Z"
   },
   "AUA991D": {
     "route": {
@@ -4024,7 +4024,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T06:30:46.752896Z"
+    "checked_at": "2026-10-17T20:20:31.352466Z"
   },
   "CHH489": {
     "route": {
@@ -4631,17 +4631,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T08:05:23.954261Z"
-  },
-  "EWG6TG": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T20:15:33.430989Z"
   },
   "RYR11CP": {
     "route": {
@@ -7098,17 +7087,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-16T20:55:24.525588Z"
-  },
-  "NOZ1553": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-15T20:15:33.430989Z"
   },
   "NSZ8KY": {
     "route": {
@@ -13408,5 +13386,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T20:15:28.336102Z"
+  },
+  "GPX7EJ": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Prishtina",
+      "toIata": "PRN",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-17T20:20:31.352466Z"
+  },
+  "SAS2690": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T20:20:31.352466Z"
+  },
+  "SAS6276": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T20:20:31.352466Z"
   }
 }
