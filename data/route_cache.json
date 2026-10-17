@@ -4753,17 +4753,6 @@
     },
     "checked_at": "2026-10-16T18:15:31.224287Z"
   },
-  "EJU47TU": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-15T20:30:49.891056Z"
-  },
   "EJU57LY": {
     "route": {
       "fromCity": "Zurich",
@@ -13419,5 +13408,38 @@
   "SVI8223": {
     "route": null,
     "checked_at": "2026-10-17T20:30:42.604550Z"
+  },
+  "NSZ7DE": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T20:35:22.222538Z"
+  },
+  "SAS1810": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T20:35:22.222538Z"
+  },
+  "EJU17CG": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T20:35:22.222538Z"
   }
 }
