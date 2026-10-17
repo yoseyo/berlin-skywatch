@@ -2254,7 +2254,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-15T13:00:58.449177Z"
+    "checked_at": "2026-10-17T12:40:31.853641Z"
   },
   "VLG48MQ": {
     "route": {
@@ -6108,7 +6108,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T12:55:25.442581Z"
+    "checked_at": "2026-10-17T12:40:31.853641Z"
   },
   "DLH6TP": {
     "route": {
@@ -6915,21 +6915,6 @@
     },
     "checked_at": "2026-10-16T10:55:25.628475Z"
   },
-  "BTI98T": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-15T12:35:27.527417Z"
-  },
-  "GAF165": {
-    "route": null,
-    "checked_at": "2026-10-15T12:35:27.527417Z"
-  },
   "MEA246": {
     "route": {
       "fromCity": "Berlin",
@@ -6940,10 +6925,6 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-10-17T11:35:25.370748Z"
-  },
-  "NJE089D": {
-    "route": null,
-    "checked_at": "2026-10-15T12:35:27.527417Z"
   },
   "SAS1697": {
     "route": {
@@ -13099,5 +13080,16 @@
   "SDR59JT": {
     "route": null,
     "checked_at": "2026-10-17T12:35:23.343371Z"
+  },
+  "AUA228T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T12:40:31.853641Z"
   }
 }
