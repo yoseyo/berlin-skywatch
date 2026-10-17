@@ -1293,7 +1293,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T06:30:46.752896Z"
+    "checked_at": "2026-10-17T15:40:30.428964Z"
   },
   "EJU46ZJ": {
     "route": {
@@ -3906,7 +3906,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T15:50:32.210503Z"
+    "checked_at": "2026-10-17T15:40:30.428964Z"
   },
   "BTI9AG": {
     "route": {
@@ -6980,7 +6980,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T12:55:25.442581Z"
+    "checked_at": "2026-10-17T15:40:30.428964Z"
   },
   "RYR8TQ": {
     "route": {
@@ -7025,21 +7025,6 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-10-17T14:50:31.434676Z"
-  },
-  "IGA634": {
-    "route": {
-      "fromCity": "Prestwick, South Ayrshire",
-      "fromIata": "PIK",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
-      "airlineName": "Skytaxi",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-15T15:35:27.377926Z"
-  },
-  "CFG003": {
-    "route": null,
-    "checked_at": "2026-10-15T15:35:27.377926Z"
   },
   "CAI018P": {
     "route": {
@@ -13245,5 +13230,35 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T15:35:23.234354Z"
+  },
+  "DEAOB": {
+    "route": null,
+    "checked_at": "2026-10-17T15:40:30.428964Z"
+  },
+  "OYJWM": {
+    "route": null,
+    "checked_at": "2026-10-17T15:40:30.428964Z"
+  },
+  "LOT3ML": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-17T15:40:30.428964Z"
+  },
+  "RYR2SW": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T15:40:30.428964Z"
   }
 }
