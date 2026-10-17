@@ -4239,17 +4239,6 @@
     },
     "checked_at": "2026-10-16T04:10:32.048862Z"
   },
-  "RYR3LF": {
-    "route": {
-      "fromCity": "Marseille",
-      "fromIata": "MRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T06:10:30.026228Z"
-  },
   "BAW986G": {
     "route": {
       "fromCity": "London",
@@ -4969,17 +4958,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-15T09:15:16.558848Z"
-  },
-  "RYR87VA": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T06:10:30.026228Z"
   },
   "EJU97JM": {
     "route": {
@@ -6231,17 +6209,6 @@
     },
     "checked_at": "2026-10-16T08:35:25.953298Z"
   },
-  "NOZ2WA": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-15T06:05:24.319960Z"
-  },
   "AUA97F": {
     "route": {
       "fromCity": "Vienna",
@@ -6984,28 +6951,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T17:35:24.713600Z"
-  },
-  "AUA222": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-15T06:10:30.026228Z"
-  },
-  "SXS662": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-15T06:10:30.026228Z"
   },
   "RYR7952": {
     "route": {
@@ -13184,5 +13129,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T06:05:22.409952Z"
+  },
+  "WMT7LY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-17T06:10:30.312708Z"
+  },
+  "JTD519": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-17T06:10:30.312708Z"
+  },
+  "MFX7619": {
+    "route": null,
+    "checked_at": "2026-10-17T06:10:30.312708Z"
   }
 }
