@@ -1058,7 +1058,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-16T04:20:32.193615Z"
+    "checked_at": "2026-10-17T04:30:40.133532Z"
   },
   "DLH8MC": {
     "route": {
@@ -1080,7 +1080,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-16T04:30:45.873751Z"
+    "checked_at": "2026-10-17T04:30:40.133532Z"
   },
   "IBE07BZ": {
     "route": {
@@ -2705,7 +2705,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-16T04:20:32.193615Z"
+    "checked_at": "2026-10-17T04:30:40.133532Z"
   },
   "LGL91B": {
     "route": {
@@ -13236,5 +13236,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T04:25:22.860858Z"
+  },
+  "RYR98ST": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T04:30:40.133532Z"
+  },
+  "EWG1T": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T04:30:40.133532Z"
   }
 }
