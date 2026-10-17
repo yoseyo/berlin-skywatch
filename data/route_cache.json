@@ -2243,7 +2243,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-15T12:00:58.940289Z"
+    "checked_at": "2026-10-17T11:45:28.970058Z"
   },
   "KLC21A": {
     "route": {
@@ -10192,7 +10192,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T13:15:33.375156Z"
+    "checked_at": "2026-10-17T11:45:28.970058Z"
   },
   "WZZ11U": {
     "route": {
@@ -10981,7 +10981,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T16:20:33.030503Z"
+    "checked_at": "2026-10-17T11:45:28.970058Z"
   },
   "EJU9334": {
     "route": {
@@ -13117,5 +13117,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T11:30:42.935035Z"
+  },
+  "AUA978": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T11:45:28.970058Z"
+  },
+  "EJU83HL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Agadir (Temsia)",
+      "toIata": "AGA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T11:45:28.970058Z"
+  },
+  "EJU93DL": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T11:45:28.970058Z"
   }
 }
