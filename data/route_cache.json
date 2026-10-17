@@ -4051,17 +4051,6 @@
     },
     "checked_at": "2026-10-16T18:05:24.122131Z"
   },
-  "RYR98ST": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T04:00:53.296617Z"
-  },
   "BTI74A": {
     "route": {
       "fromCity": "Riga",
@@ -13199,5 +13188,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T04:00:49.080163Z"
+  },
+  "CSN331": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-17T04:05:22.369336Z"
+  },
+  "SDR19CX": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T04:05:22.369336Z"
   }
 }

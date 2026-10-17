@@ -1,18 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "RYR8865",
-      "country": "Ireland",
-      "lat": 52.332,
-      "lon": 13.2919,
-      "altKm": 1.9,
-      "speedKmh": 464,
-      "heading": 255,
-      "vertRateMs": 5.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
+      "callsign": "CSN331",
+      "country": "China",
+      "lat": 52.825,
+      "lon": 12.7744,
+      "altKm": 11.8,
+      "speedKmh": 817,
+      "heading": 240,
+      "vertRateMs": -0.3,
+      "airline": "China Southern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
+      "callsign": "SDR19CX",
+      "country": "Germany",
+      "lat": 52.2465,
+      "lon": 13.9669,
+      "altKm": 2.1,
+      "speedKmh": 504,
+      "heading": 339,
+      "vertRateMs": -4.9,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-17T04:00:49.080163Z"
+  "updated_at": "2026-10-17T04:05:22.369336Z"
 }
