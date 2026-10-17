@@ -67,7 +67,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T15:25:26.274817Z"
+    "checked_at": "2026-10-17T14:45:29.430788Z"
   },
   "MSR732": {
     "route": {
@@ -4554,17 +4554,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-16T08:40:35.056247Z"
-  },
-  "EWG3XM": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T14:40:36.611811Z"
   },
   "EJU45GF": {
     "route": {
@@ -13234,5 +13223,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-17T14:30:42.080644Z"
+  },
+  "CTN433": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-17T14:45:29.430788Z"
   }
 }
