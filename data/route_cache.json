@@ -5933,17 +5933,6 @@
     },
     "checked_at": "2026-10-16T18:45:30.358565Z"
   },
-  "SAS95W": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T18:50:35.135406Z"
-  },
   "LOT397": {
     "route": {
       "fromCity": "Krak\u00f3w",
@@ -13375,5 +13364,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T18:50:29.153678Z"
+  },
+  "SAS2768": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T18:55:22.016600Z"
+  },
+  "EWG7ZH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Yerevan",
+      "toIata": "EVN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T18:55:22.016600Z"
   }
 }
