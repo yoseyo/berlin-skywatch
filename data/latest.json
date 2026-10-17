@@ -1,4 +1,52 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-17T17:55:23.413980Z"
+  "flights": [
+    {
+      "callsign": "TVS465P",
+      "country": "Czech Republic",
+      "lat": 52.308,
+      "lon": 13.8464,
+      "altKm": 2.2,
+      "speedKmh": 491,
+      "heading": 55,
+      "vertRateMs": -7.5,
+      "airline": "Smart Wings",
+      "airlineCountry": "Czech Republic",
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "category": "plane"
+    },
+    {
+      "callsign": "BAW995",
+      "country": "United Kingdom",
+      "lat": 52.2517,
+      "lon": 12.9761,
+      "altKm": 3.4,
+      "speedKmh": 631,
+      "heading": 276,
+      "vertRateMs": 10.1,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "category": "plane"
+    },
+    {
+      "callsign": "KLM1782",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.3285,
+      "lon": 13.4287,
+      "altKm": 0.5,
+      "speedKmh": 363,
+      "heading": 228,
+      "vertRateMs": 5.5,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-17T18:00:52.851098Z"
 }
