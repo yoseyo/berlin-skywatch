@@ -5845,10 +5845,6 @@
     },
     "checked_at": "2026-10-17T16:30:41.704497Z"
   },
-  "EJU5075": {
-    "route": null,
-    "checked_at": "2026-10-15T17:10:35.399368Z"
-  },
   "DMS2LW": {
     "route": {
       "fromCity": "Berlin",
@@ -5891,7 +5887,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T16:50:32.939653Z"
+    "checked_at": "2026-10-17T17:15:28.954244Z"
   },
   "SXS8NM": {
     "route": {
@@ -6959,17 +6955,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-17T13:00:51.554023Z"
-  },
-  "RYR4359": {
-    "route": {
-      "fromCity": "Lanzarote Island",
-      "fromIata": "ACE",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T17:10:35.399368Z"
   },
   "ISR251": {
     "route": {
@@ -13334,5 +13319,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-17T17:10:29.841648Z"
+  },
+  "WZZ91VH": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Kopitnari",
+      "toIata": "KUT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-17T17:15:28.954244Z"
+  },
+  "EJU95GQ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T17:15:28.954244Z"
   }
 }
