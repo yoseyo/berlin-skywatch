@@ -6933,17 +6933,6 @@
     },
     "checked_at": "2026-10-17T13:35:22.209399Z"
   },
-  "CFG8TD": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T13:45:35.427323Z"
-  },
   "QGA01A": {
     "route": null,
     "checked_at": "2026-10-16T07:35:26.072787Z"
@@ -13126,5 +13115,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T13:45:28.795123Z"
+  },
+  "EJU5005": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T13:50:32.954682Z"
+  },
+  "VKG150": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-17T13:50:32.954682Z"
+  },
+  "RYR37CU": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T13:50:32.954682Z"
   }
 }
