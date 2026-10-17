@@ -904,7 +904,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-16T20:25:23.045506Z"
+    "checked_at": "2026-10-17T20:15:28.336102Z"
   },
   "RYR95MP": {
     "route": {
@@ -3062,7 +3062,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-16T20:00:54.651959Z"
+    "checked_at": "2026-10-17T20:15:28.336102Z"
   },
   "EZY39MB": {
     "route": {
@@ -5959,17 +5959,6 @@
     },
     "checked_at": "2026-10-16T20:40:30.237299Z"
   },
-  "SAS79E": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T20:10:34.285774Z"
-  },
   "EJU74RM": {
     "route": {
       "fromCity": "Amsterdam",
@@ -6450,7 +6439,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T09:20:32.964222Z"
+    "checked_at": "2026-10-17T20:15:28.336102Z"
   },
   "PGT41EH": {
     "route": {
@@ -13408,5 +13397,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T20:05:23.027561Z"
+  },
+  "SAS1760": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T20:15:28.336102Z"
   }
 }
