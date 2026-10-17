@@ -2144,7 +2144,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-16T09:20:32.964222Z"
+    "checked_at": "2026-10-17T09:55:22.022907Z"
   },
   "KLM26L": {
     "route": {
@@ -5315,17 +5315,6 @@
     },
     "checked_at": "2026-10-16T09:10:32.375945Z"
   },
-  "RYR89YH": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T09:50:34.464457Z"
-  },
   "EWG5SP": {
     "route": {
       "fromCity": "Berlin",
@@ -5336,17 +5325,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-16T06:10:34.663136Z"
-  },
-  "NOZ8BE": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-15T09:50:34.464457Z"
   },
   "DEDLJ": {
     "route": null,
@@ -6549,7 +6527,7 @@
   },
   "QGA50P": {
     "route": null,
-    "checked_at": "2026-10-16T07:35:26.072787Z"
+    "checked_at": "2026-10-17T09:55:22.022907Z"
   },
   "SRN1987": {
     "route": {
@@ -6999,21 +6977,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T15:01:10.059524Z"
-  },
-  "N1569C": {
-    "route": null,
-    "checked_at": "2026-10-15T09:50:34.464457Z"
-  },
-  "EWG6W": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T09:50:34.464457Z"
   },
   "VJT779": {
     "route": {
@@ -13213,5 +13176,16 @@
   "PAV682": {
     "route": null,
     "checked_at": "2026-10-17T09:50:28.825046Z"
+  },
+  "RYR25SC": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T09:55:22.022907Z"
   }
 }
