@@ -1102,7 +1102,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T05:20:33.089742Z"
+    "checked_at": "2026-10-17T06:50:30.635384Z"
   },
   "DLH9CJ": {
     "route": {
@@ -1326,7 +1326,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-16T06:25:26.831852Z"
+    "checked_at": "2026-10-17T06:50:30.635384Z"
   },
   "RYR98HW": {
     "route": {
@@ -3396,7 +3396,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-16T07:25:24.723087Z"
+    "checked_at": "2026-10-17T06:50:30.635384Z"
   },
   "LOT5NA": {
     "route": {
@@ -3972,7 +3972,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T06:45:31.892580Z"
+    "checked_at": "2026-10-17T06:50:30.635384Z"
   },
   "DLH4AK": {
     "route": {
@@ -6071,7 +6071,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T12:55:26.704768Z"
+    "checked_at": "2026-10-17T06:50:30.635384Z"
   },
   "THY1YM": {
     "route": {
@@ -6951,17 +6951,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T05:55:21.837506Z"
-  },
-  "RYR9846": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "\u0141\u00f3d\u017a",
-      "toIata": "LCJ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T06:45:31.554215Z"
   },
   "WZZ1BD": {
     "route": {
@@ -13192,5 +13181,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-17T06:45:27.830574Z"
+  },
+  "BTI97T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-17T06:50:30.635384Z"
+  },
+  "CFG1RD": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T06:50:30.635384Z"
+  },
+  "SAS23G": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T06:50:30.635384Z"
   }
 }
