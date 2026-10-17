@@ -5368,7 +5368,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-16T03:40:32.018574Z"
+    "checked_at": "2026-10-17T03:50:28.934996Z"
   },
   "SWT3WZ": {
     "route": {
@@ -6925,17 +6925,6 @@
   "ELY005": {
     "route": null,
     "checked_at": "2026-10-16T02:30:46.587660Z"
-  },
-  "EWG9B": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T03:45:30.847847Z"
   },
   "WMT7003": {
     "route": {
@@ -13199,5 +13188,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T03:35:21.238219Z"
+  },
+  "EWG67J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T03:50:28.934996Z"
   }
 }
