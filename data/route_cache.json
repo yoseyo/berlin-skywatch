@@ -7099,17 +7099,6 @@
     },
     "checked_at": "2026-10-17T22:05:25.390375Z"
   },
-  "WZZ47RG": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-15T22:55:25.535896Z"
-  },
   "GAF928": {
     "route": null,
     "checked_at": "2026-10-16T13:15:33.375156Z"
@@ -13467,5 +13456,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T22:25:20.993665Z"
+  },
+  "SAS7710": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T23:00:48.998594Z"
   }
 }
