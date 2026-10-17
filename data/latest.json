@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-17T21:41:13.252899Z"
+  "flights": [
+    {
+      "callsign": "SAS6272",
+      "country": "Sweden",
+      "lat": 52.7186,
+      "lon": 13.8912,
+      "altKm": 11.8,
+      "speedKmh": 872,
+      "heading": 344,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Newquay",
+      "fromIata": "NQY",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-17T21:45:27.439683Z"
 }
