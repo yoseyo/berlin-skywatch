@@ -6915,17 +6915,6 @@
     "route": null,
     "checked_at": "2026-10-16T02:30:46.587660Z"
   },
-  "EWG3PH": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T04:15:28.141830Z"
-  },
   "NSZ2900": {
     "route": {
       "fromCity": "Helsinki",
@@ -13236,5 +13225,16 @@
   "SXS7SC": {
     "route": null,
     "checked_at": "2026-10-17T04:15:27.753490Z"
+  },
+  "EJU78XG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T04:20:30.556202Z"
   }
 }
