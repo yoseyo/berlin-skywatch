@@ -1579,7 +1579,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-16T08:05:24.876141Z"
+    "checked_at": "2026-10-17T08:20:28.620848Z"
   },
   "SWR44E": {
     "route": {
@@ -1766,7 +1766,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-16T08:35:25.953298Z"
+    "checked_at": "2026-10-17T08:20:28.620848Z"
   },
   "RYR4TC": {
     "route": {
@@ -3587,7 +3587,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T05:15:33.809183Z"
+    "checked_at": "2026-10-17T08:20:28.620848Z"
   },
   "LOT392": {
     "route": {
@@ -3664,7 +3664,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-16T08:10:32.569031Z"
+    "checked_at": "2026-10-17T08:20:28.620848Z"
   },
   "LOT4NC": {
     "route": {
@@ -3675,7 +3675,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-16T08:10:32.569031Z"
+    "checked_at": "2026-10-17T08:20:28.620848Z"
   },
   "KLM31X": {
     "route": {
@@ -4083,10 +4083,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-16T13:30:48.867186Z"
-  },
-  "DMTWH": {
-    "route": null,
-    "checked_at": "2026-10-15T08:15:32.558055Z"
   },
   "DMYHG": {
     "route": null,
@@ -6137,7 +6133,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T08:15:32.558055Z"
+    "checked_at": "2026-10-17T08:20:28.620848Z"
   },
   "LOT238": {
     "route": {
@@ -6981,10 +6977,6 @@
     },
     "checked_at": "2026-10-17T08:10:30.009419Z"
   },
-  "JFL356": {
-    "route": null,
-    "checked_at": "2026-10-15T08:15:32.558055Z"
-  },
   "PGT390G": {
     "route": {
       "fromCity": "Berlin",
@@ -6995,17 +6987,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-17T08:10:30.009419Z"
-  },
-  "AHY063": {
-    "route": {
-      "fromCity": "Baku",
-      "fromIata": "GYD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-10-15T08:15:32.558055Z"
   },
   "SXS678": {
     "route": {
@@ -13291,5 +13272,27 @@
   "NJE900A": {
     "route": null,
     "checked_at": "2026-10-17T08:15:28.356098Z"
+  },
+  "SDR60XG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T08:20:28.620848Z"
+  },
+  "RYR7JF": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T08:20:28.620848Z"
   }
 }
