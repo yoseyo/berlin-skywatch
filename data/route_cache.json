@@ -3139,7 +3139,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T19:40:35.243606Z"
+    "checked_at": "2026-10-17T15:30:41.560418Z"
   },
   "LHX178": {
     "route": {
@@ -5903,17 +5903,6 @@
     },
     "checked_at": "2026-10-17T15:05:24.375015Z"
   },
-  "CES787": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-15T15:25:26.357146Z"
-  },
   "DEKPR": {
     "route": null,
     "checked_at": "2026-10-16T09:20:32.964222Z"
@@ -6992,17 +6981,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-16T12:55:25.442581Z"
-  },
-  "RYR91QV": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T15:25:26.357146Z"
   },
   "RYR8TQ": {
     "route": {
@@ -13227,5 +13205,27 @@
   "CHZ702": {
     "route": null,
     "checked_at": "2026-10-17T15:25:22.220282Z"
+  },
+  "RYR86NA": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T15:30:41.560418Z"
+  },
+  "RYR282D": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T15:30:41.560418Z"
   }
 }
