@@ -1436,7 +1436,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T07:00:59.065355Z"
+    "checked_at": "2026-10-17T07:05:21.877850Z"
   },
   "DLH3TR": {
     "route": {
@@ -5715,10 +5715,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-16T19:15:31.342873Z"
-  },
-  "ECA2SJ": {
-    "route": null,
-    "checked_at": "2026-10-15T07:00:55.424608Z"
   },
   "FIN2PX": {
     "route": {
@@ -13214,5 +13210,53 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T07:00:51.126617Z"
+  },
+  "NIA8601": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-17T07:05:21.877850Z"
+  },
+  "SXS9LQ": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T07:05:21.877850Z"
+  },
+  "EWG6900": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T07:05:21.877850Z"
+  },
+  "N515TJ": {
+    "route": null,
+    "checked_at": "2026-10-17T07:05:21.877850Z"
+  },
+  "RYR60RF": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T07:05:21.877850Z"
   }
 }
