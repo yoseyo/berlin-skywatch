@@ -937,7 +937,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-16T20:50:31.860207Z"
+    "checked_at": "2026-10-17T20:25:21.091836Z"
   },
   "SWR9LC": {
     "route": {
@@ -948,7 +948,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-16T20:25:23.045506Z"
+    "checked_at": "2026-10-17T20:25:21.091836Z"
   },
   "DLH206": {
     "route": {
@@ -4797,17 +4797,6 @@
     },
     "checked_at": "2026-10-17T19:25:24.378709Z"
   },
-  "SWT9ER": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Swiftair",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-15T20:20:36.275074Z"
-  },
   "AEG6911": {
     "route": null,
     "checked_at": "2026-10-16T21:05:26.363272Z"
@@ -7087,28 +7076,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-16T20:55:24.525588Z"
-  },
-  "NSZ8KY": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T20:20:36.275074Z"
-  },
-  "BTI4XH": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-15T20:20:36.275074Z"
   },
   "EZY59YH": {
     "route": {
@@ -13419,5 +13386,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T20:20:31.352466Z"
+  },
+  "TVS4617": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-17T20:25:21.091836Z"
+  },
+  "NOZ1865": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-17T20:25:21.091836Z"
+  },
+  "RYR6FD": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T20:25:21.091836Z"
   }
 }
