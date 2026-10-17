@@ -1957,7 +1957,7 @@
   },
   "WUK1356": {
     "route": null,
-    "checked_at": "2026-10-16T10:10:35.920148Z"
+    "checked_at": "2026-10-17T10:05:23.513112Z"
   },
   "DLH8N": {
     "route": {
@@ -1979,7 +1979,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-16T10:00:56.631665Z"
+    "checked_at": "2026-10-17T10:05:23.513112Z"
   },
   "BEL4NK": {
     "route": {
@@ -6978,17 +6978,6 @@
     },
     "checked_at": "2026-10-16T09:05:24.971344Z"
   },
-  "RYR4022": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-15T10:00:57.719018Z"
-  },
   "MEA245": {
     "route": {
       "fromCity": "Beirut",
@@ -7010,28 +6999,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-16T09:35:26.056039Z"
-  },
-  "CFG8DF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T10:00:57.719018Z"
-  },
-  "CSN469": {
-    "route": {
-      "fromCity": "Guangzhou (Huadu)",
-      "fromIata": "CAN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-15T10:00:57.719018Z"
   },
   "N1135K": {
     "route": null,
@@ -13195,5 +13162,16 @@
   "NJE924P": {
     "route": null,
     "checked_at": "2026-10-17T10:00:51.162802Z"
+  },
+  "CFG3RW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T10:05:23.513112Z"
   }
 }
