@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-17T21:55:23.157592Z"
+  "flights": [
+    {
+      "callsign": "SAS7726",
+      "country": "Sweden",
+      "lat": 52.479,
+      "lon": 14.0426,
+      "altKm": 11.8,
+      "speedKmh": 867,
+      "heading": 344,
+      "vertRateMs": 0.3,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-17T22:00:52.648532Z"
 }
