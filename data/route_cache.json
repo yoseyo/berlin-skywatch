@@ -2760,7 +2760,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T17:00:56.417771Z"
+    "checked_at": "2026-10-17T14:25:23.006031Z"
   },
   "ICE15M": {
     "route": {
@@ -3216,7 +3216,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T14:25:24.898834Z"
+    "checked_at": "2026-10-17T14:25:23.006031Z"
   },
   "BAW8RM": {
     "route": {
@@ -13212,5 +13212,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T14:20:30.404055Z"
+  },
+  "CSS101": {
+    "route": {
+      "fromCity": "Hangzhou",
+      "fromIata": "HGH",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "SF Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-17T14:25:23.006031Z"
   }
 }
