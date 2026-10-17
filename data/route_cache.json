@@ -5574,7 +5574,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-15T14:35:27.606019Z"
+    "checked_at": "2026-10-17T08:45:26.833717Z"
   },
   "DESNN": {
     "route": null,
@@ -7013,17 +7013,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T10:25:26.964576Z"
-  },
-  "SXS664": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-15T08:40:36.383245Z"
   },
   "RYR9847": {
     "route": {
@@ -13279,5 +13268,16 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-17T08:40:30.579617Z"
+  },
+  "SAS63Z": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T08:45:26.833717Z"
   }
 }
