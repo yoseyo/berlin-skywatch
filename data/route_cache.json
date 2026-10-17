@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-16T08:30:45.079409Z"
+    "checked_at": "2026-10-17T08:40:30.579617Z"
   },
   "KLM84H": {
     "route": {
@@ -4099,17 +4099,6 @@
     },
     "checked_at": "2026-10-16T14:05:25.779954Z"
   },
-  "EJU95GQ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-15T08:35:26.361719Z"
-  },
   "AFR38LQ": {
     "route": null,
     "checked_at": "2026-10-15T18:20:35.190326Z"
@@ -7024,25 +7013,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T10:25:26.964576Z"
-  },
-  "AIB485B": {
-    "route": null,
-    "checked_at": "2026-10-15T08:35:26.361719Z"
-  },
-  "SDR44QJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T08:35:26.361719Z"
-  },
-  "DENSB": {
-    "route": null,
-    "checked_at": "2026-10-15T08:35:26.361719Z"
   },
   "SXS664": {
     "route": {
@@ -10513,7 +10483,7 @@
   },
   "CHX64": {
     "route": null,
-    "checked_at": "2026-10-16T10:35:24.549000Z"
+    "checked_at": "2026-10-17T08:40:30.579617Z"
   },
   "EJU5060": {
     "route": {
@@ -13287,5 +13257,27 @@
   "PAV681": {
     "route": null,
     "checked_at": "2026-10-17T08:35:21.851108Z"
+  },
+  "TKJ5107": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T08:40:30.579617Z"
+  },
+  "NIA8602": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-17T08:40:30.579617Z"
   }
 }
