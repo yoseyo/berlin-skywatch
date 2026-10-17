@@ -7000,10 +7000,6 @@
     },
     "checked_at": "2026-10-16T15:55:25.211536Z"
   },
-  "BPO510": {
-    "route": null,
-    "checked_at": "2026-10-15T11:15:33.075143Z"
-  },
   "GAF877": {
     "route": null,
     "checked_at": "2026-10-15T11:20:34.040581Z"
@@ -13134,5 +13130,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T11:15:28.043138Z"
+  },
+  "SXS4AX": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-17T11:20:33.040274Z"
   }
 }
