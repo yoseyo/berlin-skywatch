@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "RAM240S",
+      "country": "Morocco",
+      "lat": 52.7426,
+      "lon": 13.1342,
+      "altKm": 11.3,
+      "speedKmh": 909,
+      "heading": 63,
+      "vertRateMs": 0,
+      "airline": "Royal Air Maroc",
+      "airlineCountry": "Morocco",
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "St. Petersburg",
+      "toIata": "LED",
+      "category": "plane"
+    },
+    {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.6025,
-      "lon": 13.5786,
-      "altKm": 0.2,
-      "speedKmh": 97,
-      "heading": 66,
-      "vertRateMs": 4.2,
+      "lat": 52.7357,
+      "lon": 13.6364,
+      "altKm": 0.5,
+      "speedKmh": 216,
+      "heading": 18,
+      "vertRateMs": 0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-17T01:40:27.769897Z"
+  "updated_at": "2026-10-17T01:45:27.230189Z"
 }
