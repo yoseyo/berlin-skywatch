@@ -4766,7 +4766,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-15T06:25:24.544239Z"
+    "checked_at": "2026-10-17T06:00:49.879059Z"
   },
   "LHX5PN": {
     "route": {
@@ -6984,17 +6984,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-16T09:15:32.101048Z"
-  },
-  "BTI877": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-15T05:55:24.783079Z"
   },
   "EJU41DH": {
     "route": {
@@ -13184,5 +13173,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-17T05:50:27.369362Z"
+  },
+  "FLI7122": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-17T06:00:49.879059Z"
   }
 }
