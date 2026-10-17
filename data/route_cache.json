@@ -1194,7 +1194,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T05:35:25.241001Z"
+    "checked_at": "2026-10-17T06:30:40.354611Z"
   },
   "NSZ8ML": {
     "route": {
@@ -6952,17 +6952,6 @@
     },
     "checked_at": "2026-10-17T05:55:21.837506Z"
   },
-  "DUKE60": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Constan\u0163a",
-      "toIata": "CND",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-15T06:25:24.544239Z"
-  },
   "BTI97T": {
     "route": {
       "fromCity": "Berlin",
@@ -11568,7 +11557,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T14:45:33.709841Z"
+    "checked_at": "2026-10-17T06:30:40.354611Z"
   },
   "CAT9753": {
     "route": null,
@@ -13196,5 +13185,27 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-17T06:25:23.132458Z"
+  },
+  "EWG90V": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T06:30:40.354611Z"
+  },
+  "RYR63WX": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T06:30:40.354611Z"
   }
 }
