@@ -1381,7 +1381,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T18:55:23.336980Z"
+    "checked_at": "2026-10-17T15:45:27.799878Z"
   },
   "NOZ2XM": {
     "route": {
@@ -7025,17 +7025,6 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-10-17T14:50:31.434676Z"
-  },
-  "CAI018P": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Nuremberg",
-      "toIata": "NUE",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-15T15:40:33.512978Z"
   },
   "EWG20W": {
     "route": {
@@ -13260,5 +13249,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T15:40:30.428964Z"
+  },
+  "NSZ3298": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T15:45:27.799878Z"
+  },
+  "TVS459F": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-17T15:45:27.799878Z"
+  },
+  "SAS6275": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T15:45:27.799878Z"
+  },
+  "RYR1825": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T15:45:27.799878Z"
   }
 }
