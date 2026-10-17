@@ -2111,7 +2111,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-16T11:05:24.596928Z"
+    "checked_at": "2026-10-17T11:00:52.597523Z"
   },
   "RYR6UR": {
     "route": {
@@ -5935,7 +5935,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T11:05:24.596928Z"
+    "checked_at": "2026-10-17T11:00:52.597523Z"
   },
   "DLH5MA": {
     "route": {
@@ -6988,21 +6988,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-16T09:20:32.964222Z"
-  },
-  "FHY1282": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-15T10:55:27.306567Z"
-  },
-  "DISCA": {
-    "route": null,
-    "checked_at": "2026-10-15T10:55:27.306567Z"
   },
   "RYR5979": {
     "route": {
@@ -13172,5 +13157,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T10:55:22.596817Z"
+  },
+  "NSZ2MP": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T11:00:52.597523Z"
+  },
+  "NSZ2055": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T11:00:52.597523Z"
   }
 }
