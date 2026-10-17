@@ -2551,7 +2551,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T13:15:33.375156Z"
+    "checked_at": "2026-10-17T13:25:21.921433Z"
   },
   "RYR3YW": {
     "route": {
@@ -5920,7 +5920,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T14:00:56.264116Z"
+    "checked_at": "2026-10-17T13:25:21.921433Z"
   },
   "SAS49N": {
     "route": {
@@ -6930,17 +6930,6 @@
     },
     "checked_at": "2026-10-16T11:50:33.655400Z"
   },
-  "NSZ4502": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-15T13:20:33.916386Z"
-  },
   "WMT2GJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -6951,17 +6940,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-17T04:35:20.867841Z"
-  },
-  "CES256": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-15T13:20:33.916386Z"
   },
   "EJU59RD": {
     "route": {
@@ -13086,5 +13064,27 @@
   "JEI464": {
     "route": null,
     "checked_at": "2026-10-17T13:20:29.444170Z"
+  },
+  "SAS7792": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T13:25:21.921433Z"
+  },
+  "LBT2422": {
+    "route": {
+      "fromCity": "Djerba",
+      "fromIata": "DJE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-17T13:25:21.921433Z"
   }
 }
