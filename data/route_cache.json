@@ -5878,17 +5878,6 @@
     },
     "checked_at": "2026-10-16T18:45:30.358565Z"
   },
-  "LOT397": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-15T19:40:35.243606Z"
-  },
   "EZS67CP": {
     "route": {
       "fromCity": "Berlin",
@@ -13386,5 +13375,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T19:40:29.005750Z"
+  },
+  "EJU49CR": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-17T19:45:26.496224Z"
+  },
+  "RYR93BJ": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-17T19:45:26.496224Z"
   }
 }
