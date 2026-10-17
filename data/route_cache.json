@@ -1381,7 +1381,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-16T06:35:24.120076Z"
+    "checked_at": "2026-10-17T06:55:21.587285Z"
   },
   "RYR4WC": {
     "route": {
@@ -1403,7 +1403,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-16T06:50:33.050768Z"
+    "checked_at": "2026-10-17T06:55:21.587285Z"
   },
   "DLH174": {
     "route": {
@@ -6985,28 +6985,6 @@
     },
     "checked_at": "2026-10-16T19:45:29.566709Z"
   },
-  "CFG2CA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-15T06:50:33.355692Z"
-  },
-  "CXI458": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-15T06:50:33.355692Z"
-  },
   "CFG8JC": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -9160,7 +9138,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-15T19:00:58.696523Z"
+    "checked_at": "2026-10-17T06:55:21.587285Z"
   },
   "RYR70FL": {
     "route": {
@@ -13214,5 +13192,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-17T06:50:30.635384Z"
+  },
+  "RUK7546": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-17T06:55:21.587285Z"
+  },
+  "DLH5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-17T06:55:21.587285Z"
   }
 }
