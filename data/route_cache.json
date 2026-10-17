@@ -3620,7 +3620,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T07:40:34.991819Z"
+    "checked_at": "2026-10-17T07:40:29.740434Z"
   },
   "AFR65AR": {
     "route": {
@@ -13236,5 +13236,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T07:35:22.120858Z"
+  },
+  "DMVVL": {
+    "route": null,
+    "checked_at": "2026-10-17T07:40:29.740434Z"
+  },
+  "SAS2831": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-17T07:40:29.740434Z"
+  },
+  "AEE4575": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-17T07:40:29.740434Z"
   }
 }
