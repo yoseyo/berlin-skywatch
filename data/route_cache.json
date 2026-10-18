@@ -67,7 +67,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T14:45:29.430788Z"
+    "checked_at": "2026-10-18T14:25:24.897325Z"
   },
   "MSR732": {
     "route": {
@@ -148,7 +148,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T14:35:22.722323Z"
+    "checked_at": "2026-10-18T14:25:24.897325Z"
   },
   "RYR4JQ": {
     "route": {
@@ -4503,10 +4503,6 @@
     },
     "checked_at": "2026-10-18T04:40:30.443656Z"
   },
-  "DEDLJ": {
-    "route": null,
-    "checked_at": "2026-10-16T14:20:35.346905Z"
-  },
   "FIN1DF": {
     "route": {
       "fromCity": "Split",
@@ -6563,10 +6559,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-17T16:00:50.952518Z"
-  },
-  "NJE467T": {
-    "route": null,
-    "checked_at": "2026-10-16T14:20:35.346905Z"
   },
   "JTD214": {
     "route": {
@@ -12862,5 +12854,31 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-18T14:20:30.090369Z"
+  },
+  "SWR9YP": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-18T14:25:24.897325Z"
+  },
+  "SXS866": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T14:25:24.897325Z"
+  },
+  "DMSVV": {
+    "route": null,
+    "checked_at": "2026-10-18T14:25:24.897325Z"
   }
 }
