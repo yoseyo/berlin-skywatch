@@ -1542,7 +1542,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T10:45:28.487502Z"
+    "checked_at": "2026-10-18T11:30:44.472370Z"
   },
   "NOZ3JH": {
     "route": {
@@ -2140,7 +2140,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T11:25:22.769464Z"
+    "checked_at": "2026-10-18T11:30:44.472370Z"
   },
   "DLH4NF": {
     "route": {
@@ -2327,7 +2327,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-17T12:00:52.671766Z"
+    "checked_at": "2026-10-18T11:30:44.472370Z"
   },
   "MSR731": {
     "route": {
@@ -4319,17 +4319,6 @@
     },
     "checked_at": "2026-10-17T11:40:34.785638Z"
   },
-  "NOZ1104": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-16T11:25:27.553801Z"
-  },
   "FIN4ER": {
     "route": {
       "fromCity": "Helsinki",
@@ -5771,7 +5760,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-10-17T11:35:25.370748Z"
+    "checked_at": "2026-10-18T11:30:44.472370Z"
   },
   "EJU5367": {
     "route": {
@@ -6662,17 +6651,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T10:55:24.362641Z"
-  },
-  "BTI4WA": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-16T11:25:27.553801Z"
   },
   "THY2XR": {
     "route": {
@@ -12736,5 +12714,31 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-18T11:25:24.299291Z"
+  },
+  "BPO510": {
+    "route": null,
+    "checked_at": "2026-10-18T11:30:44.472370Z"
+  },
+  "SAS95W": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T11:30:44.472370Z"
+  },
+  "DFKJM": {
+    "route": {
+      "fromCity": "Korbach",
+      "fromIata": null,
+      "toCity": "Trebbin",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-18T11:30:44.472370Z"
   }
 }
