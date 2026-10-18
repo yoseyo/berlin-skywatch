@@ -2881,7 +2881,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T16:15:32.761238Z"
+    "checked_at": "2026-10-18T15:20:31.678453Z"
   },
   "EJU5087": {
     "route": null,
@@ -3315,7 +3315,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T15:45:33.800972Z"
+    "checked_at": "2026-10-18T15:20:31.678453Z"
   },
   "BEL3JZ": {
     "route": {
@@ -3535,7 +3535,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T16:15:32.761238Z"
+    "checked_at": "2026-10-18T15:20:31.678453Z"
   },
   "EWG2HC": {
     "route": {
@@ -3744,7 +3744,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T16:20:29.491589Z"
+    "checked_at": "2026-10-18T15:20:31.678453Z"
   },
   "BAW995": {
     "route": {
@@ -6607,17 +6607,6 @@
   "DFABJ": {
     "route": null,
     "checked_at": "2026-10-17T17:00:51.308122Z"
-  },
-  "NSZ6HT": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T15:15:32.948602Z"
   },
   "LOT7160": {
     "route": {
@@ -12873,5 +12862,42 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-18T15:10:31.082873Z"
+  },
+  "TKJ9TC": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T15:20:31.678453Z"
+  },
+  "NOZ1107": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-18T15:20:31.678453Z"
+  },
+  "GFM5E": {
+    "route": null,
+    "checked_at": "2026-10-18T15:20:31.678453Z"
+  },
+  "JTD503": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Burgas",
+      "toIata": "BOJ",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-18T15:20:31.678453Z"
   }
 }
