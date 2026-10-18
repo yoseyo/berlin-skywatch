@@ -1,33 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "BPOBER",
-      "country": "Germany",
-      "lat": 52.3933,
-      "lon": 12.9592,
-      "altKm": 0.7,
-      "speedKmh": 148,
-      "heading": 51,
-      "vertRateMs": 1.0,
-      "category": "heli"
+      "callsign": "WMT6363",
+      "country": "Hungary",
+      "lat": 52.9103,
+      "lon": 12.7507,
+      "altKm": 10.6,
+      "speedKmh": 846,
+      "heading": 125,
+      "vertRateMs": 6.5,
+      "airline": "Wizz Air Malta",
+      "airlineCountry": "Malta",
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "category": "plane"
     },
     {
-      "callsign": "EWG44U",
+      "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.3074,
-      "lon": 13.3092,
-      "altKm": 0.7,
-      "speedKmh": 306,
-      "heading": 69,
-      "vertRateMs": -5.2,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
+      "lat": 52.5127,
+      "lon": 12.9691,
+      "altKm": 0.8,
+      "speedKmh": 175,
+      "heading": 7,
+      "vertRateMs": -0.3,
+      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-18T21:45:30.786357Z"
+  "updated_at": "2026-10-18T21:50:28.862351Z"
 }
