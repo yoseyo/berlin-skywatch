@@ -196,7 +196,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T14:35:22.722323Z"
+    "checked_at": "2026-10-18T14:45:29.017074Z"
   },
   "KLM1779": {
     "route": {
@@ -6560,17 +6560,6 @@
     },
     "checked_at": "2026-10-17T11:15:28.043138Z"
   },
-  "NSZ2FT": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T14:40:34.085687Z"
-  },
   "RYR7654": {
     "route": {
       "fromCity": "Eindhoven",
@@ -12910,5 +12899,9 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T14:40:34.024501Z"
+  },
+  "VPBLU": {
+    "route": null,
+    "checked_at": "2026-10-18T14:45:29.017074Z"
   }
 }
