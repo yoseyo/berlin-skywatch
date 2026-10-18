@@ -1832,7 +1832,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T09:45:26.981083Z"
+    "checked_at": "2026-10-18T09:35:22.743695Z"
   },
   "LOT3JA": {
     "route": {
@@ -6762,10 +6762,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T08:50:29.068415Z"
-  },
-  "TOY431": {
-    "route": null,
-    "checked_at": "2026-10-16T09:30:48.147739Z"
   },
   "EZY3162": {
     "route": {
@@ -12887,5 +12883,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T09:25:24.085036Z"
+  },
+  "BAW87AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-18T09:35:22.743695Z"
   }
 }

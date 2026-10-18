@@ -1,29 +1,50 @@
 {
   "flights": [
     {
-      "callsign": "KLM1775",
-      "country": "Kingdom of the Netherlands",
-      "lat": 52.2963,
-      "lon": 13.2627,
-      "altKm": 0.9,
-      "speedKmh": 323,
-      "heading": 68,
-      "vertRateMs": -3.9,
-      "airline": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands",
+      "callsign": "LOT266",
+      "country": "Poland",
+      "lat": 52.4237,
+      "lon": 12.897,
+      "altKm": 10.9,
+      "speedKmh": 854,
+      "heading": 88,
+      "vertRateMs": 0,
+      "airline": "LOT Polish Airlines",
+      "airlineCountry": "Poland",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "category": "plane"
+    },
+    {
+      "callsign": "BAW87AM",
+      "country": "United Kingdom",
+      "lat": 52.27,
+      "lon": 13.3172,
+      "altKm": 2.8,
+      "speedKmh": 541,
+      "heading": 275,
+      "vertRateMs": 12.3,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
       "category": "plane"
     },
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.2762,
-      "lon": 13.4354,
-      "altKm": 0.4,
-      "speedKmh": 114,
-      "heading": 354,
-      "vertRateMs": 2.6,
+      "lat": 52.3496,
+      "lon": 13.4053,
+      "altKm": 0.7,
+      "speedKmh": 127,
+      "heading": 8,
+      "vertRateMs": -0.7,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-18T09:30:41.092865Z"
+  "updated_at": "2026-10-18T09:35:22.743695Z"
 }
