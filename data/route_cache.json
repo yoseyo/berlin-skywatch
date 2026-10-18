@@ -6483,17 +6483,6 @@
     },
     "checked_at": "2026-10-18T20:50:30.799340Z"
   },
-  "NSZ4360": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T21:30:42.896377Z"
-  },
   "JTD396": {
     "route": {
       "fromCity": "Preveza/Lefkada",
@@ -13019,5 +13008,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-18T21:30:42.278157Z"
+  },
+  "RYR11GY": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T21:35:22.440465Z"
   }
 }
