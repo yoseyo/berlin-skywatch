@@ -2859,7 +2859,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T14:10:30.099402Z"
+    "checked_at": "2026-10-18T18:55:24.592047Z"
   },
   "EWG7RB": {
     "route": {
@@ -5411,7 +5411,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T11:40:34.785638Z"
+    "checked_at": "2026-10-18T18:55:24.592047Z"
   },
   "RYR5XX": {
     "route": {
@@ -5556,17 +5556,6 @@
     },
     "checked_at": "2026-10-18T14:55:23.498953Z"
   },
-  "NSZ3304": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T18:55:23.336980Z"
-  },
   "RYR7GU": {
     "route": {
       "fromCity": "Memmingen",
@@ -5587,7 +5576,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-16T19:00:52.899805Z"
+    "checked_at": "2026-10-18T18:55:24.592047Z"
   },
   "BTI6UQ": {
     "route": {
@@ -12931,5 +12920,49 @@
   "SVF649": {
     "route": null,
     "checked_at": "2026-10-18T18:45:29.025190Z"
+  },
+  "BTI9YF": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-18T18:55:24.592047Z"
+  },
+  "CFG9EH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T18:55:24.592047Z"
+  },
+  "RYR9MC": {
+    "route": {
+      "fromCity": "Belfast",
+      "fromIata": "BFS",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T18:55:24.592047Z"
+  },
+  "EWG86H": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T18:55:24.592047Z"
   }
 }
