@@ -1436,7 +1436,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-17T07:20:28.055853Z"
+    "checked_at": "2026-10-18T07:30:40.137024Z"
   },
   "RYR594F": {
     "route": {
@@ -3117,7 +3117,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T07:35:26.072787Z"
+    "checked_at": "2026-10-18T07:30:40.137024Z"
   },
   "LHX179": {
     "route": {
@@ -3906,7 +3906,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-17T07:15:27.472127Z"
+    "checked_at": "2026-10-18T07:30:40.137024Z"
   },
   "DLH890": {
     "route": {
@@ -5018,17 +5018,6 @@
     },
     "checked_at": "2026-10-17T06:45:27.830574Z"
   },
-  "SXS6SJ": {
-    "route": {
-      "fromCity": "Dalaman",
-      "fromIata": "DLM",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-16T07:25:24.723087Z"
-  },
   "RYR717M": {
     "route": {
       "fromCity": "Manchester",
@@ -5181,7 +5170,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-17T08:05:23.954261Z"
+    "checked_at": "2026-10-18T07:30:40.137024Z"
   },
   "TAP53LB": {
     "route": {
@@ -5861,7 +5850,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T07:25:22.142948Z"
+    "checked_at": "2026-10-18T07:30:40.137024Z"
   },
   "BTI8ED": {
     "route": {
@@ -6940,17 +6929,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-17T14:15:28.061081Z"
-  },
-  "NIA8501": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-16T07:25:24.723087Z"
   },
   "CFG1KL": {
     "route": {
@@ -13132,5 +13110,16 @@
   "NJE030T": {
     "route": null,
     "checked_at": "2026-10-18T07:25:21.172877Z"
+  },
+  "SAS86N": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T07:30:40.137024Z"
   }
 }
