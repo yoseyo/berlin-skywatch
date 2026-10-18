@@ -2074,7 +2074,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T10:50:29.468057Z"
+    "checked_at": "2026-10-18T10:55:24.362641Z"
   },
   "LOT282": {
     "route": {
@@ -6674,21 +6674,6 @@
     },
     "checked_at": "2026-10-18T10:05:24.770031Z"
   },
-  "RYR96AP": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-16T10:50:34.132612Z"
-  },
-  "CAT346": {
-    "route": null,
-    "checked_at": "2026-10-16T10:50:34.132612Z"
-  },
   "DACDC": {
     "route": null,
     "checked_at": "2026-10-16T10:55:25.628475Z"
@@ -6746,7 +6731,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T11:05:24.596928Z"
+    "checked_at": "2026-10-18T10:55:24.362641Z"
   },
   "EZY94NJ": {
     "route": {
@@ -12781,5 +12766,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-18T10:50:31.285442Z"
+  },
+  "ACA943": {
+    "route": {
+      "fromCity": "Hamilton",
+      "fromIata": "BDA",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Canada",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-18T10:55:24.362641Z"
   }
 }
