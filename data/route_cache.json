@@ -3521,7 +3521,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-17T06:35:22.028103Z"
+    "checked_at": "2026-10-18T06:50:28.958827Z"
   },
   "AFR39SV": {
     "route": {
@@ -4331,17 +4331,6 @@
     },
     "checked_at": "2026-10-17T06:25:23.132458Z"
   },
-  "BEL5HW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-16T06:45:31.892580Z"
-  },
   "ETH724": {
     "route": {
       "fromCity": "Vienna",
@@ -4670,7 +4659,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T18:05:22.566474Z"
+    "checked_at": "2026-10-18T06:50:28.958827Z"
   },
   "SAS1680": {
     "route": {
@@ -5258,7 +5247,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T07:00:59.065355Z"
+    "checked_at": "2026-10-18T06:50:28.958827Z"
   },
   "DMSGV": {
     "route": null,
@@ -6955,28 +6944,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T05:20:27.091332Z"
-  },
-  "LOT403": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-16T06:45:31.892580Z"
-  },
-  "TVF81SM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "ORY",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-16T06:45:31.892580Z"
   },
   "EWG3F": {
     "route": {
@@ -10245,7 +10212,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T07:45:27.317851Z"
+    "checked_at": "2026-10-18T06:50:28.958827Z"
   },
   "WZZ39FE": {
     "route": {
@@ -13168,5 +13135,16 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-18T06:30:41.741251Z"
+  },
+  "EZS53CU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-18T06:50:28.958827Z"
   }
 }
