@@ -1,16 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "ELY001",
+      "country": "Israel",
+      "lat": 52.4393,
+      "lon": 12.8114,
+      "altKm": 10.6,
+      "speedKmh": 902,
+      "heading": 322,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "SPEMC",
       "country": "Poland",
-      "lat": 52.4152,
-      "lon": 13.8735,
+      "lat": 52.4475,
+      "lon": 13.3306,
       "altKm": 8.1,
-      "speedKmh": 439,
-      "heading": 276,
+      "speedKmh": 461,
+      "heading": 275,
       "vertRateMs": 0,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-18T01:35:22.568849Z"
+  "updated_at": "2026-10-18T01:40:30.433844Z"
 }
