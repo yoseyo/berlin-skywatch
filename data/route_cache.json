@@ -170,7 +170,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-17T14:35:22.722323Z"
+    "checked_at": "2026-10-18T14:40:34.024501Z"
   },
   "AUA995F": {
     "route": {
@@ -207,7 +207,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-17T14:50:31.434676Z"
+    "checked_at": "2026-10-18T14:40:34.024501Z"
   },
   "EJU81FH": {
     "route": {
@@ -4952,7 +4952,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T15:05:24.375015Z"
+    "checked_at": "2026-10-18T14:40:34.024501Z"
   },
   "DMS2RV": {
     "route": {
@@ -5775,7 +5775,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T15:35:28.313757Z"
+    "checked_at": "2026-10-18T14:40:34.024501Z"
   },
   "LHX4EL": {
     "route": {
@@ -6559,10 +6559,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T11:15:28.043138Z"
-  },
-  "DMSAT": {
-    "route": null,
-    "checked_at": "2026-10-16T14:35:24.277002Z"
   },
   "NSZ2FT": {
     "route": {
@@ -12877,5 +12873,42 @@
   "CAT9333": {
     "route": null,
     "checked_at": "2026-10-18T14:35:22.318681Z"
+  },
+  "CAI138P": {
+    "route": null,
+    "checked_at": "2026-10-18T14:40:34.024501Z"
+  },
+  "THY95Y": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T14:40:34.024501Z"
+  },
+  "CFE93AU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-18T14:40:34.024501Z"
+  },
+  "EJU9114": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T14:40:34.024501Z"
   }
 }
