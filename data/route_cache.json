@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T12:45:27.272492Z"
+    "checked_at": "2026-10-18T13:20:31.555445Z"
   },
   "CHX100": {
     "route": null,
@@ -816,7 +816,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T15:15:27.996969Z"
+    "checked_at": "2026-10-18T13:20:31.555445Z"
   },
   "LOT3ND": {
     "route": {
@@ -5851,17 +5851,6 @@
     },
     "checked_at": "2026-10-17T14:50:31.434676Z"
   },
-  "EWG20W": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T13:15:33.375156Z"
-  },
   "THY8DE": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6257,10 +6246,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T22:05:25.390375Z"
-  },
-  "GAF928": {
-    "route": null,
-    "checked_at": "2026-10-16T13:15:33.375156Z"
   },
   "CCA431": {
     "route": {
@@ -10127,7 +10112,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T14:15:28.061081Z"
+    "checked_at": "2026-10-18T13:20:31.555445Z"
   },
   "IBS1805": {
     "route": {
@@ -12888,5 +12873,57 @@
   "QGA24W": {
     "route": null,
     "checked_at": "2026-10-18T13:15:29.241617Z"
+  },
+  "NSZ4502": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T13:20:31.555445Z"
+  },
+  "JFA69S": {
+    "route": null,
+    "checked_at": "2026-10-18T13:20:31.555445Z"
+  },
+  "ADN57B": {
+    "route": null,
+    "checked_at": "2026-10-18T13:20:31.555445Z"
+  },
+  "CTN848R": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-18T13:20:31.555445Z"
+  },
+  "WZZ4782": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-18T13:20:31.555445Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T13:20:31.555445Z"
   }
 }
