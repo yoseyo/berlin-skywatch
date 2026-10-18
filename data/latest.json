@@ -1,48 +1,25 @@
 {
   "flights": [
     {
-      "callsign": "EZY63GU",
-      "country": "United Kingdom",
-      "lat": 52.2578,
-      "lon": 12.8443,
-      "altKm": 6.1,
-      "speedKmh": 672,
-      "heading": 269,
-      "vertRateMs": 9.8,
-      "airline": "easyJet",
-      "airlineCountry": "United Kingdom",
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "London",
-      "toIata": "LGW",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR11GY",
-      "country": "Ireland",
-      "lat": 52.4905,
-      "lon": 13.2228,
-      "altKm": 11.3,
-      "speedKmh": 825,
-      "heading": 278,
-      "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "London",
-      "toIata": "STN",
-      "category": "plane"
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.4098,
+      "lon": 12.7322,
+      "altKm": 0.8,
+      "speedKmh": 166,
+      "heading": 104,
+      "vertRateMs": -0.7,
+      "category": "heli"
     },
     {
       "callsign": "EWG9SK",
       "country": "Germany",
-      "lat": 52.216,
-      "lon": 13.061,
-      "altKm": 1.4,
-      "speedKmh": 442,
-      "heading": 28,
-      "vertRateMs": -1.9,
+      "lat": 52.3183,
+      "lon": 13.3545,
+      "altKm": 0.6,
+      "speedKmh": 239,
+      "heading": 69,
+      "vertRateMs": -2.9,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
       "fromCity": "Berlin",
@@ -52,5 +29,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-18T21:35:22.440465Z"
+  "updated_at": "2026-10-18T21:39:37.783103Z"
 }
