@@ -2734,7 +2734,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T14:25:23.006031Z"
+    "checked_at": "2026-10-18T14:35:22.318681Z"
   },
   "ICE15M": {
     "route": {
@@ -4919,7 +4919,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-16T14:50:34.371298Z"
+    "checked_at": "2026-10-18T14:35:22.318681Z"
   },
   "EWG3AM": {
     "route": {
@@ -4953,17 +4953,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-17T15:05:24.375015Z"
-  },
-  "EWG9KG": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T14:30:51.291564Z"
   },
   "DMS2RV": {
     "route": {
@@ -5679,7 +5668,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-17T14:50:31.434676Z"
+    "checked_at": "2026-10-18T14:35:22.318681Z"
   },
   "RYR55VV": {
     "route": {
@@ -6558,7 +6547,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-17T15:05:24.375015Z"
+    "checked_at": "2026-10-18T14:35:22.318681Z"
   },
   "RYR2NB": {
     "route": {
@@ -12847,5 +12836,46 @@
   "DMSVV": {
     "route": null,
     "checked_at": "2026-10-18T14:25:24.897325Z"
+  },
+  "NOZ1WC": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-18T14:35:22.318681Z"
+  },
+  "THY3352": {
+    "route": null,
+    "checked_at": "2026-10-18T14:35:22.318681Z"
+  },
+  "RYR33BL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T14:35:22.318681Z"
+  },
+  "RYR31MR": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T14:35:22.318681Z"
+  },
+  "CAT9333": {
+    "route": null,
+    "checked_at": "2026-10-18T14:35:22.318681Z"
   }
 }
