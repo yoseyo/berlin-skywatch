@@ -651,7 +651,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T18:05:22.566474Z"
+    "checked_at": "2026-10-18T18:15:29.465013Z"
   },
   "IBE07MV": {
     "route": {
@@ -3333,7 +3333,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-16T18:15:31.224287Z"
+    "checked_at": "2026-10-18T18:15:29.465013Z"
   },
   "BTI4UJ": {
     "route": {
@@ -6776,7 +6776,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T20:00:54.651959Z"
+    "checked_at": "2026-10-18T18:15:29.465013Z"
   },
   "UPS273": {
     "route": {
@@ -12946,5 +12946,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T18:05:27.795565Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-18T18:15:29.465013Z"
+  },
+  "QTR24E": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-18T18:15:29.465013Z"
+  },
+  "CXI1V": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-18T18:15:29.465013Z"
   }
 }
