@@ -662,7 +662,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-17T18:20:31.104802Z"
+    "checked_at": "2026-10-18T18:20:30.641774Z"
   },
   "PGT984": {
     "route": {
@@ -1014,7 +1014,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T09:00:51.693258Z"
+    "checked_at": "2026-10-18T18:20:30.641774Z"
   },
   "EJU62LY": {
     "route": {
@@ -4027,7 +4027,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-10-17T18:25:22.002595Z"
+    "checked_at": "2026-10-18T18:20:30.641774Z"
   },
   "WMT6363": {
     "route": {
@@ -4249,17 +4249,6 @@
     },
     "checked_at": "2026-10-18T17:25:24.581719Z"
   },
-  "NSZ2067": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T18:15:31.224287Z"
-  },
   "RYR15FP": {
     "route": {
       "fromCity": "Copenhagen",
@@ -4280,18 +4269,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T18:10:30.030727Z"
-  },
-  "DLH8PN": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T18:15:31.224287Z"
+    "checked_at": "2026-10-18T18:20:30.641774Z"
   },
   "RYR98RQ": {
     "route": {
@@ -6559,10 +6537,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T12:00:53.426897Z"
-  },
-  "MFX152": {
-    "route": null,
-    "checked_at": "2026-10-16T18:15:31.224287Z"
   },
   "PAV671": {
     "route": null,
@@ -12979,5 +12953,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-18T18:15:29.465013Z"
+  },
+  "EWG3V": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T18:20:30.641774Z"
+  },
+  "SXS5NH": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T18:20:30.641774Z"
   }
 }
