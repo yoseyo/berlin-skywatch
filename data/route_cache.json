@@ -2470,7 +2470,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T13:30:41.916804Z"
+    "checked_at": "2026-10-18T13:35:22.126104Z"
   },
   "RYR103K": {
     "route": {
@@ -5674,10 +5674,6 @@
     },
     "checked_at": "2026-10-17T13:05:22.400777Z"
   },
-  "SFG55A": {
-    "route": null,
-    "checked_at": "2026-10-16T13:30:48.867186Z"
-  },
   "WMT2GJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -5982,17 +5978,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-16T19:15:31.342873Z"
-  },
-  "VJT725": {
-    "route": {
-      "fromCity": "Washington",
-      "fromIata": "IAD",
-      "toCity": "Abu Dhabi",
-      "toIata": "AUH",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-16T13:30:48.867186Z"
   },
   "NSZ3304": {
     "route": {
@@ -6574,17 +6559,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T11:50:31.151957Z"
-  },
-  "CFG4KC": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T13:30:48.867186Z"
   },
   "AUA25L": {
     "route": {
@@ -12933,5 +12907,16 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-18T13:30:45.103438Z"
+  },
+  "WZZ513": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-18T13:35:22.126104Z"
   }
 }
