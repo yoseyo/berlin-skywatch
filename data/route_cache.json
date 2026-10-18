@@ -1183,7 +1183,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T06:30:40.354611Z"
+    "checked_at": "2026-10-18T05:35:22.992025Z"
   },
   "NSZ8ML": {
     "route": {
@@ -1227,7 +1227,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-17T05:40:29.790492Z"
+    "checked_at": "2026-10-18T05:35:22.992025Z"
   },
   "DLH207": {
     "route": {
@@ -4320,17 +4320,6 @@
     },
     "checked_at": "2026-10-17T04:50:28.435292Z"
   },
-  "BEL2JY": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-16T05:30:44.148600Z"
-  },
   "DLH9YA": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -7017,28 +7006,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-18T05:20:29.326920Z"
-  },
-  "CSZ865": {
-    "route": {
-      "fromCity": "Shenzhen (Bao'an)",
-      "fromIata": "SZX",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Shenzhen Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-16T05:30:44.148600Z"
-  },
-  "TVF801D": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-16T05:30:44.148600Z"
   },
   "QTR7E": {
     "route": {
@@ -13330,5 +13297,27 @@
   "WZZ6071": {
     "route": null,
     "checked_at": "2026-10-18T05:25:22.646534Z"
+  },
+  "RYR15Q": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Beauvais",
+      "toIata": "BVA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T05:35:22.992025Z"
+  },
+  "RYR28HY": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T05:35:22.992025Z"
   }
 }
