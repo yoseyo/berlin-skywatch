@@ -78,7 +78,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-17T13:55:22.142411Z"
+    "checked_at": "2026-10-18T13:55:22.485994Z"
   },
   "NSZ3302": {
     "route": {
@@ -3043,7 +3043,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T07:30:41.298519Z"
+    "checked_at": "2026-10-18T13:55:22.485994Z"
   },
   "WZZ18DM": {
     "route": {
@@ -6603,17 +6603,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T04:10:30.286802Z"
-  },
-  "RUK144": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-16T13:50:35.405267Z"
   },
   "CAT9677": {
     "route": null,
@@ -12928,5 +12917,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T13:45:29.510999Z"
+  },
+  "SAS58M": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T13:55:22.485994Z"
   }
 }
