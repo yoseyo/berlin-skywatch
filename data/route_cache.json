@@ -728,7 +728,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T18:20:31.104802Z"
+    "checked_at": "2026-10-18T19:00:51.912132Z"
   },
   "LOT1LH": {
     "route": {
@@ -739,7 +739,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T18:40:30.322651Z"
+    "checked_at": "2026-10-18T19:00:51.912132Z"
   },
   "AEE82B": {
     "route": {
@@ -761,7 +761,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-16T19:20:33.571044Z"
+    "checked_at": "2026-10-18T19:00:51.912132Z"
   },
   "SXS6XP": {
     "route": {
@@ -12964,5 +12964,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T18:55:24.592047Z"
+  },
+  "EJU86PQ": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T19:00:51.912132Z"
+  },
+  "SAS1698": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T19:00:51.912132Z"
   }
 }
