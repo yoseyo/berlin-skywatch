@@ -2360,7 +2360,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T13:15:28.561913Z"
+    "checked_at": "2026-10-18T13:10:33.103405Z"
   },
   "SAS1678": {
     "route": {
@@ -2382,7 +2382,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T13:10:29.936067Z"
+    "checked_at": "2026-10-18T13:10:33.103405Z"
   },
   "EWG7WB": {
     "route": {
@@ -5630,17 +5630,6 @@
     },
     "checked_at": "2026-10-18T12:40:32.416263Z"
   },
-  "EJU16QM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-16T13:05:25.634465Z"
-  },
   "EJU12TM": {
     "route": {
       "fromCity": "Paris",
@@ -6578,10 +6567,6 @@
   "BAG11": {
     "route": null,
     "checked_at": "2026-10-18T12:50:31.880174Z"
-  },
-  "N66HR": {
-    "route": null,
-    "checked_at": "2026-10-16T13:05:25.634465Z"
   },
   "RJA137": {
     "route": {
@@ -12877,5 +12862,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-18T13:05:22.812549Z"
+  },
+  "TVF97PR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-18T13:10:33.103405Z"
   }
 }
