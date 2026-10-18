@@ -1,16 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "BPOBER",
-      "country": "Germany",
-      "lat": 52.6019,
-      "lon": 13.5753,
-      "altKm": 0.1,
-      "speedKmh": 31,
-      "heading": 104,
-      "vertRateMs": -1.6,
-      "category": "heli"
+      "callsign": "NSZ3735",
+      "country": "Sweden",
+      "lat": 52.6176,
+      "lon": 12.7279,
+      "altKm": 11.9,
+      "speedKmh": 811,
+      "heading": 359,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "WZZ671",
+      "country": "Malta",
+      "lat": 52.147,
+      "lon": 13.8891,
+      "altKm": 10.7,
+      "speedKmh": 811,
+      "heading": 46,
+      "vertRateMs": -1.0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-18T22:15:29.361723Z"
+  "updated_at": "2026-10-18T22:20:29.734906Z"
 }
