@@ -4227,10 +4227,6 @@
     },
     "checked_at": "2026-10-18T19:45:28.986529Z"
   },
-  "AEG6911": {
-    "route": null,
-    "checked_at": "2026-10-16T21:05:26.363272Z"
-  },
   "SRR6227": {
     "route": {
       "fromCity": "Berlin",
@@ -13056,5 +13052,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T21:00:53.005720Z"
+  },
+  "SDR11YL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T21:10:29.436649Z"
   }
 }

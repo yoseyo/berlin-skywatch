@@ -1,50 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "RYR8YY",
-      "country": "Ireland",
-      "lat": 52.2945,
-      "lon": 13.178,
+      "callsign": "SDR11YL",
+      "country": "Germany",
+      "lat": 52.2872,
+      "lon": 13.1665,
       "altKm": 1.3,
-      "speedKmh": 399,
-      "heading": 69,
-      "vertRateMs": -5.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
+      "speedKmh": 400,
+      "heading": 50,
+      "vertRateMs": -0.7,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     },
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5456,
-      "lon": 13.5812,
-      "altKm": 0.9,
-      "speedKmh": 120,
-      "heading": 321,
-      "vertRateMs": -2.6,
-      "category": "heli"
-    },
-    {
-      "callsign": "WZZ620U",
-      "country": "Malta",
-      "lat": 52.5558,
-      "lon": 13.9135,
-      "altKm": 11.0,
-      "speedKmh": 848,
-      "heading": 90,
+      "lat": 52.5338,
+      "lon": 13.4711,
+      "altKm": 0.8,
+      "speedKmh": 242,
+      "heading": 258,
       "vertRateMs": -0.3,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "category": "plane"
+      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-18T21:05:24.508811Z"
+  "updated_at": "2026-10-18T21:10:29.436649Z"
 }
