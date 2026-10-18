@@ -306,7 +306,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T16:45:29.123953Z"
+    "checked_at": "2026-10-18T17:50:33.670639Z"
   },
   "RYR3PT": {
     "route": {
@@ -427,7 +427,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T17:35:23.497256Z"
+    "checked_at": "2026-10-18T17:50:33.670639Z"
   },
   "AFR99GT": {
     "route": {
@@ -596,7 +596,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T17:30:42.250996Z"
+    "checked_at": "2026-10-18T17:50:33.670639Z"
   },
   "AEE8DT": {
     "route": {
@@ -6559,28 +6559,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-18T17:18:55.580738Z"
-  },
-  "WMT2WZ": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-16T17:45:32.871474Z"
-  },
-  "ASL19H": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-16T17:50:29.904982Z"
   },
   "EJU58DM": {
     "route": {
@@ -12946,5 +12924,38 @@
   "KMM376": {
     "route": null,
     "checked_at": "2026-10-18T17:45:28.066562Z"
+  },
+  "BTI6UN": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-18T17:50:33.670639Z"
+  },
+  "EJU5267": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T17:50:33.670639Z"
+  },
+  "WZZ4ZP": {
+    "route": {
+      "fromCity": "Tuzla",
+      "fromIata": "TZL",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-18T17:50:33.670639Z"
   }
 }
