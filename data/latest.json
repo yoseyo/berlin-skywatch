@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-18T02:25:20.978625Z"
+  "flights": [
+    {
+      "callsign": "FIN4RT",
+      "country": "Finland",
+      "lat": 52.9245,
+      "lon": 13.3166,
+      "altKm": 10.9,
+      "speedKmh": 878,
+      "heading": 34,
+      "vertRateMs": 0,
+      "airline": "Finnair",
+      "airlineCountry": "Finland",
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-18T02:30:41.101247Z"
 }
