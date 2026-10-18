@@ -4967,7 +4967,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T11:00:52.597523Z"
+    "checked_at": "2026-10-18T11:00:52.142421Z"
   },
   "DLH5MA": {
     "route": {
@@ -5863,7 +5863,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T10:30:39.603690Z"
+    "checked_at": "2026-10-18T11:00:52.142421Z"
   },
   "EJU96PC": {
     "route": {
@@ -6673,21 +6673,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-18T10:05:24.770031Z"
-  },
-  "DACDC": {
-    "route": null,
-    "checked_at": "2026-10-16T10:55:25.628475Z"
-  },
-  "NSZ3375": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T10:55:25.628475Z"
   },
   "TSC419": {
     "route": {
@@ -12777,5 +12762,42 @@
       "airlineCountry": "Canada"
     },
     "checked_at": "2026-10-18T10:55:24.362641Z"
+  },
+  "EJU5060": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T11:00:52.142421Z"
+  },
+  "DERDH": {
+    "route": {
+      "fromCity": "Church Fenton",
+      "fromIata": null,
+      "toCity": "Bonn",
+      "toIata": "BNJ",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-18T11:00:52.142421Z"
+  },
+  "FIN4LK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-18T11:00:52.142421Z"
+  },
+  "NJE453G": {
+    "route": null,
+    "checked_at": "2026-10-18T11:00:52.142421Z"
   }
 }
