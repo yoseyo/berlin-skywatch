@@ -4871,10 +4871,6 @@
     },
     "checked_at": "2026-10-17T08:45:26.833717Z"
   },
-  "DESNN": {
-    "route": null,
-    "checked_at": "2026-10-16T08:15:33.457723Z"
-  },
   "TKJ9NQ": {
     "route": {
       "fromCity": "Berlin",
@@ -6940,10 +6936,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T05:20:29.326920Z"
-  },
-  "PTN67M": {
-    "route": null,
-    "checked_at": "2026-10-16T08:15:33.457723Z"
   },
   "RYR39DH": {
     "route": {
@@ -13128,5 +13120,38 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-18T08:10:31.189394Z"
+  },
+  "MGH767": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T08:20:32.656654Z"
+  },
+  "NSZ3DA": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T08:20:32.656654Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T08:20:32.656654Z"
   }
 }
