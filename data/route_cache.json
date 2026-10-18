@@ -1249,7 +1249,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T05:55:21.837506Z"
+    "checked_at": "2026-10-18T05:50:29.695448Z"
   },
   "AUA223B": {
     "route": {
@@ -6985,10 +6985,6 @@
     },
     "checked_at": "2026-10-18T05:20:29.326920Z"
   },
-  "BBB54": {
-    "route": null,
-    "checked_at": "2026-10-16T05:45:30.174514Z"
-  },
   "CFG553": {
     "route": null,
     "checked_at": "2026-10-17T05:30:41.191066Z"
@@ -7072,7 +7068,7 @@
   },
   "WZZ8649": {
     "route": null,
-    "checked_at": "2026-10-16T06:05:25.873400Z"
+    "checked_at": "2026-10-18T05:50:29.695448Z"
   },
   "EJU41NB": {
     "route": {
@@ -13286,5 +13282,27 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-18T05:45:27.688459Z"
+  },
+  "WZZ691": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-18T05:50:29.695448Z"
+  },
+  "EWG27P": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T05:50:29.695448Z"
   }
 }
