@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "SWR5XL",
-      "country": "Switzerland",
-      "lat": 52.1903,
-      "lon": 12.8713,
-      "altKm": 7.1,
-      "speedKmh": 731,
-      "heading": 231,
-      "vertRateMs": 10.4,
-      "airline": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
+      "callsign": "BTI3TP",
+      "country": "Latvia",
+      "lat": 52.8212,
+      "lon": 13.653,
+      "altKm": 10.6,
+      "speedKmh": 754,
+      "heading": 257,
+      "vertRateMs": 0,
+      "airline": "Air Baltic",
+      "airlineCountry": "Latvia",
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "category": "plane"
+    },
+    {
+      "callsign": "FLI9120",
+      "country": "Denmark",
+      "lat": 52.3988,
+      "lon": 13.9646,
+      "altKm": 12.1,
+      "speedKmh": 790,
+      "heading": 170,
+      "vertRateMs": 0,
+      "airline": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-18T05:40:29.045853Z"
+  "updated_at": "2026-10-18T05:45:27.688459Z"
 }

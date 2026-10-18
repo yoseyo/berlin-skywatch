@@ -6985,17 +6985,6 @@
     },
     "checked_at": "2026-10-18T05:20:29.326920Z"
   },
-  "JTD9557": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-16T05:40:31.290215Z"
-  },
   "BBB54": {
     "route": null,
     "checked_at": "2026-10-16T05:45:30.174514Z"
@@ -13275,5 +13264,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T05:35:22.992025Z"
+  },
+  "BTI3TP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-18T05:45:27.688459Z"
+  },
+  "FLI9120": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Preveza/Lefkada",
+      "toIata": "PVK",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-18T05:45:27.688459Z"
   }
 }
