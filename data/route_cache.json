@@ -629,7 +629,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-16T20:35:23.785642Z"
+    "checked_at": "2026-10-18T04:45:30.344480Z"
   },
   "NOZ8GB": {
     "route": {
@@ -5310,7 +5310,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T05:50:27.369362Z"
+    "checked_at": "2026-10-18T04:45:30.344480Z"
   },
   "RYR13PB": {
     "route": {
@@ -7032,17 +7032,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-18T03:55:20.866628Z"
-  },
-  "NSZ3752": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T04:40:34.094559Z"
   },
   "SXS8LV": {
     "route": {
@@ -13417,5 +13406,20 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T04:40:30.443656Z"
+  },
+  "WZZ3XS": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-18T04:45:30.344480Z"
+  },
+  "CAT733": {
+    "route": null,
+    "checked_at": "2026-10-18T04:45:30.344480Z"
   }
 }
