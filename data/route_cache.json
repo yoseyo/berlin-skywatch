@@ -284,7 +284,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T12:15:31.698108Z"
+    "checked_at": "2026-10-18T15:30:43.305942Z"
   },
   "LHX194": {
     "route": {
@@ -3284,28 +3284,6 @@
     "route": null,
     "checked_at": "2026-10-18T08:55:22.524036Z"
   },
-  "AUA233": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-16T15:30:27.694886Z"
-  },
-  "CFE61X": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-16T15:30:27.694886Z"
-  },
   "EWG67A": {
     "route": {
       "fromCity": "Gran Canaria Island",
@@ -4976,17 +4954,6 @@
     },
     "checked_at": "2026-10-16T17:00:56.417771Z"
   },
-  "RYR62XF": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-16T15:30:27.694886Z"
-  },
   "EJU5014": {
     "route": {
       "fromCity": "Rhodes Island",
@@ -6619,32 +6586,6 @@
     },
     "checked_at": "2026-10-18T15:25:24.033083Z"
   },
-  "CHX39": {
-    "route": null,
-    "checked_at": "2026-10-16T15:25:26.274817Z"
-  },
-  "NMA739": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nesma Airlines",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-16T15:25:26.274817Z"
-  },
-  "LZB320": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "airlineName": "Bulgaria Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-16T15:30:27.694886Z"
-  },
   "THY9QR": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6655,10 +6596,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-17T15:05:24.375015Z"
-  },
-  "FHRMP": {
-    "route": null,
-    "checked_at": "2026-10-16T15:30:27.694886Z"
   },
   "JTD9561": {
     "route": {
@@ -6773,7 +6710,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T08:15:28.356098Z"
+    "checked_at": "2026-10-18T15:30:43.305942Z"
   },
   "NJE810P": {
     "route": {
@@ -12866,5 +12803,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T15:25:24.033083Z"
+  },
+  "WZZ9EN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-18T15:30:43.305942Z"
   }
 }
