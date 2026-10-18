@@ -1359,7 +1359,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T06:55:21.587285Z"
+    "checked_at": "2026-10-18T06:30:41.741251Z"
   },
   "RYR4WC": {
     "route": {
@@ -2981,7 +2981,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T08:05:23.954261Z"
+    "checked_at": "2026-10-18T06:30:41.741251Z"
   },
   "TAP532B": {
     "route": {
@@ -3004,17 +3004,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T22:10:32.710570Z"
-  },
-  "FIN6AP": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-16T06:25:26.831852Z"
   },
   "RYR785N": {
     "route": {
@@ -6981,17 +6970,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-17T04:55:21.056400Z"
-  },
-  "WMT9SL": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-16T06:25:26.831852Z"
   },
   "EJU12HB": {
     "route": {
@@ -13271,5 +13249,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T06:25:22.688750Z"
+  },
+  "FIN7QA": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Torino",
+      "toIata": "TRN",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-18T06:30:41.741251Z"
   }
 }
