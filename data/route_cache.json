@@ -2848,7 +2848,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T17:35:23.497256Z"
+    "checked_at": "2026-10-18T18:05:27.795565Z"
   },
   "RYR9PG": {
     "route": {
@@ -6571,17 +6571,6 @@
     },
     "checked_at": "2026-10-18T13:50:29.005410Z"
   },
-  "EWG1910": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Dortmund",
-      "toIata": "DTM",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T18:05:24.122131Z"
-  },
   "ATV504": {
     "route": null,
     "checked_at": "2026-10-16T18:10:29.855089Z"
@@ -9732,7 +9721,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T18:10:30.030727Z"
+    "checked_at": "2026-10-18T18:05:27.795565Z"
   },
   "SDR60YJ": {
     "route": {
@@ -12972,5 +12961,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T18:00:53.792100Z"
+  },
+  "TKJ5177": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T18:05:27.795565Z"
   }
 }
