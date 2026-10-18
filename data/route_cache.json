@@ -6663,32 +6663,6 @@
     },
     "checked_at": "2026-10-18T10:55:24.362641Z"
   },
-  "DLH9889": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T11:20:34.244286Z"
-  },
-  "EJU46TQ": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-16T11:20:34.244286Z"
-  },
-  "NJE814W": {
-    "route": null,
-    "checked_at": "2026-10-16T11:20:34.244286Z"
-  },
   "BTI4WA": {
     "route": {
       "fromCity": "Nice",
@@ -12751,5 +12725,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-18T11:15:28.267409Z"
+  },
+  "EZY75YJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-18T11:25:24.299291Z"
   }
 }
