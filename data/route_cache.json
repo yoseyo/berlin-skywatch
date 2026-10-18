@@ -416,7 +416,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-17T16:40:31.298351Z"
+    "checked_at": "2026-10-18T16:30:43.926131Z"
   },
   "PGT49PK": {
     "route": {
@@ -471,7 +471,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T16:55:22.402381Z"
+    "checked_at": "2026-10-18T16:30:43.926131Z"
   },
   "EWG5EY": {
     "route": {
@@ -3315,7 +3315,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T18:00:55.383824Z"
+    "checked_at": "2026-10-18T16:30:43.926131Z"
   },
   "EJU82DY": {
     "route": {
@@ -5683,7 +5683,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T16:10:28.367376Z"
+    "checked_at": "2026-10-18T16:30:43.926131Z"
   },
   "EZY29HQ": {
     "route": {
@@ -6617,7 +6617,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T16:30:46.953006Z"
+    "checked_at": "2026-10-18T16:30:43.926131Z"
   },
   "KLM9936": {
     "route": {
@@ -12909,5 +12909,53 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-18T16:25:22.797978Z"
+  },
+  "NSZ4377": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T16:30:43.926131Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-18T16:30:43.926131Z"
+  },
+  "BTI9AG": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-18T16:30:43.926131Z"
+  },
+  "EJU57YZ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T16:30:43.926131Z"
+  },
+  "EFD5R": {
+    "route": null,
+    "checked_at": "2026-10-18T16:30:43.926131Z"
   }
 }
