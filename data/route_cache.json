@@ -350,7 +350,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T16:15:29.365741Z"
+    "checked_at": "2026-10-18T16:15:31.959543Z"
   },
   "SWR23F": {
     "route": {
@@ -405,7 +405,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T16:15:29.365741Z"
+    "checked_at": "2026-10-18T16:15:31.959543Z"
   },
   "IBE07WR": {
     "route": {
@@ -3201,7 +3201,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-17T16:45:29.123953Z"
+    "checked_at": "2026-10-18T16:15:31.959543Z"
   },
   "KLM1782": {
     "route": {
@@ -4016,7 +4016,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T20:00:54.651959Z"
+    "checked_at": "2026-10-18T16:15:31.959543Z"
   },
   "EWG55X": {
     "route": {
@@ -4897,7 +4897,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T16:30:41.704497Z"
+    "checked_at": "2026-10-18T16:15:31.959543Z"
   },
   "DMS2LW": {
     "route": {
@@ -5947,7 +5947,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-16T21:05:26.363272Z"
+    "checked_at": "2026-10-18T16:15:31.959543Z"
   },
   "NSZ3305": {
     "route": {
@@ -12854,5 +12854,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T16:10:35.044719Z"
+  },
+  "RYR2281": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T16:15:31.959543Z"
+  },
+  "DCBAY": {
+    "route": {
+      "fromCity": "Olbia (SS)",
+      "fromIata": "OLB",
+      "toCity": "Bucharest",
+      "toIata": "BBU",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-18T16:15:31.959543Z"
   }
 }
