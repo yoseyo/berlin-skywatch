@@ -2828,10 +2828,6 @@
     },
     "checked_at": "2026-10-17T16:20:29.491589Z"
   },
-  "DEHGB": {
-    "route": null,
-    "checked_at": "2026-10-16T09:20:32.964222Z"
-  },
   "EJU5088": {
     "route": null,
     "checked_at": "2026-10-16T21:40:32.364283Z"
@@ -3287,17 +3283,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-16T09:35:26.056039Z"
-  },
-  "BAW87AM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-16T09:20:32.964222Z"
   },
   "WZZ40LC": {
     "route": {
@@ -3829,7 +3814,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T09:15:26.705946Z"
+    "checked_at": "2026-10-18T09:25:24.085036Z"
   },
   "SXS8RG": {
     "route": {
@@ -5208,10 +5193,6 @@
     },
     "checked_at": "2026-10-17T15:05:24.375015Z"
   },
-  "DEKPR": {
-    "route": null,
-    "checked_at": "2026-10-16T09:20:32.964222Z"
-  },
   "EWG9KG": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5758,7 +5739,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-16T09:30:48.147739Z"
+    "checked_at": "2026-10-18T09:25:24.085036Z"
   },
   "EJU5027": {
     "route": {
@@ -6792,39 +6773,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T08:50:29.068415Z"
-  },
-  "SDR10CL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T09:20:32.964222Z"
-  },
-  "DMKDT": {
-    "route": {
-      "fromCity": "Strausberg",
-      "fromIata": null,
-      "toCity": "Strausberg",
-      "toIata": null,
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-16T09:20:32.964222Z"
-  },
-  "RYR30RG": {
-    "route": {
-      "fromCity": "Banja Luka",
-      "fromIata": "BNX",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-16T09:20:32.964222Z"
   },
   "PGT1678": {
     "route": {
@@ -12950,5 +12898,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T09:05:26.041470Z"
+  },
+  "CAI17QT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T09:25:24.085036Z"
   }
 }
