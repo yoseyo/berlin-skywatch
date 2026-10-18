@@ -3186,7 +3186,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T11:15:28.043138Z"
+    "checked_at": "2026-10-18T15:00:52.425452Z"
   },
   "EJU32RT": {
     "route": null,
@@ -6560,21 +6560,6 @@
     },
     "checked_at": "2026-10-17T06:30:40.354611Z"
   },
-  "DMVRG": {
-    "route": null,
-    "checked_at": "2026-10-16T14:55:24.882257Z"
-  },
-  "BEL9SZ": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-16T14:55:24.882257Z"
-  },
   "FIN45M": {
     "route": {
       "fromCity": "Helsinki",
@@ -6585,17 +6570,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-17T15:05:24.375015Z"
-  },
-  "RYR46JP": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-16T14:55:24.882257Z"
   },
   "NSZ72N": {
     "route": {
@@ -12925,5 +12899,16 @@
   "DMYHG": {
     "route": null,
     "checked_at": "2026-10-18T14:55:23.498953Z"
+  },
+  "RYR3UX": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T15:00:52.425452Z"
   }
 }
