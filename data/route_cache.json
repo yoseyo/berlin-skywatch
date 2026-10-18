@@ -6560,17 +6560,6 @@
     },
     "checked_at": "2026-10-17T11:15:28.043138Z"
   },
-  "RYR7654": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-16T14:45:33.709841Z"
-  },
   "RYR28LA": {
     "route": {
       "fromCity": "Kerkyra Island",
@@ -12903,5 +12892,42 @@
   "VPBLU": {
     "route": null,
     "checked_at": "2026-10-18T14:45:29.017074Z"
+  },
+  "EJU35TP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T14:50:30.503225Z"
+  },
+  "MJF71G": {
+    "route": {
+      "fromCity": "Teterboro",
+      "fromIata": "TEB",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-18T14:50:30.503225Z"
+  },
+  "EJU72TJ": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T14:50:30.503225Z"
+  },
+  "CAT9329": {
+    "route": null,
+    "checked_at": "2026-10-18T14:50:30.503225Z"
   }
 }
