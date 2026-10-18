@@ -3264,7 +3264,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T08:30:41.496859Z"
+    "checked_at": "2026-10-18T08:35:23.731429Z"
   },
   "VLG6JY": {
     "route": {
@@ -6932,17 +6932,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T07:45:28.194401Z"
-  },
-  "EJU91FL": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-16T08:30:45.079409Z"
   },
   "DHBEE": {
     "route": null,
@@ -13138,5 +13127,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T08:25:23.469754Z"
+  },
+  "TSC418": {
+    "route": {
+      "fromCity": "Toronto",
+      "fromIata": "YYZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-18T08:35:23.731429Z"
+  },
+  "BTI877": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-18T08:35:23.731429Z"
   }
 }
