@@ -926,7 +926,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T20:20:31.352466Z"
+    "checked_at": "2026-10-18T20:40:32.404135Z"
   },
   "AFR69GW": {
     "route": {
@@ -937,7 +937,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-17T20:25:21.091836Z"
+    "checked_at": "2026-10-18T20:40:32.404135Z"
   },
   "SWR9LC": {
     "route": {
@@ -959,7 +959,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T20:45:28.928864Z"
+    "checked_at": "2026-10-18T20:40:32.404135Z"
   },
   "IBE0787": {
     "route": {
@@ -4029,17 +4029,6 @@
     },
     "checked_at": "2026-10-18T19:40:30.713439Z"
   },
-  "EZY63GU": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-16T20:35:23.785642Z"
-  },
   "CFE8PR": {
     "route": {
       "fromCity": "Berlin",
@@ -4833,17 +4822,6 @@
     },
     "checked_at": "2026-10-17T16:45:29.123953Z"
   },
-  "QTR28L": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-16T20:40:30.237299Z"
-  },
   "ELY005": {
     "route": null,
     "checked_at": "2026-10-18T01:55:20.022874Z"
@@ -5620,7 +5598,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-16T20:55:24.525588Z"
+    "checked_at": "2026-10-18T20:40:32.404135Z"
   },
   "EZY59YH": {
     "route": {
@@ -6486,17 +6464,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T20:30:42.604550Z"
-  },
-  "NOZ3CG": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-16T20:40:30.237299Z"
   },
   "RYR37YC": {
     "route": {
@@ -13012,5 +12979,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T20:35:22.022455Z"
+  },
+  "NSZ24N": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T20:40:32.404135Z"
   }
 }
