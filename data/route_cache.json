@@ -2085,7 +2085,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T11:00:52.597523Z"
+    "checked_at": "2026-10-18T11:05:22.880394Z"
   },
   "RYR6UR": {
     "route": {
@@ -3898,7 +3898,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T11:05:23.480136Z"
+    "checked_at": "2026-10-18T11:05:22.880394Z"
   },
   "UAE57X": {
     "route": {
@@ -4307,17 +4307,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-16T21:20:30.060105Z"
-  },
-  "LHX2T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T11:00:53.998950Z"
   },
   "SAS1665": {
     "route": {
@@ -6674,39 +6663,6 @@
     },
     "checked_at": "2026-10-18T10:05:24.770031Z"
   },
-  "TSC419": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Transat",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-16T11:00:53.998950Z"
-  },
-  "BTI3BP": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-16T11:00:53.998950Z"
-  },
-  "QTR72U": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-16T11:00:53.998950Z"
-  },
   "EWG7BH": {
     "route": {
       "fromCity": "Berlin",
@@ -7105,7 +7061,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T13:55:26.991634Z"
+    "checked_at": "2026-10-18T11:05:22.880394Z"
   },
   "LZB319": {
     "route": {
@@ -12799,5 +12755,16 @@
   "NJE453G": {
     "route": null,
     "checked_at": "2026-10-18T11:00:52.142421Z"
+  },
+  "CAT318": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Aalborg",
+      "toIata": "AAL",
+      "airlineName": "Copenhagen Airtaxi",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-18T11:05:22.880394Z"
   }
 }
