@@ -4945,7 +4945,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T11:55:24.655904Z"
+    "checked_at": "2026-10-18T12:05:24.050026Z"
   },
   "SWU1950": {
     "route": {
@@ -12788,5 +12788,31 @@
   "NJE361C": {
     "route": null,
     "checked_at": "2026-10-18T12:00:53.426897Z"
+  },
+  "CHX71": {
+    "route": null,
+    "checked_at": "2026-10-18T12:05:24.050026Z"
+  },
+  "HLF8868": {
+    "route": {
+      "fromCity": "Bangkok",
+      "fromIata": "BKK",
+      "toCity": "Yantai",
+      "toIata": "YNT",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T12:05:24.050026Z"
+  },
+  "WZZ334": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-18T12:05:24.050026Z"
   }
 }
