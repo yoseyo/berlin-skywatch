@@ -5024,17 +5024,6 @@
     },
     "checked_at": "2026-10-16T20:40:30.237299Z"
   },
-  "EJU74RM": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-16T17:30:50.739350Z"
-  },
   "ELY005": {
     "route": null,
     "checked_at": "2026-10-18T01:55:20.022874Z"
@@ -5635,7 +5624,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-16T17:45:32.871474Z"
+    "checked_at": "2026-10-18T17:35:21.958497Z"
   },
   "BAW996G": {
     "route": {
@@ -12968,5 +12957,38 @@
   "TWI345": {
     "route": null,
     "checked_at": "2026-10-18T17:30:41.564835Z"
+  },
+  "NSZ3734": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T17:35:21.958497Z"
+  },
+  "CFE7026": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-18T17:35:21.958497Z"
+  },
+  "AUA256": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T17:35:21.958497Z"
   }
 }
