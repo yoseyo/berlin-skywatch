@@ -1,27 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "ELY001",
+      "callsign": "ELY025",
       "country": "Israel",
-      "lat": 52.4393,
-      "lon": 12.8114,
-      "altKm": 10.6,
-      "speedKmh": 902,
+      "lat": 52.4275,
+      "lon": 12.7804,
+      "altKm": 11.2,
+      "speedKmh": 921,
       "heading": 322,
-      "vertRateMs": 0,
+      "vertRateMs": -0.3,
+      "airline": "El Al Israel Airlines",
+      "airlineCountry": "Israel",
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "EWR",
       "category": "plane"
     },
     {
       "callsign": "SPEMC",
       "country": "Poland",
-      "lat": 52.4475,
-      "lon": 13.3306,
+      "lat": 52.4787,
+      "lon": 12.7598,
       "altKm": 8.1,
-      "speedKmh": 461,
+      "speedKmh": 470,
       "heading": 275,
       "vertRateMs": 0,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-18T01:40:30.433844Z"
+  "updated_at": "2026-10-18T01:45:27.465791Z"
 }
