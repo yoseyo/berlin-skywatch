@@ -6538,14 +6538,6 @@
     },
     "checked_at": "2026-10-18T12:00:53.426897Z"
   },
-  "PAV671": {
-    "route": null,
-    "checked_at": "2026-10-16T18:20:31.110757Z"
-  },
-  "AMQ5V": {
-    "route": null,
-    "checked_at": "2026-10-16T18:20:31.110757Z"
-  },
   "DGJ567": {
     "route": null,
     "checked_at": "2026-10-17T08:25:20.665513Z"
@@ -12975,5 +12967,20 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T18:20:30.641774Z"
+  },
+  "CHX62": {
+    "route": null,
+    "checked_at": "2026-10-18T18:25:23.301876Z"
+  },
+  "BTI7KJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-18T18:25:23.301876Z"
   }
 }
