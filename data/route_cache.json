@@ -218,7 +218,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T20:20:31.352466Z"
+    "checked_at": "2026-10-18T16:35:22.904770Z"
   },
   "FIN5DL": {
     "route": {
@@ -460,7 +460,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T17:20:30.090848Z"
+    "checked_at": "2026-10-18T16:35:22.904770Z"
   },
   "AUA99HC": {
     "route": {
@@ -3326,7 +3326,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T16:30:46.953006Z"
+    "checked_at": "2026-10-18T16:35:22.904770Z"
   },
   "LGL9473": {
     "route": {
@@ -4274,17 +4274,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-18T15:45:34.105020Z"
-  },
-  "NSZ2066": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T16:30:46.953006Z"
   },
   "NSZ3732": {
     "route": {
@@ -5335,10 +5324,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T09:10:30.635671Z"
-  },
-  "PBB17": {
-    "route": null,
-    "checked_at": "2026-10-16T16:30:46.953006Z"
   },
   "LOT2LP": {
     "route": {
@@ -10314,7 +10299,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-17T20:05:23.027561Z"
+    "checked_at": "2026-10-18T16:35:22.904770Z"
   },
   "SAS96T": {
     "route": {
@@ -12957,5 +12942,27 @@
   "EFD5R": {
     "route": null,
     "checked_at": "2026-10-18T16:30:43.926131Z"
+  },
+  "EWG41H": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T16:35:22.904770Z"
+  },
+  "RYR8AL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Rzesz\u00f3w",
+      "toIata": "RZE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T16:35:22.904770Z"
   }
 }
