@@ -3795,7 +3795,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T18:10:30.030727Z"
+    "checked_at": "2026-10-18T18:40:31.079925Z"
   },
   "KLM1771": {
     "route": {
@@ -4028,17 +4028,6 @@
   "FIN8DN": {
     "route": null,
     "checked_at": "2026-10-18T18:20:30.641774Z"
-  },
-  "WMT6363": {
-    "route": {
-      "fromCity": "Bucharest",
-      "fromIata": "OTP",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-16T18:40:30.741767Z"
   },
   "BEL9NK": {
     "route": {
@@ -4487,17 +4476,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-16T18:45:30.358565Z"
-  },
-  "PGT566B": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-16T18:40:30.741767Z"
   },
   "RYR4VG": {
     "route": {
@@ -5708,7 +5686,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-16T19:25:25.165923Z"
+    "checked_at": "2026-10-18T18:40:31.079925Z"
   },
   "NSZ4508": {
     "route": {
@@ -6552,17 +6530,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-17T18:45:27.343546Z"
-  },
-  "RYR8603": {
-    "route": {
-      "fromCity": "Weeze",
-      "fromIata": "NRN",
-      "toCity": "Valencia",
-      "toIata": "VLC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-16T18:40:30.741767Z"
   },
   "TAY6DN": {
     "route": {
@@ -13004,5 +12971,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T18:35:22.552107Z"
+  },
+  "FIN8JD": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-18T18:40:31.079925Z"
   }
 }
