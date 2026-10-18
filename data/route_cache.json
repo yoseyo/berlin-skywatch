@@ -2206,7 +2206,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T11:55:24.655904Z"
+    "checked_at": "2026-10-18T11:35:21.523885Z"
   },
   "PGT93T": {
     "route": {
@@ -4039,17 +4039,6 @@
   "PYR014": {
     "route": null,
     "checked_at": "2026-10-17T15:55:20.995638Z"
-  },
-  "BBG272": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-16T11:30:44.989945Z"
   },
   "WZZ3GV": {
     "route": {
@@ -12740,5 +12729,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-18T11:30:44.472370Z"
+  },
+  "EWG1SU": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T11:35:21.523885Z"
+  },
+  "QTR35P": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-18T11:35:21.523885Z"
   }
 }
