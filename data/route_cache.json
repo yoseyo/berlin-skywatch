@@ -2826,7 +2826,7 @@
   },
   "EJU5088": {
     "route": null,
-    "checked_at": "2026-10-16T21:40:32.364283Z"
+    "checked_at": "2026-10-18T21:25:23.732466Z"
   },
   "LOT4PJ": {
     "route": {
@@ -5084,7 +5084,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T21:30:42.896377Z"
+    "checked_at": "2026-10-18T21:25:23.732466Z"
   },
   "PGT21PC": {
     "route": {
@@ -6482,17 +6482,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-18T20:50:30.799340Z"
-  },
-  "BCS8EL": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T21:25:23.447830Z"
   },
   "NSZ4360": {
     "route": {
@@ -13008,5 +12997,16 @@
   "CAT320": {
     "route": null,
     "checked_at": "2026-10-18T21:15:29.793956Z"
+  },
+  "EJU42JF": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T21:25:23.732466Z"
   }
 }
