@@ -1876,7 +1876,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T13:45:28.795123Z"
+    "checked_at": "2026-10-18T08:50:29.068415Z"
   },
   "DLH9KK": {
     "route": {
@@ -3941,10 +3941,6 @@
     },
     "checked_at": "2026-10-17T11:05:23.480136Z"
   },
-  "DMYHG": {
-    "route": null,
-    "checked_at": "2026-10-16T08:45:32.187308Z"
-  },
   "UAE57X": {
     "route": {
       "fromCity": "Hamburg",
@@ -5102,17 +5098,6 @@
     },
     "checked_at": "2026-10-16T09:05:24.971344Z"
   },
-  "WZZ2709": {
-    "route": {
-      "fromCity": "Debrecen",
-      "fromIata": "DEB",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-16T08:45:32.187308Z"
-  },
   "NOZ52Z": {
     "route": {
       "fromCity": "Oslo",
@@ -5254,7 +5239,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T10:10:28.064632Z"
+    "checked_at": "2026-10-18T08:50:29.068415Z"
   },
   "RYR17PM": {
     "route": {
@@ -6911,28 +6896,6 @@
     },
     "checked_at": "2026-10-18T07:45:28.194401Z"
   },
-  "DCBAY": {
-    "route": {
-      "fromCity": "Olbia (SS)",
-      "fromIata": "OLB",
-      "toCity": "Bucharest",
-      "toIata": "BBU",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-16T08:45:32.187308Z"
-  },
-  "EWG8602": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T08:45:32.187308Z"
-  },
   "PGT77BA": {
     "route": {
       "fromCity": "Antalya",
@@ -6979,7 +6942,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-16T09:00:56.902048Z"
+    "checked_at": "2026-10-18T08:50:29.068415Z"
   },
   "LHX9HP": {
     "route": {
@@ -13145,5 +13108,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-18T08:45:27.829329Z"
+  },
+  "RAM221M": {
+    "route": {
+      "fromCity": "Moscow",
+      "fromIata": "DME",
+      "toCity": "Casablanca",
+      "toIata": "CMN",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-10-18T08:50:29.068415Z"
+  },
+  "SAS2677": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T08:50:29.068415Z"
   }
 }
