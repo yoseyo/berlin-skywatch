@@ -2811,7 +2811,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T09:10:30.172483Z"
+    "checked_at": "2026-10-18T13:40:30.518409Z"
   },
   "EWG9SK": {
     "route": {
@@ -4967,7 +4967,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T13:25:21.921433Z"
+    "checked_at": "2026-10-18T13:40:30.518409Z"
   },
   "SAS49N": {
     "route": {
@@ -5705,7 +5705,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-17T13:35:22.209399Z"
+    "checked_at": "2026-10-18T13:40:30.518409Z"
   },
   "SAS81L": {
     "route": {
@@ -6569,15 +6569,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-16T13:35:25.658588Z"
-  },
-  "DMBPW": {
-    "route": null,
-    "checked_at": "2026-10-16T13:35:25.658588Z"
-  },
-  "AYJ424": {
-    "route": null,
-    "checked_at": "2026-10-16T13:35:25.658588Z"
+    "checked_at": "2026-10-18T13:40:30.518409Z"
   },
   "EWG3PD": {
     "route": {
@@ -12918,5 +12910,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-18T13:35:22.126104Z"
+  },
+  "NSZ3582": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T13:40:30.518409Z"
+  },
+  "BEL9CK": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-18T13:40:30.518409Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-18T13:40:30.518409Z"
   }
 }
