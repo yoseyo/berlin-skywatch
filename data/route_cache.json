@@ -2437,7 +2437,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T16:45:29.123953Z"
+    "checked_at": "2026-10-18T12:20:30.533152Z"
   },
   "WZZ262": {
     "route": {
@@ -12825,5 +12825,27 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-18T12:10:32.095621Z"
+  },
+  "AEE512": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-18T12:20:30.533152Z"
+  },
+  "CHH490": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-18T12:20:30.533152Z"
   }
 }
