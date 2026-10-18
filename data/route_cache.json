@@ -838,7 +838,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-17T19:55:21.764996Z"
+    "checked_at": "2026-10-18T19:55:24.278470Z"
   },
   "BAW998": {
     "route": {
@@ -12968,5 +12968,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T19:45:28.986529Z"
+  },
+  "DLH884": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T19:55:24.278470Z"
+  },
+  "THY91B": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T19:55:24.278470Z"
+  },
+  "CXI97DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-18T19:55:24.278470Z"
   }
 }
