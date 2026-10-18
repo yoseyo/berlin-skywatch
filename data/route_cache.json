@@ -262,7 +262,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-16T17:10:33.445753Z"
+    "checked_at": "2026-10-18T16:10:35.044719Z"
   },
   "TVF77EX": {
     "route": {
@@ -4029,17 +4029,6 @@
     },
     "checked_at": "2026-10-16T18:50:30.703347Z"
   },
-  "EJU5267": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-16T16:10:33.561472Z"
-  },
   "BEL9DL": {
     "route": {
       "fromCity": "Brussels",
@@ -6585,39 +6574,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T15:30:43.305942Z"
-  },
-  "NJE810P": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "RKE",
-      "toCity": "Copenhagen",
-      "toIata": "RKE",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-16T16:10:33.561472Z"
-  },
-  "SAS55N": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-16T16:10:33.561472Z"
-  },
-  "EWG3GH": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T16:10:33.561472Z"
   },
   "EJU38DP": {
     "route": {
@@ -12832,5 +12788,71 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-18T16:00:54.393019Z"
+  },
+  "EWG8ZG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T16:10:35.044719Z"
+  },
+  "NOZ1123": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-18T16:10:35.044719Z"
+  },
+  "DMS2RV": {
+    "route": {
+      "fromCity": "Saarbr\u00fccken",
+      "fromIata": "SCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-10-18T16:10:35.044719Z"
+  },
+  "EJU69RD": {
+    "route": {
+      "fromCity": "Sharm el-Sheikh",
+      "fromIata": "SSH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-18T16:10:35.044719Z"
+  },
+  "THY3353": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-18T16:10:35.044719Z"
+  },
+  "RYR5ZE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T16:10:35.044719Z"
   }
 }
