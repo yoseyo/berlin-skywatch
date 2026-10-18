@@ -1568,7 +1568,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-17T07:50:28.373702Z"
+    "checked_at": "2026-10-18T07:40:30.828891Z"
   },
   "QTR85X": {
     "route": {
@@ -3014,7 +3014,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T10:10:28.064632Z"
+    "checked_at": "2026-10-18T07:40:30.828891Z"
   },
   "RYR303F": {
     "route": {
@@ -3477,7 +3477,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T07:40:29.740434Z"
+    "checked_at": "2026-10-18T07:40:30.828891Z"
   },
   "AFR65AR": {
     "route": {
@@ -6196,7 +6196,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T04:10:29.659189Z"
+    "checked_at": "2026-10-18T07:40:30.828891Z"
   },
   "KLM49N": {
     "route": {
@@ -6208,10 +6208,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-17T13:35:22.209399Z"
-  },
-  "QGA01A": {
-    "route": null,
-    "checked_at": "2026-10-16T07:35:26.072787Z"
   },
   "SAS81L": {
     "route": {
@@ -6933,17 +6929,6 @@
   "PHMUE": {
     "route": null,
     "checked_at": "2026-10-17T08:00:51.389713Z"
-  },
-  "SXS9XP": {
-    "route": {
-      "fromCity": "Bodrum",
-      "fromIata": "BJV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-16T07:35:26.072787Z"
   },
   "SAS44A": {
     "route": {
@@ -13110,5 +13095,20 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T07:30:40.137024Z"
+  },
+  "N124FG": {
+    "route": null,
+    "checked_at": "2026-10-18T07:40:30.828891Z"
+  },
+  "NSZ5602": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-18T07:40:30.828891Z"
   }
 }
