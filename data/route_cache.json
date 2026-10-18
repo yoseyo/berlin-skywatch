@@ -181,7 +181,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T14:20:30.404055Z"
+    "checked_at": "2026-10-18T14:55:23.498953Z"
   },
   "CHX82": {
     "route": null,
@@ -695,7 +695,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-16T19:10:33.541555Z"
+    "checked_at": "2026-10-18T14:55:23.498953Z"
   },
   "BAW846W": {
     "route": {
@@ -1630,7 +1630,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T08:10:30.009419Z"
+    "checked_at": "2026-10-18T14:55:23.498953Z"
   },
   "IBE07TT": {
     "route": {
@@ -2646,7 +2646,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-17T08:55:21.391819Z"
+    "checked_at": "2026-10-18T14:55:23.498953Z"
   },
   "UAL963": {
     "route": {
@@ -4932,17 +4932,6 @@
     },
     "checked_at": "2026-10-18T12:25:24.100348Z"
   },
-  "TKJ9TC": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-16T14:50:34.371298Z"
-  },
   "DLH7MR": {
     "route": {
       "fromCity": "Munich",
@@ -5896,7 +5885,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-16T19:15:31.342873Z"
+    "checked_at": "2026-10-18T14:55:23.498953Z"
   },
   "NSZ3304": {
     "route": {
@@ -6570,14 +6559,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T06:30:40.354611Z"
-  },
-  "CAT9753": {
-    "route": null,
-    "checked_at": "2026-10-16T14:50:34.371298Z"
-  },
-  "CAT9311": {
-    "route": null,
-    "checked_at": "2026-10-16T14:50:34.371298Z"
   },
   "DMVRG": {
     "route": null,
@@ -12929,5 +12910,20 @@
   "CAT9329": {
     "route": null,
     "checked_at": "2026-10-18T14:50:30.503225Z"
+  },
+  "LHX3PP": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T14:55:23.498953Z"
+  },
+  "DMYHG": {
+    "route": null,
+    "checked_at": "2026-10-18T14:55:23.498953Z"
   }
 }
