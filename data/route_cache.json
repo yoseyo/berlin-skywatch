@@ -1810,7 +1810,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T10:40:30.233691Z"
+    "checked_at": "2026-10-18T09:45:28.843779Z"
   },
   "AUA226K": {
     "route": {
@@ -1909,7 +1909,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-17T10:00:51.162802Z"
+    "checked_at": "2026-10-18T09:45:28.843779Z"
   },
   "RYR9YD": {
     "route": {
@@ -12861,5 +12861,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T09:40:36.622985Z"
+  },
+  "ELY2372": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-18T09:45:28.843779Z"
+  },
+  "CSN461": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-18T09:45:28.843779Z"
+  },
+  "EZY8623": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-18T09:45:28.843779Z"
   }
 }
