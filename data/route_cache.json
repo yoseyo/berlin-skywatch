@@ -1425,7 +1425,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T07:35:22.120858Z"
+    "checked_at": "2026-10-18T07:00:50.746478Z"
   },
   "FIN7HC": {
     "route": {
@@ -1513,7 +1513,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T07:25:22.142948Z"
+    "checked_at": "2026-10-18T07:00:50.746478Z"
   },
   "EIN3JE": {
     "route": {
@@ -3161,7 +3161,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T07:20:28.055853Z"
+    "checked_at": "2026-10-18T07:00:50.746478Z"
   },
   "BAW844": {
     "route": {
@@ -4341,17 +4341,6 @@
       "airlineCountry": "Ethiopia"
     },
     "checked_at": "2026-10-17T06:20:29.264458Z"
-  },
-  "LHX5T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T06:55:25.390732Z"
   },
   "CAI3GK": {
     "route": {
@@ -5753,10 +5742,6 @@
     },
     "checked_at": "2026-10-18T05:05:20.771164Z"
   },
-  "DCS604": {
-    "route": null,
-    "checked_at": "2026-10-16T06:55:25.390732Z"
-  },
   "NSZ3288": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6955,17 +6940,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T05:55:22.663591Z"
-  },
-  "CFG2YU": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T06:55:25.390732Z"
   },
   "FIN7PR": {
     "route": {
@@ -13128,5 +13102,16 @@
   "BBB35P": {
     "route": null,
     "checked_at": "2026-10-18T06:55:22.485802Z"
+  },
+  "RYR44BG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T07:00:50.746478Z"
   }
 }
