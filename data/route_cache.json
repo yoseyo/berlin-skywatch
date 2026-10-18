@@ -1733,7 +1733,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T09:05:21.797679Z"
+    "checked_at": "2026-10-18T08:55:22.524036Z"
   },
   "AEE8RB": {
     "route": {
@@ -3323,7 +3323,7 @@
   },
   "BPOBER": {
     "route": null,
-    "checked_at": "2026-10-16T20:30:42.504147Z"
+    "checked_at": "2026-10-18T08:55:22.524036Z"
   },
   "AUA233": {
     "route": {
@@ -4065,17 +4065,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-16T13:30:48.867186Z"
-  },
-  "NOZ1WC": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-16T08:50:43.807845Z"
   },
   "SWR9YP": {
     "route": {
@@ -4999,17 +4988,6 @@
     },
     "checked_at": "2026-10-17T19:34:40.320304Z"
   },
-  "TKJ3WS": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-16T08:50:43.807845Z"
-  },
   "RYR3RK": {
     "route": {
       "fromCity": "London",
@@ -5075,17 +5053,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-17T06:50:30.635384Z"
-  },
-  "THY1YM": {
-    "route": {
-      "fromCity": "Kastamonu",
-      "fromIata": "KFS",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-16T08:50:43.807845Z"
   },
   "EWG63H": {
     "route": {
@@ -5869,10 +5836,6 @@
   "PBB17": {
     "route": null,
     "checked_at": "2026-10-16T16:30:46.953006Z"
-  },
-  "DMXIL": {
-    "route": null,
-    "checked_at": "2026-10-16T08:50:43.807845Z"
   },
   "LOT2LP": {
     "route": {
@@ -6906,10 +6869,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-17T08:50:28.824919Z"
-  },
-  "JDI7MP": {
-    "route": null,
-    "checked_at": "2026-10-16T08:50:43.807845Z"
   },
   "RYR99FP": {
     "route": {
@@ -13130,5 +13089,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T08:50:29.068415Z"
+  },
+  "RYR8988": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T08:55:22.524036Z"
+  },
+  "CFG4RY": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T08:55:22.524036Z"
   }
 }
