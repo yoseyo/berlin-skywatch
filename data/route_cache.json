@@ -2690,7 +2690,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-17T19:05:22.967687Z"
+    "checked_at": "2026-10-18T19:25:23.455729Z"
   },
   "THY87X": {
     "route": {
@@ -6497,17 +6497,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T15:10:31.082873Z"
-  },
-  "CFG1MP": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-16T19:20:33.571044Z"
   },
   "RYR1VD": {
     "route": {
@@ -12972,5 +12961,38 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-18T19:20:32.131960Z"
+  },
+  "FIN50J": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-18T19:25:23.455729Z"
+  },
+  "BTI6CD": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-18T19:25:23.455729Z"
+  },
+  "RYR4ZG": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Castell\u00f3n de la Plana",
+      "toIata": "CDT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T19:25:23.455729Z"
   }
 }
