@@ -1238,7 +1238,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T06:15:27.854770Z"
+    "checked_at": "2026-10-18T06:05:21.981161Z"
   },
   "DLH2X": {
     "route": {
@@ -2738,7 +2738,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-17T06:25:23.132458Z"
+    "checked_at": "2026-10-18T06:05:21.981161Z"
   },
   "DLH3FN": {
     "route": {
@@ -13282,5 +13282,38 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-18T05:55:22.663591Z"
+  },
+  "RYR3LF": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T06:05:21.981161Z"
+  },
+  "RYR3696": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-18T06:05:21.981161Z"
+  },
+  "EWG3CD": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-18T06:05:21.981161Z"
   }
 }
