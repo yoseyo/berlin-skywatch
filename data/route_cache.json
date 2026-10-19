@@ -5550,7 +5550,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-18T12:45:29.398635Z"
+    "checked_at": "2026-10-19T12:50:31.556234Z"
   },
   "SAS67M": {
     "route": {
@@ -6384,17 +6384,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T10:50:31.285442Z"
-  },
-  "CCA446": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Jianyang, Chengdu",
-      "toIata": "TFU",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-17T12:50:30.760153Z"
   },
   "KLM84H": {
     "route": {
@@ -13313,5 +13302,38 @@
   "FLW516": {
     "route": null,
     "checked_at": "2026-10-19T12:45:29.807730Z"
+  },
+  "TVS471P": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-19T12:50:31.556234Z"
+  },
+  "RYR7654": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T12:50:31.556234Z"
+  },
+  "DLH891": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T12:50:31.556234Z"
   }
 }
