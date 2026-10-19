@@ -530,7 +530,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T17:30:41.564835Z"
+    "checked_at": "2026-10-19T17:10:33.243885Z"
   },
   "SWR1PF": {
     "route": {
@@ -541,7 +541,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-18T16:50:29.581950Z"
+    "checked_at": "2026-10-19T17:10:33.243885Z"
   },
   "PGT49YQ": {
     "route": {
@@ -3637,7 +3637,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-18T15:20:31.678453Z"
+    "checked_at": "2026-10-19T17:10:33.243885Z"
   },
   "BAW995": {
     "route": {
@@ -6406,17 +6406,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T17:40:30.194157Z"
-  },
-  "DLH5KV": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T17:05:25.982095Z"
   },
   "WZZ2706": {
     "route": {
@@ -13430,5 +13419,31 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-19T17:05:24.847974Z"
+  },
+  "EZY3162": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paisley, Renfrewshire",
+      "toIata": "GLA",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T17:10:33.243885Z"
+  },
+  "RUK4FM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T17:10:33.243885Z"
+  },
+  "DGFKH": {
+    "route": null,
+    "checked_at": "2026-10-19T17:10:33.243885Z"
   }
 }
