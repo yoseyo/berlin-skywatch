@@ -4485,7 +4485,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T14:40:34.024501Z"
+    "checked_at": "2026-10-19T14:40:46.792026Z"
   },
   "SAS695": {
     "route": {
@@ -5010,7 +5010,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-18T18:55:24.592047Z"
+    "checked_at": "2026-10-19T14:40:46.792026Z"
   },
   "RYR5XX": {
     "route": {
@@ -13358,5 +13358,53 @@
   "OEKBE": {
     "route": null,
     "checked_at": "2026-10-19T14:35:25.582372Z"
+  },
+  "TVS471F": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-19T14:40:46.792026Z"
+  },
+  "DLH896": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T14:40:46.792026Z"
+  },
+  "CFG7MA": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T14:40:46.792026Z"
+  },
+  "EFD5D": {
+    "route": null,
+    "checked_at": "2026-10-19T14:40:46.792026Z"
+  },
+  "EWG2Q": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T14:40:46.792026Z"
   }
 }
