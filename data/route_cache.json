@@ -816,7 +816,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-18T19:40:30.713439Z"
+    "checked_at": "2026-10-19T19:35:25.479493Z"
   },
   "BEL1ZK": {
     "route": {
@@ -6487,17 +6487,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T12:15:30.376080Z"
-  },
-  "RYR2RB": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "\u0141\u00f3d\u017a",
-      "toIata": "LCJ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T19:35:21.888884Z"
   },
   "TVS4669": {
     "route": {
@@ -13493,5 +13482,64 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-19T19:30:43.039628Z"
+  },
+  "EJU57LY": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T19:35:25.479493Z"
+  },
+  "WZZ3577": {
+    "route": {
+      "fromCity": "Malm\u00f6",
+      "fromIata": "MMX",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-19T19:35:25.479493Z"
+  },
+  "EJM114": {
+    "route": null,
+    "checked_at": "2026-10-19T19:35:25.479493Z"
+  },
+  "SAS2768": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T19:35:25.479493Z"
+  },
+  "LOT397": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-19T19:35:25.479493Z"
+  },
+  "SAS47D": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T19:35:25.479493Z"
   }
 }
