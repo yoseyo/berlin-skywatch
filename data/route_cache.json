@@ -4038,7 +4038,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T05:10:30.470846Z"
+    "checked_at": "2026-10-19T05:05:26.191663Z"
   },
   "BTI83L": {
     "route": {
@@ -12988,5 +12988,49 @@
   "N806CH": {
     "route": null,
     "checked_at": "2026-10-19T04:55:23.559702Z"
+  },
+  "EWG4Z": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Zemunik (Zadar)",
+      "toIata": "ZAD",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T05:05:26.191663Z"
+  },
+  "RYR4311": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Rovaniemi",
+      "toIata": "RVN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T05:05:26.191663Z"
+  },
+  "EWG5QR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T05:05:26.191663Z"
+  },
+  "WZZ6ZB": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-19T05:05:26.191663Z"
   }
 }
