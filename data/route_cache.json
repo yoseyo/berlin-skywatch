@@ -1850,7 +1850,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-18T09:55:23.312067Z"
+    "checked_at": "2026-10-19T09:35:25.315269Z"
   },
   "RYR3NJ": {
     "route": {
@@ -3685,7 +3685,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T10:40:30.233691Z"
+    "checked_at": "2026-10-19T09:35:25.315269Z"
   },
   "SAS661": {
     "route": {
@@ -6374,21 +6374,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T05:35:24.874031Z"
-  },
-  "MJF2F": {
-    "route": null,
-    "checked_at": "2026-10-17T09:35:21.066604Z"
-  },
-  "RYR65ZK": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T09:35:21.066604Z"
   },
   "NSZ3280": {
     "route": {
@@ -13223,5 +13208,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T09:30:44.551252Z"
+  },
+  "BTI2DX": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T09:35:25.315269Z"
+  },
+  "RYR93QN": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T09:35:25.315269Z"
   }
 }
