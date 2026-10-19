@@ -1,33 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "PBB17",
+      "callsign": "DLH5EE",
       "country": "Germany",
-      "lat": 52.4613,
-      "lon": 13.4287,
-      "altKm": 0.5,
-      "speedKmh": 9,
-      "heading": 169,
-      "vertRateMs": -0.7,
-      "category": "heli"
-    },
-    {
-      "callsign": "RYR866X",
-      "country": "Malta",
-      "lat": 52.3528,
-      "lon": 13.9024,
-      "altKm": 11.1,
-      "speedKmh": 830,
-      "heading": 356,
-      "vertRateMs": -0.3,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
+      "lat": 52.2675,
+      "lon": 13.9038,
+      "altKm": 11.5,
+      "speedKmh": 822,
+      "heading": 21,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "M\u00fcnster",
+      "toIata": "FMO",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-19T21:05:24.660658Z"
+  "updated_at": "2026-10-19T21:10:32.329143Z"
 }
