@@ -1729,7 +1729,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-18T08:30:43.703685Z"
+    "checked_at": "2026-10-19T08:30:45.014088Z"
   },
   "RYR4TC": {
     "route": {
@@ -4827,7 +4827,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-17T08:35:21.851108Z"
+    "checked_at": "2026-10-19T08:30:45.014088Z"
   },
   "ASL19P": {
     "route": {
@@ -9494,7 +9494,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T08:25:23.469754Z"
+    "checked_at": "2026-10-19T08:30:45.014088Z"
   },
   "TSC418": {
     "route": {
@@ -13076,5 +13076,27 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-19T08:25:23.931210Z"
+  },
+  "BTI7LZ": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T08:30:45.014088Z"
+  },
+  "RYR4FN": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "N\u00eemes/Garons",
+      "toIata": "FNI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T08:30:45.014088Z"
   }
 }
