@@ -383,7 +383,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-18T16:25:22.797978Z"
+    "checked_at": "2026-10-19T16:20:31.973478Z"
   },
   "LOT5PX": {
     "route": {
@@ -6432,17 +6432,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T09:55:23.312067Z"
-  },
-  "LOT4TL": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "New York",
-      "toIata": "JFK",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-17T16:20:29.491589Z"
   },
   "MSC2959": {
     "route": {
@@ -13411,5 +13400,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T16:15:29.396167Z"
+  },
+  "SAS7743": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Ioannina",
+      "toIata": "IOA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T16:20:31.973478Z"
+  },
+  "RYR83CH": {
+    "route": {
+      "fromCity": "\u0141\u00f3d\u017a",
+      "fromIata": "LCJ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T16:20:31.973478Z"
   }
 }
