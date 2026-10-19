@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T13:20:31.555445Z"
+    "checked_at": "2026-10-19T13:30:45.225949Z"
   },
   "CHX100": {
     "route": null,
@@ -3905,7 +3905,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-18T13:25:23.688710Z"
+    "checked_at": "2026-10-19T13:30:45.225949Z"
   },
   "AUA22S": {
     "route": {
@@ -6428,39 +6428,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T04:30:41.994365Z"
-  },
-  "CFG6NZ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T13:30:41.916804Z"
-  },
-  "SAS82C": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T13:30:41.916804Z"
-  },
-  "VOE9CC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Firenze",
-      "toIata": "FLR",
-      "airlineName": "Volotea",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-17T13:30:41.916804Z"
   },
   "NOZ50H": {
     "route": {
@@ -13365,5 +13332,35 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-19T13:20:35.093586Z"
+  },
+  "JDI75T": {
+    "route": null,
+    "checked_at": "2026-10-19T13:30:45.225949Z"
+  },
+  "RYR87VA": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T13:30:45.225949Z"
+  },
+  "NJE183Q": {
+    "route": null,
+    "checked_at": "2026-10-19T13:30:45.225949Z"
+  },
+  "RYR45CC": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T13:30:45.225949Z"
   }
 }
