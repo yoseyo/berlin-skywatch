@@ -5567,17 +5567,6 @@
     },
     "checked_at": "2026-10-18T07:45:28.194401Z"
   },
-  "PGT77BA": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-17T08:50:28.824919Z"
-  },
   "CAI9JM": {
     "route": {
       "fromCity": "Billund",
@@ -5610,17 +5599,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T11:50:31.151957Z"
-  },
-  "EJU93RY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-17T08:50:28.824919Z"
   },
   "AMQ1M": {
     "route": {
@@ -6418,17 +6396,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-19T08:45:31.422473Z"
-  },
-  "RYR57AE": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T08:50:28.824919Z"
   },
   "EWG71C": {
     "route": {
@@ -13145,5 +13112,35 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-19T08:45:31.422473Z"
+  },
+  "TKJ3WS": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-19T08:50:32.870186Z"
+  },
+  "LHB7": {
+    "route": null,
+    "checked_at": "2026-10-19T08:50:32.870186Z"
+  },
+  "PBB17": {
+    "route": null,
+    "checked_at": "2026-10-19T08:50:32.870186Z"
+  },
+  "WZZ22UT": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-19T08:50:32.870186Z"
   }
 }
