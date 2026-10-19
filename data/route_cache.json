@@ -1366,7 +1366,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T10:35:22.645069Z"
+    "checked_at": "2026-10-19T08:55:23.831564Z"
   },
   "NOZ2XM": {
     "route": {
@@ -6021,7 +6021,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T12:00:53.426897Z"
+    "checked_at": "2026-10-19T08:55:23.831564Z"
   },
   "LOT4CN": {
     "route": {
@@ -6396,17 +6396,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-19T08:45:31.422473Z"
-  },
-  "EWG71C": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T08:55:21.391819Z"
   },
   "EWG47Z": {
     "route": {
@@ -13142,5 +13131,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-19T08:50:32.870186Z"
+  },
+  "CFE76JZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T08:55:23.831564Z"
+  },
+  "CSC9611": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Sichuan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-19T08:55:23.831564Z"
+  },
+  "RYR89YH": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T08:55:23.831564Z"
   }
 }
