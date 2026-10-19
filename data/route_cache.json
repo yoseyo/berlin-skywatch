@@ -904,7 +904,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T20:40:32.404135Z"
+    "checked_at": "2026-10-19T20:30:44.943732Z"
   },
   "AFR69GW": {
     "route": {
@@ -5787,17 +5787,6 @@
     },
     "checked_at": "2026-10-18T20:00:55.373487Z"
   },
-  "RYR1155": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T20:30:42.604550Z"
-  },
   "RYR37YC": {
     "route": {
       "fromCity": "Dublin",
@@ -6509,10 +6498,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-18T16:35:22.904770Z"
-  },
-  "SVI8223": {
-    "route": null,
-    "checked_at": "2026-10-17T20:30:42.604550Z"
   },
   "NSZ7DE": {
     "route": {
@@ -9711,7 +9696,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T20:00:55.373487Z"
+    "checked_at": "2026-10-19T20:30:44.943732Z"
   },
   "TWI346": {
     "route": null,
@@ -13538,5 +13523,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T20:25:25.332438Z"
+  },
+  "WZZ1802": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-19T20:30:44.943732Z"
   }
 }
