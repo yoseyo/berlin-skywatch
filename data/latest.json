@@ -3,12 +3,12 @@
     {
       "callsign": "WZZ636Z",
       "country": "Hungary",
-      "lat": 52.6443,
-      "lon": 12.7053,
+      "lat": 52.1911,
+      "lon": 13.5555,
       "altKm": 11.0,
-      "speedKmh": 842,
+      "speedKmh": 861,
       "heading": 131,
-      "vertRateMs": 0,
+      "vertRateMs": -0.3,
       "airline": "Wizz Air",
       "airlineCountry": "Hungary",
       "fromCity": "Reykjav\u00edk",
@@ -16,7 +16,24 @@
       "toCity": "Katowice",
       "toIata": "KTW",
       "category": "plane"
+    },
+    {
+      "callsign": "BCS3612",
+      "country": "Bahrain",
+      "lat": 52.5841,
+      "lon": 13.3443,
+      "altKm": 10.1,
+      "speedKmh": 838,
+      "heading": 29,
+      "vertRateMs": 11.1,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-18T23:55:22.004406Z"
+  "updated_at": "2026-10-19T00:00:54.027111Z"
 }
