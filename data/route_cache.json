@@ -2730,7 +2730,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-18T12:35:22.774686Z"
+    "checked_at": "2026-10-19T12:30:45.637619Z"
   },
   "EIN33T": {
     "route": {
@@ -5583,7 +5583,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T11:50:31.151957Z"
+    "checked_at": "2026-10-19T12:30:45.637619Z"
   },
   "AUA25L": {
     "route": {
@@ -6373,28 +6373,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-19T12:10:33.495312Z"
-  },
-  "CTN432": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-17T12:30:41.996760Z"
-  },
-  "SAS37L": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T12:30:41.996760Z"
   },
   "WZZ242": {
     "route": {
@@ -13258,5 +13236,16 @@
   "DEPIB": {
     "route": null,
     "checked_at": "2026-10-19T12:25:23.238817Z"
+  },
+  "BTI3BP": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T12:30:45.637619Z"
   }
 }
