@@ -2180,7 +2180,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T11:20:29.008209Z"
+    "checked_at": "2026-10-19T11:30:45.484424Z"
   },
   "SAS1677": {
     "route": {
@@ -2466,7 +2466,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T17:30:42.250996Z"
+    "checked_at": "2026-10-19T11:30:45.484424Z"
   },
   "EJU69MZ": {
     "route": {
@@ -4056,7 +4056,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-17T11:40:34.785638Z"
+    "checked_at": "2026-10-19T11:30:45.484424Z"
   },
   "FIN01AD": {
     "route": {
@@ -6351,21 +6351,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-19T10:20:33.301178Z"
-  },
-  "NJE653E": {
-    "route": null,
-    "checked_at": "2026-10-17T11:30:42.935035Z"
-  },
-  "BTI4VP": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-17T11:30:42.935035Z"
   },
   "SAS2832": {
     "route": {
@@ -13298,5 +13283,16 @@
   "NJE486V": {
     "route": null,
     "checked_at": "2026-10-19T11:25:25.298158Z"
+  },
+  "NOZ1104": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-19T11:30:45.484424Z"
   }
 }
