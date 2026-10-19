@@ -196,7 +196,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T14:45:29.017074Z"
+    "checked_at": "2026-10-19T15:05:27.088888Z"
   },
   "KLM1779": {
     "route": {
@@ -207,7 +207,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T14:40:34.024501Z"
+    "checked_at": "2026-10-19T15:05:27.088888Z"
   },
   "EJU81FH": {
     "route": {
@@ -4951,7 +4951,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-18T14:35:22.318681Z"
+    "checked_at": "2026-10-19T15:05:27.088888Z"
   },
   "RYR55VV": {
     "route": {
@@ -5628,17 +5628,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T16:55:21.827679Z"
-  },
-  "FIN45M": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-17T15:05:24.375015Z"
   },
   "NSZ72N": {
     "route": {
@@ -6429,32 +6418,6 @@
     },
     "checked_at": "2026-10-18T07:45:28.194401Z"
   },
-  "WZZ6658": {
-    "route": null,
-    "checked_at": "2026-10-17T15:05:24.375015Z"
-  },
-  "CFG7VT": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T15:05:24.375015Z"
-  },
-  "MSC2958": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Cairo",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-17T15:05:24.375015Z"
-  },
   "NSZ4VC": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6572,7 +6535,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T15:40:30.428964Z"
+    "checked_at": "2026-10-19T15:05:27.088888Z"
   },
   "NSZ3298": {
     "route": {
@@ -13417,5 +13380,35 @@
       "airlineCountry": "Czech Republic"
     },
     "checked_at": "2026-10-19T14:50:35.270969Z"
+  },
+  "DMVVL": {
+    "route": null,
+    "checked_at": "2026-10-19T15:05:27.088888Z"
+  },
+  "RYR11CP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T15:05:27.088888Z"
+  },
+  "PYR006": {
+    "route": null,
+    "checked_at": "2026-10-19T15:05:27.088888Z"
+  },
+  "EWG8181": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T15:05:27.088888Z"
   }
 }
