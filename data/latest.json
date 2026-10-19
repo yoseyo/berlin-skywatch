@@ -1,16 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "GAF647",
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.9032,
+      "lon": 13.4201,
+      "altKm": 3.3,
+      "speedKmh": 577,
+      "heading": 208,
+      "vertRateMs": -5.2,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG58L",
       "country": "Germany",
-      "lat": 52.3985,
-      "lon": 13.6178,
-      "altKm": 1.5,
-      "speedKmh": 430,
-      "heading": 67,
-      "vertRateMs": 11.7,
-      "category": "jet"
+      "lat": 52.2633,
+      "lon": 13.4298,
+      "altKm": 1.8,
+      "speedKmh": 513,
+      "heading": 270,
+      "vertRateMs": 16.3,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-19T03:45:29.662978Z"
+  "updated_at": "2026-10-19T03:50:32.125688Z"
 }
