@@ -3615,7 +3615,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-18T18:30:43.235177Z"
+    "checked_at": "2026-10-19T15:20:33.553175Z"
   },
   "RYR5SB": {
     "route": {
@@ -3916,7 +3916,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T15:10:31.082873Z"
+    "checked_at": "2026-10-19T15:20:33.553175Z"
   },
   "PYR014": {
     "route": null,
@@ -6108,7 +6108,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T12:45:29.398635Z"
+    "checked_at": "2026-10-19T15:20:33.553175Z"
   },
   "DLH2607": {
     "route": {
@@ -6417,17 +6417,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T07:45:28.194401Z"
-  },
-  "SAS2859": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T15:20:32.296343Z"
   },
   "RYR1638": {
     "route": {
@@ -8876,7 +8865,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T12:25:24.100348Z"
+    "checked_at": "2026-10-19T15:20:33.553175Z"
   },
   "EJU37HE": {
     "route": {
@@ -13410,5 +13399,38 @@
   "DENRE": {
     "route": null,
     "checked_at": "2026-10-19T15:15:34.843515Z"
+  },
+  "TVS4513": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-19T15:20:33.553175Z"
+  },
+  "RYR57AE": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T15:20:33.553175Z"
+  },
+  "SDR21SM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T15:20:33.553175Z"
   }
 }
