@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "WZZ10LV",
+      "country": "Hungary",
+      "lat": 52.3633,
+      "lon": 12.9373,
+      "altKm": 10.8,
+      "speedKmh": 800,
+      "heading": 55,
+      "vertRateMs": -0.3,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4209,
-      "lon": 13.5677,
+      "lat": 52.4158,
+      "lon": 13.5596,
       "altKm": 0.9,
-      "speedKmh": 93,
-      "heading": 149,
-      "vertRateMs": 0,
+      "speedKmh": 104,
+      "heading": 63,
+      "vertRateMs": 0.7,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-19T23:00:50.877768Z"
+  "updated_at": "2026-10-19T23:05:22.721134Z"
 }
