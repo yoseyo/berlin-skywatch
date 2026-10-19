@@ -89,7 +89,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T14:15:30.227408Z"
+    "checked_at": "2026-10-19T14:15:31.995060Z"
   },
   "RYR1SM": {
     "route": {
@@ -181,7 +181,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T14:55:23.498953Z"
+    "checked_at": "2026-10-19T14:15:31.995060Z"
   },
   "CHX82": {
     "route": null,
@@ -6418,17 +6418,6 @@
     },
     "checked_at": "2026-10-19T13:20:35.093586Z"
   },
-  "TVS4593": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-17T14:15:28.061081Z"
-  },
   "DLH8HU": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6450,17 +6439,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T13:20:31.555445Z"
-  },
-  "IBS1805": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Iberia Express",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-17T14:15:28.061081Z"
   },
   "BTI7NV": {
     "route": {
@@ -13375,5 +13353,27 @@
   "AXY543E": {
     "route": null,
     "checked_at": "2026-10-19T14:10:34.177024Z"
+  },
+  "BTI629": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T14:15:31.995060Z"
+  },
+  "RYR19ZZ": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T14:15:31.995060Z"
   }
 }
