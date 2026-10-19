@@ -1696,7 +1696,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-17T09:45:26.981083Z"
+    "checked_at": "2026-10-19T09:25:25.153410Z"
   },
   "BEL8CE": {
     "route": {
@@ -1817,7 +1817,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-18T09:35:22.743695Z"
+    "checked_at": "2026-10-19T09:25:25.153410Z"
   },
   "LOT3JA": {
     "route": {
@@ -6375,17 +6375,6 @@
     },
     "checked_at": "2026-10-19T05:35:24.874031Z"
   },
-  "NSZ9EF": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T09:25:21.860897Z"
-  },
   "NJE576T": {
     "route": null,
     "checked_at": "2026-10-17T09:30:40.725916Z"
@@ -10425,7 +10414,7 @@
   },
   "CAZ101": {
     "route": null,
-    "checked_at": "2026-10-18T14:20:30.090369Z"
+    "checked_at": "2026-10-19T09:25:25.153410Z"
   },
   "WZZ93ZW": {
     "route": {
@@ -13179,5 +13168,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T09:20:32.481274Z"
+  },
+  "LZB319": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Bulgaria Air",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-19T09:25:25.153410Z"
+  },
+  "DLH890": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T09:25:25.153410Z"
+  },
+  "SXS8RG": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-19T09:25:25.153410Z"
+  },
+  "AJD13AX": {
+    "route": null,
+    "checked_at": "2026-10-19T09:25:25.153410Z"
   }
 }
