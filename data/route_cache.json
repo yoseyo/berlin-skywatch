@@ -2213,7 +2213,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-18T11:55:22.698614Z"
+    "checked_at": "2026-10-19T20:25:25.332438Z"
   },
   "QTR37K": {
     "route": {
@@ -2888,7 +2888,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-18T20:25:24.272880Z"
+    "checked_at": "2026-10-19T20:25:25.332438Z"
   },
   "AUA991D": {
     "route": {
@@ -4067,7 +4067,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T06:50:28.958827Z"
+    "checked_at": "2026-10-19T20:25:25.332438Z"
   },
   "SAS1680": {
     "route": {
@@ -6509,39 +6509,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-18T16:35:22.904770Z"
-  },
-  "TVS4617": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-17T20:25:21.091836Z"
-  },
-  "NOZ1865": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-17T20:25:21.091836Z"
-  },
-  "RYR6FD": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T20:25:21.091836Z"
   },
   "SVI8223": {
     "route": null,
@@ -13512,5 +13479,64 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T20:20:35.944506Z"
+  },
+  "AEG6911": {
+    "route": null,
+    "checked_at": "2026-10-19T20:25:25.332438Z"
+  },
+  "UAE98V": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Dubai",
+      "toIata": "DXB",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-19T20:25:25.332438Z"
+  },
+  "EJU96BD": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T20:25:25.332438Z"
+  },
+  "RYR4359": {
+    "route": {
+      "fromCity": "Lanzarote Island",
+      "fromIata": "ACE",
+      "toCity": "Beauvais",
+      "toIata": "BVA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T20:25:25.332438Z"
+  },
+  "SWT9ER": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Swiftair",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-19T20:25:25.332438Z"
+  },
+  "DLH8FT": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T20:25:25.332438Z"
   }
 }
