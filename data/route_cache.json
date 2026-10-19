@@ -1707,7 +1707,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-18T08:30:43.703685Z"
+    "checked_at": "2026-10-19T08:35:23.657963Z"
   },
   "SAS85J": {
     "route": {
@@ -1751,7 +1751,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-17T09:15:26.705946Z"
+    "checked_at": "2026-10-19T08:35:23.657963Z"
   },
   "EIN3EG": {
     "route": {
@@ -3454,7 +3454,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T08:00:54.286022Z"
+    "checked_at": "2026-10-19T08:35:23.657963Z"
   },
   "KLM90Z": {
     "route": {
@@ -4500,7 +4500,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T08:50:29.068415Z"
+    "checked_at": "2026-10-19T08:35:23.657963Z"
   },
   "THY3TR": {
     "route": {
@@ -6422,21 +6422,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T08:10:31.189394Z"
-  },
-  "RUK7547": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-17T08:35:21.851108Z"
-  },
-  "PAV681": {
-    "route": null,
-    "checked_at": "2026-10-17T08:35:21.851108Z"
   },
   "TKJ5107": {
     "route": {
@@ -9933,7 +9918,7 @@
   },
   "BPO510": {
     "route": null,
-    "checked_at": "2026-10-18T11:30:44.472370Z"
+    "checked_at": "2026-10-19T08:35:23.657963Z"
   },
   "SAS95W": {
     "route": {
@@ -13098,5 +13083,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T08:30:45.014088Z"
+  },
+  "EJU43CX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T08:35:23.657963Z"
+  },
+  "WUK7BU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Wizz Air UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T08:35:23.657963Z"
+  },
+  "CFG7KE": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T08:35:23.657963Z"
+  },
+  "ENT6WN": {
+    "route": {
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T08:35:23.657963Z"
   }
 }
