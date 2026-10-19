@@ -6352,28 +6352,6 @@
     },
     "checked_at": "2026-10-18T11:10:32.665924Z"
   },
-  "NSZ2MP": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T11:00:52.597523Z"
-  },
-  "NSZ2055": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T11:00:52.597523Z"
-  },
   "EJU95RP": {
     "route": {
       "fromCity": "Berlin",
@@ -13268,5 +13246,16 @@
   "DESNN": {
     "route": null,
     "checked_at": "2026-10-19T10:55:24.845472Z"
+  },
+  "RYR31KN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T11:00:55.373387Z"
   }
 }
