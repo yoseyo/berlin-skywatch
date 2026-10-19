@@ -2635,7 +2635,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-17T11:48:20.586563Z"
+    "checked_at": "2026-10-19T06:50:29.152269Z"
   },
   "WZZ3EA": {
     "route": {
@@ -4816,7 +4816,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T06:40:30.219172Z"
+    "checked_at": "2026-10-19T06:50:29.152269Z"
   },
   "SAS49L": {
     "route": {
@@ -5326,7 +5326,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-18T14:55:23.498953Z"
+    "checked_at": "2026-10-19T06:50:29.152269Z"
   },
   "RYR7GU": {
     "route": {
@@ -13103,5 +13103,42 @@
   "ATV103": {
     "route": null,
     "checked_at": "2026-10-19T06:45:31.259474Z"
+  },
+  "LHX5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T06:50:29.152269Z"
+  },
+  "ETH724": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-19T06:50:29.152269Z"
+  },
+  "AAO53": {
+    "route": null,
+    "checked_at": "2026-10-19T06:50:29.152269Z"
+  },
+  "SDR41JJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T06:50:29.152269Z"
   }
 }
