@@ -2866,7 +2866,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T15:20:31.678453Z"
+    "checked_at": "2026-10-19T15:30:44.301331Z"
   },
   "DLH8WF": {
     "route": {
@@ -4210,7 +4210,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T15:05:24.290154Z"
+    "checked_at": "2026-10-19T15:30:44.301331Z"
   },
   "FIN2PX": {
     "route": {
@@ -4775,7 +4775,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T09:10:30.635671Z"
+    "checked_at": "2026-10-19T15:30:44.301331Z"
   },
   "LOT2LP": {
     "route": {
@@ -6417,28 +6417,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T07:45:28.194401Z"
-  },
-  "RYR86NA": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T15:30:41.560418Z"
-  },
-  "RYR282D": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T15:30:41.560418Z"
   },
   "NSZ3AM": {
     "route": {
@@ -10381,7 +10359,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-18T19:15:29.975302Z"
+    "checked_at": "2026-10-19T15:30:44.301331Z"
   },
   "BTI89U": {
     "route": {
@@ -13417,5 +13395,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-19T15:20:33.553175Z"
+  },
+  "WZZ317": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-19T15:30:44.301331Z"
+  },
+  "RYR98AR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T15:30:44.301331Z"
   }
 }
