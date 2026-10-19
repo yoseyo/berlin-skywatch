@@ -728,7 +728,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-18T19:00:51.912132Z"
+    "checked_at": "2026-10-19T18:50:32.126741Z"
   },
   "AEE82B": {
     "route": {
@@ -2719,7 +2719,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T18:50:31.522089Z"
+    "checked_at": "2026-10-19T18:50:32.126741Z"
   },
   "DLH2N": {
     "route": {
@@ -3296,7 +3296,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-18T18:15:29.465013Z"
+    "checked_at": "2026-10-19T18:50:32.126741Z"
   },
   "BTI4UJ": {
     "route": {
@@ -5089,17 +5089,6 @@
     },
     "checked_at": "2026-10-19T06:50:29.152269Z"
   },
-  "RYR7GU": {
-    "route": {
-      "fromCity": "Memmingen",
-      "fromIata": "FMM",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T18:50:29.153678Z"
-  },
   "SWR979E": {
     "route": {
       "fromCity": "Berlin",
@@ -6465,28 +6454,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T19:35:24.813914Z"
-  },
-  "THY29M": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "New York",
-      "toIata": "EWR",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-17T18:50:29.153678Z"
-  },
-  "CFG2XU": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T18:50:29.153678Z"
   },
   "SAS2768": {
     "route": {
@@ -9953,7 +9920,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T19:55:24.278470Z"
+    "checked_at": "2026-10-19T18:50:32.126741Z"
   },
   "CXI97DR": {
     "route": {
@@ -13485,5 +13452,20 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-19T18:40:33.065889Z"
+  },
+  "CAT9746": {
+    "route": null,
+    "checked_at": "2026-10-19T18:50:32.126741Z"
+  },
+  "EZS1589": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-19T18:50:32.126741Z"
   }
 }
