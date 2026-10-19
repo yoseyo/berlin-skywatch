@@ -937,7 +937,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T20:40:32.404135Z"
+    "checked_at": "2026-10-19T20:45:30.736519Z"
   },
   "IBE0787": {
     "route": {
@@ -6498,17 +6498,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-18T16:35:22.904770Z"
-  },
-  "NSZ2911": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T20:45:28.928864Z"
   },
   "EJU5378": {
     "route": {
@@ -13490,5 +13479,31 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-19T20:40:31.236878Z"
+  },
+  "NOZ87G": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-19T20:45:30.736519Z"
+  },
+  "BVR101": {
+    "route": null,
+    "checked_at": "2026-10-19T20:45:30.736519Z"
+  },
+  "RYR33KQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T20:45:30.736519Z"
   }
 }
