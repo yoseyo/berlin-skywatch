@@ -1652,7 +1652,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T08:30:43.703685Z"
+    "checked_at": "2026-10-19T09:10:35.538897Z"
   },
   "EZY18FP": {
     "route": {
@@ -1718,7 +1718,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T08:55:22.524036Z"
+    "checked_at": "2026-10-19T09:10:35.538897Z"
   },
   "AEE8RB": {
     "route": {
@@ -4192,7 +4192,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T04:40:30.443656Z"
+    "checked_at": "2026-10-19T09:10:35.538897Z"
   },
   "FIN1DF": {
     "route": {
@@ -5073,7 +5073,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T12:35:22.774686Z"
+    "checked_at": "2026-10-19T09:10:35.538897Z"
   },
   "RYR8TQ": {
     "route": {
@@ -6385,10 +6385,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T05:35:24.874031Z"
-  },
-  "DEXTA": {
-    "route": null,
-    "checked_at": "2026-10-17T09:10:30.172483Z"
   },
   "DFINO": {
     "route": null,
@@ -13161,5 +13157,31 @@
   "LEJ110": {
     "route": null,
     "checked_at": "2026-10-19T09:05:23.588467Z"
+  },
+  "NSZ79AY": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T09:10:35.538897Z"
+  },
+  "NSZ3289": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T09:10:35.538897Z"
+  },
+  "DMTCK": {
+    "route": null,
+    "checked_at": "2026-10-19T09:10:35.538897Z"
   }
 }
