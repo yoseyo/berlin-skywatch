@@ -1190,7 +1190,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T05:05:20.771164Z"
+    "checked_at": "2026-10-19T11:20:34.402085Z"
   },
   "QTR29X": {
     "route": {
@@ -3395,7 +3395,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-18T11:10:32.665924Z"
+    "checked_at": "2026-10-19T11:20:34.402085Z"
   },
   "TAP53ED": {
     "route": {
@@ -3791,7 +3791,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T11:05:22.880394Z"
+    "checked_at": "2026-10-19T11:20:34.402085Z"
   },
   "UAE57X": {
     "route": {
@@ -4386,7 +4386,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T11:00:52.142421Z"
+    "checked_at": "2026-10-19T11:20:34.402085Z"
   },
   "DLH5MA": {
     "route": {
@@ -6340,17 +6340,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T11:10:32.665924Z"
-  },
-  "SXS4AX": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-17T11:20:33.040274Z"
   },
   "FHY1282": {
     "route": {
@@ -9577,7 +9566,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-18T12:10:32.095621Z"
+    "checked_at": "2026-10-19T11:20:34.402085Z"
   },
   "AEE512": {
     "route": {
@@ -13250,5 +13239,38 @@
   "DEITI": {
     "route": null,
     "checked_at": "2026-10-19T11:15:30.821025Z"
+  },
+  "NOZ1869": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-19T11:20:34.402085Z"
+  },
+  "BTI3VL": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T11:20:34.402085Z"
+  },
+  "BTI28P": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T11:20:34.402085Z"
   }
 }
