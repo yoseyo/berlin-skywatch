@@ -2455,7 +2455,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T13:35:22.126104Z"
+    "checked_at": "2026-10-19T13:40:29.780538Z"
   },
   "RYR103K": {
     "route": {
@@ -4940,7 +4940,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T13:40:30.518409Z"
+    "checked_at": "2026-10-19T13:40:29.780538Z"
   },
   "SAS81L": {
     "route": {
@@ -6428,43 +6428,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T04:30:41.994365Z"
-  },
-  "NSZ82ME": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T13:40:29.041158Z"
-  },
-  "TCARD": {
-    "route": null,
-    "checked_at": "2026-10-17T13:40:29.041158Z"
-  },
-  "TVS440P": {
-    "route": {
-      "fromCity": "Vatry",
-      "fromIata": "XCR",
-      "toCity": "Vatry",
-      "toIata": "XCR",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-17T13:40:29.041158Z"
-  },
-  "EWG1CN": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T13:40:29.041158Z"
   },
   "CFC2910": {
     "route": null,
@@ -13366,5 +13329,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-19T13:35:25.518057Z"
+  },
+  "NOZ6TY": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-19T13:40:29.780538Z"
+  },
+  "FJO64J": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "Paros",
+      "toIata": "PAS",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-19T13:40:29.780538Z"
   }
 }
