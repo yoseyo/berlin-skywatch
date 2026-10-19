@@ -6429,24 +6429,9 @@
     },
     "checked_at": "2026-10-18T15:35:22.684042Z"
   },
-  "DEAOB": {
-    "route": null,
-    "checked_at": "2026-10-17T15:40:30.428964Z"
-  },
   "OYJWM": {
     "route": null,
     "checked_at": "2026-10-18T08:40:31.299431Z"
-  },
-  "LOT3ML": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-17T15:40:30.428964Z"
   },
   "RYR2SW": {
     "route": {
@@ -13428,5 +13413,16 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-19T15:35:24.199473Z"
+  },
+  "ENT2NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Jerez de la Frontera",
+      "toIata": "XRY",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T15:40:32.262273Z"
   }
 }
