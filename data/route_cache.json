@@ -1927,7 +1927,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T09:55:23.312067Z"
+    "checked_at": "2026-10-19T10:20:33.301178Z"
   },
   "CTN481": {
     "route": {
@@ -4190,17 +4190,6 @@
     },
     "checked_at": "2026-10-19T09:10:35.538897Z"
   },
-  "FIN1DF": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-17T10:20:30.201903Z"
-  },
   "DLH1KX": {
     "route": {
       "fromCity": "Helsinki",
@@ -6374,39 +6363,6 @@
     },
     "checked_at": "2026-10-19T09:15:33.867779Z"
   },
-  "AAL161": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "American Airlines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-17T10:20:30.201903Z"
-  },
-  "NSZ2891": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T10:20:30.201903Z"
-  },
-  "GPX6280": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "GP Aviation",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-17T10:20:30.201903Z"
-  },
   "EJU53KD": {
     "route": {
       "fromCity": "Berlin",
@@ -6574,7 +6530,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T10:45:29.716452Z"
+    "checked_at": "2026-10-19T10:20:33.301178Z"
   },
   "NJE653E": {
     "route": null,
@@ -13293,5 +13249,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T10:15:34.248451Z"
+  },
+  "UBD445": {
+    "route": {
+      "fromCity": "Arbil",
+      "fromIata": "EBL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "United Airways",
+      "airlineCountry": "Bangladesh"
+    },
+    "checked_at": "2026-10-19T10:20:33.301178Z"
   }
 }
