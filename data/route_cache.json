@@ -827,7 +827,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-18T19:55:24.278470Z"
+    "checked_at": "2026-10-19T19:55:26.669339Z"
   },
   "BAW998": {
     "route": {
@@ -6509,28 +6509,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T11:20:29.008209Z"
-  },
-  "RYR2501": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T19:55:21.764996Z"
-  },
-  "SDR16XK": {
-    "route": {
-      "fromCity": "Monastir",
-      "fromIata": "MIR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T19:55:21.764996Z"
   },
   "WZZ4BB": {
     "route": {
@@ -13534,5 +13512,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T19:50:31.577047Z"
+  },
+  "EZS1590": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-19T19:55:26.669339Z"
+  },
+  "RYR9846": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T19:55:26.669339Z"
   }
 }
