@@ -2246,7 +2246,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-18T13:15:29.241617Z"
+    "checked_at": "2026-10-19T12:20:31.971024Z"
   },
   "AUA29M": {
     "route": {
@@ -5416,17 +5416,6 @@
     "route": null,
     "checked_at": "2026-10-19T06:35:27.454952Z"
   },
-  "EWG3F": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T12:15:31.698108Z"
-  },
   "EWG58L": {
     "route": {
       "fromCity": "Berlin",
@@ -6374,17 +6363,6 @@
     },
     "checked_at": "2026-10-18T14:00:53.068889Z"
   },
-  "FIN98J": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-17T12:15:31.698108Z"
-  },
   "FIN3YX": {
     "route": {
       "fromCity": "Berlin",
@@ -6395,17 +6373,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-19T12:10:33.495312Z"
-  },
-  "EWG1GZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tivat",
-      "toIata": "TIV",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T12:20:29.084284Z"
   },
   "EWG44D": {
     "route": {
@@ -9926,7 +9893,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-18T14:20:30.090369Z"
+    "checked_at": "2026-10-19T12:20:31.971024Z"
   },
   "SWR9YP": {
     "route": {
@@ -13276,5 +13243,27 @@
   "LUA171P": {
     "route": null,
     "checked_at": "2026-10-19T12:15:30.376080Z"
+  },
+  "UBD446": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Arbil",
+      "toIata": "EBL",
+      "airlineName": "United Airways",
+      "airlineCountry": "Bangladesh"
+    },
+    "checked_at": "2026-10-19T12:20:31.971024Z"
+  },
+  "DBJKP": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "Aalborg",
+      "toIata": "AAL",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-19T12:20:31.971024Z"
   }
 }
