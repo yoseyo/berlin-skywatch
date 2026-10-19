@@ -4346,7 +4346,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T19:34:40.320304Z"
+    "checked_at": "2026-10-19T07:00:54.926677Z"
   },
   "RYR3RK": {
     "route": {
@@ -4805,7 +4805,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T07:30:41.298519Z"
+    "checked_at": "2026-10-19T07:00:54.926677Z"
   },
   "SAS31T": {
     "route": {
@@ -5550,7 +5550,7 @@
   },
   "CFG553": {
     "route": null,
-    "checked_at": "2026-10-18T05:55:22.663591Z"
+    "checked_at": "2026-10-19T07:00:54.926677Z"
   },
   "WMT9NH": {
     "route": {
@@ -5609,7 +5609,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-17T14:15:28.061081Z"
+    "checked_at": "2026-10-19T07:00:54.926677Z"
   },
   "PHMUE": {
     "route": null,
@@ -6456,28 +6456,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T12:45:29.398635Z"
-  },
-  "CFG2KD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T07:00:51.126617Z"
-  },
-  "RYR87VA": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T07:00:51.126617Z"
   },
   "NIA8601": {
     "route": {
@@ -7551,7 +7529,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-17T12:50:30.760153Z"
+    "checked_at": "2026-10-19T07:00:54.926677Z"
   },
   "JTD492": {
     "route": null,
@@ -13122,5 +13100,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T06:55:23.776092Z"
+  },
+  "EJU51LD": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T07:00:54.926677Z"
   }
 }
