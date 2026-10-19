@@ -4485,7 +4485,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T12:25:24.100348Z"
+    "checked_at": "2026-10-19T12:00:58.905121Z"
   },
   "DLH7MR": {
     "route": {
@@ -4644,17 +4644,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T11:45:31.386519Z"
-  },
-  "SAS1691": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T12:00:52.671766Z"
   },
   "DLH4EK": {
     "route": {
@@ -6011,17 +6000,6 @@
     },
     "checked_at": "2026-10-19T10:15:34.248451Z"
   },
-  "RYR7YZ": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T12:00:52.671766Z"
-  },
   "WZZ50ML": {
     "route": {
       "fromCity": "Brussels",
@@ -6384,32 +6362,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T05:20:29.326920Z"
-  },
-  "PLF250": {
-    "route": null,
-    "checked_at": "2026-10-17T12:00:52.671766Z"
-  },
-  "RYR3309": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T12:00:52.671766Z"
-  },
-  "GPX6281": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "GP Aviation",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-17T12:00:52.671766Z"
   },
   "RYR88ZF": {
     "route": {
@@ -13291,5 +13243,38 @@
   "JTD306": {
     "route": null,
     "checked_at": "2026-10-19T11:55:25.950069Z"
+  },
+  "FIN4ER": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-19T12:00:58.905121Z"
+  },
+  "AUA97F": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T12:00:58.905121Z"
+  },
+  "QTR20V": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-19T12:00:58.905121Z"
   }
 }
