@@ -5315,7 +5315,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T16:00:54.393019Z"
+    "checked_at": "2026-10-19T08:25:23.931210Z"
   },
   "BAW997T": {
     "route": {
@@ -6060,10 +6060,6 @@
     },
     "checked_at": "2026-10-18T12:00:53.426897Z"
   },
-  "DGJ567": {
-    "route": null,
-    "checked_at": "2026-10-17T08:25:20.665513Z"
-  },
   "LOT4CN": {
     "route": {
       "fromCity": "Brussels",
@@ -6416,17 +6412,6 @@
     },
     "checked_at": "2026-10-18T06:50:28.958827Z"
   },
-  "MGH650": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-17T08:25:20.665513Z"
-  },
   "AUA99J": {
     "route": {
       "fromCity": "Vienna",
@@ -6437,10 +6422,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T08:10:31.189394Z"
-  },
-  "NJE227D": {
-    "route": null,
-    "checked_at": "2026-10-17T08:25:20.665513Z"
   },
   "RUK7547": {
     "route": {
@@ -9579,7 +9560,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T08:50:29.068415Z"
+    "checked_at": "2026-10-19T08:25:23.931210Z"
   },
   "RYR8988": {
     "route": {
@@ -13080,5 +13061,20 @@
   "MFX7616": {
     "route": null,
     "checked_at": "2026-10-19T08:20:33.450344Z"
+  },
+  "DBEST": {
+    "route": null,
+    "checked_at": "2026-10-19T08:25:23.931210Z"
+  },
+  "NIA1389": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-19T08:25:23.931210Z"
   }
 }
