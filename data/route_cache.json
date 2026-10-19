@@ -306,7 +306,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T17:50:33.670639Z"
+    "checked_at": "2026-10-19T15:45:33.059316Z"
   },
   "RYR3PT": {
     "route": {
@@ -328,7 +328,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T15:25:24.033083Z"
+    "checked_at": "2026-10-19T15:45:33.059316Z"
   },
   "PGT7UZ": {
     "route": {
@@ -361,7 +361,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-18T16:05:27.333799Z"
+    "checked_at": "2026-10-19T15:45:33.059316Z"
   },
   "KLM1780": {
     "route": {
@@ -6444,50 +6444,6 @@
     },
     "checked_at": "2026-10-19T15:05:27.088888Z"
   },
-  "NSZ3298": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T15:45:27.799878Z"
-  },
-  "TVS459F": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-17T15:45:27.799878Z"
-  },
-  "SAS6275": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T15:45:27.799878Z"
-  },
-  "RYR1825": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T15:45:27.799878Z"
-  },
   "NSZ9PR": {
     "route": {
       "fromCity": "Alicante",
@@ -9536,7 +9492,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T15:40:31.676597Z"
+    "checked_at": "2026-10-19T15:45:33.059316Z"
   },
   "RSX6071": {
     "route": null,
@@ -13424,5 +13380,31 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-19T15:40:32.262273Z"
+  },
+  "RYR938": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T15:45:33.059316Z"
+  },
+  "EJU38AB": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T15:45:33.059316Z"
+  },
+  "DEDHH": {
+    "route": null,
+    "checked_at": "2026-10-19T15:45:33.059316Z"
   }
 }
