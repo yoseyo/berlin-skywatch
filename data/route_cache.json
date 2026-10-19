@@ -3571,7 +3571,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T19:50:30.715421Z"
+    "checked_at": "2026-10-19T19:30:43.039628Z"
   },
   "DLH2WR": {
     "route": {
@@ -4089,7 +4089,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T19:45:28.986529Z"
+    "checked_at": "2026-10-19T19:30:43.039628Z"
   },
   "SWR1317": {
     "route": {
@@ -6487,17 +6487,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T12:15:30.376080Z"
-  },
-  "NIA6388": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-17T19:30:41.984558Z"
   },
   "RYR2RB": {
     "route": {
@@ -13482,5 +13471,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-19T19:25:25.499618Z"
+  },
+  "CFG2EJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T19:30:43.039628Z"
+  },
+  "LOT1KE": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-19T19:30:43.039628Z"
   }
 }
