@@ -3,12 +3,12 @@
     {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.5687,
-      "lon": 13.1442,
-      "altKm": 2.7,
-      "speedKmh": 480,
-      "heading": 208,
-      "vertRateMs": -6.2,
+      "lat": 52.284,
+      "lon": 13.124,
+      "altKm": 1.2,
+      "speedKmh": 330,
+      "heading": 117,
+      "vertRateMs": -2.6,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -16,7 +16,33 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.3127,
+      "lon": 13.3311,
+      "altKm": 0.6,
+      "speedKmh": 266,
+      "heading": 69,
+      "vertRateMs": -3.9,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR3YW",
+      "country": "Malta",
+      "lat": 52.4145,
+      "lon": 13.6837,
+      "altKm": 1.5,
+      "speedKmh": 393,
+      "heading": 69,
+      "vertRateMs": 10.1,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-19T03:55:22.770291Z"
+  "updated_at": "2026-10-19T04:00:54.717138Z"
 }
