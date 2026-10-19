@@ -5307,7 +5307,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T13:15:29.241617Z"
+    "checked_at": "2026-10-19T10:15:34.248451Z"
   },
   "NOZ5EU": {
     "route": {
@@ -5682,7 +5682,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T04:10:30.286802Z"
+    "checked_at": "2026-10-19T10:15:34.248451Z"
   },
   "EJU98TC": {
     "route": {
@@ -5863,10 +5863,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T04:10:30.524692Z"
-  },
-  "DEHNO": {
-    "route": null,
-    "checked_at": "2026-10-17T10:15:29.105207Z"
   },
   "EWG41W": {
     "route": {
@@ -6068,7 +6064,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T18:15:29.465013Z"
+    "checked_at": "2026-10-19T10:15:34.248451Z"
   },
   "RYR7YZ": {
     "route": {
@@ -6377,17 +6373,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T09:15:33.867779Z"
-  },
-  "RYR5167": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T10:15:29.105207Z"
   },
   "AAL161": {
     "route": {
@@ -13263,5 +13248,50 @@
   "CAT744": {
     "route": null,
     "checked_at": "2026-10-19T10:10:34.879499Z"
+  },
+  "ETH3883": {
+    "route": null,
+    "checked_at": "2026-10-19T10:15:34.248451Z"
+  },
+  "CFG2FR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T10:15:34.248451Z"
+  },
+  "DEICO": {
+    "route": null,
+    "checked_at": "2026-10-19T10:15:34.248451Z"
+  },
+  "DCS603": {
+    "route": null,
+    "checked_at": "2026-10-19T10:15:34.248451Z"
+  },
+  "RYR89XK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marrakech",
+      "toIata": "RAK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T10:15:34.248451Z"
+  },
+  "EWG20W": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T10:15:34.248451Z"
   }
 }
