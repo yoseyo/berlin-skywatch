@@ -1685,7 +1685,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T17:18:55.580738Z"
+    "checked_at": "2026-10-19T09:00:55.167448Z"
   },
   "TVF41HV": {
     "route": {
@@ -1839,7 +1839,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T09:10:30.635671Z"
+    "checked_at": "2026-10-19T09:00:55.167448Z"
   },
   "LOT7VJ": {
     "route": {
@@ -2646,7 +2646,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-18T08:00:54.286022Z"
+    "checked_at": "2026-10-19T09:00:55.167448Z"
   },
   "WZZ8086": {
     "route": {
@@ -3708,17 +3708,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T09:25:24.085036Z"
-  },
-  "SXS8RG": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-17T09:00:51.693258Z"
   },
   "SXS9RW": {
     "route": {
@@ -6407,17 +6396,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T05:35:24.874031Z"
-  },
-  "PGT1042": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-17T09:00:51.693258Z"
   },
   "EJU94QK": {
     "route": {
@@ -13164,5 +13142,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T08:55:23.831564Z"
+  },
+  "OYCBK": {
+    "route": null,
+    "checked_at": "2026-10-19T09:00:55.167448Z"
+  },
+  "TVS4668": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-19T09:00:55.167448Z"
+  },
+  "EJU83RT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T09:00:55.167448Z"
+  },
+  "RYR127K": {
+    "route": {
+      "fromCity": "Marrakech",
+      "fromIata": "RAK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T09:00:55.167448Z"
   }
 }
