@@ -3560,7 +3560,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T16:00:54.393019Z"
+    "checked_at": "2026-10-19T16:25:24.175295Z"
   },
   "KLM60M": {
     "route": {
@@ -6432,17 +6432,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-18T09:55:23.312067Z"
-  },
-  "MSC2959": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Air Cairo",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-17T16:25:23.561529Z"
   },
   "RYR85CE": {
     "route": {
@@ -13422,5 +13411,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T16:20:31.973478Z"
+  },
+  "BTI8BX": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T16:25:24.175295Z"
   }
 }
