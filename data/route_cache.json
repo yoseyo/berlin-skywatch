@@ -3057,7 +3057,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-18T11:10:32.665924Z"
+    "checked_at": "2026-10-19T13:35:25.518057Z"
   },
   "LOT6MB": {
     "route": {
@@ -5425,7 +5425,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T07:20:29.247539Z"
+    "checked_at": "2026-10-19T13:35:25.518057Z"
   },
   "LHX9JC": {
     "route": {
@@ -5447,7 +5447,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T05:20:29.326920Z"
+    "checked_at": "2026-10-19T13:35:25.518057Z"
   },
   "RYR39DH": {
     "route": {
@@ -6428,50 +6428,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T04:30:41.994365Z"
-  },
-  "NOZ50H": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-17T13:35:22.209399Z"
-  },
-  "CFG3VD": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T13:35:22.209399Z"
-  },
-  "SAH59P": {
-    "route": {
-      "fromCity": "Sevilla",
-      "fromIata": "SVQ",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-17T13:35:22.209399Z"
-  },
-  "LOT2083": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "New York",
-      "toIata": "EWR",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-17T13:35:22.209399Z"
   },
   "NSZ82ME": {
     "route": {
@@ -13362,5 +13318,53 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T13:30:45.225949Z"
+  },
+  "CFG5ZR": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T13:35:25.518057Z"
+  },
+  "ECA3NT": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "Gibraltar",
+      "toIata": "GIB",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-19T13:35:25.518057Z"
+  },
+  "DMZFD": {
+    "route": null,
+    "checked_at": "2026-10-19T13:35:25.518057Z"
+  },
+  "EWG6901": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T13:35:25.518057Z"
+  },
+  "SDR41KM": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T13:35:25.518057Z"
   }
 }
