@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-19T00:05:23.282592Z"
+  "flights": [
+    {
+      "callsign": "VKG163",
+      "country": "Denmark",
+      "lat": 52.626,
+      "lon": 13.8524,
+      "altKm": 11.3,
+      "speedKmh": 805,
+      "heading": 345,
+      "vertRateMs": -0.3,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-19T00:10:30.798816Z"
 }
