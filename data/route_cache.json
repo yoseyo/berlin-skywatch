@@ -1454,7 +1454,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T07:20:29.247539Z"
+    "checked_at": "2026-10-19T07:25:25.019405Z"
   },
   "TVF88JV": {
     "route": {
@@ -1465,7 +1465,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-17T08:15:28.356098Z"
+    "checked_at": "2026-10-19T07:25:25.019405Z"
   },
   "AUA224": {
     "route": {
@@ -1476,7 +1476,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T07:20:29.247539Z"
+    "checked_at": "2026-10-19T07:25:25.019405Z"
   },
   "RYR12EJ": {
     "route": {
@@ -4827,7 +4827,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T07:15:28.320157Z"
+    "checked_at": "2026-10-19T07:25:25.019405Z"
   },
   "SAS697": {
     "route": {
@@ -5371,17 +5371,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T16:00:54.393019Z"
-  },
-  "VJT762": {
-    "route": {
-      "fromCity": "Hong Kong",
-      "fromIata": "HKG",
-      "toCity": "San Francisco",
-      "toIata": "SFO",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-17T07:25:22.142948Z"
   },
   "BAW997T": {
     "route": {
@@ -6441,17 +6430,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-18T12:45:29.398635Z"
-  },
-  "NSZ8CM": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "NYO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T07:25:22.142948Z"
   },
   "EJU73KU": {
     "route": {
@@ -13133,5 +13111,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-19T07:20:30.547284Z"
+  },
+  "RYR8602": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T07:25:25.019405Z"
   }
 }
