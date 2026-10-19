@@ -1,29 +1,12 @@
 {
   "flights": [
     {
-      "callsign": "EJU94YN",
-      "country": "Austria",
-      "lat": 52.3156,
-      "lon": 13.3431,
-      "altKm": 0.6,
-      "speedKmh": 250,
-      "heading": 69,
-      "vertRateMs": -3.6,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "NSZ3733",
       "country": "Sweden",
-      "lat": 52.3519,
-      "lon": 13.8363,
+      "lat": 52.9362,
+      "lon": 13.6088,
       "altKm": 11.8,
-      "speedKmh": 849,
+      "speedKmh": 861,
       "heading": 347,
       "vertRateMs": 0,
       "airline": "Norwegian Air Sweden AOC",
@@ -35,25 +18,31 @@
       "category": "plane"
     },
     {
-      "callsign": "PBB17",
-      "country": "Germany",
-      "lat": 52.6023,
-      "lon": 13.5738,
-      "altKm": 0.1,
-      "speedKmh": 57,
-      "heading": 119,
-      "vertRateMs": -2.3,
-      "category": "heli"
+      "callsign": "RYR9898",
+      "country": "Ireland",
+      "lat": 52.2135,
+      "lon": 13.1278,
+      "altKm": 1.9,
+      "speedKmh": 451,
+      "heading": 333,
+      "vertRateMs": -3.6,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "category": "plane"
     },
     {
       "callsign": "SXS2LD",
       "country": "Turkey",
-      "lat": 52.3382,
-      "lon": 13.5778,
-      "altKm": 0.9,
-      "speedKmh": 306,
-      "heading": 155,
-      "vertRateMs": 10.7,
+      "lat": 52.2965,
+      "lon": 14.0559,
+      "altKm": 3.7,
+      "speedKmh": 593,
+      "heading": 100,
+      "vertRateMs": 4.9,
       "airline": "SunExpress",
       "airlineCountry": "Turkey",
       "fromCity": "Berlin",
@@ -61,20 +50,7 @@
       "toCity": "Gaziantep",
       "toIata": "GZT",
       "category": "plane"
-    },
-    {
-      "callsign": "EZY63GU",
-      "country": "United Kingdom",
-      "lat": 52.2819,
-      "lon": 13.4073,
-      "altKm": 2.4,
-      "speedKmh": 541,
-      "heading": 271,
-      "vertRateMs": 14.6,
-      "airline": "easyJet",
-      "airlineCountry": "United Kingdom",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-19T21:30:43.062069Z"
+  "updated_at": "2026-10-19T21:35:25.447443Z"
 }
