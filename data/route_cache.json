@@ -251,7 +251,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T15:05:24.290154Z"
+    "checked_at": "2026-10-19T16:00:55.466288Z"
   },
   "BEL2HJ": {
     "route": {
@@ -394,7 +394,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-18T16:00:54.393019Z"
+    "checked_at": "2026-10-19T16:00:55.466288Z"
   },
   "LOT389": {
     "route": {
@@ -530,7 +530,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T09:10:30.635671Z"
+    "checked_at": "2026-10-19T16:00:55.466288Z"
   },
   "RYR77CN": {
     "route": {
@@ -5596,17 +5596,6 @@
     },
     "checked_at": "2026-10-18T11:05:22.880394Z"
   },
-  "IBS1806": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Iberia Express",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-17T16:00:50.952518Z"
-  },
   "RJA138": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -6443,17 +6432,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T15:05:27.088888Z"
-  },
-  "NSZ6FY": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T16:00:50.952518Z"
   },
   "EWG1R": {
     "route": {
@@ -13395,5 +13373,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-19T15:55:24.382095Z"
+  },
+  "NOZ57GW": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-19T16:00:55.466288Z"
+  },
+  "RUK1145": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T16:00:55.466288Z"
+  },
+  "NJE862Q": {
+    "route": null,
+    "checked_at": "2026-10-19T16:00:55.466288Z"
   }
 }
