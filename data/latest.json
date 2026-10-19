@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.7659,
+      "lon": 13.9076,
+      "altKm": 11.9,
+      "speedKmh": 878,
+      "heading": 214,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.5628,
-      "lon": 12.7551,
-      "altKm": 3.5,
-      "speedKmh": 592,
-      "heading": 106,
-      "vertRateMs": -15.3,
+      "lat": 52.3098,
+      "lon": 13.1664,
+      "altKm": 1.3,
+      "speedKmh": 393,
+      "heading": 100,
+      "vertRateMs": -2.3,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -18,33 +35,16 @@
       "category": "plane"
     },
     {
-      "callsign": "AUA97B",
-      "country": "Austria",
-      "lat": 52.1496,
-      "lon": 12.9999,
-      "altKm": 11.6,
-      "speedKmh": 828,
-      "heading": 144,
-      "vertRateMs": -0.3,
-      "airline": "Austrian Airlines",
-      "airlineCountry": "Austria",
-      "fromCity": "Reykjav\u00edk",
-      "fromIata": "KEF",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "category": "plane"
-    },
-    {
       "callsign": "N12MW",
       "country": "United States",
-      "lat": 52.2436,
-      "lon": 12.9679,
-      "altKm": 1.2,
-      "speedKmh": 343,
-      "heading": 68,
-      "vertRateMs": -0.3,
+      "lat": 52.3406,
+      "lon": 13.3711,
+      "altKm": 0.5,
+      "speedKmh": 300,
+      "heading": 69,
+      "vertRateMs": -4.5,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-19T03:25:23.500448Z"
+  "updated_at": "2026-10-19T03:30:42.559302Z"
 }
