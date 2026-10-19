@@ -1300,7 +1300,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T07:15:28.320157Z"
+    "checked_at": "2026-10-19T07:15:30.357225Z"
   },
   "LOT2CM": {
     "route": {
@@ -3795,7 +3795,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T07:30:40.137024Z"
+    "checked_at": "2026-10-19T07:15:30.357225Z"
   },
   "RYR62HD": {
     "route": {
@@ -5589,17 +5589,6 @@
     },
     "checked_at": "2026-10-19T03:50:32.125688Z"
   },
-  "FIN7PR": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-17T07:15:27.472127Z"
-  },
   "WMT1JM": {
     "route": {
       "fromCity": "Berlin",
@@ -5842,10 +5831,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T11:05:22.880394Z"
-  },
-  "N99BY": {
-    "route": null,
-    "checked_at": "2026-10-17T07:15:27.472127Z"
   },
   "IBS1806": {
     "route": {
@@ -13122,5 +13107,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T07:10:34.734689Z"
+  },
+  "EJU5052": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T07:15:30.357225Z"
+  },
+  "TWY989": {
+    "route": null,
+    "checked_at": "2026-10-19T07:15:30.357225Z"
   }
 }
