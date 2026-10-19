@@ -262,7 +262,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-18T16:10:35.044719Z"
+    "checked_at": "2026-10-19T16:30:42.664923Z"
   },
   "TVF77EX": {
     "route": {
@@ -350,7 +350,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T16:15:31.959543Z"
+    "checked_at": "2026-10-19T16:30:42.664923Z"
   },
   "SWR23F": {
     "route": {
@@ -6443,28 +6443,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T20:00:55.373487Z"
-  },
-  "JTD537": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-17T16:30:41.704497Z"
-  },
-  "AEE508": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-17T16:30:41.704497Z"
   },
   "ICL981": {
     "route": {
@@ -13422,5 +13400,35 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-19T16:25:24.175295Z"
+  },
+  "AUA99R": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T16:30:42.664923Z"
+  },
+  "GJW21SJ": {
+    "route": null,
+    "checked_at": "2026-10-19T16:30:42.664923Z"
+  },
+  "ISR253": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-19T16:30:42.664923Z"
+  },
+  "AYJ431": {
+    "route": null,
+    "checked_at": "2026-10-19T16:30:42.664923Z"
   }
 }
