@@ -504,7 +504,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T10:05:24.770031Z"
+    "checked_at": "2026-10-19T19:10:30.512793Z"
   },
   "TVF89NN": {
     "route": null,
@@ -717,7 +717,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T19:00:51.912132Z"
+    "checked_at": "2026-10-19T19:10:30.512793Z"
   },
   "LOT1LH": {
     "route": {
@@ -772,7 +772,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-18T19:50:30.715421Z"
+    "checked_at": "2026-10-19T19:10:30.512793Z"
   },
   "KLC1335": {
     "route": {
@@ -6476,17 +6476,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T19:10:30.203831Z"
-  },
-  "NOZ51J": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-17T19:10:29.691757Z"
   },
   "NSZ3299": {
     "route": {
@@ -13460,5 +13449,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T19:05:25.459752Z"
+  },
+  "LOT5NG": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-19T19:10:30.512793Z"
   }
 }
