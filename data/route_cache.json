@@ -2602,7 +2602,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-18T04:15:28.169819Z"
+    "checked_at": "2026-10-19T06:20:33.312985Z"
   },
   "LGL91B": {
     "route": {
@@ -4060,18 +4060,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-17T06:25:23.132458Z"
-  },
-  "ETH724": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-10-17T06:20:29.264458Z"
+    "checked_at": "2026-10-19T06:20:33.312985Z"
   },
   "EJU45GF": {
     "route": {
@@ -4828,17 +4817,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-18T06:20:27.408466Z"
-  },
-  "ASL94D": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-17T06:20:29.264458Z"
   },
   "LOT4MH": {
     "route": {
@@ -6457,17 +6435,6 @@
     },
     "checked_at": "2026-10-19T06:15:30.775805Z"
   },
-  "EJU85XR": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-17T06:20:29.264458Z"
-  },
   "NOZ1950": {
     "route": {
       "fromCity": "Oslo",
@@ -6478,21 +6445,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-18T05:15:27.007863Z"
-  },
-  "NJE559B": {
-    "route": null,
-    "checked_at": "2026-10-17T06:20:29.264458Z"
-  },
-  "WMT459": {
-    "route": {
-      "fromCity": "Cluj-Napoca",
-      "fromIata": "CLJ",
-      "toCity": "Cluj-Napoca",
-      "toIata": "CLJ",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-17T06:20:29.264458Z"
   },
   "WMT3CL": {
     "route": {
@@ -13117,5 +13069,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T06:15:30.775805Z"
+  },
+  "RYR8603": {
+    "route": {
+      "fromCity": "Weeze",
+      "fromIata": "NRN",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T06:20:33.312985Z"
+  },
+  "NIA1388": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-19T06:20:33.312985Z"
+  },
+  "WMT9SL": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-19T06:20:33.312985Z"
   }
 }
