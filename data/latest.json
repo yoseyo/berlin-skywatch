@@ -1,48 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "WZZ9WZ",
-      "country": "Hungary",
-      "lat": 52.3322,
-      "lon": 14.0688,
+      "callsign": "RYR6GD",
+      "country": "Poland",
+      "lat": 52.3372,
+      "lon": 13.1826,
       "altKm": 10.8,
-      "speedKmh": 824,
-      "heading": 159,
-      "vertRateMs": 0,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "category": "plane"
-    },
-    {
-      "callsign": "SAS7744",
-      "country": "Sweden",
-      "lat": 52.4266,
-      "lon": 13.8417,
-      "altKm": 11.8,
-      "speedKmh": 859,
-      "heading": 344,
+      "speedKmh": 823,
+      "heading": 92,
       "vertRateMs": 0.3,
-      "airline": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden",
-      "fromCity": "Burgas",
-      "fromIata": "BOJ",
-      "toCity": "Billund",
-      "toIata": "BLL",
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Rome",
+      "fromIata": "CIA",
+      "toCity": "Athens",
+      "toIata": "ATH",
       "category": "plane"
     },
     {
       "callsign": "RYR8EM",
       "country": "Malta",
-      "lat": 52.8332,
-      "lon": 13.8209,
+      "lat": 52.2669,
+      "lon": 13.9887,
       "altKm": 11.5,
-      "speedKmh": 857,
+      "speedKmh": 837,
       "heading": 170,
-      "vertRateMs": 0.3,
+      "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Bratislava",
@@ -52,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-19T22:00:54.045220Z"
+  "updated_at": "2026-10-19T22:05:23.897015Z"
 }
