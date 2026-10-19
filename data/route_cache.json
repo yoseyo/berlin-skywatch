@@ -2701,7 +2701,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T05:00:52.273480Z"
+    "checked_at": "2026-10-19T04:50:32.665916Z"
   },
   "ICE14T": {
     "route": {
@@ -4029,17 +4029,6 @@
     },
     "checked_at": "2026-10-18T19:40:30.713439Z"
   },
-  "CFE8PR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-17T04:50:28.435292Z"
-  },
   "DLH9YA": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -4811,17 +4800,6 @@
     },
     "checked_at": "2026-10-19T04:45:28.400608Z"
   },
-  "NSZ3288": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T04:45:30.519071Z"
-  },
   "EJU59TY": {
     "route": {
       "fromCity": "Berlin",
@@ -5161,7 +5139,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-18T04:50:30.514337Z"
+    "checked_at": "2026-10-19T04:50:32.665916Z"
   },
   "RYR58ZM": {
     "route": {
@@ -6493,17 +6471,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-18T11:15:28.267409Z"
-  },
-  "WMT1ST": {
-    "route": {
-      "fromCity": "Chi\u015fin\u0103u",
-      "fromIata": "RMO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-17T04:50:28.435292Z"
   },
   "RYR3HF": {
     "route": {
@@ -12991,5 +12958,42 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-19T04:30:41.994365Z"
+  },
+  "DIETB": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-19T04:50:32.665916Z"
+  },
+  "AUA221V": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T04:50:32.665916Z"
+  },
+  "EWG41C": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T04:50:32.665916Z"
+  },
+  "CAT9759": {
+    "route": null,
+    "checked_at": "2026-10-19T04:50:32.665916Z"
   }
 }
