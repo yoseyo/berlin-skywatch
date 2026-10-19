@@ -1663,7 +1663,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-18T15:10:31.082873Z"
+    "checked_at": "2026-10-19T09:50:31.215608Z"
   },
   "SWR3TE": {
     "route": {
@@ -1953,7 +1953,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-18T10:00:52.611730Z"
+    "checked_at": "2026-10-19T09:50:31.215608Z"
   },
   "NSZ4506": {
     "route": {
@@ -3630,7 +3630,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T04:00:51.283759Z"
+    "checked_at": "2026-10-19T09:50:31.215608Z"
   },
   "AUA235D": {
     "route": {
@@ -6374,10 +6374,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T05:35:24.874031Z"
-  },
-  "PAV682": {
-    "route": null,
-    "checked_at": "2026-10-17T09:50:28.825046Z"
   },
   "RYR25SC": {
     "route": {
@@ -13223,5 +13219,27 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-19T09:45:32.446414Z"
+  },
+  "BTI695": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T09:50:31.215608Z"
+  },
+  "RYR3WY": {
+    "route": {
+      "fromCity": "Podgorica",
+      "fromIata": "TGD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T09:50:31.215608Z"
   }
 }
