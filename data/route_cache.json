@@ -1179,7 +1179,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T05:35:22.992025Z"
+    "checked_at": "2026-10-19T05:30:43.724660Z"
   },
   "NSZ8ML": {
     "route": {
@@ -1278,7 +1278,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T09:55:23.312067Z"
+    "checked_at": "2026-10-19T05:30:43.724660Z"
   },
   "EWG6NT": {
     "route": {
@@ -5601,7 +5601,7 @@
       "airlineName": "Easyjet Switzerland",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-18T05:20:29.326920Z"
+    "checked_at": "2026-10-19T05:30:43.724660Z"
   },
   "CFG553": {
     "route": null,
@@ -5735,17 +5735,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-17T08:50:28.824919Z"
-  },
-  "RYR99FP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T05:30:41.191066Z"
   },
   "CAI9JM": {
     "route": {
@@ -13091,5 +13080,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-19T05:25:22.389901Z"
+  },
+  "EWG66Y": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T05:30:43.724660Z"
+  },
+  "EJU53YB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-19T05:30:43.724660Z"
   }
 }
