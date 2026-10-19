@@ -926,7 +926,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-18T20:35:22.022455Z"
+    "checked_at": "2026-10-19T20:35:23.354653Z"
   },
   "DLH206": {
     "route": {
@@ -5807,7 +5807,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T20:45:29.353162Z"
+    "checked_at": "2026-10-19T20:35:23.354653Z"
   },
   "SWR53Q": {
     "route": {
@@ -6498,39 +6498,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-18T16:35:22.904770Z"
-  },
-  "NSZ7DE": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T20:35:22.222538Z"
-  },
-  "SAS1810": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T20:35:22.222538Z"
-  },
-  "EJU17CG": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-17T20:35:22.222538Z"
   },
   "NOZ87G": {
     "route": {
@@ -13534,5 +13501,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-19T20:30:44.943732Z"
+  },
+  "RYR28BE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T20:35:23.354653Z"
   }
 }
