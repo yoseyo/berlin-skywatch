@@ -6510,17 +6510,6 @@
     },
     "checked_at": "2026-10-18T15:10:31.082873Z"
   },
-  "SAS7726": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T22:00:52.648532Z"
-  },
   "CAT752": {
     "route": null,
     "checked_at": "2026-10-17T22:05:25.390375Z"
@@ -13513,5 +13502,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T21:50:33.459976Z"
+  },
+  "WZZ9WZ": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-19T22:00:54.045220Z"
+  },
+  "SAS7744": {
+    "route": {
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T22:00:54.045220Z"
+  },
+  "RYR8EM": {
+    "route": {
+      "fromCity": "Bratislava",
+      "fromIata": "BTS",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T22:00:54.045220Z"
   }
 }
