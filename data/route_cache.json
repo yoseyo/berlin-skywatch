@@ -1784,7 +1784,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T09:20:30.539977Z"
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   },
   "LOT4LV": {
     "route": {
@@ -1806,7 +1806,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T09:40:36.622985Z"
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   },
   "LOT266": {
     "route": {
@@ -2947,7 +2947,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T06:35:21.760547Z"
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   },
   "BAW990G": {
     "route": {
@@ -3105,7 +3105,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T09:05:26.041470Z"
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   },
   "LOT6PA": {
     "route": {
@@ -3553,7 +3553,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T09:15:29.129118Z"
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   },
   "KLM95T": {
     "route": {
@@ -3707,7 +3707,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T09:25:24.085036Z"
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   },
   "SXS9RW": {
     "route": {
@@ -4324,7 +4324,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T09:10:30.635671Z"
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   },
   "EZY18ZQ": {
     "route": {
@@ -6133,17 +6133,6 @@
     },
     "checked_at": "2026-10-18T06:00:50.550527Z"
   },
-  "RYR50PQ": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T09:20:28.215027Z"
-  },
   "EWG4J": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6385,10 +6374,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T05:35:24.874031Z"
-  },
-  "JBC128G": {
-    "route": null,
-    "checked_at": "2026-10-17T09:20:28.215027Z"
   },
   "NSZ9EF": {
     "route": {
@@ -13183,5 +13168,16 @@
   "DEDLJ": {
     "route": null,
     "checked_at": "2026-10-19T09:15:33.867779Z"
+  },
+  "EWG8SP": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T09:20:32.481274Z"
   }
 }
