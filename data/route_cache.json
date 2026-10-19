@@ -3538,7 +3538,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T07:15:28.320157Z"
+    "checked_at": "2026-10-19T21:15:30.811128Z"
   },
   "KLM73D": {
     "route": {
@@ -6509,17 +6509,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T15:10:31.082873Z"
-  },
-  "NOZ1911": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-17T21:15:30.479139Z"
   },
   "NSZ3749": {
     "route": {
@@ -13454,5 +13443,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T21:05:24.660658Z"
+  },
+  "NSZ7DE": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T21:15:30.811128Z"
+  },
+  "SRR6227": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-19T21:15:30.811128Z"
   }
 }
