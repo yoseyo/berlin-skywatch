@@ -684,7 +684,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T14:55:23.498953Z"
+    "checked_at": "2026-10-19T18:10:34.282385Z"
   },
   "BAW846W": {
     "route": {
@@ -2866,7 +2866,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T18:00:53.792100Z"
+    "checked_at": "2026-10-19T18:10:34.282385Z"
   },
   "EWG9QC": {
     "route": {
@@ -5065,7 +5065,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T16:50:29.581950Z"
+    "checked_at": "2026-10-19T18:10:34.282385Z"
   },
   "EZY71RM": {
     "route": {
@@ -6444,17 +6444,6 @@
     "route": null,
     "checked_at": "2026-10-18T15:10:31.082873Z"
   },
-  "ETH725": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Addis Ababa",
-      "toIata": "ADD",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-10-17T18:10:30.030727Z"
-  },
   "AUA972": {
     "route": {
       "fromCity": "Gothenburg",
@@ -6465,17 +6454,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T18:05:27.795565Z"
-  },
-  "SDR60YJ": {
-    "route": {
-      "fromCity": "Marsa Alam",
-      "fromIata": "RMF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T18:10:30.030727Z"
   },
   "BAW845": {
     "route": {
@@ -13405,5 +13383,38 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-19T18:00:53.421590Z"
+  },
+  "NSZ2067": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T18:10:34.282385Z"
+  },
+  "RYR1CZ": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T18:10:34.282385Z"
+  },
+  "RYR9SW": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T18:10:34.282385Z"
   }
 }
