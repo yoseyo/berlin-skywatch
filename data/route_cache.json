@@ -111,7 +111,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T14:05:23.882866Z"
+    "checked_at": "2026-10-19T14:10:34.177024Z"
   },
   "RYR96EU": {
     "route": {
@@ -122,7 +122,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T10:45:29.716452Z"
+    "checked_at": "2026-10-19T14:10:34.177024Z"
   },
   "CHX31": {
     "route": null,
@@ -3802,7 +3802,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-18T14:00:53.068889Z"
+    "checked_at": "2026-10-19T14:10:34.177024Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -6417,28 +6417,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T13:20:35.093586Z"
-  },
-  "VLG1889": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Vueling Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-17T14:10:30.099402Z"
-  },
-  "SDR16YT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-17T14:10:30.099402Z"
   },
   "TVS4593": {
     "route": {
@@ -13378,5 +13356,24 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T14:05:26.706008Z"
+  },
+  "WZZ1607": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-19T14:10:34.177024Z"
+  },
+  "NJE464R": {
+    "route": null,
+    "checked_at": "2026-10-19T14:10:34.177024Z"
+  },
+  "AXY543E": {
+    "route": null,
+    "checked_at": "2026-10-19T14:10:34.177024Z"
   }
 }
