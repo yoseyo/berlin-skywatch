@@ -1861,7 +1861,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T08:50:29.068415Z"
+    "checked_at": "2026-10-19T08:40:31.615895Z"
   },
   "DLH9KK": {
     "route": {
@@ -2789,7 +2789,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T08:25:23.469754Z"
+    "checked_at": "2026-10-19T08:40:31.615895Z"
   },
   "BAW992G": {
     "route": {
@@ -4357,7 +4357,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-17T20:50:30.238593Z"
+    "checked_at": "2026-10-19T08:40:31.615895Z"
   },
   "EJU92LR": {
     "route": {
@@ -5633,10 +5633,6 @@
     },
     "checked_at": "2026-10-17T08:50:28.824919Z"
   },
-  "CHX64": {
-    "route": null,
-    "checked_at": "2026-10-17T08:40:30.579617Z"
-  },
   "AMQ1M": {
     "route": {
       "fromCity": "Katowice",
@@ -6422,28 +6418,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-18T08:10:31.189394Z"
-  },
-  "TKJ5107": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-17T08:40:30.579617Z"
-  },
-  "NIA8602": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-17T08:40:30.579617Z"
   },
   "SAS63Z": {
     "route": {
@@ -13127,5 +13101,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-19T08:35:23.657963Z"
+  },
+  "BTI7EG": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-19T08:40:31.615895Z"
+  },
+  "KLM1303": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-19T08:40:31.615895Z"
   }
 }
