@@ -416,7 +416,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-18T16:30:43.926131Z"
+    "checked_at": "2026-10-19T18:20:32.647873Z"
   },
   "PGT49PK": {
     "route": {
@@ -640,7 +640,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T18:15:29.465013Z"
+    "checked_at": "2026-10-19T18:20:32.647873Z"
   },
   "IBE07MV": {
     "route": {
@@ -13449,5 +13449,38 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-19T18:15:32.463502Z"
+  },
+  "SDR11DL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T18:20:32.647873Z"
+  },
+  "LBT233": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tunis",
+      "toIata": "TUN",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-19T18:20:32.647873Z"
+  },
+  "ISR254": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-19T18:20:32.647873Z"
   }
 }
