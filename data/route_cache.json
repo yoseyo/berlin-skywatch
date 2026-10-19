@@ -1025,7 +1025,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T11:15:28.267409Z"
+    "checked_at": "2026-10-19T05:50:31.461777Z"
   },
   "RYR584E": {
     "route": {
@@ -1245,7 +1245,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T05:50:29.695448Z"
+    "checked_at": "2026-10-19T05:50:31.461777Z"
   },
   "AUA223B": {
     "route": {
@@ -5616,7 +5616,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-17T12:50:30.760153Z"
+    "checked_at": "2026-10-19T05:50:31.461777Z"
   },
   "WZZ8649": {
     "route": null,
@@ -6445,28 +6445,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-19T05:15:28.576854Z"
-  },
-  "CFG2CK": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-17T05:50:27.369362Z"
-  },
-  "WZZ31QC": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-17T05:50:27.369362Z"
   },
   "FLI7122": {
     "route": {
@@ -13110,5 +13088,16 @@
   "EFD5Z": {
     "route": null,
     "checked_at": "2026-10-19T05:45:29.254135Z"
+  },
+  "AMQ7A": {
+    "route": {
+      "fromCity": "Biarritz/Anglet/Bayonne",
+      "fromIata": "BIQ",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-19T05:50:31.461777Z"
   }
 }
