@@ -1927,7 +1927,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-18T17:25:24.581719Z"
+    "checked_at": "2026-10-19T07:45:30.881622Z"
   },
   "WUK1356": {
     "route": null,
@@ -6464,10 +6464,6 @@
     },
     "checked_at": "2026-10-19T07:40:32.431700Z"
   },
-  "OEFML": {
-    "route": null,
-    "checked_at": "2026-10-17T07:45:27.317851Z"
-  },
   "BAW84NT": {
     "route": {
       "fromCity": "Warsaw",
@@ -6478,17 +6474,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-18T06:50:28.958827Z"
-  },
-  "WZZ39FE": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Katowice",
-      "toIata": "KTW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-17T07:45:27.317851Z"
   },
   "AIB565A": {
     "route": {
@@ -13134,5 +13119,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T07:40:32.431700Z"
+  },
+  "DISAG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kuopio / Siilinj\u00e4rvi",
+      "toIata": "KUO",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-19T07:45:30.881622Z"
   }
 }
