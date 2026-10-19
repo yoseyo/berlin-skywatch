@@ -2257,7 +2257,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T12:10:32.095621Z"
+    "checked_at": "2026-10-19T12:10:33.495312Z"
   },
   "EJU57RF": {
     "route": {
@@ -3035,7 +3035,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-18T11:55:22.698614Z"
+    "checked_at": "2026-10-19T12:10:33.495312Z"
   },
   "RYR3EM": {
     "route": {
@@ -3171,7 +3171,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-10-18T11:55:22.698614Z"
+    "checked_at": "2026-10-19T12:10:33.495312Z"
   },
   "KLM67B": {
     "route": {
@@ -4408,7 +4408,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-18T12:05:24.050026Z"
+    "checked_at": "2026-10-19T12:10:33.495312Z"
   },
   "SWU1950": {
     "route": {
@@ -6374,32 +6374,6 @@
     },
     "checked_at": "2026-10-18T14:00:53.068889Z"
   },
-  "JFA15B": {
-    "route": null,
-    "checked_at": "2026-10-17T12:10:30.830470Z"
-  },
-  "VLG1888": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Vueling Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-17T12:10:30.830470Z"
-  },
-  "RYR5VH": {
-    "route": {
-      "fromCity": "Paphos",
-      "fromIata": "PFO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T12:10:30.830470Z"
-  },
   "FIN98J": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -6420,7 +6394,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-18T12:10:32.095621Z"
+    "checked_at": "2026-10-19T12:10:33.495312Z"
   },
   "EWG1GZ": {
     "route": {
@@ -6586,7 +6560,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T12:10:32.095621Z"
+    "checked_at": "2026-10-19T12:10:33.495312Z"
   },
   "EJU83ZK": {
     "route": {
@@ -13287,5 +13261,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T12:05:30.050073Z"
+  },
+  "N275TC": {
+    "route": {
+      "fromCity": "Dresden",
+      "fromIata": "DRS",
+      "toCity": "Paderborn",
+      "toIata": "PAD",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-19T12:10:33.495312Z"
   }
 }
