@@ -1091,7 +1091,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T05:10:30.961393Z"
+    "checked_at": "2026-10-19T05:10:30.475175Z"
   },
   "DLH9CJ": {
     "route": {
@@ -1135,7 +1135,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-18T05:10:30.961393Z"
+    "checked_at": "2026-10-19T05:10:30.475175Z"
   },
   "AUA240": {
     "route": {
@@ -1146,7 +1146,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-18T05:10:30.961393Z"
+    "checked_at": "2026-10-19T05:10:30.475175Z"
   },
   "SXS75G": {
     "route": {
@@ -4215,10 +4215,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T04:40:31.371521Z"
-  },
-  "WMT7615": {
-    "route": null,
-    "checked_at": "2026-10-17T05:10:30.470846Z"
   },
   "DLH7HP": {
     "route": {
@@ -11766,7 +11762,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T16:30:43.926131Z"
+    "checked_at": "2026-10-19T05:10:30.475175Z"
   },
   "ISR251": {
     "route": {
@@ -13032,5 +13028,35 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-19T05:05:26.191663Z"
+  },
+  "CFE8PR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T05:10:30.475175Z"
+  },
+  "RYR6505": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T05:10:30.475175Z"
+  },
+  "CAT9741": {
+    "route": null,
+    "checked_at": "2026-10-19T05:10:30.475175Z"
+  },
+  "CAT9771": {
+    "route": null,
+    "checked_at": "2026-10-19T05:10:30.475175Z"
   }
 }
