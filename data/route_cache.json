@@ -13480,5 +13480,38 @@
   "SDR21RP": {
     "route": null,
     "checked_at": "2026-10-19T21:40:34.246339Z"
+  },
+  "JTD244": {
+    "route": {
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Jet Time",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-19T21:50:33.459976Z"
+  },
+  "EWG3GH": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-19T21:50:33.459976Z"
+  },
+  "RYR8WH": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-19T21:50:33.459976Z"
   }
 }

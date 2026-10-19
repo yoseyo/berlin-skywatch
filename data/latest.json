@@ -1,4 +1,56 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-19T21:45:30.832659Z"
+  "flights": [
+    {
+      "callsign": "JTD244",
+      "country": "Denmark",
+      "lat": 52.3706,
+      "lon": 13.8599,
+      "altKm": 11.8,
+      "speedKmh": 863,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "Jet Time",
+      "airlineCountry": "Denmark",
+      "fromCity": "Preveza/Lefkada",
+      "fromIata": "PVK",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG3GH",
+      "country": "Germany",
+      "lat": 52.1996,
+      "lon": 13.0739,
+      "altKm": 1.3,
+      "speedKmh": 430,
+      "heading": 49,
+      "vertRateMs": -7.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR8WH",
+      "country": "Ireland",
+      "lat": 52.7499,
+      "lon": 13.8496,
+      "altKm": 11.8,
+      "speedKmh": 869,
+      "heading": 344,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-19T21:50:33.459976Z"
 }
