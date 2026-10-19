@@ -1,16 +1,50 @@
 {
   "flights": [
     {
+      "callsign": "SRR6228",
+      "country": "Denmark",
+      "lat": 52.5628,
+      "lon": 12.7551,
+      "altKm": 3.5,
+      "speedKmh": 592,
+      "heading": 106,
+      "vertRateMs": -15.3,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "AUA97B",
+      "country": "Austria",
+      "lat": 52.1496,
+      "lon": 12.9999,
+      "altKm": 11.6,
+      "speedKmh": 828,
+      "heading": 144,
+      "vertRateMs": -0.3,
+      "airline": "Austrian Airlines",
+      "airlineCountry": "Austria",
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "category": "plane"
+    },
+    {
       "callsign": "N12MW",
       "country": "United States",
-      "lat": 52.2882,
-      "lon": 12.7836,
+      "lat": 52.2436,
+      "lon": 12.9679,
       "altKm": 1.2,
-      "speedKmh": 433,
-      "heading": 248,
-      "vertRateMs": 0,
+      "speedKmh": 343,
+      "heading": 68,
+      "vertRateMs": -0.3,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-19T03:20:32.510889Z"
+  "updated_at": "2026-10-19T03:25:23.500448Z"
 }
