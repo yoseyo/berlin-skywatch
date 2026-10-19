@@ -6429,39 +6429,6 @@
     },
     "checked_at": "2026-10-19T04:30:41.994365Z"
   },
-  "EJU5005": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-17T13:50:32.954682Z"
-  },
-  "VKG150": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-17T13:50:32.954682Z"
-  },
-  "RYR37CU": {
-    "route": {
-      "fromCity": "Leeds",
-      "fromIata": "LBA",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-17T13:50:32.954682Z"
-  },
   "EJU84GR": {
     "route": {
       "fromCity": "Milan",
@@ -9698,7 +9665,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-18T14:40:34.024501Z"
+    "checked_at": "2026-10-19T13:55:26.234516Z"
   },
   "EJU9114": {
     "route": {
@@ -13389,5 +13356,27 @@
   "VJH373": {
     "route": null,
     "checked_at": "2026-10-19T13:50:31.697680Z"
+  },
+  "BAW988G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-19T13:55:26.234516Z"
+  },
+  "SAS2736": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-19T13:55:26.234516Z"
   }
 }
