@@ -1,16 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "EJU32RT",
-      "country": "Austria",
-      "lat": 52.2997,
-      "lon": 13.2767,
-      "altKm": 0.9,
-      "speedKmh": 379,
-      "heading": 69,
-      "vertRateMs": -7.2,
+      "callsign": "NSZ3353",
+      "country": "Sweden",
+      "lat": 52.5584,
+      "lon": 13.9539,
+      "altKm": 11.8,
+      "speedKmh": 813,
+      "heading": 344,
+      "vertRateMs": -0.3,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR3PT",
+      "country": "Ireland",
+      "lat": 52.3883,
+      "lon": 13.2564,
+      "altKm": 12.4,
+      "speedKmh": 791,
+      "heading": 270,
+      "vertRateMs": 0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-20T21:25:23.148429Z"
+  "updated_at": "2026-10-20T21:30:41.466654Z"
 }
