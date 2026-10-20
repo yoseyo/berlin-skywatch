@@ -2323,7 +2323,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T13:25:25.859597Z"
+    "checked_at": "2026-10-20T13:00:58.609602Z"
   },
   "SAS1678": {
     "route": {
@@ -2334,7 +2334,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-19T13:15:31.319399Z"
+    "checked_at": "2026-10-20T13:00:58.609602Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -4244,17 +4244,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-20T12:30:43.389438Z"
-  },
-  "SWU1950": {
-    "route": {
-      "fromCity": "Bolzano",
-      "fromIata": "BZO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Swiss European Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-18T13:00:51.597098Z"
   },
   "RYR159P": {
     "route": {
@@ -6462,25 +6451,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-20T12:35:26.137013Z"
-  },
-  "SDR10XL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T13:00:51.597098Z"
-  },
-  "DMELV": {
-    "route": null,
-    "checked_at": "2026-10-18T13:00:51.597098Z"
-  },
-  "SUI787": {
-    "route": null,
-    "checked_at": "2026-10-18T13:00:51.597098Z"
   },
   "EZY32CB": {
     "route": {
@@ -13620,5 +13590,60 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-20T12:55:23.811726Z"
+  },
+  "BTI2MU": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Tampere / Pirkkala",
+      "toIata": "TMP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-20T13:00:58.609602Z"
+  },
+  "RYR2JL": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T13:00:58.609602Z"
+  },
+  "VOE1462": {
+    "route": {
+      "fromCity": "Firenze",
+      "fromIata": "FLR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-20T13:00:58.609602Z"
+  },
+  "RYR108X": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T13:00:58.609602Z"
+  },
+  "VJT453": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "Amman",
+      "toIata": "AMM",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-20T13:00:58.609602Z"
   }
 }
