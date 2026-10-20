@@ -3395,7 +3395,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-18T08:10:31.189394Z"
+    "checked_at": "2026-10-20T08:05:25.029795Z"
   },
   "LOT4NC": {
     "route": {
@@ -6430,28 +6430,6 @@
     "route": null,
     "checked_at": "2026-10-18T20:45:29.353162Z"
   },
-  "HYS408": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Chi\u015fin\u0103u",
-      "toIata": "RMO",
-      "airlineName": "HiSky Europe",
-      "airlineCountry": "Romania"
-    },
-    "checked_at": "2026-10-18T08:00:54.286022Z"
-  },
-  "RYR87DD": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T08:00:54.286022Z"
-  },
   "BAW986G": {
     "route": {
       "fromCity": "London",
@@ -6462,17 +6440,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-20T07:45:29.033935Z"
-  },
-  "SXS6SJ": {
-    "route": {
-      "fromCity": "Dalaman",
-      "fromIata": "DLM",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T08:05:24.547114Z"
   },
   "BTI8QA": {
     "route": {
@@ -13528,5 +13495,16 @@
   "TJD801": {
     "route": null,
     "checked_at": "2026-10-20T08:00:50.390740Z"
+  },
+  "DLH6YW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T08:05:25.029795Z"
   }
 }
