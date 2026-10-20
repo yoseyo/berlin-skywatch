@@ -574,7 +574,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-19T17:05:24.847974Z"
+    "checked_at": "2026-10-20T17:30:41.994574Z"
   },
   "LOT3KT": {
     "route": {
@@ -3977,17 +3977,6 @@
     },
     "checked_at": "2026-10-19T20:00:57.458181Z"
   },
-  "LHX4KK": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T17:25:24.581719Z"
-  },
   "SAS55L": {
     "route": {
       "fromCity": "Copenhagen",
@@ -4876,17 +4865,6 @@
     },
     "checked_at": "2026-10-19T08:20:33.450344Z"
   },
-  "RYR24YX": {
-    "route": {
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T17:30:41.564835Z"
-  },
   "RYR5WP": {
     "route": {
       "fromCity": "Katowice",
@@ -5455,17 +5433,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T16:25:25.852076Z"
-  },
-  "SAS1830": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T17:25:24.581719Z"
   },
   "FHY1282": {
     "route": {
@@ -6452,21 +6419,6 @@
     },
     "checked_at": "2026-10-20T16:35:24.493658Z"
   },
-  "GCK29": {
-    "route": null,
-    "checked_at": "2026-10-18T17:25:24.581719Z"
-  },
-  "TKJ9HJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T17:25:24.581719Z"
-  },
   "EJU92MK": {
     "route": {
       "fromCity": "Berlin",
@@ -6477,21 +6429,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T17:00:59.856620Z"
-  },
-  "SEH6403": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-18T17:30:41.564835Z"
-  },
-  "TWI345": {
-    "route": null,
-    "checked_at": "2026-10-18T17:30:41.564835Z"
   },
   "NSZ3734": {
     "route": {
@@ -6550,7 +6487,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T17:15:31.998581Z"
+    "checked_at": "2026-10-20T17:30:41.994574Z"
   },
   "KMM376": {
     "route": null,
@@ -13274,5 +13211,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-20T17:25:24.275527Z"
+  },
+  "SXS6PC": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T17:30:41.994574Z"
   }
 }
