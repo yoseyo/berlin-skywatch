@@ -1157,7 +1157,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T05:30:43.724660Z"
+    "checked_at": "2026-10-20T05:45:28.206396Z"
   },
   "NSZ8ML": {
     "route": {
@@ -4155,7 +4155,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-19T05:45:29.254135Z"
+    "checked_at": "2026-10-20T05:45:28.206396Z"
   },
   "RYR717M": {
     "route": {
@@ -6454,28 +6454,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T06:35:27.454952Z"
-  },
-  "BTI3TP": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-18T05:45:27.688459Z"
-  },
-  "FLI9120": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Preveza/Lefkada",
-      "toIata": "PVK",
-      "airlineName": "Atlantic Airways",
-      "airlineCountry": "Faroe Islands"
-    },
-    "checked_at": "2026-10-18T05:45:27.688459Z"
   },
   "WZZ691": {
     "route": {
@@ -13542,5 +13520,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-20T05:40:28.948485Z"
+  },
+  "EWG5MJ": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T05:45:28.206396Z"
+  },
+  "WMT1MP": {
+    "route": {
+      "fromCity": "Tirana",
+      "fromIata": "TIA",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-20T05:45:28.206396Z"
   }
 }
