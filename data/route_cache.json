@@ -1674,7 +1674,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-19T09:25:25.153410Z"
+    "checked_at": "2026-10-20T08:35:23.865980Z"
   },
   "BEL8CE": {
     "route": {
@@ -1685,7 +1685,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-19T08:35:23.657963Z"
+    "checked_at": "2026-10-20T08:35:23.865980Z"
   },
   "SAS85J": {
     "route": {
@@ -5260,7 +5260,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-10-18T10:05:24.770031Z"
+    "checked_at": "2026-10-20T08:35:23.865980Z"
   },
   "EWG7BH": {
     "route": {
@@ -6419,28 +6419,6 @@
     },
     "checked_at": "2026-10-19T08:30:45.014088Z"
   },
-  "TSC418": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Transat",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-18T08:35:23.731429Z"
-  },
-  "BTI877": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-18T08:35:23.731429Z"
-  },
   "RYR5SC": {
     "route": {
       "fromCity": "London",
@@ -6483,7 +6461,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-19T08:25:23.931210Z"
+    "checked_at": "2026-10-20T08:35:23.865980Z"
   },
   "RYR8988": {
     "route": {
@@ -12024,7 +12002,7 @@
       "airlineName": "Ryanair UK",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-19T17:10:33.243885Z"
+    "checked_at": "2026-10-20T08:35:23.865980Z"
   },
   "DGFKH": {
     "route": null,
@@ -13534,5 +13512,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T08:30:41.643443Z"
+  },
+  "NSZ82ME": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T08:35:23.865980Z"
+  },
+  "ENT2YC": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-20T08:35:23.865980Z"
+  },
+  "AIB623C": {
+    "route": null,
+    "checked_at": "2026-10-20T08:35:23.865980Z"
   }
 }
