@@ -229,7 +229,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-19T15:10:35.645399Z"
+    "checked_at": "2026-10-20T15:30:45.091722Z"
   },
   "FIN79T": {
     "route": {
@@ -284,7 +284,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-19T15:35:24.199473Z"
+    "checked_at": "2026-10-20T15:30:45.091722Z"
   },
   "LHX194": {
     "route": {
@@ -6439,7 +6439,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T15:45:33.059316Z"
+    "checked_at": "2026-10-20T15:30:45.091722Z"
   },
   "RSX6071": {
     "route": null,
@@ -13383,5 +13383,49 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-20T15:25:25.193569Z"
+  },
+  "THY2NZ": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T15:30:45.091722Z"
+  },
+  "THY7": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Washington",
+      "toIata": "IAD",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T15:30:45.091722Z"
+  },
+  "LHX1RV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T15:30:45.091722Z"
+  },
+  "RYR6FD": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T15:30:45.091722Z"
   }
 }
