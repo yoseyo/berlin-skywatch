@@ -1630,7 +1630,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T09:10:35.538897Z"
+    "checked_at": "2026-10-20T08:40:33.092424Z"
   },
   "EZY18FP": {
     "route": {
@@ -1652,7 +1652,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-19T08:45:31.422473Z"
+    "checked_at": "2026-10-20T08:40:33.092424Z"
   },
   "RYR749C": {
     "route": {
@@ -1729,7 +1729,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T08:35:23.657963Z"
+    "checked_at": "2026-10-20T08:40:33.092424Z"
   },
   "EIN3EG": {
     "route": {
@@ -3204,7 +3204,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T08:20:33.450344Z"
+    "checked_at": "2026-10-20T08:40:33.092424Z"
   },
   "VLG6JY": {
     "route": {
@@ -6029,10 +6029,6 @@
     },
     "checked_at": "2026-10-18T15:35:22.684042Z"
   },
-  "OYJWM": {
-    "route": null,
-    "checked_at": "2026-10-18T08:40:31.299431Z"
-  },
   "RYR2SW": {
     "route": {
       "fromCity": "Ibiza",
@@ -6418,17 +6414,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T08:30:45.014088Z"
-  },
-  "RYR5SC": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "\u00d6rebro",
-      "toIata": "ORB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T08:40:31.299431Z"
   },
   "BTI4XH": {
     "route": {
@@ -9905,7 +9890,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T08:05:27.307627Z"
+    "checked_at": "2026-10-20T08:40:33.092424Z"
   },
   "N650WS": {
     "route": null,
@@ -13538,5 +13523,49 @@
   "AIB623C": {
     "route": null,
     "checked_at": "2026-10-20T08:35:23.865980Z"
+  },
+  "EJU93RY": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T08:40:33.092424Z"
+  },
+  "PGT390G": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T08:40:33.092424Z"
+  },
+  "CFG1FE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T08:40:33.092424Z"
+  },
+  "DLH1940": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T08:40:33.092424Z"
   }
 }
