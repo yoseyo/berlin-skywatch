@@ -1,22 +1,50 @@
 {
   "flights": [
     {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.3587,
-      "lon": 13.4473,
-      "altKm": 0.3,
-      "speedKmh": 211,
-      "heading": 68,
+      "callsign": "N3788X",
+      "country": "United States",
+      "lat": 52.3144,
+      "lon": 13.1134,
+      "altKm": 1.4,
+      "speedKmh": 441,
+      "heading": 114,
+      "vertRateMs": -8.8,
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.1073,
+      "lon": 13.736,
+      "altKm": 9.0,
+      "speedKmh": 858,
+      "heading": 47,
+      "vertRateMs": 7.5,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
+      "callsign": "SWT3WZ",
+      "country": "Spain",
+      "lat": 52.1181,
+      "lon": 13.1724,
+      "altKm": 2.0,
+      "speedKmh": 460,
+      "heading": 358,
       "vertRateMs": -3.2,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
+      "airline": "Swiftair",
+      "airlineCountry": "Spain",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-20T03:30:41.258986Z"
+  "updated_at": "2026-10-20T03:35:23.620012Z"
 }
