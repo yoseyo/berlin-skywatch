@@ -2114,7 +2114,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T11:40:38.143471Z"
+    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "KLM29G": {
     "route": {
@@ -5774,7 +5774,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T15:15:34.843515Z"
+    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "RYR88ZF": {
     "route": {
@@ -6404,17 +6404,6 @@
     },
     "checked_at": "2026-10-20T09:45:31.239354Z"
   },
-  "EZY75YJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-18T11:25:24.299291Z"
-  },
   "BPO510": {
     "route": null,
     "checked_at": "2026-10-19T08:35:23.657963Z"
@@ -6920,7 +6909,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-18T13:40:30.518409Z"
+    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "BEL9CK": {
     "route": {
@@ -8994,7 +8983,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T05:30:43.724660Z"
+    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "OEEKA": {
     "route": null,
@@ -13633,5 +13622,31 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-20T11:25:23.913527Z"
+  },
+  "NJE754L": {
+    "route": null,
+    "checked_at": "2026-10-20T11:30:43.993302Z"
+  },
+  "TKJ5KZ": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T11:30:43.993302Z"
+  },
+  "EJU89BR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T11:30:43.993302Z"
   }
 }
