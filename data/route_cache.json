@@ -3736,7 +3736,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T06:40:31.612879Z"
+    "checked_at": "2026-10-20T09:10:31.657515Z"
   },
   "DLH8XM": {
     "route": {
@@ -5556,17 +5556,6 @@
     },
     "checked_at": "2026-10-18T19:05:27.405721Z"
   },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-18T09:05:26.041470Z"
-  },
   "EJU68NQ": {
     "route": {
       "fromCity": "Split",
@@ -6403,17 +6392,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-20T08:35:23.865980Z"
-  },
-  "DLH9MA": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T09:05:26.041470Z"
   },
   "CAI17QT": {
     "route": {
@@ -9186,7 +9164,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T05:05:26.191663Z"
+    "checked_at": "2026-10-20T09:10:31.657515Z"
   },
   "RYR4311": {
     "route": {
@@ -11209,7 +11187,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-19T13:55:26.234516Z"
+    "checked_at": "2026-10-20T09:10:31.657515Z"
   },
   "SAS2736": {
     "route": {
@@ -13520,5 +13498,27 @@
   "GAC531X": {
     "route": null,
     "checked_at": "2026-10-20T09:05:23.024682Z"
+  },
+  "SAS1694": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T09:10:31.657515Z"
+  },
+  "CXI59ST": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-20T09:10:31.657515Z"
   }
 }
