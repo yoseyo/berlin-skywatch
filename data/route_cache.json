@@ -2235,7 +2235,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T12:10:33.495312Z"
+    "checked_at": "2026-10-20T12:15:32.255176Z"
   },
   "EJU57RF": {
     "route": {
@@ -5774,7 +5774,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-19T12:10:33.495312Z"
+    "checked_at": "2026-10-20T12:15:32.255176Z"
   },
   "AUA228T": {
     "route": {
@@ -13634,5 +13634,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-20T12:10:33.540979Z"
+  },
+  "ETD4RL": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-20T12:15:32.255176Z"
+  },
+  "RYR7547": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T12:15:32.255176Z"
   }
 }
