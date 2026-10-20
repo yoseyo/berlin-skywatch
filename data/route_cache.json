@@ -7945,7 +7945,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-10-19T07:05:26.466084Z"
+    "checked_at": "2026-10-20T17:25:24.275527Z"
   },
   "RYR71KY": {
     "route": {
@@ -13252,5 +13252,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-20T17:20:34.330714Z"
+  },
+  "IBS1809": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Iberia Express",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-20T17:25:24.275527Z"
+  },
+  "WZZ91VH": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Kopitnari",
+      "toIata": "KUT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-20T17:25:24.275527Z"
   }
 }
