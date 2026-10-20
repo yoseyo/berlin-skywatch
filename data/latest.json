@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "AKK8",
-      "country": "Norway",
-      "lat": 52.3426,
-      "lon": 13.3795,
-      "altKm": 0.5,
-      "speedKmh": 274,
-      "heading": 69,
-      "vertRateMs": -4.2,
-      "category": "jet"
+      "callsign": "RYR98ST",
+      "country": "Ireland",
+      "lat": 52.4059,
+      "lon": 13.847,
+      "altKm": 2.7,
+      "speedKmh": 456,
+      "heading": 108,
+      "vertRateMs": 15.0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-20T04:00:51.688725Z"
+  "updated_at": "2026-10-20T04:05:22.212801Z"
 }
