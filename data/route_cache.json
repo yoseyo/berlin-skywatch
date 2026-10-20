@@ -3494,7 +3494,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T09:20:32.481274Z"
+    "checked_at": "2026-10-20T15:40:34.280793Z"
   },
   "KLM95T": {
     "route": {
@@ -6408,17 +6408,6 @@
     },
     "checked_at": "2026-10-20T10:50:31.560971Z"
   },
-  "NSZ4357": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T15:40:31.676597Z"
-  },
   "AUA233": {
     "route": {
       "fromCity": "Vienna",
@@ -6429,21 +6418,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T15:30:45.091722Z"
-  },
-  "RSX6071": {
-    "route": null,
-    "checked_at": "2026-10-18T15:40:31.676597Z"
-  },
-  "CFG7NY": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T15:40:31.676597Z"
   },
   "BTI6JK": {
     "route": {
@@ -6572,7 +6546,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-19T15:50:59.152279Z"
+    "checked_at": "2026-10-20T15:40:34.280793Z"
   },
   "EJU69RD": {
     "route": {
@@ -13424,5 +13398,31 @@
   "NJE872M": {
     "route": null,
     "checked_at": "2026-10-20T15:35:25.737248Z"
+  },
+  "CHX49": {
+    "route": null,
+    "checked_at": "2026-10-20T15:40:34.280793Z"
+  },
+  "EJU31GQ": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T15:40:34.280793Z"
+  },
+  "EJU68NQ": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T15:40:34.280793Z"
   }
 }
