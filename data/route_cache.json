@@ -328,7 +328,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T15:45:33.059316Z"
+    "checked_at": "2026-10-20T15:45:35.061148Z"
   },
   "PGT7UZ": {
     "route": {
@@ -361,7 +361,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-19T15:45:33.059316Z"
+    "checked_at": "2026-10-20T15:45:35.061148Z"
   },
   "KLM1780": {
     "route": {
@@ -3672,17 +3672,6 @@
     },
     "checked_at": "2026-10-20T15:15:35.373365Z"
   },
-  "SAS71T": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T15:45:34.105020Z"
-  },
   "AUA26Z": {
     "route": {
       "fromCity": "Berlin",
@@ -4831,17 +4820,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-19T19:00:56.511559Z"
-  },
-  "RYR4DZ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T15:45:34.105020Z"
   },
   "RYR70FL": {
     "route": {
@@ -6418,28 +6396,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T15:30:45.091722Z"
-  },
-  "BTI6JK": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-18T15:45:34.105020Z"
-  },
-  "RYR90XP": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T15:45:34.105020Z"
   },
   "JTD9539": {
     "route": {
@@ -13424,5 +13380,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T15:40:34.280793Z"
+  },
+  "BTI84D": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-20T15:45:35.061148Z"
   }
 }
