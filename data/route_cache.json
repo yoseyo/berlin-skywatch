@@ -3079,7 +3079,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T18:45:30.810961Z"
+    "checked_at": "2026-10-20T18:50:32.176604Z"
   },
   "RYR97WV": {
     "route": {
@@ -3296,7 +3296,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-19T18:55:25.428799Z"
+    "checked_at": "2026-10-20T18:50:32.176604Z"
   },
   "EWG7ED": {
     "route": {
@@ -3898,7 +3898,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-19T19:05:25.459752Z"
+    "checked_at": "2026-10-20T18:50:32.176604Z"
   },
   "LOT285": {
     "route": {
@@ -4273,17 +4273,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T16:50:32.178536Z"
-  },
-  "SAS696": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T18:50:31.522089Z"
   },
   "EZS83KB": {
     "route": {
@@ -4710,17 +4699,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-20T18:00:55.979673Z"
-  },
-  "NOZ5HE": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-18T18:45:29.025190Z"
   },
   "NSZ4507": {
     "route": {
@@ -13218,5 +13196,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-20T18:45:28.960532Z"
+  },
+  "IBS1810": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Express",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-20T18:50:32.176604Z"
+  },
+  "PGT566B": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T18:50:32.176604Z"
   }
 }
