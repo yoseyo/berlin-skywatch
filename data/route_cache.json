@@ -3582,7 +3582,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T09:50:31.215608Z"
+    "checked_at": "2026-10-20T11:00:57.984932Z"
   },
   "AUA235D": {
     "route": {
@@ -4056,7 +4056,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T20:25:25.332438Z"
+    "checked_at": "2026-10-20T11:00:57.984932Z"
   },
   "SAS1680": {
     "route": {
@@ -4111,7 +4111,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T09:10:35.538897Z"
+    "checked_at": "2026-10-20T11:00:57.984932Z"
   },
   "DLH1KX": {
     "route": {
@@ -6425,32 +6425,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T09:45:31.239354Z"
-  },
-  "DERDH": {
-    "route": {
-      "fromCity": "Church Fenton",
-      "fromIata": null,
-      "toCity": "Bonn",
-      "toIata": "BNJ",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-18T11:00:52.142421Z"
-  },
-  "FIN4LK": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-18T11:00:52.142421Z"
-  },
-  "NJE453G": {
-    "route": null,
-    "checked_at": "2026-10-18T11:00:52.142421Z"
   },
   "CAT318": {
     "route": {
@@ -10328,7 +10302,7 @@
   },
   "DESNN": {
     "route": null,
-    "checked_at": "2026-10-19T10:55:24.845472Z"
+    "checked_at": "2026-10-20T11:00:57.984932Z"
   },
   "RYR31KN": {
     "route": {
@@ -13588,5 +13562,20 @@
   "N808FA": {
     "route": null,
     "checked_at": "2026-10-20T10:55:26.050612Z"
+  },
+  "UAE59": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-20T11:00:57.984932Z"
+  },
+  "WUK795": {
+    "route": null,
+    "checked_at": "2026-10-20T11:00:57.984932Z"
   }
 }
