@@ -273,7 +273,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-18T17:45:28.066562Z"
+    "checked_at": "2026-10-20T15:55:27.157419Z"
   },
   "NSZ3303": {
     "route": {
@@ -372,7 +372,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-19T16:15:29.396167Z"
+    "checked_at": "2026-10-20T15:55:27.157419Z"
   },
   "FIN9YA": {
     "route": {
@@ -394,7 +394,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T16:00:55.466288Z"
+    "checked_at": "2026-10-20T15:55:27.157419Z"
   },
   "LOT389": {
     "route": {
@@ -6397,21 +6397,6 @@
     },
     "checked_at": "2026-10-20T15:30:45.091722Z"
   },
-  "NJE770C": {
-    "route": null,
-    "checked_at": "2026-10-18T15:55:22.619678Z"
-  },
-  "SXS867": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T15:55:22.619678Z"
-  },
   "CAI8191": {
     "route": {
       "fromCity": "Berlin",
@@ -9979,7 +9964,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T14:35:25.582372Z"
+    "checked_at": "2026-10-20T15:55:27.157419Z"
   },
   "OEKBE": {
     "route": null,
@@ -13384,5 +13369,16 @@
   "EOA001": {
     "route": null,
     "checked_at": "2026-10-20T15:50:34.877857Z"
+  },
+  "SDR62EG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marsa Alam",
+      "toIata": "RMF",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T15:55:27.157419Z"
   }
 }
