@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "RYR98ST",
-      "country": "Ireland",
-      "lat": 52.4059,
-      "lon": 13.847,
-      "altKm": 2.7,
-      "speedKmh": 456,
-      "heading": 108,
-      "vertRateMs": 15.0,
+      "callsign": "RYR58RA",
+      "country": "Malta",
+      "lat": 52.5033,
+      "lon": 13.4639,
+      "altKm": 3.5,
+      "speedKmh": 611,
+      "heading": 265,
+      "vertRateMs": 6.5,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR353",
+      "country": "Malta",
+      "lat": 52.3894,
+      "lon": 13.576,
+      "altKm": 0.8,
+      "speedKmh": 303,
+      "heading": 70,
+      "vertRateMs": 12.0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-20T04:05:22.212801Z"
+  "updated_at": "2026-10-20T04:10:29.559954Z"
 }
