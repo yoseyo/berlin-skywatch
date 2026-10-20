@@ -1850,7 +1850,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T10:55:24.845472Z"
+    "checked_at": "2026-10-20T10:15:31.610501Z"
   },
   "KLM1775": {
     "route": {
@@ -6415,32 +6415,6 @@
     },
     "checked_at": "2026-10-20T10:00:58.296539Z"
   },
-  "MGH724": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T10:15:28.447854Z"
-  },
-  "EJU81BJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Prishtina",
-      "toIata": "PRN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-18T10:15:28.447854Z"
-  },
-  "SDR40BW": {
-    "route": null,
-    "checked_at": "2026-10-18T10:15:28.447854Z"
-  },
   "CFG3TN": {
     "route": {
       "fromCity": "Berlin",
@@ -7468,7 +7442,7 @@
   },
   "DMYHG": {
     "route": null,
-    "checked_at": "2026-10-18T14:55:23.498953Z"
+    "checked_at": "2026-10-20T10:15:31.610501Z"
   },
   "RYR3UX": {
     "route": {
@@ -13573,5 +13547,27 @@
   "SDR14ML": {
     "route": null,
     "checked_at": "2026-10-20T10:05:25.037726Z"
+  },
+  "EJU51DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T10:15:31.610501Z"
+  },
+  "NOZ1951": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-20T10:15:31.610501Z"
   }
 }
