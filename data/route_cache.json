@@ -783,7 +783,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-19T19:50:31.577047Z"
+    "checked_at": "2026-10-20T19:55:26.734528Z"
   },
   "DLH1CJ": {
     "route": {
@@ -2943,7 +2943,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T17:40:34.851001Z"
+    "checked_at": "2026-10-20T19:55:26.734528Z"
   },
   "RYR785N": {
     "route": {
@@ -6438,17 +6438,6 @@
     },
     "checked_at": "2026-10-20T18:45:28.960532Z"
   },
-  "DLH884": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T19:55:24.278470Z"
-  },
   "THY91B": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6459,17 +6448,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-19T18:50:32.126741Z"
-  },
-  "CXI97DR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-18T19:55:24.278470Z"
   },
   "LGL74BE": {
     "route": {
@@ -13119,5 +13097,38 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-20T19:45:30.883907Z"
+  },
+  "CCA750": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Beijing",
+      "toIata": "PKX",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-20T19:55:26.734528Z"
+  },
+  "SXS5UE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Samsun",
+      "toIata": "SZF",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T19:55:26.734528Z"
+  },
+  "RYR2NB": {
+    "route": {
+      "fromCity": "Torp",
+      "fromIata": "TRF",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T19:55:26.734528Z"
   }
 }
