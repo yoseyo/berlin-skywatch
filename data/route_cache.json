@@ -750,7 +750,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-19T19:45:29.728164Z"
+    "checked_at": "2026-10-20T19:45:30.883907Z"
   },
   "SXS6XP": {
     "route": {
@@ -3986,7 +3986,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-19T19:30:43.039628Z"
+    "checked_at": "2026-10-20T19:45:30.883907Z"
   },
   "SWR1317": {
     "route": {
@@ -6437,17 +6437,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-20T18:45:28.960532Z"
-  },
-  "NSZ3304": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T19:45:28.986529Z"
   },
   "DLH884": {
     "route": {
@@ -13119,5 +13108,16 @@
       "airlineCountry": "Uzbekistan"
     },
     "checked_at": "2026-10-20T19:35:25.773757Z"
+  },
+  "CXI38GL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Shanxi Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-20T19:45:30.883907Z"
   }
 }
