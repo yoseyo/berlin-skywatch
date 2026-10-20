@@ -959,7 +959,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T04:00:54.717138Z"
+    "checked_at": "2026-10-20T03:40:30.129448Z"
   },
   "KLM90J": {
     "route": {
@@ -6520,10 +6520,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T06:35:27.454952Z"
-  },
-  "SDR40CS": {
-    "route": null,
-    "checked_at": "2026-10-18T03:40:29.893805Z"
   },
   "EWG33B": {
     "route": {
@@ -13507,5 +13503,16 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-20T03:35:23.620012Z"
+  },
+  "SRN1988": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Sirair",
+      "airlineCountry": "Russia"
+    },
+    "checked_at": "2026-10-20T03:40:30.129448Z"
   }
 }
