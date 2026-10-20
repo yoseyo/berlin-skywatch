@@ -1,39 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "NSZ3353",
-      "country": "Sweden",
-      "lat": 52.5584,
-      "lon": 13.9539,
+      "callsign": "RYR924",
+      "country": "Poland",
+      "lat": 52.7722,
+      "lon": 13.4656,
+      "altKm": 11.5,
+      "speedKmh": 909,
+      "heading": 93,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "category": "plane"
+    },
+    {
+      "callsign": "SAS2820",
+      "country": "Ireland",
+      "lat": 52.5912,
+      "lon": 13.7852,
       "altKm": 11.8,
-      "speedKmh": 813,
-      "heading": 344,
-      "vertRateMs": -0.3,
-      "airline": "Norwegian Air Sweden AOC",
+      "speedKmh": 801,
+      "heading": 346,
+      "vertRateMs": 0.3,
+      "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
       "fromCity": "Souda",
       "fromIata": "CHQ",
       "toCity": "Copenhagen",
       "toIata": "CPH",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR3PT",
-      "country": "Ireland",
-      "lat": 52.3883,
-      "lon": 13.2564,
-      "altKm": 12.4,
-      "speedKmh": 791,
-      "heading": 270,
-      "vertRateMs": 0.3,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-20T21:30:41.466654Z"
+  "updated_at": "2026-10-20T21:35:23.375425Z"
 }
