@@ -2136,7 +2136,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-19T12:15:30.376080Z"
+    "checked_at": "2026-10-20T12:05:24.988485Z"
   },
   "DLH2NE": {
     "route": {
@@ -2191,7 +2191,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-19T11:55:25.950069Z"
+    "checked_at": "2026-10-20T12:05:24.988485Z"
   },
   "SWR1PL": {
     "route": {
@@ -2202,7 +2202,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-19T12:25:23.238817Z"
+    "checked_at": "2026-10-20T12:05:24.988485Z"
   },
   "VLG48MQ": {
     "route": {
@@ -6445,28 +6445,6 @@
     "route": null,
     "checked_at": "2026-10-20T11:55:23.853079Z"
   },
-  "HLF8868": {
-    "route": {
-      "fromCity": "Bangkok",
-      "fromIata": "BKK",
-      "toCity": "Yantai",
-      "toIata": "YNT",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T12:05:24.050026Z"
-  },
-  "WZZ334": {
-    "route": {
-      "fromCity": "Dortmund",
-      "fromIata": "DTM",
-      "toCity": "Bucharest",
-      "toIata": "OTP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-18T12:05:24.050026Z"
-  },
   "TAP31DB": {
     "route": {
       "fromCity": "Berlin",
@@ -9091,7 +9069,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T06:45:31.259474Z"
+    "checked_at": "2026-10-20T12:05:24.988485Z"
   },
   "ATV103": {
     "route": null,
@@ -10281,7 +10259,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-19T12:05:30.050073Z"
+    "checked_at": "2026-10-20T12:05:24.988485Z"
   },
   "EJU61PU": {
     "route": {
@@ -13623,5 +13601,16 @@
   "N889DX": {
     "route": null,
     "checked_at": "2026-10-20T12:00:57.936900Z"
+  },
+  "ETD11B": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-20T12:05:24.988485Z"
   }
 }
