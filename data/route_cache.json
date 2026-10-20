@@ -2103,7 +2103,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T11:35:23.691143Z"
+    "checked_at": "2026-10-20T11:35:26.393519Z"
   },
   "DLH4NF": {
     "route": {
@@ -2147,7 +2147,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T11:45:31.386519Z"
+    "checked_at": "2026-10-20T11:35:26.393519Z"
   },
   "KLC21A": {
     "route": {
@@ -2290,7 +2290,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-18T11:30:44.472370Z"
+    "checked_at": "2026-10-20T11:35:26.393519Z"
   },
   "MSR731": {
     "route": {
@@ -4667,17 +4667,6 @@
     },
     "checked_at": "2026-10-19T09:40:33.186241Z"
   },
-  "MEA246": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-10-18T11:30:44.472370Z"
-  },
   "WMT2GJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -6408,28 +6397,6 @@
     "route": null,
     "checked_at": "2026-10-19T08:35:23.657963Z"
   },
-  "SAS95W": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T11:30:44.472370Z"
-  },
-  "DFKJM": {
-    "route": {
-      "fromCity": "Korbach",
-      "fromIata": null,
-      "toCity": "Trebbin",
-      "toIata": null,
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-18T11:30:44.472370Z"
-  },
   "EWG1SU": {
     "route": {
       "fromCity": "Stuttgart",
@@ -6440,17 +6407,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T10:35:24.648925Z"
-  },
-  "QTR35P": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-18T11:35:21.523885Z"
   },
   "RYR18RV": {
     "route": {
@@ -13648,5 +13604,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T11:30:43.993302Z"
+  },
+  "RYR5VH": {
+    "route": {
+      "fromCity": "Paphos",
+      "fromIata": "PFO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T11:35:26.393519Z"
   }
 }
