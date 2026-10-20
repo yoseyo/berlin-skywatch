@@ -1597,7 +1597,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T08:15:31.047151Z"
+    "checked_at": "2026-10-20T08:15:30.783744Z"
   },
   "EJU32JG": {
     "route": {
@@ -1608,7 +1608,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T09:40:33.186241Z"
+    "checked_at": "2026-10-20T08:15:30.783744Z"
   },
   "IBE07TT": {
     "route": {
@@ -4588,7 +4588,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-19T07:55:24.462123Z"
+    "checked_at": "2026-10-20T08:15:30.783744Z"
   },
   "FHY1281": {
     "route": {
@@ -13481,5 +13481,27 @@
   "JCO3": {
     "route": null,
     "checked_at": "2026-10-20T08:10:31.539171Z"
+  },
+  "AUA99J": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T08:15:30.783744Z"
+  },
+  "WMT1962": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Tirana",
+      "toIata": "TIA",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-20T08:15:30.783744Z"
   }
 }
