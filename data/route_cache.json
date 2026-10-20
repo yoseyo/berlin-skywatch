@@ -1377,7 +1377,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T07:05:26.466084Z"
+    "checked_at": "2026-10-20T07:05:24.807117Z"
   },
   "SAS767": {
     "route": {
@@ -4157,17 +4157,6 @@
     },
     "checked_at": "2026-10-20T05:45:28.206396Z"
   },
-  "RYR717M": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T07:05:23.695445Z"
-  },
   "EZY78AL": {
     "route": {
       "fromCity": "Belfast",
@@ -5829,7 +5818,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-19T06:35:27.454952Z"
+    "checked_at": "2026-10-20T07:05:24.807117Z"
   },
   "SAS23G": {
     "route": {
@@ -6454,17 +6443,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T16:10:32.835093Z"
-  },
-  "MAC9901": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Tangier",
-      "toIata": "TNG",
-      "airlineName": "Malta Air Charter",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-18T07:05:23.695445Z"
   },
   "ELY2371": {
     "route": {
@@ -9953,7 +9931,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T06:50:29.152269Z"
+    "checked_at": "2026-10-20T07:05:24.807117Z"
   },
   "ETH724": {
     "route": {
@@ -13546,5 +13524,27 @@
   "NJE025V": {
     "route": null,
     "checked_at": "2026-10-20T07:00:51.618140Z"
+  },
+  "THY5CS": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T07:05:24.807117Z"
+  },
+  "NJE659T": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-20T07:05:24.807117Z"
   }
 }
