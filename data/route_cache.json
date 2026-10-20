@@ -728,7 +728,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T18:50:32.126741Z"
+    "checked_at": "2026-10-20T19:00:54.605526Z"
   },
   "AEE82B": {
     "route": {
@@ -772,7 +772,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T19:10:30.512793Z"
+    "checked_at": "2026-10-20T19:00:54.605526Z"
   },
   "KLC1335": {
     "route": {
@@ -4742,7 +4742,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-19T19:00:56.511559Z"
+    "checked_at": "2026-10-20T19:00:54.605526Z"
   },
   "RYR70FL": {
     "route": {
@@ -6470,72 +6470,6 @@
   "SVF649": {
     "route": null,
     "checked_at": "2026-10-19T16:35:23.162746Z"
-  },
-  "BTI9YF": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-18T18:55:24.592047Z"
-  },
-  "CFG9EH": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T18:55:24.592047Z"
-  },
-  "RYR9MC": {
-    "route": {
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T18:55:24.592047Z"
-  },
-  "EWG86H": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T18:55:24.592047Z"
-  },
-  "EJU86PQ": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-18T19:00:51.912132Z"
-  },
-  "SAS1698": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T19:00:51.912132Z"
   },
   "DLH892": {
     "route": {
@@ -8987,7 +8921,7 @@
   },
   "FLW516": {
     "route": null,
-    "checked_at": "2026-10-19T12:45:29.807730Z"
+    "checked_at": "2026-10-20T19:00:54.605526Z"
   },
   "TVS471P": {
     "route": {
@@ -13229,5 +13163,31 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-20T18:55:23.733926Z"
+  },
+  "SAS1812": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T19:00:54.605526Z"
+  },
+  "BTI3HK": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-20T19:00:54.605526Z"
+  },
+  "SDR15NL": {
+    "route": null,
+    "checked_at": "2026-10-20T19:00:54.605526Z"
   }
 }
