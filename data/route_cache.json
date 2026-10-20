@@ -3450,7 +3450,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T17:15:31.998581Z"
+    "checked_at": "2026-10-20T14:50:35.442713Z"
   },
   "DLH5PR": {
     "route": {
@@ -6426,32 +6426,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T04:25:23.483725Z"
-  },
-  "MJF71G": {
-    "route": {
-      "fromCity": "Teterboro",
-      "fromIata": "TEB",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-18T14:50:30.503225Z"
-  },
-  "EJU72TJ": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-18T14:50:30.503225Z"
-  },
-  "CAT9329": {
-    "route": null,
-    "checked_at": "2026-10-18T14:50:30.503225Z"
   },
   "LHX3PP": {
     "route": {
@@ -13416,5 +13390,16 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-20T14:45:33.275536Z"
+  },
+  "ACA897": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Canada",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-20T14:50:35.442713Z"
   }
 }
