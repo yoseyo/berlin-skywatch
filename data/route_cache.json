@@ -148,7 +148,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T14:30:47.184945Z"
+    "checked_at": "2026-10-20T14:40:34.714971Z"
   },
   "RYR4JQ": {
     "route": {
@@ -4737,17 +4737,6 @@
     },
     "checked_at": "2026-10-19T14:55:25.863136Z"
   },
-  "THY8DE": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Seattle",
-      "toIata": "SEA",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T14:40:34.024501Z"
-  },
   "LHX4EL": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6412,21 +6401,6 @@
     },
     "checked_at": "2026-10-20T14:35:25.697381Z"
   },
-  "CAI138P": {
-    "route": null,
-    "checked_at": "2026-10-18T14:40:34.024501Z"
-  },
-  "THY95Y": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T14:40:34.024501Z"
-  },
   "CFE93AU": {
     "route": {
       "fromCity": "London",
@@ -6437,17 +6411,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-20T13:50:33.206420Z"
-  },
-  "EJU9114": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-18T14:40:34.024501Z"
   },
   "VPBLU": {
     "route": null,
@@ -9477,7 +9440,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T10:45:32.541261Z"
+    "checked_at": "2026-10-20T14:40:34.714971Z"
   },
   "TDR510": {
     "route": null,
@@ -13390,5 +13353,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-20T14:35:25.697381Z"
+  },
+  "DFABJ": {
+    "route": null,
+    "checked_at": "2026-10-20T14:40:34.714971Z"
+  },
+  "DLH5UW": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T14:40:34.714971Z"
+  },
+  "EWG1R": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T14:40:34.714971Z"
   }
 }
