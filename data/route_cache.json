@@ -4078,7 +4078,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-19T03:30:42.559302Z"
+    "checked_at": "2026-10-20T03:50:30.438851Z"
   },
   "DLH7FM": {
     "route": {
@@ -5808,17 +5808,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-18T13:15:29.241617Z"
-  },
-  "EWG67J": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T03:50:29.809485Z"
   },
   "CCA967": {
     "route": {
@@ -13514,5 +13503,16 @@
       "airlineCountry": "Russia"
     },
     "checked_at": "2026-10-20T03:40:30.129448Z"
+  },
+  "CSH871": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Shanghai Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-20T03:50:30.438851Z"
   }
 }
