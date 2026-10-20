@@ -1,18 +1,35 @@
 {
   "flights": [
     {
-      "callsign": "WMT2GJ",
-      "country": "Malta",
-      "lat": 52.3067,
-      "lon": 13.2298,
-      "altKm": 1.1,
-      "speedKmh": 322,
-      "heading": 69,
-      "vertRateMs": -4.9,
-      "airline": "Wizz Air Malta",
-      "airlineCountry": "Malta",
-      "fromCity": "Bucharest",
-      "fromIata": "OTP",
+      "callsign": "NSZ3280",
+      "country": "Sweden",
+      "lat": 52.9171,
+      "lon": 13.8206,
+      "altKm": 12.1,
+      "speedKmh": 796,
+      "heading": 170,
+      "vertRateMs": -0.3,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "category": "plane"
+    },
+    {
+      "callsign": "UAL962",
+      "country": "United States",
+      "lat": 52.3379,
+      "lon": 12.9926,
+      "altKm": 1.8,
+      "speedKmh": 380,
+      "heading": 127,
+      "vertRateMs": -3.2,
+      "airline": "United Airlines",
+      "airlineCountry": "United States",
+      "fromCity": "New York",
+      "fromIata": "EWR",
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
@@ -20,31 +37,14 @@
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.566,
-      "lon": 13.7014,
+      "lat": 52.5025,
+      "lon": 13.8992,
       "altKm": 0.4,
       "speedKmh": 176,
       "heading": 118,
-      "vertRateMs": -0.3,
+      "vertRateMs": 0,
       "category": "heli"
-    },
-    {
-      "callsign": "EWG27P",
-      "country": "Germany",
-      "lat": 52.1666,
-      "lon": 13.0482,
-      "altKm": 4.1,
-      "speedKmh": 664,
-      "heading": 226,
-      "vertRateMs": 11.7,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-20T04:35:21.407779Z"
+  "updated_at": "2026-10-20T04:40:35.705970Z"
 }
