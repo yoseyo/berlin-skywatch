@@ -1234,7 +1234,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T06:10:32.067433Z"
+    "checked_at": "2026-10-20T06:15:30.718214Z"
   },
   "SXS3FR": {
     "route": {
@@ -2789,7 +2789,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T05:55:22.936056Z"
+    "checked_at": "2026-10-20T06:15:30.718214Z"
   },
   "SAS44L": {
     "route": {
@@ -5223,7 +5223,7 @@
   },
   "CFG553": {
     "route": null,
-    "checked_at": "2026-10-19T07:00:54.926677Z"
+    "checked_at": "2026-10-20T06:15:30.718214Z"
   },
   "WMT9NH": {
     "route": {
@@ -5819,17 +5819,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-20T05:50:30.981449Z"
-  },
-  "DLH2606": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T06:15:26.628232Z"
   },
   "NSZ5NE": {
     "route": {
@@ -13476,5 +13465,27 @@
   "GAF623": {
     "route": null,
     "checked_at": "2026-10-20T06:00:50.928451Z"
+  },
+  "NOZ98C": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-20T06:15:30.718214Z"
+  },
+  "WMT7LY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-20T06:15:30.718214Z"
   }
 }
