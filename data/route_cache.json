@@ -1025,7 +1025,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-19T04:35:22.418087Z"
+    "checked_at": "2026-10-20T04:30:41.921243Z"
   },
   "DLH8MC": {
     "route": {
@@ -4797,7 +4797,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-19T04:50:32.665916Z"
+    "checked_at": "2026-10-20T04:30:41.921243Z"
   },
   "RYR58ZM": {
     "route": {
@@ -6477,21 +6477,6 @@
     },
     "checked_at": "2026-10-19T06:35:27.454952Z"
   },
-  "EWG19V": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T04:30:41.684154Z"
-  },
-  "CAT9331": {
-    "route": null,
-    "checked_at": "2026-10-18T04:30:41.684154Z"
-  },
   "SDR29SD": {
     "route": {
       "fromCity": "Berlin",
@@ -6613,7 +6598,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-18T05:50:29.695448Z"
+    "checked_at": "2026-10-20T04:30:41.921243Z"
   },
   "NIA8701": {
     "route": {
@@ -13485,5 +13470,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-20T04:20:31.040062Z"
+  },
+  "EJU59TY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T04:30:41.921243Z"
+  },
+  "WZZ8025": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-20T04:30:41.921243Z"
   }
 }
