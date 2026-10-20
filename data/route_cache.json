@@ -3637,7 +3637,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T09:35:25.315269Z"
+    "checked_at": "2026-10-20T10:20:33.380608Z"
   },
   "SAS661": {
     "route": {
@@ -4633,17 +4633,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T21:25:23.763897Z"
-  },
-  "PGT21PC": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T10:20:31.794047Z"
   },
   "SXS2WP": {
     "route": {
@@ -6414,17 +6403,6 @@
       "airlineCountry": "Azerbaijan"
     },
     "checked_at": "2026-10-20T10:00:58.296539Z"
-  },
-  "CFG3TN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T10:20:31.794047Z"
   },
   "EJU59RD": {
     "route": {
@@ -13569,5 +13547,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-20T10:15:31.610501Z"
+  },
+  "NSZ4318": {
+    "route": {
+      "fromCity": "Montpellier/M\u00e9diterran\u00e9e",
+      "fromIata": "MPL",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T10:20:33.380608Z"
+  },
+  "RYR71SH": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T10:20:33.380608Z"
   }
 }
