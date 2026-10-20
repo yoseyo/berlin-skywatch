@@ -1091,7 +1091,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-19T05:20:29.541121Z"
+    "checked_at": "2026-10-20T05:30:43.140913Z"
   },
   "DLH7XV": {
     "route": {
@@ -13527,5 +13527,31 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-20T05:25:24.637220Z"
+  },
+  "LDX600": {
+    "route": null,
+    "checked_at": "2026-10-20T05:30:43.140913Z"
+  },
+  "RYR5928": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T05:30:43.140913Z"
+  },
+  "EWG6900": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T05:30:43.140913Z"
   }
 }
