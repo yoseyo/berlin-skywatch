@@ -1883,7 +1883,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T11:10:34.206128Z"
+    "checked_at": "2026-10-20T10:40:32.260134Z"
   },
   "RYR4PT": {
     "route": {
@@ -2092,7 +2092,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-19T11:10:34.206128Z"
+    "checked_at": "2026-10-20T10:40:32.260134Z"
   },
   "SXS5UY": {
     "route": {
@@ -2609,7 +2609,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-19T08:05:27.307627Z"
+    "checked_at": "2026-10-20T10:40:32.260134Z"
   },
   "UAL963": {
     "route": {
@@ -6425,25 +6425,6 @@
       "airlineCountry": "Czech Republic"
     },
     "checked_at": "2026-10-19T15:55:24.382095Z"
-  },
-  "CHX49": {
-    "route": null,
-    "checked_at": "2026-10-18T10:39:08.058758Z"
-  },
-  "SDR29RC": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T10:39:08.058758Z"
-  },
-  "DIGRK": {
-    "route": null,
-    "checked_at": "2026-10-18T10:39:08.058758Z"
   },
   "BAW843": {
     "route": {
@@ -13628,5 +13609,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T10:35:26.503965Z"
+  },
+  "RYR7DR": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Newcastle",
+      "toIata": "NCL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T10:40:32.260134Z"
+  },
+  "QTR73V": {
+    "route": {
+      "fromCity": "San Francisco",
+      "fromIata": "SFO",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-20T10:40:32.260134Z"
   }
 }
