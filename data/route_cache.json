@@ -2499,7 +2499,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T04:00:54.717138Z"
+    "checked_at": "2026-10-20T15:25:25.193569Z"
   },
   "RYR734J": {
     "route": {
@@ -2833,7 +2833,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T15:30:44.301331Z"
+    "checked_at": "2026-10-20T15:25:25.193569Z"
   },
   "DLH8WF": {
     "route": {
@@ -2954,7 +2954,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T13:00:58.015594Z"
+    "checked_at": "2026-10-20T15:25:25.193569Z"
   },
   "RYR303F": {
     "route": {
@@ -4107,7 +4107,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T15:30:44.301331Z"
+    "checked_at": "2026-10-20T15:25:25.193569Z"
   },
   "FIN3AW": {
     "route": {
@@ -5202,17 +5202,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T14:20:33.860972Z"
-  },
-  "SAS2963": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Firenze",
-      "toIata": "FLR",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T15:25:24.033083Z"
   },
   "THY9QR": {
     "route": {
@@ -13383,5 +13372,16 @@
   "BRJ502": {
     "route": null,
     "checked_at": "2026-10-20T15:20:36.767549Z"
+  },
+  "FIN2K": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-20T15:25:25.193569Z"
   }
 }
