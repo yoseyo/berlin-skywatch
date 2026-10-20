@@ -449,7 +449,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-19T15:55:24.382095Z"
+    "checked_at": "2026-10-20T15:50:34.877857Z"
   },
   "DLH1KY": {
     "route": {
@@ -3373,7 +3373,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-19T16:10:32.835093Z"
+    "checked_at": "2026-10-20T15:50:34.877857Z"
   },
   "AFR1434": {
     "route": {
@@ -6396,28 +6396,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T15:30:45.091722Z"
-  },
-  "JTD9539": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-18T15:50:29.078771Z"
-  },
-  "RYR9WM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T15:50:29.078771Z"
   },
   "NJE770C": {
     "route": null,
@@ -13391,5 +13369,20 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-20T15:45:35.061148Z"
+  },
+  "SAS71T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T15:50:34.877857Z"
+  },
+  "EOA001": {
+    "route": null,
+    "checked_at": "2026-10-20T15:50:34.877857Z"
   }
 }
