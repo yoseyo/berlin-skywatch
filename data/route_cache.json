@@ -6691,7 +6691,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-18T16:00:54.393019Z"
+    "checked_at": "2026-10-20T14:45:33.275536Z"
   },
   "CFE61X": {
     "route": {
@@ -13379,5 +13379,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-20T14:40:34.714971Z"
+  },
+  "JNJ20V": {
+    "route": null,
+    "checked_at": "2026-10-20T14:45:33.275536Z"
+  },
+  "EWG3XM": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T14:45:33.275536Z"
+  },
+  "UZB251": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-10-20T14:45:33.275536Z"
+  },
+  "WMT8GC": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Cluj-Napoca",
+      "toIata": "CLJ",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-20T14:45:33.275536Z"
   }
 }
