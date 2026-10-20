@@ -2037,7 +2037,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T10:55:24.845472Z"
+    "checked_at": "2026-10-20T11:45:30.503430Z"
   },
   "LOT282": {
     "route": {
@@ -5418,7 +5418,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T17:35:24.388935Z"
+    "checked_at": "2026-10-20T11:45:30.503430Z"
   },
   "FHY1684": {
     "route": {
@@ -5796,7 +5796,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T11:45:31.386519Z"
+    "checked_at": "2026-10-20T11:45:30.503430Z"
   },
   "KLM84H": {
     "route": {
@@ -6408,17 +6408,6 @@
     },
     "checked_at": "2026-10-19T10:35:24.648925Z"
   },
-  "LOT3PK": {
-    "route": {
-      "fromCity": "Miami",
-      "fromIata": "MIA",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-18T11:45:28.552972Z"
-  },
   "TVF875M": {
     "route": {
       "fromCity": "Paris",
@@ -6535,7 +6524,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-19T11:20:34.402085Z"
+    "checked_at": "2026-10-20T11:45:30.503430Z"
   },
   "AEE512": {
     "route": {
@@ -13615,5 +13604,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-20T11:40:32.286447Z"
+  },
+  "HAKAR": {
+    "route": null,
+    "checked_at": "2026-10-20T11:45:30.503430Z"
+  },
+  "MEA246": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-20T11:45:30.503430Z"
+  },
+  "ETD13": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "Atlanta",
+      "toIata": "ATL",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-20T11:45:30.503430Z"
   }
 }
