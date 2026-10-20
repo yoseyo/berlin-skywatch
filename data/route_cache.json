@@ -1080,7 +1080,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T05:20:29.541121Z"
+    "checked_at": "2026-10-20T05:20:32.661310Z"
   },
   "DAL92": {
     "route": {
@@ -1113,7 +1113,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-19T05:10:30.475175Z"
+    "checked_at": "2026-10-20T05:20:32.661310Z"
   },
   "AUA240": {
     "route": {
@@ -3318,7 +3318,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T05:20:29.541121Z"
+    "checked_at": "2026-10-20T05:20:32.661310Z"
   },
   "LOT392": {
     "route": {
@@ -6028,17 +6028,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-19T15:15:34.843515Z"
-  },
-  "EJU93DL": {
-    "route": {
-      "fromCity": "Kerkyra Island",
-      "fromIata": "CFU",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-18T05:20:29.326920Z"
   },
   "RYR88ZF": {
     "route": {
@@ -13509,5 +13498,16 @@
   "WMT7615": {
     "route": null,
     "checked_at": "2026-10-20T05:15:29.327089Z"
+  },
+  "TVS472P": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-20T05:20:32.661310Z"
   }
 }
