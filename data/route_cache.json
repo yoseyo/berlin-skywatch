@@ -2719,7 +2719,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T18:50:32.126741Z"
+    "checked_at": "2026-10-20T18:45:28.960532Z"
   },
   "DLH2N": {
     "route": {
@@ -2730,7 +2730,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T19:05:25.459752Z"
+    "checked_at": "2026-10-20T18:45:28.960532Z"
   },
   "SAS1673": {
     "route": {
@@ -3505,7 +3505,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-19T18:40:33.065889Z"
+    "checked_at": "2026-10-20T18:45:28.960532Z"
   },
   "RYR691A": {
     "route": {
@@ -5223,7 +5223,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T19:00:56.511559Z"
+    "checked_at": "2026-10-20T18:45:28.960532Z"
   },
   "ASL44H": {
     "route": {
@@ -6642,7 +6642,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-19T20:20:35.944506Z"
+    "checked_at": "2026-10-20T18:45:28.960532Z"
   },
   "RYR7949": {
     "route": {
@@ -13196,5 +13196,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-20T18:40:31.743868Z"
+  },
+  "BTI3PR": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-20T18:45:28.960532Z"
+  },
+  "EWG7ZH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Yerevan",
+      "toIata": "EVN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-20T18:45:28.960532Z"
   }
 }
