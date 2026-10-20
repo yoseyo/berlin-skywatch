@@ -1,26 +1,13 @@
 {
   "flights": [
     {
-      "callsign": "EWG67A",
-      "country": "Germany",
-      "lat": 52.3287,
-      "lon": 13.3211,
-      "altKm": 0.7,
-      "speedKmh": 326,
-      "heading": 69,
-      "vertRateMs": -4.2,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
       "callsign": "RYR8842",
       "country": "Poland",
-      "lat": 52.8559,
-      "lon": 13.1933,
+      "lat": 52.4776,
+      "lon": 14.0638,
       "altKm": 11.5,
-      "speedKmh": 890,
-      "heading": 125,
+      "speedKmh": 887,
+      "heading": 126,
       "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
@@ -29,24 +16,7 @@
       "toCity": "Krak\u00f3w",
       "toIata": "KRK",
       "category": "plane"
-    },
-    {
-      "callsign": "EWG6AZ",
-      "country": "Germany",
-      "lat": 52.3347,
-      "lon": 13.4234,
-      "altKm": 0.3,
-      "speedKmh": 239,
-      "heading": 69,
-      "vertRateMs": -3.6,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-20T21:45:28.979857Z"
+  "updated_at": "2026-10-20T21:50:29.220872Z"
 }
