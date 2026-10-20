@@ -2477,7 +2477,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-19T13:15:31.319399Z"
+    "checked_at": "2026-10-20T12:55:23.811726Z"
   },
   "DLH4YC": {
     "route": {
@@ -4735,7 +4735,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T12:40:33.158363Z"
+    "checked_at": "2026-10-20T12:55:23.811726Z"
   },
   "EZY71CX": {
     "route": {
@@ -5184,10 +5184,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-20T10:00:58.296539Z"
-  },
-  "BAG11": {
-    "route": null,
-    "checked_at": "2026-10-18T12:50:31.880174Z"
   },
   "RJA137": {
     "route": {
@@ -5775,17 +5771,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-20T12:40:36.757585Z"
-  },
-  "DLH5N": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T12:50:31.880174Z"
   },
   "RYR525H": {
     "route": {
@@ -13613,5 +13598,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T12:50:31.324250Z"
+  },
+  "EJU5367": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-20T12:55:23.811726Z"
+  },
+  "CAI8192": {
+    "route": {
+      "fromCity": "Yekaterinburg",
+      "fromIata": "SVX",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T12:55:23.811726Z"
   }
 }
