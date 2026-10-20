@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T13:30:45.225949Z"
+    "checked_at": "2026-10-20T13:25:25.068925Z"
   },
   "CHX100": {
     "route": null,
@@ -5816,17 +5816,6 @@
     },
     "checked_at": "2026-10-18T14:08:36.991295Z"
   },
-  "SXS8VB": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T13:20:31.555445Z"
-  },
   "AUA971": {
     "route": {
       "fromCity": "Vienna",
@@ -6441,36 +6430,6 @@
     },
     "checked_at": "2026-10-19T16:05:26.466467Z"
   },
-  "NSZ4502": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T13:20:31.555445Z"
-  },
-  "JFA69S": {
-    "route": null,
-    "checked_at": "2026-10-18T13:20:31.555445Z"
-  },
-  "ADN57B": {
-    "route": null,
-    "checked_at": "2026-10-18T13:20:31.555445Z"
-  },
-  "CTN848R": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-18T13:20:31.555445Z"
-  },
   "WZZ4782": {
     "route": {
       "fromCity": "Cologne",
@@ -6481,54 +6440,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-19T10:40:30.589278Z"
-  },
-  "SAS1697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T13:20:31.555445Z"
-  },
-  "LNYDM": {
-    "route": null,
-    "checked_at": "2026-10-18T13:25:23.688710Z"
-  },
-  "BLX1VM": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T13:25:23.688710Z"
-  },
-  "CFG8TJ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T13:25:23.688710Z"
-  },
-  "SDR49KT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T13:25:23.688710Z"
   },
   "RRR6235": {
     "route": null,
@@ -13612,5 +13523,9 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-20T13:20:31.475118Z"
+  },
+  "PSBZR": {
+    "route": null,
+    "checked_at": "2026-10-20T13:25:25.068925Z"
   }
 }
