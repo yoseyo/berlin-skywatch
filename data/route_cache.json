@@ -6477,10 +6477,6 @@
     },
     "checked_at": "2026-10-19T06:35:27.454952Z"
   },
-  "CAT9301": {
-    "route": null,
-    "checked_at": "2026-10-18T04:55:21.690558Z"
-  },
   "GAF624": {
     "route": null,
     "checked_at": "2026-10-18T05:00:52.273480Z"
@@ -13495,5 +13491,27 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-20T04:50:31.527822Z"
+  },
+  "TVS258P": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-20T04:55:22.552140Z"
+  },
+  "RYR282D": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T04:55:22.552140Z"
   }
 }
