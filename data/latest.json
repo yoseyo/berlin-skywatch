@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-20T22:45:28.621367Z"
+  "flights": [
+    {
+      "callsign": "UAE24",
+      "country": "United Arab Emirates",
+      "lat": 52.5974,
+      "lon": 12.7033,
+      "altKm": 12.1,
+      "speedKmh": 896,
+      "heading": 126,
+      "vertRateMs": 0,
+      "airline": "Emirates",
+      "airlineCountry": "United Arab Emirates",
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Dubai",
+      "toIata": "DXB",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-20T22:50:28.995164Z"
 }
