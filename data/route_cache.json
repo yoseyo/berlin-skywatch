@@ -262,7 +262,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-19T16:30:42.664923Z"
+    "checked_at": "2026-10-20T16:40:32.939637Z"
   },
   "TVF77EX": {
     "route": {
@@ -2844,7 +2844,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T16:50:32.178536Z"
+    "checked_at": "2026-10-20T16:40:32.939637Z"
   },
   "AUA237": {
     "route": {
@@ -2969,7 +2969,7 @@
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-10-19T16:50:32.178536Z"
+    "checked_at": "2026-10-20T16:40:32.939637Z"
   },
   "TAP4BE": {
     "route": {
@@ -3571,7 +3571,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T16:55:24.456235Z"
+    "checked_at": "2026-10-20T16:40:32.939637Z"
   },
   "DLH3X": {
     "route": {
@@ -4709,7 +4709,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-19T16:10:32.835093Z"
+    "checked_at": "2026-10-20T16:40:32.939637Z"
   },
   "SWR15V": {
     "route": {
@@ -6440,21 +6440,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-20T16:00:55.038315Z"
-  },
-  "TWY413": {
-    "route": null,
-    "checked_at": "2026-10-18T16:40:30.412196Z"
-  },
-  "RYR65QZ": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Kaunas",
-      "toIata": "KUN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T16:40:30.412196Z"
   },
   "HCX71": {
     "route": null,
@@ -10767,7 +10752,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T19:50:31.577047Z"
+    "checked_at": "2026-10-20T16:40:32.939637Z"
   },
   "EZS1590": {
     "route": {
@@ -13274,5 +13259,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T16:35:24.493658Z"
+  },
+  "NSZ6FY": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T16:40:32.939637Z"
+  },
+  "CAI98GP": {
+    "route": {
+      "fromCity": "Rostock",
+      "fromIata": "RLG",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T16:40:32.939637Z"
   }
 }
