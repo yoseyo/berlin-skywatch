@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-20T03:00:51.602435Z"
+  "flights": [
+    {
+      "callsign": "BCS3612",
+      "country": "Bahrain",
+      "lat": 52.2031,
+      "lon": 12.9541,
+      "altKm": 7.8,
+      "speedKmh": 849,
+      "heading": 24,
+      "vertRateMs": 10.4,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-20T03:05:24.541819Z"
 }
