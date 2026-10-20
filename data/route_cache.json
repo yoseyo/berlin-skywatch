@@ -471,7 +471,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T16:35:23.162746Z"
+    "checked_at": "2026-10-20T16:20:32.807344Z"
   },
   "EWG5EY": {
     "route": {
@@ -4274,17 +4274,6 @@
     },
     "checked_at": "2026-10-19T14:40:46.792026Z"
   },
-  "SAS695": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-18T16:15:31.959543Z"
-  },
   "DMS2LW": {
     "route": {
       "fromCity": "Berlin",
@@ -4700,17 +4689,6 @@
     },
     "checked_at": "2026-10-20T15:00:59.824323Z"
   },
-  "LHX4EL": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T16:20:30.872963Z"
-  },
   "KLM1316": {
     "route": {
       "fromCity": "Bordeaux/M\u00e9rignac",
@@ -4720,7 +4698,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-19T16:10:32.835093Z"
+    "checked_at": "2026-10-20T16:20:32.807344Z"
   },
   "LOT3JK": {
     "route": {
@@ -6462,39 +6440,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-20T15:40:34.280793Z"
-  },
-  "RYR2281": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-18T16:15:31.959543Z"
-  },
-  "DCBAY": {
-    "route": {
-      "fromCity": "Olbia (SS)",
-      "fromIata": "OLB",
-      "toCity": "Bucharest",
-      "toIata": "BBU",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-18T16:15:31.959543Z"
-  },
-  "WZZ20KU": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-18T16:20:30.872963Z"
   },
   "CFE27PM": {
     "route": {
@@ -13373,5 +13318,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-20T16:15:29.852902Z"
+  },
+  "THY1GJ": {
+    "route": {
+      "fromCity": "Moscow",
+      "fromIata": "VKO",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-20T16:20:32.807344Z"
+  },
+  "SAS687": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-20T16:20:32.807344Z"
   }
 }
