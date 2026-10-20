@@ -530,7 +530,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T17:10:33.243885Z"
+    "checked_at": "2026-10-20T18:10:33.294873Z"
   },
   "SWR1PF": {
     "route": {
@@ -640,7 +640,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T18:20:32.647873Z"
+    "checked_at": "2026-10-20T18:10:33.294873Z"
   },
   "IBE07MV": {
     "route": {
@@ -706,7 +706,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-19T18:25:26.234364Z"
+    "checked_at": "2026-10-20T18:10:33.294873Z"
   },
   "DLH202": {
     "route": {
@@ -3604,7 +3604,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-19T18:25:26.234364Z"
+    "checked_at": "2026-10-20T18:10:33.294873Z"
   },
   "EWG5EZ": {
     "route": {
@@ -5621,17 +5621,6 @@
     },
     "checked_at": "2026-10-20T17:20:34.330714Z"
   },
-  "AUA972": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-18T18:05:27.795565Z"
-  },
   "BAW845": {
     "route": {
       "fromCity": "Dubrovnik",
@@ -6466,17 +6455,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T17:10:32.223724Z"
-  },
-  "TKJ5177": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-18T18:05:27.795565Z"
   },
   "ISR252": {
     "route": {
@@ -13192,5 +13170,31 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-20T18:00:55.979673Z"
+  },
+  "RYR3XX": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-20T18:10:33.294873Z"
+  },
+  "ATJ261": {
+    "route": null,
+    "checked_at": "2026-10-20T18:10:33.294873Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-20T18:10:33.294873Z"
   }
 }
