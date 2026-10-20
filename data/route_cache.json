@@ -1245,7 +1245,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T06:05:25.211109Z"
+    "checked_at": "2026-10-20T07:30:41.079780Z"
   },
   "RYR120T": {
     "route": {
@@ -1454,7 +1454,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T07:25:25.019405Z"
+    "checked_at": "2026-10-20T07:30:41.079780Z"
   },
   "RYR12EJ": {
     "route": {
@@ -1487,7 +1487,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-19T13:50:31.697680Z"
+    "checked_at": "2026-10-20T07:30:41.079780Z"
   },
   "EIN3JE": {
     "route": {
@@ -3725,7 +3725,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-19T07:15:30.357225Z"
+    "checked_at": "2026-10-20T07:30:41.079780Z"
   },
   "RYR62HD": {
     "route": {
@@ -4223,17 +4223,6 @@
     },
     "checked_at": "2026-10-19T07:10:34.734689Z"
   },
-  "NOZ52Z": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-18T07:30:40.137024Z"
-  },
   "TAP53LB": {
     "route": {
       "fromCity": "Lisbon",
@@ -4578,17 +4567,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-20T07:25:23.465011Z"
-  },
-  "DLH8KF": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "M\u00fcnster",
-      "toIata": "FMO",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-18T07:30:40.137024Z"
   },
   "DLH894": {
     "route": {
@@ -13538,5 +13516,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T07:15:30.318984Z"
+  },
+  "WZZ3835": {
+    "route": {
+      "fromCity": "Skopje",
+      "fromIata": "SKP",
+      "toCity": "Friedrichshafen",
+      "toIata": "FDH",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-20T07:30:41.079780Z"
+  },
+  "TVS4301": {
+    "route": {
+      "fromCity": "Bern",
+      "fromIata": "BRN",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-20T07:30:41.079780Z"
   }
 }
