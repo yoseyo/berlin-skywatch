@@ -2545,17 +2545,6 @@
     },
     "checked_at": "2026-10-19T11:25:25.298158Z"
   },
-  "TAP53EI": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-19T04:10:30.524692Z"
-  },
   "UAL962": {
     "route": {
       "fromCity": "New York",
@@ -4076,17 +4065,6 @@
     },
     "checked_at": "2026-10-19T08:40:31.615895Z"
   },
-  "EJU92LR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T04:10:30.524692Z"
-  },
   "RYR13PB": {
     "route": {
       "fromCity": "Berlin",
@@ -5034,17 +5012,6 @@
     },
     "checked_at": "2026-10-19T13:45:34.096898Z"
   },
-  "RYR63VQ": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T04:10:30.524692Z"
-  },
   "EWG41W": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5154,17 +5121,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-19T21:20:34.760248Z"
-  },
-  "CCA967": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-19T04:10:30.524692Z"
   },
   "RYR98ST": {
     "route": {
@@ -10195,7 +10151,7 @@
       "airlineName": "Shanghai Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-20T03:50:30.438851Z"
+    "checked_at": "2026-10-21T04:15:27.876203Z"
   },
   "AKK8": {
     "route": null,
@@ -13048,5 +13004,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T04:00:53.717822Z"
+  },
+  "UAE221": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Dallas-Fort Worth",
+      "toIata": "DFW",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-21T04:15:27.876203Z"
+  },
+  "RYR33BL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T04:15:27.876203Z"
   }
 }
