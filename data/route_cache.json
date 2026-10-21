@@ -3828,7 +3828,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-19T17:25:25.037959Z"
+    "checked_at": "2026-10-21T07:45:30.635617Z"
   },
   "FIN8DN": {
     "route": null,
@@ -5019,17 +5019,6 @@
     },
     "checked_at": "2026-10-19T15:20:33.553175Z"
   },
-  "SAS2831": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T07:40:32.431700Z"
-  },
   "SAS63Z": {
     "route": {
       "fromCity": "Stockholm",
@@ -5362,7 +5351,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-19T07:40:32.431700Z"
+    "checked_at": "2026-10-21T07:45:30.635617Z"
   },
   "BAW986G": {
     "route": {
@@ -6427,17 +6416,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-20T07:20:30.420753Z"
-  },
-  "RYR92HL": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T07:40:32.431700Z"
   },
   "EWG8ZJ": {
     "route": {
@@ -12808,5 +12786,42 @@
   "TGZ1917": {
     "route": null,
     "checked_at": "2026-10-21T07:40:30.474538Z"
+  },
+  "WZZ5918": {
+    "route": {
+      "fromCity": "Yerevan",
+      "fromIata": "EVN",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-21T07:45:30.635617Z"
+  },
+  "RMB2": {
+    "route": null,
+    "checked_at": "2026-10-21T07:45:30.635617Z"
+  },
+  "RYR717M": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T07:45:30.635617Z"
+  },
+  "WMT968": {
+    "route": {
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-21T07:45:30.635617Z"
   }
 }
