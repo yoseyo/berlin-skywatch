@@ -1663,7 +1663,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-20T08:35:23.865980Z"
+    "checked_at": "2026-10-21T07:35:24.717066Z"
   },
   "BEL8CE": {
     "route": {
@@ -3035,7 +3035,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T09:35:24.662102Z"
+    "checked_at": "2026-10-21T07:35:24.717066Z"
   },
   "LHX179": {
     "route": {
@@ -3307,7 +3307,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-19T07:50:30.542044Z"
+    "checked_at": "2026-10-21T07:35:24.717066Z"
   },
   "AFR65AR": {
     "route": {
@@ -3954,17 +3954,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T04:30:41.701542Z"
-  },
-  "DLH7HP": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T07:30:45.372299Z"
   },
   "EWG5SP": {
     "route": {
@@ -6427,14 +6416,6 @@
   "TWY989": {
     "route": null,
     "checked_at": "2026-10-20T16:35:24.493658Z"
-  },
-  "MFX152": {
-    "route": null,
-    "checked_at": "2026-10-19T07:30:45.372299Z"
-  },
-  "HEY01P": {
-    "route": null,
-    "checked_at": "2026-10-19T07:30:45.372299Z"
   },
   "DFEIC": {
     "route": {
@@ -12831,5 +12812,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T07:30:45.227166Z"
+  },
+  "DLH8KF": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "M\u00fcnster",
+      "toIata": "FMO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T07:35:24.717066Z"
   }
 }
