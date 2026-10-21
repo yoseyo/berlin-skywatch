@@ -739,7 +739,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-20T19:35:25.773757Z"
+    "checked_at": "2026-10-21T17:55:26.474162Z"
   },
   "LOT2MN": {
     "route": {
@@ -3375,17 +3375,6 @@
     },
     "checked_at": "2026-10-21T15:20:36.157928Z"
   },
-  "DLH5PR": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T17:50:33.954988Z"
-  },
   "EWG4EH": {
     "route": {
       "fromCity": "Berlin",
@@ -4764,7 +4753,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T17:20:34.330714Z"
+    "checked_at": "2026-10-21T17:55:26.474162Z"
   },
   "BAW845": {
     "route": {
@@ -12767,5 +12756,35 @@
   "KMM376": {
     "route": null,
     "checked_at": "2026-10-21T17:50:32.338651Z"
+  },
+  "FIN5G": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-21T17:55:26.474162Z"
+  },
+  "NJE203V": {
+    "route": null,
+    "checked_at": "2026-10-21T17:55:26.474162Z"
+  },
+  "ATV306": {
+    "route": null,
+    "checked_at": "2026-10-21T17:55:26.474162Z"
+  },
+  "RYR2789": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T17:55:26.474162Z"
   }
 }
