@@ -3,12 +3,12 @@
     {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.2163,
-      "lon": 12.8029,
-      "altKm": 2.6,
-      "speedKmh": 560,
-      "heading": 72,
-      "vertRateMs": -6.8,
+      "lat": 52.3219,
+      "lon": 13.2934,
+      "altKm": 0.9,
+      "speedKmh": 351,
+      "heading": 69,
+      "vertRateMs": -5.2,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -16,7 +16,41 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "SWT3WZ",
+      "country": "Spain",
+      "lat": 52.2264,
+      "lon": 12.9135,
+      "altKm": 2.6,
+      "speedKmh": 508,
+      "heading": 14,
+      "vertRateMs": -11.4,
+      "airline": "Swiftair",
+      "airlineCountry": "Spain",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG33B",
+      "country": "Germany",
+      "lat": 52.2785,
+      "lon": 13.1126,
+      "altKm": 1.4,
+      "speedKmh": 418,
+      "heading": 68,
+      "vertRateMs": -2.6,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Yerevan",
+      "fromIata": "EVN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-21T03:30:40.754118Z"
+  "updated_at": "2026-10-21T03:35:23.467587Z"
 }
