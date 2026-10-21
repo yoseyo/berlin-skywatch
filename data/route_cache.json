@@ -2180,7 +2180,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-20T12:05:24.988485Z"
+    "checked_at": "2026-10-21T12:12:28.395741Z"
   },
   "SWR1PL": {
     "route": {
@@ -5083,7 +5083,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T16:10:32.835093Z"
+    "checked_at": "2026-10-21T12:12:28.395741Z"
   },
   "ELY2371": {
     "route": {
@@ -5322,7 +5322,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-19T20:20:35.944506Z"
+    "checked_at": "2026-10-21T12:12:28.395741Z"
   },
   "SAS80D": {
     "route": {
@@ -6433,17 +6433,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-21T12:00:57.587249Z"
-  },
-  "N275TC": {
-    "route": {
-      "fromCity": "Dresden",
-      "fromIata": "DRS",
-      "toCity": "Paderborn",
-      "toIata": "PAD",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-19T12:10:33.495312Z"
   },
   "LUA171P": {
     "route": null,
@@ -12850,5 +12839,16 @@
   "NJE926H": {
     "route": null,
     "checked_at": "2026-10-21T12:10:33.007500Z"
+  },
+  "RYR73QL": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Liverpool",
+      "toIata": "LPL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T12:12:28.395741Z"
   }
 }
