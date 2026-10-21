@@ -1,39 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "SRR6227",
-      "country": "Denmark",
-      "lat": 52.2925,
-      "lon": 13.0065,
-      "altKm": 3.3,
-      "speedKmh": 620,
-      "heading": 257,
-      "vertRateMs": 4.9,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
+      "callsign": "EWG6NT",
+      "country": "Germany",
+      "lat": 52.4109,
+      "lon": 13.807,
+      "altKm": 1.0,
+      "speedKmh": 410,
+      "heading": 286,
+      "vertRateMs": -0.3,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR44DW",
-      "country": "Malta",
-      "lat": 52.3995,
-      "lon": 13.6192,
-      "altKm": 0.5,
-      "speedKmh": 276,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-21T21:15:29.732283Z"
+  "updated_at": "2026-10-21T21:20:32.123183Z"
 }
