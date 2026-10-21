@@ -970,7 +970,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T04:25:23.471495Z"
+    "checked_at": "2026-10-21T19:25:27.223828Z"
   },
   "EJU62LY": {
     "route": {
@@ -2488,7 +2488,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-20T19:35:25.773757Z"
+    "checked_at": "2026-10-21T19:25:27.223828Z"
   },
   "DLH5EE": {
     "route": {
@@ -2686,7 +2686,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T18:45:28.960532Z"
+    "checked_at": "2026-10-21T19:25:27.223828Z"
   },
   "SAS1673": {
     "route": {
@@ -3439,7 +3439,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-20T18:45:28.960532Z"
+    "checked_at": "2026-10-21T19:25:27.223828Z"
   },
   "RYR691A": {
     "route": {
@@ -4266,17 +4266,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-20T19:30:45.637323Z"
-  },
-  "NSZ4508": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T19:20:34.231744Z"
   },
   "RYR42MY": {
     "route": {
@@ -6528,17 +6517,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-20T19:20:31.265238Z"
-  },
-  "WUK792": {
-    "route": {
-      "fromCity": "Skopje",
-      "fromIata": "SKP",
-      "toCity": "London",
-      "toIata": "LTN",
-      "airlineName": "Wizz Air UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-19T19:25:25.499618Z"
   },
   "CFG2EJ": {
     "route": {
@@ -12749,5 +12727,16 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-21T19:15:34.494299Z"
+  },
+  "TGZ782": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tbilisi",
+      "toIata": "TBS",
+      "airlineName": "Georgian Airways",
+      "airlineCountry": "Georgia"
+    },
+    "checked_at": "2026-10-21T19:25:27.223828Z"
   }
 }
