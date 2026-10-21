@@ -1069,7 +1069,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T05:20:32.661310Z"
+    "checked_at": "2026-10-21T05:20:30.587599Z"
   },
   "DAL92": {
     "route": {
@@ -4076,17 +4076,6 @@
     },
     "checked_at": "2026-10-20T09:30:41.310147Z"
   },
-  "RYR364N": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T05:15:28.576854Z"
-  },
   "DLH1YY": {
     "route": {
       "fromCity": "Pozna\u0144",
@@ -5132,17 +5121,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-20T06:30:39.952784Z"
-  },
-  "EWG6KW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T05:15:28.576854Z"
   },
   "BTI97T": {
     "route": {
@@ -6431,39 +6409,6 @@
     },
     "checked_at": "2026-10-20T06:00:50.928451Z"
   },
-  "RYR5979": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T05:15:28.576854Z"
-  },
-  "NSZ3288": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T05:20:29.541121Z"
-  },
-  "BTI89G": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-19T05:20:29.541121Z"
-  },
   "BTI7PY": {
     "route": {
       "fromCity": "Riga",
@@ -6495,7 +6440,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T05:50:30.981449Z"
+    "checked_at": "2026-10-21T05:20:30.587599Z"
   },
   "EJU53YB": {
     "route": {
@@ -12970,5 +12915,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-21T05:15:28.194322Z"
+  },
+  "EWG2W": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Karpathos Island",
+      "toIata": "AOK",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T05:20:30.587599Z"
   }
 }
