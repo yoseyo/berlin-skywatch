@@ -4043,17 +4043,6 @@
     },
     "checked_at": "2026-10-20T12:30:43.389438Z"
   },
-  "THY3TR": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T13:50:31.697680Z"
-  },
   "DLH7MR": {
     "route": {
       "fromCity": "Munich",
@@ -6541,28 +6530,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-20T04:45:28.027534Z"
-  },
-  "EJU46NG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T13:50:31.697680Z"
-  },
-  "BTI72X": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-19T13:50:31.697680Z"
   },
   "VJH373": {
     "route": null,
@@ -12936,5 +12903,16 @@
   "DIGRK": {
     "route": null,
     "checked_at": "2026-10-21T13:50:31.558225Z"
+  },
+  "EWG2RM": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T13:55:25.158491Z"
   }
 }
