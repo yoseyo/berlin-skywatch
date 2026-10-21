@@ -2356,7 +2356,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-20T13:15:29.713153Z"
+    "checked_at": "2026-10-21T13:30:45.142000Z"
   },
   "LOT2PJ": {
     "route": {
@@ -2367,7 +2367,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-20T13:05:23.850356Z"
+    "checked_at": "2026-10-21T13:30:45.142000Z"
   },
   "AFR1235": {
     "route": {
@@ -3505,7 +3505,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T13:20:31.475118Z"
+    "checked_at": "2026-10-21T13:30:45.142000Z"
   },
   "AFR64PU": {
     "route": {
@@ -5456,17 +5456,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-20T13:30:50.000347Z"
-  },
-  "WZZ9EN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-19T13:25:25.859597Z"
   },
   "EJU16CF": {
     "route": {
@@ -12926,5 +12915,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T13:25:23.998142Z"
+  },
+  "NSZ3531": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T13:30:45.142000Z"
+  },
+  "SAS2695": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Palermo",
+      "toIata": "PMO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T13:30:45.142000Z"
+  },
+  "RJA137": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-10-21T13:30:45.142000Z"
+  },
+  "CFG5FE": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T13:30:45.142000Z"
   }
 }
