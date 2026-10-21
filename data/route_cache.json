@@ -1190,7 +1190,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-20T05:35:22.477080Z"
+    "checked_at": "2026-10-21T05:35:25.216392Z"
   },
   "DLH207": {
     "route": {
@@ -2554,7 +2554,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-19T05:40:30.548249Z"
+    "checked_at": "2026-10-21T05:35:25.216392Z"
   },
   "WZZ977": {
     "route": {
@@ -4261,7 +4261,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-19T05:40:30.548249Z"
+    "checked_at": "2026-10-21T05:35:25.216392Z"
   },
   "LOT4MH": {
     "route": {
@@ -4706,17 +4706,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T16:05:25.833253Z"
-  },
-  "EZS91HE": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-19T05:30:43.724660Z"
   },
   "CFG553": {
     "route": null,
@@ -6434,17 +6423,6 @@
   "OEEKA": {
     "route": null,
     "checked_at": "2026-10-20T05:35:22.477080Z"
-  },
-  "RYR3PL": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T05:35:24.874031Z"
   },
   "DCS605": {
     "route": null,
@@ -12959,5 +12937,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T05:30:41.978808Z"
+  },
+  "ITL201": {
+    "route": {
+      "fromCity": "Maastricht",
+      "fromIata": "MST",
+      "toCity": "Groningen",
+      "toIata": "GRQ",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-21T05:35:25.216392Z"
   }
 }
