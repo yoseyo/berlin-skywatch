@@ -1839,7 +1839,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T10:15:31.610501Z"
+    "checked_at": "2026-10-21T10:05:23.741941Z"
   },
   "KLM1775": {
     "route": {
@@ -6473,28 +6473,6 @@
     },
     "checked_at": "2026-10-20T21:35:23.375425Z"
   },
-  "SDR10EL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T10:00:57.663633Z"
-  },
-  "RYR7BW": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T10:00:57.663633Z"
-  },
   "DEAKE": {
     "route": null,
     "checked_at": "2026-10-19T10:05:25.450160Z"
@@ -6527,7 +6505,7 @@
   },
   "WUK1356": {
     "route": null,
-    "checked_at": "2026-10-20T10:45:29.733131Z"
+    "checked_at": "2026-10-21T10:05:23.741941Z"
   },
   "CAT744": {
     "route": null,
@@ -12731,5 +12709,72 @@
   "MINNI": {
     "route": null,
     "checked_at": "2026-10-21T09:55:25.196428Z"
+  },
+  "NSZ2MP": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T10:05:23.741941Z"
+  },
+  "N17EU": {
+    "route": null,
+    "checked_at": "2026-10-21T10:05:23.741941Z"
+  },
+  "WZZ2709": {
+    "route": {
+      "fromCity": "Debrecen",
+      "fromIata": "DEB",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-21T10:05:23.741941Z"
+  },
+  "FIN98J": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-21T10:05:23.741941Z"
+  },
+  "OYJWM": {
+    "route": null,
+    "checked_at": "2026-10-21T10:05:23.741941Z"
+  },
+  "CFG3YU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T10:05:23.741941Z"
+  },
+  "RYR9UM": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Brindisi",
+      "toIata": "BDS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T10:05:23.741941Z"
+  },
+  "WMT751": {
+    "route": null,
+    "checked_at": "2026-10-21T10:05:23.741941Z"
   }
 }
