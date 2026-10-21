@@ -827,7 +827,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-19T20:05:24.284946Z"
+    "checked_at": "2026-10-21T19:50:31.651795Z"
   },
   "WZZ620U": {
     "route": {
@@ -849,7 +849,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-20T20:00:52.914715Z"
+    "checked_at": "2026-10-21T19:50:31.651795Z"
   },
   "RYR8YY": {
     "route": {
@@ -12694,5 +12694,27 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-10-21T19:35:23.100835Z"
+  },
+  "EJU49CR": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T19:50:31.651795Z"
+  },
+  "NOZ1865": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-21T19:50:31.651795Z"
   }
 }
