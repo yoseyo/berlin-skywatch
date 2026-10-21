@@ -3887,7 +3887,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-20T11:15:29.786056Z"
+    "checked_at": "2026-10-21T10:55:25.708432Z"
   },
   "FIN01AD": {
     "route": {
@@ -8282,7 +8282,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-19T20:00:57.458181Z"
+    "checked_at": "2026-10-21T10:55:25.708432Z"
   },
   "EJU98HY": {
     "route": {
@@ -12761,5 +12761,31 @@
   "DEVSI": {
     "route": null,
     "checked_at": "2026-10-21T10:50:35.323505Z"
+  },
+  "EJU63AJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T10:55:25.708432Z"
+  },
+  "4OMNE": {
+    "route": null,
+    "checked_at": "2026-10-21T10:55:25.708432Z"
+  },
+  "EZY94NJ": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-21T10:55:25.708432Z"
   }
 }
