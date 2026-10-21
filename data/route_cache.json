@@ -541,7 +541,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-20T18:30:42.418205Z"
+    "checked_at": "2026-10-21T17:45:31.157879Z"
   },
   "SWR3BY": {
     "route": {
@@ -607,7 +607,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-20T18:40:31.743868Z"
+    "checked_at": "2026-10-21T17:45:31.157879Z"
   },
   "DLH1XN": {
     "route": {
@@ -3784,7 +3784,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-20T17:40:33.895792Z"
+    "checked_at": "2026-10-21T17:45:31.157879Z"
   },
   "WZZ82": {
     "route": {
@@ -4032,17 +4032,6 @@
     },
     "checked_at": "2026-10-21T16:55:24.000291Z"
   },
-  "EZS67CP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-19T17:45:30.182836Z"
-  },
   "NSZ3730": {
     "route": {
       "fromCity": "Copenhagen",
@@ -4265,7 +4254,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-20T17:50:32.424637Z"
+    "checked_at": "2026-10-21T17:45:31.157879Z"
   },
   "BAW996G": {
     "route": {
@@ -12730,5 +12719,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T17:35:26.055175Z"
+  },
+  "EJU34GK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T17:45:31.157879Z"
+  },
+  "RYR1856": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "HHN",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T17:45:31.157879Z"
+  },
+  "SDR15XL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T17:45:31.157879Z"
   }
 }
