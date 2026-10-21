@@ -2422,7 +2422,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-20T13:35:24.503915Z"
+    "checked_at": "2026-10-21T13:10:52.115178Z"
   },
   "RYR103K": {
     "route": {
@@ -4109,17 +4109,6 @@
     },
     "checked_at": "2026-10-19T17:45:30.182836Z"
   },
-  "SXS6JX": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T13:10:33.349733Z"
-  },
   "EJU41DH": {
     "route": {
       "fromCity": "Milan",
@@ -5356,17 +5345,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-21T10:10:33.554099Z"
-  },
-  "WZZ513": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-19T13:10:33.349733Z"
   },
   "NSZ3582": {
     "route": {
@@ -12885,5 +12863,27 @@
   "SDR62DM": {
     "route": null,
     "checked_at": "2026-10-21T13:05:26.732555Z"
+  },
+  "SWR500V": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-21T13:10:52.115178Z"
+  },
+  "AAL759": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Philadelphia",
+      "toIata": "PHL",
+      "airlineName": "American Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-21T13:10:52.115178Z"
   }
 }
