@@ -1366,7 +1366,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T07:05:24.807117Z"
+    "checked_at": "2026-10-21T06:55:25.235353Z"
   },
   "SAS767": {
     "route": {
@@ -6445,21 +6445,6 @@
       "airlineCountry": "Ethiopia"
     },
     "checked_at": "2026-10-21T06:29:25.403338Z"
-  },
-  "DCHJD": {
-    "route": null,
-    "checked_at": "2026-10-19T06:55:23.776092Z"
-  },
-  "CFG3KD": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T06:55:23.776092Z"
   },
   "EJU51LD": {
     "route": {
@@ -12815,5 +12800,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T06:35:24.598226Z"
+  },
+  "DELJC": {
+    "route": {
+      "fromCity": "Hockenheim",
+      "fromIata": null,
+      "toCity": "Braunschweig",
+      "toIata": "BWE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-21T06:55:25.235353Z"
+  },
+  "SXS6SJ": {
+    "route": {
+      "fromCity": "Dalaman",
+      "fromIata": "DLM",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-21T06:55:25.235353Z"
   }
 }
