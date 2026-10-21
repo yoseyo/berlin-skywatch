@@ -56,7 +56,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-20T13:30:50.000347Z"
+    "checked_at": "2026-10-21T13:45:30.503057Z"
   },
   "SXS1VZ": {
     "route": {
@@ -5403,7 +5403,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-20T13:50:33.206420Z"
+    "checked_at": "2026-10-21T13:45:30.503057Z"
   },
   "VPBLU": {
     "route": null,
@@ -12944,5 +12944,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-21T13:40:32.349516Z"
+  },
+  "EJU57YZ": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T13:45:30.503057Z"
+  },
+  "MSC2959": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Air Cairo",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-21T13:45:30.503057Z"
   }
 }
