@@ -519,7 +519,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-20T16:30:43.240121Z"
+    "checked_at": "2026-10-21T16:50:32.351840Z"
   },
   "PGT49YQ": {
     "route": {
@@ -3527,7 +3527,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T16:50:31.655015Z"
+    "checked_at": "2026-10-21T16:50:32.351840Z"
   },
   "BAW94Q": {
     "route": {
@@ -4032,17 +4032,6 @@
     },
     "checked_at": "2026-10-20T16:45:30.152568Z"
   },
-  "DLH6TP": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T16:50:32.178536Z"
-  },
   "EZS67CP": {
     "route": {
       "fromCity": "Berlin",
@@ -4053,17 +4042,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-19T17:45:30.182836Z"
-  },
-  "EJU41DH": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T16:50:32.178536Z"
   },
   "NSZ3730": {
     "route": {
@@ -4775,7 +4753,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-20T16:53:36.915724Z"
+    "checked_at": "2026-10-21T16:50:32.351840Z"
   },
   "EJU95GQ": {
     "route": {
@@ -6469,39 +6447,6 @@
       "airlineCountry": "Tunisia"
     },
     "checked_at": "2026-10-21T11:40:31.797584Z"
-  },
-  "WMT7003": {
-    "route": {
-      "fromCity": "Timi\u015foara",
-      "fromIata": "TSR",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-19T16:50:32.178536Z"
-  },
-  "SAS2657": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T16:50:32.178536Z"
-  },
-  "PGT816T": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T16:50:32.178536Z"
   },
   "EJU91FL": {
     "route": {
@@ -12598,5 +12543,20 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-21T16:40:33.528322Z"
+  },
+  "NSZ4377": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T16:50:32.351840Z"
+  },
+  "ATV305": {
+    "route": null,
+    "checked_at": "2026-10-21T16:50:32.351840Z"
   }
 }
