@@ -2312,7 +2312,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T13:00:58.609602Z"
+    "checked_at": "2026-10-21T13:15:32.869651Z"
   },
   "SAS1678": {
     "route": {
@@ -2466,7 +2466,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-20T12:55:23.811726Z"
+    "checked_at": "2026-10-21T13:15:32.869651Z"
   },
   "DLH4YC": {
     "route": {
@@ -12885,5 +12885,35 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-21T13:10:52.115178Z"
+  },
+  "CES244": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-21T13:15:32.869651Z"
+  },
+  "RYR159P": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T13:15:32.869651Z"
+  },
+  "RYR26YA": {
+    "route": null,
+    "checked_at": "2026-10-21T13:15:32.869651Z"
+  },
+  "QGA50P": {
+    "route": null,
+    "checked_at": "2026-10-21T13:15:32.869651Z"
   }
 }
