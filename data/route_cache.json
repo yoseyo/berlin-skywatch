@@ -794,7 +794,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-20T20:00:52.914715Z"
+    "checked_at": "2026-10-21T20:25:27.022717Z"
   },
   "BEL1ZK": {
     "route": {
@@ -882,7 +882,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T20:35:29.396879Z"
+    "checked_at": "2026-10-21T20:25:27.022717Z"
   },
   "AFR69GW": {
     "route": {
@@ -904,7 +904,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-20T20:45:29.046416Z"
+    "checked_at": "2026-10-21T20:25:27.022717Z"
   },
   "DLH206": {
     "route": {
@@ -4742,7 +4742,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T07:15:30.318984Z"
+    "checked_at": "2026-10-21T20:25:27.022717Z"
   },
   "EWG27P": {
     "route": {
@@ -5365,17 +5365,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-19T20:40:31.236878Z"
-  },
-  "EJU63CR": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T20:20:35.944506Z"
   },
   "EZY63GU": {
     "route": {
@@ -6566,17 +6555,6 @@
     },
     "checked_at": "2026-10-20T19:50:34.629797Z"
   },
-  "EJU46TQ": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T20:20:35.944506Z"
-  },
   "AEG6911": {
     "route": null,
     "checked_at": "2026-10-20T21:00:52.209315Z"
@@ -6603,17 +6581,6 @@
     },
     "checked_at": "2026-10-20T21:15:28.611804Z"
   },
-  "RYR4359": {
-    "route": {
-      "fromCity": "Lanzarote Island",
-      "fromIata": "ACE",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T20:25:25.332438Z"
-  },
   "SWT9ER": {
     "route": {
       "fromCity": "Berlin",
@@ -6624,17 +6591,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-21T20:10:31.278209Z"
-  },
-  "DLH8FT": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T20:25:25.332438Z"
   },
   "WZZ1802": {
     "route": {
@@ -12786,5 +12742,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T20:20:30.495885Z"
+  },
+  "PGT1604": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-21T20:25:27.022717Z"
+  },
+  "DLH5CK": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T20:25:27.022717Z"
+  },
+  "EWG8UD": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T20:25:27.022717Z"
   }
 }
