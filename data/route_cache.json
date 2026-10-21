@@ -328,7 +328,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-20T16:10:33.838799Z"
+    "checked_at": "2026-10-21T16:00:56.853296Z"
   },
   "DLH2XC": {
     "route": {
@@ -383,7 +383,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-20T15:55:27.157419Z"
+    "checked_at": "2026-10-21T16:00:56.853296Z"
   },
   "LOT389": {
     "route": {
@@ -6455,17 +6455,6 @@
     },
     "checked_at": "2026-10-21T15:35:25.077061Z"
   },
-  "NOZ57GW": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-19T16:00:55.466288Z"
-  },
   "RUK1145": {
     "route": {
       "fromCity": "Manchester",
@@ -6476,10 +6465,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-20T07:25:23.465011Z"
-  },
-  "NJE862Q": {
-    "route": null,
-    "checked_at": "2026-10-19T16:00:55.466288Z"
   },
   "DCS602": {
     "route": null,
@@ -12663,5 +12648,16 @@
   "MFX7654": {
     "route": null,
     "checked_at": "2026-10-21T15:50:32.079061Z"
+  },
+  "EJU5017": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T16:00:56.853296Z"
   }
 }
