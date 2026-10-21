@@ -1454,7 +1454,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T07:20:30.420753Z"
+    "checked_at": "2026-10-21T08:45:29.773649Z"
   },
   "SWR2HD": {
     "route": {
@@ -4010,17 +4010,6 @@
     },
     "checked_at": "2026-10-19T09:20:32.481274Z"
   },
-  "EZY18ZQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-19T08:40:31.615895Z"
-  },
   "TAP53LB": {
     "route": {
       "fromCity": "Lisbon",
@@ -6409,17 +6398,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-21T08:40:31.458675Z"
-  },
-  "KLM1303": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-19T08:40:31.615895Z"
   },
   "WZZ2709": {
     "route": {
@@ -12709,5 +12687,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T08:40:31.458675Z"
+  },
+  "CFG1RV": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T08:45:29.773649Z"
+  },
+  "RYR65QZ": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T08:45:29.773649Z"
+  },
+  "RYR3RK": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T08:45:29.773649Z"
   }
 }
