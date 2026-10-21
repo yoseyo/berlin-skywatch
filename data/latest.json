@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-21T02:50:29.000552Z"
+  "flights": [
+    {
+      "callsign": "CMB352",
+      "country": "United States",
+      "lat": 52.834,
+      "lon": 13.9784,
+      "altKm": 11.5,
+      "speedKmh": 843,
+      "heading": 172,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS3612",
+      "country": "Bahrain",
+      "lat": 52.5411,
+      "lon": 13.1757,
+      "altKm": 9.2,
+      "speedKmh": 950,
+      "heading": 31,
+      "vertRateMs": 9.8,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-21T02:55:21.308518Z"
 }
