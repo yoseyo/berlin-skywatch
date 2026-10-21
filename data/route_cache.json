@@ -1608,7 +1608,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-20T08:10:31.539171Z"
+    "checked_at": "2026-10-21T08:15:33.310524Z"
   },
   "DLH3WU": {
     "route": {
@@ -3362,7 +3362,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-20T08:05:25.029795Z"
+    "checked_at": "2026-10-21T08:15:33.310524Z"
   },
   "LOT4NC": {
     "route": {
@@ -6446,10 +6446,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-21T06:40:31.802909Z"
-  },
-  "NJE988C": {
-    "route": null,
-    "checked_at": "2026-10-19T08:15:31.047151Z"
   },
   "WZZ5VQ": {
     "route": {
@@ -11149,7 +11145,7 @@
   },
   "UAG37A": {
     "route": null,
-    "checked_at": "2026-10-20T14:55:26.416385Z"
+    "checked_at": "2026-10-21T08:15:33.310524Z"
   },
   "THY7KG": {
     "route": {
@@ -12787,5 +12783,27 @@
   "NJE764D": {
     "route": null,
     "checked_at": "2026-10-21T08:10:33.733207Z"
+  },
+  "DLH7HP": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T08:15:33.310524Z"
+  },
+  "SXS6WA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dalaman",
+      "toIata": "DLM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-21T08:15:33.310524Z"
   }
 }
