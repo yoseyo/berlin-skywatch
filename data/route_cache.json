@@ -1630,7 +1630,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T08:50:31.423874Z"
+    "checked_at": "2026-10-21T18:15:29.893871Z"
   },
   "TVF41HV": {
     "route": {
@@ -4245,17 +4245,6 @@
     },
     "checked_at": "2026-10-20T18:00:55.979673Z"
   },
-  "NSZ4507": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T18:10:34.282385Z"
-  },
   "SWR979E": {
     "route": {
       "fromCity": "Berlin",
@@ -6463,28 +6452,6 @@
     },
     "checked_at": "2026-10-21T18:05:27.384813Z"
   },
-  "RYR1CZ": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T18:10:34.282385Z"
-  },
-  "RYR9SW": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T18:10:34.282385Z"
-  },
   "FIN8TA": {
     "route": {
       "fromCity": "Zurich",
@@ -7676,7 +7643,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T07:15:30.318984Z"
+    "checked_at": "2026-10-21T18:15:29.893871Z"
   },
   "WZZ3835": {
     "route": {
@@ -12775,5 +12742,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-21T18:05:27.384813Z"
+  },
+  "QTR24E": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-21T18:15:29.893871Z"
+  },
+  "RYR5074": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T18:15:29.893871Z"
   }
 }
