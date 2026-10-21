@@ -284,7 +284,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T15:35:25.737248Z"
+    "checked_at": "2026-10-21T16:20:35.353852Z"
   },
   "THY3ZA": {
     "route": {
@@ -362,17 +362,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-21T15:50:32.079061Z"
-  },
-  "FIN9YA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-19T16:20:31.973478Z"
   },
   "LOT5PX": {
     "route": {
@@ -2730,7 +2719,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-20T12:10:33.540979Z"
+    "checked_at": "2026-10-21T16:20:35.353852Z"
   },
   "EWG9SK": {
     "route": {
@@ -3773,7 +3762,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-20T16:05:25.833253Z"
+    "checked_at": "2026-10-21T16:20:35.353852Z"
   },
   "EWG55X": {
     "route": {
@@ -6458,28 +6447,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-21T16:05:26.311058Z"
-  },
-  "SAS7743": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Ioannina",
-      "toIata": "IOA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T16:20:31.973478Z"
-  },
-  "RYR83CH": {
-    "route": {
-      "fromCity": "\u0141\u00f3d\u017a",
-      "fromIata": "LCJ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T16:20:31.973478Z"
   },
   "BTI8BX": {
     "route": {
@@ -12625,5 +12592,38 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-21T16:15:32.203176Z"
+  },
+  "NSZ2902": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T16:20:35.353852Z"
+  },
+  "SAS695": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T16:20:35.353852Z"
+  },
+  "RYR95CH": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T16:20:35.353852Z"
   }
 }
