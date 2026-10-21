@@ -4263,17 +4263,6 @@
     },
     "checked_at": "2026-10-19T11:45:31.386519Z"
   },
-  "DLH4EK": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T04:45:28.400608Z"
-  },
   "EJU41DH": {
     "route": {
       "fromCity": "Milan",
@@ -4750,17 +4739,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-19T05:25:22.389901Z"
-  },
-  "KLM64F": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-19T04:45:28.400608Z"
   },
   "EZS91HE": {
     "route": {
@@ -13011,5 +12989,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-21T04:35:23.278677Z"
+  },
+  "EJU8624": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T04:45:29.522426Z"
+  },
+  "WZZ463H": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Liverpool",
+      "toIata": "LPL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-21T04:45:29.522426Z"
   }
 }
