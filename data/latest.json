@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EWG4EH",
+      "country": "Germany",
+      "lat": 52.3482,
+      "lon": 13.4801,
+      "altKm": 0.1,
+      "speedKmh": 106,
+      "heading": 70,
+      "vertRateMs": 0,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR39DH",
       "country": "Malta",
-      "lat": 52.503,
-      "lon": 13.639,
-      "altKm": 2.6,
-      "speedKmh": 457,
-      "heading": 303,
-      "vertRateMs": 12.7,
+      "lat": 52.3643,
+      "lon": 12.9942,
+      "altKm": 5.7,
+      "speedKmh": 696,
+      "heading": 248,
+      "vertRateMs": 12.0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Berlin",
@@ -16,7 +33,20 @@
       "toCity": "Madrid",
       "toIata": "MAD",
       "category": "plane"
+    },
+    {
+      "callsign": "EWG7WB",
+      "country": "Germany",
+      "lat": 52.255,
+      "lon": 13.3769,
+      "altKm": 2.4,
+      "speedKmh": 503,
+      "heading": 245,
+      "vertRateMs": 17.2,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-21T04:00:53.717822Z"
+  "updated_at": "2026-10-21T04:05:23.442985Z"
 }
