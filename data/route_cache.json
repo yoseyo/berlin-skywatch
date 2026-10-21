@@ -871,7 +871,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-20T20:30:43.675731Z"
+    "checked_at": "2026-10-21T20:10:31.278209Z"
   },
   "DLH4T": {
     "route": {
@@ -2844,7 +2844,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-20T20:20:32.638741Z"
+    "checked_at": "2026-10-21T20:10:31.278209Z"
   },
   "AUA991D": {
     "route": {
@@ -4370,17 +4370,6 @@
     },
     "checked_at": "2026-10-21T09:35:24.756835Z"
   },
-  "SAS67M": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T20:05:24.284946Z"
-  },
   "THY8TV": {
     "route": {
       "fromCity": "Tehran",
@@ -4857,17 +4846,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-21T08:00:52.103928Z"
-  },
-  "BTI4XH": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-19T20:05:24.284946Z"
   },
   "SAS2677": {
     "route": {
@@ -6656,7 +6634,7 @@
       "airlineName": "Swiftair",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-20T20:25:24.601659Z"
+    "checked_at": "2026-10-21T20:10:31.278209Z"
   },
   "DLH8FT": {
     "route": {
@@ -12753,5 +12731,16 @@
   "AOM332M": {
     "route": null,
     "checked_at": "2026-10-21T20:00:54.273498Z"
+  },
+  "EJU37BL": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T20:10:31.278209Z"
   }
 }
