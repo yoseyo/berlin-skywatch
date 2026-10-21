@@ -4153,17 +4153,6 @@
     },
     "checked_at": "2026-10-19T13:10:33.349733Z"
   },
-  "EJU12AH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T11:45:31.386519Z"
-  },
   "EJU41DH": {
     "route": {
       "fromCity": "Milan",
@@ -4962,7 +4951,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-20T11:45:30.503430Z"
+    "checked_at": "2026-10-21T11:50:30.331057Z"
   },
   "KLM84H": {
     "route": {
@@ -12838,5 +12827,60 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-21T11:40:31.797584Z"
+  },
+  "NOZ6RE": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-21T11:50:30.331057Z"
+  },
+  "THY1JU": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-21T11:50:30.331057Z"
+  },
+  "RJA291": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "Dallas-Fort Worth",
+      "toIata": "DFW",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-10-21T11:50:30.331057Z"
+  },
+  "TVS4389": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "C\u00f3rdoba",
+      "toIata": "ODB",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-21T11:50:30.331057Z"
+  },
+  "CKK215": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-21T11:50:30.331057Z"
   }
 }
