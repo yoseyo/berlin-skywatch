@@ -1157,7 +1157,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-20T05:35:22.477080Z"
+    "checked_at": "2026-10-21T05:30:41.978808Z"
   },
   "QTR29X": {
     "route": {
@@ -1168,7 +1168,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-20T05:35:22.477080Z"
+    "checked_at": "2026-10-21T05:30:41.978808Z"
   },
   "DLH172": {
     "route": {
@@ -1179,7 +1179,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T05:35:22.477080Z"
+    "checked_at": "2026-10-21T05:30:41.978808Z"
   },
   "SWR5XL": {
     "route": {
@@ -3931,7 +3931,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T11:00:57.984932Z"
+    "checked_at": "2026-10-21T05:30:41.978808Z"
   },
   "SAS1680": {
     "route": {
@@ -4707,17 +4707,6 @@
     },
     "checked_at": "2026-10-20T16:05:25.833253Z"
   },
-  "WZZ6072": {
-    "route": {
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-19T05:25:22.389901Z"
-  },
   "EZS91HE": {
     "route": {
       "fromCity": "B\u00e2le/Mulhouse",
@@ -5109,7 +5098,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-20T05:50:30.981449Z"
+    "checked_at": "2026-10-21T05:30:41.978808Z"
   },
   "NSZ5NE": {
     "route": {
@@ -6105,7 +6094,7 @@
   },
   "EJU5087": {
     "route": null,
-    "checked_at": "2026-10-20T04:25:23.471495Z"
+    "checked_at": "2026-10-21T05:30:41.978808Z"
   },
   "EWG6RY": {
     "route": {
@@ -6408,17 +6397,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-21T05:25:22.306841Z"
-  },
-  "BTI7PY": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-19T05:25:22.389901Z"
   },
   "WZZ629": {
     "route": {
@@ -12948,5 +12926,38 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-21T05:25:22.306841Z"
+  },
+  "EJU12HB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T05:30:41.978808Z"
+  },
+  "DLH893": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T05:30:41.978808Z"
+  },
+  "DLH4RL": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T05:30:41.978808Z"
   }
 }
