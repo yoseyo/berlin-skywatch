@@ -251,7 +251,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-20T16:40:32.939637Z"
+    "checked_at": "2026-10-21T15:30:48.057100Z"
   },
   "TVF77EX": {
     "route": {
@@ -273,7 +273,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-20T15:30:45.091722Z"
+    "checked_at": "2026-10-21T15:30:48.057100Z"
   },
   "LHX194": {
     "route": {
@@ -4153,17 +4153,6 @@
     },
     "checked_at": "2026-10-21T09:50:31.190543Z"
   },
-  "EJU83GC": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T15:30:44.301331Z"
-  },
   "LOT2LP": {
     "route": {
       "fromCity": "Brussels",
@@ -4556,17 +4545,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T04:50:29.703252Z"
-  },
-  "EWG2WY": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Funchal",
-      "toIata": "FNC",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T15:25:25.910318Z"
   },
   "EWG41W": {
     "route": {
@@ -5323,7 +5301,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-20T15:30:45.091722Z"
+    "checked_at": "2026-10-21T15:30:48.057100Z"
   },
   "CAI8191": {
     "route": {
@@ -5552,17 +5530,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-19T20:55:25.236830Z"
-  },
-  "BBG271": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-19T15:30:44.301331Z"
   },
   "EZY27LF": {
     "route": {
@@ -6487,17 +6454,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T21:10:31.348348Z"
-  },
-  "WZZ317": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-19T15:30:44.301331Z"
   },
   "RYR98AR": {
     "route": {
@@ -12762,5 +12718,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T15:15:32.427710Z"
+  },
+  "SAS80D": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T15:30:48.057100Z"
   }
 }
