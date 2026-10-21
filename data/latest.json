@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "CSN467",
+      "country": "China",
+      "lat": 52.7289,
+      "lon": 13.4904,
+      "altKm": 11.2,
+      "speedKmh": 751,
+      "heading": 251,
+      "vertRateMs": 0,
+      "airline": "China Southern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
       "callsign": "BCS9CG",
       "country": "Ireland",
-      "lat": 52.2974,
-      "lon": 12.915,
-      "altKm": 8.5,
-      "speedKmh": 920,
-      "heading": 21,
-      "vertRateMs": 5.2,
+      "lat": 52.8831,
+      "lon": 13.2933,
+      "altKm": 10.3,
+      "speedKmh": 936,
+      "heading": 22,
+      "vertRateMs": -0.3,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-21T03:00:54.942575Z"
+  "updated_at": "2026-10-21T03:05:25.547021Z"
 }
