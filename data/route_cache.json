@@ -2125,7 +2125,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-20T12:05:24.988485Z"
+    "checked_at": "2026-10-21T12:45:31.111708Z"
   },
   "DLH2NE": {
     "route": {
@@ -6479,17 +6479,6 @@
     "route": null,
     "checked_at": "2026-10-20T06:00:50.928451Z"
   },
-  "PGT5050": {
-    "route": {
-      "fromCity": "Aarhus",
-      "fromIata": "AAR",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T12:45:29.807730Z"
-  },
   "DLH882": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6500,17 +6489,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-20T12:40:36.757585Z"
-  },
-  "RYR12AV": {
-    "route": {
-      "fromCity": "Trieste",
-      "fromIata": "TRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T12:45:29.807730Z"
   },
   "FLW516": {
     "route": null,
@@ -12913,5 +12891,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-21T12:40:33.362255Z"
+  },
+  "CES5014": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Xi'an",
+      "toIata": "XIY",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-21T12:45:31.111708Z"
   }
 }
