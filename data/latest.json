@@ -1,13 +1,47 @@
 {
   "flights": [
     {
+      "callsign": "NSZ2903",
+      "country": "Sweden",
+      "lat": 52.1206,
+      "lon": 13.9388,
+      "altKm": 11.1,
+      "speedKmh": 937,
+      "heading": 19,
+      "vertRateMs": 0.3,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG67A",
+      "country": "Germany",
+      "lat": 52.5609,
+      "lon": 13.3674,
+      "altKm": 3.3,
+      "speedKmh": 534,
+      "heading": 93,
+      "vertRateMs": -16.3,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR6908",
       "country": "Ireland",
-      "lat": 52.7474,
-      "lon": 13.8456,
-      "altKm": 11.8,
-      "speedKmh": 860,
-      "heading": 276,
+      "lat": 52.8046,
+      "lon": 12.8396,
+      "altKm": 11.7,
+      "speedKmh": 833,
+      "heading": 275,
       "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
@@ -18,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-21T21:40:31.640691Z"
+  "updated_at": "2026-10-21T21:45:29.177705Z"
 }

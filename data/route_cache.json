@@ -6574,10 +6574,6 @@
     },
     "checked_at": "2026-10-21T21:10:32.200236Z"
   },
-  "SDR21RP": {
-    "route": null,
-    "checked_at": "2026-10-19T21:40:34.246339Z"
-  },
   "JTD244": {
     "route": {
       "fromCity": "Preveza/Lefkada",
@@ -12716,5 +12712,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T21:40:31.640691Z"
+  },
+  "NSZ2903": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T21:45:29.177705Z"
   }
 }
