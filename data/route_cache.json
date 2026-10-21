@@ -5318,7 +5318,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-20T09:40:31.862611Z"
+    "checked_at": "2026-10-21T09:30:43.735554Z"
   },
   "BAW87AM": {
     "route": {
@@ -6440,17 +6440,6 @@
     },
     "checked_at": "2026-10-20T09:20:31.624394Z"
   },
-  "LZB319": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Bulgaria Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-19T09:25:25.153410Z"
-  },
   "DLH890": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6472,10 +6461,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-21T09:25:23.865948Z"
-  },
-  "AJD13AX": {
-    "route": null,
-    "checked_at": "2026-10-19T09:25:25.153410Z"
   },
   "WZZ1628": {
     "route": {
@@ -12749,5 +12734,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-21T09:25:23.865948Z"
+  },
+  "EJU94QK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T09:30:43.735554Z"
+  },
+  "SDR20KE": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T09:30:43.735554Z"
+  },
+  "SDR14YL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T09:30:43.735554Z"
   }
 }
