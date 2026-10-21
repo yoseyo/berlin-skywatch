@@ -2910,7 +2910,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T16:25:25.852076Z"
+    "checked_at": "2026-10-21T18:55:24.029783Z"
   },
   "AFR17RZ": {
     "route": null,
@@ -3083,7 +3083,7 @@
   },
   "EJU32RT": {
     "route": null,
-    "checked_at": "2026-10-20T21:20:33.073118Z"
+    "checked_at": "2026-10-21T18:55:24.029783Z"
   },
   "KLM67B": {
     "route": {
@@ -3241,7 +3241,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-20T18:50:32.176604Z"
+    "checked_at": "2026-10-21T18:55:24.029783Z"
   },
   "EWG7ED": {
     "route": {
@@ -5373,17 +5373,6 @@
     },
     "checked_at": "2026-10-21T18:50:30.990332Z"
   },
-  "THY91B": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T18:50:32.126741Z"
-  },
   "LGL74BE": {
     "route": {
       "fromCity": "Berlin",
@@ -6528,21 +6517,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-20T19:35:25.773757Z"
-  },
-  "CAT9746": {
-    "route": null,
-    "checked_at": "2026-10-19T18:50:32.126741Z"
-  },
-  "EZS1589": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-19T18:50:32.126741Z"
   },
   "GAF622": {
     "route": null,
@@ -12746,5 +12720,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-21T18:50:30.990332Z"
+  },
+  "FIN50J": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-21T18:55:24.029783Z"
+  },
+  "KLM9936": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-21T18:55:24.029783Z"
   }
 }
