@@ -207,7 +207,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-20T14:30:46.321013Z"
+    "checked_at": "2026-10-21T14:15:35.068361Z"
   },
   "EJU81FH": {
     "route": {
@@ -6568,28 +6568,6 @@
     },
     "checked_at": "2026-10-21T09:45:31.738493Z"
   },
-  "BTI629": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-19T14:15:31.995060Z"
-  },
-  "RYR19ZZ": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T14:15:31.995060Z"
-  },
   "GAC723Z": {
     "route": null,
     "checked_at": "2026-10-19T14:20:33.860972Z"
@@ -9651,7 +9629,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T14:15:36.067324Z"
+    "checked_at": "2026-10-21T14:15:35.068361Z"
   },
   "VOE9CC": {
     "route": {
@@ -12866,5 +12844,27 @@
   "SPNCC": {
     "route": null,
     "checked_at": "2026-10-21T14:05:27.831886Z"
+  },
+  "THY5": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-21T14:15:35.068361Z"
+  },
+  "NSZ3299": {
+    "route": {
+      "fromCity": "Sarajevo",
+      "fromIata": "SJJ",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T14:15:35.068361Z"
   }
 }
