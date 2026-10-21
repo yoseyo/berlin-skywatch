@@ -89,7 +89,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-20T14:20:37.962396Z"
+    "checked_at": "2026-10-21T14:25:26.016529Z"
   },
   "RYR1SM": {
     "route": {
@@ -1245,7 +1245,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T06:05:23.013828Z"
+    "checked_at": "2026-10-21T14:25:26.016529Z"
   },
   "EWG6NT": {
     "route": {
@@ -2899,7 +2899,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-20T14:10:51.802808Z"
+    "checked_at": "2026-10-21T14:25:26.016529Z"
   },
   "RYR67ZT": {
     "route": {
@@ -4590,17 +4590,6 @@
     },
     "checked_at": "2026-10-21T11:10:31.466398Z"
   },
-  "RJA138": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Amman",
-      "toIata": "AMM",
-      "airlineName": "Royal Jordanian",
-      "airlineCountry": "Jordan"
-    },
-    "checked_at": "2026-10-19T14:25:25.955783Z"
-  },
   "RYR28LA": {
     "route": {
       "fromCity": "Kerkyra Island",
@@ -5401,17 +5390,6 @@
   "DMYHG": {
     "route": null,
     "checked_at": "2026-10-20T10:15:31.610501Z"
-  },
-  "BEL5XD": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-19T14:25:25.955783Z"
   },
   "NOZ8BE": {
     "route": {
@@ -12869,5 +12847,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T14:20:35.148086Z"
+  },
+  "EJU46EK": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T14:25:26.016529Z"
+  },
+  "RYR17PM": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T14:25:26.016529Z"
+  },
+  "SDR96JF": {
+    "route": {
+      "fromCity": "Dresden",
+      "fromIata": "DRS",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-21T14:25:26.016529Z"
   }
 }
