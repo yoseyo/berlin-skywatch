@@ -3593,7 +3593,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T10:20:33.380608Z"
+    "checked_at": "2026-10-21T10:15:34.579017Z"
   },
   "SAS661": {
     "route": {
@@ -4019,7 +4019,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-20T09:30:41.310147Z"
+    "checked_at": "2026-10-21T10:15:34.579017Z"
   },
   "DLH1YY": {
     "route": {
@@ -4262,17 +4262,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-20T09:45:31.239354Z"
-  },
-  "EJU5027": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T10:10:34.879499Z"
   },
   "EJU94YN": {
     "route": {
@@ -4678,17 +4667,6 @@
     },
     "checked_at": "2026-10-20T11:40:32.286447Z"
   },
-  "THY3350": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Van",
-      "toIata": "VAN",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T10:15:34.248451Z"
-  },
   "EJU98TC": {
     "route": {
       "fromCity": "Catania",
@@ -4820,17 +4798,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-19T15:00:56.643206Z"
-  },
-  "RYR7RJ": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T10:15:34.248451Z"
   },
   "RYR37YC": {
     "route": {
@@ -6482,60 +6449,15 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-20T11:15:29.786056Z"
+    "checked_at": "2026-10-21T10:15:34.579017Z"
   },
   "WUK1356": {
     "route": null,
     "checked_at": "2026-10-21T10:05:23.741941Z"
   },
-  "CAT744": {
-    "route": null,
-    "checked_at": "2026-10-19T10:10:34.879499Z"
-  },
-  "ETH3883": {
-    "route": null,
-    "checked_at": "2026-10-19T10:15:34.248451Z"
-  },
-  "CFG2FR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T10:15:34.248451Z"
-  },
-  "DEICO": {
-    "route": null,
-    "checked_at": "2026-10-19T10:15:34.248451Z"
-  },
   "DCS603": {
     "route": null,
     "checked_at": "2026-10-20T07:00:51.618140Z"
-  },
-  "RYR89XK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marrakech",
-      "toIata": "RAK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T10:15:34.248451Z"
-  },
-  "EWG20W": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T10:15:34.248451Z"
   },
   "UBD445": {
     "route": {
@@ -12805,5 +12727,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T10:10:33.554099Z"
+  },
+  "DGACR": {
+    "route": null,
+    "checked_at": "2026-10-21T10:15:34.579017Z"
+  },
+  "SXS9PL": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-21T10:15:34.579017Z"
   }
 }
