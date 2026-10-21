@@ -394,7 +394,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-20T16:30:43.240121Z"
+    "checked_at": "2026-10-21T17:05:25.445319Z"
   },
   "PGT49PK": {
     "route": {
@@ -552,7 +552,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-20T17:30:41.994574Z"
+    "checked_at": "2026-10-21T17:05:25.445319Z"
   },
   "LOT3KT": {
     "route": {
@@ -3197,7 +3197,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-20T18:05:24.800064Z"
+    "checked_at": "2026-10-21T17:05:25.445319Z"
   },
   "EWG45B": {
     "route": {
@@ -5325,17 +5325,6 @@
     },
     "checked_at": "2026-10-21T14:30:45.609682Z"
   },
-  "UAE61": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-19T17:00:59.856620Z"
-  },
   "AUA234G": {
     "route": {
       "fromCity": "Berlin",
@@ -5346,17 +5335,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-21T16:40:33.528322Z"
-  },
-  "EJU92MK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T17:00:59.856620Z"
   },
   "CFE7026": {
     "route": {
@@ -12646,5 +12624,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T17:00:56.401313Z"
+  },
+  "THY54D": {
+    "route": {
+      "fromCity": "Bremen",
+      "fromIata": "BRE",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-21T17:05:25.445319Z"
   }
 }
