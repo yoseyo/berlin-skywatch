@@ -706,7 +706,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-20T19:00:54.605526Z"
+    "checked_at": "2026-10-21T19:30:44.059337Z"
   },
   "AEE82B": {
     "route": {
@@ -772,7 +772,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T19:25:25.266124Z"
+    "checked_at": "2026-10-21T19:30:44.059337Z"
   },
   "RYR3RD": {
     "route": {
@@ -5360,7 +5360,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-20T19:20:31.265238Z"
+    "checked_at": "2026-10-21T19:30:44.059337Z"
   },
   "EJU15BJ": {
     "route": {
@@ -6517,28 +6517,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-20T19:20:31.265238Z"
-  },
-  "CFG2EJ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T19:30:43.039628Z"
-  },
-  "LOT1KE": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-19T19:30:43.039628Z"
   },
   "EJU57LY": {
     "route": {
@@ -7708,7 +7686,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T08:30:41.643443Z"
+    "checked_at": "2026-10-21T19:30:44.059337Z"
   },
   "NSZ82ME": {
     "route": {
@@ -12738,5 +12716,27 @@
       "airlineCountry": "Georgia"
     },
     "checked_at": "2026-10-21T19:25:27.223828Z"
+  },
+  "EJU5018": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T19:30:44.059337Z"
+  },
+  "CFG1CD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T19:30:44.059337Z"
   }
 }
