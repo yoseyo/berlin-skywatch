@@ -231,17 +231,6 @@
     },
     "checked_at": "2026-10-20T15:30:45.091722Z"
   },
-  "FIN79T": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-19T14:50:35.270969Z"
-  },
   "PGT978": {
     "route": {
       "fromCity": "Berlin",
@@ -4197,17 +4186,6 @@
     },
     "checked_at": "2026-10-19T21:25:23.763897Z"
   },
-  "SXS2WP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T14:50:35.270969Z"
-  },
   "WMT2GJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -4600,17 +4578,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T04:50:29.703252Z"
-  },
-  "THY9QR": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Bremen",
-      "toIata": "BRE",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T14:50:35.270969Z"
   },
   "EWG2WY": {
     "route": {
@@ -6564,50 +6531,6 @@
   "EFD5D": {
     "route": null,
     "checked_at": "2026-10-20T06:35:24.237213Z"
-  },
-  "DIMTP": {
-    "route": {
-      "fromCity": "M\u00f6nchengladbach",
-      "fromIata": "MGL",
-      "toCity": "M\u00f6nchengladbach",
-      "toIata": "MGL",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-19T14:50:35.270969Z"
-  },
-  "JTD9305": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-19T14:50:35.270969Z"
-  },
-  "DLH4RK": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T14:50:35.270969Z"
-  },
-  "TVS4463": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Bilbao",
-      "toIata": "BIO",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-19T14:50:35.270969Z"
   },
   "DMVVL": {
     "route": null,
@@ -9785,7 +9708,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-20T15:20:36.767549Z"
+    "checked_at": "2026-10-21T14:55:22.901993Z"
   },
   "BRJ502": {
     "route": null,
@@ -12847,5 +12770,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T14:50:30.094509Z"
+  },
+  "RYR9TY": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T14:55:22.901993Z"
   }
 }
