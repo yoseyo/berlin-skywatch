@@ -1278,7 +1278,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-20T06:45:29.994326Z"
+    "checked_at": "2026-10-21T06:35:24.598226Z"
   },
   "RYR98HW": {
     "route": {
@@ -3351,7 +3351,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-20T06:45:29.994326Z"
+    "checked_at": "2026-10-21T06:35:24.598226Z"
   },
   "AFR39SV": {
     "route": {
@@ -5636,17 +5636,6 @@
     },
     "checked_at": "2026-10-19T11:55:25.950069Z"
   },
-  "NOZ2WA": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-19T06:30:44.373509Z"
-  },
   "EJU47DE": {
     "route": {
       "fromCity": "Berlin",
@@ -6415,7 +6404,7 @@
   },
   "WZZ2550": {
     "route": null,
-    "checked_at": "2026-10-19T06:30:44.373509Z"
+    "checked_at": "2026-10-21T06:35:24.598226Z"
   },
   "ASL94D": {
     "route": {
@@ -12860,5 +12849,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T06:30:43.143792Z"
+  },
+  "RYR86NA": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T06:35:24.598226Z"
   }
 }
