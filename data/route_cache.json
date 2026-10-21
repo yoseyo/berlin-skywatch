@@ -6574,17 +6574,6 @@
     "route": null,
     "checked_at": "2026-10-20T14:10:51.802808Z"
   },
-  "RYR866X": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T21:05:24.660658Z"
-  },
   "NSZ7DE": {
     "route": {
       "fromCity": "Catania",
@@ -12727,5 +12716,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T20:55:24.083131Z"
+  },
+  "RYR85CE": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T21:05:26.941271Z"
+  },
+  "RYR44DW": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T21:05:26.941271Z"
   }
 }
