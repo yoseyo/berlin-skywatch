@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-20T13:25:25.068925Z"
+    "checked_at": "2026-10-21T13:25:23.998142Z"
   },
   "CHX100": {
     "route": null,
@@ -6520,17 +6520,6 @@
     },
     "checked_at": "2026-10-20T13:45:30.658922Z"
   },
-  "MGL901": {
-    "route": {
-      "fromCity": "Ulaanbaatar (Sergelen)",
-      "fromIata": "UBN",
-      "toCity": "Nur-Sultan",
-      "toIata": "NQZ",
-      "airlineName": "MIAT Mongolian Airlines",
-      "airlineCountry": "Mongolia"
-    },
-    "checked_at": "2026-10-19T13:20:35.093586Z"
-  },
   "DFSOX": {
     "route": {
       "fromCity": "Meschede",
@@ -12915,5 +12904,27 @@
   "QGA50P": {
     "route": null,
     "checked_at": "2026-10-21T13:15:32.869651Z"
+  },
+  "CFG6JH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T13:25:23.998142Z"
+  },
+  "LHX849": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T13:25:23.998142Z"
   }
 }
