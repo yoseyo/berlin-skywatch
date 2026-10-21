@@ -2213,7 +2213,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-20T12:25:24.340446Z"
+    "checked_at": "2026-10-21T12:40:33.362255Z"
   },
   "AUA29M": {
     "route": {
@@ -5344,7 +5344,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-20T12:35:26.137013Z"
+    "checked_at": "2026-10-21T12:40:33.362255Z"
   },
   "TVF97PR": {
     "route": {
@@ -6453,28 +6453,6 @@
     },
     "checked_at": "2026-10-21T12:30:51.418542Z"
   },
-  "LHX849": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-19T12:35:25.840751Z"
-  },
-  "TVS4462": {
-    "route": {
-      "fromCity": "Abu Dhabi",
-      "fromIata": "AUH",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-19T12:35:25.840751Z"
-  },
   "RYR30RG": {
     "route": {
       "fromCity": "Banja Luka",
@@ -6485,28 +6463,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-20T08:50:31.423874Z"
-  },
-  "RYR5602": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Kaunas",
-      "toIata": "KUN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T12:40:33.158363Z"
-  },
-  "TVS4464": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-19T12:40:33.158363Z"
   },
   "LHX1HL": {
     "route": {
@@ -12935,5 +12891,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-21T12:35:24.840925Z"
+  },
+  "EWG9L": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-21T12:40:33.362255Z"
+  },
+  "CHH7938": {
+    "route": {
+      "fromCity": "Los Angeles",
+      "fromIata": "LAX",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-21T12:40:33.362255Z"
   }
 }
