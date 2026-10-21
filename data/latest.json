@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-21T22:15:32.898904Z"
+  "flights": [
+    {
+      "callsign": "RYR916R",
+      "country": "Ireland",
+      "lat": 52.7514,
+      "lon": 13.2722,
+      "altKm": 11.7,
+      "speedKmh": 744,
+      "heading": 196,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-21T22:20:30.694303Z"
 }
