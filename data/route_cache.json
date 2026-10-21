@@ -3079,7 +3079,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-19T07:10:34.734689Z"
+    "checked_at": "2026-10-21T07:15:34.715334Z"
   },
   "BAW844": {
     "route": {
@@ -4032,17 +4032,6 @@
     },
     "checked_at": "2026-10-19T08:40:31.615895Z"
   },
-  "RYR13PB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-19T07:10:34.734689Z"
-  },
   "TAP53LB": {
     "route": {
       "fromCity": "Lisbon",
@@ -4426,7 +4415,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-20T14:20:37.962396Z"
+    "checked_at": "2026-10-21T07:15:34.715334Z"
   },
   "FIN4VP": {
     "route": {
@@ -5337,17 +5326,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-20T05:05:25.535449Z"
-  },
-  "EZS53CU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-19T07:10:34.734689Z"
   },
   "RYR44BG": {
     "route": {
@@ -6446,10 +6424,6 @@
     },
     "checked_at": "2026-10-21T06:00:54.946985Z"
   },
-  "HPJ281": {
-    "route": null,
-    "checked_at": "2026-10-19T07:10:34.734689Z"
-  },
   "DLH7YC": {
     "route": {
       "fromCity": "Stockholm",
@@ -6460,17 +6434,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T06:40:31.802909Z"
-  },
-  "EJU5052": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-19T07:15:30.357225Z"
   },
   "TWY989": {
     "route": null,
@@ -6901,7 +6864,7 @@
   },
   "LEJ110": {
     "route": null,
-    "checked_at": "2026-10-20T11:40:32.286447Z"
+    "checked_at": "2026-10-21T07:15:34.715334Z"
   },
   "NSZ79AY": {
     "route": {
@@ -12797,5 +12760,20 @@
   "N985EK": {
     "route": null,
     "checked_at": "2026-10-21T07:10:33.093572Z"
+  },
+  "EJU73KU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T07:15:34.715334Z"
+  },
+  "VJT408": {
+    "route": null,
+    "checked_at": "2026-10-21T07:15:34.715334Z"
   }
 }
