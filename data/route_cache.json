@@ -6574,28 +6574,6 @@
     },
     "checked_at": "2026-10-21T21:10:32.200236Z"
   },
-  "NSZ3733": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-19T21:30:43.062069Z"
-  },
-  "SXS2LD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gaziantep",
-      "toIata": "GZT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-19T21:30:43.062069Z"
-  },
   "RYR9898": {
     "route": {
       "fromCity": "Copenhagen",
@@ -12716,5 +12694,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T21:05:26.941271Z"
+  },
+  "EJU74RM": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-21T21:30:43.507967Z"
+  },
+  "RYR8201": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-21T21:30:43.507967Z"
   }
 }

@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "RYR4384",
-      "country": "Malta",
-      "lat": 52.7807,
-      "lon": 13.9909,
-      "altKm": 12.1,
-      "speedKmh": 732,
-      "heading": 172,
+      "callsign": "EJU74RM",
+      "country": "Austria",
+      "lat": 52.1352,
+      "lon": 13.8264,
+      "altKm": 3.1,
+      "speedKmh": 588,
+      "heading": 13,
+      "vertRateMs": -6.5,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR8201",
+      "country": "Poland",
+      "lat": 52.7739,
+      "lon": 13.3581,
+      "altKm": 11.4,
+      "speedKmh": 760,
+      "heading": 125,
       "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "Malm\u00f6",
-      "fromIata": "MMX",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-21T21:25:24.002620Z"
+  "updated_at": "2026-10-21T21:30:43.507967Z"
 }
