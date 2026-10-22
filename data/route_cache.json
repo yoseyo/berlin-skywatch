@@ -992,7 +992,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T04:10:30.523578Z"
+    "checked_at": "2026-10-22T05:35:23.535906Z"
   },
   "AFR84XP": {
     "route": {
@@ -1124,7 +1124,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T05:40:29.657259Z"
+    "checked_at": "2026-10-22T05:35:23.535906Z"
   },
   "NSZ8ML": {
     "route": {
@@ -1168,7 +1168,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-21T05:35:25.216392Z"
+    "checked_at": "2026-10-22T05:35:23.535906Z"
   },
   "DLH207": {
     "route": {
@@ -5436,10 +5436,6 @@
     },
     "checked_at": "2026-10-20T11:30:43.993302Z"
   },
-  "OEEKA": {
-    "route": null,
-    "checked_at": "2026-10-20T05:35:22.477080Z"
-  },
   "DMS2PV": {
     "route": {
       "fromCity": "Saarbr\u00fccken",
@@ -6618,17 +6614,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T05:05:23.777545Z"
-  },
-  "EWG6900": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T05:30:43.140913Z"
   },
   "SXS8LV": {
     "route": {
@@ -12772,5 +12757,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-22T05:30:41.003446Z"
+  },
+  "RYR938": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T05:35:23.535906Z"
   }
 }
