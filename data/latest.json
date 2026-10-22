@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-22T02:25:23.328515Z"
+  "flights": [
+    {
+      "callsign": "CCA949",
+      "country": "China",
+      "lat": 52.1488,
+      "lon": 14.0602,
+      "altKm": 11.7,
+      "speedKmh": 850,
+      "heading": 220,
+      "vertRateMs": 0,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "category": "plane"
+    },
+    {
+      "callsign": "CMB354",
+      "country": "United States",
+      "lat": 52.6942,
+      "lon": 12.8757,
+      "altKm": 10.7,
+      "speedKmh": 828,
+      "heading": 123,
+      "vertRateMs": 0,
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-22T02:30:43.133476Z"
 }
