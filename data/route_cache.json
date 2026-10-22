@@ -4039,17 +4039,6 @@
     },
     "checked_at": "2026-10-21T09:50:31.190543Z"
   },
-  "LOT2LP": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-20T09:45:31.239354Z"
-  },
   "WMT2GJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -4784,17 +4773,6 @@
     },
     "checked_at": "2026-10-20T10:55:26.050612Z"
   },
-  "EJU5060": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T09:45:31.239354Z"
-  },
   "SEH874": {
     "route": {
       "fromCity": "Athens",
@@ -4938,17 +4916,6 @@
   "DMYHG": {
     "route": null,
     "checked_at": "2026-10-20T10:15:31.610501Z"
-  },
-  "NOZ8BE": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-20T09:45:31.239354Z"
   },
   "NSZ81MQ": {
     "route": {
@@ -6572,17 +6539,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-22T09:25:25.282455Z"
-  },
-  "EJU96PC": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T09:45:31.239354Z"
   },
   "AUA55": {
     "route": {
@@ -12805,5 +12761,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T09:35:25.689513Z"
+  },
+  "EJU5052": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T09:45:31.893869Z"
+  },
+  "STLON35": {
+    "route": null,
+    "checked_at": "2026-10-22T09:45:31.893869Z"
+  },
+  "EJU5027": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T09:45:31.893869Z"
   }
 }
