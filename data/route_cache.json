@@ -1245,7 +1245,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T07:10:33.093572Z"
+    "checked_at": "2026-10-22T07:15:31.064109Z"
   },
   "LOT2CM": {
     "route": {
@@ -12778,5 +12778,16 @@
   "DMAVM": {
     "route": null,
     "checked_at": "2026-10-22T07:10:32.084988Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T07:15:31.064109Z"
   }
 }
