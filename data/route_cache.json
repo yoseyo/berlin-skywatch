@@ -460,7 +460,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T17:35:26.055175Z"
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "LHX195": {
     "route": {
@@ -3072,7 +3072,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-21T16:45:32.568535Z"
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "KLM1782": {
     "route": {
@@ -3905,7 +3905,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-21T16:55:24.000291Z"
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "NSZ3730": {
     "route": {
@@ -4075,17 +4075,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-20T19:30:45.637323Z"
-  },
-  "RYR42MY": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T16:55:25.708549Z"
   },
   "EIN33W": {
     "route": {
@@ -4993,10 +4982,6 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-22T03:20:30.332174Z"
-  },
-  "N806CH": {
-    "route": null,
-    "checked_at": "2026-10-20T16:55:25.708549Z"
   },
   "EWG4Z": {
     "route": {
@@ -6381,7 +6366,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T15:50:32.079061Z"
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "EWG7ZP": {
     "route": {
@@ -6613,7 +6598,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T17:10:32.073766Z"
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "CTN4409": {
     "route": {
@@ -9562,7 +9547,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T16:55:24.000291Z"
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "EJU96ND": {
     "route": {
@@ -9676,7 +9661,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T17:10:32.073766Z"
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "CXI35YA": {
     "route": {
@@ -12685,5 +12670,38 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-22T16:55:25.016963Z"
+  },
+  "SWR948D": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-22T17:00:57.851587Z"
+  },
+  "SXS6SQ": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-22T17:00:57.851587Z"
+  },
+  "EWG86H": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T17:00:57.851587Z"
   }
 }
