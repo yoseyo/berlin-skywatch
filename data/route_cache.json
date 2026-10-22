@@ -78,7 +78,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-21T14:05:27.831886Z"
+    "checked_at": "2026-10-22T14:00:59.651922Z"
   },
   "NSZ3302": {
     "route": {
@@ -111,7 +111,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T14:05:27.831886Z"
+    "checked_at": "2026-10-22T14:00:59.651922Z"
   },
   "RYR96EU": {
     "route": {
@@ -137,7 +137,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-21T14:20:35.148086Z"
+    "checked_at": "2026-10-22T14:00:59.651922Z"
   },
   "LOT279": {
     "route": {
@@ -12685,5 +12685,27 @@
   "DMOCP": {
     "route": null,
     "checked_at": "2026-10-22T13:55:25.495044Z"
+  },
+  "CCA935": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-22T14:00:59.651922Z"
+  },
+  "KLM49N": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-22T14:00:59.651922Z"
   }
 }
