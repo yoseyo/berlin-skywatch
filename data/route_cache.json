@@ -1080,7 +1080,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-21T05:10:31.482364Z"
+    "checked_at": "2026-10-22T05:10:30.801090Z"
   },
   "AUA240": {
     "route": {
@@ -4718,17 +4718,6 @@
     },
     "checked_at": "2026-10-21T06:25:23.790412Z"
   },
-  "EJU43RL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Olbia (SS)",
-      "toIata": "OLB",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T05:05:25.535449Z"
-  },
   "RYR44BG": {
     "route": {
       "fromCity": "Berlin",
@@ -5995,17 +5984,6 @@
     "route": null,
     "checked_at": "2026-10-20T14:30:46.321013Z"
   },
-  "EWG3TF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T05:05:25.535449Z"
-  },
   "CCA966": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6621,28 +6599,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-22T04:40:31.824826Z"
-  },
-  "BCY041P": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "airlineName": "CityJet",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T05:05:25.535449Z"
-  },
-  "DLH6VT": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T05:05:25.535449Z"
   },
   "WMT7615": {
     "route": null,
@@ -9501,7 +9457,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-21T05:05:23.777545Z"
+    "checked_at": "2026-10-22T05:10:30.801090Z"
   },
   "PGT1617": {
     "route": null,
@@ -12779,5 +12735,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-22T05:05:23.173825Z"
+  },
+  "QTR85Y": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-22T05:10:30.801090Z"
+  },
+  "LHX853": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T05:10:30.801090Z"
   }
 }
