@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-22T23:15:34.000300Z"
+  "flights": [
+    {
+      "callsign": "RYR83CH",
+      "country": "Ireland",
+      "lat": 52.571,
+      "lon": 13.166,
+      "altKm": 11.0,
+      "speedKmh": 763,
+      "heading": 279,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "\u0141\u00f3d\u017a",
+      "fromIata": "LCJ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-22T23:20:33.837376Z"
 }
