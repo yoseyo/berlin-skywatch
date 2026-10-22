@@ -6522,17 +6522,6 @@
     },
     "checked_at": "2026-10-22T19:50:33.928153Z"
   },
-  "NSZ3353": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-20T21:30:41.466654Z"
-  },
   "SAS2820": {
     "route": {
       "fromCity": "Souda",
@@ -12921,5 +12910,16 @@
   "KLJ7230": {
     "route": null,
     "checked_at": "2026-10-22T21:25:23.705438Z"
+  },
+  "NSZ3733": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T21:30:45.239058Z"
   }
 }
