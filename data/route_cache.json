@@ -5233,17 +5233,6 @@
     },
     "checked_at": "2026-10-22T13:01:04.481346Z"
   },
-  "RYR924": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T21:35:23.375425Z"
-  },
   "CFE34E": {
     "route": {
       "fromCity": "Berlin",
@@ -6521,17 +6510,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T19:50:33.928153Z"
-  },
-  "SAS2820": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-20T21:35:23.375425Z"
   },
   "EJU17CG": {
     "route": {
@@ -12921,5 +12899,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-22T21:30:45.239058Z"
+  },
+  "RYR28HY": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T21:35:24.255167Z"
   }
 }
