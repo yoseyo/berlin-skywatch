@@ -794,7 +794,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T20:25:27.022717Z"
+    "checked_at": "2026-10-22T20:10:31.520136Z"
   },
   "BEL1ZK": {
     "route": {
@@ -805,7 +805,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-21T20:15:30.134089Z"
+    "checked_at": "2026-10-22T20:10:31.520136Z"
   },
   "BAW998": {
     "route": {
@@ -12829,5 +12829,38 @@
   "N889DX": {
     "route": null,
     "checked_at": "2026-10-22T20:05:30.736093Z"
+  },
+  "WZZ262": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-22T20:10:31.520136Z"
+  },
+  "NOZ5EU": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-22T20:10:31.520136Z"
+  },
+  "UAE9964": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Jebel Ali",
+      "toIata": "DWC",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-22T20:10:31.520136Z"
   }
 }
