@@ -2037,7 +2037,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-21T11:20:32.720246Z"
+    "checked_at": "2026-10-22T11:30:47.845866Z"
   },
   "KLM26L": {
     "route": {
@@ -4243,7 +4243,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-21T11:20:32.720246Z"
+    "checked_at": "2026-10-22T11:30:47.845866Z"
   },
   "EJU98TC": {
     "route": {
@@ -4376,17 +4376,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-21T11:35:22.412455Z"
-  },
-  "AUA978": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "FIN3YX": {
     "route": {
@@ -4776,17 +4765,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-22T09:55:25.443529Z"
-  },
-  "NSZ3582": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "BEL9CK": {
     "route": {
@@ -5203,17 +5181,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T05:20:30.587599Z"
-  },
-  "EJU53YB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "DMS2PV": {
     "route": {
@@ -6476,58 +6443,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-22T10:50:33.529577Z"
-  },
-  "EJU1765": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T11:25:23.913527Z"
-  },
-  "SHADO55": {
-    "route": null,
-    "checked_at": "2026-10-20T11:25:23.913527Z"
-  },
-  "ETD3MB": {
-    "route": {
-      "fromCity": "Abu Dhabi",
-      "fromIata": "AUH",
-      "toCity": "Boston",
-      "toIata": "BOS",
-      "airlineName": "Etihad Airways",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-20T11:25:23.913527Z"
-  },
-  "NJE754L": {
-    "route": null,
-    "checked_at": "2026-10-20T11:30:43.993302Z"
-  },
-  "TKJ5KZ": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-20T11:30:43.993302Z"
-  },
-  "EJU89BR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T11:30:43.993302Z"
   },
   "RYR5VH": {
     "route": {
@@ -12728,5 +12643,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T11:25:23.843279Z"
+  },
+  "NOZ1871": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-22T11:30:47.845866Z"
   }
 }
