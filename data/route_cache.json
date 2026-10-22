@@ -662,7 +662,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T18:40:34.269284Z"
+    "checked_at": "2026-10-22T18:30:49.029227Z"
   },
   "BAW846W": {
     "route": {
@@ -2411,7 +2411,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T06:50:31.159702Z"
+    "checked_at": "2026-10-22T18:30:49.029227Z"
   },
   "KLC42X": {
     "route": {
@@ -3758,7 +3758,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T18:20:33.667283Z"
+    "checked_at": "2026-10-22T18:30:49.029227Z"
   },
   "RYR98RQ": {
     "route": {
@@ -6444,17 +6444,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T17:00:57.851587Z"
-  },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-20T18:30:42.418205Z"
   },
   "THY29M": {
     "route": {
@@ -12773,5 +12762,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-22T18:25:26.069474Z"
+  },
+  "CCA936": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-22T18:30:49.029227Z"
   }
 }
