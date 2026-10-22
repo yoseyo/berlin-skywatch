@@ -1,27 +1,44 @@
 {
   "flights": [
     {
+      "callsign": "RYR5WP",
+      "country": "Poland",
+      "lat": 52.309,
+      "lon": 12.8972,
+      "altKm": 10.7,
+      "speedKmh": 875,
+      "heading": 55,
+      "vertRateMs": -0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "category": "plane"
+    },
+    {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.5189,
-      "lon": 13.675,
-      "altKm": 0.4,
-      "speedKmh": 202,
-      "heading": 334,
-      "vertRateMs": 0,
+      "lat": 52.602,
+      "lon": 13.5763,
+      "altKm": 0.1,
+      "speedKmh": 14,
+      "heading": 220,
+      "vertRateMs": -1.6,
       "category": "heli"
     },
     {
       "callsign": "LAV155P",
       "country": "Germany",
-      "lat": 52.3999,
-      "lon": 13.8511,
-      "altKm": 1.1,
-      "speedKmh": 400,
-      "heading": 319,
-      "vertRateMs": -2.6,
+      "lat": 52.3857,
+      "lon": 13.561,
+      "altKm": 0.2,
+      "speedKmh": 212,
+      "heading": 249,
+      "vertRateMs": -3.2,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-22T21:50:32.069941Z"
+  "updated_at": "2026-10-22T21:55:24.277154Z"
 }
