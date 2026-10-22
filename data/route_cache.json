@@ -1960,7 +1960,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-21T10:50:35.323505Z"
+    "checked_at": "2026-10-22T11:00:56.622095Z"
   },
   "DLH2HH": {
     "route": {
@@ -2213,7 +2213,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T11:15:33.187333Z"
+    "checked_at": "2026-10-22T11:00:56.622095Z"
   },
   "MSC2960": {
     "route": {
@@ -2708,7 +2708,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T06:45:29.707312Z"
+    "checked_at": "2026-10-22T11:00:56.622095Z"
   },
   "EJU5088": {
     "route": null,
@@ -3590,17 +3590,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T09:05:38.588676Z"
-  },
-  "DLH8XM": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T10:55:26.050612Z"
   },
   "UAE57X": {
     "route": {
@@ -6469,10 +6458,6 @@
   "DHTMX": {
     "route": null,
     "checked_at": "2026-10-22T07:25:24.899842Z"
-  },
-  "N808FA": {
-    "route": null,
-    "checked_at": "2026-10-20T10:55:26.050612Z"
   },
   "UAE59": {
     "route": {
@@ -12725,5 +12710,27 @@
   "EWG27D": {
     "route": null,
     "checked_at": "2026-10-22T10:55:24.385435Z"
+  },
+  "VLG2WM": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-22T11:00:56.622095Z"
+  },
+  "RYR866X": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T11:00:56.622095Z"
   }
 }
