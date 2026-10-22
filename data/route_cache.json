@@ -1531,7 +1531,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T08:05:26.361999Z"
+    "checked_at": "2026-10-22T08:00:54.117029Z"
   },
   "DLH4X": {
     "route": {
@@ -1542,7 +1542,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T07:55:23.881383Z"
+    "checked_at": "2026-10-22T08:00:54.117029Z"
   },
   "DAL93": {
     "route": {
@@ -3325,7 +3325,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-21T08:15:33.310524Z"
+    "checked_at": "2026-10-22T08:00:54.117029Z"
   },
   "LOT4NC": {
     "route": {
@@ -5491,17 +5491,6 @@
     "route": null,
     "checked_at": "2026-10-20T16:35:24.493658Z"
   },
-  "EWG8ZJ": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T08:00:50.390740Z"
-  },
   "TWI423": {
     "route": null,
     "checked_at": "2026-10-20T10:45:29.733131Z"
@@ -5988,7 +5977,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T21:10:31.348348Z"
+    "checked_at": "2026-10-22T08:00:54.117029Z"
   },
   "RYR98AR": {
     "route": {
@@ -6601,10 +6590,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-22T07:10:32.084988Z"
-  },
-  "OYNDP": {
-    "route": null,
-    "checked_at": "2026-10-20T08:00:50.390740Z"
   },
   "AHY063": {
     "route": {
@@ -12848,5 +12833,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-22T07:55:24.643447Z"
+  },
+  "SDR44QJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T08:00:54.117029Z"
+  },
+  "RYR31KN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T08:00:54.117029Z"
   }
 }
