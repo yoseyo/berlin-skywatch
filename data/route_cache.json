@@ -1377,7 +1377,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-21T07:00:55.057693Z"
+    "checked_at": "2026-10-22T07:05:25.948472Z"
   },
   "RYR594F": {
     "route": {
@@ -3046,7 +3046,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T07:15:34.715334Z"
+    "checked_at": "2026-10-22T07:05:25.948472Z"
   },
   "BAW844": {
     "route": {
@@ -4037,7 +4037,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T06:40:31.802909Z"
+    "checked_at": "2026-10-22T07:05:25.948472Z"
   },
   "SAS697": {
     "route": {
@@ -5452,7 +5452,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T06:45:29.707312Z"
+    "checked_at": "2026-10-22T07:05:25.948472Z"
   },
   "ETH724": {
     "route": {
@@ -6601,17 +6601,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-22T06:35:25.417823Z"
-  },
-  "NJE659T": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-20T07:05:24.807117Z"
   },
   "FIN5R": {
     "route": {
@@ -12766,5 +12755,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T06:55:26.044215Z"
+  },
+  "DEVMA": {
+    "route": null,
+    "checked_at": "2026-10-22T07:05:25.948472Z"
+  },
+  "RYR76HU": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T07:05:25.948472Z"
   }
 }
