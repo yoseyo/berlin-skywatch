@@ -6522,17 +6522,6 @@
     },
     "checked_at": "2026-10-22T19:10:34.656514Z"
   },
-  "UAE24": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Dubai",
-      "toIata": "DXB",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-20T22:50:28.995164Z"
-  },
   "ATU100": {
     "route": null,
     "checked_at": "2026-10-22T09:30:45.836254Z"
@@ -12903,5 +12892,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T22:00:54.003436Z"
+  },
+  "WMT726": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-22T22:50:34.355504Z"
   }
 }
