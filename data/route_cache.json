@@ -1641,7 +1641,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-21T07:35:24.717066Z"
+    "checked_at": "2026-10-22T08:30:48.301770Z"
   },
   "BEL8CE": {
     "route": {
@@ -1652,7 +1652,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-21T08:30:43.607289Z"
+    "checked_at": "2026-10-22T08:30:48.301770Z"
   },
   "SAS85J": {
     "route": {
@@ -2708,7 +2708,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T08:20:32.002642Z"
+    "checked_at": "2026-10-22T08:30:48.301770Z"
   },
   "BAW992G": {
     "route": {
@@ -2888,7 +2888,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T17:30:44.941298Z"
+    "checked_at": "2026-10-22T08:30:48.301770Z"
   },
   "RYR785N": {
     "route": {
@@ -6605,39 +6605,6 @@
   "TJD801": {
     "route": null,
     "checked_at": "2026-10-21T15:00:58.954186Z"
-  },
-  "RYR37CU": {
-    "route": {
-      "fromCity": "Leeds",
-      "fromIata": "LBA",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T08:30:41.643443Z"
-  },
-  "LBT248": {
-    "route": {
-      "fromCity": "Monastir",
-      "fromIata": "MIR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-20T08:30:41.643443Z"
-  },
-  "RYR3309": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T08:30:41.643443Z"
   },
   "RYR65ZK": {
     "route": {
@@ -12843,5 +12810,20 @@
   "DEICO": {
     "route": null,
     "checked_at": "2026-10-22T08:25:24.948691Z"
+  },
+  "EJU83GC": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T08:30:48.301770Z"
+  },
+  "BPOBER": {
+    "route": null,
+    "checked_at": "2026-10-22T08:30:48.301770Z"
   }
 }
