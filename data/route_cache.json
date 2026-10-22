@@ -89,7 +89,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T14:25:26.016529Z"
+    "checked_at": "2026-10-22T14:35:25.176467Z"
   },
   "RYR1SM": {
     "route": {
@@ -207,7 +207,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-21T14:15:35.068361Z"
+    "checked_at": "2026-10-22T14:35:25.176467Z"
   },
   "EJU81FH": {
     "route": {
@@ -5525,10 +5525,6 @@
     },
     "checked_at": "2026-10-22T12:45:32.316246Z"
   },
-  "DIDKE": {
-    "route": null,
-    "checked_at": "2026-10-20T14:30:46.321013Z"
-  },
   "RYR87VA": {
     "route": {
       "fromCity": "Birmingham",
@@ -6434,28 +6430,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-21T09:55:25.196428Z"
-  },
-  "RYR90GK": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T14:30:46.321013Z"
-  },
-  "RYR93KF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Valencia",
-      "toIata": "VLC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T14:30:46.321013Z"
   },
   "SDR95HF": {
     "route": {
@@ -10361,7 +10335,7 @@
   },
   "AJO177": {
     "route": null,
-    "checked_at": "2026-10-21T18:40:34.269284Z"
+    "checked_at": "2026-10-22T14:35:25.176467Z"
   },
   "SAS696": {
     "route": {
@@ -12721,5 +12695,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-22T14:30:45.971130Z"
+  },
+  "EJU12QE": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T14:35:25.176467Z"
   }
 }
