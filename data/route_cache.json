@@ -3806,7 +3806,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T06:00:54.946985Z"
+    "checked_at": "2026-10-22T06:15:29.506812Z"
   },
   "EJU45GF": {
     "route": {
@@ -12775,5 +12775,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-22T06:05:22.988607Z"
+  },
+  "FIN6Y": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-22T06:15:29.506812Z"
+  },
+  "RYR7952": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T06:15:29.506812Z"
   }
 }
