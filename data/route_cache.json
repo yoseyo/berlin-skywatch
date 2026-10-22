@@ -849,7 +849,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T19:50:31.651795Z"
+    "checked_at": "2026-10-22T19:55:25.465605Z"
   },
   "RYR8YY": {
     "route": {
@@ -5689,17 +5689,6 @@
     },
     "checked_at": "2026-10-22T16:10:34.433434Z"
   },
-  "LHX852": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T19:50:34.629797Z"
-  },
   "AEG6911": {
     "route": null,
     "checked_at": "2026-10-21T20:40:30.508503Z"
@@ -9690,7 +9679,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T19:55:22.843765Z"
+    "checked_at": "2026-10-22T19:55:25.465605Z"
   },
   "HLF8868": {
     "route": {
@@ -12832,5 +12821,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-22T19:50:33.928153Z"
+  },
+  "SAS79E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T19:55:25.465605Z"
+  },
+  "RYR81YP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T19:55:25.465605Z"
   }
 }
