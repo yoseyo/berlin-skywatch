@@ -1355,7 +1355,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T07:10:33.093572Z"
+    "checked_at": "2026-10-22T07:20:32.636477Z"
   },
   "DLH3TR": {
     "route": {
@@ -3138,7 +3138,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-21T07:20:30.990811Z"
+    "checked_at": "2026-10-22T07:20:32.636477Z"
   },
   "LOT5NA": {
     "route": {
@@ -5512,17 +5512,6 @@
   "TWY989": {
     "route": null,
     "checked_at": "2026-10-20T16:35:24.493658Z"
-  },
-  "DFEIC": {
-    "route": {
-      "fromCity": "Vilshofen",
-      "fromIata": null,
-      "toCity": "Vilshofen",
-      "toIata": null,
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-20T07:20:30.420753Z"
   },
   "EWG8ZJ": {
     "route": {
@@ -12789,5 +12778,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T07:15:31.064109Z"
+  },
+  "AEE7CH": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-22T07:20:32.636477Z"
+  },
+  "NSZ3288": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T07:20:32.636477Z"
+  },
+  "CFG6DF": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T07:20:32.636477Z"
   }
 }
