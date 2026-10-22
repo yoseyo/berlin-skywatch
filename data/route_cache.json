@@ -5349,7 +5349,7 @@
       "airlineName": "European Air Transport",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T03:35:23.620012Z"
+    "checked_at": "2026-10-22T03:40:30.777951Z"
   },
   "BCS3612": {
     "route": {
@@ -6617,17 +6617,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-21T03:35:23.467587Z"
-  },
-  "SRN1988": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Sirair",
-      "airlineCountry": "Russia"
-    },
-    "checked_at": "2026-10-20T03:40:30.129448Z"
   },
   "CSH871": {
     "route": {
@@ -12742,5 +12731,27 @@
   "GAF877": {
     "route": null,
     "checked_at": "2026-10-22T03:35:23.428617Z"
+  },
+  "MSR995": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-22T03:40:30.777951Z"
+  },
+  "EWG9B": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T03:40:30.777951Z"
   }
 }
