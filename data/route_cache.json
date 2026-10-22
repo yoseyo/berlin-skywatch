@@ -2103,7 +2103,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T11:40:31.797584Z"
+    "checked_at": "2026-10-22T12:15:37.470613Z"
   },
   "KLC21A": {
     "route": {
@@ -2169,7 +2169,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-21T12:05:24.961144Z"
+    "checked_at": "2026-10-22T12:15:37.470613Z"
   },
   "QTR37K": {
     "route": {
@@ -2191,7 +2191,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T12:05:24.961144Z"
+    "checked_at": "2026-10-22T12:15:37.470613Z"
   },
   "EJU57RF": {
     "route": {
@@ -6476,28 +6476,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-21T07:30:45.227166Z"
-  },
-  "ETD4RL": {
-    "route": {
-      "fromCity": "Abu Dhabi",
-      "fromIata": "AUH",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "Etihad Airways",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-20T12:15:32.255176Z"
-  },
-  "RYR7547": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T12:15:32.255176Z"
   },
   "EWG2MD": {
     "route": {
@@ -12711,5 +12689,16 @@
   "OY9696": {
     "route": null,
     "checked_at": "2026-10-22T12:10:32.817637Z"
+  },
+  "BTI3TP": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-22T12:15:37.470613Z"
   }
 }
