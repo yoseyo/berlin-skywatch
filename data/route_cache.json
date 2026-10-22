@@ -1300,7 +1300,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T06:50:31.159702Z"
+    "checked_at": "2026-10-22T06:35:25.417823Z"
   },
   "RYR4WC": {
     "route": {
@@ -1333,7 +1333,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T06:29:25.403338Z"
+    "checked_at": "2026-10-22T06:35:25.417823Z"
   },
   "DLH2NL": {
     "route": {
@@ -6035,10 +6035,6 @@
     },
     "checked_at": "2026-10-20T15:55:27.157419Z"
   },
-  "EFD5D": {
-    "route": null,
-    "checked_at": "2026-10-20T06:35:24.237213Z"
-  },
   "RYR11CP": {
     "route": {
       "fromCity": "Berlin",
@@ -6668,7 +6664,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-20T07:05:24.807117Z"
+    "checked_at": "2026-10-22T06:35:25.417823Z"
   },
   "NJE659T": {
     "route": {
@@ -10369,7 +10365,7 @@
   },
   "4OMNE": {
     "route": null,
-    "checked_at": "2026-10-21T10:55:25.708432Z"
+    "checked_at": "2026-10-22T06:35:25.417823Z"
   },
   "EZY94NJ": {
     "route": {
@@ -12738,5 +12734,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-22T06:30:42.392216Z"
+  },
+  "CFG2CA": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T06:35:25.417823Z"
+  },
+  "CHG532": {
+    "route": {
+      "fromCity": "New York",
+      "fromIata": "JFK",
+      "toCity": "Li\u00e8ge",
+      "toIata": "LGG",
+      "airlineName": "AC Challenge Aero",
+      "airlineCountry": "Ukraine"
+    },
+    "checked_at": "2026-10-22T06:35:25.417823Z"
   }
 }
