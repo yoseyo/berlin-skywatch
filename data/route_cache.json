@@ -1465,7 +1465,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T07:40:30.474538Z"
+    "checked_at": "2026-10-22T07:55:24.643447Z"
   },
   "PGT28RL": {
     "route": {
@@ -1498,7 +1498,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-21T08:00:52.103928Z"
+    "checked_at": "2026-10-22T07:55:24.643447Z"
   },
   "SWR44E": {
     "route": {
@@ -1564,7 +1564,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T08:00:52.103928Z"
+    "checked_at": "2026-10-22T07:55:24.643447Z"
   },
   "EJU32JG": {
     "route": {
@@ -2576,7 +2576,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-21T08:20:32.002642Z"
+    "checked_at": "2026-10-22T07:55:24.643447Z"
   },
   "WZZ8086": {
     "route": {
@@ -6602,17 +6602,6 @@
     },
     "checked_at": "2026-10-22T07:10:32.084988Z"
   },
-  "KAL541": {
-    "route": {
-      "fromCity": "Seoul",
-      "fromIata": "ICN",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Korean Air",
-      "airlineCountry": "South Korea"
-    },
-    "checked_at": "2026-10-20T07:55:23.475429Z"
-  },
   "OYNDP": {
     "route": null,
     "checked_at": "2026-10-20T08:00:50.390740Z"
@@ -6626,7 +6615,7 @@
       "airlineName": "Azerbaijan Airlines",
       "airlineCountry": "Azerbaijan"
     },
-    "checked_at": "2026-10-20T08:00:50.390740Z"
+    "checked_at": "2026-10-22T07:55:24.643447Z"
   },
   "DCWWW": {
     "route": null,
@@ -12837,5 +12826,27 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-22T07:50:31.493849Z"
+  },
+  "TAH423": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Air Moorea",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-22T07:55:24.643447Z"
+  },
+  "BTI8ED": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-22T07:55:24.643447Z"
   }
 }
