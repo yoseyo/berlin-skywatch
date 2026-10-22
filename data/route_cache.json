@@ -1817,7 +1817,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T10:05:23.741941Z"
+    "checked_at": "2026-10-22T10:00:58.133914Z"
   },
   "KLM1775": {
     "route": {
@@ -12772,5 +12772,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-22T09:55:25.443529Z"
+  },
+  "NOZ8BE": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-22T10:00:58.133914Z"
+  },
+  "CFG8DF": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T10:00:58.133914Z"
   }
 }
