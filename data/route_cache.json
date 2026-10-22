@@ -772,7 +772,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T19:30:44.059337Z"
+    "checked_at": "2026-10-22T19:10:34.656514Z"
   },
   "RYR3RD": {
     "route": {
@@ -2811,7 +2811,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T19:10:31.804354Z"
+    "checked_at": "2026-10-22T19:10:34.656514Z"
   },
   "CCA940": {
     "route": {
@@ -2969,7 +2969,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T20:00:54.273498Z"
+    "checked_at": "2026-10-22T19:10:34.656514Z"
   },
   "LHX178": {
     "route": {
@@ -6803,7 +6803,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T22:20:31.433295Z"
+    "checked_at": "2026-10-22T19:10:34.656514Z"
   },
   "WZZ18YQ": {
     "route": {
@@ -12722,5 +12722,60 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-22T19:05:26.763002Z"
+  },
+  "NSZ3304": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T19:10:34.656514Z"
+  },
+  "WZZ4ZP": {
+    "route": {
+      "fromCity": "Tuzla",
+      "fromIata": "TZL",
+      "toCity": "Malm\u00f6",
+      "toIata": "MMX",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-22T19:10:34.656514Z"
+  },
+  "FIN78Q": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-22T19:10:34.656514Z"
+  },
+  "RYR70FL": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T19:10:34.656514Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-22T19:10:34.656514Z"
   }
 }
