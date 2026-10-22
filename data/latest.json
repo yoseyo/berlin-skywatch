@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-22T01:20:29.935500Z"
+  "flights": [
+    {
+      "callsign": "ELY025",
+      "country": "Israel",
+      "lat": 52.1507,
+      "lon": 13.0051,
+      "altKm": 11.1,
+      "speedKmh": 974,
+      "heading": 325,
+      "vertRateMs": 0,
+      "airline": "El Al Israel Airlines",
+      "airlineCountry": "Israel",
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-22T01:25:24.091237Z"
 }
