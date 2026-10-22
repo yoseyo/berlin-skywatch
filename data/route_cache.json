@@ -2378,7 +2378,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T13:10:52.115178Z"
+    "checked_at": "2026-10-22T13:20:34.680621Z"
   },
   "RYR103K": {
     "route": {
@@ -2400,7 +2400,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T13:35:24.785704Z"
+    "checked_at": "2026-10-22T13:20:34.680621Z"
   },
   "RYR7QZ": {
     "route": {
@@ -2914,7 +2914,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-21T07:05:23.683398Z"
+    "checked_at": "2026-10-22T13:20:34.680621Z"
   },
   "WZZ18DM": {
     "route": {
@@ -3982,7 +3982,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-21T04:55:23.354522Z"
+    "checked_at": "2026-10-22T13:20:34.680621Z"
   },
   "KLM49N": {
     "route": {
@@ -6465,17 +6465,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T17:20:32.008236Z"
-  },
-  "CFG3DK": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T13:20:31.475118Z"
   },
   "PSBZR": {
     "route": null,
@@ -12682,5 +12671,49 @@
       "airlineCountry": "Nepal"
     },
     "checked_at": "2026-10-22T13:15:33.391595Z"
+  },
+  "EJU59RD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T13:20:34.680621Z"
+  },
+  "NSZ4502": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T13:20:34.680621Z"
+  },
+  "NSZ3641": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T13:20:34.680621Z"
+  },
+  "EJU1923": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T13:20:34.680621Z"
   }
 }
