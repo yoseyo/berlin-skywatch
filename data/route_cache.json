@@ -3314,7 +3314,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-21T06:35:24.598226Z"
+    "checked_at": "2026-10-22T06:30:42.392216Z"
   },
   "AFR39SV": {
     "route": {
@@ -3681,7 +3681,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T07:20:30.990811Z"
+    "checked_at": "2026-10-22T06:30:42.392216Z"
   },
   "THY1LP": {
     "route": {
@@ -4464,17 +4464,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-22T05:25:23.791790Z"
-  },
-  "NSZ5NE": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-20T06:30:39.952784Z"
   },
   "BTI97T": {
     "route": {
@@ -9539,7 +9528,7 @@
   },
   "VJT408": {
     "route": null,
-    "checked_at": "2026-10-21T07:15:34.715334Z"
+    "checked_at": "2026-10-22T06:30:42.392216Z"
   },
   "CFG1XA": {
     "route": {
@@ -12727,5 +12716,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T06:15:29.506812Z"
+  },
+  "NOZ2WA": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-22T06:30:42.392216Z"
+  },
+  "DUKE60": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Constan\u0163a",
+      "toIata": "CND",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-22T06:30:42.392216Z"
   }
 }
