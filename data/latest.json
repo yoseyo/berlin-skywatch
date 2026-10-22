@@ -1,22 +1,27 @@
 {
   "flights": [
     {
-      "callsign": "WZZ671",
-      "country": "Hungary",
-      "lat": 52.48,
-      "lon": 13.7408,
-      "altKm": 11.0,
-      "speedKmh": 870,
-      "heading": 49,
+      "callsign": "PBB17",
+      "country": "Germany",
+      "lat": 52.5189,
+      "lon": 13.675,
+      "altKm": 0.4,
+      "speedKmh": 202,
+      "heading": 334,
       "vertRateMs": 0,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
+      "category": "heli"
+    },
+    {
+      "callsign": "LAV155P",
+      "country": "Germany",
+      "lat": 52.3999,
+      "lon": 13.8511,
+      "altKm": 1.1,
+      "speedKmh": 400,
+      "heading": 319,
+      "vertRateMs": -2.6,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-22T21:45:30.505130Z"
+  "updated_at": "2026-10-22T21:50:32.069941Z"
 }
