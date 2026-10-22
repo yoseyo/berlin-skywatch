@@ -5532,17 +5532,6 @@
     },
     "checked_at": "2026-10-22T08:45:31.140771Z"
   },
-  "RYR89YH": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T09:35:24.662102Z"
-  },
   "LEJ110": {
     "route": null,
     "checked_at": "2026-10-22T06:00:53.192002Z"
@@ -6583,10 +6572,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-22T09:25:25.282455Z"
-  },
-  "GAM900": {
-    "route": null,
-    "checked_at": "2026-10-20T09:35:24.662102Z"
   },
   "DMWBA": {
     "route": null,
@@ -12810,5 +12795,27 @@
   "NJE493G": {
     "route": null,
     "checked_at": "2026-10-22T09:30:45.836254Z"
+  },
+  "VJT716": {
+    "route": {
+      "fromCity": "San Jose",
+      "fromIata": "SJC",
+      "toCity": "Seoul",
+      "toIata": "GMP",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-22T09:35:25.689513Z"
+  },
+  "RYR47GB": {
+    "route": {
+      "fromCity": "Olsztyn",
+      "fromIata": "SZY",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T09:35:25.689513Z"
   }
 }
