@@ -4487,17 +4487,6 @@
     },
     "checked_at": "2026-10-21T08:40:31.458675Z"
   },
-  "EWG47Z": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T06:40:28.888684Z"
-  },
   "EJU51HZ": {
     "route": {
       "fromCity": "Berlin",
@@ -4989,10 +4978,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-21T13:45:30.503057Z"
-  },
-  "VPBLU": {
-    "route": null,
-    "checked_at": "2026-10-20T06:40:28.888684Z"
   },
   "LHX3PP": {
     "route": {
@@ -6602,17 +6587,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-22T06:00:53.192002Z"
-  },
-  "LOT5AH": {
-    "route": {
-      "fromCity": "New York",
-      "fromIata": "EWR",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-20T06:40:28.888684Z"
   },
   "THY1LZ": {
     "route": {
@@ -12767,5 +12741,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-22T06:38:09.289423Z"
+  },
+  "THY73G": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-22T06:40:31.151910Z"
+  },
+  "LOT5T": {
+    "route": null,
+    "checked_at": "2026-10-22T06:40:31.151910Z"
   }
 }
