@@ -1036,7 +1036,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-21T04:55:23.354522Z"
+    "checked_at": "2026-10-22T04:45:31.307311Z"
   },
   "DLH9CJ": {
     "route": {
@@ -2521,7 +2521,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-21T04:10:30.523578Z"
+    "checked_at": "2026-10-22T04:45:31.307311Z"
   },
   "LGL91B": {
     "route": {
@@ -6050,17 +6050,6 @@
     },
     "checked_at": "2026-10-21T10:40:34.119025Z"
   },
-  "FJO64J": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "Paros",
-      "toIata": "PAS",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-20T04:45:28.027534Z"
-  },
   "VJH373": {
     "route": null,
     "checked_at": "2026-10-20T06:50:30.558608Z"
@@ -6632,17 +6621,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-22T04:40:31.824826Z"
-  },
-  "EJU41NB": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T04:45:28.027534Z"
   },
   "WMT1ST": {
     "route": {
@@ -12768,5 +12746,16 @@
   "GAF608": {
     "route": null,
     "checked_at": "2026-10-22T04:35:22.595657Z"
+  },
+  "AUA221V": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T04:45:31.307311Z"
   }
 }
