@@ -2125,7 +2125,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T11:45:29.700682Z"
+    "checked_at": "2026-10-22T11:50:31.800648Z"
   },
   "PGT93T": {
     "route": {
@@ -3013,7 +3013,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T05:10:31.482364Z"
+    "checked_at": "2026-10-22T11:50:31.800648Z"
   },
   "LOT286": {
     "route": {
@@ -12662,5 +12662,27 @@
   "AAN141": {
     "route": null,
     "checked_at": "2026-10-22T11:45:32.113038Z"
+  },
+  "FHY1684": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-22T11:50:31.800648Z"
+  },
+  "GAF833": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-22T11:50:31.800648Z"
   }
 }
