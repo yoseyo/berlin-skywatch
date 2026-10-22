@@ -6449,17 +6449,6 @@
     },
     "checked_at": "2026-10-22T05:40:30.940848Z"
   },
-  "SXS6PC": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-20T17:30:41.994574Z"
-  },
   "EJU95JF": {
     "route": {
       "fromCity": "Berlin",
@@ -12692,5 +12681,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T17:25:25.421981Z"
+  },
+  "AUA972": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T17:30:46.797220Z"
+  },
+  "EJU86PQ": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T17:30:46.797220Z"
+  },
+  "FJO648": {
+    "route": null,
+    "checked_at": "2026-10-22T17:30:46.797220Z"
   }
 }
