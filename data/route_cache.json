@@ -1751,7 +1751,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T09:10:32.620309Z"
+    "checked_at": "2026-10-22T09:15:31.835212Z"
   },
   "LOT266": {
     "route": {
@@ -4760,7 +4760,7 @@
       "airlineName": "El Al Israel Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-10-21T09:20:32.150627Z"
+    "checked_at": "2026-10-22T09:15:31.835212Z"
   },
   "SAS2678": {
     "route": {
@@ -12806,5 +12806,38 @@
   "TAH345": {
     "route": null,
     "checked_at": "2026-10-22T09:10:33.067391Z"
+  },
+  "EWG1SU": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T09:15:31.835212Z"
+  },
+  "WZZ54P": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-22T09:15:31.835212Z"
+  },
+  "CSN463": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-22T09:15:31.835212Z"
   }
 }
