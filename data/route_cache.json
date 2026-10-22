@@ -904,7 +904,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-21T20:25:27.022717Z"
+    "checked_at": "2026-10-22T20:30:47.755453Z"
   },
   "DLH206": {
     "route": {
@@ -5702,7 +5702,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-21T20:20:30.495885Z"
+    "checked_at": "2026-10-22T20:30:47.755453Z"
   },
   "EJU96BD": {
     "route": {
@@ -6466,21 +6466,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-22T11:20:34.759346Z"
-  },
-  "PGT1616": {
-    "route": null,
-    "checked_at": "2026-10-20T20:30:43.675731Z"
-  },
-  "SRN1987": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Sirair",
-      "airlineCountry": "Russia"
-    },
-    "checked_at": "2026-10-20T20:30:43.675731Z"
   },
   "EJU78LB": {
     "route": {
@@ -12884,5 +12869,16 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-22T20:25:25.423118Z"
+  },
+  "RYR12AV": {
+    "route": {
+      "fromCity": "Trieste",
+      "fromIata": "TRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T20:30:47.755453Z"
   }
 }
