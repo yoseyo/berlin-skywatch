@@ -717,7 +717,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-21T18:45:30.990984Z"
+    "checked_at": "2026-10-22T19:05:26.763002Z"
   },
   "NOZ9VF": {
     "route": {
@@ -750,7 +750,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T19:10:31.804354Z"
+    "checked_at": "2026-10-22T19:05:26.763002Z"
   },
   "KLC1335": {
     "route": {
@@ -2587,7 +2587,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-21T19:00:58.706746Z"
+    "checked_at": "2026-10-22T19:05:26.763002Z"
   },
   "THY87X": {
     "route": {
@@ -6455,28 +6455,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-22T10:05:26.997379Z"
-  },
-  "RAM222B": {
-    "route": {
-      "fromCity": "Casablanca",
-      "fromIata": "CMN",
-      "toCity": "Moscow",
-      "toIata": "SVO",
-      "airlineName": "Royal Air Maroc",
-      "airlineCountry": "Morocco"
-    },
-    "checked_at": "2026-10-20T19:05:23.810818Z"
-  },
-  "EJU84TJ": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T19:05:23.810818Z"
   },
   "BTI8GC": {
     "route": {
@@ -12733,5 +12711,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-22T19:00:58.305464Z"
+  },
+  "BTI6CD": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-22T19:05:26.763002Z"
   }
 }
