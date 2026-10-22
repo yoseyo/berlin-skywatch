@@ -4830,7 +4830,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-21T15:50:32.079061Z"
+    "checked_at": "2026-10-22T15:45:32.649299Z"
   },
   "CFE27PM": {
     "route": {
@@ -6467,21 +6467,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T13:35:24.785704Z"
-  },
-  "CHX49": {
-    "route": null,
-    "checked_at": "2026-10-20T15:40:34.280793Z"
-  },
-  "EJU31GQ": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T15:40:34.280793Z"
   },
   "EJU68NQ": {
     "route": {
@@ -9777,7 +9762,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T16:55:24.000291Z"
+    "checked_at": "2026-10-22T15:45:32.649299Z"
   },
   "FIN24Q": {
     "route": {
@@ -12712,5 +12697,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T15:40:33.636824Z"
+  },
+  "JNJ20V": {
+    "route": null,
+    "checked_at": "2026-10-22T15:45:32.649299Z"
+  },
+  "FIN2K": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-22T15:45:32.649299Z"
+  },
+  "RYR5XX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T15:45:32.649299Z"
   }
 }
