@@ -1597,7 +1597,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T08:35:26.931656Z"
+    "checked_at": "2026-10-22T08:40:33.846084Z"
   },
   "EZY18FP": {
     "route": {
@@ -4463,7 +4463,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T15:35:25.077061Z"
+    "checked_at": "2026-10-22T08:40:33.846084Z"
   },
   "FHY1282": {
     "route": {
@@ -5541,7 +5541,7 @@
   },
   "PBB17": {
     "route": null,
-    "checked_at": "2026-10-21T12:10:33.007500Z"
+    "checked_at": "2026-10-22T08:40:33.846084Z"
   },
   "CFE76JZ": {
     "route": {
@@ -6595,17 +6595,6 @@
     },
     "checked_at": "2026-10-21T19:30:44.059337Z"
   },
-  "EJU93RY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T08:40:33.092424Z"
-  },
   "PGT390G": {
     "route": {
       "fromCity": "Berlin",
@@ -6616,28 +6605,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-22T07:30:44.422747Z"
-  },
-  "CFG1FE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T08:40:33.092424Z"
-  },
-  "DLH1940": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-20T08:40:33.092424Z"
   },
   "WZZ54P": {
     "route": {
@@ -12788,5 +12755,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T08:35:26.186415Z"
+  },
+  "NSZ8925": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T08:40:33.846084Z"
   }
 }
