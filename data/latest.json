@@ -1,22 +1,50 @@
 {
   "flights": [
     {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.4333,
-      "lon": 13.7633,
-      "altKm": 1.1,
-      "speedKmh": 308,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.7251,
+      "lon": 13.6967,
+      "altKm": 11.7,
+      "speedKmh": 746,
+      "heading": 216,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    },
+    {
+      "callsign": "GAF877",
+      "country": "Germany",
+      "lat": 52.5406,
+      "lon": 13.3247,
+      "altKm": 2.3,
+      "speedKmh": 570,
+      "heading": 89,
+      "vertRateMs": -4.9,
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.271,
+      "lon": 13.9631,
+      "altKm": 2.2,
+      "speedKmh": 423,
+      "heading": 337,
+      "vertRateMs": -5.8,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-22T03:30:44.437696Z"
+  "updated_at": "2026-10-22T03:35:23.428617Z"
 }
