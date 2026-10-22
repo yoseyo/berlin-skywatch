@@ -1740,7 +1740,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T09:55:25.196428Z"
+    "checked_at": "2026-10-22T09:20:33.906818Z"
   },
   "AUA226K": {
     "route": {
@@ -5558,17 +5558,6 @@
     "route": null,
     "checked_at": "2026-10-22T06:00:53.192002Z"
   },
-  "NSZ3289": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-20T09:20:31.624394Z"
-  },
   "DLH890": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5734,10 +5723,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-21T12:00:57.587249Z"
-  },
-  "LUA171P": {
-    "route": null,
-    "checked_at": "2026-10-20T09:15:32.021241Z"
   },
   "DEPIB": {
     "route": null,
@@ -6598,21 +6583,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-22T09:05:38.588676Z"
-  },
-  "TKJ9PR": {
-    "route": {
-      "fromCity": "Bodrum",
-      "fromIata": "BJV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-20T09:15:32.021241Z"
-  },
-  "NJE016Q": {
-    "route": null,
-    "checked_at": "2026-10-20T09:20:31.624394Z"
   },
   "RYR7YZ": {
     "route": {
@@ -12839,5 +12809,31 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-22T09:15:31.835212Z"
+  },
+  "BTI9TZ": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-22T09:20:33.906818Z"
+  },
+  "SAH59P": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-22T09:20:33.906818Z"
+  },
+  "NJE398V": {
+    "route": null,
+    "checked_at": "2026-10-22T09:20:33.906818Z"
   }
 }
