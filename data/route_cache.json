@@ -284,7 +284,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T16:20:35.353852Z"
+    "checked_at": "2026-10-22T15:40:33.636824Z"
   },
   "THY3ZA": {
     "route": {
@@ -317,7 +317,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-20T15:45:35.061148Z"
+    "checked_at": "2026-10-22T15:40:33.636824Z"
   },
   "PGT7UZ": {
     "route": {
@@ -6468,14 +6468,6 @@
     },
     "checked_at": "2026-10-21T13:35:24.785704Z"
   },
-  "QGA01A": {
-    "route": null,
-    "checked_at": "2026-10-20T15:35:25.737248Z"
-  },
-  "NJE872M": {
-    "route": null,
-    "checked_at": "2026-10-20T15:35:25.737248Z"
-  },
   "CHX49": {
     "route": null,
     "checked_at": "2026-10-20T15:40:34.280793Z"
@@ -7645,7 +7637,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-10-21T05:35:25.216392Z"
+    "checked_at": "2026-10-22T15:40:33.636824Z"
   },
   "DICMK": {
     "route": null,
@@ -8080,7 +8072,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T08:45:29.773649Z"
+    "checked_at": "2026-10-22T15:40:33.636824Z"
   },
   "NSZ3738": {
     "route": {
@@ -12709,5 +12701,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T15:30:45.089156Z"
+  },
+  "EWG25Z": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T15:40:33.636824Z"
   }
 }
