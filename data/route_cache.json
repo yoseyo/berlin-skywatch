@@ -1322,7 +1322,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-21T06:45:29.707312Z"
+    "checked_at": "2026-10-22T06:50:33.812670Z"
   },
   "DLH174": {
     "route": {
@@ -4026,7 +4026,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T07:05:23.683398Z"
+    "checked_at": "2026-10-22T06:50:33.812670Z"
   },
   "SAS31T": {
     "route": {
@@ -5432,17 +5432,6 @@
     },
     "checked_at": "2026-10-22T06:10:31.339345Z"
   },
-  "LOT403": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-20T06:50:30.558608Z"
-  },
   "RYR4384": {
     "route": {
       "fromCity": "Malm\u00f6",
@@ -5956,10 +5945,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-21T10:40:34.119025Z"
-  },
-  "VJH373": {
-    "route": null,
-    "checked_at": "2026-10-20T06:50:30.558608Z"
   },
   "BAW988G": {
     "route": {
@@ -6599,17 +6584,6 @@
     },
     "checked_at": "2026-10-22T06:45:33.398981Z"
   },
-  "SRR901": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Star Air",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-20T06:50:30.558608Z"
-  },
   "BPO505": {
     "route": null,
     "checked_at": "2026-10-20T07:00:51.618140Z"
@@ -6623,7 +6597,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-20T07:00:51.618140Z"
+    "checked_at": "2026-10-22T06:50:33.812670Z"
   },
   "NJE025V": {
     "route": null,
@@ -12767,5 +12741,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-22T06:45:33.398981Z"
+  },
+  "CFG8JC": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T06:50:33.812670Z"
+  },
+  "RYR9846": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T06:50:33.812670Z"
   }
 }
