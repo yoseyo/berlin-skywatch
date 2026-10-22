@@ -1674,7 +1674,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-21T08:20:32.002642Z"
+    "checked_at": "2026-10-22T08:20:33.393087Z"
   },
   "RYR4TC": {
     "route": {
@@ -5504,7 +5504,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T07:50:31.094676Z"
+    "checked_at": "2026-10-22T08:20:33.393087Z"
   },
   "N650WS": {
     "route": null,
@@ -6609,25 +6609,6 @@
   "TJD801": {
     "route": null,
     "checked_at": "2026-10-21T15:00:58.954186Z"
-  },
-  "AMQ14C": {
-    "route": null,
-    "checked_at": "2026-10-20T08:20:30.163048Z"
-  },
-  "MGH261": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-20T08:20:30.163048Z"
-  },
-  "PTO3356": {
-    "route": null,
-    "checked_at": "2026-10-20T08:20:30.163048Z"
   },
   "DHC004": {
     "route": null,
@@ -12848,5 +12829,42 @@
   "N677AL": {
     "route": null,
     "checked_at": "2026-10-22T08:15:36.311983Z"
+  },
+  "AUA99J": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T08:20:33.393087Z"
+  },
+  "RYR7953": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T08:20:33.393087Z"
+  },
+  "DIALU": {
+    "route": null,
+    "checked_at": "2026-10-22T08:20:33.393087Z"
+  },
+  "RYR939": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T08:20:33.393087Z"
   }
 }
