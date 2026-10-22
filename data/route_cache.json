@@ -6511,17 +6511,6 @@
     },
     "checked_at": "2026-10-22T20:35:25.921628Z"
   },
-  "RYR8842": {
-    "route": {
-      "fromCity": "Aberdeen",
-      "fromIata": "ABZ",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T21:45:28.979857Z"
-  },
   "RYR415W": {
     "route": {
       "fromCity": "Bydgoszcz",
@@ -12888,5 +12877,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T21:35:24.255167Z"
+  },
+  "WZZ671": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-22T21:45:30.505130Z"
   }
 }
