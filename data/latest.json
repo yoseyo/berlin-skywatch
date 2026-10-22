@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-22T01:05:22.651991Z"
+  "flights": [
+    {
+      "callsign": "THY4JD",
+      "country": "Turkey",
+      "lat": 52.3973,
+      "lon": 13.1763,
+      "altKm": 10.5,
+      "speedKmh": 1006,
+      "heading": 323,
+      "vertRateMs": 0,
+      "airline": "Turkish Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Miami",
+      "toIata": "MIA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-22T01:10:31.631296Z"
 }
