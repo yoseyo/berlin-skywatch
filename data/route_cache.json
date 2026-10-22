@@ -4030,7 +4030,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-21T15:05:24.990893Z"
+    "checked_at": "2026-10-22T15:01:01.794542Z"
   },
   "KLM1316": {
     "route": {
@@ -6442,31 +6442,9 @@
     },
     "checked_at": "2026-10-22T14:40:31.174814Z"
   },
-  "BLX364": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "TUIfly Nordic",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-20T14:55:26.416385Z"
-  },
   "UAG37A": {
     "route": null,
     "checked_at": "2026-10-22T13:45:34.010526Z"
-  },
-  "THY7KG": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Detroit",
-      "toIata": "DTW",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-20T15:00:59.824323Z"
   },
   "THY95Y": {
     "route": {
@@ -7286,7 +7264,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-20T20:35:29.396879Z"
+    "checked_at": "2026-10-22T15:01:01.794542Z"
   },
   "RYR44PB": {
     "route": {
@@ -12702,5 +12680,16 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-22T14:55:26.091139Z"
+  },
+  "FIN4VP": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-22T15:01:01.794542Z"
   }
 }
