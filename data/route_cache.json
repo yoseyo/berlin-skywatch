@@ -4032,17 +4032,6 @@
     },
     "checked_at": "2026-10-22T15:01:01.794542Z"
   },
-  "KLM1316": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-20T16:20:32.807344Z"
-  },
   "EZY29HQ": {
     "route": {
       "fromCity": "Berlin",
@@ -4052,7 +4041,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-20T16:40:32.939637Z"
+    "checked_at": "2026-10-22T16:20:35.781023Z"
   },
   "SWR15V": {
     "route": {
@@ -5600,7 +5589,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T16:05:26.311058Z"
+    "checked_at": "2026-10-22T16:20:35.781023Z"
   },
   "GJW21SJ": {
     "route": null,
@@ -6463,28 +6452,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-21T18:30:46.022494Z"
-  },
-  "THY1GJ": {
-    "route": {
-      "fromCity": "Moscow",
-      "fromIata": "VKO",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-20T16:20:32.807344Z"
-  },
-  "SAS687": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-20T16:20:32.807344Z"
   },
   "NJE464T": {
     "route": null,
@@ -12733,5 +12700,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T16:10:34.433434Z"
+  },
+  "LOT3JK": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-22T16:20:35.781023Z"
+  },
+  "RYR4359": {
+    "route": {
+      "fromCity": "Lanzarote Island",
+      "fromIata": "ACE",
+      "toCity": "Beauvais",
+      "toIata": "BVA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T16:20:35.781023Z"
   }
 }
