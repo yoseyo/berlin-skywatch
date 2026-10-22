@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "SXS6JX",
+      "country": "Turkey",
+      "lat": 52.4082,
+      "lon": 13.8636,
+      "altKm": 1.5,
+      "speedKmh": 380,
+      "heading": 327,
+      "vertRateMs": -6.2,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "SWT3WZ",
       "country": "Spain",
-      "lat": 52.4498,
-      "lon": 13.8596,
-      "altKm": 1.3,
-      "speedKmh": 372,
-      "heading": 275,
-      "vertRateMs": -2.3,
+      "lat": 52.3785,
+      "lon": 13.5304,
+      "altKm": 0.1,
+      "speedKmh": 247,
+      "heading": 247,
+      "vertRateMs": -3.6,
       "airline": "Swiftair",
       "airlineCountry": "Spain",
       "fromCity": "Paris",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-22T03:55:22.783772Z"
+  "updated_at": "2026-10-22T04:00:51.962768Z"
 }
