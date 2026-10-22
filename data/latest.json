@@ -1,48 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "EJU83RT",
-      "country": "Austria",
-      "lat": 52.3113,
-      "lon": 13.398,
-      "altKm": 1.0,
-      "speedKmh": 432,
-      "heading": 229,
-      "vertRateMs": 6.8,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "category": "plane"
-    },
-    {
-      "callsign": "AFR84XP",
-      "country": "France",
-      "lat": 52.2473,
-      "lon": 13.1673,
-      "altKm": 2.9,
-      "speedKmh": 480,
-      "heading": 254,
-      "vertRateMs": 14.0,
-      "airline": "Air France",
-      "airlineCountry": "France",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "category": "plane"
-    },
-    {
       "callsign": "EJU5261",
       "country": "Austria",
-      "lat": 52.2628,
-      "lon": 13.3045,
-      "altKm": 1.9,
-      "speedKmh": 386,
-      "heading": 241,
-      "vertRateMs": 16.6,
+      "lat": 52.7225,
+      "lon": 13.1488,
+      "altKm": 5.8,
+      "speedKmh": 772,
+      "heading": 354,
+      "vertRateMs": 11.7,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -50,7 +16,24 @@
       "toCity": "Copenhagen",
       "toIata": "CPH",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR7662",
+      "country": "Poland",
+      "lat": 52.7415,
+      "lon": 12.9498,
+      "altKm": 11.0,
+      "speedKmh": 874,
+      "heading": 277,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-22T04:25:24.504636Z"
+  "updated_at": "2026-10-22T04:30:41.505594Z"
 }
