@@ -6377,7 +6377,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T18:30:46.022494Z"
+    "checked_at": "2026-10-22T17:45:34.044641Z"
   },
   "AEE512": {
     "route": {
@@ -6448,17 +6448,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-22T05:40:30.940848Z"
-  },
-  "EJU95JF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T17:45:29.329770Z"
   },
   "RYR53LP": {
     "route": {
@@ -12718,5 +12707,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T17:35:24.594564Z"
+  },
+  "DLH5PR": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T17:45:34.044641Z"
+  },
+  "EZY75YJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-22T17:45:34.044641Z"
+  },
+  "RYR87DD": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T17:45:34.044641Z"
   }
 }
