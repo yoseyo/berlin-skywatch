@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.2685,
-      "lon": 14.0577,
-      "altKm": 6.5,
-      "speedKmh": 481,
-      "heading": 65,
-      "vertRateMs": 0,
+      "callsign": "SRR6228",
+      "country": "Denmark",
+      "lat": 52.522,
+      "lon": 13.2284,
+      "altKm": 3.3,
+      "speedKmh": 605,
+      "heading": 86,
+      "vertRateMs": -6.8,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-22T03:15:29.396450Z"
+  "updated_at": "2026-10-22T03:20:30.332174Z"
 }
