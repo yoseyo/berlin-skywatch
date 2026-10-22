@@ -1113,7 +1113,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-21T04:50:29.703252Z"
+    "checked_at": "2026-10-22T05:50:31.019951Z"
   },
   "DLH4UV": {
     "route": {
@@ -1190,7 +1190,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T06:00:54.946985Z"
+    "checked_at": "2026-10-22T05:50:31.019951Z"
   },
   "AUA223B": {
     "route": {
@@ -4287,7 +4287,7 @@
   },
   "CFG553": {
     "route": null,
-    "checked_at": "2026-10-21T05:45:28.659177Z"
+    "checked_at": "2026-10-22T05:50:31.019951Z"
   },
   "SAS44A": {
     "route": {
@@ -4853,17 +4853,6 @@
       "airlineCountry": "Azerbaijan"
     },
     "checked_at": "2026-10-20T10:00:58.296539Z"
-  },
-  "EJU59RD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-20T05:50:30.981449Z"
   },
   "BAW843": {
     "route": {
@@ -6614,17 +6603,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T05:45:29.707227Z"
-  },
-  "CKK235": {
-    "route": {
-      "fromCity": "Chongqing",
-      "fromIata": "CKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-20T05:50:30.981449Z"
   },
   "GAF623": {
     "route": null,
@@ -12746,5 +12724,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T05:45:29.707227Z"
+  },
+  "EJU37HE": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-22T05:50:31.019951Z"
+  },
+  "BTI877": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-22T05:50:31.019951Z"
   }
 }
