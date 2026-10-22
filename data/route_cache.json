@@ -251,7 +251,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-21T15:30:48.057100Z"
+    "checked_at": "2026-10-22T16:10:34.433434Z"
   },
   "TVF77EX": {
     "route": {
@@ -372,7 +372,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-21T16:00:56.853296Z"
+    "checked_at": "2026-10-22T16:10:34.433434Z"
   },
   "LOT389": {
     "route": {
@@ -4120,17 +4120,6 @@
     },
     "checked_at": "2026-10-21T20:20:30.495885Z"
   },
-  "RYR5WP": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T16:05:25.833253Z"
-  },
   "CFG553": {
     "route": null,
     "checked_at": "2026-10-22T05:50:31.019951Z"
@@ -5846,7 +5835,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T20:45:29.886128Z"
+    "checked_at": "2026-10-22T16:10:34.433434Z"
   },
   "LHX852": {
     "route": {
@@ -6463,10 +6452,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-21T15:50:32.079061Z"
-  },
-  "NJE857W": {
-    "route": null,
-    "checked_at": "2026-10-20T16:10:33.838799Z"
   },
   "EWG7ZP": {
     "route": {
@@ -12711,5 +12696,53 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-22T16:05:24.705263Z"
+  },
+  "MDT5": {
+    "route": null,
+    "checked_at": "2026-10-22T16:10:34.433434Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-22T16:10:34.433434Z"
+  },
+  "RYR57ND": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T16:10:34.433434Z"
+  },
+  "EZS1589": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-22T16:10:34.433434Z"
+  },
+  "RYR14YY": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-22T16:10:34.433434Z"
   }
 }
