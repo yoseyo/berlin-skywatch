@@ -8,7 +8,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-21T13:25:23.998142Z"
+    "checked_at": "2026-10-22T13:01:04.481346Z"
   },
   "CHX100": {
     "route": null,
@@ -34,7 +34,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T08:35:26.931656Z"
+    "checked_at": "2026-10-22T13:01:04.481346Z"
   },
   "RYR24XK": {
     "route": {
@@ -1685,7 +1685,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T13:50:31.558225Z"
+    "checked_at": "2026-10-22T13:01:04.481346Z"
   },
   "EJU87YF": {
     "route": {
@@ -2290,7 +2290,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T12:55:24.297684Z"
+    "checked_at": "2026-10-22T13:01:04.481346Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -3648,7 +3648,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-21T09:15:32.680730Z"
+    "checked_at": "2026-10-22T13:01:04.481346Z"
   },
   "AUA22S": {
     "route": {
@@ -5379,7 +5379,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T13:05:23.850356Z"
+    "checked_at": "2026-10-22T13:01:04.481346Z"
   },
   "RYR924": {
     "route": {
@@ -6455,17 +6455,6 @@
     },
     "checked_at": "2026-10-22T11:25:23.843279Z"
   },
-  "BTI2MU": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Tampere / Pirkkala",
-      "toIata": "TMP",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-20T13:00:58.609602Z"
-  },
   "RYR2JL": {
     "route": {
       "fromCity": "Cologne",
@@ -6476,39 +6465,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-21T17:20:32.008236Z"
-  },
-  "VOE1462": {
-    "route": {
-      "fromCity": "Firenze",
-      "fromIata": "FLR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Volotea",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-20T13:00:58.609602Z"
-  },
-  "RYR108X": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T13:00:58.609602Z"
-  },
-  "VJT453": {
-    "route": {
-      "fromCity": "Amman",
-      "fromIata": "AMM",
-      "toCity": "Amman",
-      "toIata": "AMM",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-20T13:00:58.609602Z"
   },
   "BPO202": {
     "route": null,
@@ -12689,5 +12645,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T12:55:23.879064Z"
+  },
+  "NSZ8YC": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T13:01:04.481346Z"
+  },
+  "GAF601": {
+    "route": null,
+    "checked_at": "2026-10-22T13:01:04.481346Z"
   }
 }
