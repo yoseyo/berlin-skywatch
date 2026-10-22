@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-22T00:50:32.412587Z"
+  "flights": [
+    {
+      "callsign": "MSR981",
+      "country": "Egypt",
+      "lat": 52.2436,
+      "lon": 12.7483,
+      "altKm": 11.1,
+      "speedKmh": 984,
+      "heading": 327,
+      "vertRateMs": -0.3,
+      "airline": "Egyptair",
+      "airlineCountry": "Egypt",
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Washington",
+      "toIata": "IAD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-22T00:55:24.644982Z"
 }
