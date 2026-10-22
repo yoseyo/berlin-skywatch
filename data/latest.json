@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-22T02:55:24.073133Z"
+  "flights": [
+    {
+      "callsign": "UPS272",
+      "country": "United States",
+      "lat": 52.2537,
+      "lon": 13.6806,
+      "altKm": 9.5,
+      "speedKmh": 815,
+      "heading": 86,
+      "vertRateMs": 0,
+      "airline": "United Parcel Service",
+      "airlineCountry": "United States",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-22T03:00:53.340212Z"
 }
