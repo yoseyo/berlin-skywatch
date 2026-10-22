@@ -5452,7 +5452,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-10-20T17:25:24.275527Z"
+    "checked_at": "2026-10-22T08:10:35.405515Z"
   },
   "DMS2HR": {
     "route": {
@@ -6609,14 +6609,6 @@
   "TJD801": {
     "route": null,
     "checked_at": "2026-10-21T15:00:58.954186Z"
-  },
-  "ABF4": {
-    "route": null,
-    "checked_at": "2026-10-20T08:10:31.539171Z"
-  },
-  "JCO3": {
-    "route": null,
-    "checked_at": "2026-10-20T08:10:31.539171Z"
   },
   "AUA99J": {
     "route": {
@@ -12863,5 +12855,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T08:05:27.373013Z"
+  },
+  "NSZ3DA": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-22T08:10:35.405515Z"
   }
 }
