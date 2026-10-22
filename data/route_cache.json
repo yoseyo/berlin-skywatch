@@ -2745,7 +2745,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-20T17:15:29.678428Z"
+    "checked_at": "2026-10-22T14:55:26.091139Z"
   },
   "EWG7RB": {
     "route": {
@@ -6145,7 +6145,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-21T09:45:31.738493Z"
+    "checked_at": "2026-10-22T14:55:26.091139Z"
   },
   "RYR7JF": {
     "route": {
@@ -6430,17 +6430,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T14:05:28.251147Z"
-  },
-  "ACA897": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-20T14:50:35.442713Z"
   },
   "THY8DE": {
     "route": {
@@ -9690,7 +9679,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T15:15:32.427710Z"
+    "checked_at": "2026-10-22T14:55:26.091139Z"
   },
   "CFG9NX": {
     "route": {
@@ -12680,5 +12669,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T14:50:33.260600Z"
+  },
+  "MGL902": {
+    "route": {
+      "fromCity": "Nur-Sultan",
+      "fromIata": "NQZ",
+      "toCity": "Ulaanbaatar (Sergelen)",
+      "toIata": "UBN",
+      "airlineName": "MIAT Mongolian Airlines",
+      "airlineCountry": "Mongolia"
+    },
+    "checked_at": "2026-10-22T14:55:26.091139Z"
+  },
+  "BTI26R": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-22T14:55:26.091139Z"
+  },
+  "BTI8QA": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-22T14:55:26.091139Z"
   }
 }
