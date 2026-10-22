@@ -1861,7 +1861,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T08:00:52.103928Z"
+    "checked_at": "2026-10-22T07:50:31.493849Z"
   },
   "DLH8N": {
     "route": {
@@ -3002,7 +3002,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T07:35:24.717066Z"
+    "checked_at": "2026-10-22T07:50:31.493849Z"
   },
   "LHX179": {
     "route": {
@@ -3270,7 +3270,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-21T07:35:24.717066Z"
+    "checked_at": "2026-10-22T07:50:31.493849Z"
   },
   "AFR65AR": {
     "route": {
@@ -3347,7 +3347,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-21T07:55:23.881383Z"
+    "checked_at": "2026-10-22T07:50:31.493849Z"
   },
   "KLM90Z": {
     "route": {
@@ -12815,5 +12815,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-22T07:45:31.770796Z"
+  },
+  "VLG2EC": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-22T07:50:31.493849Z"
+  },
+  "CTN480": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-22T07:50:31.493849Z"
   }
 }
