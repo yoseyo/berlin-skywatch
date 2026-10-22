@@ -7626,7 +7626,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T07:30:45.227166Z"
+    "checked_at": "2026-10-22T17:20:32.225012Z"
   },
   "PBB16": {
     "route": null,
@@ -12703,5 +12703,16 @@
   "FYL43AC": {
     "route": null,
     "checked_at": "2026-10-22T17:15:32.212944Z"
+  },
+  "EZS1590": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-22T17:20:32.225012Z"
   }
 }
