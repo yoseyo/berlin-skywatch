@@ -4452,7 +4452,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-21T05:00:54.856481Z"
+    "checked_at": "2026-10-22T05:00:51.892729Z"
   },
   "BTI74A": {
     "route": {
@@ -6621,28 +6621,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-22T04:40:31.824826Z"
-  },
-  "TVS258P": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-10-20T04:55:22.552140Z"
-  },
-  "RYR282D": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-20T04:55:22.552140Z"
   },
   "BCY041P": {
     "route": {
@@ -12768,5 +12746,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T04:55:22.347244Z"
+  },
+  "PGT1605": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-22T05:00:51.892729Z"
+  },
+  "EWG6KW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-22T05:00:51.892729Z"
   }
 }
