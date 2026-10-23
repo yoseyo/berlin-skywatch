@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-22T08:35:26.186415Z"
+    "checked_at": "2026-10-23T05:10:31.050658Z"
   },
   "MSC2961": {
     "route": {
@@ -1058,7 +1058,7 @@
       "airlineName": "Delta Air Lines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-22T05:20:31.191664Z"
+    "checked_at": "2026-10-23T05:10:31.050658Z"
   },
   "DLH7XV": {
     "route": {
@@ -1080,7 +1080,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-22T05:10:30.801090Z"
+    "checked_at": "2026-10-23T05:10:31.050658Z"
   },
   "AUA240": {
     "route": {
@@ -1091,7 +1091,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T05:20:31.191664Z"
+    "checked_at": "2026-10-23T05:10:31.050658Z"
   },
   "SXS75G": {
     "route": {
@@ -4955,7 +4955,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-22T05:05:23.173825Z"
+    "checked_at": "2026-10-23T05:10:31.050658Z"
   },
   "WZZ629": {
     "route": {
@@ -12944,5 +12944,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-23T05:05:24.378412Z"
+  },
+  "RYR5SC": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u00d6rebro",
+      "toIata": "ORB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T05:10:31.050658Z"
+  },
+  "DLH4EK": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T05:10:31.050658Z"
   }
 }
