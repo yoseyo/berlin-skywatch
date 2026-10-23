@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-23T01:20:30.886566Z"
+  "flights": [
+    {
+      "callsign": "ELY027",
+      "country": "Israel",
+      "lat": 52.4799,
+      "lon": 13.2352,
+      "altKm": 11.6,
+      "speedKmh": 901,
+      "heading": 331,
+      "vertRateMs": -0.3,
+      "airline": "El Al Israel Airlines",
+      "airlineCountry": "Israel",
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "category": "plane"
+    },
+    {
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.5858,
+      "lon": 13.5458,
+      "altKm": 0.5,
+      "speedKmh": 141,
+      "heading": 230,
+      "vertRateMs": 0.7,
+      "category": "heli"
+    }
+  ],
+  "updated_at": "2026-10-23T01:25:24.116969Z"
 }
