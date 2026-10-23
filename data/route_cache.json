@@ -2675,7 +2675,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T07:10:32.084988Z"
+    "checked_at": "2026-10-23T07:20:30.591666Z"
   },
   "SAS1674": {
     "route": {
@@ -3945,7 +3945,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T14:50:33.260600Z"
+    "checked_at": "2026-10-23T07:20:30.591666Z"
   },
   "CFG552": {
     "route": null,
@@ -6503,17 +6503,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-22T07:10:32.084988Z"
-  },
-  "EJU73KU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T07:15:34.715334Z"
   },
   "VJT408": {
     "route": null,
@@ -13007,5 +12996,20 @@
   "DIGOB": {
     "route": null,
     "checked_at": "2026-10-23T07:15:30.916626Z"
+  },
+  "STLON22": {
+    "route": null,
+    "checked_at": "2026-10-23T07:20:30.591666Z"
+  },
+  "FTY14": {
+    "route": {
+      "fromCity": "Innsbruck",
+      "fromIata": "INN",
+      "toCity": "Bolzano",
+      "toIata": "BZO",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-23T07:20:30.591666Z"
   }
 }
