@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-23T03:05:23.445814Z"
+  "flights": [
+    {
+      "callsign": "AEG6912",
+      "country": "Estonia",
+      "lat": 52.1606,
+      "lon": 13.6769,
+      "altKm": 7.6,
+      "speedKmh": 507,
+      "heading": 68,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS3612",
+      "country": "Bahrain",
+      "lat": 52.535,
+      "lon": 12.9902,
+      "altKm": 9.6,
+      "speedKmh": 889,
+      "heading": 31,
+      "vertRateMs": 11.4,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-23T03:10:29.775571Z"
 }
