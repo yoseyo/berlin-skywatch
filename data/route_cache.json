@@ -1718,7 +1718,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-22T08:55:26.075079Z"
+    "checked_at": "2026-10-23T12:50:30.312794Z"
   },
   "THY6EN": {
     "route": {
@@ -6632,17 +6632,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-23T10:25:25.348272Z"
-  },
-  "CES5014": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Xi'an",
-      "toIata": "XIY",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-21T12:45:31.111708Z"
   },
   "OEFML": {
     "route": null,
@@ -12963,5 +12952,16 @@
   "HEY03P": {
     "route": null,
     "checked_at": "2026-10-23T12:45:30.315152Z"
+  },
+  "RYR48VZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T12:50:30.312794Z"
   }
 }
