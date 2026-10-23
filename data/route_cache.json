@@ -1938,7 +1938,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-22T09:50:31.509272Z"
+    "checked_at": "2026-10-23T10:35:25.580706Z"
   },
   "AUA27Y": {
     "route": {
@@ -1949,7 +1949,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T10:20:33.086197Z"
+    "checked_at": "2026-10-23T10:35:25.580706Z"
   },
   "FIN50M": {
     "route": {
@@ -6635,17 +6635,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-23T10:20:33.265686Z"
-  },
-  "NSZ3298": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T10:30:53.143876Z"
   },
   "RYR91SP": {
     "route": {
@@ -13090,5 +13079,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T10:30:44.319823Z"
+  },
+  "TSC419": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-23T10:35:25.580706Z"
+  },
+  "DHTAU": {
+    "route": null,
+    "checked_at": "2026-10-23T10:35:25.580706Z"
   }
 }
