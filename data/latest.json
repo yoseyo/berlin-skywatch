@@ -1,33 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.1606,
-      "lon": 13.6769,
-      "altKm": 7.6,
-      "speedKmh": 507,
-      "heading": 68,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "BCS3612",
-      "country": "Bahrain",
-      "lat": 52.535,
-      "lon": 12.9902,
-      "altKm": 9.6,
-      "speedKmh": 889,
-      "heading": 31,
-      "vertRateMs": 11.4,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
+      "callsign": "SRR6228",
+      "country": "Denmark",
+      "lat": 52.4513,
+      "lon": 12.9265,
+      "altKm": 3.8,
+      "speedKmh": 564,
+      "heading": 80,
+      "vertRateMs": -7.2,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-23T03:10:29.775571Z"
+  "updated_at": "2026-10-23T03:15:27.628698Z"
 }
