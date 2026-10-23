@@ -1069,7 +1069,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T05:15:28.148382Z"
+    "checked_at": "2026-10-23T05:40:31.722804Z"
   },
   "BEL8YE": {
     "route": {
@@ -3703,7 +3703,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T05:05:23.173825Z"
+    "checked_at": "2026-10-23T05:40:31.722804Z"
   },
   "LOT4WE": {
     "route": {
@@ -3880,17 +3880,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-22T17:00:57.851587Z"
-  },
-  "NSZ3730": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T05:35:25.216392Z"
   },
   "LOT4MH": {
     "route": {
@@ -12874,5 +12863,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T05:25:22.242657Z"
+  },
+  "WZZ629": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-23T05:40:31.722804Z"
+  },
+  "RYR4311": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Rovaniemi",
+      "toIata": "RVN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T05:40:31.722804Z"
   }
 }
