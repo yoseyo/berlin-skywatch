@@ -860,7 +860,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T13:40:34.692384Z"
+    "checked_at": "2026-10-23T11:00:57.103369Z"
   },
   "KLM27F": {
     "route": {
@@ -2936,7 +2936,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T10:40:32.655212Z"
+    "checked_at": "2026-10-23T11:00:57.103369Z"
   },
   "BAW91J": {
     "route": {
@@ -4503,7 +4503,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T15:35:24.422118Z"
+    "checked_at": "2026-10-23T11:00:57.103369Z"
   },
   "TAP31DB": {
     "route": {
@@ -4548,17 +4548,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-23T10:15:30.927953Z"
-  },
-  "BEL9CK": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-21T11:00:56.589475Z"
   },
   "WZZ93ZW": {
     "route": {
@@ -5442,17 +5431,6 @@
     },
     "checked_at": "2026-10-23T06:10:32.002347Z"
   },
-  "RYR41KN": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T10:55:25.708432Z"
-  },
   "RYR75DX": {
     "route": {
       "fromCity": "Rome",
@@ -5838,7 +5816,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T11:10:33.332169Z"
+    "checked_at": "2026-10-23T11:00:57.103369Z"
   },
   "THY9RZ": {
     "route": {
@@ -6673,42 +6651,9 @@
     "route": null,
     "checked_at": "2026-10-22T13:50:34.921043Z"
   },
-  "EJU63AJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T10:55:25.708432Z"
-  },
   "4OMNE": {
     "route": null,
     "checked_at": "2026-10-22T06:35:25.417823Z"
-  },
-  "EZY94NJ": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-21T10:55:25.708432Z"
-  },
-  "ENT517": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-21T11:00:56.589475Z"
   },
   "PGT870R": {
     "route": {
@@ -13117,5 +13062,20 @@
   "AIB138B": {
     "route": null,
     "checked_at": "2026-10-23T10:55:23.404270Z"
+  },
+  "LUA221K": {
+    "route": null,
+    "checked_at": "2026-10-23T11:00:57.103369Z"
+  },
+  "JDI85H": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-23T11:00:57.103369Z"
   }
 }
