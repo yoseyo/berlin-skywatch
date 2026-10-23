@@ -5876,7 +5876,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-22T09:25:25.282455Z"
+    "checked_at": "2026-10-23T07:00:54.216979Z"
   },
   "NOZ1951": {
     "route": {
@@ -6027,7 +6027,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-10-21T13:05:26.732555Z"
+    "checked_at": "2026-10-23T07:00:54.216979Z"
   },
   "LHX6T": {
     "route": {
@@ -6482,17 +6482,6 @@
     },
     "checked_at": "2026-10-23T06:00:54.043446Z"
   },
-  "DELJC": {
-    "route": {
-      "fromCity": "Hockenheim",
-      "fromIata": null,
-      "toCity": "Braunschweig",
-      "toIata": "BWE",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-21T06:55:25.235353Z"
-  },
   "SXS6SJ": {
     "route": {
       "fromCity": "Dalaman",
@@ -6502,7 +6491,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T17:15:32.212944Z"
+    "checked_at": "2026-10-23T07:00:54.216979Z"
   },
   "NSZ5362": {
     "route": {
@@ -12955,5 +12944,35 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T06:55:23.397028Z"
+  },
+  "CFG1KL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T07:00:54.216979Z"
+  },
+  "NJE006K": {
+    "route": null,
+    "checked_at": "2026-10-23T07:00:54.216979Z"
+  },
+  "AWH78C": {
+    "route": null,
+    "checked_at": "2026-10-23T07:00:54.216979Z"
+  },
+  "SDR45DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-23T07:00:54.216979Z"
   }
 }
