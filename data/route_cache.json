@@ -2103,7 +2103,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T12:15:37.470613Z"
+    "checked_at": "2026-10-23T11:45:29.873103Z"
   },
   "KLC21A": {
     "route": {
@@ -2125,7 +2125,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T11:50:31.800648Z"
+    "checked_at": "2026-10-23T11:45:29.873103Z"
   },
   "PGT93T": {
     "route": {
@@ -2877,7 +2877,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T20:25:25.423118Z"
+    "checked_at": "2026-10-23T11:45:29.873103Z"
   },
   "RYR303F": {
     "route": {
@@ -3847,17 +3847,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-23T10:10:30.732389Z"
-  },
-  "DLH5MA": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T11:45:29.700682Z"
   },
   "DMS2LW": {
     "route": {
@@ -5330,7 +5319,7 @@
       "airlineName": "Nouvelair",
       "airlineCountry": "Tunisia"
     },
-    "checked_at": "2026-10-21T13:05:26.732555Z"
+    "checked_at": "2026-10-23T11:45:29.873103Z"
   },
   "ISR254": {
     "route": {
@@ -13033,5 +13022,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-23T11:40:34.139036Z"
+  },
+  "RYR9689": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T11:45:29.873103Z"
   }
 }
