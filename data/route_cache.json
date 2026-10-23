@@ -159,7 +159,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T16:25:23.614228Z"
+    "checked_at": "2026-10-23T08:15:29.583612Z"
   },
   "WZZ9926": {
     "route": {
@@ -4988,7 +4988,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T08:20:33.393087Z"
+    "checked_at": "2026-10-23T08:15:29.583612Z"
   },
   "FIN6AP": {
     "route": {
@@ -5830,10 +5830,6 @@
     },
     "checked_at": "2026-10-22T07:30:44.422747Z"
   },
-  "SCR137": {
-    "route": null,
-    "checked_at": "2026-10-21T08:10:33.733207Z"
-  },
   "SAS1694": {
     "route": {
       "fromCity": "Vienna",
@@ -6559,10 +6555,6 @@
   "OEEMA": {
     "route": null,
     "checked_at": "2026-10-22T12:05:27.236228Z"
-  },
-  "NJE764D": {
-    "route": null,
-    "checked_at": "2026-10-21T08:10:33.733207Z"
   },
   "DLH7HP": {
     "route": {
@@ -13055,5 +13047,27 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-23T08:10:31.686287Z"
+  },
+  "N57DG": {
+    "route": {
+      "fromCity": "Watford",
+      "fromIata": null,
+      "toCity": "Cambridge",
+      "toIata": "CBG",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-23T08:15:29.583612Z"
+  },
+  "LBT248": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-23T08:15:29.583612Z"
   }
 }
