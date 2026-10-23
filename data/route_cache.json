@@ -111,7 +111,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T14:00:59.651922Z"
+    "checked_at": "2026-10-23T13:55:25.426425Z"
   },
   "RYR96EU": {
     "route": {
@@ -6685,17 +6685,6 @@
     "route": null,
     "checked_at": "2026-10-23T07:05:27.383197Z"
   },
-  "EWG2RM": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T13:55:25.158491Z"
-  },
   "SPNCC": {
     "route": null,
     "checked_at": "2026-10-21T14:05:27.831886Z"
@@ -8410,7 +8399,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T06:45:33.398981Z"
+    "checked_at": "2026-10-23T13:55:25.426425Z"
   },
   "CFG8JC": {
     "route": {
@@ -12994,5 +12983,27 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-23T13:50:32.980051Z"
+  },
+  "THY3TR": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T13:55:25.426425Z"
+  },
+  "PWF1966": {
+    "route": {
+      "fromCity": "Mannheim",
+      "fromIata": "MHG",
+      "toCity": "Trebbin",
+      "toIata": null,
+      "airlineName": "Private Wings Flugcharter",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T13:55:25.426425Z"
   }
 }
