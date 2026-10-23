@@ -1135,7 +1135,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T05:40:30.940848Z"
+    "checked_at": "2026-10-23T05:50:31.937764Z"
   },
   "QTR29X": {
     "route": {
@@ -1157,7 +1157,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T05:40:30.940848Z"
+    "checked_at": "2026-10-23T05:50:31.937764Z"
   },
   "SWR5XL": {
     "route": {
@@ -4065,17 +4065,6 @@
     },
     "checked_at": "2026-10-21T07:20:30.990811Z"
   },
-  "EJU79XD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T05:50:30.553717Z"
-  },
   "RYR76WJ": {
     "route": {
       "fromCity": "Berlin",
@@ -4945,17 +4934,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-22T05:45:29.707227Z"
-  },
-  "EWG4JP": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T05:50:30.553717Z"
   },
   "WZZ2550": {
     "route": null,
@@ -6514,10 +6492,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-22T15:40:33.636824Z"
-  },
-  "DICMK": {
-    "route": null,
-    "checked_at": "2026-10-21T05:45:28.659177Z"
   },
   "AAO10": {
     "route": null,
@@ -10915,7 +10889,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-10-22T11:50:31.800648Z"
+    "checked_at": "2026-10-23T05:50:31.937764Z"
   },
   "AUA978": {
     "route": {
@@ -12885,5 +12859,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T05:40:31.722804Z"
+  },
+  "EJU12HB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-23T05:50:31.937764Z"
   }
 }
