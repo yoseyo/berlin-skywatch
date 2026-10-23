@@ -3793,17 +3793,6 @@
     },
     "checked_at": "2026-10-23T03:40:29.628596Z"
   },
-  "DLH7FM": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T04:30:41.701542Z"
-  },
   "EWG5SP": {
     "route": {
       "fromCity": "Berlin",
@@ -12955,5 +12944,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-23T04:25:22.739379Z"
+  },
+  "CHH427": {
+    "route": {
+      "fromCity": "Chongqing",
+      "fromIata": "CKG",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-23T04:30:43.526753Z"
   }
 }
