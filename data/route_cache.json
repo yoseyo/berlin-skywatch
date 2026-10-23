@@ -6633,17 +6633,6 @@
     },
     "checked_at": "2026-10-23T11:55:24.162204Z"
   },
-  "SAS39G": {
-    "route": {
-      "fromCity": "Firenze",
-      "fromIata": "FLR",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T12:00:57.587249Z"
-  },
   "VJH715": {
     "route": null,
     "checked_at": "2026-10-21T12:05:24.961144Z"
@@ -13048,5 +13037,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T12:00:56.300800Z"
+  },
+  "EWG79J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T12:01:26.883456Z"
   }
 }
