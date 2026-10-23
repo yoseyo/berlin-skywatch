@@ -1740,7 +1740,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-22T09:20:33.906818Z"
+    "checked_at": "2026-10-23T10:30:44.319823Z"
   },
   "AUA226K": {
     "route": {
@@ -3503,17 +3503,6 @@
     },
     "checked_at": "2026-10-23T09:45:31.112528Z"
   },
-  "SXS9RW": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-21T10:25:25.446606Z"
-  },
   "CCA939": {
     "route": {
       "fromCity": "Beijing",
@@ -4515,10 +4504,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-22T15:35:24.422118Z"
-  },
-  "CHX71": {
-    "route": null,
-    "checked_at": "2026-10-21T10:25:25.446606Z"
   },
   "TAP31DB": {
     "route": {
@@ -6650,32 +6635,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-23T10:20:33.265686Z"
-  },
-  "NATO40": {
-    "route": null,
-    "checked_at": "2026-10-21T10:25:25.446606Z"
-  },
-  "FIN1DF": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-21T10:25:25.446606Z"
-  },
-  "RYR4TR": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T10:25:25.446606Z"
   },
   "NSZ3298": {
     "route": {
@@ -10020,7 +9979,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-22T11:00:56.622095Z"
+    "checked_at": "2026-10-23T10:30:44.319823Z"
   },
   "RYR866X": {
     "route": {
@@ -13120,5 +13079,16 @@
   "TLK811": {
     "route": null,
     "checked_at": "2026-10-23T10:20:33.265686Z"
+  },
+  "EJU92LR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-23T10:30:44.319823Z"
   }
 }
