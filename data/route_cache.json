@@ -1839,7 +1839,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-22T09:55:25.443529Z"
+    "checked_at": "2026-10-23T09:55:23.387218Z"
   },
   "RYR9YD": {
     "route": {
@@ -1850,7 +1850,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T11:05:27.590012Z"
+    "checked_at": "2026-10-23T09:55:23.387218Z"
   },
   "RYR4PT": {
     "route": {
@@ -1872,7 +1872,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T09:50:31.509272Z"
+    "checked_at": "2026-10-23T09:55:23.387218Z"
   },
   "CTN481": {
     "route": {
@@ -13154,5 +13154,38 @@
   "TWI806": {
     "route": null,
     "checked_at": "2026-10-23T09:50:32.804622Z"
+  },
+  "FIN4LK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-23T09:55:23.387218Z"
+  },
+  "MEA245": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-10-23T09:55:23.387218Z"
+  },
+  "RYR127K": {
+    "route": {
+      "fromCity": "Marrakech",
+      "fromIata": "RAK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T09:55:23.387218Z"
   }
 }
