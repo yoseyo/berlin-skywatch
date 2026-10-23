@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-23T22:25:24.460008Z"
+  "flights": [
+    {
+      "callsign": "NSZ3733",
+      "country": "Sweden",
+      "lat": 52.7974,
+      "lon": 13.2227,
+      "altKm": 10.9,
+      "speedKmh": 892,
+      "heading": 352,
+      "vertRateMs": 0.3,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-23T22:30:40.427052Z"
 }
