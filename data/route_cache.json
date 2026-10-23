@@ -6912,17 +6912,6 @@
     },
     "checked_at": "2026-10-22T20:40:34.412965Z"
   },
-  "RYR8201": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T21:30:43.507967Z"
-  },
   "RYR6908": {
     "route": {
       "fromCity": "Leeds",
@@ -13261,5 +13250,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T21:25:22.906310Z"
+  },
+  "NSZ24N": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-23T21:31:00.289502Z"
   }
 }
