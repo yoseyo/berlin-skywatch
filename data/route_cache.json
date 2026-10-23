@@ -2763,7 +2763,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T16:45:38.066129Z"
+    "checked_at": "2026-10-23T16:40:34.849601Z"
   },
   "AUA237": {
     "route": {
@@ -5124,7 +5124,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T16:20:35.781023Z"
+    "checked_at": "2026-10-23T16:40:34.849601Z"
   },
   "ISR253": {
     "route": {
@@ -5834,7 +5834,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T16:35:25.369681Z"
+    "checked_at": "2026-10-23T16:40:34.849601Z"
   },
   "DFOOD": {
     "route": {
@@ -6753,17 +6753,6 @@
   "EJU5075": {
     "route": null,
     "checked_at": "2026-10-22T16:50:32.293640Z"
-  },
-  "NJE038U": {
-    "route": {
-      "fromCity": "Cascais",
-      "fromIata": "CAT",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-21T16:40:33.528322Z"
   },
   "NSZ4377": {
     "route": {
@@ -13160,5 +13149,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T16:35:24.581780Z"
+  },
+  "DKH1667": {
+    "route": {
+      "fromCity": "Zhengzhou",
+      "fromIata": "CGO",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Juneyao Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-23T16:40:34.849601Z"
+  },
+  "SXS6PC": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T16:40:34.849601Z"
   }
 }
