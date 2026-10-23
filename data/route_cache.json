@@ -449,7 +449,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T17:00:57.851587Z"
+    "checked_at": "2026-10-23T17:15:32.147241Z"
   },
   "LHX195": {
     "route": {
@@ -4558,7 +4558,7 @@
   },
   "EJU5087": {
     "route": null,
-    "checked_at": "2026-10-22T17:10:32.107362Z"
+    "checked_at": "2026-10-23T17:15:32.147241Z"
   },
   "EWG6RY": {
     "route": {
@@ -6787,10 +6787,6 @@
     },
     "checked_at": "2026-10-23T05:30:42.007055Z"
   },
-  "SUA4C": {
-    "route": null,
-    "checked_at": "2026-10-21T17:10:32.073766Z"
-  },
   "RYR62XF": {
     "route": {
       "fromCity": "Nottingham",
@@ -6812,39 +6808,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T16:45:32.122927Z"
-  },
-  "CXI35YA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-21T17:15:32.134388Z"
-  },
-  "ASL86W": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-21T17:15:32.134388Z"
-  },
-  "WZZ2CE": {
-    "route": {
-      "fromCity": "Liverpool",
-      "fromIata": "LPL",
-      "toCity": "Varna",
-      "toIata": "VAR",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-21T17:15:32.134388Z"
   },
   "EJU32PZ": {
     "route": {
@@ -9383,7 +9346,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T14:20:36.060984Z"
+    "checked_at": "2026-10-23T17:15:32.147241Z"
   },
   "MFX7624": {
     "route": null,
@@ -13182,5 +13145,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T17:10:32.067465Z"
+  },
+  "TKJ9HJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T17:15:32.147241Z"
+  },
+  "EWG6YP": {
+    "route": {
+      "fromCity": "Graz (Feldkirchen bei Graz)",
+      "fromIata": "GRZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T17:15:32.147241Z"
   }
 }
