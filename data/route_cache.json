@@ -1729,7 +1729,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T08:55:26.075079Z"
+    "checked_at": "2026-10-23T09:20:32.582377Z"
   },
   "LOT4LV": {
     "route": {
@@ -5340,10 +5340,6 @@
     },
     "checked_at": "2026-10-22T16:20:35.781023Z"
   },
-  "GJW21SJ": {
-    "route": null,
-    "checked_at": "2026-10-21T09:15:32.680730Z"
-  },
   "ISR253": {
     "route": {
       "fromCity": "Tel Aviv",
@@ -6599,50 +6595,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-23T08:50:33.608987Z"
-  },
-  "EJU72TJ": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T09:15:32.680730Z"
-  },
-  "DUKE29": {
-    "route": {
-      "fromCity": "Constan\u0163a",
-      "fromIata": "CND",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-21T09:15:32.680730Z"
-  },
-  "DLH9910": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T09:15:32.680730Z"
-  },
-  "FIN8KR": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-21T09:20:32.150627Z"
   },
   "PTO2247": {
     "route": null,
@@ -13179,5 +13131,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T09:15:30.351406Z"
+  },
+  "ETD4EA": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Abu Dhabi",
+      "toIata": "AUH",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-23T09:20:32.582377Z"
+  },
+  "DGJ567": {
+    "route": null,
+    "checked_at": "2026-10-23T09:20:32.582377Z"
   }
 }
