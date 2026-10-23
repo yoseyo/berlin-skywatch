@@ -495,17 +495,6 @@
     },
     "checked_at": "2026-10-23T07:30:44.573597Z"
   },
-  "SWR1PF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-21T16:50:32.351840Z"
-  },
   "PGT49YQ": {
     "route": {
       "fromCity": "Berlin",
@@ -3442,7 +3431,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T17:05:27.045327Z"
+    "checked_at": "2026-10-23T16:50:34.019922Z"
   },
   "EWG5EZ": {
     "route": {
@@ -4510,7 +4499,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-22T15:45:32.649299Z"
+    "checked_at": "2026-10-23T16:50:34.019922Z"
   },
   "CFE27PM": {
     "route": {
@@ -4554,7 +4543,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T16:45:38.066129Z"
+    "checked_at": "2026-10-23T16:50:34.019922Z"
   },
   "CFE7026": {
     "route": {
@@ -6764,10 +6753,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T05:15:29.443748Z"
-  },
-  "ATV305": {
-    "route": null,
-    "checked_at": "2026-10-21T16:50:32.351840Z"
   },
   "SAS2657": {
     "route": {
@@ -13193,5 +13178,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T16:45:32.122927Z"
+  },
+  "AIC189": {
+    "route": {
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air India",
+      "airlineCountry": "India"
+    },
+    "checked_at": "2026-10-23T16:50:34.019922Z"
   }
 }
