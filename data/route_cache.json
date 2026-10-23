@@ -2598,7 +2598,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T04:55:22.347244Z"
+    "checked_at": "2026-10-23T05:05:24.378412Z"
   },
   "ICE14T": {
     "route": {
@@ -5793,17 +5793,6 @@
     "route": null,
     "checked_at": "2026-10-22T05:30:41.003446Z"
   },
-  "RYR5928": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T05:05:23.777545Z"
-  },
   "EWG5MJ": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -6217,17 +6206,6 @@
     },
     "checked_at": "2026-10-21T13:35:24.785704Z"
   },
-  "EJU68NQ": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T05:05:23.777545Z"
-  },
   "SAS71T": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6547,17 +6525,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-22T04:10:32.295915Z"
-  },
-  "DLH4EK": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T05:05:23.777545Z"
   },
   "KLM64F": {
     "route": {
@@ -12966,5 +12933,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T05:00:53.065213Z"
+  },
+  "EZS91HE": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-23T05:05:24.378412Z"
   }
 }
