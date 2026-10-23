@@ -350,7 +350,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-22T15:50:33.048671Z"
+    "checked_at": "2026-10-23T16:10:32.600438Z"
   },
   "LOT5PX": {
     "route": {
@@ -13094,5 +13094,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T16:05:27.308724Z"
+  },
+  "EWG3AM": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T16:10:32.600438Z"
+  },
+  "RYR90GK": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T16:10:32.600438Z"
+  },
+  "SWT950P": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
+      "airlineName": "Swiftair",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-23T16:10:32.600438Z"
   }
 }
