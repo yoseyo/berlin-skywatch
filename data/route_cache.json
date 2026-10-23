@@ -306,7 +306,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T15:40:33.636824Z"
+    "checked_at": "2026-10-23T16:00:58.478480Z"
   },
   "PGT7UZ": {
     "route": {
@@ -3413,7 +3413,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-22T15:20:32.474663Z"
+    "checked_at": "2026-10-23T16:00:58.478480Z"
   },
   "RYR5SB": {
     "route": {
@@ -6721,17 +6721,6 @@
     },
     "checked_at": "2026-10-23T13:05:24.767251Z"
   },
-  "EJU5017": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T16:00:56.853296Z"
-  },
   "WZZ691": {
     "route": {
       "fromCity": "Milan",
@@ -9841,7 +9830,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T15:55:25.182886Z"
+    "checked_at": "2026-10-23T16:00:58.478480Z"
   },
   "AUA7K": {
     "route": {
@@ -13083,5 +13072,38 @@
   "CXI4RD": {
     "route": null,
     "checked_at": "2026-10-23T15:55:24.605508Z"
+  },
+  "EJU38DP": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-23T16:00:58.478480Z"
+  },
+  "RYR63VQ": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T16:00:58.478480Z"
+  },
+  "RYR2962": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T16:00:58.478480Z"
   }
 }
