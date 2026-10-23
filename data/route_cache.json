@@ -372,7 +372,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-22T16:25:24.714005Z"
+    "checked_at": "2026-10-23T16:25:25.078966Z"
   },
   "IBE07WR": {
     "route": {
@@ -394,7 +394,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T16:25:24.714005Z"
+    "checked_at": "2026-10-23T16:25:25.078966Z"
   },
   "AFR99GT": {
     "route": {
@@ -438,7 +438,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T16:50:32.293640Z"
+    "checked_at": "2026-10-23T16:25:25.078966Z"
   },
   "EWG5EY": {
     "route": {
@@ -3156,7 +3156,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T16:30:45.862937Z"
+    "checked_at": "2026-10-23T16:25:25.078966Z"
   },
   "LGL9473": {
     "route": {
@@ -6695,17 +6695,6 @@
     },
     "checked_at": "2026-10-23T13:05:24.767251Z"
   },
-  "NSZ2902": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T16:20:35.353852Z"
-  },
   "SAS695": {
     "route": {
       "fromCity": "Vienna",
@@ -6715,7 +6704,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T16:35:25.369681Z"
+    "checked_at": "2026-10-23T16:25:25.078966Z"
   },
   "RYR95CH": {
     "route": {
@@ -8440,7 +8429,7 @@
   },
   "BPOBER": {
     "route": null,
-    "checked_at": "2026-10-23T01:25:24.116969Z"
+    "checked_at": "2026-10-23T16:25:25.078966Z"
   },
   "DLH894": {
     "route": {
@@ -13123,5 +13112,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T16:15:32.843233Z"
+  },
+  "NSZ3754": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Ljubljana",
+      "toIata": "LJU",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-23T16:25:25.078966Z"
+  },
+  "ENT9SM": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-23T16:25:25.078966Z"
   }
 }
