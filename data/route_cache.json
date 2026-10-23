@@ -56,7 +56,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-22T13:30:49.370110Z"
+    "checked_at": "2026-10-23T13:40:33.760444Z"
   },
   "SXS1VZ": {
     "route": {
@@ -6681,58 +6681,6 @@
     },
     "checked_at": "2026-10-23T12:55:24.655576Z"
   },
-  "THY7GF": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-21T13:35:24.785704Z"
-  },
-  "SAS55H": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T13:35:24.785704Z"
-  },
-  "ICE5605": {
-    "route": null,
-    "checked_at": "2026-10-21T13:40:32.349516Z"
-  },
-  "SXS8VB": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-21T13:40:32.349516Z"
-  },
-  "NJE479T": {
-    "route": null,
-    "checked_at": "2026-10-21T13:40:32.349516Z"
-  },
-  "WZZ9EN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-21T13:40:32.349516Z"
-  },
   "EJU57YZ": {
     "route": {
       "fromCity": "Geneva",
@@ -13006,5 +12954,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T13:35:24.000670Z"
+  },
+  "WZZ93ZW": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-23T13:40:33.760444Z"
+  },
+  "ENT590": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-23T13:40:33.760444Z"
   }
 }
