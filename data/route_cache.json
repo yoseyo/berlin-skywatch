@@ -1256,7 +1256,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-22T06:45:33.398981Z"
+    "checked_at": "2026-10-23T06:40:31.920707Z"
   },
   "RYR98HW": {
     "route": {
@@ -1300,7 +1300,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-22T06:35:25.417823Z"
+    "checked_at": "2026-10-23T06:40:31.920707Z"
   },
   "RYR4WC": {
     "route": {
@@ -1322,7 +1322,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-22T06:50:33.812670Z"
+    "checked_at": "2026-10-23T06:40:31.920707Z"
   },
   "DLH174": {
     "route": {
@@ -1333,7 +1333,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T06:35:25.417823Z"
+    "checked_at": "2026-10-23T06:40:31.920707Z"
   },
   "DLH2NL": {
     "route": {
@@ -3094,7 +3094,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T15:10:32.233845Z"
+    "checked_at": "2026-10-23T06:40:31.920707Z"
   },
   "VLG9PX": {
     "route": {
@@ -12881,5 +12881,31 @@
   "DMS2MY": {
     "route": null,
     "checked_at": "2026-10-23T06:35:23.022427Z"
+  },
+  "LOT403": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-23T06:40:31.920707Z"
+  },
+  "PLF250": {
+    "route": null,
+    "checked_at": "2026-10-23T06:40:31.920707Z"
+  },
+  "FIN5R": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-23T06:40:31.920707Z"
   }
 }
