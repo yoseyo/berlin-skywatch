@@ -78,7 +78,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-22T14:00:59.651922Z"
+    "checked_at": "2026-10-23T14:10:34.960973Z"
   },
   "NSZ3302": {
     "route": {
@@ -181,7 +181,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T14:15:33.064180Z"
+    "checked_at": "2026-10-23T14:10:34.960973Z"
   },
   "CHX82": {
     "route": null,
@@ -2697,7 +2697,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-21T16:20:35.353852Z"
+    "checked_at": "2026-10-23T14:10:34.960973Z"
   },
   "EWG9SK": {
     "route": {
@@ -3557,17 +3557,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-22T09:05:38.588676Z"
-  },
-  "UAE57X": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Dubai",
-      "toIata": "DXB",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-21T14:10:34.553606Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -6673,10 +6662,6 @@
   "DIGRK": {
     "route": null,
     "checked_at": "2026-10-23T07:05:27.383197Z"
-  },
-  "SPNCC": {
-    "route": null,
-    "checked_at": "2026-10-21T14:05:27.831886Z"
   },
   "THY5": {
     "route": {
@@ -13005,5 +12990,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T14:05:25.125330Z"
+  },
+  "WZZ317": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-23T14:10:34.960973Z"
+  },
+  "THY9": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T14:10:34.960973Z"
+  },
+  "AWH91D": {
+    "route": null,
+    "checked_at": "2026-10-23T14:10:34.960973Z"
   }
 }
