@@ -1124,7 +1124,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T05:35:23.535906Z"
+    "checked_at": "2026-10-23T06:20:32.077621Z"
   },
   "NSZ8ML": {
     "route": {
@@ -6496,17 +6496,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-23T06:00:54.043446Z"
-  },
-  "WZZ6730": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Dortmund",
-      "toIata": "DTM",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-21T06:15:31.814956Z"
   },
   "NSZ3748": {
     "route": {
@@ -12899,5 +12888,42 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-23T06:15:30.656453Z"
+  },
+  "FIN1AB": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-23T06:20:32.077621Z"
+  },
+  "EJU51LD": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-23T06:20:32.077621Z"
+  },
+  "NIA8501": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-23T06:20:32.077621Z"
+  },
+  "N12MW": {
+    "route": null,
+    "checked_at": "2026-10-23T06:20:32.077621Z"
   }
 }
