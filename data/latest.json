@@ -1,4 +1,65 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-23T03:55:23.277916Z"
+  "flights": [
+    {
+      "callsign": "CSH871",
+      "country": "China",
+      "lat": 52.2056,
+      "lon": 13.2919,
+      "altKm": 11.6,
+      "speedKmh": 871,
+      "heading": 214,
+      "vertRateMs": 0,
+      "airline": "Shanghai Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.4075,
+      "lon": 13.7308,
+      "altKm": 0.9,
+      "speedKmh": 325,
+      "heading": 249,
+      "vertRateMs": -5.2,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR3NJ",
+      "country": "Ireland",
+      "lat": 52.3586,
+      "lon": 13.4496,
+      "altKm": 0.6,
+      "speedKmh": 298,
+      "heading": 248,
+      "vertRateMs": 10.4,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG5EZ",
+      "country": "Germany",
+      "lat": 52.3499,
+      "lon": 13.487,
+      "altKm": 0.1,
+      "speedKmh": 265,
+      "heading": 248,
+      "vertRateMs": 3.2,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-23T04:00:54.636650Z"
 }
