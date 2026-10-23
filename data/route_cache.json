@@ -1344,7 +1344,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T06:55:26.044215Z"
+    "checked_at": "2026-10-23T07:15:30.916626Z"
   },
   "SAS767": {
     "route": {
@@ -1355,7 +1355,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T07:20:32.636477Z"
+    "checked_at": "2026-10-23T07:15:30.916626Z"
   },
   "DLH3TR": {
     "route": {
@@ -2356,7 +2356,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T15:35:24.422118Z"
+    "checked_at": "2026-10-23T07:15:30.916626Z"
   },
   "EJU65CQ": {
     "route": {
@@ -2914,7 +2914,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-22T13:20:34.680621Z"
+    "checked_at": "2026-10-23T07:15:30.916626Z"
   },
   "WZZ18DM": {
     "route": {
@@ -5518,7 +5518,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-21T20:30:44.698865Z"
+    "checked_at": "2026-10-23T07:15:30.916626Z"
   },
   "RYR67EU": {
     "route": {
@@ -6503,14 +6503,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-22T07:10:32.084988Z"
-  },
-  "ATV302": {
-    "route": null,
-    "checked_at": "2026-10-21T07:10:33.093572Z"
-  },
-  "N985EK": {
-    "route": null,
-    "checked_at": "2026-10-21T07:10:33.093572Z"
   },
   "EJU73KU": {
     "route": {
@@ -13000,5 +12992,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T07:10:30.168331Z"
+  },
+  "THY3374": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T07:15:30.916626Z"
+  },
+  "DIGOB": {
+    "route": null,
+    "checked_at": "2026-10-23T07:15:30.916626Z"
   }
 }
