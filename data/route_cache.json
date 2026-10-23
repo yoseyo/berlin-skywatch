@@ -2180,7 +2180,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-22T12:21:53.402554Z"
+    "checked_at": "2026-10-23T12:20:32.700400Z"
   },
   "AUA29M": {
     "route": {
@@ -4505,17 +4505,6 @@
     },
     "checked_at": "2026-10-23T10:15:30.927953Z"
   },
-  "WZZ93ZW": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-21T12:20:32.624565Z"
-  },
   "SWR9YP": {
     "route": {
       "fromCity": "Zurich",
@@ -5108,17 +5097,6 @@
     },
     "checked_at": "2026-10-23T12:15:31.083608Z"
   },
-  "DLH891": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T12:20:32.624565Z"
-  },
   "THY79K": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -5456,17 +5434,6 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-22T21:10:33.538867Z"
-  },
-  "RYR8EM": {
-    "route": {
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T12:20:32.624565Z"
   },
   "RYR6GD": {
     "route": {
@@ -6644,17 +6611,6 @@
     },
     "checked_at": "2026-10-23T08:50:33.608987Z"
   },
-  "NSZ3740": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T12:20:32.624565Z"
-  },
   "CCA446": {
     "route": {
       "fromCity": "Milan",
@@ -6665,10 +6621,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-22T12:40:34.844516Z"
-  },
-  "CHH8003": {
-    "route": null,
-    "checked_at": "2026-10-21T12:20:32.624565Z"
   },
   "PGT65UA": {
     "route": {
@@ -13047,5 +12999,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T12:15:31.083608Z"
+  },
+  "RUK145": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-23T12:20:32.700400Z"
+  },
+  "CHH490": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-23T12:20:32.700400Z"
+  },
+  "THY6XB": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T12:20:32.700400Z"
   }
 }
