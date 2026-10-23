@@ -1674,7 +1674,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-22T08:20:33.393087Z"
+    "checked_at": "2026-10-23T08:55:24.227263Z"
   },
   "RYR4TC": {
     "route": {
@@ -1707,7 +1707,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T09:10:33.067391Z"
+    "checked_at": "2026-10-23T08:55:24.227263Z"
   },
   "WMT358": {
     "route": {
@@ -2037,7 +2037,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-22T11:30:47.845866Z"
+    "checked_at": "2026-10-23T08:55:24.227263Z"
   },
   "KLM26L": {
     "route": {
@@ -8207,7 +8207,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-21T16:25:23.614228Z"
+    "checked_at": "2026-10-23T08:55:24.227263Z"
   },
   "RYR3LF": {
     "route": {
@@ -13131,5 +13131,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T08:50:33.608987Z"
+  },
+  "SWR5ZM": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-23T08:55:24.227263Z"
+  },
+  "EJU5060": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-23T08:55:24.227263Z"
+  },
+  "SXS9NH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bodrum",
+      "toIata": "BJV",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T08:55:24.227263Z"
+  },
+  "CAI9JM": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Gazipa\u015fa",
+      "toIata": "GZP",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T08:55:24.227263Z"
   }
 }
