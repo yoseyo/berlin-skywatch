@@ -6703,17 +6703,6 @@
     },
     "checked_at": "2026-10-23T07:25:24.642604Z"
   },
-  "EWG33J": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T15:10:32.233845Z"
-  },
   "BFD21T": {
     "route": null,
     "checked_at": "2026-10-21T15:15:32.427710Z"
@@ -9782,7 +9771,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-22T15:05:28.140935Z"
+    "checked_at": "2026-10-23T15:10:33.006263Z"
   },
   "BTI3FL": {
     "route": {
@@ -13046,5 +13035,27 @@
   "CHX49": {
     "route": null,
     "checked_at": "2026-10-23T15:00:59.520231Z"
+  },
+  "CFG3NY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T15:10:33.006263Z"
+  },
+  "EWG3GH": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T15:10:33.006263Z"
   }
 }
