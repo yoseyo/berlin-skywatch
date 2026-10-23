@@ -251,7 +251,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-22T16:10:34.433434Z"
+    "checked_at": "2026-10-23T15:55:24.605508Z"
   },
   "NSZ3303": {
     "route": {
@@ -317,7 +317,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T16:15:31.909350Z"
+    "checked_at": "2026-10-23T15:55:24.605508Z"
   },
   "DLH2XC": {
     "route": {
@@ -339,7 +339,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-22T15:50:33.048671Z"
+    "checked_at": "2026-10-23T15:55:24.605508Z"
   },
   "KLM1780": {
     "route": {
@@ -2334,7 +2334,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-22T13:40:34.692384Z"
+    "checked_at": "2026-10-23T15:55:24.605508Z"
   },
   "RYR8WT": {
     "route": {
@@ -6721,10 +6721,6 @@
     },
     "checked_at": "2026-10-23T13:05:24.767251Z"
   },
-  "MFX7654": {
-    "route": null,
-    "checked_at": "2026-10-21T15:50:32.079061Z"
-  },
   "EJU5017": {
     "route": {
       "fromCity": "Berlin",
@@ -6966,7 +6962,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-21T17:10:32.073766Z"
+    "checked_at": "2026-10-23T15:55:24.605508Z"
   },
   "DLH6TP": {
     "route": {
@@ -13061,5 +13057,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T15:50:31.176925Z"
+  },
+  "RYR6VC": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T15:55:24.605508Z"
+  },
+  "EWG41W": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T15:55:24.605508Z"
+  },
+  "CXI4RD": {
+    "route": null,
+    "checked_at": "2026-10-23T15:55:24.605508Z"
   }
 }
