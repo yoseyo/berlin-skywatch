@@ -196,7 +196,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T14:40:31.174814Z"
+    "checked_at": "2026-10-23T14:50:30.838645Z"
   },
   "KLM1779": {
     "route": {
@@ -252,17 +252,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-22T16:10:34.433434Z"
-  },
-  "TVF77EX": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-21T14:50:30.094509Z"
   },
   "NSZ3303": {
     "route": {
@@ -3604,7 +3593,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-22T13:01:04.481346Z"
+    "checked_at": "2026-10-23T14:50:30.838645Z"
   },
   "AUA22S": {
     "route": {
@@ -5785,10 +5774,6 @@
     "route": null,
     "checked_at": "2026-10-22T13:45:34.010526Z"
   },
-  "DASSY": {
-    "route": null,
-    "checked_at": "2026-10-21T14:45:32.583876Z"
-  },
   "EJU34XG": {
     "route": {
       "fromCity": "Tivat",
@@ -6674,28 +6659,6 @@
     },
     "checked_at": "2026-10-23T11:55:24.162204Z"
   },
-  "WZZ20KU": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-21T14:45:32.583876Z"
-  },
-  "RYR31MR": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T14:50:30.094509Z"
-  },
   "RYR9TY": {
     "route": {
       "fromCity": "London",
@@ -6716,7 +6679,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T14:45:33.375685Z"
+    "checked_at": "2026-10-23T14:50:30.838645Z"
   },
   "TKJ9TC": {
     "route": {
@@ -10310,7 +10273,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T18:10:33.282803Z"
+    "checked_at": "2026-10-23T14:50:30.838645Z"
   },
   "WMT6HS": {
     "route": {
@@ -13046,5 +13009,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T14:45:31.740112Z"
+  },
+  "WZZ9EN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-23T14:50:30.838645Z"
+  },
+  "THY40Y": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Montr\u00e9al",
+      "toIata": "YUL",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T14:50:30.838645Z"
+  },
+  "FHY1281": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T14:50:30.838645Z"
   }
 }
