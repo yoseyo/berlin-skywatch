@@ -2429,7 +2429,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T16:00:57.128924Z"
+    "checked_at": "2026-10-23T18:50:31.217963Z"
   },
   "SAS52E": {
     "route": {
@@ -5825,17 +5825,6 @@
     },
     "checked_at": "2026-10-21T19:55:22.843765Z"
   },
-  "PGT566B": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-21T18:50:30.990332Z"
-  },
   "WZZ6LM": {
     "route": {
       "fromCity": "Budapest",
@@ -6840,7 +6829,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T19:00:58.305464Z"
+    "checked_at": "2026-10-23T18:50:31.217963Z"
   },
   "FIN50J": {
     "route": {
@@ -13190,5 +13179,16 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-23T18:45:30.269840Z"
+  },
+  "QTR24E": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-23T18:50:31.217963Z"
   }
 }
