@@ -3281,7 +3281,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-22T06:30:42.392216Z"
+    "checked_at": "2026-10-23T06:30:43.486260Z"
   },
   "AFR39SV": {
     "route": {
@@ -4459,7 +4459,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-21T08:30:43.607289Z"
+    "checked_at": "2026-10-23T06:30:43.486260Z"
   },
   "CAI17QT": {
     "route": {
@@ -4972,17 +4972,6 @@
     },
     "checked_at": "2026-10-22T07:05:25.948472Z"
   },
-  "ETH724": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-10-21T06:29:25.403338Z"
-  },
   "DBADO": {
     "route": {
       "fromCity": "Berlin",
@@ -5036,7 +5025,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-22T06:25:23.307506Z"
+    "checked_at": "2026-10-23T06:30:43.486260Z"
   },
   "WUK7BU": {
     "route": {
@@ -6496,28 +6485,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-23T06:00:54.043446Z"
-  },
-  "SXS6JW": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-21T06:29:25.403338Z"
-  },
-  "CFG1AH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T06:30:43.143792Z"
   },
   "RYR86NA": {
     "route": {
@@ -12914,5 +12881,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T06:25:22.436635Z"
+  },
+  "CFG2HD": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T06:30:43.486260Z"
   }
 }
