@@ -2070,7 +2070,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T11:10:33.332169Z"
+    "checked_at": "2026-10-23T11:15:29.644967Z"
   },
   "KLM29G": {
     "route": {
@@ -4065,17 +4065,6 @@
     },
     "checked_at": "2026-10-22T11:30:47.845866Z"
   },
-  "EJU98TC": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T11:10:31.466398Z"
-  },
   "RYR28LA": {
     "route": {
       "fromCity": "Kerkyra Island",
@@ -4294,7 +4283,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T15:35:24.422118Z"
+    "checked_at": "2026-10-23T11:15:29.644967Z"
   },
   "BAW845": {
     "route": {
@@ -6654,28 +6643,6 @@
   "4OMNE": {
     "route": null,
     "checked_at": "2026-10-22T06:35:25.417823Z"
-  },
-  "PGT870R": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-21T11:10:31.466398Z"
-  },
-  "RYR1638": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T11:10:31.466398Z"
   },
   "RYR364N": {
     "route": {
@@ -13121,5 +13088,27 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-23T11:10:30.859388Z"
+  },
+  "EZY94NJ": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-23T11:15:29.644967Z"
+  },
+  "EJU17HZ": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-23T11:15:29.644967Z"
   }
 }
