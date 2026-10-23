@@ -5181,17 +5181,6 @@
     },
     "checked_at": "2026-10-23T11:45:29.873103Z"
   },
-  "ISR254": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-21T17:25:22.773539Z"
-  },
   "RYR430N": {
     "route": {
       "fromCity": "Budapest",
@@ -5651,17 +5640,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-22T11:25:23.843279Z"
-  },
-  "RYR2JL": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T17:20:32.008236Z"
   },
   "DFEFY": {
     "route": {
@@ -6808,39 +6786,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T16:45:32.122927Z"
-  },
-  "EJU32PZ": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-21T17:20:32.008236Z"
-  },
-  "THY49T": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-21T17:25:22.773539Z"
-  },
-  "LHX851": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T17:25:22.773539Z"
   },
   "BBG271": {
     "route": {
@@ -13200,5 +13145,42 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-10-23T17:20:31.294627Z"
+  },
+  "RYR14WN": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T17:25:23.084277Z"
+  },
+  "TJD800": {
+    "route": null,
+    "checked_at": "2026-10-23T17:25:23.084277Z"
+  },
+  "NIA851": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-23T17:25:23.084277Z"
+  },
+  "RYR8879": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-23T17:25:23.084277Z"
   }
 }
