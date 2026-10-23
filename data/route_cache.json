@@ -1641,7 +1641,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-22T08:30:48.301770Z"
+    "checked_at": "2026-10-23T12:15:31.083608Z"
   },
   "BEL8CE": {
     "route": {
@@ -2158,7 +2158,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-22T12:05:27.236228Z"
+    "checked_at": "2026-10-23T12:15:31.083608Z"
   },
   "VLG48MQ": {
     "route": {
@@ -2191,7 +2191,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T12:15:37.470613Z"
+    "checked_at": "2026-10-23T12:15:31.083608Z"
   },
   "EJU57RF": {
     "route": {
@@ -2224,7 +2224,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-22T12:35:25.270876Z"
+    "checked_at": "2026-10-23T12:15:31.083608Z"
   },
   "SXS6ZK": {
     "route": {
@@ -3725,7 +3725,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T12:05:27.236228Z"
+    "checked_at": "2026-10-23T12:15:31.083608Z"
   },
   "FIN01AD": {
     "route": {
@@ -4483,17 +4483,6 @@
     },
     "checked_at": "2026-10-23T11:35:22.636511Z"
   },
-  "CHH490": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Hainan Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-21T12:12:28.395741Z"
-  },
   "SWR9GE": {
     "route": {
       "fromCity": "Zurich",
@@ -5117,7 +5106,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T12:30:46.684279Z"
+    "checked_at": "2026-10-23T12:15:31.083608Z"
   },
   "DLH891": {
     "route": {
@@ -6643,32 +6632,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-23T11:50:34.068675Z"
-  },
-  "MSC2958": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Cairo",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-21T12:10:33.007500Z"
-  },
-  "EWG1CN": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-21T12:10:33.007500Z"
-  },
-  "NJE926H": {
-    "route": null,
-    "checked_at": "2026-10-21T12:10:33.007500Z"
   },
   "RYR73QL": {
     "route": {
@@ -13073,5 +13036,16 @@
   "MFX7613": {
     "route": null,
     "checked_at": "2026-10-23T12:10:31.310438Z"
+  },
+  "EWG75A": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-23T12:15:31.083608Z"
   }
 }
