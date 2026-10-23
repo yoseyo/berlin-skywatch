@@ -2638,7 +2638,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T18:55:26.436791Z"
+    "checked_at": "2026-10-23T19:05:23.987255Z"
   },
   "SAS1673": {
     "route": {
@@ -3633,7 +3633,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-22T19:20:36.527533Z"
+    "checked_at": "2026-10-23T19:05:23.987255Z"
   },
   "DLH9YA": {
     "route": {
@@ -6831,17 +6831,6 @@
     },
     "checked_at": "2026-10-23T18:50:31.217963Z"
   },
-  "SAS2778": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T19:00:58.706746Z"
-  },
   "DLH898": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -7771,7 +7760,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T06:55:26.044215Z"
+    "checked_at": "2026-10-23T19:05:23.987255Z"
   },
   "DEVMA": {
     "route": null,
@@ -13201,5 +13190,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T19:00:55.015124Z"
+  },
+  "WMT6363": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-23T19:05:23.987255Z"
+  },
+  "TAY6DN": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "ASL Airlines Belgium",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-23T19:05:23.987255Z"
+  },
+  "LOT7EG": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Goleniow",
+      "toIata": "SZZ",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-23T19:05:23.987255Z"
+  },
+  "SVI5318": {
+    "route": null,
+    "checked_at": "2026-10-23T19:05:23.987255Z"
   }
 }
