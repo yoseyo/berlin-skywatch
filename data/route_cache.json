@@ -273,7 +273,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-22T15:40:33.636824Z"
+    "checked_at": "2026-10-23T15:40:33.803206Z"
   },
   "THY3ZA": {
     "route": {
@@ -3046,7 +3046,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-21T17:35:26.055175Z"
+    "checked_at": "2026-10-23T15:40:33.803206Z"
   },
   "EJU32RT": {
     "route": null,
@@ -3905,7 +3905,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-22T15:05:28.140935Z"
+    "checked_at": "2026-10-23T15:40:33.803206Z"
   },
   "QTR56W": {
     "route": {
@@ -5141,17 +5141,6 @@
     },
     "checked_at": "2026-10-22T17:05:27.045327Z"
   },
-  "NSZ4VC": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-21T15:35:25.077061Z"
-  },
   "NSZ2066": {
     "route": {
       "fromCity": "Copenhagen",
@@ -5905,10 +5894,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-22T17:00:57.851587Z"
-  },
-  "CSDJL": {
-    "route": null,
-    "checked_at": "2026-10-21T15:40:31.199215Z"
   },
   "BTI3PR": {
     "route": {
@@ -6724,28 +6709,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T15:20:33.960652Z"
-  },
-  "NOZ1864": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-21T15:35:25.077061Z"
-  },
-  "RYR6V": {
-    "route": {
-      "fromCity": "Darlington, Durham",
-      "fromIata": "MME",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-21T15:35:25.077061Z"
   },
   "EWG9KG": {
     "route": {
@@ -8584,7 +8547,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T08:45:31.140771Z"
+    "checked_at": "2026-10-23T15:40:33.803206Z"
   },
   "NSZ2TH": {
     "route": {
@@ -13065,5 +13028,16 @@
   "DWW971": {
     "route": null,
     "checked_at": "2026-10-23T15:35:23.755940Z"
+  },
+  "THY9QR": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-23T15:40:33.803206Z"
   }
 }
