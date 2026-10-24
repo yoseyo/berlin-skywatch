@@ -6853,17 +6853,6 @@
     },
     "checked_at": "2026-10-23T15:25:24.654942Z"
   },
-  "CFG4LU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T15:30:45.089156Z"
-  },
   "EWG25Z": {
     "route": {
       "fromCity": "Barcelona",
@@ -6947,7 +6936,7 @@
   },
   "MDT5": {
     "route": null,
-    "checked_at": "2026-10-22T16:10:34.433434Z"
+    "checked_at": "2026-10-24T15:35:22.342349Z"
   },
   "ISR251": {
     "route": {
@@ -13331,5 +13320,38 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-24T15:30:43.258172Z"
+  },
+  "AEE408": {
+    "route": {
+      "fromCity": "Kalamata",
+      "fromIata": "KLX",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-24T15:35:22.342349Z"
+  },
+  "SXS9RW": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T15:35:22.342349Z"
+  },
+  "RYR665R": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T15:35:22.342349Z"
   }
 }
