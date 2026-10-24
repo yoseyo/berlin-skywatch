@@ -295,7 +295,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T15:05:28.140935Z"
+    "checked_at": "2026-10-24T10:10:32.605433Z"
   },
   "SXS16E": {
     "route": {
@@ -1659,7 +1659,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T10:20:33.265686Z"
+    "checked_at": "2026-10-24T10:10:32.605433Z"
   },
   "EJU87YF": {
     "route": {
@@ -4722,17 +4722,6 @@
     },
     "checked_at": "2026-10-23T10:10:30.732389Z"
   },
-  "LOT5N": {
-    "route": {
-      "fromCity": "New York",
-      "fromIata": "JFK",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-22T10:05:26.997379Z"
-  },
   "RYR74EM": {
     "route": {
       "fromCity": "Berlin",
@@ -5439,17 +5428,6 @@
     },
     "checked_at": "2026-10-23T18:25:37.855178Z"
   },
-  "WZZ6LM": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-22T10:05:26.997379Z"
-  },
   "VLG23BJ": {
     "route": {
       "fromCity": "Barcelona",
@@ -6008,17 +5986,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-23T10:25:25.348272Z"
-  },
-  "RYR525H": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T10:05:26.997379Z"
   },
   "CEF01": {
     "route": null,
@@ -6766,14 +6733,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-23T10:05:24.727192Z"
-  },
-  "DEAKE": {
-    "route": null,
-    "checked_at": "2026-10-22T10:05:26.997379Z"
-  },
-  "NJE703E": {
-    "route": null,
-    "checked_at": "2026-10-22T10:05:26.997379Z"
   },
   "FHY1683": {
     "route": {
@@ -13136,5 +13095,16 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-24T10:05:23.717884Z"
+  },
+  "PGT979": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T10:10:32.605433Z"
   }
 }
