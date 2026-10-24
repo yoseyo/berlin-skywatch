@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "RYR353",
-      "country": "Ireland",
-      "lat": 52.3363,
-      "lon": 13.8945,
-      "altKm": 5.8,
-      "speedKmh": 750,
-      "heading": 102,
-      "vertRateMs": 13.7,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "EJU43CD",
+      "country": "Austria",
+      "lat": 52.336,
+      "lon": 13.4408,
+      "altKm": 0.6,
+      "speedKmh": 296,
+      "heading": 234,
+      "vertRateMs": 9.8,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tivat",
+      "toIata": "TIV",
+      "category": "plane"
+    },
+    {
+      "callsign": "AFR84XP",
+      "country": "France",
+      "lat": 52.2386,
+      "lon": 13.1293,
+      "altKm": 3.0,
+      "speedKmh": 488,
+      "heading": 254,
+      "vertRateMs": 12.0,
+      "airline": "Air France",
+      "airlineCountry": "France",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T04:20:29.055454Z"
+  "updated_at": "2026-10-24T04:25:23.534766Z"
 }
