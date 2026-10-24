@@ -3835,7 +3835,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-23T15:15:31.450693Z"
+    "checked_at": "2026-10-24T14:55:24.593811Z"
   },
   "EZY29HQ": {
     "route": {
@@ -5618,10 +5618,6 @@
     },
     "checked_at": "2026-10-23T07:45:29.243049Z"
   },
-  "HBVAS": {
-    "route": null,
-    "checked_at": "2026-10-22T14:50:33.260600Z"
-  },
   "SXS6WA": {
     "route": {
       "fromCity": "Berlin",
@@ -6813,21 +6809,6 @@
     },
     "checked_at": "2026-10-23T20:00:52.918753Z"
   },
-  "PHBRO": {
-    "route": null,
-    "checked_at": "2026-10-22T14:50:33.260600Z"
-  },
-  "DFEIC": {
-    "route": {
-      "fromCity": "Vilshofen",
-      "fromIata": null,
-      "toCity": "Vilshofen",
-      "toIata": null,
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-22T14:50:33.260600Z"
-  },
   "WZZ242": {
     "route": {
       "fromCity": "Budapest",
@@ -6903,7 +6884,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-23T15:10:33.006263Z"
+    "checked_at": "2026-10-24T14:55:24.593811Z"
   },
   "BTI3FL": {
     "route": {
@@ -13321,5 +13302,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T14:45:28.211434Z"
+  },
+  "LHX3PP": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T14:55:24.593811Z"
   }
 }
