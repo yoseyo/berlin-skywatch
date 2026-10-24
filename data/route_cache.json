@@ -361,7 +361,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-22T16:10:34.433434Z"
+    "checked_at": "2026-10-24T15:50:30.261395Z"
   },
   "LOT389": {
     "route": {
@@ -6830,21 +6830,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T15:25:24.654942Z"
-  },
-  "JNJ20V": {
-    "route": null,
-    "checked_at": "2026-10-22T15:45:32.649299Z"
-  },
-  "FIN2K": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-22T15:45:32.649299Z"
   },
   "RYR5XX": {
     "route": {
@@ -13386,5 +13371,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T15:45:28.557094Z"
+  },
+  "RYR108X": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T15:50:30.261395Z"
   }
 }
