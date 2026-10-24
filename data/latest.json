@@ -1,50 +1,16 @@
 {
   "flights": [
     {
-      "callsign": "BTI3HK",
-      "country": "Latvia",
-      "lat": 52.5796,
-      "lon": 13.7855,
-      "altKm": 10.7,
-      "speedKmh": 933,
-      "heading": 69,
-      "vertRateMs": 0,
-      "airline": "Air Baltic",
-      "airlineCountry": "Latvia",
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "category": "plane"
-    },
-    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.4323,
-      "lon": 13.7259,
+      "lat": 52.4403,
+      "lon": 13.722,
       "altKm": 0.9,
-      "speedKmh": 43,
-      "heading": 185,
+      "speedKmh": 74,
+      "heading": 148,
       "vertRateMs": 0,
       "category": "heli"
-    },
-    {
-      "callsign": "RYR1893",
-      "country": "Ireland",
-      "lat": 52.8102,
-      "lon": 13.3027,
-      "altKm": 11.7,
-      "speedKmh": 687,
-      "heading": 277,
-      "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Bydgoszcz",
-      "fromIata": "BZG",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T23:10:33.127947Z"
+  "updated_at": "2026-10-24T23:15:27.962093Z"
 }
