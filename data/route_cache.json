@@ -746,7 +746,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T19:10:30.408785Z"
+    "checked_at": "2026-10-24T19:10:29.906673Z"
   },
   "RYR3RD": {
     "route": {
@@ -1241,7 +1241,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T13:05:24.767251Z"
+    "checked_at": "2026-10-24T19:10:29.906673Z"
   },
   "WZZ84": {
     "route": {
@@ -6915,17 +6915,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T18:25:25.179367Z"
-  },
-  "BTI6CD": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-22T19:05:26.763002Z"
   },
   "NSZ3304": {
     "route": {
@@ -13370,5 +13359,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T19:05:23.881513Z"
+  },
+  "CFG2XU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T19:10:29.906673Z"
+  },
+  "EWG6FR": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T19:10:29.906673Z"
   }
 }
