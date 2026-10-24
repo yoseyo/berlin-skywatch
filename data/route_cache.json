@@ -2473,7 +2473,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-23T04:05:23.259220Z"
+    "checked_at": "2026-10-24T04:30:42.112662Z"
   },
   "LGL91B": {
     "route": {
@@ -3310,7 +3310,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T04:45:29.976352Z"
+    "checked_at": "2026-10-24T04:30:42.112662Z"
   },
   "EJU69DQ": {
     "route": {
@@ -3842,7 +3842,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-23T04:40:30.711698Z"
+    "checked_at": "2026-10-24T04:30:42.112662Z"
   },
   "SAS81L": {
     "route": {
@@ -6882,28 +6882,6 @@
   "ELY001": {
     "route": null,
     "checked_at": "2026-10-23T02:05:25.738346Z"
-  },
-  "EJU83RT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-22T04:25:24.504636Z"
-  },
-  "RYR7662": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T04:30:41.505594Z"
   },
   "RYR5603": {
     "route": {
@@ -13147,5 +13125,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T04:15:29.737822Z"
+  },
+  "EJU49AU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T04:30:42.112662Z"
+  },
+  "RYR98ST": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T04:30:42.112662Z"
+  },
+  "SDR59KW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T04:30:42.112662Z"
   }
 }
