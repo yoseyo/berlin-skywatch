@@ -1252,7 +1252,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-23T10:50:30.594683Z"
+    "checked_at": "2026-10-24T09:10:31.294944Z"
   },
   "SWR97Y": {
     "route": {
@@ -3464,7 +3464,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T09:45:31.112528Z"
+    "checked_at": "2026-10-24T09:10:31.294944Z"
   },
   "CCA939": {
     "route": {
@@ -3487,17 +3487,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T17:50:30.617203Z"
-  },
-  "RYR62HD": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T09:05:38.588676Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -5243,17 +5232,6 @@
   "DCWWW": {
     "route": null,
     "checked_at": "2026-10-22T13:55:25.495044Z"
-  },
-  "SAS1694": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T09:05:38.588676Z"
   },
   "NOZ52Z": {
     "route": {
@@ -13105,5 +13083,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T09:05:26.022734Z"
+  },
+  "EJU94QK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T09:10:31.294944Z"
+  },
+  "LBT2335": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Djerba",
+      "toIata": "DJE",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-24T09:10:31.294944Z"
   }
 }
