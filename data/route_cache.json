@@ -1186,7 +1186,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T06:15:30.656453Z"
+    "checked_at": "2026-10-24T06:05:24.072874Z"
   },
   "RYR120T": {
     "route": {
@@ -4004,7 +4004,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T14:35:26.574194Z"
+    "checked_at": "2026-10-24T06:05:24.072874Z"
   },
   "LOT4CN": {
     "route": {
@@ -4810,10 +4810,6 @@
     },
     "checked_at": "2026-10-23T08:45:29.344302Z"
   },
-  "LEJ110": {
-    "route": null,
-    "checked_at": "2026-10-22T06:00:53.192002Z"
-  },
   "DLH890": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5321,17 +5317,6 @@
     },
     "checked_at": "2026-10-22T06:20:30.530539Z"
   },
-  "PGT17GP": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-22T06:00:53.192002Z"
-  },
   "THY1LZ": {
     "route": {
       "fromCity": "M\u00e1laga",
@@ -5482,17 +5467,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T04:25:23.534766Z"
-  },
-  "EJU93DL": {
-    "route": {
-      "fromCity": "Kerkyra Island",
-      "fromIata": "CFU",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-22T06:00:53.192002Z"
   },
   "DLH8LY": {
     "route": {
@@ -5889,7 +5863,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T05:15:29.443748Z"
+    "checked_at": "2026-10-24T06:05:24.072874Z"
   },
   "ITL201": {
     "route": {
@@ -6533,17 +6507,6 @@
     },
     "checked_at": "2026-10-23T08:55:24.227263Z"
   },
-  "RYR3LF": {
-    "route": {
-      "fromCity": "Marseille",
-      "fromIata": "MRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T06:00:53.192002Z"
-  },
   "EJU5075": {
     "route": null,
     "checked_at": "2026-10-22T16:50:32.293640Z"
@@ -6867,28 +6830,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T08:35:26.816539Z"
-  },
-  "VKG176": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-22T06:00:53.192002Z"
-  },
-  "EJU41DH": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-22T06:05:22.988607Z"
   },
   "FIN6Y": {
     "route": {
@@ -13098,5 +13039,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T05:55:22.540295Z"
+  },
+  "ETH724": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-24T06:05:24.072874Z"
+  },
+  "EJU85XR": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T06:05:24.072874Z"
+  },
+  "WMT7LY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-24T06:05:24.072874Z"
   }
 }
