@@ -3486,7 +3486,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T17:50:30.617203Z"
+    "checked_at": "2026-10-24T18:00:53.812740Z"
   },
   "AFR38LQ": {
     "route": null,
@@ -4416,17 +4416,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T15:35:23.755940Z"
-  },
-  "CXI1V": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Funchal",
-      "toIata": "FNC",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-22T17:55:26.171434Z"
   },
   "EZY27LF": {
     "route": {
@@ -13396,5 +13385,38 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-24T17:55:21.991718Z"
+  },
+  "SAS7845": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T18:00:53.812740Z"
+  },
+  "RYR3XX": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T18:00:53.812740Z"
+  },
+  "SAS65K": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T18:00:53.812740Z"
   }
 }
