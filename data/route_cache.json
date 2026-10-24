@@ -1318,7 +1318,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T07:15:30.916626Z"
+    "checked_at": "2026-10-24T06:55:22.571542Z"
   },
   "SAS767": {
     "route": {
@@ -1329,7 +1329,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-23T07:15:30.916626Z"
+    "checked_at": "2026-10-24T06:55:22.571542Z"
   },
   "DLH3TR": {
     "route": {
@@ -2495,7 +2495,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-23T06:25:22.436635Z"
+    "checked_at": "2026-10-24T06:55:22.571542Z"
   },
   "LGL92B": {
     "route": {
@@ -5295,17 +5295,6 @@
     },
     "checked_at": "2026-10-24T06:45:29.118099Z"
   },
-  "EWG3VL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T06:50:33.812670Z"
-  },
   "THY5CS": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6811,28 +6800,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-23T13:55:25.426425Z"
-  },
-  "CFG8JC": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T06:50:33.812670Z"
-  },
-  "RYR9846": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "\u0141\u00f3d\u017a",
-      "toIata": "LCJ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T06:50:33.812670Z"
   },
   "ETH3887": {
     "route": null,
@@ -13082,5 +13049,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T06:45:29.118099Z"
+  },
+  "DLH5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T06:55:22.571542Z"
+  },
+  "ASL94D": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-24T06:55:22.571542Z"
   }
 }
