@@ -845,7 +845,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-23T20:55:22.996357Z"
+    "checked_at": "2026-10-24T20:15:30.492261Z"
   },
   "DLH4T": {
     "route": {
@@ -6982,17 +6982,6 @@
     },
     "checked_at": "2026-10-23T19:45:31.745523Z"
   },
-  "UAE9964": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Jebel Ali",
-      "toIata": "DWC",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-22T20:10:31.520136Z"
-  },
   "BTI9GR": {
     "route": {
       "fromCity": "Berlin",
@@ -8050,7 +8039,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T08:35:26.816539Z"
+    "checked_at": "2026-10-24T20:15:30.492261Z"
   },
   "DMAAC": {
     "route": null,
@@ -13392,5 +13381,27 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-24T20:10:29.213126Z"
+  },
+  "RYR2501": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T20:15:30.492261Z"
+  },
+  "RYR8277": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T20:15:30.492261Z"
   }
 }
