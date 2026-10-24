@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "WZZ1469",
+      "country": "Hungary",
+      "lat": 52.9338,
+      "lon": 13.7186,
+      "altKm": 10.7,
+      "speedKmh": 968,
+      "heading": 173,
+      "vertRateMs": 0.3,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Skopje",
+      "toIata": "SKP",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR67ZT",
       "country": "Poland",
-      "lat": 52.5801,
-      "lon": 13.1171,
+      "lat": 52.5748,
+      "lon": 13.4814,
       "altKm": 10.7,
       "speedKmh": 958,
-      "heading": 91,
-      "vertRateMs": 0,
+      "heading": 92,
+      "vertRateMs": -0.3,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Sofia",
@@ -20,10 +37,10 @@
     {
       "callsign": "RYR5WP",
       "country": "Poland",
-      "lat": 52.3803,
-      "lon": 13.2415,
+      "lat": 52.4914,
+      "lon": 13.4942,
       "altKm": 11.3,
-      "speedKmh": 820,
+      "speedKmh": 816,
       "heading": 54,
       "vertRateMs": 0,
       "airline": "Ryanair",
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T21:53:49.112048Z"
+  "updated_at": "2026-10-24T21:55:21.408924Z"
 }
