@@ -834,7 +834,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T11:00:57.103369Z"
+    "checked_at": "2026-10-24T20:20:31.139857Z"
   },
   "KLM27F": {
     "route": {
@@ -4922,18 +4922,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-23T20:30:43.786546Z"
-  },
-  "SWT9ER": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Swiftair",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-22T20:15:34.660563Z"
+    "checked_at": "2026-10-24T20:20:31.139857Z"
   },
   "RYR28BE": {
     "route": {
@@ -6981,28 +6970,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-23T19:45:31.745523Z"
-  },
-  "BTI9GR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-22T20:15:34.660563Z"
-  },
-  "SXS2LD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gaziantep",
-      "toIata": "GZT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-22T20:15:34.660563Z"
   },
   "NSZ3305": {
     "route": {
@@ -13403,5 +13370,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T20:15:30.492261Z"
+  },
+  "EZY78AL": {
+    "route": {
+      "fromCity": "Belfast",
+      "fromIata": "BFS",
+      "toCity": "Saint Helier",
+      "toIata": "JER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-24T20:20:31.139857Z"
+  },
+  "WZZ4BB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-24T20:20:31.139857Z"
+  },
+  "EWG2MD": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T20:20:31.139857Z"
+  },
+  "SDR16XK": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T20:20:31.139857Z"
   }
 }
