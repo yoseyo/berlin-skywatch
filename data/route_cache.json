@@ -181,7 +181,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T14:10:34.960973Z"
+    "checked_at": "2026-10-24T14:05:24.241184Z"
   },
   "CHX82": {
     "route": null,
@@ -6795,28 +6795,6 @@
     },
     "checked_at": "2026-10-24T13:20:32.973173Z"
   },
-  "CCA935": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-22T14:00:59.651922Z"
-  },
-  "KLM49N": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-22T14:00:59.651922Z"
-  },
   "CCA931": {
     "route": {
       "fromCity": "Beijing",
@@ -13301,5 +13279,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T14:00:52.136234Z"
+  },
+  "NSZ3352": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T14:05:24.241184Z"
+  },
+  "DLH8HU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Dresden",
+      "toIata": "DRS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T14:05:24.241184Z"
+  },
+  "RYR9092": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T14:05:24.241184Z"
   }
 }
