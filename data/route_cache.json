@@ -3644,7 +3644,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-23T12:15:31.083608Z"
+    "checked_at": "2026-10-24T11:25:23.747877Z"
   },
   "SAS55L": {
     "route": {
@@ -3938,7 +3938,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T11:55:24.162204Z"
+    "checked_at": "2026-10-24T11:25:23.747877Z"
   },
   "RYR28LA": {
     "route": {
@@ -5427,17 +5427,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-23T18:55:24.278841Z"
-  },
-  "WZZ4BB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-22T11:20:34.759346Z"
   },
   "EJU78LB": {
     "route": {
@@ -13072,5 +13061,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-24T11:20:31.368068Z"
+  },
+  "GCK18": {
+    "route": {
+      "fromCity": "Mykonos Island",
+      "fromIata": "JMK",
+      "toCity": "Klagenfurt am W\u00f6rthersee",
+      "toIata": "KLU",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-24T11:25:23.747877Z"
+  },
+  "RYR3309": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T11:25:23.747877Z"
   }
 }
