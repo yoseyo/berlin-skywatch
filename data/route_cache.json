@@ -1967,7 +1967,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T10:50:30.594683Z"
+    "checked_at": "2026-10-24T10:55:24.843321Z"
   },
   "LOT282": {
     "route": {
@@ -2910,7 +2910,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T11:00:57.103369Z"
+    "checked_at": "2026-10-24T10:55:24.843321Z"
   },
   "BAW91J": {
     "route": {
@@ -4357,17 +4357,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-23T15:20:33.960652Z"
-  },
-  "NOZ1123": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bergen",
-      "toIata": "BGO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-22T10:55:24.385435Z"
   },
   "DMS2RV": {
     "route": {
@@ -6745,28 +6734,6 @@
     },
     "checked_at": "2026-10-23T10:15:30.927953Z"
   },
-  "NSZ4501": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T10:50:33.529577Z"
-  },
-  "EJU94YN": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-22T10:50:33.529577Z"
-  },
   "EJU92MK": {
     "route": {
       "fromCity": "Berlin",
@@ -6777,36 +6744,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T17:35:24.020221Z"
-  },
-  "QTR727": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Philadelphia",
-      "toIata": "PHL",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-22T10:50:33.529577Z"
-  },
-  "RYR5979": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T10:55:24.385435Z"
-  },
-  "NJE532A": {
-    "route": null,
-    "checked_at": "2026-10-22T10:55:24.385435Z"
-  },
-  "EWG27D": {
-    "route": null,
-    "checked_at": "2026-10-22T10:55:24.385435Z"
   },
   "VLG2WM": {
     "route": {
@@ -13128,5 +13065,20 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-24T10:50:32.047134Z"
+  },
+  "EJU93DL": {
+    "route": {
+      "fromCity": "Kerkyra Island",
+      "fromIata": "CFU",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T10:55:24.843321Z"
+  },
+  "NJE156A": {
+    "route": null,
+    "checked_at": "2026-10-24T10:55:24.843321Z"
   }
 }
