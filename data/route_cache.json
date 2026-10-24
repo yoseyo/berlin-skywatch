@@ -1769,7 +1769,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T09:35:24.563827Z"
+    "checked_at": "2026-10-24T10:20:31.453139Z"
   },
   "RYR3NJ": {
     "route": {
@@ -6745,32 +6745,6 @@
     },
     "checked_at": "2026-10-23T06:10:32.002347Z"
   },
-  "UAE33T": {
-    "route": {
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Paisley, Renfrewshire",
-      "toIata": "GLA",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-22T10:15:32.193691Z"
-  },
-  "EFD5D": {
-    "route": null,
-    "checked_at": "2026-10-22T10:15:32.193691Z"
-  },
-  "RYR89YH": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T10:15:32.193691Z"
-  },
   "PGT21PC": {
     "route": {
       "fromCity": "Pendik, Istanbul",
@@ -8501,7 +8475,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-23T12:00:56.300800Z"
+    "checked_at": "2026-10-24T10:20:31.453139Z"
   },
   "NOZ5EU": {
     "route": {
@@ -13117,5 +13091,27 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-10-24T10:15:28.464189Z"
+  },
+  "EJU95RP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T10:20:31.453139Z"
+  },
+  "CFG3RW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T10:20:31.453139Z"
   }
 }
