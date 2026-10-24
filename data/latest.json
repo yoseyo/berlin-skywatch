@@ -1,48 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "EJU62LY",
-      "country": "Austria",
-      "lat": 52.1884,
-      "lon": 12.8975,
-      "altKm": 4.5,
-      "speedKmh": 609,
-      "heading": 255,
-      "vertRateMs": 10.4,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "category": "plane"
-    },
-    {
-      "callsign": "TAP53EI",
-      "country": "Portugal",
-      "lat": 52.233,
-      "lon": 13.2173,
-      "altKm": 2.4,
-      "speedKmh": 450,
-      "heading": 272,
-      "vertRateMs": 11.1,
-      "airline": "TAP Portugal",
-      "airlineCountry": "Portugal",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "category": "plane"
-    },
-    {
       "callsign": "RYR353",
       "country": "Ireland",
-      "lat": 52.3604,
-      "lon": 13.2042,
-      "altKm": 2.7,
-      "speedKmh": 492,
-      "heading": 345,
-      "vertRateMs": 15.9,
+      "lat": 52.3363,
+      "lon": 13.8945,
+      "altKm": 5.8,
+      "speedKmh": 750,
+      "heading": 102,
+      "vertRateMs": 13.7,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Eindhoven",
@@ -50,37 +16,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR58ZM",
-      "country": "Ireland",
-      "lat": 52.1994,
-      "lon": 13.2668,
-      "altKm": 3.5,
-      "speedKmh": 545,
-      "heading": 171,
-      "vertRateMs": 5.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR63VQ",
-      "country": "Malta",
-      "lat": 52.3539,
-      "lon": 13.4292,
-      "altKm": 1.0,
-      "speedKmh": 264,
-      "heading": 249,
-      "vertRateMs": 12.0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T04:15:29.737822Z"
+  "updated_at": "2026-10-24T04:20:29.055454Z"
 }
