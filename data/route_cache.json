@@ -2209,7 +2209,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T12:45:30.315152Z"
+    "checked_at": "2026-10-24T12:50:30.463871Z"
   },
   "KLM1314": {
     "route": {
@@ -2264,7 +2264,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-23T12:55:24.655576Z"
+    "checked_at": "2026-10-24T12:50:30.463871Z"
   },
   "TKJ4ZV": {
     "route": {
@@ -4808,7 +4808,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T12:45:32.316246Z"
+    "checked_at": "2026-10-24T12:50:30.463871Z"
   },
   "NOZ6TY": {
     "route": {
@@ -6217,7 +6217,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-22T17:40:31.847221Z"
+    "checked_at": "2026-10-24T12:50:30.463871Z"
   },
   "BTI6UN": {
     "route": {
@@ -6832,10 +6832,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T12:25:22.494011Z"
-  },
-  "VJT809": {
-    "route": null,
-    "checked_at": "2026-10-22T12:45:32.316246Z"
   },
   "RYR54BW": {
     "route": {
@@ -10176,7 +10172,7 @@
   },
   "THY3376": {
     "route": null,
-    "checked_at": "2026-10-23T13:30:51.647924Z"
+    "checked_at": "2026-10-24T12:50:30.463871Z"
   },
   "AWH91C": {
     "route": null,
@@ -13178,5 +13174,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T12:45:30.134745Z"
+  },
+  "DLH5N": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T12:50:30.463871Z"
+  },
+  "NSZ3661": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T12:50:30.463871Z"
+  },
+  "RYR525H": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T12:50:30.463871Z"
+  },
+  "EWG1CN": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T12:50:30.463871Z"
   }
 }
