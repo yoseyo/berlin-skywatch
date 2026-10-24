@@ -5306,17 +5306,6 @@
     },
     "checked_at": "2026-10-23T04:00:54.636650Z"
   },
-  "NSZ3280": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T04:40:31.824826Z"
-  },
   "WMT7615": {
     "route": null,
     "checked_at": "2026-10-22T05:15:28.148382Z"
@@ -7316,7 +7305,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-22T07:20:32.636477Z"
+    "checked_at": "2026-10-24T04:45:29.883031Z"
   },
   "CFG6DF": {
     "route": {
@@ -13176,5 +13165,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T04:35:22.863296Z"
+  },
+  "WZZ8025": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-24T04:45:29.883031Z"
   }
 }
