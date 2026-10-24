@@ -1714,7 +1714,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T10:30:44.319823Z"
+    "checked_at": "2026-10-24T09:25:22.969872Z"
   },
   "AUA226K": {
     "route": {
@@ -6771,17 +6771,6 @@
     },
     "checked_at": "2026-10-24T09:05:26.022734Z"
   },
-  "BTI9TZ": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-22T09:20:33.906818Z"
-  },
   "SAH59P": {
     "route": {
       "fromCity": "Sevilla",
@@ -6792,10 +6781,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-23T15:20:33.960652Z"
-  },
-  "NJE398V": {
-    "route": null,
-    "checked_at": "2026-10-22T09:20:33.906818Z"
   },
   "AYJ434": {
     "route": null,
@@ -13112,5 +13097,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T09:20:32.270803Z"
+  },
+  "NSZ9EF": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T09:25:22.969872Z"
+  },
+  "BTI69R": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-24T09:25:22.969872Z"
+  },
+  "NIA8601": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-24T09:25:22.969872Z"
   }
 }
