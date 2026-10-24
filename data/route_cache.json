@@ -1439,7 +1439,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T07:25:24.642604Z"
+    "checked_at": "2026-10-24T07:35:24.396025Z"
   },
   "PGT28RL": {
     "route": {
@@ -5321,17 +5321,6 @@
     "route": null,
     "checked_at": "2026-10-22T13:55:25.495044Z"
   },
-  "PGT390G": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-22T07:30:44.422747Z"
-  },
   "SAS1694": {
     "route": {
       "fromCity": "Vienna",
@@ -6774,32 +6763,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T04:45:29.883031Z"
-  },
-  "WZZ1BD": {
-    "route": {
-      "fromCity": "Timi\u015foara",
-      "fromIata": "TSR",
-      "toCity": "Frankfurt am Main",
-      "toIata": "HHN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-22T07:35:22.636939Z"
-  },
-  "DBJKP": {
-    "route": {
-      "fromCity": "M\u00f6nchengladbach",
-      "fromIata": "MGL",
-      "toCity": "Aalborg",
-      "toIata": "AAL",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-22T07:35:22.636939Z"
-  },
-  "NJE115Y": {
-    "route": null,
-    "checked_at": "2026-10-22T07:35:22.636939Z"
   },
   "NSZ6GR": {
     "route": {
@@ -11456,7 +11419,7 @@
   },
   "CHX49": {
     "route": null,
-    "checked_at": "2026-10-23T15:00:59.520231Z"
+    "checked_at": "2026-10-24T07:35:24.396025Z"
   },
   "CFG3NY": {
     "route": {
@@ -11821,7 +11784,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T17:05:25.695354Z"
+    "checked_at": "2026-10-24T07:35:24.396025Z"
   },
   "SWR1PF": {
     "route": {
@@ -13040,5 +13003,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T07:30:42.944095Z"
+  },
+  "EJU85UF": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T07:35:24.396025Z"
+  },
+  "LBT2334": {
+    "route": {
+      "fromCity": "Djerba",
+      "fromIata": "DJE",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-24T07:35:24.396025Z"
   }
 }
