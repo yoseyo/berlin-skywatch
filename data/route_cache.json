@@ -5906,17 +5906,6 @@
     },
     "checked_at": "2026-10-23T08:50:33.608987Z"
   },
-  "CCA446": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Jianyang, Chengdu",
-      "toIata": "TFU",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-22T12:40:34.844516Z"
-  },
   "LOT238": {
     "route": {
       "fromCity": "Brussels",
@@ -6844,17 +6833,6 @@
     },
     "checked_at": "2026-10-23T12:25:22.494011Z"
   },
-  "SAS1697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T12:40:34.844516Z"
-  },
   "VJT809": {
     "route": null,
     "checked_at": "2026-10-22T12:45:32.316246Z"
@@ -7187,7 +7165,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-22T14:50:33.260600Z"
+    "checked_at": "2026-10-24T12:45:30.134745Z"
   },
   "RYR55VV": {
     "route": {
@@ -13178,5 +13156,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-24T12:40:30.089393Z"
+  },
+  "EJU5367": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T12:45:30.134745Z"
+  },
+  "RYR9WQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T12:45:30.134745Z"
   }
 }
