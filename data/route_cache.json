@@ -5906,17 +5906,6 @@
     },
     "checked_at": "2026-10-23T10:25:25.348272Z"
   },
-  "CES244": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-22T13:35:26.399454Z"
-  },
   "RYR159P": {
     "route": {
       "fromCity": "Vilnius",
@@ -13258,5 +13247,31 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-24T13:35:23.856526Z"
+  },
+  "NSZ82ME": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T13:40:31.115035Z"
+  },
+  "ABF2": {
+    "route": null,
+    "checked_at": "2026-10-24T13:40:31.115035Z"
+  },
+  "DLH4AA": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T13:40:31.115035Z"
   }
 }
