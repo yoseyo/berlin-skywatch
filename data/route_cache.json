@@ -1043,7 +1043,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T05:40:31.722804Z"
+    "checked_at": "2026-10-24T05:25:22.209647Z"
   },
   "BEL8YE": {
     "route": {
@@ -6894,28 +6894,6 @@
     },
     "checked_at": "2026-10-23T09:15:30.351406Z"
   },
-  "EWG95T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T05:20:31.191664Z"
-  },
-  "RYR17UC": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T05:20:31.191664Z"
-  },
   "DIPBB": {
     "route": null,
     "checked_at": "2026-10-22T05:25:23.791790Z"
@@ -8855,7 +8833,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T16:10:34.433434Z"
+    "checked_at": "2026-10-24T05:25:22.209647Z"
   },
   "EZS1589": {
     "route": {
@@ -13154,5 +13132,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T05:20:29.883205Z"
+  },
+  "BTI7PY": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-24T05:25:22.209647Z"
+  },
+  "EWG1T": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T05:25:22.209647Z"
+  },
+  "WZZ246": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-24T05:25:22.209647Z"
   }
 }
