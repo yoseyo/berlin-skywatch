@@ -1791,7 +1791,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T10:10:30.732389Z"
+    "checked_at": "2026-10-24T10:05:23.717884Z"
   },
   "KLM1775": {
     "route": {
@@ -6766,28 +6766,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-23T10:05:24.727192Z"
-  },
-  "NOZ8BE": {
-    "route": {
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-22T10:00:58.133914Z"
-  },
-  "CFG8DF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T10:00:58.133914Z"
   },
   "DEAKE": {
     "route": null,
@@ -13147,5 +13125,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T09:55:23.071083Z"
+  },
+  "AEE751": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-24T10:05:23.717884Z"
   }
 }
