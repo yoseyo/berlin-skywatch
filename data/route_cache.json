@@ -196,7 +196,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T14:50:30.838645Z"
+    "checked_at": "2026-10-24T14:40:30.854140Z"
   },
   "KLM1779": {
     "route": {
@@ -4235,7 +4235,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-23T07:40:32.509942Z"
+    "checked_at": "2026-10-24T14:40:30.854140Z"
   },
   "BAW843": {
     "route": {
@@ -6169,10 +6169,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-23T18:35:26.261758Z"
-  },
-  "AJO177": {
-    "route": null,
-    "checked_at": "2026-10-22T14:35:25.176467Z"
   },
   "SAS696": {
     "route": {
@@ -10177,7 +10173,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T14:55:24.296411Z"
+    "checked_at": "2026-10-24T14:40:30.854140Z"
   },
   "CHX49": {
     "route": null,
@@ -13314,5 +13310,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T14:30:44.521990Z"
+  },
+  "SAS6075": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T14:40:30.854140Z"
   }
 }
