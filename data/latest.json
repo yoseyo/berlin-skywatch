@@ -1,4 +1,61 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-24T03:55:23.269736Z"
+  "flights": [
+    {
+      "callsign": "EWG9B",
+      "country": "Germany",
+      "lat": 52.3438,
+      "lon": 13.4615,
+      "altKm": 0.4,
+      "speedKmh": 298,
+      "heading": 248,
+      "vertRateMs": 15.6,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR8865",
+      "country": "Ireland",
+      "lat": 52.2886,
+      "lon": 13.3241,
+      "altKm": 2.4,
+      "speedKmh": 430,
+      "heading": 173,
+      "vertRateMs": 4.2,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS8ER",
+      "country": "Turkey",
+      "lat": 52.3132,
+      "lon": 13.9394,
+      "altKm": 1.8,
+      "speedKmh": 487,
+      "heading": 335,
+      "vertRateMs": -5.5,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Diyarbak\u0131r",
+      "fromIata": "DIY",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR3YW",
+      "country": "Malta",
+      "lat": 52.361,
+      "lon": 13.4568,
+      "altKm": 0.8,
+      "speedKmh": 256,
+      "heading": 247,
+      "vertRateMs": 12.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-24T04:00:49.739722Z"
 }
