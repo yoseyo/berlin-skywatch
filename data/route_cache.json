@@ -2638,7 +2638,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T19:05:23.987255Z"
+    "checked_at": "2026-10-24T19:05:23.881513Z"
   },
   "SAS1673": {
     "route": {
@@ -6915,17 +6915,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T18:25:25.179367Z"
-  },
-  "EZY32CB": {
-    "route": {
-      "fromCity": "Liverpool",
-      "fromIata": "LPL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-22T19:00:58.305464Z"
   },
   "BTI6CD": {
     "route": {
@@ -13370,5 +13359,16 @@
   "HUE222": {
     "route": null,
     "checked_at": "2026-10-24T18:50:30.395712Z"
+  },
+  "DLH898": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T19:05:23.881513Z"
   }
 }
