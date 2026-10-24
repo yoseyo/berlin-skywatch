@@ -229,7 +229,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-23T15:15:31.450693Z"
+    "checked_at": "2026-10-24T15:10:32.945877Z"
   },
   "PGT978": {
     "route": {
@@ -6842,17 +6842,6 @@
     },
     "checked_at": "2026-10-23T14:15:34.878529Z"
   },
-  "SDR44PT": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T15:05:28.140935Z"
-  },
   "FHY1273": {
     "route": {
       "fromCity": "Antalya",
@@ -7618,7 +7607,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-23T11:55:24.162204Z"
+    "checked_at": "2026-10-24T15:10:32.945877Z"
   },
   "AUA99B": {
     "route": {
@@ -13284,5 +13273,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T15:00:56.528990Z"
+  },
+  "THY3354": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T15:10:32.945877Z"
+  },
+  "SAS2859": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T15:10:32.945877Z"
+  },
+  "KLM49N": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-24T15:10:32.945877Z"
+  },
+  "MSC2959": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Air Cairo",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-24T15:10:32.945877Z"
   }
 }
