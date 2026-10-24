@@ -1747,7 +1747,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T10:00:56.281727Z"
+    "checked_at": "2026-10-24T09:35:24.591578Z"
   },
   "KLM75C": {
     "route": {
@@ -5582,10 +5582,6 @@
     },
     "checked_at": "2026-10-24T08:05:24.039118Z"
   },
-  "ATU100": {
-    "route": null,
-    "checked_at": "2026-10-22T09:30:45.836254Z"
-  },
   "TAP53EI": {
     "route": {
       "fromCity": "Berlin",
@@ -6306,7 +6302,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T05:30:42.007055Z"
+    "checked_at": "2026-10-24T09:35:24.591578Z"
   },
   "RYR62XF": {
     "route": {
@@ -6770,10 +6766,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-23T15:20:33.960652Z"
-  },
-  "NJE493G": {
-    "route": null,
-    "checked_at": "2026-10-22T09:30:45.836254Z"
   },
   "VJT716": {
     "route": {
@@ -13137,5 +13129,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T09:30:43.358862Z"
+  },
+  "RYR25SC": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T09:35:24.591578Z"
+  },
+  "RYR65ZK": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T09:35:24.591578Z"
   }
 }
