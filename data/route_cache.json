@@ -5240,17 +5240,6 @@
     },
     "checked_at": "2026-10-23T08:40:30.740556Z"
   },
-  "SAS71T": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T17:00:57.851587Z"
-  },
   "EWG7ZP": {
     "route": {
       "fromCity": "Stuttgart",
@@ -6852,39 +6841,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-24T16:45:30.660006Z"
-  },
-  "SWR948D": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-22T17:00:57.851587Z"
-  },
-  "SXS6SQ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-22T17:00:57.851587Z"
-  },
-  "EWG86H": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T17:00:57.851587Z"
   },
   "UAE34E": {
     "route": {
@@ -10202,7 +10158,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-23T17:10:32.067465Z"
+    "checked_at": "2026-10-24T17:05:24.781501Z"
   },
   "RYR33KQ": {
     "route": {
@@ -13404,5 +13360,27 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-24T17:00:54.230324Z"
+  },
+  "NSZ4365": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T17:05:24.781501Z"
+  },
+  "PGT5008": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T17:05:24.781501Z"
   }
 }
