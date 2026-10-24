@@ -5541,17 +5541,6 @@
     },
     "checked_at": "2026-10-24T08:40:33.209154Z"
   },
-  "EJU32EY": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-22T18:25:26.069474Z"
-  },
   "CSS102": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -6549,7 +6538,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T10:40:32.504279Z"
+    "checked_at": "2026-10-24T18:30:42.245672Z"
   },
   "EJU16QM": {
     "route": {
@@ -6933,17 +6922,6 @@
   "FIN8DN": {
     "route": null,
     "checked_at": "2026-10-24T18:15:31.166890Z"
-  },
-  "SAS1698": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T18:25:26.069474Z"
   },
   "CCA936": {
     "route": {
@@ -13414,5 +13392,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T18:20:31.273519Z"
+  },
+  "BAW995": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-24T18:30:42.245672Z"
+  },
+  "NIA6388": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-24T18:30:42.245672Z"
   }
 }
