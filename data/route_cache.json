@@ -2539,7 +2539,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-23T10:25:25.348272Z"
+    "checked_at": "2026-10-24T09:00:56.090990Z"
   },
   "RYR1EK": {
     "route": {
@@ -3754,7 +3754,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T09:10:30.874913Z"
+    "checked_at": "2026-10-24T09:00:56.090990Z"
   },
   "TAP53LB": {
     "route": {
@@ -4071,17 +4071,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-23T12:25:22.494011Z"
-  },
-  "EJU83ZK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-22T08:55:26.075079Z"
   },
   "EJU84GR": {
     "route": {
@@ -6153,10 +6142,6 @@
     "route": null,
     "checked_at": "2026-10-22T13:25:26.143073Z"
   },
-  "QGA50P": {
-    "route": null,
-    "checked_at": "2026-10-22T08:55:26.075079Z"
-  },
   "RJA137": {
     "route": {
       "fromCity": "Amman",
@@ -6797,17 +6782,6 @@
     },
     "checked_at": "2026-10-23T15:40:33.803206Z"
   },
-  "RYR9847": {
-    "route": {
-      "fromCity": "\u0141\u00f3d\u017a",
-      "fromIata": "LCJ",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T08:55:26.075079Z"
-  },
   "RYR671D": {
     "route": {
       "fromCity": "London",
@@ -6839,7 +6813,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-22T09:00:56.308941Z"
+    "checked_at": "2026-10-24T09:00:56.090990Z"
   },
   "THY3350": {
     "route": {
@@ -13101,5 +13075,42 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T08:55:22.481928Z"
+  },
+  "QTR72U": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-24T09:00:56.090990Z"
+  },
+  "GAC899C": {
+    "route": null,
+    "checked_at": "2026-10-24T09:00:56.090990Z"
+  },
+  "DLH9MA": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T09:00:56.090990Z"
+  },
+  "RYR8EW": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T09:00:56.090990Z"
   }
 }
