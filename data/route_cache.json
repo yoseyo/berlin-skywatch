@@ -1989,7 +1989,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T12:00:56.300800Z"
+    "checked_at": "2026-10-24T12:10:32.446359Z"
   },
   "RYR7BV": {
     "route": {
@@ -2066,7 +2066,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-23T14:25:23.996931Z"
+    "checked_at": "2026-10-24T12:10:32.446359Z"
   },
   "DLH2NE": {
     "route": {
@@ -2899,7 +2899,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-23T12:55:24.655576Z"
+    "checked_at": "2026-10-24T12:10:32.446359Z"
   },
   "RYR3EM": {
     "route": {
@@ -3112,7 +3112,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-23T12:45:30.315152Z"
+    "checked_at": "2026-10-24T12:10:32.446359Z"
   },
   "EWG67A": {
     "route": {
@@ -5674,10 +5674,6 @@
     "route": null,
     "checked_at": "2026-10-22T14:50:33.260600Z"
   },
-  "OEEMA": {
-    "route": null,
-    "checked_at": "2026-10-22T12:05:27.236228Z"
-  },
   "SXS6WA": {
     "route": {
       "fromCity": "Berlin",
@@ -6839,10 +6835,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T12:30:45.550356Z"
-  },
-  "N11UB": {
-    "route": null,
-    "checked_at": "2026-10-22T12:05:27.236228Z"
   },
   "DMYHG": {
     "route": null,
@@ -10192,7 +10184,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T12:55:24.655576Z"
+    "checked_at": "2026-10-24T12:10:32.446359Z"
   },
   "NSZ365L": {
     "route": {
@@ -13128,5 +13120,35 @@
   "PTO9904": {
     "route": null,
     "checked_at": "2026-10-24T12:05:24.636867Z"
+  },
+  "PGT980": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T12:10:32.446359Z"
+  },
+  "MYJ796": {
+    "route": null,
+    "checked_at": "2026-10-24T12:10:32.446359Z"
+  },
+  "LBT2422": {
+    "route": {
+      "fromCity": "Djerba",
+      "fromIata": "DJE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-24T12:10:32.446359Z"
+  },
+  "NJE143U": {
+    "route": null,
+    "checked_at": "2026-10-24T12:10:32.446359Z"
   }
 }
