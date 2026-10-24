@@ -126,7 +126,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-10-23T08:10:31.686287Z"
+    "checked_at": "2026-10-24T07:00:51.355560Z"
   },
   "SXS8TG": {
     "route": {
@@ -1340,7 +1340,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T07:10:30.168331Z"
+    "checked_at": "2026-10-24T07:00:51.355560Z"
   },
   "FIN7HC": {
     "route": {
@@ -2649,7 +2649,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-23T07:20:30.591666Z"
+    "checked_at": "2026-10-24T07:00:51.355560Z"
   },
   "SAS1674": {
     "route": {
@@ -4706,17 +4706,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-22T08:10:35.405515Z"
-  },
-  "DMS2HR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Saarbr\u00fccken",
-      "toIata": "SCN",
-      "airlineName": "Diamond Sky",
-      "airlineCountry": "Estonia"
-    },
-    "checked_at": "2026-10-22T06:55:26.044215Z"
   },
   "DLH7YC": {
     "route": {
@@ -6800,10 +6789,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-23T13:55:25.426425Z"
-  },
-  "ETH3887": {
-    "route": null,
-    "checked_at": "2026-10-22T06:55:26.044215Z"
   },
   "RYR5602": {
     "route": {
@@ -9024,7 +9009,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T19:15:32.242410Z"
+    "checked_at": "2026-10-24T07:00:51.355560Z"
   },
   "NSZ4508": {
     "route": {
@@ -13071,5 +13056,38 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-24T06:55:22.571542Z"
+  },
+  "CFG1RD": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T07:00:51.355560Z"
+  },
+  "RYR60RF": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T07:00:51.355560Z"
+  },
+  "RYR87VA": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T07:00:51.355560Z"
   }
 }
