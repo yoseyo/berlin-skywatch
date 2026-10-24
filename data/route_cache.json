@@ -2308,7 +2308,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T13:20:31.913056Z"
+    "checked_at": "2026-10-24T13:20:32.973173Z"
   },
   "AFR1235": {
     "route": {
@@ -2352,7 +2352,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T13:25:22.676684Z"
+    "checked_at": "2026-10-24T13:20:32.973173Z"
   },
   "RYR103K": {
     "route": {
@@ -6833,21 +6833,6 @@
     },
     "checked_at": "2026-10-23T11:50:34.068675Z"
   },
-  "NATO03": {
-    "route": null,
-    "checked_at": "2026-10-22T13:15:33.391595Z"
-  },
-  "HYM407": {
-    "route": {
-      "fromCity": "Chi\u015fin\u0103u",
-      "fromIata": "RMO",
-      "toCity": "Chi\u015fin\u0103u",
-      "toIata": "RMO",
-      "airlineName": "Himalayan Airlines",
-      "airlineCountry": "Nepal"
-    },
-    "checked_at": "2026-10-22T13:15:33.391595Z"
-  },
   "EJU59RD": {
     "route": {
       "fromCity": "Berlin",
@@ -6953,7 +6938,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T13:45:42.612292Z"
+    "checked_at": "2026-10-24T13:20:32.973173Z"
   },
   "DMOCP": {
     "route": null,
@@ -13266,5 +13251,49 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-24T13:15:29.357952Z"
+  },
+  "EJU8624": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T13:20:32.973173Z"
+  },
+  "WZZ199": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-24T13:20:32.973173Z"
+  },
+  "CKK216": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-24T13:20:32.973173Z"
+  },
+  "NOZ7FY": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-24T13:20:32.973173Z"
   }
 }
