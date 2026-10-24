@@ -1,12 +1,29 @@
 {
   "flights": [
     {
+      "callsign": "RYR67ZT",
+      "country": "Poland",
+      "lat": 52.5801,
+      "lon": 13.1171,
+      "altKm": 10.7,
+      "speedKmh": 958,
+      "heading": 91,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "category": "plane"
+    },
+    {
       "callsign": "RYR5WP",
       "country": "Poland",
-      "lat": 52.1408,
-      "lon": 12.7055,
-      "altKm": 11.4,
-      "speedKmh": 823,
+      "lat": 52.3803,
+      "lon": 13.2415,
+      "altKm": 11.3,
+      "speedKmh": 820,
       "heading": 54,
       "vertRateMs": 0,
       "airline": "Ryanair",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T21:50:32.631573Z"
+  "updated_at": "2026-10-24T21:53:49.112048Z"
 }
