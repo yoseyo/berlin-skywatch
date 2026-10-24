@@ -1560,7 +1560,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-23T08:05:23.198635Z"
+    "checked_at": "2026-10-24T08:20:31.180422Z"
   },
   "DLH3WU": {
     "route": {
@@ -2517,7 +2517,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-23T08:05:23.198635Z"
+    "checked_at": "2026-10-24T08:20:31.180422Z"
   },
   "UAL963": {
     "route": {
@@ -3090,7 +3090,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T08:35:26.816539Z"
+    "checked_at": "2026-10-24T08:20:31.180422Z"
   },
   "VLG6JY": {
     "route": {
@@ -3927,7 +3927,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T09:50:32.804622Z"
+    "checked_at": "2026-10-24T08:20:31.180422Z"
   },
   "THY2XR": {
     "route": {
@@ -4628,7 +4628,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-23T05:10:31.050658Z"
+    "checked_at": "2026-10-24T08:20:31.180422Z"
   },
   "RYR4384": {
     "route": {
@@ -6763,10 +6763,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T08:00:53.224351Z"
-  },
-  "N677AL": {
-    "route": null,
-    "checked_at": "2026-10-22T08:15:36.311983Z"
   },
   "AUA99J": {
     "route": {
@@ -11401,7 +11397,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T15:55:24.605508Z"
+    "checked_at": "2026-10-24T08:20:31.180422Z"
   },
   "CXI4RD": {
     "route": null,
@@ -13017,5 +13013,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T08:15:30.745132Z"
+  },
+  "CFG2KD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T08:20:31.180422Z"
+  },
+  "RUK7547": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-24T08:20:31.180422Z"
   }
 }
