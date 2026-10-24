@@ -339,7 +339,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-23T15:55:24.605508Z"
+    "checked_at": "2026-10-24T16:45:30.660006Z"
   },
   "KLM1780": {
     "route": {
@@ -2866,7 +2866,7 @@
   },
   "AFR17RZ": {
     "route": null,
-    "checked_at": "2026-10-22T16:55:25.016963Z"
+    "checked_at": "2026-10-24T16:45:30.660006Z"
   },
   "TAP4BE": {
     "route": {
@@ -4405,17 +4405,6 @@
   "EJU5087": {
     "route": null,
     "checked_at": "2026-10-23T17:15:32.147241Z"
-  },
-  "EWG6RY": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T16:40:33.229671Z"
   },
   "EJU5267": {
     "route": {
@@ -6888,7 +6877,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-22T16:55:25.016963Z"
+    "checked_at": "2026-10-24T16:45:30.660006Z"
   },
   "SWR948D": {
     "route": {
@@ -13382,5 +13371,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T16:40:31.205880Z"
+  },
+  "PGT7335": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T16:45:30.660006Z"
+  },
+  "NOZ2TU": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-24T16:45:30.660006Z"
   }
 }
