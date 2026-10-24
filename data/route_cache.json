@@ -284,7 +284,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T16:30:45.093260Z"
+    "checked_at": "2026-10-24T15:45:28.557094Z"
   },
   "RYR3PT": {
     "route": {
@@ -306,7 +306,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T16:00:58.478480Z"
+    "checked_at": "2026-10-24T15:45:28.557094Z"
   },
   "PGT7UZ": {
     "route": {
@@ -1285,7 +1285,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T17:50:30.617203Z"
+    "checked_at": "2026-10-24T15:45:28.557094Z"
   },
   "NOZ2XM": {
     "route": {
@@ -3244,7 +3244,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-23T16:05:27.308724Z"
+    "checked_at": "2026-10-24T15:45:28.557094Z"
   },
   "AFR1434": {
     "route": {
@@ -5128,7 +5128,7 @@
       "airlineName": "Shanxi Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-23T08:10:31.686287Z"
+    "checked_at": "2026-10-24T15:45:28.557094Z"
   },
   "BAW84NT": {
     "route": {
@@ -5463,17 +5463,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T06:05:24.072874Z"
-  },
-  "ITL201": {
-    "route": {
-      "fromCity": "Maastricht",
-      "fromIata": "MST",
-      "toCity": "Groningen",
-      "toIata": "GRQ",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-22T15:40:33.636824Z"
   },
   "BTI83L": {
     "route": {
@@ -6842,17 +6831,6 @@
     },
     "checked_at": "2026-10-23T15:25:24.654942Z"
   },
-  "EWG25Z": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T15:40:33.636824Z"
-  },
   "JNJ20V": {
     "route": null,
     "checked_at": "2026-10-22T15:45:32.649299Z"
@@ -7183,7 +7161,7 @@
   },
   "PAK1": {
     "route": null,
-    "checked_at": "2026-10-22T18:00:56.889098Z"
+    "checked_at": "2026-10-24T15:45:28.557094Z"
   },
   "NOS4053": {
     "route": {
@@ -13375,5 +13353,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T15:40:28.799541Z"
+  },
+  "NSZ3298": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T15:45:28.557094Z"
+  },
+  "RYR282D": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T15:45:28.557094Z"
+  },
+  "PGT5007": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T15:45:28.557094Z"
   }
 }
