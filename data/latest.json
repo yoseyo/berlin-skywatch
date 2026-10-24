@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-24T03:25:22.810580Z"
+  "flights": [
+    {
+      "callsign": "EWG3TF",
+      "country": "Germany",
+      "lat": 52.3488,
+      "lon": 13.4823,
+      "altKm": 0.2,
+      "speedKmh": 288,
+      "heading": 249,
+      "vertRateMs": 13.3,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-24T03:30:41.122302Z"
 }
