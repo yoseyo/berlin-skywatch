@@ -6833,17 +6833,6 @@
     },
     "checked_at": "2026-10-23T12:25:22.494011Z"
   },
-  "RYR54BW": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T12:50:34.257641Z"
-  },
   "EWG20W": {
     "route": {
       "fromCity": "Stuttgart",
@@ -13218,5 +13207,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T12:50:30.463871Z"
+  },
+  "RJA261G": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-10-24T12:55:24.856733Z"
+  },
+  "SAS44A": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T12:55:24.856733Z"
   }
 }
