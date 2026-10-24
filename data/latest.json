@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "GJT5XG",
+      "country": "Lithuania",
+      "lat": 52.1139,
+      "lon": 13.6593,
+      "altKm": 11.5,
+      "speedKmh": 863,
+      "heading": 65,
+      "vertRateMs": 0.3,
+      "airline": "Gestion Aerea Ajecutiva",
+      "airlineCountry": "Spain",
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.546,
-      "lon": 13.4054,
+      "lat": 52.5578,
+      "lon": 13.4227,
       "altKm": 1.1,
-      "speedKmh": 76,
-      "heading": 239,
-      "vertRateMs": -0.3,
+      "speedKmh": 244,
+      "heading": 63,
+      "vertRateMs": -1.0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-24T00:00:54.611038Z"
+  "updated_at": "2026-10-24T00:05:23.307357Z"
 }
