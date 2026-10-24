@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "FIN3AW",
-      "country": "Finland",
-      "lat": 52.4111,
-      "lon": 13.7466,
-      "altKm": 1.0,
-      "speedKmh": 287,
-      "heading": 250,
-      "vertRateMs": -5.5,
-      "airline": "Finnair",
-      "airlineCountry": "Finland",
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "FIN23B",
       "country": "Finland",
-      "lat": 52.9137,
-      "lon": 13.9777,
+      "lat": 52.3664,
+      "lon": 13.3831,
       "altKm": 10.2,
       "speedKmh": 794,
-      "heading": 215,
-      "vertRateMs": 0.3,
+      "heading": 213,
+      "vertRateMs": -0.3,
       "airline": "Finnair",
       "airlineCountry": "Finland",
       "fromCity": "Helsinki",
@@ -35,13 +18,30 @@
       "category": "plane"
     },
     {
+      "callsign": "AUA223B",
+      "country": "Austria",
+      "lat": 52.412,
+      "lon": 13.8028,
+      "altKm": 1.0,
+      "speedKmh": 456,
+      "heading": 290,
+      "vertRateMs": -5.5,
+      "airline": "Austrian Airlines",
+      "airlineCountry": "Austria",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "CFG2CK",
       "country": "Germany",
-      "lat": 52.3586,
-      "lon": 13.4453,
-      "altKm": 1.0,
-      "speedKmh": 221,
-      "heading": 248,
+      "lat": 52.1705,
+      "lon": 12.8934,
+      "altKm": 5.5,
+      "speedKmh": 595,
+      "heading": 232,
       "vertRateMs": 14.0,
       "airline": "Condor Flugdienst",
       "airlineCountry": "Germany",
@@ -54,12 +54,12 @@
     {
       "callsign": "DLH2X",
       "country": "Germany",
-      "lat": 52.3825,
-      "lon": 13.8895,
-      "altKm": 1.5,
-      "speedKmh": 514,
-      "heading": 350,
-      "vertRateMs": -5.5,
+      "lat": 52.3858,
+      "lon": 13.5613,
+      "altKm": 0.2,
+      "speedKmh": 245,
+      "heading": 249,
+      "vertRateMs": -5.2,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Munich",
@@ -69,5 +69,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T05:55:22.540295Z"
+  "updated_at": "2026-10-24T06:00:51.127411Z"
 }
