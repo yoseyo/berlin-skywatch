@@ -218,7 +218,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T15:35:23.755940Z"
+    "checked_at": "2026-10-24T20:40:28.355832Z"
   },
   "FIN5DL": {
     "route": {
@@ -966,7 +966,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T04:10:30.692670Z"
+    "checked_at": "2026-10-24T20:40:28.355832Z"
   },
   "AFR84XP": {
     "route": {
@@ -7003,17 +7003,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T12:40:31.454772Z"
-  },
-  "SAS64C": {
-    "route": {
-      "fromCity": "Bologna",
-      "fromIata": "BLQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T20:35:25.921628Z"
   },
   "RYR9SW": {
     "route": {
@@ -13447,5 +13436,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T20:35:23.927945Z"
+  },
+  "DLH5CK": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T20:40:28.355832Z"
   }
 }
