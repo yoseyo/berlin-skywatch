@@ -6786,17 +6786,6 @@
     },
     "checked_at": "2026-10-24T08:30:42.350720Z"
   },
-  "NSZ8925": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T08:40:33.846084Z"
-  },
   "NSZ82ME": {
     "route": {
       "fromCity": "Dubrovnik",
@@ -13068,5 +13057,49 @@
   "PLF104": {
     "route": null,
     "checked_at": "2026-10-24T08:40:33.209154Z"
+  },
+  "EWG47Z": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T08:45:28.510624Z"
+  },
+  "EJU93XZ": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T08:45:28.510624Z"
+  },
+  "ASL66K": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-24T08:45:28.510624Z"
+  },
+  "RYR30RG": {
+    "route": {
+      "fromCity": "Banja Luka",
+      "fromIata": "BNX",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T08:45:28.510624Z"
   }
 }
