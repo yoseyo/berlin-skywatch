@@ -2921,7 +2921,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-23T13:30:51.647924Z"
+    "checked_at": "2026-10-24T09:40:33.847767Z"
   },
   "LOT6MB": {
     "route": {
@@ -5845,7 +5845,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T09:50:32.804622Z"
+    "checked_at": "2026-10-24T09:40:33.847767Z"
   },
   "RYR5ZE": {
     "route": {
@@ -6232,7 +6232,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T15:20:33.960652Z"
+    "checked_at": "2026-10-24T09:40:33.847767Z"
   },
   "FIN9YA": {
     "route": {
@@ -6766,28 +6766,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-23T15:20:33.960652Z"
-  },
-  "VJT716": {
-    "route": {
-      "fromCity": "San Jose",
-      "fromIata": "SJC",
-      "toCity": "Seoul",
-      "toIata": "GMP",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-22T09:35:25.689513Z"
-  },
-  "RYR47GB": {
-    "route": {
-      "fromCity": "Olsztyn",
-      "fromIata": "SZY",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T09:35:25.689513Z"
   },
   "EJU5052": {
     "route": {
@@ -13151,5 +13129,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T09:35:24.591578Z"
+  },
+  "AUA3AG": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T09:40:33.847767Z"
+  },
+  "RYR2502": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T09:40:33.847767Z"
   }
 }
