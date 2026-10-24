@@ -1230,7 +1230,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T06:40:31.920707Z"
+    "checked_at": "2026-10-24T08:15:30.745132Z"
   },
   "RYR98HW": {
     "route": {
@@ -2176,7 +2176,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T17:05:25.695354Z"
+    "checked_at": "2026-10-24T08:15:30.745132Z"
   },
   "DLH6UT": {
     "route": {
@@ -2528,7 +2528,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-23T08:00:53.224351Z"
+    "checked_at": "2026-10-24T08:15:30.745132Z"
   },
   "WZZ8086": {
     "route": {
@@ -3266,7 +3266,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-23T08:10:31.686287Z"
+    "checked_at": "2026-10-24T08:15:30.745132Z"
   },
   "LOT4NC": {
     "route": {
@@ -4652,17 +4652,6 @@
     },
     "checked_at": "2026-10-23T07:05:27.383197Z"
   },
-  "DBADO": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Mannheim",
-      "toIata": "MHG",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-22T08:10:35.405515Z"
-  },
   "DLH7YC": {
     "route": {
       "fromCity": "Stockholm",
@@ -4841,7 +4830,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-22T08:25:24.948691Z"
+    "checked_at": "2026-10-24T08:15:30.745132Z"
   },
   "SAS2733": {
     "route": {
@@ -13006,5 +12995,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T08:05:24.039118Z"
+  },
+  "SDR60XG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T08:15:30.745132Z"
+  },
+  "DLH6YW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T08:15:30.745132Z"
   }
 }
