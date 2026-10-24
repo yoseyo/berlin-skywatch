@@ -1,4 +1,48 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-24T22:40:30.861774Z"
+  "flights": [
+    {
+      "callsign": "DINFO",
+      "country": "Germany",
+      "lat": 52.452,
+      "lon": 13.0124,
+      "altKm": 3.6,
+      "speedKmh": 501,
+      "heading": 80,
+      "vertRateMs": -8.1,
+      "fromCity": "Mainz",
+      "fromIata": null,
+      "toCity": "T\u00f8nder",
+      "toIata": null,
+      "category": "plane"
+    },
+    {
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.5786,
+      "lon": 13.5849,
+      "altKm": 0.5,
+      "speedKmh": 126,
+      "heading": 150,
+      "vertRateMs": 1.0,
+      "category": "heli"
+    },
+    {
+      "callsign": "WZZ47RG",
+      "country": "Malta",
+      "lat": 52.8283,
+      "lon": 12.8185,
+      "altKm": 10.4,
+      "speedKmh": 894,
+      "heading": 63,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-24T22:45:28.714007Z"
 }
