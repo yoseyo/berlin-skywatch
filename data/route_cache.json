@@ -1670,7 +1670,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T09:10:30.874913Z"
+    "checked_at": "2026-10-24T09:15:31.426615Z"
   },
   "EIN3EG": {
     "route": {
@@ -1681,7 +1681,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-23T08:55:24.227263Z"
+    "checked_at": "2026-10-24T09:15:31.426615Z"
   },
   "WMT358": {
     "route": {
@@ -2965,7 +2965,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T09:25:25.014743Z"
+    "checked_at": "2026-10-24T09:15:31.426615Z"
   },
   "LOT6PA": {
     "route": {
@@ -4853,17 +4853,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-23T10:10:30.732389Z"
-  },
-  "BAW988G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-22T09:10:33.067391Z"
   },
   "SAS2736": {
     "route": {
@@ -6770,10 +6759,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-23T07:45:29.243049Z"
-  },
-  "TAH345": {
-    "route": null,
-    "checked_at": "2026-10-22T09:10:33.067391Z"
   },
   "EWG1SU": {
     "route": {
@@ -10209,7 +10194,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T10:20:33.265686Z"
+    "checked_at": "2026-10-24T09:15:31.426615Z"
   },
   "TLK811": {
     "route": null,
@@ -13105,5 +13090,38 @@
       "airlineCountry": "Tunisia"
     },
     "checked_at": "2026-10-24T09:10:31.294944Z"
+  },
+  "ACA887": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air Canada",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-24T09:15:31.426615Z"
+  },
+  "THY1LP": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-24T09:15:31.426615Z"
+  },
+  "ASL57Z": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-24T09:15:31.426615Z"
   }
 }
