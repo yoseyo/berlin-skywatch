@@ -6796,17 +6796,6 @@
     },
     "checked_at": "2026-10-23T04:20:29.130267Z"
   },
-  "CFG4FD": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T13:40:34.692384Z"
-  },
   "RYR58ZM": {
     "route": {
       "fromCity": "Berlin",
@@ -13273,5 +13262,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T13:40:31.115035Z"
+  },
+  "JFA65R": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-24T13:45:29.268943Z"
+  },
+  "CKK204": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-24T13:45:29.268943Z"
+  },
+  "GAC321U": {
+    "route": null,
+    "checked_at": "2026-10-24T13:45:29.268943Z"
+  },
+  "CFG6NZ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T13:45:29.268943Z"
   }
 }
