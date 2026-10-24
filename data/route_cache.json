@@ -1615,7 +1615,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-23T12:15:31.083608Z"
+    "checked_at": "2026-10-24T09:55:23.071083Z"
   },
   "BEL8CE": {
     "route": {
@@ -1846,7 +1846,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T09:55:23.387218Z"
+    "checked_at": "2026-10-24T09:55:23.071083Z"
   },
   "CTN481": {
     "route": {
@@ -4247,17 +4247,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T07:40:32.509942Z"
-  },
-  "AHY064": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Baku",
-      "toIata": "GYD",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-10-22T09:50:31.509272Z"
   },
   "BAW843": {
     "route": {
@@ -8486,7 +8475,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-22T19:20:36.527533Z"
+    "checked_at": "2026-10-24T09:55:23.071083Z"
   },
   "EZY89CH": {
     "route": {
@@ -9423,7 +9412,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T07:15:30.916626Z"
+    "checked_at": "2026-10-24T09:55:23.071083Z"
   },
   "DIGOB": {
     "route": null,
@@ -10101,7 +10090,7 @@
   },
   "TLK811": {
     "route": null,
-    "checked_at": "2026-10-23T10:20:33.265686Z"
+    "checked_at": "2026-10-24T09:55:23.071083Z"
   },
   "EJU92LR": {
     "route": {
@@ -13169,5 +13158,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-24T09:50:30.691797Z"
+  },
+  "AUA55": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Montr\u00e9al",
+      "toIata": "YUL",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T09:55:23.071083Z"
+  },
+  "EJU51DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T09:55:23.071083Z"
   }
 }
