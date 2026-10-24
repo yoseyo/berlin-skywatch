@@ -6949,17 +6949,6 @@
     },
     "checked_at": "2026-10-23T19:50:33.508628Z"
   },
-  "CXI16NP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-22T19:40:32.118384Z"
-  },
   "SAS47D": {
     "route": {
       "fromCity": "N\u00e1poli",
@@ -6992,10 +6981,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-23T21:15:30.280081Z"
-  },
-  "AJD13AX": {
-    "route": null,
-    "checked_at": "2026-10-22T19:40:32.118384Z"
   },
   "WZZ50ML": {
     "route": {
@@ -13367,5 +13352,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T19:30:41.940056Z"
+  },
+  "NSZ5GT": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T19:42:45.851509Z"
+  },
+  "EWG7ZH": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Yerevan",
+      "toIata": "EVN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T19:42:45.851509Z"
+  },
+  "RYR2RB": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T19:42:45.851509Z"
   }
 }

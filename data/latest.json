@@ -1,22 +1,56 @@
 {
   "flights": [
     {
-      "callsign": "RYR93BJ",
+      "callsign": "NSZ5GT",
+      "country": "Norway",
+      "lat": 52.9372,
+      "lon": 13.2181,
+      "altKm": 10.4,
+      "speedKmh": 925,
+      "heading": 196,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden",
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG7ZH",
+      "country": "Germany",
+      "lat": 52.3244,
+      "lon": 13.4191,
+      "altKm": 0.8,
+      "speedKmh": 344,
+      "heading": 228,
+      "vertRateMs": 7.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Yerevan",
+      "toIata": "EVN",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR2RB",
       "country": "Malta",
-      "lat": 52.3842,
-      "lon": 13.5545,
-      "altKm": 0.2,
-      "speedKmh": 242,
-      "heading": 249,
-      "vertRateMs": -3.2,
+      "lat": 52.5701,
+      "lon": 14.0436,
+      "altKm": 10.7,
+      "speedKmh": 721,
+      "heading": 279,
+      "vertRateMs": 5.2,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T19:40:30.685578Z"
+  "updated_at": "2026-10-24T19:42:45.851509Z"
 }
