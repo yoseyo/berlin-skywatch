@@ -2143,7 +2143,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-23T12:05:25.157754Z"
+    "checked_at": "2026-10-24T12:00:54.146605Z"
   },
   "QTR37K": {
     "route": {
@@ -2165,7 +2165,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-23T12:15:31.083608Z"
+    "checked_at": "2026-10-24T12:00:54.146605Z"
   },
   "EJU57RF": {
     "route": {
@@ -5943,10 +5943,6 @@
     },
     "checked_at": "2026-10-23T10:25:25.348272Z"
   },
-  "CEF01": {
-    "route": null,
-    "checked_at": "2026-10-22T11:55:24.562474Z"
-  },
   "AAL759": {
     "route": {
       "fromCity": "Athens",
@@ -6699,7 +6695,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T06:10:32.002347Z"
+    "checked_at": "2026-10-24T12:00:54.146605Z"
   },
   "PGT21PC": {
     "route": {
@@ -13109,5 +13105,31 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-10-24T11:55:23.399945Z"
+  },
+  "ELJ202": {
+    "route": {
+      "fromCity": "Dijon/Longvic",
+      "fromIata": "DIJ",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-24T12:00:54.146605Z"
+  },
+  "AHY550": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Baku",
+      "toIata": "GYD",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-10-24T12:00:54.146605Z"
+  },
+  "ABF8": {
+    "route": null,
+    "checked_at": "2026-10-24T12:00:54.146605Z"
   }
 }
