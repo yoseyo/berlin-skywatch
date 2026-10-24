@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EJU79XD",
+      "country": "Austria",
+      "lat": 52.187,
+      "lon": 13.3763,
+      "altKm": 3.1,
+      "speedKmh": 511,
+      "heading": 154,
+      "vertRateMs": 11.7,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "category": "plane"
+    },
+    {
       "callsign": "NSZ3288",
       "country": "Sweden",
-      "lat": 52.7203,
-      "lon": 13.431,
+      "lat": 52.125,
+      "lon": 13.4913,
       "altKm": 11.8,
-      "speedKmh": 820,
+      "speedKmh": 803,
       "heading": 176,
-      "vertRateMs": 0,
+      "vertRateMs": -0.3,
       "airline": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden",
       "fromCity": "Copenhagen",
@@ -16,41 +33,7 @@
       "toCity": "Split",
       "toIata": "SPU",
       "category": "plane"
-    },
-    {
-      "callsign": "IBE07BZ",
-      "country": "Spain",
-      "lat": 52.1844,
-      "lon": 12.9716,
-      "altKm": 3.7,
-      "speedKmh": 616,
-      "heading": 255,
-      "vertRateMs": 11.4,
-      "airline": "Iberia Airlines",
-      "airlineCountry": "Spain",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "category": "plane"
-    },
-    {
-      "callsign": "WZZ8025",
-      "country": "Malta",
-      "lat": 52.6966,
-      "lon": 13.1414,
-      "altKm": 10.5,
-      "speedKmh": 810,
-      "heading": 292,
-      "vertRateMs": -8.1,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-24T04:45:29.883031Z"
+  "updated_at": "2026-10-24T04:50:28.828511Z"
 }
