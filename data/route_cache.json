@@ -6844,25 +6844,6 @@
     "route": null,
     "checked_at": "2026-10-23T08:45:29.344302Z"
   },
-  "AIB307A": {
-    "route": null,
-    "checked_at": "2026-10-22T12:20:35.732891Z"
-  },
-  "ENT503N": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-22T12:20:35.732891Z"
-  },
-  "NJE107Y": {
-    "route": null,
-    "checked_at": "2026-10-22T12:20:35.732891Z"
-  },
   "RYR1CZ": {
     "route": {
       "fromCity": "Eindhoven",
@@ -13168,5 +13149,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T12:20:33.255342Z"
+  },
+  "EWG44D": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T12:25:24.819131Z"
   }
 }
