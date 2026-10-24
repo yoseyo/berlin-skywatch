@@ -78,7 +78,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-23T14:10:34.960973Z"
+    "checked_at": "2026-10-24T14:10:30.979476Z"
   },
   "NSZ3302": {
     "route": {
@@ -2297,7 +2297,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-23T13:05:24.767251Z"
+    "checked_at": "2026-10-24T14:10:30.979476Z"
   },
   "LOT2PJ": {
     "route": {
@@ -5240,17 +5240,6 @@
     },
     "checked_at": "2026-10-23T14:05:25.125330Z"
   },
-  "EWG3XM": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T14:05:28.251147Z"
-  },
   "THY8DE": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6065,7 +6054,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-23T08:55:24.227263Z"
+    "checked_at": "2026-10-24T14:10:30.979476Z"
   },
   "EJU5075": {
     "route": null,
@@ -6794,21 +6783,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T13:20:32.973173Z"
-  },
-  "CCA931": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-22T14:05:28.251147Z"
-  },
-  "SPDLC": {
-    "route": null,
-    "checked_at": "2026-10-22T14:05:28.251147Z"
   },
   "EJU63CR": {
     "route": {
@@ -8653,7 +8627,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-23T07:10:30.168331Z"
+    "checked_at": "2026-10-24T14:10:30.979476Z"
   },
   "EJU91FL": {
     "route": {
@@ -13312,5 +13286,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T14:05:24.241184Z"
+  },
+  "RYR37CU": {
+    "route": {
+      "fromCity": "Leeds",
+      "fromIata": "LBA",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T14:10:30.979476Z"
+  },
+  "SAS2775": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T14:10:30.979476Z"
   }
 }
