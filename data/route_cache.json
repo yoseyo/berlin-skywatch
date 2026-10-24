@@ -1164,7 +1164,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T05:55:21.955846Z"
+    "checked_at": "2026-10-24T05:55:22.540295Z"
   },
   "AUA223B": {
     "route": {
@@ -6867,17 +6867,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T08:35:26.816539Z"
-  },
-  "BTI877": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-22T05:50:31.019951Z"
   },
   "NOZ1950": {
     "route": {
@@ -13102,5 +13091,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T05:40:31.178948Z"
+  },
+  "FIN23B": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-24T05:55:22.540295Z"
+  },
+  "CFG2CK": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T05:55:22.540295Z"
   }
 }
