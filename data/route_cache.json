@@ -5282,7 +5282,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-22T06:20:30.530539Z"
+    "checked_at": "2026-10-24T06:19:42.092143Z"
   },
   "THY1LZ": {
     "route": {
@@ -6797,28 +6797,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T08:35:26.816539Z"
-  },
-  "FIN6Y": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-22T06:15:29.506812Z"
-  },
-  "RYR7952": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-22T06:15:29.506812Z"
   },
   "NOZ2WA": {
     "route": {
@@ -13072,5 +13050,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T06:15:29.020774Z"
+  },
+  "KLM1771": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-24T06:19:42.092143Z"
   }
 }
