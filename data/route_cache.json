@@ -1021,7 +1021,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T05:35:23.397873Z"
+    "checked_at": "2026-10-24T05:15:30.371574Z"
   },
   "DAL92": {
     "route": {
@@ -5308,7 +5308,7 @@
   },
   "WMT7615": {
     "route": null,
-    "checked_at": "2026-10-22T05:15:28.148382Z"
+    "checked_at": "2026-10-24T05:15:30.371574Z"
   },
   "TVF801D": {
     "route": {
@@ -6893,39 +6893,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-23T09:15:30.351406Z"
-  },
-  "QTR85Y": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-22T05:10:30.801090Z"
-  },
-  "LHX853": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-22T05:10:30.801090Z"
-  },
-  "BTI7PY": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-22T05:15:28.148382Z"
   },
   "EWG95T": {
     "route": {
@@ -13154,5 +13121,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T05:05:26.905044Z"
+  },
+  "WZZ31QC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Leeds",
+      "toIata": "LBA",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-24T05:15:30.371574Z"
+  },
+  "RYR456B": {
+    "route": {
+      "fromCity": "Pisa",
+      "fromIata": "PSA",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T05:15:30.371574Z"
   }
 }
