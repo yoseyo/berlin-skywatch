@@ -372,7 +372,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-23T16:25:25.078966Z"
+    "checked_at": "2026-10-24T16:10:29.456647Z"
   },
   "IBE07WR": {
     "route": {
@@ -394,7 +394,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-23T16:25:25.078966Z"
+    "checked_at": "2026-10-24T16:10:29.456647Z"
   },
   "AFR99GT": {
     "route": {
@@ -5984,7 +5984,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-22T16:25:24.714005Z"
+    "checked_at": "2026-10-24T16:10:29.456647Z"
   },
   "SWU1951": {
     "route": {
@@ -6841,28 +6841,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T16:00:58.478480Z"
-  },
-  "LOT2303": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-22T16:05:24.705263Z"
-  },
-  "VKG788": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-22T16:05:24.705263Z"
   },
   "MDT5": {
     "route": null,
@@ -13397,5 +13375,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T16:05:23.675841Z"
+  },
+  "LOT407": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-24T16:10:29.456647Z"
   }
 }
