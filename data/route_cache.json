@@ -6971,21 +6971,6 @@
     },
     "checked_at": "2026-10-24T19:25:22.579946Z"
   },
-  "NSZ3354": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T20:00:54.746339Z"
-  },
-  "EFD5R": {
-    "route": null,
-    "checked_at": "2026-10-22T20:00:54.746339Z"
-  },
   "N889DX": {
     "route": null,
     "checked_at": "2026-10-22T20:05:30.736093Z"
@@ -13378,5 +13363,27 @@
   "SVI6619": {
     "route": null,
     "checked_at": "2026-10-24T20:00:53.718669Z"
+  },
+  "WZZ3284": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-24T20:05:24.292466Z"
+  },
+  "NIA6389": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-24T20:05:24.292466Z"
   }
 }
