@@ -526,7 +526,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-23T17:10:32.067465Z"
+    "checked_at": "2026-10-24T18:15:31.166890Z"
   },
   "LOT3KT": {
     "route": {
@@ -592,7 +592,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T18:05:28.566915Z"
+    "checked_at": "2026-10-24T18:15:31.166890Z"
   },
   "IBE07MV": {
     "route": {
@@ -3147,17 +3147,6 @@
     },
     "checked_at": "2026-10-23T16:25:25.078966Z"
   },
-  "LGL9473": {
-    "route": {
-      "fromCity": "Luxembourg",
-      "fromIata": "LUX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Luxair",
-      "airlineCountry": "Luxembourg"
-    },
-    "checked_at": "2026-10-22T18:10:33.282803Z"
-  },
   "BTI4UJ": {
     "route": {
       "fromCity": "Berlin",
@@ -3489,8 +3478,15 @@
     "checked_at": "2026-10-24T18:00:53.812740Z"
   },
   "AFR38LQ": {
-    "route": null,
-    "checked_at": "2026-10-22T18:10:33.282803Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-24T18:15:31.166890Z"
   },
   "EJU5261": {
     "route": {
@@ -6901,17 +6897,6 @@
     },
     "checked_at": "2026-10-23T14:50:30.838645Z"
   },
-  "WMT6HS": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-22T18:10:33.282803Z"
-  },
   "NSZ4507": {
     "route": {
       "fromCity": "Stockholm",
@@ -6947,7 +6932,7 @@
   },
   "FIN8DN": {
     "route": null,
-    "checked_at": "2026-10-23T18:20:30.925155Z"
+    "checked_at": "2026-10-24T18:15:31.166890Z"
   },
   "BAW995": {
     "route": {
@@ -13418,5 +13403,16 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-24T18:05:22.942966Z"
+  },
+  "DLH8PN": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-24T18:15:31.166890Z"
   }
 }
