@@ -1571,7 +1571,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T08:40:30.740556Z"
+    "checked_at": "2026-10-24T08:50:30.229384Z"
   },
   "EZY18FP": {
     "route": {
@@ -6785,17 +6785,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T08:30:42.350720Z"
-  },
-  "NSZ82ME": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-22T08:45:31.140771Z"
   },
   "SXS679": {
     "route": {
@@ -13101,5 +13090,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T08:45:28.510624Z"
+  },
+  "RYR57AE": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T08:50:30.229384Z"
   }
 }
