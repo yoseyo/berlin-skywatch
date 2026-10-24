@@ -669,7 +669,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T19:10:30.408785Z"
+    "checked_at": "2026-10-24T18:45:30.563785Z"
   },
   "LOT1LH": {
     "route": {
@@ -13414,5 +13414,16 @@
   "SVI6618": {
     "route": null,
     "checked_at": "2026-10-24T18:40:30.962168Z"
+  },
+  "SDR60YJ": {
+    "route": {
+      "fromCity": "Marsa Alam",
+      "fromIata": "RMF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T18:45:30.563785Z"
   }
 }
