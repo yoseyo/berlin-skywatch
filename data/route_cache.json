@@ -6916,17 +6916,6 @@
     "route": null,
     "checked_at": "2026-10-23T02:05:25.738346Z"
   },
-  "SXS6JX": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-22T04:00:51.962768Z"
-  },
   "EJU83RT": {
     "route": {
       "fromCity": "Berlin",
@@ -13165,5 +13154,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T04:00:49.739722Z"
+  },
+  "EJU78XG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T04:05:23.291468Z"
+  },
+  "SCO815": {
+    "route": null,
+    "checked_at": "2026-10-24T04:05:23.291468Z"
   }
 }
