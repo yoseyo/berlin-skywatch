@@ -2954,7 +2954,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
+    "checked_at": "2026-10-24T07:50:31.951009Z"
   },
   "LHX179": {
     "route": {
@@ -6752,17 +6752,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T07:30:44.573597Z"
-  },
-  "VLG2EC": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Vueling Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-22T07:50:31.493849Z"
   },
   "CTN480": {
     "route": {
@@ -13014,5 +13003,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T07:40:30.315781Z"
+  },
+  "EJU3948": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-24T07:50:31.951009Z"
+  },
+  "DNU951": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "DOT LT",
+      "airlineCountry": "Lithuania"
+    },
+    "checked_at": "2026-10-24T07:50:31.951009Z"
+  },
+  "9AJIP": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-24T07:50:31.951009Z"
   }
 }
