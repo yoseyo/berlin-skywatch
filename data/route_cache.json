@@ -6789,10 +6789,6 @@
     },
     "checked_at": "2026-10-23T14:05:25.125330Z"
   },
-  "AAN141": {
-    "route": null,
-    "checked_at": "2026-10-22T11:45:32.113038Z"
-  },
   "FHY1684": {
     "route": {
       "fromCity": "Berlin",
@@ -11094,7 +11090,7 @@
   },
   "TJD800": {
     "route": null,
-    "checked_at": "2026-10-23T17:25:23.084277Z"
+    "checked_at": "2026-10-24T11:50:32.852381Z"
   },
   "NIA851": {
     "route": {
@@ -13065,5 +13061,38 @@
   "NJE409B": {
     "route": null,
     "checked_at": "2026-10-24T11:40:32.928688Z"
+  },
+  "CES710": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-24T11:50:32.852381Z"
+  },
+  "RYR5VH": {
+    "route": {
+      "fromCity": "Paphos",
+      "fromIata": "PFO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-24T11:50:32.852381Z"
+  },
+  "SDR59JT": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-24T11:50:32.852381Z"
   }
 }
