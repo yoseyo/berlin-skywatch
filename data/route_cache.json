@@ -251,7 +251,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-24T12:15:30.318865Z"
+    "checked_at": "2026-10-25T11:35:25.492914Z"
   },
   "LHX194": {
     "route": {
@@ -3980,17 +3980,6 @@
     },
     "checked_at": "2026-10-24T15:55:22.030138Z"
   },
-  "TAP31DB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-10-23T11:35:22.636511Z"
-  },
   "SWR9GE": {
     "route": {
       "fromCity": "Zurich",
@@ -4100,17 +4089,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T16:50:34.019922Z"
-  },
-  "CFE7026": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T11:35:22.636511Z"
   },
   "EJU5087": {
     "route": null,
@@ -7225,7 +7203,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-24T10:25:23.152681Z"
+    "checked_at": "2026-10-25T11:35:25.492914Z"
   },
   "RYR7949": {
     "route": {
@@ -13590,5 +13568,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T11:30:41.308636Z"
+  },
+  "DLH342": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T11:35:25.492914Z"
+  },
+  "BAW97ED": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T11:35:25.492914Z"
   }
 }
