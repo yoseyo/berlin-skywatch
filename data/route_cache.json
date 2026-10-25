@@ -1703,7 +1703,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-24T09:30:43.358862Z"
+    "checked_at": "2026-10-25T10:30:45.923557Z"
   },
   "LOT266": {
     "route": {
@@ -6392,7 +6392,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-24T09:15:31.426615Z"
+    "checked_at": "2026-10-25T10:30:45.923557Z"
   },
   "TLK811": {
     "route": null,
@@ -7945,7 +7945,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-23T18:55:24.278841Z"
+    "checked_at": "2026-10-25T10:30:45.923557Z"
   },
   "PGT566B": {
     "route": {
@@ -13498,5 +13498,42 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T10:25:27.287637Z"
+  },
+  "RYR77LL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T10:30:45.923557Z"
+  },
+  "DLH1AE": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T10:30:45.923557Z"
+  },
+  "SXS2XE": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T10:30:45.923557Z"
+  },
+  "FHM4762": {
+    "route": null,
+    "checked_at": "2026-10-25T10:30:45.923557Z"
   }
 }
