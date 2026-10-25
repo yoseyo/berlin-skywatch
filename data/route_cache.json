@@ -1230,7 +1230,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-24T08:15:30.745132Z"
+    "checked_at": "2026-10-25T07:45:31.811204Z"
   },
   "RYR98HW": {
     "route": {
@@ -4046,17 +4046,6 @@
     },
     "checked_at": "2026-10-24T19:15:28.974094Z"
   },
-  "ELY2371": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "El Al Israel Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-23T07:40:32.509942Z"
-  },
   "BAW42PB": {
     "route": {
       "fromCity": "London",
@@ -4078,17 +4067,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T08:55:22.481928Z"
-  },
-  "BAW986G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
   },
   "SAS2677": {
     "route": {
@@ -5126,17 +5104,6 @@
     },
     "checked_at": "2026-10-23T07:50:29.998148Z"
   },
-  "RYR59DR": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
-  },
   "SXS6WA": {
     "route": {
       "fromCity": "Berlin",
@@ -5838,17 +5805,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T09:00:56.090990Z"
-  },
-  "THY3350": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Van",
-      "toIata": "VAN",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
   },
   "WZZ54P": {
     "route": {
@@ -6801,54 +6757,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T17:30:42.077103Z"
-  },
-  "AIB082B": {
-    "route": null,
-    "checked_at": "2026-10-23T07:45:29.243049Z"
-  },
-  "EZY84XQ": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
-  },
-  "PGT86P": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
-  },
-  "EJU43CX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
-  },
-  "CAI3GK": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T07:45:29.243049Z"
   },
   "DFWEL": {
     "route": null,
@@ -9714,7 +9622,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T06:19:42.092143Z"
+    "checked_at": "2026-10-25T07:45:31.811204Z"
   },
   "EJU3947": {
     "route": {
@@ -13582,5 +13490,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T07:40:32.336006Z"
+  },
+  "WZZ579": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T07:45:31.811204Z"
+  },
+  "WZZ173": {
+    "route": {
+      "fromCity": "Kopitnari",
+      "fromIata": "KUT",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T07:45:31.811204Z"
+  },
+  "BTI687": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-25T07:45:31.811204Z"
+  },
+  "RYR564M": {
+    "route": null,
+    "checked_at": "2026-10-25T07:45:31.811204Z"
   }
 }
