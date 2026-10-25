@@ -3587,17 +3587,6 @@
     },
     "checked_at": "2026-10-23T19:05:23.987255Z"
   },
-  "LOT4WE": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-23T05:55:21.955846Z"
-  },
   "EJU45GF": {
     "route": {
       "fromCity": "Berlin",
@@ -13470,5 +13459,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T05:50:29.402854Z"
+  },
+  "WZZ52YC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T05:55:23.242023Z"
+  },
+  "DLH6ET": {
+    "route": {
+      "fromCity": "M\u00fcnster",
+      "fromIata": "FMO",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T05:55:23.242023Z"
+  },
+  "AEE4578": {
+    "route": {
+      "fromCity": "Souda",
+      "fromIata": "CHQ",
+      "toCity": "Karm\u00f8y",
+      "toIata": "HAU",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-25T05:55:23.242023Z"
+  },
+  "RYR72EV": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T05:55:23.242023Z"
   }
 }
