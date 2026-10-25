@@ -2275,7 +2275,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T14:30:44.521990Z"
+    "checked_at": "2026-10-25T14:35:22.191587Z"
   },
   "DLH4YC": {
     "route": {
@@ -3936,17 +3936,6 @@
     },
     "checked_at": "2026-10-24T05:35:23.184309Z"
   },
-  "SWR9YP": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-23T14:30:47.888013Z"
-  },
   "AUA233": {
     "route": {
       "fromCity": "Vienna",
@@ -3990,17 +3979,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-23T15:50:31.176925Z"
-  },
-  "BEL9SZ": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-23T14:30:47.888013Z"
   },
   "AUA234G": {
     "route": {
@@ -5232,17 +5210,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T18:30:42.245672Z"
-  },
-  "EJU83LH": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T14:30:47.888013Z"
   },
   "RYR58ZM": {
     "route": {
@@ -14090,5 +14057,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T14:30:43.396737Z"
+  },
+  "UAE57X": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Dubai",
+      "toIata": "DXB",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-25T14:35:22.191587Z"
+  },
+  "VLG76EN": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-25T14:35:22.191587Z"
   }
 }
