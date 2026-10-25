@@ -3565,17 +3565,6 @@
     },
     "checked_at": "2026-10-24T11:45:28.841243Z"
   },
-  "DLH1KX": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T10:45:33.636148Z"
-  },
   "TKJ9NQ": {
     "route": {
       "fromCity": "Berlin",
@@ -4002,17 +3991,6 @@
     },
     "checked_at": "2026-10-24T14:40:30.854140Z"
   },
-  "BAW843": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T10:50:30.594683Z"
-  },
   "SEH874": {
     "route": {
       "fromCity": "Athens",
@@ -4303,17 +4281,6 @@
     },
     "checked_at": "2026-10-23T20:50:29.649184Z"
   },
-  "LHX2T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T10:45:33.636148Z"
-  },
   "NOZ1104": {
     "route": {
       "fromCity": "Oslo",
@@ -4427,17 +4394,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T16:40:34.849601Z"
-  },
-  "ISR253": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-23T10:45:33.636148Z"
   },
   "RYR95MP": {
     "route": {
@@ -6398,54 +6354,6 @@
     },
     "checked_at": "2026-10-24T10:25:23.152681Z"
   },
-  "NOZ1869": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-23T10:45:33.636148Z"
-  },
-  "CES786": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-23T10:45:33.636148Z"
-  },
-  "NJE917B": {
-    "route": null,
-    "checked_at": "2026-10-23T10:45:33.636148Z"
-  },
-  "NMA738": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nesma Airlines",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-23T10:45:33.636148Z"
-  },
-  "RYR96AP": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T10:45:33.636148Z"
-  },
   "NSZ3731": {
     "route": {
       "fromCity": "Rome",
@@ -6456,10 +6364,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T10:50:32.047134Z"
-  },
-  "DEVMB": {
-    "route": null,
-    "checked_at": "2026-10-23T10:50:30.594683Z"
   },
   "AIB138B": {
     "route": null,
@@ -13553,5 +13457,20 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-25T10:45:29.689221Z"
+  },
+  "GAF924": {
+    "route": null,
+    "checked_at": "2026-10-25T10:50:30.628122Z"
+  },
+  "SDR29RC": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T10:50:30.628122Z"
   }
 }
