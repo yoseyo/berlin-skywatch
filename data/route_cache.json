@@ -1054,7 +1054,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-24T05:05:26.905044Z"
+    "checked_at": "2026-10-25T06:25:23.019170Z"
   },
   "AUA240": {
     "route": {
@@ -5306,17 +5306,6 @@
     },
     "checked_at": "2026-10-24T09:40:33.847767Z"
   },
-  "RYR5ZE": {
-    "route": {
-      "fromCity": "Liverpool",
-      "fromIata": "LPL",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T06:25:22.436635Z"
-  },
   "NSZ2MP": {
     "route": {
       "fromCity": "Nice",
@@ -6905,54 +6894,6 @@
     },
     "checked_at": "2026-10-24T05:35:23.184309Z"
   },
-  "FIN1AB": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-23T06:20:32.077621Z"
-  },
-  "EJU51LD": {
-    "route": {
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T06:20:32.077621Z"
-  },
-  "NIA8501": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-23T06:20:32.077621Z"
-  },
-  "N12MW": {
-    "route": null,
-    "checked_at": "2026-10-23T06:20:32.077621Z"
-  },
-  "RYR316": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T06:25:22.436635Z"
-  },
   "CFG2HD": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -7275,7 +7216,7 @@
   },
   "TWI805": {
     "route": null,
-    "checked_at": "2026-10-24T06:15:29.020774Z"
+    "checked_at": "2026-10-25T06:25:23.019170Z"
   },
   "EJU92KA": {
     "route": {
@@ -13573,5 +13514,24 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T06:20:29.443516Z"
+  },
+  "GAF600": {
+    "route": null,
+    "checked_at": "2026-10-25T06:25:23.019170Z"
+  },
+  "EWG32KT": {
+    "route": null,
+    "checked_at": "2026-10-25T06:25:23.019170Z"
+  },
+  "SAS35K": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T06:25:23.019170Z"
   }
 }
