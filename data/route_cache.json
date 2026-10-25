@@ -6230,17 +6230,6 @@
     "route": null,
     "checked_at": "2026-10-24T12:50:30.463871Z"
   },
-  "SDR45EE": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T13:45:42.612292Z"
-  },
   "DLH715": {
     "route": {
       "fromCity": "Tokyo",
@@ -14053,5 +14042,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T13:45:27.807553Z"
+  },
+  "EWG1H": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T13:50:29.924819Z"
+  },
+  "SDR49KT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T13:50:29.924819Z"
   }
 }
