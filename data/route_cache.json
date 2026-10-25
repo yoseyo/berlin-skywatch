@@ -5168,7 +5168,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-24T04:15:29.737822Z"
+    "checked_at": "2026-10-25T05:25:22.583124Z"
   },
   "KLM64F": {
     "route": {
@@ -6926,17 +6926,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T03:30:41.122302Z"
-  },
-  "RYR3UX": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T05:25:22.242657Z"
   },
   "WZZ629": {
     "route": {
@@ -13334,5 +13323,27 @@
       "airlineCountry": "Czech Republic"
     },
     "checked_at": "2026-10-25T05:20:32.897824Z"
+  },
+  "WZZ488": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T05:25:22.583124Z"
+  },
+  "CHH489": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-25T05:25:22.583124Z"
   }
 }
