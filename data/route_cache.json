@@ -3354,7 +3354,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-24T19:50:29.892288Z"
+    "checked_at": "2026-10-25T19:15:30.542982Z"
   },
   "CFG553": {
     "route": null,
@@ -14458,5 +14458,20 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-25T19:10:31.307489Z"
+  },
+  "FIN7AX": {
+    "route": null,
+    "checked_at": "2026-10-25T19:15:30.542982Z"
+  },
+  "RYR2FD": {
+    "route": {
+      "fromCity": "Dortmund",
+      "fromIata": "DTM",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T19:15:30.542982Z"
   }
 }
