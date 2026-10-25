@@ -4248,17 +4248,6 @@
     },
     "checked_at": "2026-10-23T12:30:45.550356Z"
   },
-  "LHX1HL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T12:15:31.083608Z"
-  },
   "THY79K": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6265,17 +6254,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-24T11:45:28.841243Z"
-  },
-  "EWG75A": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T12:15:31.083608Z"
   },
   "RUK145": {
     "route": {
@@ -13659,5 +13637,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T12:15:29.000990Z"
+  },
+  "EJU5025": {
+    "route": null,
+    "checked_at": "2026-10-25T12:20:31.923004Z"
+  },
+  "THY9VS": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T12:20:31.923004Z"
   }
 }
