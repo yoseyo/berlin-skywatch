@@ -4202,7 +4202,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-24T12:50:30.463871Z"
+    "checked_at": "2026-10-25T13:25:23.528165Z"
   },
   "SAS2736": {
     "route": {
@@ -6225,32 +6225,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T18:50:30.395712Z"
-  },
-  "UAG202": {
-    "route": null,
-    "checked_at": "2026-10-23T13:20:31.913056Z"
-  },
-  "SAS41W": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T13:20:31.913056Z"
-  },
-  "CFG3UX": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T13:25:22.676684Z"
   },
   "THY3376": {
     "route": null,
@@ -13957,5 +13931,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T13:20:30.299215Z"
+  },
+  "WMT788": {
+    "route": {
+      "fromCity": "Cluj-Napoca",
+      "fromIata": "CLJ",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-25T13:25:23.528165Z"
+  },
+  "KLM1314": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-25T13:25:23.528165Z"
   }
 }
