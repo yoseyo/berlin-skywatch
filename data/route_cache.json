@@ -2473,7 +2473,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-24T04:30:42.112662Z"
+    "checked_at": "2026-10-25T06:20:29.443516Z"
   },
   "LGL91B": {
     "route": {
@@ -6904,21 +6904,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T05:35:23.184309Z"
-  },
-  "WZZ8649": {
-    "route": null,
-    "checked_at": "2026-10-23T06:15:30.656453Z"
-  },
-  "EZS53CU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-23T06:15:30.656453Z"
   },
   "FIN1AB": {
     "route": {
@@ -13529,5 +13514,64 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T06:15:28.268278Z"
+  },
+  "EJU41UZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T06:20:29.443516Z"
+  },
+  "EJU61YV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T06:20:29.443516Z"
+  },
+  "EJU98DB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T06:20:29.443516Z"
+  },
+  "RYR35BR": {
+    "route": null,
+    "checked_at": "2026-10-25T06:20:29.443516Z"
+  },
+  "CFG7ME": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T06:20:29.443516Z"
+  },
+  "SXS4AQ": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T06:20:29.443516Z"
   }
 }
