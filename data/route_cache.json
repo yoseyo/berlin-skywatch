@@ -6230,28 +6230,6 @@
     "route": null,
     "checked_at": "2026-10-24T12:50:30.463871Z"
   },
-  "WZZ93ZW": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T13:40:33.760444Z"
-  },
-  "ENT590": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T13:40:33.760444Z"
-  },
   "SDR45EE": {
     "route": {
       "fromCity": "Heraklion",
@@ -14053,5 +14031,27 @@
   "LUA007M": {
     "route": null,
     "checked_at": "2026-10-25T13:40:30.732955Z"
+  },
+  "DLH3CE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T13:45:27.807553Z"
+  },
+  "SXS7KG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T13:45:27.807553Z"
   }
 }
