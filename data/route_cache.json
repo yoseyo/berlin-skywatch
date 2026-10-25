@@ -150,17 +150,6 @@
     },
     "checked_at": "2026-10-24T14:30:44.521990Z"
   },
-  "RYR4JQ": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T08:15:29.583612Z"
-  },
   "WZZ9926": {
     "route": {
       "fromCity": "Eindhoven",
@@ -1329,7 +1318,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-24T06:55:22.571542Z"
+    "checked_at": "2026-10-25T08:20:29.782117Z"
   },
   "DLH3TR": {
     "route": {
@@ -4336,17 +4325,6 @@
     },
     "checked_at": "2026-10-23T21:00:54.720162Z"
   },
-  "LHX5PN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T08:15:29.583612Z"
-  },
   "FIN6AP": {
     "route": {
       "fromCity": "Helsinki",
@@ -6691,28 +6669,6 @@
   "TWI805": {
     "route": null,
     "checked_at": "2026-10-25T06:25:23.019170Z"
-  },
-  "N57DG": {
-    "route": {
-      "fromCity": "Watford",
-      "fromIata": null,
-      "toCity": "Cambridge",
-      "toIata": "CBG",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-23T08:15:29.583612Z"
-  },
-  "LBT248": {
-    "route": {
-      "fromCity": "Monastir",
-      "fromIata": "MIR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-23T08:15:29.583612Z"
   },
   "DISIX": {
     "route": null,
@@ -13614,5 +13570,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T08:15:28.312714Z"
+  },
+  "SAS30H": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T08:20:29.782117Z"
+  },
+  "QTR5G": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-25T08:20:29.782117Z"
+  },
+  "DLH173": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T08:20:29.782117Z"
+  },
+  "DLH7EE": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T08:20:29.782117Z"
   }
 }
