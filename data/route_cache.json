@@ -3958,17 +3958,6 @@
     },
     "checked_at": "2026-10-23T14:30:47.888013Z"
   },
-  "CFE93AU": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T13:50:32.980051Z"
-  },
   "AUA233": {
     "route": {
       "fromCity": "Vienna",
@@ -6229,39 +6218,6 @@
   "THY3376": {
     "route": null,
     "checked_at": "2026-10-24T12:50:30.463871Z"
-  },
-  "DLH715": {
-    "route": {
-      "fromCity": "Tokyo",
-      "fromIata": "HND",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T13:50:32.980051Z"
-  },
-  "EWG3PD": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T13:50:32.980051Z"
-  },
-  "NMA739": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nesma Airlines",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-23T13:50:32.980051Z"
   },
   "THY3TR": {
     "route": {
@@ -14064,5 +14020,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T13:50:29.924819Z"
+  },
+  "ENT7EA": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Valladolid",
+      "toIata": "VLL",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T13:55:23.766600Z"
+  },
+  "THY1NC": {
+    "route": {
+      "fromCity": "Bodrum",
+      "fromIata": "BJV",
+      "toCity": "Moscow",
+      "toIata": "VKO",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T13:55:23.766600Z"
+  },
+  "HZA22": {
+    "route": null,
+    "checked_at": "2026-10-25T13:55:23.766600Z"
   }
 }
