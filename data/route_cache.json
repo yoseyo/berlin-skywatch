@@ -4644,7 +4644,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-24T15:10:32.945877Z"
+    "checked_at": "2026-10-25T21:00:53.380008Z"
   },
   "AUA99B": {
     "route": {
@@ -5470,17 +5470,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T21:20:29.852588Z"
-  },
-  "RYR38EA": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T20:55:22.996357Z"
   },
   "WMT392": {
     "route": {
@@ -14677,5 +14666,35 @@
   "EZY73MW": {
     "route": null,
     "checked_at": "2026-10-25T20:55:22.584945Z"
+  },
+  "WZZ191": {
+    "route": {
+      "fromCity": "Ohrid",
+      "fromIata": "OHD",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T21:00:53.380008Z"
+  },
+  "EJU37CH": {
+    "route": null,
+    "checked_at": "2026-10-25T21:00:53.380008Z"
+  },
+  "EWG7XK": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T21:00:53.380008Z"
+  },
+  "KMM377": {
+    "route": null,
+    "checked_at": "2026-10-25T21:00:53.380008Z"
   }
 }
