@@ -5872,17 +5872,6 @@
     },
     "checked_at": "2026-10-23T08:35:26.816539Z"
   },
-  "NOZ2WA": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-23T06:05:24.050265Z"
-  },
   "SXS678": {
     "route": {
       "fromCity": "Antalya",
@@ -6915,17 +6904,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T05:10:30.546943Z"
-  },
-  "NOZ6FM": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-23T06:05:24.050265Z"
   },
   "WMT9NH": {
     "route": {
@@ -13540,5 +13518,16 @@
   "WMT309": {
     "route": null,
     "checked_at": "2026-10-25T06:05:23.876494Z"
+  },
+  "SAS67W": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T06:10:30.525776Z"
   }
 }
