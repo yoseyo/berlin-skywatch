@@ -5519,17 +5519,6 @@
     },
     "checked_at": "2026-10-24T21:20:29.852588Z"
   },
-  "DLH8FT": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T20:25:25.388385Z"
-  },
   "PGT1610": {
     "route": {
       "fromCity": "Berlin",
@@ -6483,7 +6472,7 @@
   },
   "PLF104": {
     "route": null,
-    "checked_at": "2026-10-24T08:40:33.209154Z"
+    "checked_at": "2026-10-25T20:30:46.167304Z"
   },
   "EWG47Z": {
     "route": {
@@ -14625,5 +14614,53 @@
       "airlineCountry": "Czech Republic"
     },
     "checked_at": "2026-10-25T20:25:23.792102Z"
+  },
+  "LOT1HL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-25T20:30:46.167304Z"
+  },
+  "SAS82U": {
+    "route": null,
+    "checked_at": "2026-10-25T20:30:46.167304Z"
+  },
+  "EJU41NG": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T20:30:46.167304Z"
+  },
+  "EWG13N": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T20:30:46.167304Z"
+  },
+  "DLH5AH": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T20:30:46.167304Z"
   }
 }
