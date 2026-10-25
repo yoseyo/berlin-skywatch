@@ -1,15 +1,4 @@
 {
-  "PGT25MB": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T12:55:24.655576Z"
-  },
   "CHX100": {
     "route": null,
     "checked_at": "2026-10-25T06:15:28.268278Z"
@@ -6225,28 +6214,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T12:10:32.446359Z"
-  },
-  "NSZ365L": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T12:55:24.655576Z"
-  },
-  "EWG71G": {
-    "route": {
-      "fromCity": "Ibiza",
-      "fromIata": "IBZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T12:55:24.655576Z"
   },
   "N887MM": {
     "route": null,
@@ -13814,5 +13781,79 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T12:55:23.261898Z"
+  },
+  "NSZ4506": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "EJU79NE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "JBC734E": {
+    "route": null,
+    "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "N66HR": {
+    "route": null,
+    "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "MSR759": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "WZZ9GN": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "EWG7HG": {
+    "route": {
+      "fromCity": "Innsbruck",
+      "fromIata": "INN",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "EWG25Y": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T13:00:51.910467Z"
   }
 }
