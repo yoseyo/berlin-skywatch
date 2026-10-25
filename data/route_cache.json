@@ -5999,39 +5999,6 @@
     },
     "checked_at": "2026-10-24T04:15:29.737822Z"
   },
-  "EWG3AM": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T16:10:32.600438Z"
-  },
-  "RYR90GK": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T16:10:32.600438Z"
-  },
-  "SWT950P": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "Swiftair",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-23T16:10:32.600438Z"
-  },
   "FHY1282": {
     "route": {
       "fromCity": "Berlin",
@@ -14240,5 +14207,39 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-25T16:10:31.246302Z"
+  },
+  "CFG4790": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T16:15:30.413594Z"
+  },
+  "TKJ3NX": {
+    "route": {
+      "fromCity": "Ordu",
+      "fromIata": "OGU",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T16:15:30.413594Z"
+  },
+  "EWG9YR": {
+    "route": null,
+    "checked_at": "2026-10-25T16:15:30.413594Z"
+  },
+  "EWG8EV": {
+    "route": null,
+    "checked_at": "2026-10-25T16:15:30.413594Z"
+  },
+  "RYR27QM": {
+    "route": null,
+    "checked_at": "2026-10-25T16:15:30.413594Z"
   }
 }
