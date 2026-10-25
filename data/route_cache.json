@@ -4434,7 +4434,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-24T15:00:56.528990Z"
+    "checked_at": "2026-10-25T17:30:41.809517Z"
   },
   "SWU1950": {
     "route": {
@@ -5932,28 +5932,6 @@
   "TJD800": {
     "route": null,
     "checked_at": "2026-10-24T11:50:32.852381Z"
-  },
-  "NIA851": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-23T17:25:23.084277Z"
-  },
-  "RYR8879": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T17:25:23.084277Z"
   },
   "CTN4408": {
     "route": {
@@ -14331,5 +14309,53 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-25T17:25:21.816166Z"
+  },
+  "BAW988G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T17:30:41.809517Z"
+  },
+  "EJU76FA": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T17:30:41.809517Z"
+  },
+  "EZY63HL": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T17:30:41.809517Z"
+  },
+  "SAS695": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T17:30:41.809517Z"
+  },
+  "EWG42V": {
+    "route": null,
+    "checked_at": "2026-10-25T17:30:41.809517Z"
   }
 }
