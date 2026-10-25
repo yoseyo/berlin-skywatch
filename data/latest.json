@@ -3,14 +3,31 @@
     {
       "callsign": "ELY015",
       "country": "Israel",
-      "lat": 52.1895,
-      "lon": 13.5631,
+      "lat": 52.645,
+      "lon": 13.056,
       "altKm": 12.3,
-      "speedKmh": 742,
+      "speedKmh": 753,
       "heading": 326,
       "vertRateMs": -0.3,
       "category": "plane"
+    },
+    {
+      "callsign": "ELY049",
+      "country": "Israel",
+      "lat": 52.1227,
+      "lon": 13.2945,
+      "altKm": 11.1,
+      "speedKmh": 728,
+      "heading": 326,
+      "vertRateMs": 0,
+      "airline": "El Al Israel Airlines",
+      "airlineCountry": "Israel",
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-25T01:50:30.127490Z"
+  "updated_at": "2026-10-25T01:55:22.575696Z"
 }
