@@ -13488,5 +13488,27 @@
   "QGA01A": {
     "route": null,
     "checked_at": "2026-10-25T09:30:45.124772Z"
+  },
+  "EJU84MC": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T09:35:23.837261Z"
+  },
+  "NOZ2WA": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-25T09:35:23.837261Z"
   }
 }
