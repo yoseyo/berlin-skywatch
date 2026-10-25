@@ -284,7 +284,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-24T16:45:30.660006Z"
+    "checked_at": "2026-10-25T16:35:23.808627Z"
   },
   "KLM1780": {
     "route": {
@@ -3857,7 +3857,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-23T16:50:34.019922Z"
+    "checked_at": "2026-10-25T16:35:23.808627Z"
   },
   "AUA234G": {
     "route": {
@@ -14298,5 +14298,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T16:30:45.871881Z"
+  },
+  "FIN01AD": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-25T16:35:23.808627Z"
+  },
+  "RYR206": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T16:35:23.808627Z"
+  },
+  "RYR37SL": {
+    "route": null,
+    "checked_at": "2026-10-25T16:35:23.808627Z"
+  },
+  "BAW986G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T16:35:23.808627Z"
   }
 }
