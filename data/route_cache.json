@@ -4741,17 +4741,6 @@
     "route": null,
     "checked_at": "2026-10-25T01:45:27.022059Z"
   },
-  "RYR5603": {
-    "route": {
-      "fromCity": "Kaunas",
-      "fromIata": "KUN",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T16:35:24.581780Z"
-  },
   "EJU59TY": {
     "route": {
       "fromCity": "Berlin",
@@ -5987,17 +5976,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T18:35:23.401781Z"
-  },
-  "EWG9L": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T16:35:24.581780Z"
   },
   "DKH1667": {
     "route": {
@@ -14335,5 +14313,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-25T16:35:23.808627Z"
+  },
+  "EJU15QB": {
+    "route": null,
+    "checked_at": "2026-10-25T16:40:30.857178Z"
+  },
+  "FIN24Q": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-25T16:40:30.857178Z"
   }
 }
