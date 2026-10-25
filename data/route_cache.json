@@ -1263,7 +1263,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-24T06:25:21.513405Z"
+    "checked_at": "2026-10-25T07:50:28.815654Z"
   },
   "LOT1VZ": {
     "route": {
@@ -13527,5 +13527,71 @@
   "RYR564M": {
     "route": null,
     "checked_at": "2026-10-25T07:45:31.811204Z"
+  },
+  "FIN7PE": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-25T07:50:28.815654Z"
+  },
+  "THY3DP": {
+    "route": {
+      "fromCity": "Sofia",
+      "fromIata": "SOF",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T07:50:28.815654Z"
+  },
+  "RYR8295": {
+    "route": {
+      "fromCity": "Lamezia Terme (CZ)",
+      "fromIata": "SUF",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T07:50:28.815654Z"
+  },
+  "RYR36NZ": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T07:50:28.815654Z"
+  },
+  "DLH3AA": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T07:50:28.815654Z"
+  },
+  "HOP1434": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-25T07:50:28.815654Z"
   }
 }
