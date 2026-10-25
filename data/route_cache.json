@@ -5079,17 +5079,6 @@
     },
     "checked_at": "2026-10-23T15:20:33.960652Z"
   },
-  "EJU5027": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T14:55:24.296411Z"
-  },
   "FHY1683": {
     "route": {
       "fromCity": "Antalya",
@@ -6130,10 +6119,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T09:45:28.144516Z"
-  },
-  "LYBLG": {
-    "route": null,
-    "checked_at": "2026-10-23T14:55:24.296411Z"
   },
   "EJU46EK": {
     "route": {
@@ -14117,5 +14102,16 @@
       "airlineCountry": "Algeria"
     },
     "checked_at": "2026-10-25T14:55:23.404417Z"
+  },
+  "BBG274": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Bluebird Airways (BZ)",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-25T15:00:53.355822Z"
   }
 }
