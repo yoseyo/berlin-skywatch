@@ -1813,7 +1813,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-24T09:55:23.071083Z"
+    "checked_at": "2026-10-25T11:15:30.674700Z"
   },
   "CTN481": {
     "route": {
@@ -1868,7 +1868,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-24T10:25:23.152681Z"
+    "checked_at": "2026-10-25T11:15:30.674700Z"
   },
   "FIN50M": {
     "route": {
@@ -1879,7 +1879,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-24T10:45:33.669942Z"
+    "checked_at": "2026-10-25T11:15:30.674700Z"
   },
   "DLH2HH": {
     "route": {
@@ -6353,28 +6353,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-25T08:45:28.360622Z"
-  },
-  "EZY94NJ": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T11:15:29.644967Z"
-  },
-  "EJU17HZ": {
-    "route": {
-      "fromCity": "Sevilla",
-      "fromIata": "SVQ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T11:15:29.644967Z"
   },
   "EJU46TQ": {
     "route": {
@@ -13571,5 +13549,53 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T11:10:31.502210Z"
+  },
+  "EJU91JK": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T11:15:30.674700Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-25T11:15:30.674700Z"
+  },
+  "LNECM": {
+    "route": null,
+    "checked_at": "2026-10-25T11:15:30.674700Z"
+  },
+  "RYR8447": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T11:15:30.674700Z"
+  },
+  "EWG55H": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T11:15:30.674700Z"
   }
 }
