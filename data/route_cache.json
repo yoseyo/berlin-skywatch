@@ -6519,21 +6519,6 @@
     },
     "checked_at": "2026-10-24T09:50:30.691797Z"
   },
-  "LBT249": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-23T10:00:56.281727Z"
-  },
-  "DFPOL": {
-    "route": null,
-    "checked_at": "2026-10-23T10:00:56.281727Z"
-  },
   "WUK1356": {
     "route": null,
     "checked_at": "2026-10-24T10:00:54.230072Z"
@@ -13528,5 +13513,42 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-25T10:00:50.459824Z"
+  },
+  "NOZ61C": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-25T10:05:23.821553Z"
+  },
+  "BTI9TZ": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-25T10:05:23.821553Z"
+  },
+  "OEGRB": {
+    "route": null,
+    "checked_at": "2026-10-25T10:05:23.821553Z"
+  },
+  "CAI91DX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T10:05:23.821553Z"
   }
 }
