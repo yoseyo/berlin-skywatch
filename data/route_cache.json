@@ -4336,17 +4336,6 @@
     },
     "checked_at": "2026-10-24T08:05:24.039118Z"
   },
-  "TKJ3WS": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T09:00:56.867917Z"
-  },
   "PBB17": {
     "route": null,
     "checked_at": "2026-10-23T09:50:32.804622Z"
@@ -4361,17 +4350,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-24T11:45:28.841243Z"
-  },
-  "DLH890": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T09:00:56.867917Z"
   },
   "SXS8RG": {
     "route": {
@@ -6574,32 +6552,6 @@
     },
     "checked_at": "2026-10-24T20:15:30.492261Z"
   },
-  "KLM1303": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-23T09:00:56.867917Z"
-  },
-  "DLH880": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T09:00:56.867917Z"
-  },
-  "FYL14AC": {
-    "route": null,
-    "checked_at": "2026-10-23T09:05:23.578287Z"
-  },
   "DMSGV": {
     "route": null,
     "checked_at": "2026-10-23T09:10:30.874913Z"
@@ -8244,7 +8196,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-23T17:35:24.020221Z"
+    "checked_at": "2026-10-25T09:05:24.185503Z"
   },
   "CXI3E": {
     "route": {
@@ -13511,5 +13463,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T09:00:51.224420Z"
+  },
+  "BTI8ED": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-25T09:05:24.185503Z"
   }
 }
