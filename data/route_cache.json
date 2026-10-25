@@ -4351,17 +4351,6 @@
     },
     "checked_at": "2026-10-23T18:30:44.039884Z"
   },
-  "LBT233": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tunis",
-      "toIata": "TUN",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-23T11:45:29.873103Z"
-  },
   "AEG6911": {
     "route": null,
     "checked_at": "2026-10-23T21:00:54.720162Z"
@@ -6309,17 +6298,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T11:35:24.686265Z"
-  },
-  "RYR9689": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T11:45:29.873103Z"
   },
   "RYR9WM": {
     "route": {
@@ -13608,5 +13586,60 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T11:45:29.825281Z"
+  },
+  "NSZ4505": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T11:50:30.293081Z"
+  },
+  "CAL076": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Taipei",
+      "toIata": "TPE",
+      "airlineName": "China Airlines",
+      "airlineCountry": "Taiwan"
+    },
+    "checked_at": "2026-10-25T11:50:30.293081Z"
+  },
+  "RYR1VV": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T11:50:30.293081Z"
+  },
+  "SXS5JX": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T11:50:30.293081Z"
+  },
+  "SWR968": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-25T11:50:30.293081Z"
   }
 }
