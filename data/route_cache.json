@@ -7204,7 +7204,7 @@
   },
   "TWI806": {
     "route": null,
-    "checked_at": "2026-10-24T07:55:22.734391Z"
+    "checked_at": "2026-10-25T08:00:52.251495Z"
   },
   "FIN4LK": {
     "route": {
@@ -13552,5 +13552,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T07:55:22.810038Z"
+  },
+  "MGH767": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T08:00:52.251495Z"
+  },
+  "GAF618": {
+    "route": null,
+    "checked_at": "2026-10-25T08:00:52.251495Z"
+  },
+  "THY1CK": {
+    "route": {
+      "fromCity": "Bodrum",
+      "fromIata": "BJV",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T08:00:52.251495Z"
   }
 }
