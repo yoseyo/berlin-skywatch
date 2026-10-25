@@ -3343,7 +3343,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-24T16:35:24.052997Z"
+    "checked_at": "2026-10-25T14:15:29.576592Z"
   },
   "AUA22S": {
     "route": {
@@ -4860,7 +4860,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-24T12:50:30.463871Z"
+    "checked_at": "2026-10-25T14:15:29.576592Z"
   },
   "BTI6UN": {
     "route": {
@@ -6185,32 +6185,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T18:20:31.273519Z"
-  },
-  "WZZ317": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T14:10:34.960973Z"
-  },
-  "THY9": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Los Angeles",
-      "toIata": "LAX",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T14:10:34.960973Z"
-  },
-  "AWH91D": {
-    "route": null,
-    "checked_at": "2026-10-23T14:10:34.960973Z"
   },
   "UAE57X": {
     "route": {
@@ -14061,5 +14035,38 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-25T14:10:32.453962Z"
+  },
+  "FSE1B": {
+    "route": {
+      "fromCity": "Lyon/Bron",
+      "fromIata": "LYN",
+      "toCity": "Bern",
+      "toIata": "BRN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-25T14:15:29.576592Z"
+  },
+  "RYR54WW": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T14:15:29.576592Z"
+  },
+  "CFG8TJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T14:15:29.576592Z"
   }
 }
