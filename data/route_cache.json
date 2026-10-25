@@ -4887,17 +4887,6 @@
     },
     "checked_at": "2026-10-23T21:25:22.906310Z"
   },
-  "CSH871": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Shanghai Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-23T04:00:54.636650Z"
-  },
   "WMT7615": {
     "route": null,
     "checked_at": "2026-10-24T05:15:30.371574Z"
@@ -13429,5 +13418,16 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-25T03:30:44.426729Z"
+  },
+  "CSN331": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-25T04:05:22.681098Z"
   }
 }
