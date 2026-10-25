@@ -548,7 +548,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-24T18:20:31.273519Z"
+    "checked_at": "2026-10-25T19:55:24.160794Z"
   },
   "DLH202": {
     "route": {
@@ -3775,17 +3775,6 @@
     },
     "checked_at": "2026-10-24T20:20:31.139857Z"
   },
-  "RYR28BE": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T19:50:33.508628Z"
-  },
   "SRR6227": {
     "route": {
       "fromCity": "Berlin",
@@ -4277,17 +4266,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-25T14:15:29.576592Z"
-  },
-  "LOT285": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-23T19:50:33.508628Z"
   },
   "RYR55HD": {
     "route": {
@@ -4803,17 +4781,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T09:55:23.071083Z"
-  },
-  "EZY89CH": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T19:50:33.508628Z"
   },
   "SAS47D": {
     "route": {
@@ -14556,5 +14523,97 @@
   "WZZ1078": {
     "route": null,
     "checked_at": "2026-10-25T19:50:30.901220Z"
+  },
+  "NOZ9VF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "CFE34E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "RYR2PM": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "RYR3NR": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "EZY85MG": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "RYR20XA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "SAS696": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "VLG22VF": {
+    "route": null,
+    "checked_at": "2026-10-25T19:55:24.160794Z"
+  },
+  "EWG8465": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T19:55:24.160794Z"
   }
 }
