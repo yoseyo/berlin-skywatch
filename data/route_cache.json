@@ -2846,17 +2846,6 @@
     },
     "checked_at": "2026-10-23T19:00:55.015124Z"
   },
-  "CFE8495": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T18:55:24.278841Z"
-  },
   "EWG7ED": {
     "route": {
       "fromCity": "Berlin",
@@ -4890,18 +4879,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-24T18:25:25.179367Z"
-  },
-  "NSZ3304": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T18:55:24.278841Z"
+    "checked_at": "2026-10-25T19:00:51.401957Z"
   },
   "RYR70FL": {
     "route": {
@@ -14531,5 +14509,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T18:55:22.838634Z"
+  },
+  "BEL9DL": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-25T19:00:51.401957Z"
+  },
+  "BAW99XC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T19:00:51.401957Z"
+  },
+  "SXS52W": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T19:00:51.401957Z"
+  },
+  "ASL13B": {
+    "route": null,
+    "checked_at": "2026-10-25T19:00:51.401957Z"
   }
 }
