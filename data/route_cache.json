@@ -4818,17 +4818,6 @@
     },
     "checked_at": "2026-10-23T15:20:33.960652Z"
   },
-  "EWG9KG": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T13:05:24.767251Z"
-  },
   "SAS695": {
     "route": {
       "fromCity": "Vienna",
@@ -6214,25 +6203,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T12:10:32.446359Z"
-  },
-  "N887MM": {
-    "route": null,
-    "checked_at": "2026-10-23T13:00:59.229420Z"
-  },
-  "JTD214": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Jet Time",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-23T13:00:59.229420Z"
-  },
-  "AXY714G": {
-    "route": null,
-    "checked_at": "2026-10-23T13:00:59.229420Z"
   },
   "WZZ513": {
     "route": {
@@ -9307,7 +9277,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-24T12:50:30.463871Z"
+    "checked_at": "2026-10-25T13:05:25.487702Z"
   },
   "NSZ3661": {
     "route": {
@@ -13855,5 +13825,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T13:00:51.910467Z"
+  },
+  "EWG7XP": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T13:05:25.487702Z"
+  },
+  "RYR5LZ": {
+    "route": {
+      "fromCity": "Cork",
+      "fromIata": "ORK",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T13:05:25.487702Z"
   }
 }
