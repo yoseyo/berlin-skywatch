@@ -5108,17 +5108,6 @@
     },
     "checked_at": "2026-10-24T15:15:32.284757Z"
   },
-  "NSZ4357": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T16:00:58.478480Z"
-  },
   "MDT5": {
     "route": null,
     "checked_at": "2026-10-24T15:35:22.342349Z"
@@ -6009,17 +5998,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T04:15:29.737822Z"
-  },
-  "RYR2962": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T16:00:58.478480Z"
   },
   "NSZ5354": {
     "route": {
@@ -14199,5 +14177,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T16:00:54.983521Z"
+  },
+  "AIC83A": {
+    "route": {
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Air India",
+      "airlineCountry": "India"
+    },
+    "checked_at": "2026-10-25T16:05:23.903108Z"
+  },
+  "EZY32YZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T16:05:23.903108Z"
+  },
+  "RYR1QF": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T16:05:23.903108Z"
+  },
+  "EWG9TK": {
+    "route": {
+      "fromCity": "Dresden",
+      "fromIata": "DRS",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T16:05:23.903108Z"
   }
 }
