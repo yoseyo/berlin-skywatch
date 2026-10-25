@@ -1692,7 +1692,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-24T09:25:22.969872Z"
+    "checked_at": "2026-10-25T10:20:31.894220Z"
   },
   "AUA226K": {
     "route": {
@@ -1858,17 +1858,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-24T11:15:37.198826Z"
-  },
-  "PGT54XN": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T10:15:30.927953Z"
   },
   "AEE2WD": {
     "route": {
@@ -4472,17 +4461,6 @@
     },
     "checked_at": "2026-10-23T10:45:33.636148Z"
   },
-  "LBT232": {
-    "route": {
-      "fromCity": "Tunis",
-      "fromIata": "TUN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-23T10:15:30.927953Z"
-  },
   "RYR95MP": {
     "route": {
       "fromCity": "Berlin",
@@ -5438,17 +5416,6 @@
     },
     "checked_at": "2026-10-25T09:15:29.729415Z"
   },
-  "RYR31KN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T10:15:30.927953Z"
-  },
   "AUA99J": {
     "route": {
       "fromCity": "Vienna",
@@ -5551,17 +5518,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T12:00:54.146605Z"
-  },
-  "PGT21PC": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T10:15:30.927953Z"
   },
   "EJU92MK": {
     "route": {
@@ -6470,17 +6426,6 @@
   "WUK1356": {
     "route": null,
     "checked_at": "2026-10-24T10:00:54.230072Z"
-  },
-  "CFG9VN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T10:15:30.927953Z"
   },
   "LOT2LP": {
     "route": {
@@ -13564,5 +13509,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T10:15:29.288968Z"
+  },
+  "MGH724": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T10:20:31.894220Z"
   }
 }
