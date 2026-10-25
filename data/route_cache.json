@@ -5431,17 +5431,6 @@
     },
     "checked_at": "2026-10-24T10:50:32.047134Z"
   },
-  "DLH8XM": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T10:55:23.404270Z"
-  },
   "DLH1YY": {
     "route": {
       "fromCity": "Pozna\u0144",
@@ -6364,10 +6353,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T10:50:32.047134Z"
-  },
-  "AIB138B": {
-    "route": null,
-    "checked_at": "2026-10-23T10:55:23.404270Z"
   },
   "LUA221K": {
     "route": null,
@@ -13472,5 +13457,42 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T10:50:30.628122Z"
+  },
+  "THY1CU": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T10:55:23.652491Z"
+  },
+  "WUK7877": {
+    "route": null,
+    "checked_at": "2026-10-25T10:55:23.652491Z"
+  },
+  "RYR158L": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T10:55:23.652491Z"
+  },
+  "NIA8702": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-25T10:55:23.652491Z"
   }
 }
