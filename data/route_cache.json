@@ -2121,7 +2121,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-24T11:35:24.686265Z"
+    "checked_at": "2026-10-25T12:10:33.491212Z"
   },
   "SXS6ZK": {
     "route": {
@@ -4224,7 +4224,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-24T10:50:32.047134Z"
+    "checked_at": "2026-10-25T12:10:33.491212Z"
   },
   "AUA97F": {
     "route": {
@@ -6265,54 +6265,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-24T11:45:28.841243Z"
-  },
-  "ISR250": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-23T12:10:31.310438Z"
-  },
-  "BTI72X": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-23T12:10:31.310438Z"
-  },
-  "RYR786D": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T12:10:31.310438Z"
-  },
-  "PWF108": {
-    "route": {
-      "fromCity": "Maastricht",
-      "fromIata": "MST",
-      "toCity": "Braunschweig",
-      "toIata": "BWE",
-      "airlineName": "Private Wings Flugcharter",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T12:10:31.310438Z"
-  },
-  "MFX7613": {
-    "route": null,
-    "checked_at": "2026-10-23T12:10:31.310438Z"
   },
   "EWG75A": {
     "route": {
@@ -13619,5 +13571,49 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-25T12:05:22.970689Z"
+  },
+  "WZZ966": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T12:10:33.491212Z"
+  },
+  "ENT7TD": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T12:10:33.491212Z"
+  },
+  "TAP31DB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-10-25T12:10:33.491212Z"
+  },
+  "DLH184": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T12:10:33.491212Z"
   }
 }
