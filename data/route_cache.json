@@ -3464,7 +3464,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-24T11:25:23.747877Z"
+    "checked_at": "2026-10-25T12:25:23.321128Z"
   },
   "SAS55L": {
     "route": {
@@ -5387,17 +5387,6 @@
     },
     "checked_at": "2026-10-23T14:30:47.888013Z"
   },
-  "SAS58M": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T12:25:22.494011Z"
-  },
   "RYR58ZM": {
     "route": {
       "fromCity": "Berlin",
@@ -6255,17 +6244,6 @@
     },
     "checked_at": "2026-10-24T11:45:28.841243Z"
   },
-  "RUK145": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T12:20:32.700400Z"
-  },
   "CHH490": {
     "route": {
       "fromCity": "Berlin",
@@ -6287,17 +6265,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T11:55:23.399945Z"
-  },
-  "DLH9851": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T12:25:22.494011Z"
   },
   "N127SR": {
     "route": {
@@ -13652,5 +13619,49 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T12:20:31.923004Z"
+  },
+  "EJU78NA": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T12:25:23.321128Z"
+  },
+  "RYR873P": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T12:25:23.321128Z"
+  },
+  "SAS1675": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T12:25:23.321128Z"
+  },
+  "RYR3CC": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T12:25:23.321128Z"
   }
 }
