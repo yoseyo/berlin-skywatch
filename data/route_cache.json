@@ -5944,28 +5944,6 @@
     },
     "checked_at": "2026-10-24T18:35:23.401781Z"
   },
-  "NSZ2BH": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "V\u00e4xj\u00f6",
-      "toIata": "VXO",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T16:45:32.122927Z"
-  },
-  "EJU57YZ": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T16:45:32.122927Z"
-  },
   "AIC189": {
     "route": {
       "fromCity": "New Delhi",
@@ -6159,7 +6137,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-23T17:40:31.256481Z"
+    "checked_at": "2026-10-25T16:50:31.102074Z"
   },
   "ATV504": {
     "route": null,
@@ -14314,5 +14292,53 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T16:45:29.230169Z"
+  },
+  "THY3PC": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Cairo",
+      "toIata": "CAI",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T16:50:31.102074Z"
+  },
+  "EWG52K": {
+    "route": null,
+    "checked_at": "2026-10-25T16:50:31.102074Z"
+  },
+  "RYR3NA": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T16:50:31.102074Z"
+  },
+  "DLH6HF": {
+    "route": {
+      "fromCity": "Luxembourg",
+      "fromIata": "LUX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T16:50:31.102074Z"
+  },
+  "EJU91XM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T16:50:31.102074Z"
   }
 }
