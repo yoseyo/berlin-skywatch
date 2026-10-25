@@ -1727,17 +1727,6 @@
     },
     "checked_at": "2026-10-24T09:35:24.591578Z"
   },
-  "KLM75C": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
-  },
   "LOT7VJ": {
     "route": {
       "fromCity": "Warsaw",
@@ -5027,17 +5016,6 @@
     },
     "checked_at": "2026-10-24T08:40:33.209154Z"
   },
-  "WZZ22UT": {
-    "route": {
-      "fromCity": "Liverpool",
-      "fromIata": "LPL",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
-  },
   "THY3330": {
     "route": {
       "fromCity": "Pendik, Istanbul",
@@ -5059,17 +5037,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T10:40:32.504279Z"
-  },
-  "WZZ2709": {
-    "route": {
-      "fromCity": "Debrecen",
-      "fromIata": "DEB",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
   },
   "WMT751": {
     "route": null,
@@ -5096,17 +5063,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-23T10:20:33.265686Z"
-  },
-  "EWG61V": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
   },
   "RYR364N": {
     "route": {
@@ -5140,17 +5096,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-24T08:00:54.277124Z"
-  },
-  "RYR73QL": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Liverpool",
-      "toIata": "LPL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
   },
   "GAF880": {
     "route": {
@@ -6628,50 +6573,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T20:15:30.492261Z"
-  },
-  "BTI7EG": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
-  },
-  "SXS5LJ": {
-    "route": {
-      "fromCity": "Kayseri",
-      "fromIata": "ASR",
-      "toCity": "Saint-Louis",
-      "toIata": "EAP",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
-  },
-  "RYR3WY": {
-    "route": {
-      "fromCity": "Podgorica",
-      "fromIata": "TGD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
-  },
-  "RYR9FX": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T08:50:33.608987Z"
   },
   "SWR5ZM": {
     "route": {
@@ -13584,5 +13485,27 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-10-25T08:40:32.491679Z"
+  },
+  "PGT9SF": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T08:55:24.021774Z"
+  },
+  "CAI62RH": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T08:55:24.021774Z"
   }
 }
