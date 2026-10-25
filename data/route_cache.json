@@ -12,7 +12,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-24T13:25:23.771631Z"
+    "checked_at": "2026-10-25T13:40:30.732955Z"
   },
   "RYR54CX": {
     "route": {
@@ -2044,7 +2044,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-24T13:05:24.184598Z"
+    "checked_at": "2026-10-25T13:40:30.732955Z"
   },
   "VLG48MQ": {
     "route": {
@@ -6229,17 +6229,6 @@
   "THY3376": {
     "route": null,
     "checked_at": "2026-10-24T12:50:30.463871Z"
-  },
-  "CFG4KC": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T13:35:24.000670Z"
   },
   "WZZ93ZW": {
     "route": {
@@ -14038,5 +14027,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T13:35:23.014157Z"
+  },
+  "EJU41RC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T13:40:30.732955Z"
+  },
+  "SAS1676": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T13:40:30.732955Z"
+  },
+  "LUA007M": {
+    "route": null,
+    "checked_at": "2026-10-25T13:40:30.732955Z"
   }
 }
