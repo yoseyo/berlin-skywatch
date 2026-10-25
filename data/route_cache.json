@@ -6230,32 +6230,6 @@
     "route": null,
     "checked_at": "2026-10-24T12:50:30.463871Z"
   },
-  "AWH91C": {
-    "route": null,
-    "checked_at": "2026-10-23T13:30:51.647924Z"
-  },
-  "EJU98TC": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T13:30:51.647924Z"
-  },
-  "RUK144": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair UK",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T13:30:51.647924Z"
-  },
   "CFG4KC": {
     "route": {
       "fromCity": "Leipzig",
@@ -14005,5 +13979,64 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T13:30:41.962652Z"
+  },
+  "DETEG": {
+    "route": null,
+    "checked_at": "2026-10-25T13:35:23.014157Z"
+  },
+  "BAW979": {
+    "route": {
+      "fromCity": "Hannover",
+      "fromIata": "HAJ",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T13:35:23.014157Z"
+  },
+  "RYR64HG": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T13:35:23.014157Z"
+  },
+  "AFR61ER": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-25T13:35:23.014157Z"
+  },
+  "MSC3900": {
+    "route": {
+      "fromCity": "Aarhus",
+      "fromIata": "AAR",
+      "toCity": "Aarhus",
+      "toIata": "AAR",
+      "airlineName": "Air Cairo",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-25T13:35:23.014157Z"
+  },
+  "EWG92J": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Fes",
+      "toIata": "FEZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T13:35:23.014157Z"
   }
 }
