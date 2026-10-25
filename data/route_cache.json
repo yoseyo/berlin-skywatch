@@ -592,7 +592,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-24T18:50:30.395712Z"
+    "checked_at": "2026-10-25T18:40:29.722248Z"
   },
   "NOZ9VF": {
     "route": {
@@ -4403,17 +4403,6 @@
     },
     "checked_at": "2026-10-25T14:15:29.576592Z"
   },
-  "ASL44H": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-23T18:35:26.261758Z"
-  },
   "SAS696": {
     "route": {
       "fromCity": "Copenhagen",
@@ -5804,10 +5793,6 @@
   "SKV113": {
     "route": null,
     "checked_at": "2026-10-24T13:30:42.397826Z"
-  },
-  "CHX71": {
-    "route": null,
-    "checked_at": "2026-10-23T18:35:26.261758Z"
   },
   "TVF77EX": {
     "route": {
@@ -8870,7 +8855,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T17:50:28.663521Z"
+    "checked_at": "2026-10-25T18:40:29.722248Z"
   },
   "CXI86BF": {
     "route": {
@@ -14453,5 +14438,39 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T18:35:23.923884Z"
+  },
+  "WZZ1NH": {
+    "route": {
+      "fromCity": "Yerevan",
+      "fromIata": "EVN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T18:40:29.722248Z"
+  },
+  "PGT38UL": {
+    "route": null,
+    "checked_at": "2026-10-25T18:40:29.722248Z"
+  },
+  "FSE1E": {
+    "route": null,
+    "checked_at": "2026-10-25T18:40:29.722248Z"
+  },
+  "EJU36HF": {
+    "route": null,
+    "checked_at": "2026-10-25T18:40:29.722248Z"
+  },
+  "CCA936": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-25T18:40:29.722248Z"
   }
 }
