@@ -1450,7 +1450,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-24T07:55:22.734391Z"
+    "checked_at": "2026-10-25T09:15:29.729415Z"
   },
   "SWR44E": {
     "route": {
@@ -1626,7 +1626,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-24T08:00:54.277124Z"
+    "checked_at": "2026-10-25T09:15:29.729415Z"
   },
   "RYR4TC": {
     "route": {
@@ -5521,7 +5521,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-24T07:40:30.315781Z"
+    "checked_at": "2026-10-25T09:15:29.729415Z"
   },
   "RYR31KN": {
     "route": {
@@ -13503,5 +13503,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T09:10:31.970285Z"
+  },
+  "IBE07ML": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-25T09:15:29.729415Z"
+  },
+  "RYR1ZC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T09:15:29.729415Z"
+  },
+  "DLH5KL": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T09:15:29.729415Z"
   }
 }
