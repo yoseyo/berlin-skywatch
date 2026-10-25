@@ -13448,5 +13448,27 @@
   "EWG8MA": {
     "route": null,
     "checked_at": "2026-10-25T05:45:28.708057Z"
+  },
+  "DLH3CH": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T05:50:29.402854Z"
+  },
+  "DLH7AL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T05:50:29.402854Z"
   }
 }
