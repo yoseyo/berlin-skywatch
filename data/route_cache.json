@@ -12,7 +12,7 @@
   },
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-24T06:35:23.165055Z"
+    "checked_at": "2026-10-25T06:15:28.268278Z"
   },
   "MSC2961": {
     "route": {
@@ -4079,17 +4079,6 @@
     },
     "checked_at": "2026-10-24T19:15:28.974094Z"
   },
-  "PGT820D": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T06:10:32.002347Z"
-  },
   "ELY2371": {
     "route": {
       "fromCity": "Tel Aviv",
@@ -4772,17 +4761,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-23T07:15:30.916626Z"
-  },
-  "RYR67EU": {
-    "route": {
-      "fromCity": "Zagreb",
-      "fromIata": "ZAG",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T06:10:32.002347Z"
   },
   "RYR75DX": {
     "route": {
@@ -13529,5 +13507,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T06:10:30.525776Z"
+  },
+  "IBE07WP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-25T06:15:28.268278Z"
+  },
+  "CFG4787": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T06:15:28.268278Z"
   }
 }
