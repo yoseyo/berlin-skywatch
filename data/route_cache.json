@@ -5401,17 +5401,6 @@
     },
     "checked_at": "2026-10-25T20:55:22.584945Z"
   },
-  "NSZ24N": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T21:31:00.289502Z"
-  },
   "WZZ933H": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -14725,5 +14714,16 @@
   "EJU94HQ": {
     "route": null,
     "checked_at": "2026-10-25T21:30:41.490840Z"
+  },
+  "DLH8YV": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T21:35:24.002185Z"
   }
 }
