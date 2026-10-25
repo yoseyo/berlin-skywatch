@@ -1659,7 +1659,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-24T09:15:31.426615Z"
+    "checked_at": "2026-10-25T09:40:30.699360Z"
   },
   "WMT358": {
     "route": {
@@ -1769,7 +1769,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T10:50:32.047134Z"
+    "checked_at": "2026-10-25T09:40:30.699360Z"
   },
   "IBE07KH": {
     "route": {
@@ -4023,28 +4023,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T10:30:42.362660Z"
-  },
-  "BAW87AM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T09:35:24.563827Z"
-  },
-  "ELY2372": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "El Al Israel Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-23T09:40:30.516943Z"
   },
   "SAS2678": {
     "route": {
@@ -6562,54 +6540,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T16:50:31.916376Z"
-  },
-  "BFD65H": {
-    "route": null,
-    "checked_at": "2026-10-23T09:35:24.563827Z"
-  },
-  "RYR924": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T09:35:24.563827Z"
-  },
-  "CXI8T": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-23T09:35:24.563827Z"
-  },
-  "EJU93RY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T09:40:30.516943Z"
-  },
-  "PGT1678": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T09:40:30.516943Z"
   },
   "DEKPR": {
     "route": null,
@@ -13510,5 +13440,16 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-25T09:35:23.837261Z"
+  },
+  "EWG6ZR": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T09:40:30.699360Z"
   }
 }
