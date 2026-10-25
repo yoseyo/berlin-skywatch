@@ -1164,7 +1164,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-24T05:55:22.540295Z"
+    "checked_at": "2026-10-25T07:00:51.594803Z"
   },
   "AUA223B": {
     "route": {
@@ -3477,17 +3477,6 @@
     },
     "checked_at": "2026-10-24T18:15:31.166890Z"
   },
-  "EJU72PR": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T06:55:23.397028Z"
-  },
   "EJU71KT": {
     "route": {
       "fromCity": "Berlin",
@@ -3718,17 +3707,6 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-10-23T17:55:24.909396Z"
-  },
-  "LOT4MH": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-23T06:55:23.397028Z"
   },
   "WMT2GJ": {
     "route": {
@@ -6860,28 +6838,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-24T06:30:43.443485Z"
-  },
-  "EWG58L": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ibiza",
-      "toIata": "IBZ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T06:55:23.397028Z"
-  },
-  "CKK235": {
-    "route": {
-      "fromCity": "Chongqing",
-      "fromIata": "CKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-23T06:55:23.397028Z"
   },
   "EWG3F": {
     "route": {
@@ -13562,5 +13518,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-25T06:50:31.298652Z"
+  },
+  "FIN1703": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-25T07:00:51.594803Z"
+  },
+  "RYR27PY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T07:00:51.594803Z"
   }
 }
