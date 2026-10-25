@@ -5856,28 +5856,6 @@
     },
     "checked_at": "2026-10-24T08:05:24.039118Z"
   },
-  "CSN465": {
-    "route": {
-      "fromCity": "Guangzhou (Huadu)",
-      "fromIata": "CAN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-23T18:20:30.925155Z"
-  },
-  "RYR8603": {
-    "route": {
-      "fromCity": "Weeze",
-      "fromIata": "NRN",
-      "toCity": "Valencia",
-      "toIata": "VLC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T18:20:30.925155Z"
-  },
   "SKV113": {
     "route": null,
     "checked_at": "2026-10-24T13:30:42.397826Z"
@@ -14465,5 +14443,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-25T18:15:30.591851Z"
+  },
+  "EWG8ZG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T18:20:32.296659Z"
+  },
+  "RYR48MN": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "HHN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T18:20:32.296659Z"
   }
 }
