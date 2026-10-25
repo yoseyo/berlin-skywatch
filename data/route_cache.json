@@ -209,17 +209,6 @@
     },
     "checked_at": "2026-10-24T14:25:24.134633Z"
   },
-  "BEL2HJ": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-23T15:55:24.605508Z"
-  },
   "NSZ3303": {
     "route": {
       "fromCity": "Berlin",
@@ -274,17 +263,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T15:45:28.557094Z"
-  },
-  "PGT7UZ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T15:55:24.605508Z"
   },
   "DLH2XC": {
     "route": {
@@ -4660,17 +4638,6 @@
     },
     "checked_at": "2026-10-24T09:35:24.591578Z"
   },
-  "RYR62XF": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T15:55:24.605508Z"
-  },
   "DLH6TP": {
     "route": {
       "fromCity": "Milan",
@@ -6010,17 +5977,6 @@
     },
     "checked_at": "2026-10-24T15:00:56.528990Z"
   },
-  "RYR6VC": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T15:55:24.605508Z"
-  },
   "EWG41W": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -6031,10 +5987,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T08:20:31.180422Z"
-  },
-  "CXI4RD": {
-    "route": null,
-    "checked_at": "2026-10-23T15:55:24.605508Z"
   },
   "EJU38DP": {
     "route": {
@@ -14202,5 +14154,20 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-10-25T15:50:33.517593Z"
+  },
+  "WZZ98SJ": {
+    "route": null,
+    "checked_at": "2026-10-25T15:55:27.131455Z"
+  },
+  "SXS5RT": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T15:55:27.131455Z"
   }
 }
