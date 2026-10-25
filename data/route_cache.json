@@ -1956,7 +1956,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-24T09:20:32.270803Z"
+    "checked_at": "2026-10-25T11:30:41.308636Z"
   },
   "KLM26L": {
     "route": {
@@ -1967,7 +1967,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T12:20:33.255342Z"
+    "checked_at": "2026-10-25T11:30:41.308636Z"
   },
   "SXS5UY": {
     "route": {
@@ -2144,17 +2144,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T12:50:30.463871Z"
-  },
-  "KLM1314": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-23T11:25:27.545838Z"
   },
   "MSR731": {
     "route": {
@@ -13579,5 +13568,27 @@
   "N125ME": {
     "route": null,
     "checked_at": "2026-10-25T11:20:31.769474Z"
+  },
+  "FIN07RT": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-25T11:30:41.308636Z"
+  },
+  "RYR51RQ": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T11:30:41.308636Z"
   }
 }
