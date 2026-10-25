@@ -6299,25 +6299,6 @@
     },
     "checked_at": "2026-10-24T14:25:24.134633Z"
   },
-  "DMIPY": {
-    "route": null,
-    "checked_at": "2026-10-23T11:40:34.139036Z"
-  },
-  "WZZ88": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Leeds",
-      "toIata": "LBA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T11:40:34.139036Z"
-  },
-  "DERSL": {
-    "route": null,
-    "checked_at": "2026-10-23T11:40:34.139036Z"
-  },
   "THY3331": {
     "route": {
       "fromCity": "Berlin",
@@ -6328,17 +6309,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T11:35:24.686265Z"
-  },
-  "WZZ11U": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T11:40:34.139036Z"
   },
   "RYR9689": {
     "route": {
@@ -13616,5 +13586,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T11:40:33.120114Z"
+  },
+  "WZZ1039": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T11:45:29.825281Z"
+  },
+  "EWG83W": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T11:45:29.825281Z"
   }
 }
