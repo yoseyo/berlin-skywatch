@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-25T05:00:53.755384Z"
+  "flights": [
+    {
+      "callsign": "RYR6FG",
+      "country": "Poland",
+      "lat": 52.7089,
+      "lon": 13.2011,
+      "altKm": 10.5,
+      "speedKmh": 690,
+      "heading": 253,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Marrakech",
+      "fromIata": "RAK",
+      "toCity": "Vatry",
+      "toIata": "XCR",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-25T05:05:23.030303Z"
 }
