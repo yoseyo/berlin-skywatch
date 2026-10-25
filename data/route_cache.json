@@ -4880,17 +4880,6 @@
     },
     "checked_at": "2026-10-24T18:05:22.942966Z"
   },
-  "DFEFY": {
-    "route": {
-      "fromCity": "M\u00f6nchengladbach",
-      "fromIata": "MGL",
-      "toCity": "Bottrop-Kirchhellen",
-      "toIata": null,
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-23T07:00:54.216979Z"
-  },
   "LHX6T": {
     "route": {
       "fromCity": "Munich",
@@ -5114,17 +5103,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-24T06:10:29.009456Z"
-  },
-  "SXS6SJ": {
-    "route": {
-      "fromCity": "Dalaman",
-      "fromIata": "DLM",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T07:00:54.216979Z"
   },
   "PGT982": {
     "route": {
@@ -6849,36 +6827,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T11:35:24.686265Z"
-  },
-  "CFG1KL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T07:00:54.216979Z"
-  },
-  "NJE006K": {
-    "route": null,
-    "checked_at": "2026-10-23T07:00:54.216979Z"
-  },
-  "AWH78C": {
-    "route": null,
-    "checked_at": "2026-10-23T07:00:54.216979Z"
-  },
-  "SDR45DR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T07:00:54.216979Z"
   },
   "WMT9SL": {
     "route": {
@@ -13540,5 +13488,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T07:00:51.594803Z"
+  },
+  "DLH2KP": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T07:05:25.725499Z"
+  },
+  "EWG6FC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T07:05:25.725499Z"
   }
 }
