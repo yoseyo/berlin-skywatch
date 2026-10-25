@@ -3059,17 +3059,6 @@
     },
     "checked_at": "2026-10-24T17:55:21.991718Z"
   },
-  "RYR3QE": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T06:40:31.920707Z"
-  },
   "VLG9PX": {
     "route": {
       "fromCity": "Barcelona",
@@ -6882,21 +6871,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T05:35:23.184309Z"
-  },
-  "LOT403": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-23T06:40:31.920707Z"
-  },
-  "PLF250": {
-    "route": null,
-    "checked_at": "2026-10-23T06:40:31.920707Z"
   },
   "FIN5R": {
     "route": {
@@ -13570,5 +13544,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T06:40:29.203859Z"
+  },
+  "EJU51NW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marsa Alam",
+      "toIata": "RMF",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T06:45:30.198074Z"
+  },
+  "EWG9YT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T06:45:30.198074Z"
   }
 }
