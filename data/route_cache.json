@@ -429,17 +429,6 @@
     },
     "checked_at": "2026-10-24T16:55:22.776903Z"
   },
-  "PGT49YQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T17:45:31.695325Z"
-  },
   "THY5MH": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -3167,7 +3156,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-24T16:55:22.776903Z"
+    "checked_at": "2026-10-25T17:50:31.419320Z"
   },
   "DLH3X": {
     "route": {
@@ -3458,17 +3447,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-24T13:00:54.063532Z"
-  },
-  "SWR15V": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-23T17:50:30.617203Z"
   },
   "BAW996G": {
     "route": {
@@ -4524,17 +4502,6 @@
     },
     "checked_at": "2026-10-25T14:15:29.576592Z"
   },
-  "BTI6UN": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-23T17:45:31.695325Z"
-  },
   "ASL44H": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -4974,7 +4941,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-24T16:25:23.547927Z"
+    "checked_at": "2026-10-25T17:50:31.419320Z"
   },
   "BAW94Q": {
     "route": {
@@ -5034,17 +5001,6 @@
   "PAK1": {
     "route": null,
     "checked_at": "2026-10-24T15:45:28.557094Z"
-  },
-  "NOZ5HE": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-23T17:50:30.617203Z"
   },
   "NSZ4507": {
     "route": {
@@ -5932,10 +5888,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T10:40:32.927021Z"
-  },
-  "SVW24JM": {
-    "route": null,
-    "checked_at": "2026-10-23T17:50:30.617203Z"
   },
   "SDR11BL": {
     "route": {
@@ -14402,5 +14354,53 @@
   "CXI1H": {
     "route": null,
     "checked_at": "2026-10-25T17:45:30.789330Z"
+  },
+  "THY6WM": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T17:50:31.419320Z"
+  },
+  "TVS4319": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-25T17:50:31.419320Z"
+  },
+  "EWG43J": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T17:50:31.419320Z"
+  },
+  "EWG6YW": {
+    "route": null,
+    "checked_at": "2026-10-25T17:50:31.419320Z"
+  },
+  "RYR58ER": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "CIA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T17:50:31.419320Z"
   }
 }
