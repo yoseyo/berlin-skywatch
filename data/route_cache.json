@@ -4303,10 +4303,6 @@
     },
     "checked_at": "2026-10-24T08:05:24.039118Z"
   },
-  "PBB17": {
-    "route": null,
-    "checked_at": "2026-10-23T09:50:32.804622Z"
-  },
   "CFE76JZ": {
     "route": {
       "fromCity": "London",
@@ -5659,17 +5655,6 @@
     },
     "checked_at": "2026-10-24T11:20:31.368068Z"
   },
-  "THY3351": {
-    "route": {
-      "fromCity": "Van",
-      "fromIata": "VAN",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T09:50:32.804622Z"
-  },
   "EJU12TM": {
     "route": {
       "fromCity": "Paris",
@@ -6518,21 +6503,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T16:50:31.916376Z"
-  },
-  "DEKPR": {
-    "route": null,
-    "checked_at": "2026-10-23T09:50:32.804622Z"
-  },
-  "BTI8KY": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-23T09:50:32.804622Z"
   },
   "TWI806": {
     "route": null,
@@ -13510,5 +13480,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T09:50:28.903206Z"
+  },
+  "RYR8294": {
+    "route": null,
+    "checked_at": "2026-10-25T09:55:23.108648Z"
+  },
+  "RYR2214": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Santander",
+      "toIata": "SDR",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T09:55:23.108648Z"
+  },
+  "RYR4XP": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T09:55:23.108648Z"
   }
 }
