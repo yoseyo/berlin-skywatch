@@ -4546,17 +4546,6 @@
     },
     "checked_at": "2026-10-24T04:25:23.534766Z"
   },
-  "DLH8LY": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T11:00:57.103369Z"
-  },
   "THY9RZ": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6353,21 +6342,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T10:50:32.047134Z"
-  },
-  "LUA221K": {
-    "route": null,
-    "checked_at": "2026-10-23T11:00:57.103369Z"
-  },
-  "JDI85H": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-23T11:00:57.103369Z"
   },
   "NSZ3375": {
     "route": {
@@ -13531,5 +13505,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T11:00:52.420535Z"
+  },
+  "DLH890": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T11:05:24.093660Z"
+  },
+  "SXS7EQ": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T11:05:24.093660Z"
+  },
+  "CFG3TN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T11:05:24.093660Z"
   }
 }
