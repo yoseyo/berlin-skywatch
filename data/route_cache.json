@@ -2035,17 +2035,6 @@
     },
     "checked_at": "2026-10-24T11:45:28.841243Z"
   },
-  "PGT93T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T11:50:34.068675Z"
-  },
   "WMT1RH": {
     "route": {
       "fromCity": "Chi\u015fin\u0103u",
@@ -5452,17 +5441,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-23T12:25:22.494011Z"
-  },
-  "EWG20W": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T11:50:34.068675Z"
   },
   "RYR58ZM": {
     "route": {
@@ -13641,5 +13619,42 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-25T11:50:30.293081Z"
+  },
+  "BAW978": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T11:55:22.585100Z"
+  },
+  "DLH9MJ": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T11:55:22.585100Z"
+  },
+  "RYR25UU": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T11:55:22.585100Z"
+  },
+  "GAF933": {
+    "route": null,
+    "checked_at": "2026-10-25T11:55:22.585100Z"
   }
 }
