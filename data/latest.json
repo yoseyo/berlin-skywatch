@@ -1,16 +1,44 @@
 {
   "flights": [
     {
+      "callsign": "EJU63ME",
+      "country": "Austria",
+      "lat": 52.3308,
+      "lon": 13.4274,
+      "altKm": 0.7,
+      "speedKmh": 311,
+      "heading": 227,
+      "vertRateMs": 8.8,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG21A",
+      "country": "Germany",
+      "lat": 52.3391,
+      "lon": 13.3656,
+      "altKm": 1.8,
+      "speedKmh": 339,
+      "heading": 249,
+      "vertRateMs": 11.7,
+      "category": "plane"
+    },
+    {
       "callsign": "EWG2JM",
       "country": "Germany",
-      "lat": 52.3491,
-      "lon": 13.4831,
-      "altKm": 0.2,
-      "speedKmh": 300,
-      "heading": 249,
-      "vertRateMs": 13.7,
+      "lat": 52.1814,
+      "lon": 13.0712,
+      "altKm": 4.3,
+      "speedKmh": 518,
+      "heading": 211,
+      "vertRateMs": 10.7,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-25T05:10:29.602286Z"
+  "updated_at": "2026-10-25T05:15:28.343096Z"
 }
