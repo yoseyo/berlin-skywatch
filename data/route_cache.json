@@ -2611,17 +2611,6 @@
     },
     "checked_at": "2026-10-24T13:00:54.063532Z"
   },
-  "DLH7T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T15:25:24.654942Z"
-  },
   "DLH8WF": {
     "route": {
       "fromCity": "Munich",
@@ -5206,17 +5195,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-24T14:55:24.593811Z"
-  },
-  "EJU96PC": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T15:25:24.654942Z"
   },
   "RYR5XX": {
     "route": {
@@ -14147,5 +14125,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T15:25:23.124484Z"
+  },
+  "CCA939": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-25T15:30:42.916865Z"
+  },
+  "SXS1FT": {
+    "route": {
+      "fromCity": "Bodrum",
+      "fromIata": "BJV",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T15:30:42.916865Z"
+  },
+  "RYR310V": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T15:30:42.916865Z"
+  },
+  "AEE512": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-25T15:30:42.916865Z"
   }
 }
