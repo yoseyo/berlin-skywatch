@@ -5093,17 +5093,6 @@
     },
     "checked_at": "2026-10-24T06:50:31.070086Z"
   },
-  "LHX9JC": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T07:30:44.573597Z"
-  },
   "DLH8KF": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -5757,17 +5746,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T04:45:29.883031Z"
-  },
-  "NSZ3LZ": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T07:30:44.573597Z"
   },
   "CTN480": {
     "route": {
@@ -6834,28 +6812,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-24T17:30:42.077103Z"
-  },
-  "RYR29ML": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Treviso",
-      "toIata": "TSF",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T07:30:44.573597Z"
-  },
-  "SXS9XP": {
-    "route": {
-      "fromCity": "Bodrum",
-      "fromIata": "BJV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T07:30:44.573597Z"
   },
   "AIB082B": {
     "route": null,
@@ -13615,5 +13571,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T07:30:42.232103Z"
+  },
+  "CFG1DM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T07:35:22.532369Z"
   }
 }
