@@ -385,17 +385,6 @@
     },
     "checked_at": "2026-10-24T16:25:23.547927Z"
   },
-  "EWG5EY": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T17:15:32.147241Z"
-  },
   "LHX195": {
     "route": {
       "fromCity": "Berlin",
@@ -3837,10 +3826,6 @@
     },
     "checked_at": "2026-10-25T16:35:23.808627Z"
   },
-  "EJU5087": {
-    "route": null,
-    "checked_at": "2026-10-23T17:15:32.147241Z"
-  },
   "EZY27LF": {
     "route": {
       "fromCity": "Bristol",
@@ -4943,17 +4928,6 @@
     },
     "checked_at": "2026-10-23T21:05:24.608165Z"
   },
-  "RYR3U": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Girona",
-      "toIata": "GRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T17:15:32.147241Z"
-  },
   "EJU12QE": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -5943,28 +5917,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-24T17:05:24.781501Z"
-  },
-  "TKJ9HJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T17:15:32.147241Z"
-  },
-  "EWG6YP": {
-    "route": {
-      "fromCity": "Graz (Feldkirchen bei Graz)",
-      "fromIata": "GRZ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T17:15:32.147241Z"
   },
   "UAE61": {
     "route": {
@@ -14364,5 +14316,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T17:15:28.950253Z"
+  },
+  "EJU41VQ": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T17:20:30.142133Z"
+  },
+  "BEL2HJ": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-25T17:20:30.142133Z"
+  },
+  "EJU63AU": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T17:20:30.142133Z"
+  },
+  "EJU53YT": {
+    "route": null,
+    "checked_at": "2026-10-25T17:20:30.142133Z"
   }
 }
