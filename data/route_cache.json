@@ -3631,17 +3631,6 @@
     },
     "checked_at": "2026-10-24T09:05:26.022734Z"
   },
-  "RYR74EM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T20:50:29.649184Z"
-  },
   "BBG272": {
     "route": {
       "fromCity": "Tel Aviv",
@@ -3873,17 +3862,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-24T19:25:22.579946Z"
-  },
-  "EJU34BQ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T20:50:29.649184Z"
   },
   "RYR4VG": {
     "route": {
@@ -5492,10 +5470,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T21:20:29.852588Z"
-  },
-  "SVI5319": {
-    "route": null,
-    "checked_at": "2026-10-23T20:50:29.649184Z"
   },
   "RYR38EA": {
     "route": {
@@ -14666,5 +14640,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T20:45:33.966121Z"
+  },
+  "CFE8495": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-25T20:50:34.484820Z"
   }
 }
