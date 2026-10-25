@@ -922,7 +922,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T04:35:22.863296Z"
+    "checked_at": "2026-10-25T05:20:32.897824Z"
   },
   "RYR58RA": {
     "route": {
@@ -5670,17 +5670,6 @@
     },
     "checked_at": "2026-10-24T14:10:30.979476Z"
   },
-  "NSZ4377": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T05:15:29.443748Z"
-  },
   "SAS2657": {
     "route": {
       "fromCity": "Copenhagen",
@@ -6937,17 +6926,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T03:30:41.122302Z"
-  },
-  "WZZ6072": {
-    "route": {
-      "fromCity": "Bratislava",
-      "fromIata": "BTS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T05:15:29.443748Z"
   },
   "RYR3UX": {
     "route": {
@@ -13334,5 +13312,27 @@
   "EWG21A": {
     "route": null,
     "checked_at": "2026-10-25T05:15:28.343096Z"
+  },
+  "SDR29SD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T05:20:32.897824Z"
+  },
+  "TVS431P": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-25T05:20:32.897824Z"
   }
 }
