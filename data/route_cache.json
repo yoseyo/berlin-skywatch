@@ -2231,7 +2231,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-24T13:20:32.973173Z"
+    "checked_at": "2026-10-25T14:40:32.267180Z"
   },
   "RYR103K": {
     "route": {
@@ -6141,17 +6141,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T18:20:31.273519Z"
-  },
-  "ENT1TN": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T14:35:26.574194Z"
   },
   "RAM231": {
     "route": {
@@ -14079,5 +14068,46 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-25T14:35:22.191587Z"
+  },
+  "PGT5GX": {
+    "route": null,
+    "checked_at": "2026-10-25T14:40:32.267180Z"
+  },
+  "EJU19XU": {
+    "route": null,
+    "checked_at": "2026-10-25T14:40:32.267180Z"
+  },
+  "TKJ6JC": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Hakkari",
+      "toIata": "YKO",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T14:40:32.267180Z"
+  },
+  "UZB203": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-10-25T14:40:32.267180Z"
+  },
+  "RYR5HP": {
+    "route": {
+      "fromCity": "Zemunik (Zadar)",
+      "fromIata": "ZAD",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T14:40:32.267180Z"
   }
 }
