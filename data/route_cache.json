@@ -91,17 +91,6 @@
     },
     "checked_at": "2026-10-24T18:55:22.513610Z"
   },
-  "AUA21P": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T13:55:25.426425Z"
-  },
   "RYR96EU": {
     "route": {
       "fromCity": "Berlin",
@@ -14046,5 +14035,38 @@
   "HZA22": {
     "route": null,
     "checked_at": "2026-10-25T13:55:23.766600Z"
+  },
+  "DLH882": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T14:00:52.619327Z"
+  },
+  "AFR66XV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-25T14:00:52.619327Z"
+  },
+  "CSN461": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-25T14:00:52.619327Z"
   }
 }
