@@ -4671,17 +4671,6 @@
     },
     "checked_at": "2026-10-24T15:20:35.186093Z"
   },
-  "SAS80D": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T15:20:33.960652Z"
-  },
   "SAS695": {
     "route": {
       "fromCity": "Vienna",
@@ -5030,17 +5019,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-24T09:05:26.022734Z"
-  },
-  "SAH59P": {
-    "route": {
-      "fromCity": "Sevilla",
-      "fromIata": "SVQ",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-23T15:20:33.960652Z"
   },
   "FHY1683": {
     "route": {
@@ -14158,5 +14136,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T15:20:31.715168Z"
+  },
+  "RYR9TE": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Rome",
+      "toIata": "CIA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T15:25:23.124484Z"
   }
 }
