@@ -1,25 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "CHX82",
-      "country": "Germany",
-      "lat": 52.521,
-      "lon": 13.5691,
-      "altKm": 0.2,
-      "speedKmh": 54,
-      "heading": 232,
-      "vertRateMs": -1.6,
-      "category": "plane"
-    },
-    {
       "callsign": "PGT95KW",
       "country": "Turkey",
-      "lat": 52.3465,
-      "lon": 13.4192,
-      "altKm": 1.5,
-      "speedKmh": 274,
-      "heading": 211,
-      "vertRateMs": 8.8,
+      "lat": 52.2437,
+      "lon": 13.9635,
+      "altKm": 5.3,
+      "speedKmh": 762,
+      "heading": 92,
+      "vertRateMs": 14.3,
       "airline": "Pegasus Airlines",
       "airlineCountry": "Turkey",
       "fromCity": "Berlin",
@@ -27,7 +16,42 @@
       "toCity": "Pendik, Istanbul",
       "toIata": "SAW",
       "category": "plane"
+    },
+    {
+      "callsign": "CFG553",
+      "country": "Germany",
+      "lat": 52.269,
+      "lon": 13.9658,
+      "altKm": 2.0,
+      "speedKmh": 515,
+      "heading": 337,
+      "vertRateMs": -10.7,
+      "category": "plane"
+    },
+    {
+      "callsign": "DINFO",
+      "country": "Germany",
+      "lat": 52.3302,
+      "lon": 13.3208,
+      "altKm": 2.0,
+      "speedKmh": 256,
+      "heading": 254,
+      "vertRateMs": 8.1,
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG9HE",
+      "country": "Malta",
+      "lat": 52.4183,
+      "lon": 13.7827,
+      "altKm": 1.0,
+      "speedKmh": 290,
+      "heading": 256,
+      "vertRateMs": -0.3,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-25T07:10:30.140560Z"
+  "updated_at": "2026-10-25T07:15:28.007368Z"
 }
