@@ -6175,28 +6175,6 @@
     },
     "checked_at": "2026-10-24T18:20:31.273519Z"
   },
-  "ENT1UM": {
-    "route": {
-      "fromCity": "Lanzarote Island",
-      "fromIata": "ACE",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T14:20:34.520619Z"
-  },
-  "EWG72F": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T14:20:34.520619Z"
-  },
   "ADN75C": {
     "route": null,
     "checked_at": "2026-10-23T14:25:23.996931Z"
@@ -14039,5 +14017,27 @@
   "WZZ692": {
     "route": null,
     "checked_at": "2026-10-25T14:20:30.883031Z"
+  },
+  "WMT974": {
+    "route": {
+      "fromCity": "Tirana",
+      "fromIata": "TIA",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-25T14:25:23.297508Z"
+  },
+  "SXS4FN": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T14:25:23.297508Z"
   }
 }
