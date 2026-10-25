@@ -1835,7 +1835,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-24T09:50:30.691797Z"
+    "checked_at": "2026-10-25T11:20:31.769474Z"
   },
   "WMT1HA": {
     "route": {
@@ -1990,17 +1990,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T11:15:37.198826Z"
-  },
-  "KLM29G": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-23T11:20:31.149192Z"
   },
   "AFR92ZN": {
     "route": {
@@ -2276,17 +2265,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T16:30:41.819586Z"
-  },
-  "EJU65CQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T11:20:31.149192Z"
   },
   "AUA230U": {
     "route": {
@@ -4280,17 +4258,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-23T20:50:29.649184Z"
-  },
-  "NOZ1104": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-23T11:20:31.149192Z"
   },
   "BBG272": {
     "route": {
@@ -6353,17 +6320,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-10-25T08:45:28.360622Z"
-  },
-  "EJU46TQ": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-23T11:20:31.149192Z"
   },
   "RYR91ZT": {
     "route": {
@@ -13597,5 +13553,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T11:15:30.674700Z"
+  },
+  "RYR7EN": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T11:20:31.769474Z"
+  },
+  "RYR17YU": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T11:20:31.769474Z"
+  },
+  "N125ME": {
+    "route": null,
+    "checked_at": "2026-10-25T11:20:31.769474Z"
   }
 }
