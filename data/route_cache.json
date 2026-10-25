@@ -67,7 +67,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-24T14:10:30.979476Z"
+    "checked_at": "2026-10-25T14:10:32.453962Z"
   },
   "NSZ3302": {
     "route": {
@@ -4370,17 +4370,6 @@
     },
     "checked_at": "2026-10-24T18:05:22.942966Z"
   },
-  "LHX6T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T14:05:25.125330Z"
-  },
   "THY8DE": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -4691,7 +4680,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-24T13:35:23.856526Z"
+    "checked_at": "2026-10-25T14:10:32.453962Z"
   },
   "DLH896": {
     "route": {
@@ -5199,17 +5188,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-24T10:40:32.927021Z"
-  },
-  "EWG7NF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T14:05:25.125330Z"
   },
   "FHY1684": {
     "route": {
@@ -6207,17 +6185,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-24T18:20:31.273519Z"
-  },
-  "SAS55H": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T14:05:25.125330Z"
   },
   "WZZ317": {
     "route": {
@@ -14061,5 +14028,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T14:05:23.668758Z"
+  },
+  "DLH1EE": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T14:10:32.453962Z"
+  },
+  "CFG1DA": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T14:10:32.453962Z"
+  },
+  "KLM84H": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-25T14:10:32.453962Z"
   }
 }
