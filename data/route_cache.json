@@ -3301,17 +3301,6 @@
     },
     "checked_at": "2026-10-24T09:10:31.294944Z"
   },
-  "CCA939": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-23T14:45:31.740112Z"
-  },
   "AUA26Z": {
     "route": {
       "fromCity": "Berlin",
@@ -4660,17 +4649,6 @@
     },
     "checked_at": "2026-10-25T14:10:32.453962Z"
   },
-  "DLH896": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T14:50:30.838645Z"
-  },
   "TKJ9TC": {
     "route": {
       "fromCity": "Ankara",
@@ -5461,17 +5439,6 @@
     },
     "checked_at": "2026-10-23T17:50:30.617203Z"
   },
-  "RYR5ME": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Toulouse/Blagnac",
-      "toIata": "TLS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T14:50:30.838645Z"
-  },
   "NSZ4507": {
     "route": {
       "fromCity": "Stockholm",
@@ -6142,21 +6109,6 @@
     },
     "checked_at": "2026-10-24T18:20:31.273519Z"
   },
-  "RYR7654": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-23T14:45:31.740112Z"
-  },
-  "MSC3133": {
-    "route": null,
-    "checked_at": "2026-10-23T14:45:31.740112Z"
-  },
   "RYR2NB": {
     "route": {
       "fromCity": "Torp",
@@ -6167,28 +6119,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-24T11:20:31.368068Z"
-  },
-  "WZZ9EN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-23T14:50:30.838645Z"
-  },
-  "THY40Y": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Montr\u00e9al",
-      "toIata": "YUL",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-23T14:50:30.838645Z"
   },
   "FHY1281": {
     "route": {
@@ -14139,5 +14069,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T14:45:30.998552Z"
+  },
+  "EJU49HX": {
+    "route": null,
+    "checked_at": "2026-10-25T14:50:33.421344Z"
+  },
+  "AUA98F": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-25T14:50:33.421344Z"
+  },
+  "RYR8MQ": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T14:50:33.421344Z"
   }
 }
