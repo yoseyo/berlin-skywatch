@@ -1,25 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "WZZ96CX",
-      "country": "Hungary",
-      "lat": 52.544,
-      "lon": 13.7196,
-      "altKm": 10.5,
-      "speedKmh": 909,
-      "heading": 90,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
       "callsign": "JTD504",
       "country": "Denmark",
-      "lat": 52.1084,
-      "lon": 13.6641,
+      "lat": 52.6868,
+      "lon": 13.2922,
       "altKm": 10.2,
-      "speedKmh": 853,
-      "heading": 339,
-      "vertRateMs": 0.3,
+      "speedKmh": 850,
+      "heading": 338,
+      "vertRateMs": -0.3,
       "airline": "Jet Time",
       "airlineCountry": "Denmark",
       "fromCity": "Burgas",
@@ -27,24 +16,7 @@
       "toCity": "Billund",
       "toIata": "BLL",
       "category": "plane"
-    },
-    {
-      "callsign": "EWG8539",
-      "country": "Germany",
-      "lat": 52.3542,
-      "lon": 13.505,
-      "altKm": 0.1,
-      "speedKmh": 240,
-      "heading": 249,
-      "vertRateMs": -0.3,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-25T22:40:34.287305Z"
+  "updated_at": "2026-10-25T22:45:29.445702Z"
 }
