@@ -1923,7 +1923,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-24T11:00:53.789899Z"
+    "checked_at": "2026-10-25T12:30:41.619775Z"
   },
   "RYR6UR": {
     "route": {
@@ -2022,7 +2022,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T13:00:54.063532Z"
+    "checked_at": "2026-10-25T12:30:41.619775Z"
   },
   "SAS1677": {
     "route": {
@@ -2517,7 +2517,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-24T12:35:23.579516Z"
+    "checked_at": "2026-10-25T12:30:41.619775Z"
   },
   "EIN33T": {
     "route": {
@@ -3824,7 +3824,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-24T11:40:32.928688Z"
+    "checked_at": "2026-10-25T12:30:41.619775Z"
   },
   "KLM84H": {
     "route": {
@@ -13663,5 +13663,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T12:25:23.321128Z"
+  },
+  "NOZ1104": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-25T12:30:41.619775Z"
+  },
+  "THY6EU": {
+    "route": {
+      "fromCity": "Hannover",
+      "fromIata": "HAJ",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T12:30:41.619775Z"
+  },
+  "DLH9CK": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T12:30:41.619775Z"
   }
 }
