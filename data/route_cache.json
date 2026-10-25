@@ -2534,17 +2534,6 @@
     },
     "checked_at": "2026-10-25T06:50:31.298652Z"
   },
-  "SAS44L": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T18:00:57.171273Z"
-  },
   "RYR9PG": {
     "route": {
       "fromCity": "London",
@@ -14395,5 +14384,42 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-25T18:00:53.127444Z"
+  },
+  "AFR62AM": {
+    "route": null,
+    "checked_at": "2026-10-25T18:05:24.315376Z"
+  },
+  "EWG7T": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T18:05:24.315376Z"
+  },
+  "EWG9CZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-25T18:05:24.315376Z"
+  },
+  "WZZ5": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-25T18:05:24.315376Z"
   }
 }
