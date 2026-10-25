@@ -1307,7 +1307,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-24T06:45:29.118099Z"
+    "checked_at": "2026-10-25T07:40:32.336006Z"
   },
   "DLH2NL": {
     "route": {
@@ -5174,17 +5174,6 @@
     },
     "checked_at": "2026-10-23T08:50:33.608987Z"
   },
-  "EWG44ME": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-23T07:35:25.709326Z"
-  },
   "THY3330": {
     "route": {
       "fromCity": "Pendik, Istanbul",
@@ -6767,7 +6756,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-24T06:30:43.443485Z"
+    "checked_at": "2026-10-25T07:40:32.336006Z"
   },
   "EWG3F": {
     "route": {
@@ -13582,5 +13571,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T07:35:22.532369Z"
+  },
+  "RYR76SL": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T07:40:32.336006Z"
   }
 }
