@@ -2627,7 +2627,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-24T07:00:51.355560Z"
+    "checked_at": "2026-10-25T08:25:23.744130Z"
   },
   "SAS1674": {
     "route": {
@@ -6669,18 +6669,6 @@
   "TWI805": {
     "route": null,
     "checked_at": "2026-10-25T06:25:23.019170Z"
-  },
-  "DISIX": {
-    "route": null,
-    "checked_at": "2026-10-23T08:25:21.653429Z"
-  },
-  "OEXSA": {
-    "route": null,
-    "checked_at": "2026-10-23T08:25:21.653429Z"
-  },
-  "VJH373": {
-    "route": null,
-    "checked_at": "2026-10-23T08:25:21.653429Z"
   },
   "WZZ6730": {
     "route": {
@@ -13614,5 +13602,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T08:20:29.782117Z"
+  },
+  "MGH723": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-25T08:25:23.744130Z"
+  },
+  "RYR7YR": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-25T08:25:23.744130Z"
   }
 }
