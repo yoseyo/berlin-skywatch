@@ -1837,17 +1837,6 @@
     },
     "checked_at": "2026-10-24T09:50:30.691797Z"
   },
-  "NSZ4506": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-23T10:25:25.348272Z"
-  },
   "WMT1HA": {
     "route": {
       "fromCity": "Berlin",
@@ -4134,17 +4123,6 @@
     },
     "checked_at": "2026-10-23T16:50:34.019922Z"
   },
-  "CFE27PM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-23T10:20:33.265686Z"
-  },
   "BTI9AG": {
     "route": {
       "fromCity": "Riga",
@@ -4935,17 +4913,6 @@
     },
     "checked_at": "2026-10-24T06:30:43.443485Z"
   },
-  "AAL161": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "American Airlines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-23T10:20:33.265686Z"
-  },
   "RYR364N": {
     "route": {
       "fromCity": "Gothenburg",
@@ -4978,17 +4945,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-24T08:00:54.277124Z"
-  },
-  "GAF880": {
-    "route": {
-      "fromCity": "Washington",
-      "fromIata": "IAD",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-23T10:25:25.348272Z"
   },
   "RYR159P": {
     "route": {
@@ -9342,7 +9298,7 @@
       "airlineName": "Air Canada",
       "airlineCountry": "Canada"
     },
-    "checked_at": "2026-10-24T09:15:31.426615Z"
+    "checked_at": "2026-10-25T10:25:27.287637Z"
   },
   "THY1LP": {
     "route": {
@@ -13520,5 +13476,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T10:20:31.894220Z"
+  },
+  "FIN6TF": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-25T10:25:27.287637Z"
+  },
+  "SAS1694": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-25T10:25:27.287637Z"
   }
 }
