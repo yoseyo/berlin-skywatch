@@ -1375,17 +1375,6 @@
     },
     "checked_at": "2026-10-25T15:15:32.300034Z"
   },
-  "TKJ4ZV": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T13:05:24.184598Z"
-  },
   "EWG7WB": {
     "route": {
       "fromCity": "Baden-Baden",
@@ -2996,17 +2985,6 @@
     },
     "checked_at": "2026-10-26T12:05:24.254910Z"
   },
-  "WZZ513": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-24T13:05:24.184598Z"
-  },
   "SAS2768": {
     "route": {
       "fromCity": "Valletta",
@@ -3374,36 +3352,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T13:05:25.487702Z"
-  },
-  "EMO18": {
-    "route": null,
-    "checked_at": "2026-10-24T13:05:24.184598Z"
-  },
-  "RYR36RH": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T13:05:24.184598Z"
-  },
-  "NJE289Y": {
-    "route": null,
-    "checked_at": "2026-10-24T13:05:24.184598Z"
-  },
-  "CTN432": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-24T13:05:24.184598Z"
   },
   "RYR8TQ": {
     "route": {
@@ -12636,5 +12584,27 @@
   "CHX49": {
     "route": null,
     "checked_at": "2026-10-26T13:00:58.742699Z"
+  },
+  "CSN465": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-26T13:05:29.005138Z"
+  },
+  "RYR2WK": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Sevilla",
+      "toIata": "SVQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-26T13:05:29.005138Z"
   }
 }
