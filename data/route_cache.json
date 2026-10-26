@@ -7931,7 +7931,7 @@
   },
   "AFR15VR": {
     "route": null,
-    "checked_at": "2026-10-25T19:05:25.570572Z"
+    "checked_at": "2026-10-26T19:01:00.111884Z"
   },
   "EWG31K": {
     "route": {
@@ -8045,7 +8045,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T19:25:25.596602Z"
+    "checked_at": "2026-10-26T19:01:00.111884Z"
   },
   "DLH3AW": {
     "route": null,
@@ -8238,7 +8238,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-25T19:55:24.160794Z"
+    "checked_at": "2026-10-26T19:01:00.111884Z"
   },
   "EZY85MG": {
     "route": {
@@ -11508,5 +11508,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-26T18:55:27.810767Z"
+  },
+  "RYR15HL": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-26T19:01:00.111884Z"
+  },
+  "DLH7AK": {
+    "route": {
+      "fromCity": "Chicago",
+      "fromIata": "ORD",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T19:01:00.111884Z"
   }
 }
