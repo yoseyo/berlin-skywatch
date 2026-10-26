@@ -196,7 +196,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-25T20:40:33.199657Z"
+    "checked_at": "2026-10-26T21:35:23.901305Z"
   },
   "BEL1ZK": {
     "route": {
@@ -2008,21 +2008,6 @@
   "HUE222": {
     "route": null,
     "checked_at": "2026-10-25T08:30:43.897507Z"
-  },
-  "NSZ3749": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T21:35:23.488372Z"
-  },
-  "RYR8292": {
-    "route": null,
-    "checked_at": "2026-10-24T21:35:23.488372Z"
   },
   "GPX7EJ": {
     "route": {
@@ -8139,8 +8124,15 @@
     "checked_at": "2026-10-25T21:40:32.057085Z"
   },
   "EJU69VQ": {
-    "route": null,
-    "checked_at": "2026-10-25T21:45:32.478896Z"
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-26T21:35:23.901305Z"
   },
   "DLH9HA": {
     "route": {
@@ -11092,5 +11084,13 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-26T21:15:29.865791Z"
+  },
+  "EJU73WR": {
+    "route": null,
+    "checked_at": "2026-10-26T21:35:23.901305Z"
+  },
+  "NJE485K": {
+    "route": null,
+    "checked_at": "2026-10-26T21:35:23.901305Z"
   }
 }
