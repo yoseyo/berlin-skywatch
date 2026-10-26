@@ -814,17 +814,6 @@
     },
     "checked_at": "2026-10-24T05:15:30.371574Z"
   },
-  "DAL92": {
-    "route": {
-      "fromCity": "New York",
-      "fromIata": "JFK",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Delta Air Lines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-24T05:10:30.546943Z"
-  },
   "DLH7XV": {
     "route": {
       "fromCity": "B\u00e2le/Mulhouse",
@@ -2655,17 +2644,6 @@
     },
     "checked_at": "2026-10-24T12:10:32.446359Z"
   },
-  "EWG7ED": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T05:10:30.546943Z"
-  },
   "LOT392": {
     "route": {
       "fromCity": "Berlin",
@@ -3145,7 +3123,7 @@
   },
   "CFG553": {
     "route": null,
-    "checked_at": "2026-10-25T07:15:28.007368Z"
+    "checked_at": "2026-10-26T05:15:28.910259Z"
   },
   "RYR76WJ": {
     "route": {
@@ -4513,17 +4491,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-26T02:40:30.194894Z"
-  },
-  "EJU12HB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T05:10:30.546943Z"
   },
   "WMT9NH": {
     "route": {
@@ -14598,5 +14565,16 @@
   "GAF636": {
     "route": null,
     "checked_at": "2026-10-26T05:10:29.108093Z"
+  },
+  "SDR41JJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-26T05:15:28.910259Z"
   }
 }
