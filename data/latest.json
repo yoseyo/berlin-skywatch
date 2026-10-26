@@ -1,46 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "DLH3X",
-      "country": "Germany",
-      "lat": 52.4134,
-      "lon": 13.6789,
-      "altKm": 0.7,
-      "speedKmh": 318,
-      "heading": 251,
-      "vertRateMs": -5.5,
-      "airline": "Lufthansa",
+      "callsign": "BCS8EL",
+      "country": "Bahrain",
+      "lat": 52.8277,
+      "lon": 12.8871,
+      "altKm": 7.6,
+      "speedKmh": 928,
+      "heading": 189,
+      "vertRateMs": -15.6,
+      "airline": "European Air Transport",
       "airlineCountry": "Germany",
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR556Z",
-      "country": "Ireland",
-      "lat": 52.3282,
-      "lon": 13.2753,
-      "altKm": 1.8,
-      "speedKmh": 446,
-      "heading": 242,
-      "vertRateMs": 5.5,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
       "category": "plane"
     },
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.6244,
-      "lon": 13.4856,
+      "lat": 52.6299,
+      "lon": 13.4758,
       "altKm": 0.6,
-      "speedKmh": 79,
-      "heading": 278,
-      "vertRateMs": 0,
+      "speedKmh": 95,
+      "heading": 358,
+      "vertRateMs": -0.3,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-26T22:00:58.566953Z"
+  "updated_at": "2026-10-26T22:05:27.056038Z"
 }
