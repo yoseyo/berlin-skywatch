@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-26T02:10:28.805358Z"
+  "flights": [
+    {
+      "callsign": "RYR8201",
+      "country": "Poland",
+      "lat": 52.6027,
+      "lon": 13.7008,
+      "altKm": 11.8,
+      "speedKmh": 919,
+      "heading": 125,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-26T02:15:27.938790Z"
 }
