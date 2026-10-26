@@ -1131,7 +1131,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-25T10:30:45.923557Z"
+    "checked_at": "2026-10-26T10:45:29.147581Z"
   },
   "LOT266": {
     "route": {
@@ -1164,7 +1164,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-25T11:40:33.120114Z"
+    "checked_at": "2026-10-26T10:45:29.147581Z"
   },
   "RYR3NJ": {
     "route": {
@@ -1275,17 +1275,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-25T11:15:30.674700Z"
-  },
-  "DLH2HH": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T10:40:32.927021Z"
   },
   "TKJ2JY": {
     "route": {
@@ -2072,17 +2061,6 @@
     },
     "checked_at": "2026-10-25T16:18:35.536762Z"
   },
-  "EWG7DL": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T10:40:32.927021Z"
-  },
   "KLM95T": {
     "route": {
       "fromCity": "Amsterdam",
@@ -2181,17 +2159,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-25T21:40:32.057085Z"
-  },
-  "EWG5EZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T10:40:32.927021Z"
   },
   "AUA26Z": {
     "route": {
@@ -2983,17 +2950,6 @@
     },
     "checked_at": "2026-10-24T11:20:31.368068Z"
   },
-  "EJU12TM": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T10:40:32.927021Z"
-  },
   "FHY1684": {
     "route": {
       "fromCity": "Berlin",
@@ -3711,17 +3667,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-25T16:50:31.102074Z"
-  },
-  "RYR8PJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T10:40:32.927021Z"
   },
   "SKV113": {
     "route": null,
@@ -6692,7 +6637,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T07:15:28.007368Z"
+    "checked_at": "2026-10-26T10:45:29.147581Z"
   },
   "BTI8KA": {
     "route": {
@@ -13269,5 +13214,24 @@
   "NSZ2041": {
     "route": null,
     "checked_at": "2026-10-26T10:35:23.445198Z"
+  },
+  "FIN1EB": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-26T10:45:29.147581Z"
+  },
+  "HCX71": {
+    "route": null,
+    "checked_at": "2026-10-26T10:45:29.147581Z"
+  },
+  "MFX7615": {
+    "route": null,
+    "checked_at": "2026-10-26T10:45:29.147581Z"
   }
 }
