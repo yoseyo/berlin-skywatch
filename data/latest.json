@@ -1,44 +1,29 @@
 {
   "flights": [
     {
-      "callsign": "EVA095",
-      "country": "Taiwan",
-      "lat": 52.8402,
-      "lon": 12.9488,
-      "altKm": 11.5,
-      "speedKmh": 911,
-      "heading": 206,
-      "vertRateMs": -0.3,
-      "category": "plane"
-    },
-    {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.412,
-      "lon": 13.6719,
-      "altKm": 0.7,
-      "speedKmh": 201,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.6026,
-      "lon": 13.5786,
-      "altKm": 0.2,
-      "speedKmh": 47,
-      "heading": 244,
-      "vertRateMs": -2.9,
+      "lat": 52.6021,
+      "lon": 13.5768,
+      "altKm": 0.1,
+      "speedKmh": 25,
+      "heading": 243,
+      "vertRateMs": -2.3,
       "category": "heli"
+    },
+    {
+      "callsign": "EWG38C",
+      "country": "Germany",
+      "lat": 52.349,
+      "lon": 13.4829,
+      "altKm": 0.2,
+      "speedKmh": 295,
+      "heading": 249,
+      "vertRateMs": 16.6,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-26T04:30:41.996844Z"
+  "updated_at": "2026-10-26T04:35:23.560686Z"
 }
