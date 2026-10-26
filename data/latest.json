@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "RYR3NA",
+      "country": "Ireland",
+      "lat": 52.6602,
+      "lon": 14.0124,
+      "altKm": 11.8,
+      "speedKmh": 773,
+      "heading": 268,
+      "vertRateMs": -0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "category": "plane"
+    },
+    {
       "callsign": "BCS8EL",
       "country": "Bahrain",
-      "lat": 52.8277,
-      "lon": 12.8871,
-      "altKm": 7.6,
-      "speedKmh": 928,
+      "lat": 52.2247,
+      "lon": 12.7328,
+      "altKm": 4.5,
+      "speedKmh": 736,
       "heading": 189,
-      "vertRateMs": -15.6,
+      "vertRateMs": -8.4,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Helsinki",
@@ -20,14 +37,14 @@
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.6299,
-      "lon": 13.4758,
-      "altKm": 0.6,
-      "speedKmh": 95,
-      "heading": 358,
-      "vertRateMs": -0.3,
+      "lat": 52.6027,
+      "lon": 13.5745,
+      "altKm": 0.1,
+      "speedKmh": 43,
+      "heading": 137,
+      "vertRateMs": 0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-26T22:05:27.056038Z"
+  "updated_at": "2026-10-26T22:10:32.147386Z"
 }
