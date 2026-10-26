@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-26T00:10:30.149716Z"
+  "flights": [
+    {
+      "callsign": "RYR8SD",
+      "country": "Ireland",
+      "lat": 52.5708,
+      "lon": 13.8844,
+      "altKm": 10.9,
+      "speedKmh": 821,
+      "heading": 310,
+      "vertRateMs": -0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-26T00:15:29.674191Z"
 }
