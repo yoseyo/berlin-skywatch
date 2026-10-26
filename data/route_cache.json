@@ -119,7 +119,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-25T16:35:23.808627Z"
+    "checked_at": "2026-10-26T17:00:57.272303Z"
   },
   "KLM1780": {
     "route": {
@@ -153,17 +153,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-24T17:25:23.674856Z"
-  },
-  "DLH1KY": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T17:00:54.230324Z"
   },
   "AUA99HC": {
     "route": {
@@ -2661,39 +2650,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T14:20:30.883031Z"
-  },
-  "NOZ4RP": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Belgrade",
-      "toIata": "BEG",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-24T17:00:54.230324Z"
-  },
-  "DLH5KV": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T17:00:54.230324Z"
-  },
-  "ASL506": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Chicago",
-      "toIata": "ORD",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-24T17:00:54.230324Z"
   },
   "NSZ4365": {
     "route": {
@@ -7859,7 +7815,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T16:55:23.814869Z"
+    "checked_at": "2026-10-26T17:00:57.272303Z"
   },
   "EUL5R": {
     "route": {
@@ -7893,7 +7849,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-25T17:10:29.652574Z"
+    "checked_at": "2026-10-26T17:00:57.272303Z"
   },
   "RYR75AW": {
     "route": null,
@@ -11863,5 +11819,39 @@
   "LEJ330": {
     "route": null,
     "checked_at": "2026-10-26T16:50:31.355600Z"
+  },
+  "SAS71Z": {
+    "route": null,
+    "checked_at": "2026-10-26T17:00:57.272303Z"
+  },
+  "EJU52RH": {
+    "route": null,
+    "checked_at": "2026-10-26T17:00:57.272303Z"
+  },
+  "NJE668N": {
+    "route": null,
+    "checked_at": "2026-10-26T17:00:57.272303Z"
+  },
+  "LOT2KC": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-26T17:00:57.272303Z"
+  },
+  "EWG5PG": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T17:00:57.272303Z"
   }
 }
