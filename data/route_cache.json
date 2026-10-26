@@ -836,17 +836,6 @@
     },
     "checked_at": "2026-10-26T06:55:22.429710Z"
   },
-  "RYR120T": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T13:10:30.680700Z"
-  },
   "EWG6NT": {
     "route": {
       "fromCity": "Berlin",
@@ -1155,17 +1144,6 @@
     },
     "checked_at": "2026-10-26T10:45:29.147581Z"
   },
-  "RYR3NJ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T13:10:30.680700Z"
-  },
   "KLM1775": {
     "route": {
       "fromCity": "Amsterdam",
@@ -1352,17 +1330,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-24T14:00:52.136234Z"
-  },
-  "DLH6MM": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T13:10:30.680700Z"
   },
   "SAS1678": {
     "route": {
@@ -3351,29 +3318,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T13:05:25.487702Z"
-  },
-  "RYR8TQ": {
-    "route": {
-      "fromCity": "Beauvais",
-      "fromIata": "BVA",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T13:10:30.680700Z"
-  },
-  "EWG60V": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T13:10:30.680700Z"
+    "checked_at": "2026-10-26T13:10:34.509709Z"
   },
   "MSC2958": {
     "route": {
@@ -8115,7 +8060,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T13:45:27.807553Z"
+    "checked_at": "2026-10-26T13:10:34.509709Z"
   },
   "SXS7KG": {
     "route": {
@@ -12606,5 +12551,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-26T13:05:29.005138Z"
+  },
+  "STLON61": {
+    "route": null,
+    "checked_at": "2026-10-26T13:10:34.509709Z"
+  },
+  "EWG8672": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T13:10:34.509709Z"
   }
 }
