@@ -933,7 +933,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-25T07:50:28.815654Z"
+    "checked_at": "2026-10-26T07:40:31.577112Z"
   },
   "LOT1VZ": {
     "route": {
@@ -944,7 +944,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-25T07:55:22.810038Z"
+    "checked_at": "2026-10-26T07:40:31.577112Z"
   },
   "RYR4WC": {
     "route": {
@@ -966,7 +966,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-25T07:55:22.810038Z"
+    "checked_at": "2026-10-26T07:40:31.577112Z"
   },
   "DLH174": {
     "route": {
@@ -4310,10 +4310,6 @@
     },
     "checked_at": "2026-10-24T14:40:30.854140Z"
   },
-  "CHX49": {
-    "route": null,
-    "checked_at": "2026-10-24T07:35:24.396025Z"
-  },
   "RYR9BJ": {
     "route": {
       "fromCity": "Copenhagen",
@@ -4622,72 +4618,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-25T07:45:31.811204Z"
-  },
-  "EJU85UF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T07:35:24.396025Z"
-  },
-  "LBT2334": {
-    "route": {
-      "fromCity": "Djerba",
-      "fromIata": "DJE",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-24T07:35:24.396025Z"
-  },
-  "RYR93KF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Valencia",
-      "toIata": "VLC",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T07:40:30.315781Z"
-  },
-  "DLH9910": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T07:40:30.315781Z"
-  },
-  "SAS2831": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T07:40:30.315781Z"
-  },
-  "PGT5068": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T07:40:30.315781Z"
   },
   "EJU3948": {
     "route": {
@@ -14033,5 +13963,53 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T07:35:22.178286Z"
+  },
+  "SCR762": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Antwerp",
+      "toIata": "ANR",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-26T07:40:31.577112Z"
+  },
+  "SAS1693": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-26T07:40:31.577112Z"
+  },
+  "RUK176": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair UK",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-26T07:40:31.577112Z"
+  },
+  "AFR1434": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-26T07:40:31.577112Z"
+  },
+  "TVF10NK": {
+    "route": null,
+    "checked_at": "2026-10-26T07:40:31.577112Z"
   }
 }
