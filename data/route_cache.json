@@ -242,17 +242,6 @@
     },
     "checked_at": "2026-10-24T18:25:25.179367Z"
   },
-  "PGT984": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T17:45:27.765889Z"
-  },
   "SXS2KY": {
     "route": {
       "fromCity": "Antalya",
@@ -318,17 +307,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-25T18:40:29.722248Z"
-  },
-  "SXS6XP": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T17:40:30.895966Z"
   },
   "LOT2MN": {
     "route": {
@@ -1417,7 +1395,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-25T18:00:53.127444Z"
+    "checked_at": "2026-10-26T17:45:30.548426Z"
   },
   "KLM60M": {
     "route": {
@@ -1429,17 +1407,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-24T19:20:30.980637Z"
-  },
-  "RYR691A": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T17:45:27.765889Z"
   },
   "KLM73D": {
     "route": {
@@ -1657,17 +1624,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-26T12:35:29.276917Z"
-  },
-  "EWG55E": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T17:45:27.765889Z"
   },
   "BAW845": {
     "route": {
@@ -2418,10 +2374,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T13:15:30.148190Z"
-  },
-  "TVF89NN": {
-    "route": null,
-    "checked_at": "2026-10-24T17:45:27.765889Z"
   },
   "RYR1155": {
     "route": {
@@ -5334,7 +5286,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-25T11:05:24.093660Z"
+    "checked_at": "2026-10-26T17:45:30.548426Z"
   },
   "CFG3TN": {
     "route": {
@@ -6782,7 +6734,7 @@
   },
   "EJU19XU": {
     "route": null,
-    "checked_at": "2026-10-25T14:40:32.267180Z"
+    "checked_at": "2026-10-26T17:45:30.548426Z"
   },
   "TKJ6JC": {
     "route": {
@@ -11771,5 +11723,20 @@
   "RYR457A": {
     "route": null,
     "checked_at": "2026-10-26T17:35:24.256984Z"
+  },
+  "EWG007": {
+    "route": null,
+    "checked_at": "2026-10-26T17:45:30.548426Z"
+  },
+  "KLM1342": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-26T17:45:30.548426Z"
   }
 }
