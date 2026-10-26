@@ -34,7 +34,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-25T14:10:32.453962Z"
+    "checked_at": "2026-10-26T14:35:25.395492Z"
   },
   "NSZ3302": {
     "route": {
@@ -1320,17 +1320,6 @@
     },
     "checked_at": "2026-10-26T13:50:35.454761Z"
   },
-  "DLH4YC": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T14:35:23.100720Z"
-  },
   "DLH5EE": {
     "route": {
       "fromCity": "Munich",
@@ -2335,7 +2324,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-25T14:15:29.576592Z"
+    "checked_at": "2026-10-26T14:35:25.395492Z"
   },
   "RYR7FD": {
     "route": {
@@ -7814,8 +7803,15 @@
     "checked_at": "2026-10-25T14:35:22.191587Z"
   },
   "PGT5GX": {
-    "route": null,
-    "checked_at": "2026-10-25T14:40:32.267180Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-26T14:35:25.395492Z"
   },
   "EJU19XU": {
     "route": null,
@@ -12257,5 +12253,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T14:30:47.267594Z"
+  },
+  "AFR98AV": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-26T14:35:25.395492Z"
+  },
+  "RYR1GE": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-26T14:35:25.395492Z"
   }
 }
