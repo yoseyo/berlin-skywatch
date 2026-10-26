@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-26T23:16:47.120274Z"
+  "flights": [
+    {
+      "callsign": "RYR6WF",
+      "country": "Poland",
+      "lat": 52.879,
+      "lon": 13.0436,
+      "altKm": 11.6,
+      "speedKmh": 832,
+      "heading": 63,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-26T23:20:30.966809Z"
 }
