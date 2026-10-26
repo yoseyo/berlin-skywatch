@@ -209,17 +209,6 @@
     },
     "checked_at": "2026-10-25T19:55:24.160794Z"
   },
-  "DLH202": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T18:45:30.563785Z"
-  },
   "AEE82B": {
     "route": {
       "fromCity": "Berlin",
@@ -2041,17 +2030,6 @@
     },
     "checked_at": "2026-10-26T12:05:24.254910Z"
   },
-  "SAS2768": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T18:50:30.395712Z"
-  },
   "PWF1966": {
     "route": {
       "fromCity": "Mannheim",
@@ -2356,28 +2334,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-26T16:40:37.438162Z"
-  },
-  "SDR60YJ": {
-    "route": {
-      "fromCity": "Marsa Alam",
-      "fromIata": "RMF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T18:45:30.563785Z"
-  },
-  "EJU17CG": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T18:50:30.395712Z"
   },
   "HUE222": {
     "route": null,
@@ -11585,5 +11541,16 @@
   "RYR93VZ": {
     "route": null,
     "checked_at": "2026-10-26T18:45:30.511365Z"
+  },
+  "THY11": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-26T18:50:30.836922Z"
   }
 }
