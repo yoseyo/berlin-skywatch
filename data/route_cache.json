@@ -1879,7 +1879,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-25T09:45:28.144516Z"
+    "checked_at": "2026-10-26T09:35:27.511329Z"
   },
   "BAW992G": {
     "route": {
@@ -3052,17 +3052,6 @@
     },
     "checked_at": "2026-10-24T16:50:31.916376Z"
   },
-  "RYR88ZF": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Pisa",
-      "toIata": "PSA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T09:35:24.591578Z"
-  },
   "DLH6TP": {
     "route": {
       "fromCity": "Milan",
@@ -4127,28 +4116,6 @@
       "airlineCountry": "Canada"
     },
     "checked_at": "2026-10-25T10:25:27.287637Z"
-  },
-  "RYR25SC": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T09:35:24.591578Z"
-  },
-  "RYR65ZK": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T09:35:24.591578Z"
   },
   "AUA3AG": {
     "route": {
@@ -13494,5 +13461,20 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-10-26T09:30:44.846680Z"
+  },
+  "N333PN": {
+    "route": null,
+    "checked_at": "2026-10-26T09:35:27.511329Z"
+  },
+  "DLH5MM": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T09:35:27.511329Z"
   }
 }
