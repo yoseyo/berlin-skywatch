@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "EVA095",
+      "country": "Taiwan",
+      "lat": 52.8402,
+      "lon": 12.9488,
+      "altKm": 11.5,
+      "speedKmh": 911,
+      "heading": 206,
+      "vertRateMs": -0.3,
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.5478,
-      "lon": 13.7767,
-      "altKm": 1.8,
-      "speedKmh": 491,
-      "heading": 88,
-      "vertRateMs": -5.8,
+      "lat": 52.412,
+      "lon": 13.6719,
+      "altKm": 0.7,
+      "speedKmh": 201,
+      "heading": 249,
+      "vertRateMs": -3.2,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -16,7 +27,18 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.6026,
+      "lon": 13.5786,
+      "altKm": 0.2,
+      "speedKmh": 47,
+      "heading": 244,
+      "vertRateMs": -2.9,
+      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-26T04:25:22.268431Z"
+  "updated_at": "2026-10-26T04:30:41.996844Z"
 }
