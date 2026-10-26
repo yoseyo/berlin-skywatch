@@ -1,18 +1,78 @@
 {
   "flights": [
     {
+      "callsign": "AWH92H",
+      "country": "Germany",
+      "lat": 52.5347,
+      "lon": 13.2066,
+      "altKm": 3.8,
+      "speedKmh": 685,
+      "heading": 100,
+      "vertRateMs": -10.7,
+      "category": "jet"
+    },
+    {
+      "callsign": "GAF618",
+      "country": "Germany",
+      "lat": 52.3653,
+      "lon": 13.4754,
+      "altKm": 0.4,
+      "speedKmh": 277,
+      "heading": 247,
+      "vertRateMs": 12.0,
+      "category": "jet"
+    },
+    {
       "callsign": "EJU91XM",
       "country": "Austria",
-      "lat": 52.3525,
-      "lon": 13.4982,
-      "altKm": 0.0,
-      "speedKmh": 186,
-      "heading": 249,
-      "vertRateMs": 0,
+      "lat": 52.1036,
+      "lon": 13.0976,
+      "altKm": 4.4,
+      "speedKmh": 609,
+      "heading": 212,
+      "vertRateMs": 15.6,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.5979,
+      "lon": 14.0514,
+      "altKm": 1.9,
+      "speedKmh": 420,
+      "heading": 203,
+      "vertRateMs": -5.5,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG9YT",
+      "country": "Germany",
+      "lat": 52.263,
+      "lon": 13.0145,
+      "altKm": 4.4,
+      "speedKmh": 585,
+      "heading": 241,
+      "vertRateMs": 12.7,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-26T04:55:22.678092Z"
+  "updated_at": "2026-10-26T05:00:52.319457Z"
 }
