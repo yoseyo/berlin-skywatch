@@ -4573,7 +4573,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-25T07:45:31.811204Z"
+    "checked_at": "2026-10-26T08:00:53.204570Z"
   },
   "WZZ3835": {
     "route": {
@@ -8235,7 +8235,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T07:50:28.815654Z"
+    "checked_at": "2026-10-26T08:00:53.204570Z"
   },
   "HOP1434": {
     "route": {
@@ -8283,7 +8283,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-25T08:00:52.251495Z"
+    "checked_at": "2026-10-26T08:00:53.204570Z"
   },
   "LOT3PK": {
     "route": {
@@ -13979,5 +13979,38 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-26T07:55:23.562200Z"
+  },
+  "LOT286": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-26T08:00:53.204570Z"
+  },
+  "DMS2HR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saarbr\u00fccken",
+      "toIata": "SCN",
+      "airlineName": "Diamond Sky",
+      "airlineCountry": "Estonia"
+    },
+    "checked_at": "2026-10-26T08:00:53.204570Z"
+  },
+  "EWG5NR": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T08:00:53.204570Z"
   }
 }
