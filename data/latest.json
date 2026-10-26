@@ -1,29 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "BPOBER",
-      "country": "Germany",
-      "lat": 52.6021,
-      "lon": 13.5768,
-      "altKm": 0.1,
-      "speedKmh": 25,
-      "heading": 243,
-      "vertRateMs": -2.3,
-      "category": "heli"
-    },
-    {
       "callsign": "EWG38C",
       "country": "Germany",
-      "lat": 52.349,
-      "lon": 13.4829,
-      "altKm": 0.2,
-      "speedKmh": 295,
-      "heading": 249,
-      "vertRateMs": 16.6,
+      "lat": 52.1139,
+      "lon": 13.1458,
+      "altKm": 3.6,
+      "speedKmh": 537,
+      "heading": 213,
+      "vertRateMs": 12.7,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Cologne",
+      "toIata": "CGN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-26T04:35:23.560686Z"
+  "updated_at": "2026-10-26T04:40:33.757713Z"
 }
