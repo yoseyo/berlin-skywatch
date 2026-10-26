@@ -1320,17 +1320,6 @@
     },
     "checked_at": "2026-10-26T13:20:33.217996Z"
   },
-  "WMT9SW": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-24T14:10:30.979476Z"
-  },
   "LOT2PJ": {
     "route": {
       "fromCity": "Amsterdam",
@@ -2768,17 +2757,6 @@
     },
     "checked_at": "2026-10-26T07:45:32.400184Z"
   },
-  "WMT1JM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-24T14:10:30.979476Z"
-  },
   "SAS23G": {
     "route": {
       "fromCity": "Rome",
@@ -3238,28 +3216,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-26T12:45:30.319202Z"
-  },
-  "RYR37CU": {
-    "route": {
-      "fromCity": "Leeds",
-      "fromIata": "LBA",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T14:10:30.979476Z"
-  },
-  "SAS2775": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T14:10:30.979476Z"
   },
   "NOZ4TW": {
     "route": {
@@ -4680,7 +4636,7 @@
   },
   "EWG21A": {
     "route": null,
-    "checked_at": "2026-10-25T05:15:28.343096Z"
+    "checked_at": "2026-10-26T14:10:34.033562Z"
   },
   "SDR29SD": {
     "route": {
@@ -12380,5 +12336,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-26T14:00:57.706281Z"
+  },
+  "CFG7MA": {
+    "route": {
+      "fromCity": "Kos Island",
+      "fromIata": "KGS",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T14:10:34.033562Z"
   }
 }
