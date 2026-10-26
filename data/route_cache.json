@@ -1750,17 +1750,6 @@
     },
     "checked_at": "2026-10-26T12:35:29.276917Z"
   },
-  "WZZ2706": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Debrecen",
-      "toIata": "DEB",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-24T16:25:23.547927Z"
-  },
   "EWG55E": {
     "route": {
       "fromCity": "London",
@@ -2610,17 +2599,6 @@
     },
     "checked_at": "2026-10-25T16:50:31.102074Z"
   },
-  "TVF77EX": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "ORY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Transavia France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-24T16:25:23.547927Z"
-  },
   "CTN4409": {
     "route": {
       "fromCity": "Berlin",
@@ -2819,17 +2797,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T14:20:30.883031Z"
-  },
-  "AUA99R": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T16:25:23.547927Z"
   },
   "VLG1889": {
     "route": {
@@ -5793,7 +5760,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-25T11:10:31.502210Z"
+    "checked_at": "2026-10-26T16:25:26.581276Z"
   },
   "DLH3CM": {
     "route": {
@@ -7611,7 +7578,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-25T15:50:33.517593Z"
+    "checked_at": "2026-10-26T16:25:26.581276Z"
   },
   "EJU84EP": {
     "route": {
@@ -7924,7 +7891,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-25T16:35:23.808627Z"
+    "checked_at": "2026-10-26T16:25:26.581276Z"
   },
   "RYR206": {
     "route": {
@@ -12017,5 +11984,31 @@
   "VLG18GY": {
     "route": null,
     "checked_at": "2026-10-26T16:20:33.934563Z"
+  },
+  "AUA22S": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-26T16:25:26.581276Z"
+  },
+  "CAI48UG": {
+    "route": null,
+    "checked_at": "2026-10-26T16:25:26.581276Z"
+  },
+  "RYR245D": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-26T16:25:26.581276Z"
   }
 }
