@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-26T22:25:26.027037Z"
+  "flights": [
+    {
+      "callsign": "WZZ23PQ",
+      "country": "Hungary",
+      "lat": 52.4532,
+      "lon": 13.2856,
+      "altKm": 10.6,
+      "speedKmh": 825,
+      "heading": 52,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR3BW",
+      "country": "Ireland",
+      "lat": 52.9194,
+      "lon": 13.6105,
+      "altKm": 11.5,
+      "speedKmh": 965,
+      "heading": 173,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Ancona",
+      "fromIata": "AOI",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-26T22:30:44.454344Z"
 }
