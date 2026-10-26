@@ -88,17 +88,6 @@
     "route": null,
     "checked_at": "2026-10-26T12:05:24.254910Z"
   },
-  "DLH192": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T14:40:30.854140Z"
-  },
   "KLM1779": {
     "route": {
       "fromCity": "Amsterdam",
@@ -2787,17 +2776,6 @@
     },
     "checked_at": "2026-10-26T09:05:24.801993Z"
   },
-  "EJU46EK": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T14:40:30.854140Z"
-  },
   "THY3352": {
     "route": {
       "fromCity": "Antalya",
@@ -3095,17 +3073,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-26T12:45:30.319202Z"
-  },
-  "SAS6075": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T14:40:30.854140Z"
   },
   "RYR15FP": {
     "route": {
@@ -5472,7 +5439,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-25T08:15:28.312714Z"
+    "checked_at": "2026-10-26T14:40:36.360570Z"
   },
   "RYR731D": {
     "route": {
@@ -8567,8 +8534,15 @@
     "checked_at": "2026-10-25T16:35:23.808627Z"
   },
   "RYR37SL": {
-    "route": null,
-    "checked_at": "2026-10-25T16:35:23.808627Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-26T14:40:36.360570Z"
   },
   "BAW986G": {
     "route": {
@@ -12275,5 +12249,9 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-26T14:35:25.395492Z"
+  },
+  "GAF109": {
+    "route": null,
+    "checked_at": "2026-10-26T14:40:36.360570Z"
   }
 }
