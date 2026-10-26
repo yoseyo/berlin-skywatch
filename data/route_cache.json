@@ -2675,17 +2675,6 @@
     },
     "checked_at": "2026-10-24T13:20:32.973173Z"
   },
-  "WZZ242": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Alghero",
-      "toIata": "AHO",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-24T12:45:30.134745Z"
-  },
   "FIN45M": {
     "route": {
       "fromCity": "Helsinki",
@@ -3412,28 +3401,6 @@
     },
     "checked_at": "2026-10-26T11:55:23.598370Z"
   },
-  "EJU5367": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T12:45:30.134745Z"
-  },
-  "RYR9WQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T12:45:30.134745Z"
-  },
   "DLH5N": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -3734,7 +3701,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-24T13:50:30.654757Z"
+    "checked_at": "2026-10-26T12:45:30.319202Z"
   },
   "LBT2423": {
     "route": {
@@ -10421,7 +10388,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-25T19:45:29.048389Z"
+    "checked_at": "2026-10-26T12:45:30.319202Z"
   },
   "SXS659": {
     "route": {
@@ -12709,5 +12676,53 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-26T12:40:32.334543Z"
+  },
+  "ISR254": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-26T12:45:30.319202Z"
+  },
+  "CES5064": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Xi'an",
+      "toIata": "XIY",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-26T12:45:30.319202Z"
+  },
+  "DBADO": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Mannheim",
+      "toIata": "MHG",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-26T12:45:30.319202Z"
+  },
+  "TAP31EL": {
+    "route": null,
+    "checked_at": "2026-10-26T12:45:30.319202Z"
+  },
+  "NMA1140": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-26T12:45:30.319202Z"
   }
 }
