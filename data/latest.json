@@ -1,16 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "CFG553",
-      "country": "Germany",
-      "lat": 52.3937,
-      "lon": 13.5946,
-      "altKm": 0.4,
-      "speedKmh": 205,
-      "heading": 250,
-      "vertRateMs": -3.2,
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.8125,
+      "lon": 13.9071,
+      "altKm": 10.9,
+      "speedKmh": 801,
+      "heading": 213,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
       "category": "plane"
+    },
+    {
+      "callsign": "GAC279V",
+      "country": "Austria",
+      "lat": 52.3706,
+      "lon": 13.4973,
+      "altKm": 0.1,
+      "speedKmh": 239,
+      "heading": 247,
+      "vertRateMs": 8.1,
+      "category": "jet"
     }
   ],
-  "updated_at": "2026-10-26T05:20:30.991450Z"
+  "updated_at": "2026-10-26T05:25:22.667909Z"
 }
