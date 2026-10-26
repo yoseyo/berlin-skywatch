@@ -1364,10 +1364,6 @@
     },
     "checked_at": "2026-10-24T21:53:49.112048Z"
   },
-  "AFR17RZ": {
-    "route": null,
-    "checked_at": "2026-10-24T16:45:30.660006Z"
-  },
   "TAP4BE": {
     "route": {
       "fromCity": "Lisbon",
@@ -2154,17 +2150,6 @@
     },
     "checked_at": "2026-10-25T17:50:31.419320Z"
   },
-  "BAW94Q": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-24T16:45:30.660006Z"
-  },
   "UAE34E": {
     "route": {
       "fromCity": "Athens",
@@ -2753,28 +2738,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T14:20:30.883031Z"
-  },
-  "PGT7335": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T16:45:30.660006Z"
-  },
-  "NOZ2TU": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-24T16:45:30.660006Z"
   },
   "EJU5423": {
     "route": null,
@@ -7881,7 +7844,7 @@
   },
   "LOT3EG": {
     "route": null,
-    "checked_at": "2026-10-25T16:45:29.230169Z"
+    "checked_at": "2026-10-26T16:45:31.892090Z"
   },
   "AEE513": {
     "route": {
@@ -9565,7 +9528,7 @@
   },
   "EJU43LD": {
     "route": null,
-    "checked_at": "2026-10-25T21:30:41.490840Z"
+    "checked_at": "2026-10-26T16:45:31.892090Z"
   },
   "EJU94HQ": {
     "route": null,
@@ -11966,5 +11929,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-26T16:40:37.438162Z"
+  },
+  "LBT232": {
+    "route": {
+      "fromCity": "Tunis",
+      "fromIata": "TUN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-10-26T16:45:31.892090Z"
   }
 }
