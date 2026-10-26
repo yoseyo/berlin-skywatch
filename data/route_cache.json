@@ -5081,17 +5081,6 @@
     },
     "checked_at": "2026-10-24T11:15:37.198826Z"
   },
-  "RYR63VQ": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T04:15:29.737822Z"
-  },
   "FHY1282": {
     "route": {
       "fromCity": "Berlin",
@@ -14802,5 +14791,16 @@
   "AEG6912": {
     "route": null,
     "checked_at": "2026-10-26T03:25:21.771988Z"
+  },
+  "SRR6228": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-26T04:20:30.561923Z"
   }
 }
