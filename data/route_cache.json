@@ -979,17 +979,6 @@
     },
     "checked_at": "2026-10-25T07:40:32.336006Z"
   },
-  "DLH2NL": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T06:55:22.571542Z"
-  },
   "SAS767": {
     "route": {
       "fromCity": "Copenhagen",
@@ -1000,17 +989,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-25T08:20:29.782117Z"
-  },
-  "DLH3TR": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T07:00:51.355560Z"
   },
   "FIN7HC": {
     "route": {
@@ -2002,17 +1980,6 @@
     },
     "checked_at": "2026-10-26T06:45:28.475327Z"
   },
-  "WZZ977": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-24T06:55:22.571542Z"
-  },
   "LGL92B": {
     "route": {
       "fromCity": "Luxembourg",
@@ -2176,7 +2143,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-25T06:50:31.298652Z"
+    "checked_at": "2026-10-26T07:00:51.574540Z"
   },
   "RYR9PG": {
     "route": {
@@ -3978,17 +3945,6 @@
     },
     "checked_at": "2026-10-24T17:15:28.395186Z"
   },
-  "RYR4DZ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T07:00:51.355560Z"
-  },
   "RYR42MY": {
     "route": {
       "fromCity": "Hamburg",
@@ -4769,61 +4725,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-25T07:45:31.811204Z"
-  },
-  "DLH5T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T06:55:22.571542Z"
-  },
-  "ASL94D": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-24T06:55:22.571542Z"
-  },
-  "CFG1RD": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T07:00:51.355560Z"
-  },
-  "RYR60RF": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T07:00:51.355560Z"
-  },
-  "RYR87VA": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T07:00:51.355560Z"
   },
   "RYR63KM": {
     "route": {
@@ -14194,5 +14095,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-26T06:55:22.429710Z"
+  },
+  "PGT981": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-26T07:00:51.574540Z"
   }
 }
