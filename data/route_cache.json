@@ -275,17 +275,6 @@
     },
     "checked_at": "2026-10-24T21:00:52.569913Z"
   },
-  "AFR69GW": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-24T20:50:31.931799Z"
-  },
   "SWR9LC": {
     "route": {
       "fromCity": "Zurich",
@@ -296,17 +285,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-25T21:25:26.345469Z"
-  },
-  "DLH206": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Dresden",
-      "toIata": "DRS",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T20:45:31.227659Z"
   },
   "IBE0787": {
     "route": {
@@ -2085,14 +2063,6 @@
   "HUE222": {
     "route": null,
     "checked_at": "2026-10-25T08:30:43.897507Z"
-  },
-  "SVI8223": {
-    "route": null,
-    "checked_at": "2026-10-24T20:45:31.227659Z"
-  },
-  "RYR8291": {
-    "route": null,
-    "checked_at": "2026-10-24T20:45:31.227659Z"
   },
   "EJU67GK": {
     "route": {
@@ -11184,5 +11154,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-26T20:45:30.751454Z"
+  },
+  "NSZ72N": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-26T20:50:35.194936Z"
+  },
+  "EWG8989": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T20:50:35.194936Z"
   }
 }
