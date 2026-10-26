@@ -174,7 +174,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-24T16:00:53.086253Z"
+    "checked_at": "2026-10-26T15:35:24.560503Z"
   },
   "LOT5PX": {
     "route": {
@@ -2319,10 +2319,6 @@
     },
     "checked_at": "2026-10-24T18:30:42.245672Z"
   },
-  "MDT5": {
-    "route": null,
-    "checked_at": "2026-10-24T15:35:22.342349Z"
-  },
   "LOT3JK": {
     "route": {
       "fromCity": "Warsaw",
@@ -2959,39 +2955,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T14:20:30.883031Z"
-  },
-  "AEE408": {
-    "route": {
-      "fromCity": "Kalamata",
-      "fromIata": "KLX",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-24T15:35:22.342349Z"
-  },
-  "SXS9RW": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T15:35:22.342349Z"
-  },
-  "RYR665R": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T15:35:22.342349Z"
   },
   "CFG7VT": {
     "route": {
@@ -4556,7 +4519,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T06:30:41.345972Z"
+    "checked_at": "2026-10-26T15:35:24.560503Z"
   },
   "RYR87GR": {
     "route": {
@@ -7957,7 +7920,7 @@
   },
   "WZZ98SJ": {
     "route": null,
-    "checked_at": "2026-10-25T15:55:27.131455Z"
+    "checked_at": "2026-10-26T15:35:24.560503Z"
   },
   "SXS5RT": {
     "route": {
@@ -8118,7 +8081,7 @@
   },
   "WZZ82UE": {
     "route": null,
-    "checked_at": "2026-10-25T16:25:23.626917Z"
+    "checked_at": "2026-10-26T15:35:24.560503Z"
   },
   "TKJ1AV": {
     "route": null,
@@ -9221,7 +9184,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-25T19:25:25.596602Z"
+    "checked_at": "2026-10-26T15:35:24.560503Z"
   },
   "EWG8MF": {
     "route": {
@@ -12163,5 +12126,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T15:30:44.385642Z"
+  },
+  "PGT7259": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-26T15:35:24.560503Z"
+  },
+  "DLH9870": {
+    "route": null,
+    "checked_at": "2026-10-26T15:35:24.560503Z"
+  },
+  "WZZ2BS": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-26T15:35:24.560503Z"
   }
 }
