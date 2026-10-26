@@ -812,7 +812,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-25T06:25:23.019170Z"
+    "checked_at": "2026-10-26T06:25:24.397423Z"
   },
   "AUA240": {
     "route": {
@@ -1275,17 +1275,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-25T09:50:28.903206Z"
-  },
-  "RYR749C": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T06:25:21.513405Z"
   },
   "TVF41HV": {
     "route": {
@@ -3470,17 +3459,6 @@
     },
     "checked_at": "2026-10-24T19:25:22.579946Z"
   },
-  "RYR4VG": {
-    "route": {
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Girona",
-      "toIata": "GRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T06:25:21.513405Z"
-  },
   "VLG1887": {
     "route": {
       "fromCity": "Berlin",
@@ -4923,28 +4901,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-25T07:45:31.811204Z"
-  },
-  "EJU3947": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T06:25:21.513405Z"
-  },
-  "EWG90V": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T06:25:21.513405Z"
   },
   "RYR63WX": {
     "route": {
@@ -14339,5 +14295,24 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T06:20:30.109935Z"
+  },
+  "EJU46PA": {
+    "route": null,
+    "checked_at": "2026-10-26T06:25:24.397423Z"
+  },
+  "EWG9Z": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T06:25:24.397423Z"
+  },
+  "TVF34UB": {
+    "route": null,
+    "checked_at": "2026-10-26T06:25:24.397423Z"
   }
 }
