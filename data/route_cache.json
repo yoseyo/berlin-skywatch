@@ -1419,17 +1419,6 @@
     },
     "checked_at": "2026-10-25T20:35:25.545324Z"
   },
-  "EWG9SK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T15:30:43.258172Z"
-  },
   "LOT4PJ": {
     "route": {
       "fromCity": "Amsterdam",
@@ -2970,32 +2959,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T14:20:30.883031Z"
-  },
-  "NSZ3376": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T15:30:43.258172Z"
-  },
-  "DIMIM": {
-    "route": null,
-    "checked_at": "2026-10-24T15:30:43.258172Z"
-  },
-  "VLG1888": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Vueling Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-10-24T15:30:43.258172Z"
   },
   "AEE408": {
     "route": {
@@ -12174,5 +12137,31 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-26T15:25:24.415429Z"
+  },
+  "UAG101": {
+    "route": null,
+    "checked_at": "2026-10-26T15:30:44.385642Z"
+  },
+  "DLH3RV": {
+    "route": {
+      "fromCity": "Cagliari",
+      "fromIata": "CAG",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T15:30:44.385642Z"
+  },
+  "EWG8553": {
+    "route": {
+      "fromCity": "Bilbao",
+      "fromIata": "BIO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T15:30:44.385642Z"
   }
 }
