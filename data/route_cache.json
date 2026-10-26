@@ -1,7 +1,7 @@
 {
   "CHX100": {
     "route": null,
-    "checked_at": "2026-10-26T06:45:28.475327Z"
+    "checked_at": "2026-10-26T19:40:31.327246Z"
   },
   "MSC2961": {
     "route": {
@@ -2588,7 +2588,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-24T23:10:33.127947Z"
+    "checked_at": "2026-10-26T19:40:31.327246Z"
   },
   "RYR1893": {
     "route": {
@@ -11373,5 +11373,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T19:35:25.837936Z"
+  },
+  "NSZ5075": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-26T19:40:31.327246Z"
   }
 }
