@@ -3,21 +3,38 @@
     {
       "callsign": "WZZ23PQ",
       "country": "Hungary",
-      "lat": 52.4532,
-      "lon": 13.2856,
+      "lat": 52.7937,
+      "lon": 14.0074,
       "altKm": 10.6,
-      "speedKmh": 825,
+      "speedKmh": 823,
       "heading": 52,
-      "vertRateMs": 0,
+      "vertRateMs": 0.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU73CG",
+      "country": "Austria",
+      "lat": 52.436,
+      "lon": 12.9664,
+      "altKm": 4.9,
+      "speedKmh": 664,
+      "heading": 78,
+      "vertRateMs": -4.9,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Milan",
+      "toIata": "MXP",
       "category": "plane"
     },
     {
       "callsign": "RYR3BW",
       "country": "Ireland",
-      "lat": 52.9194,
-      "lon": 13.6105,
-      "altKm": 11.5,
-      "speedKmh": 965,
+      "lat": 52.2724,
+      "lon": 13.7373,
+      "altKm": 11.6,
+      "speedKmh": 970,
       "heading": 173,
       "vertRateMs": 0,
       "airline": "Ryanair",
@@ -29,5 +46,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-26T22:30:44.454344Z"
+  "updated_at": "2026-10-26T22:35:23.732694Z"
 }
