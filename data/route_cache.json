@@ -649,17 +649,6 @@
     },
     "checked_at": "2026-10-26T05:10:29.108093Z"
   },
-  "RYR58RA": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T15:20:35.186093Z"
-  },
   "RYR584E": {
     "route": {
       "fromCity": "Berlin",
@@ -2168,10 +2157,6 @@
     },
     "checked_at": "2026-10-26T12:30:12.785914Z"
   },
-  "PYR014": {
-    "route": null,
-    "checked_at": "2026-10-24T15:25:24.276206Z"
-  },
   "FIN79T": {
     "route": {
       "fromCity": "Helsinki",
@@ -2204,17 +2189,6 @@
       "airlineCountry": "Jordan"
     },
     "checked_at": "2026-10-26T14:20:32.569636Z"
-  },
-  "DLH7MR": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Saint-Louis",
-      "toIata": "EAP",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T15:20:35.186093Z"
   },
   "FIN9YA": {
     "route": {
@@ -2996,28 +2970,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T14:20:30.883031Z"
-  },
-  "RYR1638": {
-    "route": {
-      "fromCity": "Nottingham",
-      "fromIata": "EMA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T15:25:24.276206Z"
-  },
-  "EWG1R": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T15:25:24.276206Z"
   },
   "NSZ3376": {
     "route": {
@@ -8252,7 +8204,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-25T16:30:45.871881Z"
+    "checked_at": "2026-10-26T15:25:24.415429Z"
   },
   "BAW983": {
     "route": {
@@ -12211,5 +12163,16 @@
   "RYR32FH": {
     "route": null,
     "checked_at": "2026-10-26T15:20:32.877251Z"
+  },
+  "ELJ202": {
+    "route": {
+      "fromCity": "Dijon/Longvic",
+      "fromIata": "DIJ",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-26T15:25:24.415429Z"
   }
 }
