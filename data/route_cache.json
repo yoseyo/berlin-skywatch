@@ -891,17 +891,6 @@
     },
     "checked_at": "2026-10-25T07:00:51.594803Z"
   },
-  "AUA223B": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-24T06:00:51.127411Z"
-  },
   "SXS3FR": {
     "route": {
       "fromCity": "Berlin",
@@ -3299,7 +3288,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-25T17:25:21.816166Z"
+    "checked_at": "2026-10-26T06:00:51.941522Z"
   },
   "FIN6AP": {
     "route": {
@@ -5011,28 +5000,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-25T08:35:24.071645Z"
-  },
-  "FIN23B": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-24T05:55:22.540295Z"
-  },
-  "CFG2CK": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T05:55:22.540295Z"
   },
   "ETH724": {
     "route": {
@@ -8501,7 +8468,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-25T06:05:23.876494Z"
+    "checked_at": "2026-10-26T06:00:51.941522Z"
   },
   "WMT309": {
     "route": null,
@@ -14430,5 +14397,53 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-26T05:55:22.301736Z"
+  },
+  "BLX261": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "TUIfly Nordic",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-26T06:00:51.941522Z"
+  },
+  "DLH9902": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T06:00:51.941522Z"
+  },
+  "EWG9GL": {
+    "route": null,
+    "checked_at": "2026-10-26T06:00:51.941522Z"
+  },
+  "EWG21T": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Graz (Feldkirchen bei Graz)",
+      "toIata": "GRZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T06:00:51.941522Z"
+  },
+  "KLM64F": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-26T06:00:51.941522Z"
   }
 }
