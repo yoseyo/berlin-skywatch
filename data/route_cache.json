@@ -1806,17 +1806,6 @@
     "route": null,
     "checked_at": "2026-10-25T06:25:23.019170Z"
   },
-  "RYR1JK": {
-    "route": {
-      "fromCity": "Cork",
-      "fromIata": "ORK",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T20:15:30.492261Z"
-  },
   "TWI806": {
     "route": null,
     "checked_at": "2026-10-25T08:00:52.251495Z"
@@ -2184,28 +2173,6 @@
   "HUE222": {
     "route": null,
     "checked_at": "2026-10-25T08:30:43.897507Z"
-  },
-  "RYR2501": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T20:15:30.492261Z"
-  },
-  "RYR8277": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T20:15:30.492261Z"
   },
   "EZY78AL": {
     "route": {
@@ -4377,7 +4344,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-25T10:30:45.923557Z"
+    "checked_at": "2026-10-26T20:15:30.942765Z"
   },
   "FHM4762": {
     "route": null,
@@ -8112,7 +8079,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-25T20:20:33.316104Z"
+    "checked_at": "2026-10-26T20:15:30.942765Z"
   },
   "TVS431F": {
     "route": {
@@ -11326,5 +11293,16 @@
   "SDR21RP": {
     "route": null,
     "checked_at": "2026-10-26T20:10:33.572987Z"
+  },
+  "CFG2EJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T20:15:30.942765Z"
   }
 }
