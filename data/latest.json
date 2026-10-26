@@ -1,22 +1,27 @@
 {
   "flights": [
     {
-      "callsign": "RYR6WF",
-      "country": "Poland",
-      "lat": 52.879,
-      "lon": 13.0436,
-      "altKm": 11.6,
-      "speedKmh": 832,
-      "heading": 63,
+      "callsign": "AWH94R",
+      "country": "Germany",
+      "lat": 52.18,
+      "lon": 12.7969,
+      "altKm": 12.8,
+      "speedKmh": 676,
+      "heading": 317,
       "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "category": "plane"
+      "category": "jet"
+    },
+    {
+      "callsign": "PBB17",
+      "country": "Germany",
+      "lat": 52.5861,
+      "lon": 13.6449,
+      "altKm": 0.5,
+      "speedKmh": 211,
+      "heading": 124,
+      "vertRateMs": 0,
+      "category": "heli"
     }
   ],
-  "updated_at": "2026-10-26T23:20:30.966809Z"
+  "updated_at": "2026-10-26T23:25:24.523825Z"
 }
