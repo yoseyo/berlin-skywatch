@@ -1,25 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "CHX82",
-      "country": "Germany",
-      "lat": 52.5213,
-      "lon": 13.5648,
-      "altKm": 0.2,
-      "speedKmh": 96,
-      "heading": 32,
-      "vertRateMs": -0.7,
-      "category": "heli"
-    },
-    {
       "callsign": "BCS3612",
       "country": "Bahrain",
-      "lat": 52.4224,
-      "lon": 12.9612,
-      "altKm": 9.0,
-      "speedKmh": 837,
+      "lat": 52.9261,
+      "lon": 13.4605,
+      "altKm": 10.5,
+      "speedKmh": 886,
       "heading": 31,
-      "vertRateMs": 8.4,
+      "vertRateMs": 0,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
@@ -29,5 +18,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-26T01:00:52.661595Z"
+  "updated_at": "2026-10-26T01:05:24.924981Z"
 }
