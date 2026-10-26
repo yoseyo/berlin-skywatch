@@ -47,17 +47,6 @@
     },
     "checked_at": "2026-10-26T10:30:45.090595Z"
   },
-  "RYR1SM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T18:55:22.513610Z"
-  },
   "CHX31": {
     "route": null,
     "checked_at": "2026-10-26T07:30:41.884820Z"
@@ -219,17 +208,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-26T18:40:30.847003Z"
-  },
-  "LOT2MN": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-24T18:55:22.513610Z"
   },
   "KLC1335": {
     "route": {
@@ -1045,17 +1023,6 @@
     },
     "checked_at": "2026-10-26T12:15:30.116828Z"
   },
-  "THY4AY": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T18:55:22.513610Z"
-  },
   "ICE14T": {
     "route": {
       "fromCity": "Reykjav\u00edk",
@@ -1143,17 +1110,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-26T07:00:51.574540Z"
-  },
-  "EWG9QC": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T18:55:22.513610Z"
   },
   "CCA940": {
     "route": {
@@ -1437,17 +1393,6 @@
   "CFG553": {
     "route": null,
     "checked_at": "2026-10-26T05:15:28.910259Z"
-  },
-  "LOT4CN": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-24T18:55:22.513610Z"
   },
   "BTI74A": {
     "route": {
@@ -7853,7 +7798,7 @@
   },
   "SWR9ZT": {
     "route": null,
-    "checked_at": "2026-10-25T18:45:30.431311Z"
+    "checked_at": "2026-10-26T18:55:27.810767Z"
   },
   "RYR8HW": {
     "route": {
@@ -8528,7 +8473,7 @@
   },
   "SAS82U": {
     "route": null,
-    "checked_at": "2026-10-25T20:30:46.167304Z"
+    "checked_at": "2026-10-26T18:55:27.810767Z"
   },
   "EJU41NG": {
     "route": {
@@ -11552,5 +11497,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-26T18:50:30.836922Z"
+  },
+  "BNI5T": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "LBG",
+      "toCity": "Cannes",
+      "toIata": "CEQ",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-26T18:55:27.810767Z"
   }
 }
