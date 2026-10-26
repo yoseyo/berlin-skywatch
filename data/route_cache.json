@@ -2969,7 +2969,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-25T06:40:29.203859Z"
+    "checked_at": "2026-10-26T06:50:29.091721Z"
   },
   "BTI97T": {
     "route": {
@@ -3271,17 +3271,6 @@
       "airlineCountry": "United Arab Emirates"
     },
     "checked_at": "2026-10-24T20:20:31.139857Z"
-  },
-  "THY1LZ": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T06:45:29.118099Z"
   },
   "CXI8E": {
     "route": {
@@ -4066,17 +4055,6 @@
     },
     "checked_at": "2026-10-24T10:20:31.453139Z"
   },
-  "RYR88JV": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T06:45:29.118099Z"
-  },
   "RYR9SW": {
     "route": {
       "fromCity": "Warsaw",
@@ -4802,17 +4780,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-25T07:45:31.811204Z"
-  },
-  "EWG6KW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-24T06:45:29.118099Z"
   },
   "DLH5T": {
     "route": {
@@ -8382,7 +8349,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T07:05:25.725499Z"
+    "checked_at": "2026-10-26T06:50:29.091721Z"
   },
   "EWG6FC": {
     "route": {
@@ -14201,5 +14168,27 @@
   "WMT4592": {
     "route": null,
     "checked_at": "2026-10-26T06:45:28.475327Z"
+  },
+  "EWG7KW": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T06:50:29.091721Z"
+  },
+  "EWG7L": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-26T06:50:29.091721Z"
   }
 }
