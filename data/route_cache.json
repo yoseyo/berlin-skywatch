@@ -143,17 +143,6 @@
     },
     "checked_at": "2026-10-25T17:15:28.950253Z"
   },
-  "LOT389": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-24T16:10:29.456647Z"
-  },
   "IBE07WR": {
     "route": {
       "fromCity": "Madrid",
@@ -164,17 +153,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-24T16:50:31.916376Z"
-  },
-  "PGT49PK": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T16:10:29.456647Z"
   },
   "AFR99GT": {
     "route": {
@@ -2852,17 +2830,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-25T14:20:30.883031Z"
-  },
-  "LOT407": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-24T16:10:29.456647Z"
   },
   "RYR6V": {
     "route": {
@@ -12046,5 +12013,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-26T16:05:25.990574Z"
+  },
+  "FIN5DL": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-26T16:10:31.479272Z"
   }
 }
