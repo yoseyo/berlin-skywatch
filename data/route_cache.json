@@ -187,17 +187,6 @@
     },
     "checked_at": "2026-10-26T17:25:27.642007Z"
   },
-  "SXS2KY": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T18:35:23.401781Z"
-  },
   "BAW846W": {
     "route": {
       "fromCity": "London",
@@ -2129,17 +2118,6 @@
     },
     "checked_at": "2026-10-26T11:00:55.049467Z"
   },
-  "RYR2TL": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-24T18:35:23.401781Z"
-  },
   "THY3353": {
     "route": {
       "fromCity": "Berlin",
@@ -2205,17 +2183,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-25T10:30:45.923557Z"
-  },
-  "THY91B": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-24T18:35:23.401781Z"
   },
   "SAS2690": {
     "route": {
@@ -2411,17 +2378,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-26T16:40:37.438162Z"
-  },
-  "NSZ3878": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-24T18:35:23.401781Z"
   },
   "SVI6618": {
     "route": null,
@@ -7881,7 +7837,7 @@
   },
   "EJU93VY": {
     "route": null,
-    "checked_at": "2026-10-25T18:35:23.923884Z"
+    "checked_at": "2026-10-26T18:35:23.458378Z"
   },
   "THY8WD": {
     "route": null,
@@ -11585,5 +11541,38 @@
   "EWG1TZ": {
     "route": null,
     "checked_at": "2026-10-26T18:25:23.201441Z"
+  },
+  "EJU5187": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-26T18:35:23.458378Z"
+  },
+  "CAI52DW": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-26T18:35:23.458378Z"
+  },
+  "RYR2VV": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-26T18:35:23.458378Z"
   }
 }
