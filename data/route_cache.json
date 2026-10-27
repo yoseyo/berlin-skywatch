@@ -306,7 +306,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-26T06:10:29.892309Z"
+    "checked_at": "2026-10-27T06:05:26.330082Z"
   },
   "NSZ8ML": {
     "route": {
@@ -2162,10 +2162,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-27T06:00:54.713335Z"
-  },
-  "WMT309": {
-    "route": null,
-    "checked_at": "2026-10-25T06:05:23.876494Z"
   },
   "SAS67W": {
     "route": {
@@ -10994,5 +10990,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-27T05:45:30.768499Z"
+  },
+  "RYR45KM": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-27T06:05:26.330082Z"
+  },
+  "WMT8EK": {
+    "route": null,
+    "checked_at": "2026-10-27T06:05:26.330082Z"
   }
 }
