@@ -4756,7 +4756,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-26T18:00:57.061517Z"
+    "checked_at": "2026-10-27T17:25:25.253987Z"
   },
   "BAW87AM": {
     "route": {
@@ -5518,7 +5518,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-25T20:15:32.731119Z"
+    "checked_at": "2026-10-27T17:25:25.253987Z"
   },
   "RYR15AU": {
     "route": null,
@@ -10658,5 +10658,27 @@
   "WZZ4861": {
     "route": null,
     "checked_at": "2026-10-27T17:15:33.497099Z"
+  },
+  "TVS467P": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Shannon",
+      "toIata": "SNN",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-27T17:25:25.253987Z"
+  },
+  "LHX851": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-27T17:25:25.253987Z"
   }
 }
