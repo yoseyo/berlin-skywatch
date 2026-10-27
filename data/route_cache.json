@@ -45,7 +45,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-26T10:30:45.090595Z"
+    "checked_at": "2026-10-27T10:25:29.270993Z"
   },
   "CHX31": {
     "route": null,
@@ -570,7 +570,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-26T10:45:29.147581Z"
+    "checked_at": "2026-10-27T10:25:29.270993Z"
   },
   "LOT266": {
     "route": {
@@ -1754,17 +1754,6 @@
     "route": null,
     "checked_at": "2026-10-25T20:30:46.167304Z"
   },
-  "ACA887": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-25T10:25:27.287637Z"
-  },
   "AUA41": {
     "route": {
       "fromCity": "Vienna",
@@ -2234,7 +2223,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-26T11:25:23.443753Z"
+    "checked_at": "2026-10-27T10:25:29.270993Z"
   },
   "RYR2BB": {
     "route": {
@@ -2941,17 +2930,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-27T09:05:24.592230Z"
-  },
-  "FIN6TF": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-25T10:25:27.287637Z"
   },
   "SAS1694": {
     "route": {
@@ -5875,7 +5853,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T08:45:29.317358Z"
+    "checked_at": "2026-10-27T10:25:29.270993Z"
   },
   "WZZ5": {
     "route": {
@@ -10940,5 +10918,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-27T10:20:34.944444Z"
+  },
+  "CKK215": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-27T10:25:29.270993Z"
+  },
+  "FIN8WB": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-27T10:25:29.270993Z"
   }
 }
