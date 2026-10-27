@@ -1471,17 +1471,6 @@
     },
     "checked_at": "2026-10-26T14:35:25.395492Z"
   },
-  "CTN480": {
-    "route": {
-      "fromCity": "Zagreb",
-      "fromIata": "ZAG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-25T09:15:29.729415Z"
-  },
   "BPOBER": {
     "route": null,
     "checked_at": "2026-10-26T21:50:32.082800Z"
@@ -8334,7 +8323,7 @@
   },
   "AFR23TP": {
     "route": null,
-    "checked_at": "2026-10-26T09:20:32.852297Z"
+    "checked_at": "2026-10-27T09:15:32.608721Z"
   },
   "EWG7B": {
     "route": {
@@ -8345,7 +8334,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T09:20:32.852297Z"
+    "checked_at": "2026-10-27T09:15:32.608721Z"
   },
   "DLH880": {
     "route": {
@@ -10961,5 +10950,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-27T09:05:24.592230Z"
+  },
+  "BTX2B": {
+    "route": {
+      "fromCity": "Chattanooga",
+      "fromIata": "CHA",
+      "toCity": "M\u00fcnster",
+      "toIata": "FMO",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-27T09:15:32.608721Z"
+  },
+  "RYR260L": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-27T09:15:32.608721Z"
   }
 }
