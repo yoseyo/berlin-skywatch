@@ -1,44 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.3065,
-      "lon": 13.9792,
-      "altKm": 7.8,
-      "speedKmh": 441,
-      "heading": 66,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "EVA071",
-      "country": "Taiwan",
-      "lat": 52.7396,
-      "lon": 13.6496,
+      "callsign": "UAE221",
+      "country": "United Arab Emirates",
+      "lat": 52.7063,
+      "lon": 13.5752,
       "altKm": 10.7,
-      "speedKmh": 951,
-      "heading": 182,
+      "speedKmh": 795,
+      "heading": 311,
       "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "BCS5959",
-      "country": "Austria",
-      "lat": 52.1237,
-      "lon": 13.8135,
-      "altKm": 9.4,
-      "speedKmh": 834,
-      "heading": 61,
-      "vertRateMs": 6.5,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
+      "airline": "Emirates",
+      "airlineCountry": "United Arab Emirates",
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Dallas-Fort Worth",
+      "toIata": "DFW",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-27T04:35:23.167237Z"
+  "updated_at": "2026-10-27T04:40:31.843235Z"
 }
