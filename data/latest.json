@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "EVA095",
-      "country": "Taiwan",
-      "lat": 52.8701,
-      "lon": 12.8633,
-      "altKm": 12.5,
-      "speedKmh": 916,
-      "heading": 207,
+      "callsign": "BCS9CG",
+      "country": "Ireland",
+      "lat": 52.7725,
+      "lon": 12.924,
+      "altKm": 11.0,
+      "speedKmh": 805,
+      "heading": 23,
       "vertRateMs": -0.3,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-27T03:55:22.520867Z"
+  "updated_at": "2026-10-27T04:00:53.123023Z"
 }
