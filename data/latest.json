@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-27T22:00:52.618800Z"
+  "flights": [
+    {
+      "callsign": "RYR8942",
+      "country": "Poland",
+      "lat": 52.1205,
+      "lon": 12.7442,
+      "altKm": 11.6,
+      "speedKmh": 904,
+      "heading": 50,
+      "vertRateMs": -0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Beauvais",
+      "fromIata": "BVA",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-27T22:05:25.418478Z"
 }
