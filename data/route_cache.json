@@ -1912,10 +1912,6 @@
     },
     "checked_at": "2026-10-26T16:40:37.438162Z"
   },
-  "HUE222": {
-    "route": null,
-    "checked_at": "2026-10-25T08:30:43.897507Z"
-  },
   "BTI3HK": {
     "route": {
       "fromCity": "Lisbon",
@@ -2600,17 +2596,6 @@
     },
     "checked_at": "2026-10-26T08:05:24.731340Z"
   },
-  "SAS697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Pisa",
-      "toIata": "PSA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-25T08:30:43.897507Z"
-  },
   "BAW974": {
     "route": {
       "fromCity": "London",
@@ -2631,7 +2616,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-25T08:35:24.071645Z"
+    "checked_at": "2026-10-27T08:30:47.577116Z"
   },
   "RYR6SU": {
     "route": {
@@ -10908,5 +10893,31 @@
   "IFA6687": {
     "route": null,
     "checked_at": "2026-10-27T08:25:24.586275Z"
+  },
+  "SAS72X": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-27T08:30:47.577116Z"
+  },
+  "EJU49HM": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-27T08:30:47.577116Z"
+  },
+  "DIPIT": {
+    "route": null,
+    "checked_at": "2026-10-27T08:30:47.577116Z"
   }
 }
