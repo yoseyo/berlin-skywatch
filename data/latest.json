@@ -1,4 +1,49 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-27T13:55:26.967082Z"
+  "flights": [
+    {
+      "callsign": "DHTMX",
+      "country": "Germany",
+      "lat": 52.5782,
+      "lon": 12.9213,
+      "altKm": 0.2,
+      "speedKmh": 59,
+      "heading": 141,
+      "vertRateMs": -1.9,
+      "category": "plane"
+    },
+    {
+      "callsign": "JEI323",
+      "country": "Germany",
+      "lat": 52.2823,
+      "lon": 13.1849,
+      "altKm": 3.2,
+      "speedKmh": 543,
+      "heading": 198,
+      "vertRateMs": 13.7,
+      "category": "plane"
+    },
+    {
+      "callsign": "BAF642",
+      "country": "Belgium",
+      "lat": 52.7169,
+      "lon": 13.4065,
+      "altKm": 10.7,
+      "speedKmh": 691,
+      "heading": 254,
+      "vertRateMs": 0.7,
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR18AR",
+      "country": "Ireland",
+      "lat": 52.4306,
+      "lon": 13.7578,
+      "altKm": 1.0,
+      "speedKmh": 344,
+      "heading": 262,
+      "vertRateMs": -5.8,
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-27T14:01:04.516209Z"
 }
