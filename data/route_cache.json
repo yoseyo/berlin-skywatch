@@ -735,7 +735,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-26T12:05:24.254910Z"
+    "checked_at": "2026-10-27T12:20:35.241522Z"
   },
   "MSR731": {
     "route": {
@@ -1109,7 +1109,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-25T12:25:23.321128Z"
+    "checked_at": "2026-10-27T12:20:35.241522Z"
   },
   "SAS1680": {
     "route": {
@@ -3316,10 +3316,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T16:35:26.437278Z"
-  },
-  "EJU5025": {
-    "route": null,
-    "checked_at": "2026-10-25T12:20:31.923004Z"
   },
   "THY9VS": {
     "route": {
@@ -10874,5 +10870,49 @@
   "RYR723D": {
     "route": null,
     "checked_at": "2026-10-27T12:10:32.404461Z"
+  },
+  "ELY1005": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-27T12:20:35.241522Z"
+  },
+  "DLH2EJ": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-27T12:20:35.241522Z"
+  },
+  "DLH894": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stavanger",
+      "toIata": "SVG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-27T12:20:35.241522Z"
+  },
+  "EWG6FC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-27T12:20:35.241522Z"
   }
 }
