@@ -1,49 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "SAS71Z",
-      "country": "Sweden",
-      "lat": 52.131,
-      "lon": 13.4665,
-      "altKm": 11.6,
-      "speedKmh": 823,
-      "heading": 176,
-      "vertRateMs": 0,
+      "callsign": "AEE8DT",
+      "country": "Greece",
+      "lat": 52.2207,
+      "lon": 13.9856,
+      "altKm": 2.4,
+      "speedKmh": 468,
+      "heading": 339,
+      "vertRateMs": -5.8,
+      "airline": "Aegean Airlines",
+      "airlineCountry": "Greece",
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "EJU93VY",
-      "country": "Austria",
-      "lat": 52.324,
-      "lon": 13.1988,
-      "altKm": 2.5,
-      "speedKmh": 467,
-      "heading": 251,
-      "vertRateMs": 6.5,
-      "category": "plane"
-    },
-    {
-      "callsign": "AFR62AM",
-      "country": "France",
-      "lat": 52.1999,
-      "lon": 13.0117,
-      "altKm": 4.3,
-      "speedKmh": 546,
-      "heading": 255,
-      "vertRateMs": 14.0,
-      "category": "plane"
-    },
-    {
-      "callsign": "GAF606",
-      "country": "Germany",
-      "lat": 52.2861,
-      "lon": 12.9247,
-      "altKm": 5.0,
-      "speedKmh": 682,
-      "heading": 257,
-      "vertRateMs": 13.7,
-      "category": "jet"
     }
   ],
-  "updated_at": "2026-10-27T17:05:27.417576Z"
+  "updated_at": "2026-10-27T17:10:35.083728Z"
 }
