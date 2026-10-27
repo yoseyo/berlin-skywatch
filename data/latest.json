@@ -1,42 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "RYR58HQ",
-      "country": "Poland",
-      "lat": 52.7512,
-      "lon": 13.0651,
-      "altKm": 11.6,
-      "speedKmh": 849,
-      "heading": 93,
-      "vertRateMs": -0.3,
-      "category": "plane"
-    },
-    {
-      "callsign": "TAY5DN",
+      "callsign": "EJU43LD",
       "country": "Austria",
-      "lat": 52.3342,
-      "lon": 13.3276,
-      "altKm": 1.9,
-      "speedKmh": 370,
-      "heading": 262,
-      "vertRateMs": 16.3,
-      "airline": "ASL Airlines Belgium",
-      "airlineCountry": "Belgium",
+      "lat": 52.5637,
+      "lon": 12.883,
+      "altKm": 5.0,
+      "speedKmh": 682,
+      "heading": 92,
+      "vertRateMs": -9.8,
       "category": "plane"
     },
     {
-      "callsign": "KLM27F",
-      "country": "Kingdom of the Netherlands",
-      "lat": 52.3884,
-      "lon": 13.65,
-      "altKm": 0.6,
-      "speedKmh": 302,
-      "heading": 250,
-      "vertRateMs": -4.2,
-      "airline": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands",
+      "callsign": "DLH9HA",
+      "country": "Germany",
+      "lat": 52.3075,
+      "lon": 13.8181,
+      "altKm": 1.4,
+      "speedKmh": 571,
+      "heading": 31,
+      "vertRateMs": -6.8,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-27T21:25:25.757218Z"
+  "updated_at": "2026-10-27T21:30:42.215076Z"
 }
