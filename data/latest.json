@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-27T02:45:27.788698Z"
+  "flights": [
+    {
+      "callsign": "CMB359",
+      "country": "United States",
+      "lat": 52.727,
+      "lon": 13.9974,
+      "altKm": 11.6,
+      "speedKmh": 994,
+      "heading": 119,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "UAL83",
+      "country": "United States",
+      "lat": 52.5129,
+      "lon": 13.7583,
+      "altKm": 11.9,
+      "speedKmh": 809,
+      "heading": 301,
+      "vertRateMs": 0,
+      "airline": "United Airlines",
+      "airlineCountry": "United States",
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-27T02:50:29.732269Z"
 }
