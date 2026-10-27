@@ -1370,7 +1370,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-26T18:10:39.821519Z"
+    "checked_at": "2026-10-27T17:30:47.586161Z"
   },
   "RJA138": {
     "route": {
@@ -2848,7 +2848,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-26T20:15:30.942765Z"
+    "checked_at": "2026-10-27T17:30:47.586161Z"
   },
   "AFR12AR": {
     "route": {
@@ -4445,7 +4445,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-26T12:55:52.663082Z"
+    "checked_at": "2026-10-27T17:30:47.586161Z"
   },
   "BAW988G": {
     "route": {
@@ -4490,10 +4490,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-26T17:35:24.256984Z"
-  },
-  "EWG42V": {
-    "route": null,
-    "checked_at": "2026-10-25T17:30:41.809517Z"
   },
   "AFR13RC": {
     "route": null,
@@ -10680,5 +10676,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-27T17:25:25.253987Z"
+  },
+  "AUA99R": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-27T17:30:47.586161Z"
+  },
+  "KLC1342": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Cityhopper",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-27T17:30:47.586161Z"
+  },
+  "CXI95FV": {
+    "route": null,
+    "checked_at": "2026-10-27T17:30:47.586161Z"
   }
 }
