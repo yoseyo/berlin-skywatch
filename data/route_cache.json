@@ -97,7 +97,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-26T17:00:57.272303Z"
+    "checked_at": "2026-10-27T16:35:27.243592Z"
   },
   "KLM1780": {
     "route": {
@@ -3553,7 +3553,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-26T19:10:32.923937Z"
+    "checked_at": "2026-10-27T16:35:27.243592Z"
   },
   "KLM1314": {
     "route": {
@@ -4273,17 +4273,6 @@
     },
     "checked_at": "2026-10-27T16:30:47.064954Z"
   },
-  "RYR206": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-25T16:35:23.808627Z"
-  },
   "RYR37SL": {
     "route": {
       "fromCity": "Berlin",
@@ -4294,17 +4283,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-27T07:30:44.485501Z"
-  },
-  "BAW986G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-25T16:35:23.808627Z"
   },
   "EJU15QB": {
     "route": null,
@@ -4327,7 +4305,7 @@
   },
   "LOT3EG": {
     "route": null,
-    "checked_at": "2026-10-26T16:45:31.892090Z"
+    "checked_at": "2026-10-27T16:35:27.243592Z"
   },
   "AEE513": {
     "route": {
@@ -4349,7 +4327,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T17:10:37.231892Z"
+    "checked_at": "2026-10-27T16:35:27.243592Z"
   },
   "DLH7T": {
     "route": {
@@ -10682,5 +10660,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-27T16:30:47.064954Z"
+  },
+  "FIN2K": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-27T16:35:27.243592Z"
+  },
+  "EJU48ZE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-27T16:35:27.243592Z"
   }
 }
