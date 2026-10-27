@@ -295,7 +295,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-26T06:25:24.397423Z"
+    "checked_at": "2026-10-27T06:25:24.428876Z"
   },
   "AUA240": {
     "route": {
@@ -339,7 +339,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-26T06:20:30.109935Z"
+    "checked_at": "2026-10-27T06:25:24.428876Z"
   },
   "DLH2X": {
     "route": {
@@ -1596,10 +1596,6 @@
     },
     "checked_at": "2026-10-26T14:15:30.674519Z"
   },
-  "TWI805": {
-    "route": null,
-    "checked_at": "2026-10-25T06:25:23.019170Z"
-  },
   "TWI806": {
     "route": null,
     "checked_at": "2026-10-25T08:00:52.251495Z"
@@ -2206,25 +2202,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-26T06:10:29.892309Z"
-  },
-  "GAF600": {
-    "route": null,
-    "checked_at": "2026-10-25T06:25:23.019170Z"
-  },
-  "EWG32KT": {
-    "route": null,
-    "checked_at": "2026-10-25T06:25:23.019170Z"
-  },
-  "SAS35K": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-25T06:25:23.019170Z"
   },
   "EWG2UT": {
     "route": {
@@ -10990,5 +10967,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-27T06:20:30.898849Z"
+  },
+  "RYR628": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-27T06:25:24.428876Z"
   }
 }
