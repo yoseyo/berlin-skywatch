@@ -1,25 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "ADZ4006",
-      "country": "Bulgaria",
-      "lat": 52.3917,
-      "lon": 13.5862,
-      "altKm": 0.3,
-      "speedKmh": 223,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "category": "plane"
-    },
-    {
       "callsign": "EJU45RT",
       "country": "Austria",
-      "lat": 52.3017,
-      "lon": 13.3772,
-      "altKm": 1.4,
-      "speedKmh": 404,
-      "heading": 228,
-      "vertRateMs": 4.9,
+      "lat": 52.1397,
+      "lon": 12.8737,
+      "altKm": 4.9,
+      "speedKmh": 644,
+      "heading": 246,
+      "vertRateMs": 13.7,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -27,7 +16,24 @@
       "toCity": "M\u00e1laga",
       "toIata": "AGP",
       "category": "plane"
+    },
+    {
+      "callsign": "EJU5375",
+      "country": "Austria",
+      "lat": 52.3143,
+      "lon": 13.3985,
+      "altKm": 0.9,
+      "speedKmh": 384,
+      "heading": 228,
+      "vertRateMs": 16.6,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-27T05:00:56.190967Z"
+  "updated_at": "2026-10-27T05:05:22.713425Z"
 }
