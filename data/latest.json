@@ -1,14 +1,42 @@
 {
   "flights": [
     {
+      "callsign": "AEG6912",
+      "country": "Estonia",
+      "lat": 52.1801,
+      "lon": 13.517,
+      "altKm": 7.9,
+      "speedKmh": 437,
+      "heading": 66,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "CSH871",
+      "country": "China",
+      "lat": 52.5792,
+      "lon": 13.4608,
+      "altKm": 11.9,
+      "speedKmh": 927,
+      "heading": 212,
+      "vertRateMs": 0,
+      "airline": "Shanghai Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.5456,
-      "lon": 13.5625,
-      "altKm": 2.7,
-      "speedKmh": 528,
-      "heading": 86,
-      "vertRateMs": -6.8,
+      "lat": 52.4297,
+      "lon": 13.7479,
+      "altKm": 1.0,
+      "speedKmh": 348,
+      "heading": 249,
+      "vertRateMs": -5.5,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -16,7 +44,24 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.3817,
+      "lon": 13.5502,
+      "altKm": 10.5,
+      "speedKmh": 804,
+      "heading": 58,
+      "vertRateMs": 9.4,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-27T04:25:21.803358Z"
+  "updated_at": "2026-10-27T04:30:43.547059Z"
 }
