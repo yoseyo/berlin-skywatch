@@ -4606,17 +4606,6 @@
     },
     "checked_at": "2026-10-27T18:01:00.317228Z"
   },
-  "EJU5185": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Saint-Louis",
-      "toIata": "EAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-25T18:15:30.591851Z"
-  },
   "DLH7HM": {
     "route": {
       "fromCity": "Berlin",
@@ -4638,17 +4627,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-27T17:25:25.253987Z"
-  },
-  "BAW87AM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-25T18:15:30.591851Z"
   },
   "EWG8ZG": {
     "route": {
@@ -8153,7 +8131,7 @@
   },
   "VLG18GY": {
     "route": null,
-    "checked_at": "2026-10-26T16:20:33.934563Z"
+    "checked_at": "2026-10-27T18:15:33.844679Z"
   },
   "AUA22S": {
     "route": {
@@ -10650,5 +10628,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-27T18:10:34.037555Z"
+  },
+  "CTN4408": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-27T18:15:33.844679Z"
   }
 }
