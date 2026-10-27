@@ -1032,7 +1032,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-26T05:30:41.695831Z"
+    "checked_at": "2026-10-27T05:35:25.243775Z"
   },
   "KLM67B": {
     "route": {
@@ -2064,17 +2064,6 @@
     },
     "checked_at": "2026-10-26T16:05:25.990574Z"
   },
-  "QTR57W": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Doha",
-      "toIata": "DOH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-25T05:35:22.405406Z"
-  },
   "DLH3AF": {
     "route": {
       "fromCity": "Munich",
@@ -2085,17 +2074,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T05:30:41.695831Z"
-  },
-  "EWG8956": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-25T05:35:22.405406Z"
   },
   "RYR9RJ": {
     "route": {
@@ -11053,5 +11031,16 @@
   "EWG20P": {
     "route": null,
     "checked_at": "2026-10-27T05:25:24.053172Z"
+  },
+  "EWG1T": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-27T05:35:25.243775Z"
   }
 }
