@@ -4626,7 +4626,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T18:15:31.319620Z"
+    "checked_at": "2026-10-27T18:01:00.317228Z"
   },
   "EJU5185": {
     "route": {
@@ -10639,5 +10639,27 @@
   "SPAR75": {
     "route": null,
     "checked_at": "2026-10-27T17:55:25.218948Z"
+  },
+  "EJU56QD": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-27T18:01:00.317228Z"
+  },
+  "RYR9TA": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Ran\u00f3n",
+      "toIata": "OVD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-27T18:01:00.317228Z"
   }
 }
