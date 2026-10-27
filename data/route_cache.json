@@ -1249,7 +1249,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-25T12:50:30.220380Z"
+    "checked_at": "2026-10-27T12:40:33.631766Z"
   },
   "CFE61X": {
     "route": {
@@ -3394,17 +3394,6 @@
     },
     "checked_at": "2026-10-27T12:15:31.903442Z"
   },
-  "RYR41SQ": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-25T12:35:25.804532Z"
-  },
   "KLM29G": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -3415,29 +3404,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-26T12:20:30.916107Z"
-  },
-  "N33VC": {
-    "route": {
-      "fromCity": "New York",
-      "fromIata": "EWR",
-      "toCity": "Savannah",
-      "toIata": "SAV",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-25T12:35:25.804532Z"
-  },
-  "LUA790U": {
-    "route": null,
-    "checked_at": "2026-10-25T12:35:25.804532Z"
-  },
-  "VJH738": {
-    "route": null,
-    "checked_at": "2026-10-25T12:35:25.804532Z"
-  },
-  "EWG4LK": {
-    "route": null,
-    "checked_at": "2026-10-25T12:40:30.695140Z"
   },
   "EJU38WT": {
     "route": {
@@ -3459,7 +3425,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T13:45:31.461727Z"
+    "checked_at": "2026-10-27T12:40:33.631766Z"
   },
   "DLH9EP": {
     "route": {
@@ -3471,17 +3437,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-26T12:20:30.916107Z"
-  },
-  "HLF8868": {
-    "route": {
-      "fromCity": "Bangkok",
-      "fromIata": "BKK",
-      "toCity": "Yantai",
-      "toIata": "YNT",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-25T12:40:30.695140Z"
   },
   "TKJ3RB": {
     "route": {
@@ -3834,7 +3789,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-26T13:00:58.742699Z"
+    "checked_at": "2026-10-27T12:40:33.631766Z"
   },
   "NOZ1105": {
     "route": {
@@ -10929,5 +10884,27 @@
   "FHM4723": {
     "route": null,
     "checked_at": "2026-10-27T12:30:45.969222Z"
+  },
+  "DAL203": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "Delta Air Lines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-27T12:40:33.631766Z"
+  },
+  "WZZ15YR": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-27T12:40:33.631766Z"
   }
 }
