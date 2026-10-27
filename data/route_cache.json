@@ -1087,7 +1087,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-25T14:15:29.576592Z"
+    "checked_at": "2026-10-27T14:15:33.962732Z"
   },
   "SAS1665": {
     "route": {
@@ -3652,7 +3652,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-26T13:30:44.535580Z"
+    "checked_at": "2026-10-27T14:15:33.962732Z"
   },
   "AFR61ER": {
     "route": {
@@ -3764,17 +3764,6 @@
     },
     "checked_at": "2026-10-26T13:35:24.285260Z"
   },
-  "FSE1B": {
-    "route": {
-      "fromCity": "Lyon/Bron",
-      "fromIata": "LYN",
-      "toCity": "Bern",
-      "toIata": "BRN",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-25T14:15:29.576592Z"
-  },
   "RYR54WW": {
     "route": {
       "fromCity": "Tenerife",
@@ -3785,17 +3774,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-26T07:20:30.369231Z"
-  },
-  "CFG8TJ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-25T14:15:29.576592Z"
   },
   "DEXPE": {
     "route": null,
@@ -3829,7 +3807,7 @@
   },
   "EJU73NW": {
     "route": null,
-    "checked_at": "2026-10-26T15:00:59.146190Z"
+    "checked_at": "2026-10-27T14:15:33.962732Z"
   },
   "THY7KG": {
     "route": {
@@ -3895,7 +3873,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-25T14:35:22.191587Z"
+    "checked_at": "2026-10-27T14:15:33.962732Z"
   },
   "VLG76EN": {
     "route": {
@@ -3958,7 +3936,7 @@
   },
   "WMT7KX": {
     "route": null,
-    "checked_at": "2026-10-25T14:45:30.998552Z"
+    "checked_at": "2026-10-27T14:15:33.962732Z"
   },
   "DFBOX": {
     "route": {
@@ -10672,5 +10650,27 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-27T14:10:35.307095Z"
+  },
+  "RYR1571": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-27T14:15:33.962732Z"
+  },
+  "HOP61ER": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-27T14:15:33.962732Z"
   }
 }
