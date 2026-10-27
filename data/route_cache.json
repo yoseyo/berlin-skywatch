@@ -4941,17 +4941,6 @@
     "route": null,
     "checked_at": "2026-10-27T19:30:43.960435Z"
   },
-  "SAS77B": {
-    "route": {
-      "fromCity": "Palermo",
-      "fromIata": "PMO",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-25T19:50:30.901220Z"
-  },
   "WZZ1078": {
     "route": null,
     "checked_at": "2026-10-26T20:25:24.511312Z"
@@ -5266,7 +5255,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T19:50:33.644794Z"
+    "checked_at": "2026-10-27T19:50:31.853534Z"
   },
   "LOT285": {
     "route": {
@@ -5340,7 +5329,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-26T20:45:30.751454Z"
+    "checked_at": "2026-10-27T19:50:31.853534Z"
   },
   "EWG6PR": {
     "route": {
@@ -8070,7 +8059,7 @@
   },
   "VLG8TD": {
     "route": null,
-    "checked_at": "2026-10-26T17:30:44.864840Z"
+    "checked_at": "2026-10-27T19:50:31.853534Z"
   },
   "RYR457A": {
     "route": null,
@@ -10628,5 +10617,27 @@
   "RYR27QM": {
     "route": null,
     "checked_at": "2026-10-27T19:45:31.346475Z"
+  },
+  "WMT9PF": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-10-27T19:50:31.853534Z"
+  },
+  "CCA750": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Beijing",
+      "toIata": "PKX",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-27T19:50:31.853534Z"
   }
 }
