@@ -218,7 +218,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-26T21:00:54.243216Z"
+    "checked_at": "2026-10-27T21:00:54.349590Z"
   },
   "KLM27F": {
     "route": {
@@ -240,7 +240,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-26T21:30:44.511522Z"
+    "checked_at": "2026-10-27T21:00:54.349590Z"
   },
   "IBE0787": {
     "route": {
@@ -1430,17 +1430,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-26T17:20:31.654539Z"
-  },
-  "SAS47D": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-25T21:00:53.380008Z"
   },
   "SWR53Q": {
     "route": {
@@ -3072,7 +3061,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T20:45:30.751454Z"
+    "checked_at": "2026-10-27T21:00:54.349590Z"
   },
   "NSZ4505": {
     "route": {
@@ -5227,10 +5216,6 @@
     },
     "checked_at": "2026-10-26T13:55:25.230802Z"
   },
-  "EJU37CH": {
-    "route": null,
-    "checked_at": "2026-10-25T21:00:53.380008Z"
-  },
   "EWG7XK": {
     "route": {
       "fromCity": "Paris",
@@ -5241,10 +5226,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-27T20:15:32.815432Z"
-  },
-  "KMM377": {
-    "route": null,
-    "checked_at": "2026-10-25T21:00:53.380008Z"
   },
   "ELY2374": {
     "route": {
@@ -10624,5 +10605,16 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-27T20:40:33.396307Z"
+  },
+  "BTI4WA": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-27T21:00:54.349590Z"
   }
 }
