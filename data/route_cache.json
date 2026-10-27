@@ -4144,7 +4144,7 @@
   },
   "DEHGB": {
     "route": null,
-    "checked_at": "2026-10-26T11:25:23.443753Z"
+    "checked_at": "2026-10-27T16:45:33.498998Z"
   },
   "EZY32YZ": {
     "route": {
@@ -4288,24 +4288,9 @@
     "route": null,
     "checked_at": "2026-10-26T19:50:33.644794Z"
   },
-  "FIX004": {
-    "route": null,
-    "checked_at": "2026-10-25T16:45:29.230169Z"
-  },
   "LOT3EG": {
     "route": null,
     "checked_at": "2026-10-27T16:35:27.243592Z"
-  },
-  "AEE513": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-25T16:45:29.230169Z"
   },
   "DLH8CP": {
     "route": {
@@ -4364,7 +4349,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T16:40:37.438162Z"
+    "checked_at": "2026-10-27T16:45:33.498998Z"
   },
   "EJU91XM": {
     "route": {
@@ -10671,5 +10656,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-27T16:35:27.243592Z"
+  },
+  "RYR8602": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-27T16:45:33.498998Z"
   }
 }
