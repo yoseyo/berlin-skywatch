@@ -1752,7 +1752,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T13:10:34.509709Z"
+    "checked_at": "2026-10-27T12:55:25.384044Z"
   },
   "PGT1045": {
     "route": {
@@ -3465,7 +3465,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-26T12:55:52.663082Z"
+    "checked_at": "2026-10-27T12:55:25.384044Z"
   },
   "TKJ8QS": {
     "route": {
@@ -3488,32 +3488,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-27T12:30:45.969222Z"
-  },
-  "DLH9859": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-25T12:55:23.261898Z"
-  },
-  "DEPEW": {
-    "route": null,
-    "checked_at": "2026-10-25T12:55:23.261898Z"
-  },
-  "RYR66SM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-25T12:55:23.261898Z"
   },
   "NSZ4506": {
     "route": {
@@ -3620,7 +3594,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-26T14:05:25.190539Z"
+    "checked_at": "2026-10-27T12:55:25.384044Z"
   },
   "RYR13FY": {
     "route": {
@@ -10873,5 +10847,38 @@
   "JEI323": {
     "route": null,
     "checked_at": "2026-10-27T12:45:31.844145Z"
+  },
+  "DLH6LT": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-27T12:55:25.384044Z"
+  },
+  "DLH6EK": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-27T12:55:25.384044Z"
+  },
+  "RYR402": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-27T12:55:25.384044Z"
   }
 }
