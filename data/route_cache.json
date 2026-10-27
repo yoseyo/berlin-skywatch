@@ -308,17 +308,6 @@
     },
     "checked_at": "2026-10-27T06:05:26.330082Z"
   },
-  "NSZ8ML": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-25T08:05:23.479543Z"
-  },
   "DLH172": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -460,7 +449,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-26T08:10:30.999934Z"
+    "checked_at": "2026-10-27T08:05:26.060051Z"
   },
   "NOZ3JH": {
     "route": {
@@ -1781,7 +1770,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-26T08:00:53.204570Z"
+    "checked_at": "2026-10-27T08:05:26.060051Z"
   },
   "KLM38Z": {
     "route": {
@@ -2451,18 +2440,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-26T08:00:53.204570Z"
-  },
-  "LOT3PK": {
-    "route": {
-      "fromCity": "Miami",
-      "fromIata": "MIA",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-25T08:05:23.479543Z"
+    "checked_at": "2026-10-27T08:05:26.060051Z"
   },
   "CAI7RE": {
     "route": {
@@ -8207,7 +8185,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T08:00:53.204570Z"
+    "checked_at": "2026-10-27T08:05:26.060051Z"
   },
   "ELY2371": {
     "route": {
@@ -10889,5 +10867,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-27T08:00:53.253918Z"
+  },
+  "NSZ4ZE": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-27T08:05:26.060051Z"
+  },
+  "LOT403": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-27T08:05:26.060051Z"
+  },
+  "HBVAN": {
+    "route": null,
+    "checked_at": "2026-10-27T08:05:26.060051Z"
+  },
+  "DFCOC": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-27T08:05:26.060051Z"
   }
 }
