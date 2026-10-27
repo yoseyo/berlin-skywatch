@@ -185,7 +185,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-26T21:35:23.901305Z"
+    "checked_at": "2026-10-27T20:40:33.396307Z"
   },
   "BEL1ZK": {
     "route": {
@@ -1640,17 +1640,6 @@
     },
     "checked_at": "2026-10-26T12:55:52.663082Z"
   },
-  "SAS1830": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-25T20:40:33.199657Z"
-  },
   "DIETB": {
     "route": {
       "fromCity": "Warsaw",
@@ -2458,7 +2447,7 @@
   },
   "RYR13BV": {
     "route": null,
-    "checked_at": "2026-10-26T09:25:26.249611Z"
+    "checked_at": "2026-10-27T20:40:33.396307Z"
   },
   "RYR7SP": {
     "route": {
@@ -5175,46 +5164,9 @@
     },
     "checked_at": "2026-10-27T20:30:43.105267Z"
   },
-  "DLH892": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-25T20:35:25.545324Z"
-  },
   "RYR242G": {
     "route": null,
     "checked_at": "2026-10-27T10:50:33.562347Z"
-  },
-  "EWG8587": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-25T20:35:25.545324Z"
-  },
-  "SDR49JS": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-25T20:35:25.545324Z"
-  },
-  "LOT4MU": {
-    "route": null,
-    "checked_at": "2026-10-25T20:40:33.199657Z"
   },
   "SXS2LT": {
     "route": {
@@ -8367,7 +8319,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-26T20:30:44.285533Z"
+    "checked_at": "2026-10-27T20:40:33.396307Z"
   },
   "AFR55AQ": {
     "route": null,
@@ -10661,5 +10613,16 @@
   "SDR62DM": {
     "route": null,
     "checked_at": "2026-10-27T20:30:43.105267Z"
+  },
+  "LOT3ND": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-27T20:40:33.396307Z"
   }
 }
