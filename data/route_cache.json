@@ -97,7 +97,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-27T16:35:27.243592Z"
+    "checked_at": "2026-10-28T16:45:28.886452Z"
   },
   "KLM1780": {
     "route": {
@@ -889,7 +889,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-27T16:25:26.325351Z"
+    "checked_at": "2026-10-28T16:45:28.886452Z"
   },
   "KLM1782": {
     "route": {
@@ -1496,17 +1496,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-28T12:30:44.608411Z"
-  },
-  "KLM1316": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-26T16:40:37.438162Z"
   },
   "BTI3HK": {
     "route": {
@@ -2685,7 +2674,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-27T10:40:40.337940Z"
+    "checked_at": "2026-10-28T16:45:28.886452Z"
   },
   "NOZ1104": {
     "route": {
@@ -3463,7 +3452,7 @@
   },
   "TKJ1AV": {
     "route": null,
-    "checked_at": "2026-10-27T16:20:33.947745Z"
+    "checked_at": "2026-10-28T16:45:28.886452Z"
   },
   "RYR49KM": {
     "route": null,
@@ -3530,7 +3519,7 @@
   },
   "LOT3EG": {
     "route": null,
-    "checked_at": "2026-10-27T16:35:27.243592Z"
+    "checked_at": "2026-10-28T16:45:28.886452Z"
   },
   "DLH8CP": {
     "route": {
@@ -3630,7 +3619,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-27T16:40:32.641767Z"
+    "checked_at": "2026-10-28T16:45:28.886452Z"
   },
   "EJU89MC": {
     "route": {
@@ -9940,5 +9929,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-28T16:40:33.677123Z"
+  },
+  "EJU79NE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T16:45:28.886452Z"
   }
 }
