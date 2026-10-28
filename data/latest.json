@@ -1,23 +1,29 @@
 {
   "flights": [
     {
-      "callsign": "AEG6911",
-      "country": "Estonia",
-      "lat": 52.1721,
-      "lon": 12.8129,
-      "altKm": 5.6,
-      "speedKmh": 492,
-      "heading": 255,
+      "callsign": "KLM60M",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.1603,
+      "lon": 13.5058,
+      "altKm": 12.4,
+      "speedKmh": 810,
+      "heading": 277,
       "vertRateMs": 0,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
       "category": "plane"
     },
     {
       "callsign": "SAS80D",
       "country": "Ireland",
-      "lat": 52.1935,
-      "lon": 13.1281,
-      "altKm": 11.8,
-      "speedKmh": 858,
+      "lat": 52.8211,
+      "lon": 13.4386,
+      "altKm": 11.7,
+      "speedKmh": 861,
       "heading": 17,
       "vertRateMs": 0,
       "airline": "Scandinavian Airlines System",
@@ -29,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-28T22:45:29.385365Z"
+  "updated_at": "2026-10-28T22:50:34.565447Z"
 }
