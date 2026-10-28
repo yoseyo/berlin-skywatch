@@ -1,16 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.5191,
+      "lon": 13.5686,
+      "altKm": 0.2,
+      "speedKmh": 8,
+      "heading": 117,
+      "vertRateMs": 3.2,
+      "category": "plane"
+    },
+    {
       "callsign": "CHX71",
       "country": "Germany",
-      "lat": 52.4323,
-      "lon": 13.4975,
+      "lat": 52.4127,
+      "lon": 13.508,
       "altKm": 0.4,
-      "speedKmh": 201,
-      "heading": 161,
-      "vertRateMs": 0.3,
+      "speedKmh": 221,
+      "heading": 162,
+      "vertRateMs": 1.3,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-28T23:30:03.284268Z"
+  "updated_at": "2026-10-28T23:30:41.493072Z"
 }
