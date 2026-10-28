@@ -471,7 +471,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-27T09:40:34.003414Z"
+    "checked_at": "2026-10-28T09:40:32.609973Z"
   },
   "SAS85J": {
     "route": {
@@ -1106,7 +1106,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-27T09:30:43.644052Z"
+    "checked_at": "2026-10-28T09:40:32.609973Z"
   },
   "FIN3YX": {
     "route": {
@@ -2300,7 +2300,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-27T10:05:26.845835Z"
+    "checked_at": "2026-10-28T09:40:32.609973Z"
   },
   "EJU75ZF": {
     "route": {
@@ -3913,7 +3913,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T10:35:23.445198Z"
+    "checked_at": "2026-10-28T09:40:32.609973Z"
   },
   "FIN01AD": {
     "route": {
@@ -4723,10 +4723,6 @@
     "route": null,
     "checked_at": "2026-10-26T20:35:24.306645Z"
   },
-  "RYR37BD": {
-    "route": null,
-    "checked_at": "2026-10-26T09:40:31.371634Z"
-  },
   "BAW84PW": {
     "route": {
       "fromCity": "Warsaw",
@@ -4998,10 +4994,6 @@
   "RYR57BB": {
     "route": null,
     "checked_at": "2026-10-27T20:55:24.628945Z"
-  },
-  "EJU51XV": {
-    "route": null,
-    "checked_at": "2026-10-26T09:40:31.371634Z"
   },
   "EZY26YP": {
     "route": null,
@@ -5535,17 +5527,6 @@
   "PBB17": {
     "route": null,
     "checked_at": "2026-10-26T23:25:24.523825Z"
-  },
-  "DFCYW": {
-    "route": {
-      "fromCity": "Flensburg",
-      "fromIata": "FLF",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-26T09:40:31.371634Z"
   },
   "ELY2372": {
     "route": {
@@ -10220,5 +10201,9 @@
   "JFA43D": {
     "route": null,
     "checked_at": "2026-10-28T09:35:29.573952Z"
+  },
+  "HOP23TP": {
+    "route": null,
+    "checked_at": "2026-10-28T09:40:32.609973Z"
   }
 }
