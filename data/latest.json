@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-28T22:55:21.131387Z"
+  "flights": [
+    {
+      "callsign": "KLM73D",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.5247,
+      "lon": 13.5257,
+      "altKm": 12.0,
+      "speedKmh": 861,
+      "heading": 90,
+      "vertRateMs": 0,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-28T23:00:52.003354Z"
 }
