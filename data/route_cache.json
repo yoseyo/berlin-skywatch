@@ -1528,7 +1528,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-27T08:05:26.060051Z"
+    "checked_at": "2026-10-28T08:10:34.641810Z"
   },
   "KLM38Z": {
     "route": {
@@ -2007,17 +2007,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T07:50:33.790565Z"
-  },
-  "RYR67RH": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-26T08:10:30.999934Z"
   },
   "THY1CK": {
     "route": {
@@ -5470,7 +5459,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-27T07:55:26.509204Z"
+    "checked_at": "2026-10-28T08:10:34.641810Z"
   },
   "DMS2HR": {
     "route": {
@@ -9337,7 +9326,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-27T16:30:47.064954Z"
+    "checked_at": "2026-10-28T08:10:34.641810Z"
   },
   "FIN2K": {
     "route": {
@@ -10325,5 +10314,31 @@
   "LGL72D": {
     "route": null,
     "checked_at": "2026-10-28T08:00:54.982088Z"
+  },
+  "MGH391": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-28T08:10:34.641810Z"
+  },
+  "MMD6365": {
+    "route": null,
+    "checked_at": "2026-10-28T08:10:34.641810Z"
+  },
+  "DIGST": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Aarhus",
+      "toIata": "AAR",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-28T08:10:34.641810Z"
   }
 }
