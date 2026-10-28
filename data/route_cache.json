@@ -823,7 +823,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-27T20:45:31.285739Z"
+    "checked_at": "2026-10-28T20:35:23.665352Z"
   },
   "TAP532B": {
     "route": {
@@ -4212,7 +4212,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-27T19:50:31.853534Z"
+    "checked_at": "2026-10-28T20:35:23.665352Z"
   },
   "EWG6PR": {
     "route": {
@@ -4249,7 +4249,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-27T20:15:32.815432Z"
+    "checked_at": "2026-10-28T20:35:23.665352Z"
   },
   "LGL74BE": {
     "route": {
@@ -4382,10 +4382,6 @@
   "EJU97CN": {
     "route": null,
     "checked_at": "2026-10-27T09:10:33.410239Z"
-  },
-  "WZZ96CX": {
-    "route": null,
-    "checked_at": "2026-10-26T20:30:44.285533Z"
   },
   "BCS15N": {
     "route": {
@@ -5515,17 +5511,6 @@
   "LUA289S": {
     "route": null,
     "checked_at": "2026-10-27T14:40:35.989746Z"
-  },
-  "RYR798R": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-26T20:30:44.285533Z"
   },
   "UAE98V": {
     "route": {
@@ -7840,7 +7825,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-27T20:40:33.396307Z"
+    "checked_at": "2026-10-28T20:35:23.665352Z"
   },
   "BTI4WA": {
     "route": {
@@ -9985,5 +9970,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-28T20:30:44.123993Z"
+  },
+  "SAS2690": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-28T20:35:23.665352Z"
+  },
+  "FIN7KL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-28T20:35:23.665352Z"
   }
 }
