@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-28T01:00:52.823688Z"
+  "flights": [
+    {
+      "callsign": "PWF1966",
+      "country": "Germany",
+      "lat": 52.1757,
+      "lon": 13.3762,
+      "altKm": 0.7,
+      "speedKmh": 347,
+      "heading": 34,
+      "vertRateMs": -0.3,
+      "airline": "Private Wings Flugcharter",
+      "airlineCountry": "Germany",
+      "fromCity": "Mannheim",
+      "fromIata": "MHG",
+      "toCity": "Trebbin",
+      "toIata": null,
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-28T01:05:24.040807Z"
 }
