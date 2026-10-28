@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-28T05:10:32.245601Z"
+  "flights": [
+    {
+      "callsign": "EJU86XF",
+      "country": "Austria",
+      "lat": 52.3376,
+      "lon": 13.4474,
+      "altKm": 0.6,
+      "speedKmh": 320,
+      "heading": 237,
+      "vertRateMs": 11.1,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU45RT",
+      "country": "Austria",
+      "lat": 52.2531,
+      "lon": 13.289,
+      "altKm": 2.3,
+      "speedKmh": 468,
+      "heading": 229,
+      "vertRateMs": 18.2,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-28T05:15:30.146966Z"
 }
