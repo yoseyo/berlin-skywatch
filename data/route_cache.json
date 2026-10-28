@@ -5276,7 +5276,7 @@
   },
   "CHX64": {
     "route": null,
-    "checked_at": "2026-10-27T10:40:40.337940Z"
+    "checked_at": "2026-10-28T16:20:31.228420Z"
   },
   "CFE7026": {
     "route": {
@@ -5410,17 +5410,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-28T16:05:26.888263Z"
-  },
-  "KLM1341": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-26T16:15:30.467253Z"
   },
   "EWG8VT": {
     "route": {
@@ -9925,5 +9914,16 @@
   "CFG003": {
     "route": null,
     "checked_at": "2026-10-28T16:15:29.858911Z"
+  },
+  "BTI9AG": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-28T16:20:31.228420Z"
   }
 }
