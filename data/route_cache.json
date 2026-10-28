@@ -1260,7 +1260,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-27T12:35:25.623599Z"
+    "checked_at": "2026-10-28T12:30:44.608411Z"
   },
   "FIN79T": {
     "route": {
@@ -1506,7 +1506,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-26T12:45:30.319202Z"
+    "checked_at": "2026-10-28T12:30:44.608411Z"
   },
   "KLM1316": {
     "route": {
@@ -1907,7 +1907,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-27T12:35:25.623599Z"
+    "checked_at": "2026-10-28T12:30:44.608411Z"
   },
   "DLH3AA": {
     "route": {
@@ -2931,7 +2931,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-27T12:30:45.969222Z"
+    "checked_at": "2026-10-28T12:30:44.608411Z"
   },
   "NSZ4506": {
     "route": {
@@ -3844,7 +3844,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-27T12:30:45.969222Z"
+    "checked_at": "2026-10-28T12:30:44.608411Z"
   },
   "BEL2HJ": {
     "route": {
@@ -4329,7 +4329,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-26T12:45:30.319202Z"
+    "checked_at": "2026-10-28T12:30:44.608411Z"
   },
   "SXS659": {
     "route": {
@@ -5369,28 +5369,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T12:10:33.223458Z"
-  },
-  "LZB320": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "airlineName": "Bulgaria Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-26T12:30:12.785914Z"
-  },
-  "CAI4T": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-26T12:30:12.785914Z"
   },
   "EWG5YA": {
     "route": null,
@@ -10022,5 +10000,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-28T12:25:25.325701Z"
+  },
+  "EJU41VQ": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T12:30:44.608411Z"
+  },
+  "CCA446": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Jianyang, Chengdu",
+      "toIata": "TFU",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-28T12:30:44.608411Z"
   }
 }
