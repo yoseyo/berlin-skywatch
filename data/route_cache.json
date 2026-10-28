@@ -2773,7 +2773,7 @@
       "airlineName": "Shanxi Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-27T08:50:30.988681Z"
+    "checked_at": "2026-10-28T17:20:34.615823Z"
   },
   "SAS769": {
     "route": {
@@ -5448,17 +5448,6 @@
   "AOM339M": {
     "route": null,
     "checked_at": "2026-10-27T09:10:33.410239Z"
-  },
-  "SXS3ZX": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-26T17:20:31.654539Z"
   },
   "BTI6UN": {
     "route": {
@@ -9995,5 +9984,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-28T17:15:34.159150Z"
+  },
+  "LOT4TL": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "New York",
+      "toIata": "JFK",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-28T17:20:34.615823Z"
+  },
+  "EWG7EM": {
+    "route": {
+      "fromCity": "Baden-Baden",
+      "fromIata": "FKB",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T17:20:34.615823Z"
   }
 }
