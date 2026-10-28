@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-28T04:20:30.707048Z"
+  "flights": [
+    {
+      "callsign": "PGT1617",
+      "country": "Turkey",
+      "lat": 52.4212,
+      "lon": 13.9053,
+      "altKm": 1.5,
+      "speedKmh": 383,
+      "heading": 286,
+      "vertRateMs": -3.6,
+      "category": "plane"
+    },
+    {
+      "callsign": "UPS272",
+      "country": "United States",
+      "lat": 52.1376,
+      "lon": 13.6272,
+      "altKm": 9.7,
+      "speedKmh": 922,
+      "heading": 84,
+      "vertRateMs": 0,
+      "airline": "United Parcel Service",
+      "airlineCountry": "United States",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-28T04:25:24.228763Z"
 }
