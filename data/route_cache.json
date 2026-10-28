@@ -757,7 +757,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-26T18:15:31.319620Z"
+    "checked_at": "2026-10-28T18:00:55.151611Z"
   },
   "DLH2N": {
     "route": {
@@ -1021,7 +1021,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-27T18:05:27.132816Z"
+    "checked_at": "2026-10-28T18:00:55.151611Z"
   },
   "CFG552": {
     "route": null,
@@ -3867,7 +3867,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-27T17:50:36.815935Z"
+    "checked_at": "2026-10-28T18:00:55.151611Z"
   },
   "SWR9ZT": {
     "route": null,
@@ -5449,17 +5449,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-28T17:50:35.330621Z"
-  },
-  "BAW990G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-26T17:55:28.150376Z"
   },
   "WMT4011": {
     "route": null,
@@ -10014,5 +10003,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-28T17:55:24.336624Z"
+  },
+  "EWG8N": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T18:00:55.151611Z"
   }
 }
