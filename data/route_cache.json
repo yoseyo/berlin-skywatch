@@ -1984,7 +1984,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-26T07:35:22.178286Z"
+    "checked_at": "2026-10-28T07:25:27.047608Z"
   },
   "FIN7PE": {
     "route": {
@@ -5411,7 +5411,7 @@
   },
   "AUA991A": {
     "route": null,
-    "checked_at": "2026-10-27T07:30:44.485501Z"
+    "checked_at": "2026-10-28T07:25:27.047608Z"
   },
   "PGT97PB": {
     "route": {
@@ -10330,5 +10330,27 @@
   "EJU76VP": {
     "route": null,
     "checked_at": "2026-10-28T07:20:31.860180Z"
+  },
+  "EJU42DE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sta Cruz de la Palma, La Palma Island",
+      "toIata": "SPC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T07:25:27.047608Z"
+  },
+  "RYR217": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-28T07:25:27.047608Z"
   }
 }
