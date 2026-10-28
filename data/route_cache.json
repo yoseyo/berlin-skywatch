@@ -1282,7 +1282,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-27T18:40:32.736760Z"
+    "checked_at": "2026-10-28T18:40:35.830543Z"
   },
   "BBG271": {
     "route": {
@@ -5525,7 +5525,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-26T18:40:30.847003Z"
+    "checked_at": "2026-10-28T18:40:35.830543Z"
   },
   "RYR93VZ": {
     "route": {
@@ -5596,7 +5596,7 @@
   },
   "TVF97HA": {
     "route": null,
-    "checked_at": "2026-10-27T18:50:37.313287Z"
+    "checked_at": "2026-10-28T18:40:35.830543Z"
   },
   "BAW91J": {
     "route": {
@@ -9991,5 +9991,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-28T18:30:48.969865Z"
+  },
+  "QTR75T": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-28T18:40:35.830543Z"
+  },
+  "EWG4J": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T18:40:35.830543Z"
+  },
+  "BAW990G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-28T18:40:35.830543Z"
   }
 }
