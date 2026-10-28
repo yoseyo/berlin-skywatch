@@ -284,7 +284,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-27T06:05:26.330082Z"
+    "checked_at": "2026-10-28T06:10:32.366572Z"
   },
   "DLH172": {
     "route": {
@@ -1834,17 +1834,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-26T06:15:30.986533Z"
-  },
-  "SXS4AQ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-26T06:10:29.892309Z"
   },
   "EWG2UT": {
     "route": {
@@ -5389,17 +5378,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-27T05:55:23.217298Z"
-  },
-  "FIN4AN": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Gazipa\u015fa",
-      "toIata": "GZP",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-26T06:10:29.892309Z"
   },
   "CFG2DC": {
     "route": {
@@ -10377,5 +10355,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T05:35:24.042410Z"
+  },
+  "PGT95KW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-28T06:10:32.366572Z"
   }
 }
