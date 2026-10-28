@@ -2520,7 +2520,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-27T09:35:25.341459Z"
+    "checked_at": "2026-10-28T15:50:38.955346Z"
   },
   "BAW97ED": {
     "route": {
@@ -3399,7 +3399,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-27T15:40:34.079980Z"
+    "checked_at": "2026-10-28T15:50:38.955346Z"
   },
   "RYR69NL": {
     "route": null,
@@ -3447,7 +3447,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-27T15:55:28.209660Z"
+    "checked_at": "2026-10-28T15:50:38.955346Z"
   },
   "DEHGB": {
     "route": null,
@@ -5389,17 +5389,6 @@
     },
     "checked_at": "2026-10-28T10:35:25.704336Z"
   },
-  "CSN6041": {
-    "route": {
-      "fromCity": "\u00dcr\u00fcmqi",
-      "fromIata": "URC",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Southern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-26T15:46:08.842122Z"
-  },
   "CES787": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -5409,7 +5398,7 @@
       "airlineName": "China Eastern Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-27T15:35:26.552834Z"
+    "checked_at": "2026-10-28T15:50:38.955346Z"
   },
   "LOT6NK": {
     "route": {
@@ -5443,10 +5432,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T15:45:31.311379Z"
-  },
-  "EWG38HU": {
-    "route": null,
-    "checked_at": "2026-10-26T15:50:33.216729Z"
   },
   "CFG9YT": {
     "route": {
@@ -9877,5 +9862,27 @@
   "FSE1E": {
     "route": null,
     "checked_at": "2026-10-28T15:40:33.592561Z"
+  },
+  "WZZ80EN": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-28T15:50:38.955346Z"
+  },
+  "SWU1950": {
+    "route": {
+      "fromCity": "Bolzano",
+      "fromIata": "BZO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss European Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-10-28T15:50:38.955346Z"
   }
 }
