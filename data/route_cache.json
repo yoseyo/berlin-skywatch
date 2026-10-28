@@ -1453,17 +1453,6 @@
     },
     "checked_at": "2026-10-28T01:05:24.040807Z"
   },
-  "FHY1281": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-26T09:05:24.801993Z"
-  },
   "FHY1282": {
     "route": {
       "fromCity": "Berlin",
@@ -2269,10 +2258,6 @@
     },
     "checked_at": "2026-10-28T08:30:44.543460Z"
   },
-  "WUK3636": {
-    "route": null,
-    "checked_at": "2026-10-26T09:05:24.801993Z"
-  },
   "SWR7TA": {
     "route": {
       "fromCity": "Berlin",
@@ -2555,17 +2540,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-26T10:20:33.014957Z"
-  },
-  "RYR77LL": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Brno",
-      "toIata": "BRQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-26T09:05:24.801993Z"
   },
   "DLH1AE": {
     "route": {
@@ -5508,17 +5482,6 @@
   "GAF916": {
     "route": null,
     "checked_at": "2026-10-27T16:40:32.641767Z"
-  },
-  "CYZ257": {
-    "route": {
-      "fromCity": "Zhengzhou",
-      "fromIata": "CGO",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "China Postal Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-26T09:05:24.801993Z"
   },
   "RYR9UU": {
     "route": {
@@ -10302,5 +10265,31 @@
   "ATV302": {
     "route": null,
     "checked_at": "2026-10-28T09:00:58.271503Z"
+  },
+  "BTI4XH": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-28T09:05:28.747526Z"
+  },
+  "DFMDG": {
+    "route": null,
+    "checked_at": "2026-10-28T09:05:28.747526Z"
+  },
+  "SAS49L": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-28T09:05:28.747526Z"
   }
 }
