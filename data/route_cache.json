@@ -5470,7 +5470,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-27T07:50:33.245199Z"
+    "checked_at": "2026-10-28T07:55:25.668666Z"
   },
   "LOT286": {
     "route": {
@@ -10318,5 +10318,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-28T07:45:32.996453Z"
+  },
+  "RYR41SQ": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-28T07:55:25.668666Z"
+  },
+  "DFEFY": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "Bottrop-Kirchhellen",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-28T07:55:25.668666Z"
   }
 }
