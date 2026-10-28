@@ -7683,7 +7683,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-27T16:10:35.645666Z"
+    "checked_at": "2026-10-28T16:25:26.048943Z"
   },
   "GAF606": {
     "route": null,
@@ -9925,5 +9925,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-28T16:20:31.228420Z"
+  },
+  "EWG9045": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T16:25:26.048943Z"
+  },
+  "EWG8433": {
+    "route": {
+      "fromCity": "Bastia/Poretta",
+      "fromIata": "BIA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T16:25:26.048943Z"
   }
 }
