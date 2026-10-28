@@ -1,42 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.2139,
-      "lon": 13.6813,
-      "altKm": 6.6,
-      "speedKmh": 527,
-      "heading": 73,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.397,
-      "lon": 13.6083,
-      "altKm": 0.4,
-      "speedKmh": 234,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "EWG33B",
       "country": "Germany",
-      "lat": 52.4304,
-      "lon": 13.8305,
-      "altKm": 1.0,
-      "speedKmh": 348,
-      "heading": 251,
-      "vertRateMs": 1.0,
+      "lat": 52.3575,
+      "lon": 13.5189,
+      "altKm": 0.1,
+      "speedKmh": 240,
+      "heading": 249,
+      "vertRateMs": -2.6,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
       "fromCity": "Yerevan",
@@ -44,18 +16,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "EWG5YA",
-      "country": "Germany",
-      "lat": 52.186,
-      "lon": 13.1281,
-      "altKm": 3.8,
-      "speedKmh": 514,
-      "heading": 236,
-      "vertRateMs": 12.7,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-28T04:40:31.831672Z"
+  "updated_at": "2026-10-28T04:45:31.815966Z"
 }
