@@ -1205,7 +1205,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-27T12:35:25.623599Z"
+    "checked_at": "2026-10-28T12:50:34.181627Z"
   },
   "THY79K": {
     "route": {
@@ -1484,7 +1484,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-26T12:55:52.663082Z"
+    "checked_at": "2026-10-28T12:50:34.181627Z"
   },
   "DLH5N": {
     "route": {
@@ -5396,17 +5396,6 @@
     },
     "checked_at": "2026-10-27T12:50:33.323723Z"
   },
-  "CES5064": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Xi'an",
-      "toIata": "XIY",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-26T12:45:30.319202Z"
-  },
   "DBADO": {
     "route": {
       "fromCity": "Berlin",
@@ -5417,21 +5406,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-27T17:45:34.289120Z"
-  },
-  "TAP31EL": {
-    "route": null,
-    "checked_at": "2026-10-26T12:45:30.319202Z"
-  },
-  "NMA1140": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nesma Airlines",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-26T12:45:30.319202Z"
   },
   "SCR744": {
     "route": {
@@ -10078,5 +10052,16 @@
   "N701MG": {
     "route": null,
     "checked_at": "2026-10-28T12:45:29.907062Z"
+  },
+  "NSZ4GY": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-28T12:50:34.181627Z"
   }
 }
