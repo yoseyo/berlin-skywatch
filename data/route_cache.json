@@ -801,7 +801,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-27T20:45:31.285739Z"
+    "checked_at": "2026-10-28T20:40:32.155736Z"
   },
   "LOT4PJ": {
     "route": {
@@ -4061,10 +4061,6 @@
     },
     "checked_at": "2026-10-28T20:05:25.837538Z"
   },
-  "WMT7KQ": {
-    "route": null,
-    "checked_at": "2026-10-26T20:35:24.306645Z"
-  },
   "BAW84PW": {
     "route": {
       "fromCity": "Warsaw",
@@ -4130,7 +4126,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-27T20:15:32.815432Z"
+    "checked_at": "2026-10-28T20:40:32.155736Z"
   },
   "LOT1MZ": {
     "route": null,
@@ -4251,17 +4247,6 @@
     },
     "checked_at": "2026-10-28T20:35:23.665352Z"
   },
-  "LGL74BE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "Luxair",
-      "airlineCountry": "Luxembourg"
-    },
-    "checked_at": "2026-10-26T20:35:24.306645Z"
-  },
   "WZZ8282": {
     "route": {
       "fromCity": "Krak\u00f3w",
@@ -4272,10 +4257,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-28T14:30:47.140295Z"
-  },
-  "VLG1075": {
-    "route": null,
-    "checked_at": "2026-10-26T20:40:30.807660Z"
   },
   "RYR26NC": {
     "route": {
@@ -5523,14 +5504,6 @@
     },
     "checked_at": "2026-10-28T20:25:23.799997Z"
   },
-  "AFR55AQ": {
-    "route": null,
-    "checked_at": "2026-10-26T20:35:24.306645Z"
-  },
-  "EJU46KQ": {
-    "route": null,
-    "checked_at": "2026-10-26T20:35:24.306645Z"
-  },
   "THY3343": {
     "route": {
       "fromCity": "Bari",
@@ -5615,7 +5588,7 @@
   },
   "ADZ4106": {
     "route": null,
-    "checked_at": "2026-10-27T20:35:25.170839Z"
+    "checked_at": "2026-10-28T20:40:32.155736Z"
   },
   "EJU56MK": {
     "route": {
@@ -9992,5 +9965,27 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-28T20:35:23.665352Z"
+  },
+  "AUA237": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T20:40:32.155736Z"
+  },
+  "RYR4BP": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-28T20:40:32.155736Z"
   }
 }
