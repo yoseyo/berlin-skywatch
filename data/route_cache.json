@@ -229,7 +229,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-27T21:35:24.947213Z"
+    "checked_at": "2026-10-28T21:55:22.251058Z"
   },
   "KLM90J": {
     "route": {
@@ -2422,17 +2422,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T10:55:25.089959Z"
-  },
-  "EJU91JK": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-26T21:50:32.082800Z"
   },
   "EWG55H": {
     "route": {
@@ -10039,5 +10028,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T21:50:28.766767Z"
+  },
+  "EWG8677": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T21:55:22.251058Z"
+  },
+  "RYR58ER": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "CIA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-28T21:55:22.251058Z"
   }
 }
