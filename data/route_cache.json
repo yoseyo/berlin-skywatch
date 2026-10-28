@@ -1898,17 +1898,6 @@
     },
     "checked_at": "2026-10-28T08:15:31.305740Z"
   },
-  "RYR731D": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Beauvais",
-      "toIata": "BVA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-26T20:10:33.572987Z"
-  },
   "QTR5G": {
     "route": {
       "fromCity": "Doha",
@@ -3640,7 +3629,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-27T10:40:40.337940Z"
+    "checked_at": "2026-10-28T20:15:32.786134Z"
   },
   "SAS695": {
     "route": {
@@ -3926,7 +3915,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-27T19:45:31.346475Z"
+    "checked_at": "2026-10-28T20:15:32.786134Z"
   },
   "RYR252U": {
     "route": {
@@ -4146,17 +4135,6 @@
   "LOT1MZ": {
     "route": null,
     "checked_at": "2026-10-28T19:55:24.717854Z"
-  },
-  "BEL9NK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-10-26T20:15:30.942765Z"
   },
   "LOT4CT": {
     "route": null,
@@ -5533,21 +5511,6 @@
   "EWG7PJ": {
     "route": null,
     "checked_at": "2026-10-27T12:30:45.969222Z"
-  },
-  "SDR21RP": {
-    "route": null,
-    "checked_at": "2026-10-26T20:10:33.572987Z"
-  },
-  "CFG2EJ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-26T20:15:30.942765Z"
   },
   "LUA289S": {
     "route": null,
@@ -10011,5 +9974,27 @@
   "ASL60U": {
     "route": null,
     "checked_at": "2026-10-28T20:05:25.837538Z"
+  },
+  "CFG1CD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T20:15:32.786134Z"
+  },
+  "EWG65H": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T20:15:32.786134Z"
   }
 }
