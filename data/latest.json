@@ -1,25 +1,42 @@
 {
   "flights": [
     {
-      "callsign": "RYR69NL",
+      "callsign": "RYR27PY",
       "country": "Ireland",
-      "lat": 52.858,
-      "lon": 13.3488,
-      "altKm": 11.7,
-      "speedKmh": 822,
-      "heading": 266,
-      "vertRateMs": 0.3,
+      "lat": 52.2918,
+      "lon": 13.2021,
+      "altKm": 2.4,
+      "speedKmh": 521,
+      "heading": 200,
+      "vertRateMs": 11.7,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "category": "plane"
+    },
+    {
+      "callsign": "AFR17MD",
+      "country": "France",
+      "lat": 52.1272,
+      "lon": 13.3551,
+      "altKm": 4.0,
+      "speedKmh": 661,
+      "heading": 55,
+      "vertRateMs": -12.3,
       "category": "plane"
     },
     {
       "callsign": "DLH3X",
       "country": "Germany",
-      "lat": 52.2504,
-      "lon": 13.8468,
-      "altKm": 2.2,
-      "speedKmh": 515,
-      "heading": 13,
-      "vertRateMs": -10.1,
+      "lat": 52.4002,
+      "lon": 13.6228,
+      "altKm": 0.5,
+      "speedKmh": 246,
+      "heading": 249,
+      "vertRateMs": -3.9,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Munich",
@@ -27,24 +44,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "SWR9LC",
-      "country": "Switzerland",
-      "lat": 52.3764,
-      "lon": 13.5989,
-      "altKm": 0.4,
-      "speedKmh": 260,
-      "heading": 249,
-      "vertRateMs": -3.9,
-      "airline": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland",
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-28T21:20:31.128556Z"
+  "updated_at": "2026-10-28T21:25:24.706453Z"
 }
