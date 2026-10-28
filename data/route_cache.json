@@ -537,7 +537,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-27T10:50:33.562347Z"
+    "checked_at": "2026-10-28T10:40:33.246361Z"
   },
   "LOT7VJ": {
     "route": {
@@ -548,7 +548,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-27T10:35:25.603833Z"
+    "checked_at": "2026-10-28T10:40:33.246361Z"
   },
   "KLM1775": {
     "route": {
@@ -2528,7 +2528,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-27T10:45:31.985294Z"
+    "checked_at": "2026-10-28T10:40:33.246361Z"
   },
   "WUK7877": {
     "route": null,
@@ -6827,8 +6827,15 @@
     "checked_at": "2026-10-26T18:40:30.847003Z"
   },
   "RYR93VZ": {
-    "route": null,
-    "checked_at": "2026-10-26T18:45:30.511365Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-28T10:40:33.246361Z"
   },
   "THY11": {
     "route": {
@@ -10104,5 +10111,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T10:30:44.535729Z"
+  },
+  "CTN480": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-28T10:40:33.246361Z"
   }
 }
