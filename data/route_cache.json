@@ -1824,17 +1824,6 @@
     },
     "checked_at": "2026-10-27T05:10:30.224363Z"
   },
-  "EJU61YV": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Funchal",
-      "toIata": "FNC",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-26T06:15:30.986533Z"
-  },
   "EWG2UT": {
     "route": {
       "fromCity": "Hamburg",
@@ -5378,21 +5367,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-27T05:55:23.217298Z"
-  },
-  "CFG2DC": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-26T06:15:30.986533Z"
-  },
-  "EJU95HZ": {
-    "route": null,
-    "checked_at": "2026-10-26T06:15:30.986533Z"
   },
   "BTI7PY": {
     "route": {
@@ -10366,5 +10340,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-28T06:10:32.366572Z"
+  },
+  "EJU81RG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T06:15:34.088945Z"
+  },
+  "EJU53GP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T06:15:34.088945Z"
+  },
+  "SXS4AQ": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-28T06:15:34.088945Z"
   }
 }
