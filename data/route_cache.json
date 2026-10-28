@@ -3140,7 +3140,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-26T15:10:32.513086Z"
+    "checked_at": "2026-10-28T14:00:56.428801Z"
   },
   "DLH1EE": {
     "route": {
@@ -3166,7 +3166,7 @@
   },
   "WZZ692": {
     "route": null,
-    "checked_at": "2026-10-26T14:00:57.706281Z"
+    "checked_at": "2026-10-28T14:00:56.428801Z"
   },
   "WMT974": {
     "route": {
@@ -3377,7 +3377,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-27T14:10:35.307095Z"
+    "checked_at": "2026-10-28T14:00:56.428801Z"
   },
   "DLH3AJ": {
     "route": {
@@ -4599,17 +4599,6 @@
     "route": null,
     "checked_at": "2026-10-28T11:45:30.557647Z"
   },
-  "WZZ191": {
-    "route": {
-      "fromCity": "Ohrid",
-      "fromIata": "OHD",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-26T13:55:25.230802Z"
-  },
   "EWG7XK": {
     "route": {
       "fromCity": "Paris",
@@ -5428,10 +5417,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-28T13:25:24.391947Z"
-  },
-  "NJE979R": {
-    "route": null,
-    "checked_at": "2026-10-26T13:55:25.230802Z"
   },
   "EJU62UA": {
     "route": null,
@@ -10031,5 +10016,38 @@
   "EWG89KP": {
     "route": null,
     "checked_at": "2026-10-28T13:50:31.353805Z"
+  },
+  "AUA29B": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T14:00:56.428801Z"
+  },
+  "CFG5FE": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T14:00:56.428801Z"
+  },
+  "JDI85H": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-28T14:00:56.428801Z"
   }
 }
