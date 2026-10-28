@@ -1,16 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "AEG6911",
+      "country": "Estonia",
+      "lat": 52.3547,
+      "lon": 13.9834,
+      "altKm": 5.6,
+      "speedKmh": 481,
+      "heading": 256,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "CHX71",
       "country": "Germany",
-      "lat": 52.2108,
-      "lon": 13.5805,
+      "lat": 52.346,
+      "lon": 13.5089,
       "altKm": 0.5,
-      "speedKmh": 199,
-      "heading": 343,
-      "vertRateMs": 0.7,
+      "speedKmh": 201,
+      "heading": 340,
+      "vertRateMs": -0.3,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-10-28T22:30:45.974211Z"
+  "updated_at": "2026-10-28T22:35:22.767406Z"
 }
