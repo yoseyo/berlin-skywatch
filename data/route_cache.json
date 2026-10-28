@@ -2990,7 +2990,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-27T11:55:28.663408Z"
+    "checked_at": "2026-10-28T11:25:25.176991Z"
   },
   "WZZ9GN": {
     "route": {
@@ -4283,17 +4283,6 @@
     },
     "checked_at": "2026-10-27T18:30:46.812467Z"
   },
-  "EJU15KG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-26T11:25:23.443753Z"
-  },
   "RYR2FD": {
     "route": {
       "fromCity": "Dortmund",
@@ -4422,10 +4411,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-27T20:15:32.815432Z"
-  },
-  "EJU47EH": {
-    "route": null,
-    "checked_at": "2026-10-26T11:22:40.844976Z"
   },
   "SWR97G": {
     "route": null,
@@ -5407,10 +5392,6 @@
     },
     "checked_at": "2026-10-28T10:25:25.452034Z"
   },
-  "BPO505": {
-    "route": null,
-    "checked_at": "2026-10-26T11:22:40.844976Z"
-  },
   "THY9WJ": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -5421,25 +5402,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-27T11:00:55.204942Z"
-  },
-  "FIN66G": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-26T11:22:40.844976Z"
-  },
-  "RYR29SC": {
-    "route": null,
-    "checked_at": "2026-10-26T11:22:40.844976Z"
-  },
-  "N665JJ": {
-    "route": null,
-    "checked_at": "2026-10-26T11:25:23.443753Z"
   },
   "RYR47HV": {
     "route": {
@@ -10046,5 +10008,46 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-28T11:20:37.469143Z"
+  },
+  "DEEIR": {
+    "route": null,
+    "checked_at": "2026-10-28T11:25:25.176991Z"
+  },
+  "ETH3739": {
+    "route": {
+      "fromCity": "S\u00e3o Paulo",
+      "fromIata": "GRU",
+      "toCity": "Santiago",
+      "toIata": "SCL",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-28T11:25:25.176991Z"
+  },
+  "EJU32NT": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T11:25:25.176991Z"
+  },
+  "MOCNY": {
+    "route": null,
+    "checked_at": "2026-10-28T11:25:25.176991Z"
+  },
+  "RYR20XA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-28T11:25:25.176991Z"
   }
 }
