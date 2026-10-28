@@ -3849,7 +3849,7 @@
   },
   "AFR15VR": {
     "route": null,
-    "checked_at": "2026-10-27T19:10:34.822241Z"
+    "checked_at": "2026-10-28T21:35:29.780428Z"
   },
   "EWG31K": {
     "route": {
@@ -4264,7 +4264,7 @@
   },
   "SXS94C": {
     "route": null,
-    "checked_at": "2026-10-27T20:55:24.628945Z"
+    "checked_at": "2026-10-28T21:35:29.780428Z"
   },
   "SAS35E": {
     "route": null,
@@ -4291,7 +4291,7 @@
   },
   "EJU43LD": {
     "route": null,
-    "checked_at": "2026-10-27T21:30:42.215076Z"
+    "checked_at": "2026-10-28T21:35:29.780428Z"
   },
   "AFR17MD": {
     "route": null,
@@ -5518,14 +5518,6 @@
   "TVF14XF": {
     "route": null,
     "checked_at": "2026-10-28T20:00:52.215390Z"
-  },
-  "EJU73WR": {
-    "route": null,
-    "checked_at": "2026-10-26T21:35:23.901305Z"
-  },
-  "NJE485K": {
-    "route": null,
-    "checked_at": "2026-10-26T21:35:23.901305Z"
   },
   "ADZ4106": {
     "route": null,
@@ -10010,5 +10002,27 @@
   "EJU15QB": {
     "route": null,
     "checked_at": "2026-10-28T21:30:42.685178Z"
+  },
+  "AUA238N": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T21:35:29.780428Z"
+  },
+  "EJU84EP": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T21:35:29.780428Z"
   }
 }
