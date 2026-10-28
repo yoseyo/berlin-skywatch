@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-28T04:10:32.041893Z"
+  "flights": [
+    {
+      "callsign": "BCS9CG",
+      "country": "Ireland",
+      "lat": 52.4726,
+      "lon": 12.7104,
+      "altKm": 9.1,
+      "speedKmh": 948,
+      "heading": 23,
+      "vertRateMs": 7.8,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-28T04:15:29.527830Z"
 }
