@@ -2039,7 +2039,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-27T08:05:26.060051Z"
+    "checked_at": "2026-10-28T07:45:32.996453Z"
   },
   "CAI7RE": {
     "route": {
@@ -5446,10 +5446,6 @@
     },
     "checked_at": "2026-10-27T07:55:26.509204Z"
   },
-  "WZZ6801": {
-    "route": null,
-    "checked_at": "2026-10-26T07:45:32.400184Z"
-  },
   "RYR58HQ": {
     "route": null,
     "checked_at": "2026-10-27T21:25:25.757218Z"
@@ -8225,7 +8221,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-27T08:05:26.060051Z"
+    "checked_at": "2026-10-28T07:45:32.996453Z"
   },
   "HBVAN": {
     "route": null,
@@ -10326,5 +10322,16 @@
   "ATV301": {
     "route": null,
     "checked_at": "2026-10-28T07:40:33.619845Z"
+  },
+  "HOP1434": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-28T07:45:32.996453Z"
   }
 }
