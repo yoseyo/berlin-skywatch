@@ -1734,7 +1734,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-27T14:25:27.440462Z"
+    "checked_at": "2026-10-28T12:25:25.325701Z"
   },
   "UAG27G": {
     "route": null,
@@ -10000,5 +10000,27 @@
   "RYR79EY": {
     "route": null,
     "checked_at": "2026-10-28T12:20:31.694705Z"
+  },
+  "EJU48EZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Agadir (Temsia)",
+      "toIata": "AGA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-28T12:25:25.325701Z"
+  },
+  "CCA846": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-28T12:25:25.325701Z"
   }
 }
