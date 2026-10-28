@@ -691,7 +691,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-27T12:25:27.242774Z"
+    "checked_at": "2026-10-28T12:45:29.907062Z"
   },
   "SAS1678": {
     "route": {
@@ -2689,7 +2689,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-27T20:05:25.692895Z"
+    "checked_at": "2026-10-28T12:45:29.907062Z"
   },
   "BEL7PJ": {
     "route": {
@@ -2953,7 +2953,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-26T12:55:52.663082Z"
+    "checked_at": "2026-10-28T12:45:29.907062Z"
   },
   "EWG7HG": {
     "route": {
@@ -10041,5 +10041,42 @@
   "DIMIM": {
     "route": null,
     "checked_at": "2026-10-28T12:40:35.125880Z"
+  },
+  "KLM9935": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-10-28T12:45:29.907062Z"
+  },
+  "CTN481": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-28T12:45:29.907062Z"
+  },
+  "NMA739": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-28T12:45:29.907062Z"
+  },
+  "N701MG": {
+    "route": null,
+    "checked_at": "2026-10-28T12:45:29.907062Z"
   }
 }
