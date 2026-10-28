@@ -1,18 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "QTR33X",
-      "country": "Qatar",
-      "lat": 52.3848,
-      "lon": 13.6349,
-      "altKm": 0.5,
-      "speedKmh": 286,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "Qatar Airways",
-      "airlineCountry": "Qatar",
+      "callsign": "CFG553",
+      "country": "Germany",
+      "lat": 52.4586,
+      "lon": 13.9342,
+      "altKm": 1.3,
+      "speedKmh": 419,
+      "heading": 316,
+      "vertRateMs": -5.8,
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH3AF",
+      "country": "Italy",
+      "lat": 52.1624,
+      "lon": 14.0527,
+      "altKm": 11.2,
+      "speedKmh": 718,
+      "heading": 241,
+      "vertRateMs": 0.3,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-28T05:30:43.965143Z"
+  "updated_at": "2026-10-28T05:35:24.042410Z"
 }
