@@ -845,7 +845,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-26T21:20:30.923796Z"
+    "checked_at": "2026-10-28T20:55:25.141135Z"
   },
   "LOT6PA": {
     "route": {
@@ -3267,17 +3267,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T15:40:33.592561Z"
-  },
-  "EJU64BR": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-26T20:55:24.805106Z"
   },
   "DLH6T": {
     "route": {
@@ -7547,7 +7536,7 @@
   },
   "RYR15XN": {
     "route": null,
-    "checked_at": "2026-10-27T19:10:34.822241Z"
+    "checked_at": "2026-10-28T20:55:25.141135Z"
   },
   "BTI696": {
     "route": {
@@ -9991,5 +9980,38 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-10-28T20:50:39.069643Z"
+  },
+  "QTR2X": {
+    "route": {
+      "fromCity": "Atlanta",
+      "fromIata": "ATL",
+      "toCity": "Dallas-Fort Worth",
+      "toIata": "DFW",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-10-28T20:55:25.141135Z"
+  },
+  "HLF8868": {
+    "route": {
+      "fromCity": "Bangkok",
+      "fromIata": "BKK",
+      "toCity": "Yantai",
+      "toIata": "YNT",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-28T20:55:25.141135Z"
+  },
+  "RYR2WX": {
+    "route": {
+      "fromCity": "Newcastle",
+      "fromIata": "NCL",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-28T20:55:25.141135Z"
   }
 }
