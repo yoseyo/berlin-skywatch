@@ -636,7 +636,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-28T12:10:33.223458Z"
+    "checked_at": "2026-10-29T12:15:30.806084Z"
   },
   "SAS1677": {
     "route": {
@@ -669,7 +669,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-28T12:05:24.886812Z"
+    "checked_at": "2026-10-29T12:15:30.806084Z"
   },
   "MSR731": {
     "route": {
@@ -2542,7 +2542,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-28T11:55:24.701713Z"
+    "checked_at": "2026-10-29T12:15:30.806084Z"
   },
   "THY6EU": {
     "route": {
@@ -4674,7 +4674,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T12:05:24.886812Z"
+    "checked_at": "2026-10-29T12:15:30.806084Z"
   },
   "DLH1MF": {
     "route": {
@@ -10186,5 +10186,31 @@
   "GAF007": {
     "route": null,
     "checked_at": "2026-10-29T12:10:32.637120Z"
+  },
+  "EJU5009": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-29T12:15:30.806084Z"
+  },
+  "CHH490": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-29T12:15:30.806084Z"
+  },
+  "SDR24QM": {
+    "route": null,
+    "checked_at": "2026-10-29T12:15:30.806084Z"
   }
 }
