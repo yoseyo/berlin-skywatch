@@ -1514,7 +1514,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T14:40:36.627027Z"
+    "checked_at": "2026-10-29T06:50:33.080727Z"
   },
   "DLH2EE": {
     "route": {
@@ -4400,7 +4400,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-28T06:40:32.234501Z"
+    "checked_at": "2026-10-29T06:50:33.080727Z"
   },
   "EWG7KW": {
     "route": {
@@ -5489,17 +5489,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-28T11:10:33.749327Z"
-  },
-  "VKG818": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Espargos",
-      "toIata": "SID",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-27T06:45:30.065767Z"
   },
   "LHX4AE": {
     "route": {
@@ -9979,5 +9968,16 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-29T06:40:30.331960Z"
+  },
+  "DISAG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kuopio / Siilinj\u00e4rvi",
+      "toIata": "KUO",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-29T06:50:33.080727Z"
   }
 }
