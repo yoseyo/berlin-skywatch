@@ -394,7 +394,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T08:00:54.982088Z"
+    "checked_at": "2026-10-29T08:10:30.985188Z"
   },
   "DLH175": {
     "route": {
@@ -4584,7 +4584,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T08:15:31.305740Z"
+    "checked_at": "2026-10-29T08:10:30.985188Z"
   },
   "N222FC": {
     "route": {
@@ -5534,17 +5534,6 @@
     },
     "checked_at": "2026-10-28T10:15:31.885555Z"
   },
-  "NSZ4ZE": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-27T08:05:26.060051Z"
-  },
   "LOT403": {
     "route": {
       "fromCity": "Warsaw",
@@ -5602,7 +5591,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-27T08:20:33.114711Z"
+    "checked_at": "2026-10-29T08:10:30.985188Z"
   },
   "DFPOL": {
     "route": null,
@@ -10058,5 +10047,20 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-29T07:55:24.438836Z"
+  },
+  "SAS30H": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-29T08:10:30.985188Z"
+  },
+  "GAF614": {
+    "route": null,
+    "checked_at": "2026-10-29T08:10:30.985188Z"
   }
 }
