@@ -196,7 +196,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T21:10:31.159372Z"
+    "checked_at": "2026-10-29T21:20:30.787725Z"
   },
   "KLM27F": {
     "route": {
@@ -207,7 +207,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-28T21:05:25.390051Z"
+    "checked_at": "2026-10-29T21:20:30.787725Z"
   },
   "SWR9LC": {
     "route": {
@@ -5713,10 +5713,6 @@
     "route": null,
     "checked_at": "2026-10-29T21:10:32.279294Z"
   },
-  "RYR65TM": {
-    "route": null,
-    "checked_at": "2026-10-27T21:15:30.124992Z"
-  },
   "DHXFA": {
     "route": null,
     "checked_at": "2026-10-28T11:55:24.701713Z"
@@ -10686,5 +10682,16 @@
   "WZZ96CX": {
     "route": null,
     "checked_at": "2026-10-29T20:50:29.364644Z"
+  },
+  "SRN1987": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Sirair",
+      "airlineCountry": "Russia"
+    },
+    "checked_at": "2026-10-29T21:20:30.787725Z"
   }
 }
