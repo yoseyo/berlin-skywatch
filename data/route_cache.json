@@ -60,7 +60,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T15:00:55.015889Z"
+    "checked_at": "2026-10-29T15:00:58.540048Z"
   },
   "CHX82": {
     "route": null,
@@ -5511,17 +5511,6 @@
     },
     "checked_at": "2026-10-28T17:15:34.159150Z"
   },
-  "THY81D": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Boston",
-      "toIata": "BOS",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-27T15:00:58.297558Z"
-  },
   "DLH715": {
     "route": {
       "fromCity": "Tokyo",
@@ -10244,5 +10233,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T14:40:31.922485Z"
+  },
+  "PGT1046": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T15:00:58.540048Z"
+  },
+  "CSS101": {
+    "route": {
+      "fromCity": "Hangzhou",
+      "fromIata": "HGH",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "SF Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-29T15:00:58.540048Z"
+  },
+  "MSR760": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Cairo",
+      "toIata": "CAI",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-29T15:00:58.540048Z"
   }
 }
