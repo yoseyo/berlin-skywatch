@@ -1,20 +1,37 @@
 {
   "flights": [
     {
-      "callsign": "BCS15N",
+      "callsign": "EJU64QM",
       "country": "Austria",
-      "lat": 52.7055,
-      "lon": 13.9619,
-      "altKm": 10.8,
-      "speedKmh": 805,
-      "heading": 47,
+      "lat": 52.3456,
+      "lon": 13.4695,
+      "altKm": 0.3,
+      "speedKmh": 260,
+      "heading": 247,
+      "vertRateMs": 15.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    },
+    {
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.8129,
+      "lon": 13.8708,
+      "altKm": 3.2,
+      "speedKmh": 493,
+      "heading": 182,
       "vertRateMs": 0,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     },
     {
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T04:50:31.534167Z"
+  "updated_at": "2026-10-29T04:55:23.629513Z"
 }
