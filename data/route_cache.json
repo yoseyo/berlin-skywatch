@@ -823,7 +823,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-28T20:35:23.665352Z"
+    "checked_at": "2026-10-29T20:45:29.012883Z"
   },
   "TAP4BE": {
     "route": {
@@ -845,7 +845,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-28T19:45:31.647168Z"
+    "checked_at": "2026-10-29T20:45:29.012883Z"
   },
   "BAW844": {
     "route": {
@@ -10631,5 +10631,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T20:40:29.132267Z"
+  },
+  "CFG2FH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T20:45:29.012883Z"
+  },
+  "SXS42Q": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T20:45:29.012883Z"
   }
 }
