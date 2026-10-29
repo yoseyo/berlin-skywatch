@@ -3669,7 +3669,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-28T20:15:32.786134Z"
+    "checked_at": "2026-10-29T19:45:32.052064Z"
   },
   "SAS45C": {
     "route": null,
@@ -3684,7 +3684,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T19:38:37.725526Z"
+    "checked_at": "2026-10-29T19:45:32.052064Z"
   },
   "IBE07WB": {
     "route": {
@@ -3888,7 +3888,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T19:45:31.647168Z"
+    "checked_at": "2026-10-29T19:45:32.052064Z"
   },
   "LOT285": {
     "route": {
@@ -3922,17 +3922,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-28T20:35:23.665352Z"
-  },
-  "EWG6PR": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-27T19:40:33.039887Z"
   },
   "RYR5WM": {
     "route": {
@@ -5660,10 +5649,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-28T20:00:52.215390Z"
-  },
-  "RYR27QM": {
-    "route": null,
-    "checked_at": "2026-10-27T19:45:31.346475Z"
   },
   "WMT9PF": {
     "route": {
@@ -10576,5 +10561,27 @@
   "RYR37BD": {
     "route": null,
     "checked_at": "2026-10-29T19:40:31.328081Z"
+  },
+  "AUA25Y": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-29T19:45:32.052064Z"
+  },
+  "NOZ1125": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Troms\u00f8",
+      "toIata": "TOS",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-29T19:45:32.052064Z"
   }
 }
