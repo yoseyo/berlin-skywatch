@@ -3610,7 +3610,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T18:55:24.422161Z"
+    "checked_at": "2026-10-29T19:05:26.379893Z"
   },
   "BAW99XC": {
     "route": {
@@ -3706,7 +3706,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-10-28T18:55:24.422161Z"
+    "checked_at": "2026-10-29T19:05:26.379893Z"
   },
   "WZZ8KY": {
     "route": {
@@ -5622,11 +5622,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-27T19:01:02.211246Z"
-  },
-  "RYR535E": {
-    "route": null,
-    "checked_at": "2026-10-27T19:01:02.211246Z"
+    "checked_at": "2026-10-29T19:05:26.379893Z"
   },
   "WMT423B": {
     "route": null,
@@ -6236,7 +6232,7 @@
   },
   "EJU76VP": {
     "route": null,
-    "checked_at": "2026-10-28T07:20:31.860180Z"
+    "checked_at": "2026-10-29T19:05:26.379893Z"
   },
   "EJU42DE": {
     "route": {
@@ -7906,7 +7902,7 @@
   },
   "DLH3AW": {
     "route": null,
-    "checked_at": "2026-10-28T19:15:32.858857Z"
+    "checked_at": "2026-10-29T19:05:26.379893Z"
   },
   "CCA932": {
     "route": {
@@ -10521,5 +10517,38 @@
   "CEF578": {
     "route": null,
     "checked_at": "2026-10-29T19:00:54.672048Z"
+  },
+  "RYR2347": {
+    "route": {
+      "fromCity": "Newcastle",
+      "fromIata": "NCL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T19:05:26.379893Z"
+  },
+  "RYR206": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T19:05:26.379893Z"
+  },
+  "THY3331": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T19:05:26.379893Z"
   }
 }
