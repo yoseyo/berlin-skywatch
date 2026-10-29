@@ -3695,7 +3695,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-28T19:20:35.516803Z"
+    "checked_at": "2026-10-29T19:30:44.506068Z"
   },
   "LGL9473": {
     "route": {
@@ -4723,10 +4723,6 @@
     },
     "checked_at": "2026-10-29T15:45:32.240586Z"
   },
-  "EZS53ZG": {
-    "route": null,
-    "checked_at": "2026-10-27T19:25:26.943849Z"
-  },
   "FIN5DL": {
     "route": {
       "fromCity": "Helsinki",
@@ -5631,39 +5627,6 @@
   "RYR15XN": {
     "route": null,
     "checked_at": "2026-10-29T10:15:30.545652Z"
-  },
-  "EWG80P": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-27T19:25:26.943849Z"
-  },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-10-27T19:30:43.960435Z"
-  },
-  "CXI5C": {
-    "route": {
-      "fromCity": "Hannover",
-      "fromIata": "HAJ",
-      "toCity": "Lanzarote Island",
-      "toIata": "ACE",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-27T19:30:43.960435Z"
   },
   "FIN4NC": {
     "route": {
@@ -10594,5 +10557,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-29T19:25:24.572849Z"
+  },
+  "VLG22VF": {
+    "route": null,
+    "checked_at": "2026-10-29T19:30:44.506068Z"
+  },
+  "SDR44PT": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-29T19:30:44.506068Z"
+  },
+  "EZY54UH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-29T19:30:44.506068Z"
   }
 }
