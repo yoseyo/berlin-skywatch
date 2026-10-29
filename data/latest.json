@@ -1,54 +1,27 @@
 {
   "flights": [
     {
-      "callsign": "EJU91XM",
-      "country": "Austria",
-      "lat": 52.1727,
-      "lon": 13.2876,
-      "altKm": 3.7,
-      "speedKmh": 582,
-      "heading": 172,
-      "vertRateMs": 18.5,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
+      "callsign": "GAF840",
+      "country": "Germany",
+      "lat": 52.4482,
+      "lon": 13.1601,
+      "altKm": 3.1,
+      "speedKmh": 549,
+      "heading": 75,
+      "vertRateMs": -5.2,
       "category": "plane"
     },
     {
-      "callsign": "SAS23G",
-      "country": "Sweden",
-      "lat": 52.1447,
-      "lon": 13.8123,
-      "altKm": 11.7,
-      "speedKmh": 847,
-      "heading": 185,
-      "vertRateMs": 0,
-      "airline": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden",
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "category": "plane"
-    },
-    {
-      "callsign": "TAP53EI",
-      "country": "Portugal",
-      "lat": 52.209,
-      "lon": 12.9705,
-      "altKm": 5.2,
-      "speedKmh": 566,
-      "heading": 254,
-      "vertRateMs": 16.3,
-      "airline": "TAP Portugal",
-      "airlineCountry": "Portugal",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
+      "callsign": "DLH2EE",
+      "country": "Germany",
+      "lat": 52.324,
+      "lon": 13.4182,
+      "altKm": 0.8,
+      "speedKmh": 334,
+      "heading": 228,
+      "vertRateMs": 10.1,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
       "category": "plane"
     },
     {
@@ -69,5 +42,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T05:20:31.935648Z"
+  "updated_at": "2026-10-29T05:25:29.417606Z"
 }
