@@ -2476,7 +2476,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-28T12:00:54.323365Z"
+    "checked_at": "2026-10-29T12:00:53.693827Z"
   },
   "DLH184": {
     "route": {
@@ -4699,8 +4699,15 @@
     "checked_at": "2026-10-28T12:10:33.223458Z"
   },
   "EWG5YA": {
-    "route": null,
-    "checked_at": "2026-10-28T04:40:31.831672Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T12:00:53.693827Z"
   },
   "WZZ58": {
     "route": {
@@ -10145,5 +10152,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T11:55:23.623095Z"
+  },
+  "SAS1698": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-29T12:00:53.693827Z"
+  },
+  "EJU91JK": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-29T12:00:53.693827Z"
   }
 }
