@@ -1227,7 +1227,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-28T18:40:35.830543Z"
+    "checked_at": "2026-10-29T18:40:32.245165Z"
   },
   "BBG271": {
     "route": {
@@ -1264,7 +1264,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-28T16:10:33.790205Z"
+    "checked_at": "2026-10-29T18:40:32.245165Z"
   },
   "LOT3JK": {
     "route": {
@@ -5609,10 +5609,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-28T19:15:32.858857Z"
-  },
-  "DCDSO": {
-    "route": null,
-    "checked_at": "2026-10-27T18:35:27.019423Z"
   },
   "RYR4395": {
     "route": {
@@ -10499,5 +10495,60 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-29T18:35:24.097657Z"
+  },
+  "RYR7RF": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Zemunik (Zadar)",
+      "toIata": "ZAD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T18:40:32.245165Z"
+  },
+  "EZY43VA": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-29T18:40:32.245165Z"
+  },
+  "RYR41KP": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T18:40:32.245165Z"
+  },
+  "RYR920M": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T18:40:32.245165Z"
+  },
+  "RYR981G": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T18:40:32.245165Z"
   }
 }
