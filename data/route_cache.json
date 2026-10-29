@@ -2718,7 +2718,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T07:20:31.860180Z"
+    "checked_at": "2026-10-29T19:15:33.451181Z"
   },
   "RYR8CJ": {
     "route": {
@@ -3625,7 +3625,7 @@
   },
   "AFR15VR": {
     "route": null,
-    "checked_at": "2026-10-28T21:35:29.780428Z"
+    "checked_at": "2026-10-29T19:15:33.451181Z"
   },
   "EWG31K": {
     "route": {
@@ -3806,7 +3806,7 @@
   },
   "EWG4EJ": {
     "route": null,
-    "checked_at": "2026-10-27T19:40:33.039887Z"
+    "checked_at": "2026-10-29T19:15:33.451181Z"
   },
   "EJU93CP": {
     "route": null,
@@ -5628,35 +5628,9 @@
     "route": null,
     "checked_at": "2026-10-29T19:00:54.672048Z"
   },
-  "PGT68QQ": {
-    "route": null,
-    "checked_at": "2026-10-27T19:10:34.822241Z"
-  },
-  "EJU47TP": {
-    "route": {
-      "fromCity": "Luxembourg",
-      "fromIata": "LUX",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-27T19:10:34.822241Z"
-  },
   "RYR15XN": {
     "route": null,
     "checked_at": "2026-10-29T10:15:30.545652Z"
-  },
-  "BTI696": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-27T19:15:31.832265Z"
   },
   "EWG80P": {
     "route": {
@@ -8062,7 +8036,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T20:40:32.155736Z"
+    "checked_at": "2026-10-29T19:15:33.451181Z"
   },
   "RYR4BP": {
     "route": {
@@ -10561,5 +10535,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T19:10:31.638527Z"
+  },
+  "BTI3PR": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-29T19:15:33.451181Z"
   }
 }
