@@ -482,7 +482,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T09:25:26.762798Z"
+    "checked_at": "2026-10-29T09:25:23.732668Z"
   },
   "LOT4LV": {
     "route": {
@@ -911,7 +911,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-28T09:25:26.762798Z"
+    "checked_at": "2026-10-29T09:25:23.732668Z"
   },
   "TAP53ED": {
     "route": {
@@ -5349,7 +5349,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T14:18:47.625471Z"
+    "checked_at": "2026-10-29T09:25:23.732668Z"
   },
   "TVF14XF": {
     "route": null,
@@ -5566,10 +5566,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-28T11:30:47.063165Z"
-  },
-  "DMYHG": {
-    "route": null,
-    "checked_at": "2026-10-27T09:20:33.195960Z"
   },
   "SDR14ML": {
     "route": null,
@@ -6444,7 +6440,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-27T16:15:34.172005Z"
+    "checked_at": "2026-10-29T09:25:23.732668Z"
   },
   "RYR35BR": {
     "route": null,
@@ -9973,5 +9969,57 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-29T09:20:30.994344Z"
+  },
+  "AUA99J": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-29T09:25:23.732668Z"
+  },
+  "NSZ2040": {
+    "route": null,
+    "checked_at": "2026-10-29T09:25:23.732668Z"
+  },
+  "RYR4NJ": {
+    "route": {
+      "fromCity": "Verona",
+      "fromIata": "VRN",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T09:25:23.732668Z"
+  },
+  "DCPDC": {
+    "route": null,
+    "checked_at": "2026-10-29T09:25:23.732668Z"
+  },
+  "RYR77LL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T09:25:23.732668Z"
+  },
+  "AEE4773": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-29T09:25:23.732668Z"
   }
 }
