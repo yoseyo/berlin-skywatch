@@ -1683,7 +1683,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T05:15:30.146966Z"
+    "checked_at": "2026-10-29T13:00:57.021759Z"
   },
   "SXS28K": {
     "route": {
@@ -2674,7 +2674,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-28T13:01:00.573584Z"
+    "checked_at": "2026-10-29T13:00:57.021759Z"
   },
   "RYR13FY": {
     "route": {
@@ -5485,28 +5485,6 @@
   "RYR723D": {
     "route": null,
     "checked_at": "2026-10-28T14:30:47.140295Z"
-  },
-  "DLH6LT": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-27T12:55:25.384044Z"
-  },
-  "DLH6EK": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-27T12:55:25.384044Z"
   },
   "RYR402": {
     "route": {
@@ -10154,5 +10132,20 @@
   "BPO504": {
     "route": null,
     "checked_at": "2026-10-29T12:55:24.351642Z"
+  },
+  "DUKE61": {
+    "route": null,
+    "checked_at": "2026-10-29T13:00:57.021759Z"
+  },
+  "EWG8905": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T13:00:57.021759Z"
   }
 }
