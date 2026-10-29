@@ -1885,7 +1885,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T08:05:31.134306Z"
+    "checked_at": "2026-10-29T08:20:30.631246Z"
   },
   "RYR7YR": {
     "route": {
@@ -4518,7 +4518,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-28T07:55:25.668666Z"
+    "checked_at": "2026-10-29T08:20:30.631246Z"
   },
   "LOT286": {
     "route": {
@@ -5548,17 +5548,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-28T09:15:30.315435Z"
-  },
-  "MGH261": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-27T08:15:32.667751Z"
   },
   "EWG5M": {
     "route": {
@@ -10062,5 +10051,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-29T08:15:31.321818Z"
+  },
+  "TVF10NK": {
+    "route": null,
+    "checked_at": "2026-10-29T08:20:30.631246Z"
+  },
+  "PGT982": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T08:20:30.631246Z"
+  },
+  "CFG8JC": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T08:20:30.631246Z"
+  },
+  "DUKE60": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Constan\u0163a",
+      "toIata": "CND",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-29T08:20:30.631246Z"
   }
 }
