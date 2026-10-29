@@ -988,7 +988,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-28T18:00:55.151611Z"
+    "checked_at": "2026-10-29T18:05:28.051229Z"
   },
   "CFG552": {
     "route": null,
@@ -3524,7 +3524,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-28T17:35:26.136401Z"
+    "checked_at": "2026-10-29T18:05:28.051229Z"
   },
   "RYR48MN": {
     "route": {
@@ -10425,5 +10425,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T17:55:25.550870Z"
+  },
+  "BTI48D": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-29T18:05:28.051229Z"
+  },
+  "RYR7664": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T18:05:28.051229Z"
+  },
+  "EWG8MF": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T18:05:28.051229Z"
   }
 }
