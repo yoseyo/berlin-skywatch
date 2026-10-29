@@ -1,48 +1,37 @@
 {
   "flights": [
     {
-      "callsign": "THY4QH",
-      "country": "Turkey",
-      "lat": 52.2211,
-      "lon": 13.6249,
-      "altKm": 3.6,
-      "speedKmh": 648,
-      "heading": 89,
-      "vertRateMs": 10.7,
-      "airline": "Turkish Airlines",
-      "airlineCountry": "Turkey",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "category": "plane"
-    },
-    {
-      "callsign": "CFG553",
-      "country": "Germany",
-      "lat": 52.4193,
-      "lon": 13.7037,
-      "altKm": 0.8,
-      "speedKmh": 311,
-      "heading": 249,
-      "vertRateMs": -4.9,
-      "category": "plane"
-    },
-    {
       "callsign": "BAW8RM",
       "country": "United Kingdom",
-      "lat": 52.3453,
-      "lon": 13.4684,
-      "altKm": 0.5,
-      "speedKmh": 273,
-      "heading": 248,
-      "vertRateMs": 13.7,
+      "lat": 52.2915,
+      "lon": 12.9865,
+      "altKm": 4.9,
+      "speedKmh": 553,
+      "heading": 274,
+      "vertRateMs": 15.3,
       "airline": "British Airways",
       "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
       "fromIata": "BER",
       "toCity": "London",
       "toIata": "LHR",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS9YV",
+      "country": "Turkey",
+      "lat": 52.2105,
+      "lon": 14.071,
+      "altKm": 3.0,
+      "speedKmh": 487,
+      "heading": 342,
+      "vertRateMs": -6.2,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     },
     {
@@ -61,31 +50,7 @@
       "toCity": "Barcelona",
       "toIata": "BCN",
       "category": "plane"
-    },
-    {
-      "callsign": "EWG5PG",
-      "country": "Germany",
-      "lat": 52.2865,
-      "lon": 13.3507,
-      "altKm": 2.1,
-      "speedKmh": 447,
-      "heading": 228,
-      "vertRateMs": 20.2,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
-      "callsign": "SDR24PB",
-      "country": "Germany",
-      "lat": 52.2221,
-      "lon": 13.2693,
-      "altKm": 2.0,
-      "speedKmh": 515,
-      "heading": 177,
-      "vertRateMs": 8.1,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T05:40:31.609860Z"
+  "updated_at": "2026-10-29T05:45:28.495901Z"
 }
