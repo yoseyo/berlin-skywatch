@@ -504,7 +504,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T10:30:44.535729Z"
+    "checked_at": "2026-10-29T10:40:32.507189Z"
   },
   "LOT266": {
     "route": {
@@ -537,7 +537,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-28T10:40:33.246361Z"
+    "checked_at": "2026-10-29T10:40:32.507189Z"
   },
   "KLM1775": {
     "route": {
@@ -1352,7 +1352,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-10-27T10:40:40.337940Z"
+    "checked_at": "2026-10-29T10:40:32.507189Z"
   },
   "LOT2LP": {
     "route": {
@@ -5571,17 +5571,6 @@
     },
     "checked_at": "2026-10-29T10:20:32.609739Z"
   },
-  "LOT5ED": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-27T10:35:25.603833Z"
-  },
   "DEMDE": {
     "route": null,
     "checked_at": "2026-10-27T10:40:40.337940Z"
@@ -6441,8 +6430,15 @@
     "checked_at": "2026-10-27T17:00:58.861710Z"
   },
   "WZZ4861": {
-    "route": null,
-    "checked_at": "2026-10-27T17:15:33.497099Z"
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-29T10:40:32.507189Z"
   },
   "TVS467P": {
     "route": {
@@ -10083,5 +10079,31 @@
   "GAF010": {
     "route": null,
     "checked_at": "2026-10-29T10:30:43.513075Z"
+  },
+  "LOT6EA": {
+    "route": {
+      "fromCity": "Goleniow",
+      "fromIata": "SZZ",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-29T10:40:32.507189Z"
+  },
+  "DEXPE": {
+    "route": null,
+    "checked_at": "2026-10-29T10:40:32.507189Z"
+  },
+  "EJU9040": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-29T10:40:32.507189Z"
   }
 }
