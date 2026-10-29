@@ -1363,7 +1363,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-28T10:25:25.452034Z"
+    "checked_at": "2026-10-29T10:45:31.274834Z"
   },
   "BEL9CK": {
     "route": {
@@ -2179,7 +2179,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T09:25:26.762798Z"
+    "checked_at": "2026-10-29T10:45:31.274834Z"
   },
   "BAW975R": {
     "route": {
@@ -2224,17 +2224,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-29T10:15:30.545652Z"
-  },
-  "SXS9EF": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-27T10:40:40.337940Z"
   },
   "IBE07AZ": {
     "route": {
@@ -5570,21 +5559,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-29T10:20:32.609739Z"
-  },
-  "DEMDE": {
-    "route": null,
-    "checked_at": "2026-10-27T10:40:40.337940Z"
-  },
-  "N127SR": {
-    "route": {
-      "fromCity": "We\u00dfling",
-      "fromIata": "OBF",
-      "toCity": "We\u00dfling",
-      "toIata": "OBF",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-27T10:40:40.337940Z"
   },
   "ETD3MB": {
     "route": {
@@ -10105,5 +10079,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T10:40:32.507189Z"
+  },
+  "ICE14T": {
+    "route": {
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Icelandair",
+      "airlineCountry": "Iceland"
+    },
+    "checked_at": "2026-10-29T10:45:31.274834Z"
   }
 }
