@@ -2696,7 +2696,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T13:01:00.573584Z"
+    "checked_at": "2026-10-29T13:15:30.358227Z"
   },
   "SXS97P": {
     "route": {
@@ -2762,7 +2762,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-27T14:15:33.962732Z"
+    "checked_at": "2026-10-29T13:15:30.358227Z"
   },
   "EJU41RC": {
     "route": {
@@ -10159,5 +10159,27 @@
   "RYR212X": {
     "route": null,
     "checked_at": "2026-10-29T13:10:32.422127Z"
+  },
+  "NSZ89C": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-29T13:15:30.358227Z"
+  },
+  "EJU41NG": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-29T13:15:30.358227Z"
   }
 }
