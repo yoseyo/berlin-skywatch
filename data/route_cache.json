@@ -2399,7 +2399,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T10:45:30.309355Z"
+    "checked_at": "2026-10-29T11:50:31.666294Z"
   },
   "EWG83W": {
     "route": {
@@ -2861,7 +2861,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-28T11:55:24.701713Z"
+    "checked_at": "2026-10-29T11:50:31.666294Z"
   },
   "DLH187": {
     "route": {
@@ -3873,17 +3873,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-29T11:00:58.614682Z"
-  },
-  "RYR2PM": {
-    "route": {
-      "fromCity": "Bucharest",
-      "fromIata": "OTP",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-27T11:45:36.579653Z"
   },
   "RYR3NR": {
     "route": {
@@ -5544,10 +5533,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T11:05:25.321898Z"
-  },
-  "NJE107G": {
-    "route": null,
-    "checked_at": "2026-10-27T11:45:36.579653Z"
   },
   "R72100": {
     "route": null,
@@ -10120,5 +10105,31 @@
   "DMFLX": {
     "route": null,
     "checked_at": "2026-10-29T11:45:32.280443Z"
+  },
+  "GAC018E": {
+    "route": null,
+    "checked_at": "2026-10-29T11:50:31.666294Z"
+  },
+  "PGT61YY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T11:50:31.666294Z"
+  },
+  "RYR252U": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T11:50:31.666294Z"
   }
 }
