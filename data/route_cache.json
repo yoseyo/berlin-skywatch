@@ -2410,7 +2410,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-27T21:00:54.349590Z"
+    "checked_at": "2026-10-29T11:40:32.051456Z"
   },
   "NSZ4505": {
     "route": {
@@ -4675,10 +4675,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-29T10:20:32.609739Z"
-  },
-  "DEDLJ": {
-    "route": null,
-    "checked_at": "2026-10-27T11:35:27.167020Z"
   },
   "DLH4AL": {
     "route": {
@@ -10090,5 +10086,35 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-29T11:35:23.182622Z"
+  },
+  "BPO601": {
+    "route": null,
+    "checked_at": "2026-10-29T11:40:32.051456Z"
+  },
+  "CTM2088": {
+    "route": null,
+    "checked_at": "2026-10-29T11:40:32.051456Z"
+  },
+  "FIN4LK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-29T11:40:32.051456Z"
+  },
+  "DMKDT": {
+    "route": {
+      "fromCity": "Strausberg",
+      "fromIata": null,
+      "toCity": "Strausberg",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-29T11:40:32.051456Z"
   }
 }
