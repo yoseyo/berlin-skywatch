@@ -1,27 +1,44 @@
 {
   "flights": [
     {
-      "callsign": "GAF840",
-      "country": "Germany",
-      "lat": 52.4482,
-      "lon": 13.1601,
-      "altKm": 3.1,
-      "speedKmh": 549,
-      "heading": 75,
-      "vertRateMs": -5.2,
+      "callsign": "EJU41VQ",
+      "country": "Austria",
+      "lat": 52.2936,
+      "lon": 13.3635,
+      "altKm": 1.5,
+      "speedKmh": 421,
+      "heading": 228,
+      "vertRateMs": 16.6,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
       "category": "plane"
     },
     {
-      "callsign": "DLH2EE",
+      "callsign": "EJU63ME",
+      "country": "Austria",
+      "lat": 52.3505,
+      "lon": 13.4896,
+      "altKm": 0.1,
+      "speedKmh": 250,
+      "heading": 249,
+      "vertRateMs": 0.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "category": "plane"
+    },
+    {
+      "callsign": "GAF840",
       "country": "Germany",
-      "lat": 52.324,
-      "lon": 13.4182,
-      "altKm": 0.8,
-      "speedKmh": 334,
-      "heading": 228,
-      "vertRateMs": 10.1,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
+      "lat": 52.534,
+      "lon": 13.8083,
+      "altKm": 1.5,
+      "speedKmh": 462,
+      "heading": 130,
+      "vertRateMs": -3.9,
       "category": "plane"
     },
     {
@@ -40,7 +57,24 @@
       "toCity": "Barcelona",
       "toIata": "BCN",
       "category": "plane"
+    },
+    {
+      "callsign": "DLH3AF",
+      "country": "Italy",
+      "lat": 52.2804,
+      "lon": 13.9034,
+      "altKm": 10.5,
+      "speedKmh": 801,
+      "heading": 242,
+      "vertRateMs": 4.2,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T05:25:29.417606Z"
+  "updated_at": "2026-10-29T05:30:41.354771Z"
 }
