@@ -10302,5 +10302,27 @@
   "HOP82RB": {
     "route": null,
     "checked_at": "2026-10-29T16:00:57.538248Z"
+  },
+  "DLH4CY": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T16:05:25.234085Z"
+  },
+  "CFG4LU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T16:05:25.234085Z"
   }
 }
