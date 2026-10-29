@@ -1084,7 +1084,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-27T13:00:56.882526Z"
+    "checked_at": "2026-10-29T12:55:24.351642Z"
   },
   "SAS2677": {
     "route": {
@@ -1440,7 +1440,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-28T12:30:44.608411Z"
+    "checked_at": "2026-10-29T12:55:24.351642Z"
   },
   "EWG2JM": {
     "route": null,
@@ -2608,7 +2608,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-28T16:10:33.790205Z"
+    "checked_at": "2026-10-29T12:55:24.351642Z"
   },
   "TKJ8QS": {
     "route": {
@@ -2795,7 +2795,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T12:55:24.602510Z"
+    "checked_at": "2026-10-29T12:55:24.351642Z"
   },
   "SXS7KG": {
     "route": {
@@ -4676,17 +4676,6 @@
     },
     "checked_at": "2026-10-28T12:35:25.792662Z"
   },
-  "ISR254": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-27T12:50:33.323723Z"
-  },
   "DBADO": {
     "route": {
       "fromCity": "Berlin",
@@ -5067,7 +5056,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T13:45:35.153245Z"
+    "checked_at": "2026-10-29T12:55:24.351642Z"
   },
   "RAM222B": {
     "route": {
@@ -10150,5 +10139,20 @@
   "BPO515": {
     "route": null,
     "checked_at": "2026-10-29T12:50:33.265170Z"
+  },
+  "SEH874": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-29T12:55:24.351642Z"
+  },
+  "BPO504": {
+    "route": null,
+    "checked_at": "2026-10-29T12:55:24.351642Z"
   }
 }
