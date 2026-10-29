@@ -163,7 +163,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-27T18:35:27.019423Z"
+    "checked_at": "2026-10-29T18:30:44.209150Z"
   },
   "KLC1335": {
     "route": {
@@ -10462,5 +10462,31 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-29T18:25:25.841718Z"
+  },
+  "RYR3EA": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T18:30:44.209150Z"
+  },
+  "CCA936": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-29T18:30:44.209150Z"
+  },
+  "RYR161K": {
+    "route": null,
+    "checked_at": "2026-10-29T18:30:44.209150Z"
   }
 }
