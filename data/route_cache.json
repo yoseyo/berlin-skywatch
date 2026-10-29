@@ -3179,7 +3179,7 @@
   },
   "EWG8EV": {
     "route": null,
-    "checked_at": "2026-10-28T16:15:29.858911Z"
+    "checked_at": "2026-10-29T16:25:25.101907Z"
   },
   "RYR4LZ": {
     "route": null,
@@ -4844,7 +4844,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T16:50:31.891742Z"
+    "checked_at": "2026-10-29T16:25:25.101907Z"
   },
   "EJU48HQ": {
     "route": {
@@ -7801,7 +7801,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-28T16:20:31.228420Z"
+    "checked_at": "2026-10-29T16:25:25.101907Z"
   },
   "EWG9045": {
     "route": {
@@ -10291,5 +10291,49 @@
   "JBC697D": {
     "route": null,
     "checked_at": "2026-10-29T16:20:34.503665Z"
+  },
+  "DIMTP": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "M\u00f6nchengladbach",
+      "toIata": "MGL",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-29T16:25:25.101907Z"
+  },
+  "DLH9AC": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T16:25:25.101907Z"
+  },
+  "RYR245D": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T16:25:25.101907Z"
+  },
+  "WZZ8MD": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-29T16:25:25.101907Z"
   }
 }
