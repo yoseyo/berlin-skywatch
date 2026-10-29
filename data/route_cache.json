@@ -2245,7 +2245,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-28T07:40:33.619845Z"
+    "checked_at": "2026-10-29T17:50:34.883961Z"
   },
   "TKJ2BK": {
     "route": {
@@ -3435,7 +3435,7 @@
   },
   "AFR13RC": {
     "route": null,
-    "checked_at": "2026-10-28T20:10:31.983442Z"
+    "checked_at": "2026-10-29T17:50:34.883961Z"
   },
   "RYR5RG": {
     "route": {
@@ -4487,17 +4487,6 @@
     "route": null,
     "checked_at": "2026-10-28T21:30:42.685178Z"
   },
-  "RYR55SQ": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-27T17:45:34.289120Z"
-  },
   "KLM75C": {
     "route": {
       "fromCity": "Amsterdam",
@@ -4593,17 +4582,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-28T12:35:25.792662Z"
-  },
-  "DBADO": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Mannheim",
-      "toIata": "MHG",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-27T17:45:34.289120Z"
   },
   "CHX49": {
     "route": null,
@@ -4911,7 +4889,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-28T17:50:35.330621Z"
+    "checked_at": "2026-10-29T17:50:34.883961Z"
   },
   "DLH2CE": {
     "route": {
@@ -5638,17 +5616,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-28T17:40:34.032674Z"
-  },
-  "EWG56F": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-27T17:45:34.289120Z"
   },
   "CXI1H": {
     "route": null,
@@ -10425,5 +10392,42 @@
   "ATV403": {
     "route": null,
     "checked_at": "2026-10-29T17:40:33.650242Z"
+  },
+  "ENT8RW": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-29T17:50:34.883961Z"
+  },
+  "RYR57ED": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Rzesz\u00f3w",
+      "toIata": "RZE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T17:50:34.883961Z"
+  },
+  "SXS3ZX": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T17:50:34.883961Z"
+  },
+  "RYR63RV": {
+    "route": null,
+    "checked_at": "2026-10-29T17:50:34.883961Z"
   }
 }
