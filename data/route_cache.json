@@ -3780,7 +3780,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T20:05:25.837538Z"
+    "checked_at": "2026-10-29T20:20:33.899157Z"
   },
   "BAW84PW": {
     "route": {
@@ -5660,17 +5660,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T18:35:24.097657Z"
-  },
-  "RYR6DA": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-27T20:15:32.815432Z"
   },
   "LGL9A": {
     "route": {
@@ -10584,5 +10573,27 @@
   "RYR70HH": {
     "route": null,
     "checked_at": "2026-10-29T20:15:31.007697Z"
+  },
+  "THY6BV": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T20:20:33.899157Z"
+  },
+  "RYR33CC": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T20:20:33.899157Z"
   }
 }
