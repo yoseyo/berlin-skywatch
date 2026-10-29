@@ -592,7 +592,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T11:15:32.470118Z"
+    "checked_at": "2026-10-29T11:15:31.380412Z"
   },
   "FIN50M": {
     "route": {
@@ -625,7 +625,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-28T11:10:33.749327Z"
+    "checked_at": "2026-10-29T11:15:31.380412Z"
   },
   "KLC21A": {
     "route": {
@@ -1635,7 +1635,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T12:25:25.325701Z"
+    "checked_at": "2026-10-29T11:15:31.380412Z"
   },
   "FIN4TE": {
     "route": null,
@@ -2234,7 +2234,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-28T11:35:27.004585Z"
+    "checked_at": "2026-10-29T11:15:31.380412Z"
   },
   "THY1CU": {
     "route": {
@@ -5548,17 +5548,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T11:05:25.321898Z"
-  },
-  "RYR41KY": {
-    "route": {
-      "fromCity": "Marrakech",
-      "fromIata": "RAK",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-27T11:15:30.973572Z"
   },
   "DMJAA": {
     "route": null,
@@ -10016,5 +10005,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T11:10:31.905661Z"
+  },
+  "NSZ8ML": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-29T11:15:31.380412Z"
+  },
+  "NSZ2MP": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-29T11:15:31.380412Z"
   }
 }
