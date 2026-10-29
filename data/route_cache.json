@@ -3621,7 +3621,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-28T19:15:32.858857Z"
+    "checked_at": "2026-10-29T19:25:24.572849Z"
   },
   "AFR15VR": {
     "route": null,
@@ -4948,7 +4948,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T12:15:32.785665Z"
+    "checked_at": "2026-10-29T19:25:24.572849Z"
   },
   "TAY5DN": {
     "route": {
@@ -10561,5 +10561,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-29T19:20:32.721949Z"
+  },
+  "BEL9DL": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-29T19:25:24.572849Z"
+  },
+  "EWG2759": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T19:25:24.572849Z"
+  },
+  "RYR59PP": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T19:25:24.572849Z"
   }
 }
