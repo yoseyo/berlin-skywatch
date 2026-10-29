@@ -1,37 +1,20 @@
 {
   "flights": [
     {
-      "callsign": "CFE8PR",
-      "country": "United Kingdom",
-      "lat": 52.2689,
-      "lon": 12.7202,
-      "altKm": 5.3,
-      "speedKmh": 623,
-      "heading": 275,
-      "vertRateMs": 10.4,
-      "airline": "BA CityFlyer",
-      "airlineCountry": "United Kingdom",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "category": "plane"
-    },
-    {
-      "callsign": "SXS4AQ",
+      "callsign": "PGT981",
       "country": "Turkey",
-      "lat": 52.1399,
-      "lon": 12.9262,
-      "altKm": 11.8,
-      "speedKmh": 788,
-      "heading": 315,
-      "vertRateMs": 0,
-      "airline": "SunExpress",
+      "lat": 52.3242,
+      "lon": 14.0113,
+      "altKm": 2.1,
+      "speedKmh": 486,
+      "heading": 342,
+      "vertRateMs": -11.7,
+      "airline": "Pegasus Airlines",
       "airlineCountry": "Turkey",
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Vienna",
+      "toIata": "VIE",
       "category": "plane"
     },
     {
@@ -50,7 +33,37 @@
       "toCity": "Barcelona",
       "toIata": "BCN",
       "category": "plane"
+    },
+    {
+      "callsign": "IBE07WP",
+      "country": "Spain",
+      "lat": 52.3413,
+      "lon": 13.4531,
+      "altKm": 0.6,
+      "speedKmh": 298,
+      "heading": 241,
+      "vertRateMs": 7.8,
+      "airline": "Iberia Airlines",
+      "airlineCountry": "Spain",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG7GK",
+      "country": "Germany",
+      "lat": 52.2742,
+      "lon": 13.2928,
+      "altKm": 2.6,
+      "speedKmh": 439,
+      "heading": 275,
+      "vertRateMs": 22.1,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T06:15:30.239391Z"
+  "updated_at": "2026-10-29T06:20:29.525722Z"
 }
