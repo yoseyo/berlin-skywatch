@@ -1,20 +1,48 @@
 {
   "flights": [
     {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.4012,
-      "lon": 13.6265,
-      "altKm": 0.5,
-      "speedKmh": 223,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
+      "callsign": "ADZ4006",
+      "country": "Bulgaria",
+      "lat": 52.1483,
+      "lon": 13.407,
+      "altKm": 3.1,
+      "speedKmh": 553,
+      "heading": 55,
+      "vertRateMs": -4.5,
+      "category": "plane"
+    },
+    {
+      "callsign": "SRN1988",
+      "country": "Poland",
+      "lat": 52.1568,
+      "lon": 13.6556,
+      "altKm": 6.5,
+      "speedKmh": 486,
+      "heading": 68,
+      "vertRateMs": 0,
+      "airline": "Sirair",
+      "airlineCountry": "Russia",
       "fromCity": "Cologne",
       "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS5SV",
+      "country": "Turkey",
+      "lat": 52.1811,
+      "lon": 14.0485,
+      "altKm": 2.9,
+      "speedKmh": 474,
+      "heading": 346,
+      "vertRateMs": -5.5,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
       "category": "plane"
     },
     {
@@ -35,5 +63,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T04:30:43.501364Z"
+  "updated_at": "2026-10-29T04:35:23.547527Z"
 }
