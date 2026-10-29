@@ -2553,7 +2553,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-28T12:20:31.694705Z"
+    "checked_at": "2026-10-29T12:10:32.637120Z"
   },
   "DLH9CK": {
     "route": {
@@ -2575,7 +2575,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-28T12:10:33.223458Z"
+    "checked_at": "2026-10-29T12:10:32.637120Z"
   },
   "EJU38WT": {
     "route": {
@@ -5540,28 +5540,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T11:05:25.321898Z"
-  },
-  "FIN79U": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-27T12:05:25.981011Z"
-  },
-  "SVA061": {
-    "route": {
-      "fromCity": "Jeddah",
-      "fromIata": "JED",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Saudi Arabian Airlines",
-      "airlineCountry": "Saudi Arabia"
-    },
-    "checked_at": "2026-10-27T12:05:25.981011Z"
   },
   "RYR723D": {
     "route": null,
@@ -10171,5 +10149,42 @@
   "GAC390Q": {
     "route": null,
     "checked_at": "2026-10-29T12:05:25.513605Z"
+  },
+  "FHY1273": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-29T12:10:32.637120Z"
+  },
+  "NOZ6TY": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-29T12:10:32.637120Z"
+  },
+  "LHX1954": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T12:10:32.637120Z"
+  },
+  "GAF007": {
+    "route": null,
+    "checked_at": "2026-10-29T12:10:32.637120Z"
   }
 }
