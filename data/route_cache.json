@@ -5163,7 +5163,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T10:40:33.246361Z"
+    "checked_at": "2026-10-29T11:35:23.182622Z"
   },
   "THY11": {
     "route": {
@@ -7574,7 +7574,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T11:20:37.469143Z"
+    "checked_at": "2026-10-29T11:35:23.182622Z"
   },
   "RYR19UZ": {
     "route": {
@@ -10053,5 +10053,42 @@
   "N99BY": {
     "route": null,
     "checked_at": "2026-10-29T11:30:44.827709Z"
+  },
+  "NOZ61C": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-29T11:35:23.182622Z"
+  },
+  "RYR6781": {
+    "route": {
+      "fromCity": "Torino",
+      "fromIata": "TRN",
+      "toCity": "Lanzarote Island",
+      "toIata": "ACE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T11:35:23.182622Z"
+  },
+  "RHH224": {
+    "route": null,
+    "checked_at": "2026-10-29T11:35:23.182622Z"
+  },
+  "ISR253": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-29T11:35:23.182622Z"
   }
 }
