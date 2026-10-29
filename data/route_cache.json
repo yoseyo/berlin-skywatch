@@ -97,7 +97,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-28T16:45:28.886452Z"
+    "checked_at": "2026-10-29T16:40:34.902274Z"
   },
   "KLM1780": {
     "route": {
@@ -878,7 +878,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-28T16:45:28.886452Z"
+    "checked_at": "2026-10-29T16:40:34.902274Z"
   },
   "KLM1782": {
     "route": {
@@ -3191,7 +3191,7 @@
   },
   "TKJ1AV": {
     "route": null,
-    "checked_at": "2026-10-28T16:45:28.886452Z"
+    "checked_at": "2026-10-29T16:40:34.902274Z"
   },
   "RYR49KM": {
     "route": null,
@@ -3243,7 +3243,7 @@
   },
   "LOT3EG": {
     "route": null,
-    "checked_at": "2026-10-28T16:45:28.886452Z"
+    "checked_at": "2026-10-29T16:40:34.902274Z"
   },
   "DLH8CP": {
     "route": {
@@ -3254,7 +3254,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T16:40:33.677123Z"
+    "checked_at": "2026-10-29T16:40:34.902274Z"
   },
   "DLH7T": {
     "route": {
@@ -5595,28 +5595,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-29T08:45:30.256223Z"
-  },
-  "FIN2K": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-27T16:35:27.243592Z"
-  },
-  "EJU48ZE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-27T16:35:27.243592Z"
   },
   "RYR8602": {
     "route": {
@@ -10347,5 +10325,16 @@
   "UNI137": {
     "route": null,
     "checked_at": "2026-10-29T16:35:26.266796Z"
+  },
+  "RYR1VV": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T16:40:34.902274Z"
   }
 }
