@@ -273,7 +273,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-28T06:10:32.366572Z"
+    "checked_at": "2026-10-29T06:05:26.979867Z"
   },
   "DLH172": {
     "route": {
@@ -5490,21 +5490,6 @@
     },
     "checked_at": "2026-10-28T09:50:33.243629Z"
   },
-  "RYR45KM": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-27T06:05:26.330082Z"
-  },
-  "WMT8EK": {
-    "route": null,
-    "checked_at": "2026-10-27T06:05:26.330082Z"
-  },
   "CFG1FE": {
     "route": {
       "fromCity": "Berlin",
@@ -9976,5 +9961,16 @@
   "SXS82C": {
     "route": null,
     "checked_at": "2026-10-29T06:00:53.318353Z"
+  },
+  "EWG9Z": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T06:05:26.979867Z"
   }
 }
