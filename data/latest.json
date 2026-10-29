@@ -1,42 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "ADZ4006",
-      "country": "Bulgaria",
-      "lat": 52.4107,
-      "lon": 13.6665,
-      "altKm": 0.7,
-      "speedKmh": 304,
-      "heading": 249,
-      "vertRateMs": -4.5,
-      "category": "plane"
-    },
-    {
-      "callsign": "UAE221",
-      "country": "United Arab Emirates",
-      "lat": 52.5847,
-      "lon": 13.3265,
-      "altKm": 10.5,
-      "speedKmh": 864,
-      "heading": 301,
-      "vertRateMs": 0,
-      "airline": "Emirates",
-      "airlineCountry": "United Arab Emirates",
-      "fromCity": "Dubai",
-      "fromIata": "DXB",
-      "toCity": "Dallas-Fort Worth",
-      "toIata": "DFW",
-      "category": "plane"
-    },
-    {
       "callsign": "BCS15N",
       "country": "Austria",
-      "lat": 52.2959,
-      "lon": 13.2485,
-      "altKm": 8.9,
-      "speedKmh": 795,
-      "heading": 46,
-      "vertRateMs": 6.8,
+      "lat": 52.7055,
+      "lon": 13.9619,
+      "altKm": 10.8,
+      "speedKmh": 805,
+      "heading": 47,
+      "vertRateMs": 0,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
@@ -51,8 +23,8 @@
       "lat": 52.9303,
       "lon": 14.083,
       "altKm": 11.6,
-      "speedKmh": 894,
-      "heading": 214,
+      "speedKmh": 5808,
+      "heading": 232,
       "vertRateMs": 0,
       "airline": "China Eastern Airlines",
       "airlineCountry": "China",
@@ -63,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T04:45:28.644830Z"
+  "updated_at": "2026-10-29T04:50:31.534167Z"
 }
