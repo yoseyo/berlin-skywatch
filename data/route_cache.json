@@ -4383,17 +4383,6 @@
     },
     "checked_at": "2026-10-28T06:30:44.974215Z"
   },
-  "KLM64F": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-27T05:55:23.217298Z"
-  },
   "EWG7GK": {
     "route": {
       "fromCity": "Faro",
@@ -9953,5 +9942,24 @@
   "SDR24PB": {
     "route": null,
     "checked_at": "2026-10-29T05:40:31.609860Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-29T05:55:25.279975Z"
+  },
+  "VKG4188": {
+    "route": null,
+    "checked_at": "2026-10-29T05:55:25.279975Z"
+  },
+  "DCS603": {
+    "route": null,
+    "checked_at": "2026-10-29T05:55:25.279975Z"
   }
 }
