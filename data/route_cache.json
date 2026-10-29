@@ -5519,21 +5519,6 @@
     },
     "checked_at": "2026-10-28T07:20:31.860180Z"
   },
-  "CFG3LK": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-27T07:15:30.419603Z"
-  },
-  "WMT6YU": {
-    "route": null,
-    "checked_at": "2026-10-27T07:15:30.419603Z"
-  },
   "OKCZE": {
     "route": null,
     "checked_at": "2026-10-27T07:30:44.485501Z"
@@ -10011,5 +9996,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T07:10:34.371705Z"
+  },
+  "TVF34UB": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-29T07:15:34.089679Z"
+  },
+  "CFG6DF": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T07:15:34.089679Z"
   }
 }
