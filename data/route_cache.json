@@ -4892,7 +4892,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-28T17:25:26.033042Z"
+    "checked_at": "2026-10-29T17:15:32.082821Z"
   },
   "VLG8TD": {
     "route": null,
@@ -10373,5 +10373,31 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-29T17:10:32.233711Z"
+  },
+  "FIN6HC": {
+    "route": null,
+    "checked_at": "2026-10-29T17:15:32.082821Z"
+  },
+  "EJU48ZE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-29T17:15:32.082821Z"
+  },
+  "HOP62AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-29T17:15:32.082821Z"
   }
 }
