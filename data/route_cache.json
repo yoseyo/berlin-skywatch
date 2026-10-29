@@ -2256,7 +2256,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-28T10:40:33.246361Z"
+    "checked_at": "2026-10-29T10:25:26.299164Z"
   },
   "RYR158L": {
     "route": {
@@ -5094,7 +5094,7 @@
   },
   "RYR457A": {
     "route": null,
-    "checked_at": "2026-10-28T09:20:33.112156Z"
+    "checked_at": "2026-10-29T10:25:26.299164Z"
   },
   "EWG007": {
     "route": null,
@@ -5548,17 +5548,6 @@
   "BPO534": {
     "route": null,
     "checked_at": "2026-10-28T10:15:31.885555Z"
-  },
-  "SDR62EG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marsa Alam",
-      "toIata": "RMF",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-27T10:20:34.944444Z"
   },
   "CKK215": {
     "route": {
@@ -10054,5 +10043,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T10:15:30.545652Z"
+  },
+  "NOZ6BS": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-29T10:25:26.299164Z"
+  },
+  "RYR556Z": {
+    "route": {
+      "fromCity": "Genova",
+      "fromIata": "GOA",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T10:25:26.299164Z"
   }
 }
