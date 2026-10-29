@@ -471,7 +471,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-28T09:15:30.315435Z"
+    "checked_at": "2026-10-29T09:05:25.535663Z"
   },
   "EIN3EG": {
     "route": {
@@ -746,7 +746,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-28T10:15:31.885555Z"
+    "checked_at": "2026-10-29T09:05:25.535663Z"
   },
   "EIN33T": {
     "route": {
@@ -2021,7 +2021,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T09:00:58.271503Z"
+    "checked_at": "2026-10-29T09:05:25.535663Z"
   },
   "PGT36NC": {
     "route": {
@@ -4195,7 +4195,7 @@
   },
   "RYR57BB": {
     "route": null,
-    "checked_at": "2026-10-28T15:10:31.141326Z"
+    "checked_at": "2026-10-29T09:05:25.535663Z"
   },
   "EZY26YP": {
     "route": null,
@@ -5107,10 +5107,6 @@
     },
     "checked_at": "2026-10-28T17:25:26.033042Z"
   },
-  "DFFUM": {
-    "route": null,
-    "checked_at": "2026-10-27T09:05:24.592230Z"
-  },
   "VLG8TD": {
     "route": null,
     "checked_at": "2026-10-28T20:10:31.983442Z"
@@ -5553,46 +5549,9 @@
     },
     "checked_at": "2026-10-29T08:54:34.710155Z"
   },
-  "DLH9EY": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-27T09:00:56.128692Z"
-  },
-  "RYR477": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Santander",
-      "toIata": "SDR",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-27T09:00:56.128692Z"
-  },
-  "PTO7753": {
-    "route": null,
-    "checked_at": "2026-10-27T09:00:56.128692Z"
-  },
   "DMTCK": {
     "route": null,
     "checked_at": "2026-10-28T14:05:24.569392Z"
-  },
-  "RYR1163": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Tenerife",
-      "toIata": "TFN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-27T09:05:24.592230Z"
   },
   "BTX2B": {
     "route": {
@@ -9981,5 +9940,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T08:55:25.822670Z"
+  },
+  "GAF011": {
+    "route": null,
+    "checked_at": "2026-10-29T09:05:25.535663Z"
+  },
+  "ACA50": {
+    "route": {
+      "fromCity": "Montr\u00e9al",
+      "fromIata": "YUL",
+      "toCity": "New Delhi",
+      "toIata": "DEL",
+      "airlineName": "Air Canada",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-10-29T09:05:25.535663Z"
   }
 }
