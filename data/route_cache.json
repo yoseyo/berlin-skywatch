@@ -5539,7 +5539,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-28T12:05:24.886812Z"
+    "checked_at": "2026-10-29T14:00:55.730979Z"
   },
   "RYR1571": {
     "route": {
@@ -10322,5 +10322,31 @@
   "BID41C": {
     "route": null,
     "checked_at": "2026-10-29T13:55:26.349204Z"
+  },
+  "RYR81YU": {
+    "route": null,
+    "checked_at": "2026-10-29T14:00:55.730979Z"
+  },
+  "CFG8TD": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-29T14:00:55.730979Z"
+  },
+  "RYR8974": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-29T14:00:55.730979Z"
   }
 }
