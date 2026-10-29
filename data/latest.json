@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-29T22:55:23.169613Z"
+  "flights": [
+    {
+      "callsign": "KLM73D",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.676,
+      "lon": 13.3817,
+      "altKm": 12.1,
+      "speedKmh": 799,
+      "heading": 92,
+      "vertRateMs": -0.3,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
+    },
+    {
+      "callsign": "WZZ3ZF",
+      "country": "Malta",
+      "lat": 52.3618,
+      "lon": 13.1202,
+      "altKm": 10.9,
+      "speedKmh": 900,
+      "heading": 151,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-29T23:00:52.359737Z"
 }
