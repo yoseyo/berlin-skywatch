@@ -1,31 +1,25 @@
 {
   "flights": [
     {
-      "callsign": "EJU64QM",
-      "country": "Austria",
-      "lat": 52.1197,
-      "lon": 12.9699,
-      "altKm": 4.7,
-      "speedKmh": 635,
-      "heading": 222,
-      "vertRateMs": 15.3,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
+      "callsign": "WMT4011",
+      "country": "Hungary",
+      "lat": 52.1792,
+      "lon": 12.7756,
+      "altKm": 11.1,
+      "speedKmh": 787,
+      "heading": 317,
+      "vertRateMs": -2.9,
       "category": "plane"
     },
     {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.4291,
-      "lon": 13.8155,
-      "altKm": 1.2,
-      "speedKmh": 343,
-      "heading": 232,
-      "vertRateMs": -4.5,
+      "lat": 52.3592,
+      "lon": 13.5263,
+      "altKm": 0.1,
+      "speedKmh": 245,
+      "heading": 249,
+      "vertRateMs": -3.9,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -50,7 +44,24 @@
       "toCity": "Barcelona",
       "toIata": "BCN",
       "category": "plane"
+    },
+    {
+      "callsign": "EWG8904",
+      "country": "Germany",
+      "lat": 52.212,
+      "lon": 13.4284,
+      "altKm": 2.7,
+      "speedKmh": 537,
+      "heading": 88,
+      "vertRateMs": 14.3,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-29T05:00:53.610666Z"
+  "updated_at": "2026-10-29T05:05:24.102381Z"
 }
