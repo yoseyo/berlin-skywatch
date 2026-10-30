@@ -2054,7 +2054,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T10:20:32.609739Z"
+    "checked_at": "2026-10-30T11:40:31.713547Z"
   },
   "DLH1AE": {
     "route": {
@@ -5077,17 +5077,6 @@
     },
     "checked_at": "2026-10-29T08:45:30.256223Z"
   },
-  "RYR8602": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T11:35:27.004585Z"
-  },
   "RYR88UY": {
     "route": {
       "fromCity": "Milan",
@@ -5557,28 +5546,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-29T09:45:30.284473Z"
-  },
-  "FIN07RT": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-28T11:35:27.004585Z"
-  },
-  "SDR33TS": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-28T11:35:27.004585Z"
   },
   "CFG4DH": {
     "route": {
@@ -9320,7 +9287,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T19:05:26.379893Z"
+    "checked_at": "2026-10-30T11:40:31.713547Z"
   },
   "EWG6T": {
     "route": {
@@ -10674,5 +10641,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T11:25:24.259147Z"
+  },
+  "AEE751": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-30T11:40:31.713547Z"
+  },
+  "UAL140": {
+    "route": {
+      "fromCity": "Chicago",
+      "fromIata": "ORD",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-30T11:40:31.713547Z"
   }
 }
