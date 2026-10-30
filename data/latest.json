@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "EJU37DC",
-      "country": "Austria",
-      "lat": 52.2702,
-      "lon": 13.2893,
-      "altKm": 2.3,
-      "speedKmh": 528,
-      "heading": 255,
-      "vertRateMs": 17.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "category": "plane"
-    },
-    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.7643,
-      "lon": 13.8746,
-      "altKm": 2.6,
-      "speedKmh": 508,
-      "heading": 183,
-      "vertRateMs": -8.1,
+      "lat": 52.4311,
+      "lon": 13.8246,
+      "altKm": 1.0,
+      "speedKmh": 375,
+      "heading": 235,
+      "vertRateMs": -0.3,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -37,12 +20,12 @@
     {
       "callsign": "TAP53EI",
       "country": "Portugal",
-      "lat": 52.3521,
-      "lon": 13.4965,
-      "altKm": 0.1,
-      "speedKmh": 173,
-      "heading": 249,
-      "vertRateMs": 0.3,
+      "lat": 52.2054,
+      "lon": 13.0354,
+      "altKm": 3.5,
+      "speedKmh": 552,
+      "heading": 255,
+      "vertRateMs": 14.6,
       "airline": "TAP Portugal",
       "airlineCountry": "Portugal",
       "fromCity": "Berlin",
@@ -50,24 +33,7 @@
       "toCity": "Lisbon",
       "toIata": "LIS",
       "category": "plane"
-    },
-    {
-      "callsign": "EWG5PG",
-      "country": "Germany",
-      "lat": 52.1194,
-      "lon": 13.3556,
-      "altKm": 4.4,
-      "speedKmh": 616,
-      "heading": 173,
-      "vertRateMs": 21.1,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-30T05:05:24.294985Z"
+  "updated_at": "2026-10-30T05:10:29.933822Z"
 }
