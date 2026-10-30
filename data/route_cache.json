@@ -1363,7 +1363,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-29T09:50:30.755984Z"
+    "checked_at": "2026-10-30T09:35:22.107610Z"
   },
   "PGT979": {
     "route": {
@@ -2649,17 +2649,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T19:15:33.451181Z"
-  },
-  "RYR8CJ": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T09:30:45.301367Z"
   },
   "BAW979": {
     "route": {
@@ -10658,5 +10647,20 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-30T09:30:40.898409Z"
+  },
+  "BAF638": {
+    "route": null,
+    "checked_at": "2026-10-30T09:35:22.107610Z"
+  },
+  "RYR2QR": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T09:35:22.107610Z"
   }
 }
