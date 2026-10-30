@@ -1712,7 +1712,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T08:15:31.321818Z"
+    "checked_at": "2026-10-30T07:45:31.239115Z"
   },
   "THY1CK": {
     "route": {
@@ -1723,7 +1723,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T08:05:25.574329Z"
+    "checked_at": "2026-10-30T07:45:31.239115Z"
   },
   "CAI7RE": {
     "route": {
@@ -4205,17 +4205,6 @@
     },
     "checked_at": "2026-10-28T08:05:31.134306Z"
   },
-  "ELY2371": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "El Al Israel Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-28T07:40:33.619845Z"
-  },
   "DLH4KV": {
     "route": {
       "fromCity": "Hannover",
@@ -5682,10 +5671,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T05:45:28.376787Z"
-  },
-  "ATV301": {
-    "route": null,
-    "checked_at": "2026-10-28T07:40:33.619845Z"
   },
   "HOP1434": {
     "route": {
@@ -8032,7 +8017,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-29T07:35:25.372092Z"
+    "checked_at": "2026-10-30T07:45:31.239115Z"
   },
   "BTI761": {
     "route": {
@@ -9164,7 +9149,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T14:20:32.880310Z"
+    "checked_at": "2026-10-30T07:45:31.239115Z"
   },
   "NOZ87G": {
     "route": {
@@ -10747,5 +10732,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-30T07:40:31.398786Z"
+  },
+  "NOZ2XM": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-10-30T07:45:31.239115Z"
+  },
+  "THY3351": {
+    "route": {
+      "fromCity": "Van",
+      "fromIata": "VAN",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-30T07:45:31.239115Z"
   }
 }
