@@ -2320,17 +2320,6 @@
     },
     "checked_at": "2026-10-30T11:55:22.860037Z"
   },
-  "EWG7C": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T16:00:56.541665Z"
-  },
   "THY9VS": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -5550,53 +5539,9 @@
     "route": null,
     "checked_at": "2026-10-29T10:20:32.609739Z"
   },
-  "NSZ9PR": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-28T16:00:56.541665Z"
-  },
-  "BTI9CF": {
-    "route": {
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-28T16:00:56.541665Z"
-  },
-  "CFG9NX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T16:00:56.541665Z"
-  },
   "FIN8AQ": {
     "route": null,
     "checked_at": "2026-10-30T15:50:30.969557Z"
-  },
-  "RYR73YT": {
-    "route": {
-      "fromCity": "Paphos",
-      "fromIata": "PFO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T16:00:56.541665Z"
   },
   "DETEG": {
     "route": null,
@@ -7039,7 +6984,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T09:30:45.522200Z"
+    "checked_at": "2026-10-30T16:05:24.797618Z"
   },
   "EJU72XB": {
     "route": {
@@ -10962,5 +10907,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-10-30T16:00:53.336147Z"
+  },
+  "VLG9PJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-30T16:05:24.797618Z"
+  },
+  "RYR5HP": {
+    "route": {
+      "fromCity": "Zemunik (Zadar)",
+      "fromIata": "ZAD",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T16:05:24.797618Z"
   }
 }
