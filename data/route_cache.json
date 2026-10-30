@@ -3223,7 +3223,7 @@
   },
   "SAS88C": {
     "route": null,
-    "checked_at": "2026-10-29T17:00:56.006335Z"
+    "checked_at": "2026-10-30T18:25:22.871522Z"
   },
   "SXS78Y": {
     "route": null,
@@ -4260,7 +4260,7 @@
   },
   "VLG8TD": {
     "route": null,
-    "checked_at": "2026-10-29T16:30:43.438691Z"
+    "checked_at": "2026-10-30T18:25:22.871522Z"
   },
   "RYR457A": {
     "route": null,
@@ -11035,5 +11035,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T18:20:33.648450Z"
+  },
+  "ENT2CG": {
+    "route": {
+      "fromCity": "Valladolid",
+      "fromIata": "VLL",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-30T18:25:22.871522Z"
+  },
+  "CTN4408": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-30T18:25:22.871522Z"
+  },
+  "EWG2GC": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T18:25:22.871522Z"
   }
 }
