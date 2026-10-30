@@ -2947,7 +2947,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T16:00:57.538248Z"
+    "checked_at": "2026-10-30T15:45:30.414171Z"
   },
   "DEHGB": {
     "route": null,
@@ -5452,7 +5452,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T16:20:34.503665Z"
+    "checked_at": "2026-10-30T15:45:30.414171Z"
   },
   "DFOOD": {
     "route": {
@@ -5648,7 +5648,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-29T15:50:33.363435Z"
+    "checked_at": "2026-10-30T15:45:30.414171Z"
   },
   "RYR49": {
     "route": {
@@ -10888,5 +10888,27 @@
   "BBB35": {
     "route": null,
     "checked_at": "2026-10-30T15:40:30.339949Z"
+  },
+  "GTI8165": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "HHN",
+      "toCity": "Portsmouth",
+      "toIata": "PSM",
+      "airlineName": "Atlas Air",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-30T15:45:30.414171Z"
+  },
+  "MSR732": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cairo",
+      "toIata": "CAI",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-30T15:45:30.414171Z"
   }
 }
