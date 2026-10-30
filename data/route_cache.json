@@ -1275,7 +1275,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-29T07:30:44.420063Z"
+    "checked_at": "2026-10-30T07:25:22.365007Z"
   },
   "SAS23G": {
     "route": {
@@ -4637,17 +4637,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T16:25:25.101907Z"
-  },
-  "EJU48HQ": {
-    "route": {
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-28T07:20:31.860180Z"
   },
   "BAW985": {
     "route": {
@@ -10725,5 +10714,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T07:20:30.137390Z"
+  },
+  "ENT1FG": {
+    "route": {
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-30T07:25:22.365007Z"
+  },
+  "CFG2HD": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T07:25:22.365007Z"
   }
 }
