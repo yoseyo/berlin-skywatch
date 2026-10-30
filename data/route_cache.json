@@ -3505,7 +3505,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T11:00:58.614682Z"
+    "checked_at": "2026-10-30T16:25:22.491809Z"
   },
   "SAS95W": {
     "route": {
@@ -3616,7 +3616,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-29T21:10:32.279294Z"
+    "checked_at": "2026-10-30T16:25:22.491809Z"
   },
   "RYR26NC": {
     "route": {
@@ -8096,7 +8096,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-29T16:25:25.101907Z"
+    "checked_at": "2026-10-30T16:25:22.491809Z"
   },
   "RJES08": {
     "route": null,
@@ -10903,5 +10903,42 @@
   "EZY18GL": {
     "route": null,
     "checked_at": "2026-10-30T16:20:32.465390Z"
+  },
+  "GAC527E": {
+    "route": null,
+    "checked_at": "2026-10-30T16:25:22.491809Z"
+  },
+  "CCA957": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-30T16:25:22.491809Z"
+  },
+  "EJU82BY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-30T16:25:22.491809Z"
+  },
+  "SAS778": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T16:25:22.491809Z"
   }
 }
