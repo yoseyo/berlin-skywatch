@@ -5562,17 +5562,6 @@
     },
     "checked_at": "2026-10-29T08:50:30.040761Z"
   },
-  "FXT12E": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "BQH",
-      "toCity": "Copenhagen",
-      "toIata": "RKE",
-      "airlineName": "Flexflight",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-10-28T10:45:30.309355Z"
-  },
   "SAS1694": {
     "route": {
       "fromCity": "Vienna",
@@ -10707,5 +10696,16 @@
   "BAW973E": {
     "route": null,
     "checked_at": "2026-10-30T10:45:28.643556Z"
+  },
+  "VJT516": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-30T10:50:30.477237Z"
   }
 }
