@@ -592,7 +592,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-29T12:20:33.736637Z"
+    "checked_at": "2026-10-30T14:00:54.261289Z"
   },
   "KLM26L": {
     "route": {
@@ -1863,7 +1863,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-29T17:25:28.015669Z"
+    "checked_at": "2026-10-30T14:00:54.261289Z"
   },
   "SWR7TA": {
     "route": {
@@ -2740,7 +2740,7 @@
   },
   "WZZ692": {
     "route": null,
-    "checked_at": "2026-10-28T14:00:56.428801Z"
+    "checked_at": "2026-10-30T14:00:54.261289Z"
   },
   "WMT974": {
     "route": {
@@ -2921,7 +2921,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-29T14:20:32.880310Z"
+    "checked_at": "2026-10-30T14:00:54.261289Z"
   },
   "DLH3AJ": {
     "route": {
@@ -3050,7 +3050,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T14:55:25.118358Z"
+    "checked_at": "2026-10-30T14:00:54.261289Z"
   },
   "AFR82RB": {
     "route": {
@@ -3699,17 +3699,6 @@
     "route": null,
     "checked_at": "2026-10-29T18:45:30.208525Z"
   },
-  "EWG13N": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T13:55:24.904908Z"
-  },
   "DLH5AH": {
     "route": {
       "fromCity": "Copenhagen",
@@ -4286,7 +4275,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T13:10:32.422127Z"
+    "checked_at": "2026-10-30T14:00:54.261289Z"
   },
   "AUA21P": {
     "route": {
@@ -10845,5 +10834,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T13:55:24.704342Z"
+  },
+  "MGL138": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Ulaanbaatar (Sergelen)",
+      "toIata": "UBN",
+      "airlineName": "MIAT Mongolian Airlines",
+      "airlineCountry": "Mongolia"
+    },
+    "checked_at": "2026-10-30T14:00:54.261289Z"
+  },
+  "EWG8541": {
+    "route": {
+      "fromCity": "Ibiza",
+      "fromIata": "IBZ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T14:00:54.261289Z"
+  },
+  "EWG3ZP": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T14:00:54.261289Z"
   }
 }
