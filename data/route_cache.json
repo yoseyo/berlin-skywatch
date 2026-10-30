@@ -746,7 +746,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-29T09:05:25.535663Z"
+    "checked_at": "2026-10-30T09:05:25.056085Z"
   },
   "EIN33T": {
     "route": {
@@ -1771,7 +1771,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-29T08:05:25.574329Z"
+    "checked_at": "2026-10-30T09:05:25.056085Z"
   },
   "DLH173": {
     "route": {
@@ -1815,7 +1815,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T08:54:34.710155Z"
+    "checked_at": "2026-10-30T09:05:25.056085Z"
   },
   "RYR6SU": {
     "route": {
@@ -5623,10 +5623,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T20:15:31.007697Z"
-  },
-  "ATV302": {
-    "route": null,
-    "checked_at": "2026-10-28T09:00:58.271503Z"
   },
   "BTI4XH": {
     "route": {
@@ -10680,5 +10676,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T09:00:53.126859Z"
+  },
+  "MGL137": {
+    "route": {
+      "fromCity": "Ulaanbaatar (Sergelen)",
+      "fromIata": "UBN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "MIAT Mongolian Airlines",
+      "airlineCountry": "Mongolia"
+    },
+    "checked_at": "2026-10-30T09:05:25.056085Z"
   }
 }
