@@ -2956,7 +2956,7 @@
   },
   "TKJ1AV": {
     "route": null,
-    "checked_at": "2026-10-29T16:40:34.902274Z"
+    "checked_at": "2026-10-30T16:30:44.015863Z"
   },
   "RYR49KM": {
     "route": null,
@@ -5441,7 +5441,7 @@
   },
   "EWG89KP": {
     "route": null,
-    "checked_at": "2026-10-29T19:10:31.638527Z"
+    "checked_at": "2026-10-30T16:30:44.015863Z"
   },
   "AUA29B": {
     "route": {
@@ -5575,17 +5575,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T15:50:33.363435Z"
-  },
-  "EWG8433": {
-    "route": {
-      "fromCity": "Bastia/Poretta",
-      "fromIata": "BIA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T16:25:26.048943Z"
   },
   "BBG273": {
     "route": {
@@ -10940,5 +10929,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-30T16:25:22.491809Z"
+  },
+  "FIN01AD": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-30T16:30:44.015863Z"
   }
 }
