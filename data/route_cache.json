@@ -1352,7 +1352,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T13:45:32.787489Z"
+    "checked_at": "2026-10-30T14:05:26.695798Z"
   },
   "DLH5N": {
     "route": {
@@ -4762,10 +4762,6 @@
     },
     "checked_at": "2026-10-30T09:10:30.379960Z"
   },
-  "DMTCK": {
-    "route": null,
-    "checked_at": "2026-10-28T14:05:24.569392Z"
-  },
   "CKK215": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -5616,28 +5612,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T13:20:33.375666Z"
-  },
-  "CFG5FE": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T14:00:56.428801Z"
-  },
-  "JDI85H": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-28T14:00:56.428801Z"
   },
   "EJU37DC": {
     "route": {
@@ -10867,5 +10841,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T14:00:54.261289Z"
+  },
+  "PVD442P": {
+    "route": null,
+    "checked_at": "2026-10-30T14:05:26.695798Z"
+  },
+  "EZY18AL": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-30T14:05:26.695798Z"
+  },
+  "EWG5H": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T14:05:26.695798Z"
   }
 }
