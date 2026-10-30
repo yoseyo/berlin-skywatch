@@ -361,7 +361,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-29T08:05:25.574329Z"
+    "checked_at": "2026-10-30T08:15:31.059980Z"
   },
   "FIN7HC": {
     "route": {
@@ -372,7 +372,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-29T08:00:52.083984Z"
+    "checked_at": "2026-10-30T08:15:31.059980Z"
   },
   "SWR2HD": {
     "route": {
@@ -394,7 +394,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T08:10:30.985188Z"
+    "checked_at": "2026-10-30T08:15:31.059980Z"
   },
   "DLH175": {
     "route": {
@@ -4181,7 +4181,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T08:15:31.321818Z"
+    "checked_at": "2026-10-30T08:15:31.059980Z"
   },
   "AUA224": {
     "route": {
@@ -5639,32 +5639,6 @@
     "route": null,
     "checked_at": "2026-10-30T08:00:51.638831Z"
   },
-  "MGH391": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-28T08:10:34.641810Z"
-  },
-  "MMD6365": {
-    "route": null,
-    "checked_at": "2026-10-28T08:10:34.641810Z"
-  },
-  "DIGST": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Aarhus",
-      "toIata": "AAR",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-28T08:10:34.641810Z"
-  },
   "DCS604": {
     "route": null,
     "checked_at": "2026-10-28T08:15:31.305740Z"
@@ -5957,7 +5931,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T08:30:43.973783Z"
+    "checked_at": "2026-10-30T08:15:31.059980Z"
   },
   "CTN480": {
     "route": {
@@ -9458,7 +9432,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T17:00:56.006335Z"
+    "checked_at": "2026-10-30T08:15:31.059980Z"
   },
   "EJU85CX": {
     "route": null,
@@ -10714,5 +10688,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T08:05:24.065725Z"
+  },
+  "SXS9RK": {
+    "route": {
+      "fromCity": "Bodrum",
+      "fromIata": "BJV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-30T08:15:31.059980Z"
   }
 }
