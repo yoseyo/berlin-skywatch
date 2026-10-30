@@ -416,7 +416,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T09:00:54.522553Z"
+    "checked_at": "2026-10-30T09:00:53.126859Z"
   },
   "AUA225B": {
     "route": {
@@ -471,7 +471,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-29T09:05:25.535663Z"
+    "checked_at": "2026-10-30T09:00:53.126859Z"
   },
   "EIN3EG": {
     "route": {
@@ -8282,7 +8282,7 @@
   },
   "RYR18HB": {
     "route": null,
-    "checked_at": "2026-10-29T10:55:24.432687Z"
+    "checked_at": "2026-10-30T09:00:53.126859Z"
   },
   "EWG4LK": {
     "route": {
@@ -10669,5 +10669,16 @@
   "TWI346": {
     "route": null,
     "checked_at": "2026-10-30T08:56:13.467460Z"
+  },
+  "TKJ5157": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-30T09:00:53.126859Z"
   }
 }
