@@ -2991,7 +2991,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-29T14:40:31.922485Z"
+    "checked_at": "2026-10-30T14:35:24.949224Z"
   },
   "SXS5RT": {
     "route": {
@@ -4197,7 +4197,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T12:00:53.693827Z"
+    "checked_at": "2026-10-30T14:35:24.949224Z"
   },
   "CHX49": {
     "route": null,
@@ -4776,10 +4776,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T11:05:25.321898Z"
-  },
-  "RYR723D": {
-    "route": null,
-    "checked_at": "2026-10-28T14:30:47.140295Z"
   },
   "RYR402": {
     "route": {
@@ -5601,28 +5597,6 @@
   "EWG5JW": {
     "route": null,
     "checked_at": "2026-10-30T14:20:30.679432Z"
-  },
-  "RJA148": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Amman",
-      "toIata": "AMM",
-      "airlineName": "Royal Jordanian",
-      "airlineCountry": "Jordan"
-    },
-    "checked_at": "2026-10-28T14:30:47.140295Z"
-  },
-  "CFG6JH": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T14:30:47.140295Z"
   },
   "ISR255": {
     "route": {
@@ -10850,5 +10824,38 @@
   "NJE348W": {
     "route": null,
     "checked_at": "2026-10-30T14:26:25.601128Z"
+  },
+  "TKJ4JH": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-30T14:35:24.949224Z"
+  },
+  "CFG3UX": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T14:35:24.949224Z"
+  },
+  "DLH7EL": {
+    "route": {
+      "fromCity": "Cork",
+      "fromIata": "ORK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T14:35:24.949224Z"
   }
 }
