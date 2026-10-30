@@ -548,7 +548,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-29T11:25:25.631404Z"
+    "checked_at": "2026-10-30T11:15:29.329352Z"
   },
   "AEE2WD": {
     "route": {
@@ -570,7 +570,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T11:15:31.380412Z"
+    "checked_at": "2026-10-30T11:15:29.329352Z"
   },
   "FIN50M": {
     "route": {
@@ -2208,7 +2208,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T11:10:31.905661Z"
+    "checked_at": "2026-10-30T11:15:29.329352Z"
   },
   "EWG55H": {
     "route": {
@@ -4776,17 +4776,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T06:20:32.113361Z"
-  },
-  "RYR628": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T11:10:33.749327Z"
   },
   "BTI7HB": {
     "route": {
@@ -10704,5 +10693,16 @@
   "LNX21AX": {
     "route": null,
     "checked_at": "2026-10-30T11:10:30.529462Z"
+  },
+  "UAE59": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-10-30T11:15:29.329352Z"
   }
 }
