@@ -1962,7 +1962,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-29T10:00:52.600153Z"
+    "checked_at": "2026-10-30T10:05:25.422771Z"
   },
   "WZZ9327": {
     "route": null,
@@ -2010,7 +2010,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T10:05:26.985001Z"
+    "checked_at": "2026-10-30T10:05:25.422771Z"
   },
   "THY2JV": {
     "route": {
@@ -5598,17 +5598,6 @@
   "EJU51XV": {
     "route": null,
     "checked_at": "2026-10-29T09:40:31.822178Z"
-  },
-  "NSZ6FY": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-28T10:00:55.536125Z"
   },
   "GTI8082": {
     "route": {
@@ -10703,5 +10692,16 @@
       "airlineCountry": "Uzbekistan"
     },
     "checked_at": "2026-10-30T09:55:23.349382Z"
+  },
+  "EJU84MC": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-30T10:05:25.422771Z"
   }
 }
