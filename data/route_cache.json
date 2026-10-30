@@ -449,7 +449,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-29T10:10:33.483637Z"
+    "checked_at": "2026-10-30T09:50:30.174471Z"
   },
   "SAS85J": {
     "route": {
@@ -3905,7 +3905,7 @@
   },
   "EJU97CN": {
     "route": null,
-    "checked_at": "2026-10-28T21:30:42.685178Z"
+    "checked_at": "2026-10-30T09:50:30.174471Z"
   },
   "BCS15N": {
     "route": {
@@ -5356,7 +5356,7 @@
   },
   "RYR15XN": {
     "route": null,
-    "checked_at": "2026-10-29T10:15:30.545652Z"
+    "checked_at": "2026-10-30T09:50:30.174471Z"
   },
   "RYR9AQ": {
     "route": {
@@ -5598,17 +5598,6 @@
   "EJU51XV": {
     "route": null,
     "checked_at": "2026-10-29T09:40:31.822178Z"
-  },
-  "BTI60L": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-28T09:45:34.416808Z"
   },
   "BTI7EG": {
     "route": {
@@ -10643,5 +10632,43 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T09:35:22.107610Z"
+  },
+  "PGT9DN": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-30T09:50:30.174471Z"
+  },
+  "LUA114C": {
+    "route": null,
+    "checked_at": "2026-10-30T09:50:30.174471Z"
+  },
+  "SXS6DX": {
+    "route": null,
+    "checked_at": "2026-10-30T09:50:30.174471Z"
+  },
+  "NIA5318": {
+    "route": null,
+    "checked_at": "2026-10-30T09:50:30.174471Z"
+  },
+  "EWG1YR": {
+    "route": null,
+    "checked_at": "2026-10-30T09:50:30.174471Z"
+  },
+  "RYR3BW": {
+    "route": {
+      "fromCity": "Ancona",
+      "fromIata": "AOI",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T09:50:30.174471Z"
   }
 }
