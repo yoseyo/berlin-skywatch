@@ -3457,7 +3457,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T20:35:23.081086Z"
+    "checked_at": "2026-10-30T20:40:31.437047Z"
   },
   "LOT1MZ": {
     "route": null,
@@ -3513,7 +3513,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T20:35:23.081086Z"
+    "checked_at": "2026-10-30T20:40:31.437047Z"
   },
   "CFE8495": {
     "route": {
@@ -5607,28 +5607,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T20:10:31.841330Z"
-  },
-  "SAS2690": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-28T20:35:23.665352Z"
-  },
-  "FIN7KL": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-28T20:35:23.665352Z"
   },
   "AUA237": {
     "route": {
@@ -8400,7 +8378,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T20:40:29.132267Z"
+    "checked_at": "2026-10-30T20:40:31.437047Z"
   },
   "CFG2FH": {
     "route": {
@@ -11149,5 +11127,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-30T20:30:42.210311Z"
+  },
+  "NIA852": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-30T20:40:31.437047Z"
   }
 }
