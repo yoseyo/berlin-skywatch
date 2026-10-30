@@ -790,7 +790,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-29T20:45:29.012883Z"
+    "checked_at": "2026-10-30T19:55:22.553987Z"
   },
   "BAW844": {
     "route": {
@@ -911,7 +911,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-29T20:00:52.821588Z"
+    "checked_at": "2026-10-30T19:55:22.553987Z"
   },
   "DMS2LW": {
     "route": {
@@ -1338,7 +1338,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T06:50:33.080727Z"
+    "checked_at": "2026-10-30T19:55:22.553987Z"
   },
   "DLH2EE": {
     "route": {
@@ -1771,7 +1771,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-29T08:40:32.727648Z"
+    "checked_at": "2026-10-30T19:55:22.553987Z"
   },
   "RYR13BV": {
     "route": null,
@@ -1852,7 +1852,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T10:35:24.100401Z"
+    "checked_at": "2026-10-30T19:55:22.553987Z"
   },
   "EWG6ZR": {
     "route": {
@@ -3535,7 +3535,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T20:40:29.132267Z"
+    "checked_at": "2026-10-30T19:55:22.553987Z"
   },
   "EWG7XK": {
     "route": {
@@ -4835,17 +4835,6 @@
   "RYR15XN": {
     "route": null,
     "checked_at": "2026-10-30T09:50:30.174471Z"
-  },
-  "EJU84VX": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-28T19:50:33.180004Z"
   },
   "RYR2PG": {
     "route": {
@@ -11130,5 +11119,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T19:50:30.579412Z"
+  },
+  "RYR3NR": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T19:55:22.553987Z"
   }
 }
