@@ -460,7 +460,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-29T10:15:30.545652Z"
+    "checked_at": "2026-10-30T10:15:30.089703Z"
   },
   "AEE8RB": {
     "route": {
@@ -2307,7 +2307,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-28T10:15:31.885555Z"
+    "checked_at": "2026-10-30T10:15:30.089703Z"
   },
   "SXS5JX": {
     "route": {
@@ -3544,7 +3544,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T21:05:26.695997Z"
+    "checked_at": "2026-10-30T10:15:30.089703Z"
   },
   "EZY73YT": {
     "route": {
@@ -5599,39 +5599,6 @@
     "route": null,
     "checked_at": "2026-10-29T09:40:31.822178Z"
   },
-  "GTI8082": {
-    "route": {
-      "fromCity": "Charleston",
-      "fromIata": "CHS",
-      "toCity": "Frankfurt am Main",
-      "toIata": "HHN",
-      "airlineName": "Atlas Air",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-28T10:10:33.729532Z"
-  },
-  "EJU98DB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-28T10:10:33.729532Z"
-  },
-  "CFG3YU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T10:10:33.729532Z"
-  },
   "THY6TK": {
     "route": {
       "fromCity": "Hamburg",
@@ -5642,10 +5609,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-29T10:15:30.545652Z"
-  },
-  "SDR29XH": {
-    "route": null,
-    "checked_at": "2026-10-28T10:10:33.729532Z"
   },
   "EJU31NP": {
     "route": {
@@ -10707,5 +10670,31 @@
   "EWG72V": {
     "route": null,
     "checked_at": "2026-10-30T10:10:31.672819Z"
+  },
+  "DMS2NW": {
+    "route": null,
+    "checked_at": "2026-10-30T10:15:30.089703Z"
+  },
+  "CFG9VN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T10:15:30.089703Z"
+  },
+  "RYR28AA": {
+    "route": {
+      "fromCity": "\u0141\u00f3d\u017a",
+      "fromIata": "LCJ",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T10:15:30.089703Z"
   }
 }
