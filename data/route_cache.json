@@ -2505,7 +2505,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T12:50:33.265170Z"
+    "checked_at": "2026-10-30T13:00:53.050821Z"
   },
   "SXS60G": {
     "route": {
@@ -5056,7 +5056,7 @@
       "airlineName": "Smart Wings",
       "airlineCountry": "Czech Republic"
     },
-    "checked_at": "2026-10-29T16:30:43.438691Z"
+    "checked_at": "2026-10-30T13:00:53.050821Z"
   },
   "KLC1342": {
     "route": {
@@ -5567,10 +5567,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-30T11:10:30.529462Z"
-  },
-  "UNI132": {
-    "route": null,
-    "checked_at": "2026-10-28T12:55:24.602510Z"
   },
   "NSZ3661": {
     "route": {
@@ -10747,5 +10743,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T12:55:23.103907Z"
+  },
+  "EJU5187": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-30T13:00:53.050821Z"
+  },
+  "CAL1710": {
+    "route": {
+      "fromCity": "Everett",
+      "fromIata": "PAE",
+      "toCity": "Taipei",
+      "toIata": "TPE",
+      "airlineName": "China Airlines",
+      "airlineCountry": "Taiwan"
+    },
+    "checked_at": "2026-10-30T13:00:53.050821Z"
+  },
+  "EWG2UE": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T13:00:53.050821Z"
   }
 }
