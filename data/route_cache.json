@@ -5623,17 +5623,6 @@
     },
     "checked_at": "2026-10-29T18:15:31.105133Z"
   },
-  "EWG7EM": {
-    "route": {
-      "fromCity": "Baden-Baden",
-      "fromIata": "FKB",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T17:20:34.615823Z"
-  },
   "DERSL": {
     "route": null,
     "checked_at": "2026-10-28T17:25:26.033042Z"
@@ -11013,5 +11002,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-30T17:20:32.416003Z"
+  },
+  "NSZ5121": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T17:25:25.028272Z"
   }
 }
