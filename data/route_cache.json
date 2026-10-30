@@ -23,7 +23,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-29T14:35:28.235297Z"
+    "checked_at": "2026-10-30T14:40:33.386013Z"
   },
   "NSZ3302": {
     "route": {
@@ -1095,7 +1095,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-29T15:10:35.109486Z"
+    "checked_at": "2026-10-30T14:40:33.386013Z"
   },
   "THY79K": {
     "route": {
@@ -1209,7 +1209,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T16:50:33.134543Z"
+    "checked_at": "2026-10-30T14:40:33.386013Z"
   },
   "FHY1684": {
     "route": {
@@ -2814,22 +2814,11 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-29T14:45:31.297449Z"
+    "checked_at": "2026-10-30T14:40:33.386013Z"
   },
   "EJU49HX": {
     "route": null,
     "checked_at": "2026-10-30T14:26:25.601128Z"
-  },
-  "AUA98F": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-28T14:35:25.308305Z"
   },
   "RYR8MQ": {
     "route": {
@@ -5000,7 +4989,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T16:55:24.052002Z"
+    "checked_at": "2026-10-30T14:40:33.386013Z"
   },
   "SPAR75": {
     "route": null,
@@ -5608,17 +5597,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-10-30T10:40:30.439276Z"
-  },
-  "RYR3719": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T14:35:25.308305Z"
   },
   "EWG4601": {
     "route": {
@@ -10857,5 +10835,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T14:35:24.949224Z"
+  },
+  "NSZ5651": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T14:40:33.386013Z"
+  },
+  "EZY85MG": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-30T14:40:33.386013Z"
+  },
+  "NMA739": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-30T14:40:33.386013Z"
   }
 }
