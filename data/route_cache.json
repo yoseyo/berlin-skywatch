@@ -163,7 +163,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-29T21:00:52.233740Z"
+    "checked_at": "2026-10-30T21:00:50.366831Z"
   },
   "AUA239": {
     "route": {
@@ -174,7 +174,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T21:20:30.787725Z"
+    "checked_at": "2026-10-30T21:00:50.366831Z"
   },
   "KLM27F": {
     "route": {
@@ -4364,7 +4364,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-10-29T20:40:29.132267Z"
+    "checked_at": "2026-10-30T21:00:50.366831Z"
   },
   "EWG8989": {
     "route": {
@@ -5614,28 +5614,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-29T20:25:22.759030Z"
-  },
-  "QTR2X": {
-    "route": {
-      "fromCity": "Atlanta",
-      "fromIata": "ATL",
-      "toCity": "Dallas-Fort Worth",
-      "toIata": "DFW",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-28T20:55:25.141135Z"
-  },
-  "HLF8868": {
-    "route": {
-      "fromCity": "Bangkok",
-      "fromIata": "BKK",
-      "toCity": "Yantai",
-      "toIata": "YNT",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T20:55:25.141135Z"
   },
   "RYR2WX": {
     "route": {
@@ -11138,5 +11116,38 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-30T20:55:24.126134Z"
+  },
+  "SDR19BY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T21:00:50.366831Z"
+  },
+  "RYR5JH": {
+    "route": {
+      "fromCity": "Shannon",
+      "fromIata": "SNN",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T21:00:50.366831Z"
+  },
+  "RYR4LD": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T21:00:50.366831Z"
   }
 }
