@@ -7970,7 +7970,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T05:35:23.947535Z"
+    "checked_at": "2026-10-30T06:05:23.985229Z"
   },
   "SDR24PB": {
     "route": null,
@@ -10692,5 +10692,27 @@
   "RYR83GK": {
     "route": null,
     "checked_at": "2026-10-30T06:00:50.855866Z"
+  },
+  "SAS697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T06:05:23.985229Z"
+  },
+  "THY1XR": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-30T06:05:23.985229Z"
   }
 }
