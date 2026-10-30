@@ -1,27 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "FPO3WZ",
-      "country": "France",
-      "lat": 52.448,
-      "lon": 13.8292,
-      "altKm": 1.2,
-      "speedKmh": 348,
-      "heading": 249,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "EWG21A",
-      "country": "Germany",
-      "lat": 52.3479,
-      "lon": 13.4785,
-      "altKm": 0.2,
-      "speedKmh": 270,
-      "heading": 249,
-      "vertRateMs": 15.3,
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.1519,
+      "lon": 13.1116,
+      "altKm": 8.7,
+      "speedKmh": 706,
+      "heading": 44,
+      "vertRateMs": 7.5,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-30T04:45:28.974695Z"
+  "updated_at": "2026-10-30T04:50:31.385788Z"
 }
