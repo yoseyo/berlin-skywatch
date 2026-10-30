@@ -3465,7 +3465,7 @@
   },
   "LOT4CT": {
     "route": null,
-    "checked_at": "2026-10-29T20:10:31.841330Z"
+    "checked_at": "2026-10-30T20:10:30.984722Z"
   },
   "LOT1HL": {
     "route": {
@@ -11101,5 +11101,31 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-30T20:05:23.012400Z"
+  },
+  "EJU62MH": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-30T20:10:30.984722Z"
+  },
+  "SAS696": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T20:10:30.984722Z"
+  },
+  "EZY73MW": {
+    "route": null,
+    "checked_at": "2026-10-30T20:10:30.984722Z"
   }
 }
