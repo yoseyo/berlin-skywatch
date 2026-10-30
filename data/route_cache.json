@@ -5615,10 +5615,6 @@
     },
     "checked_at": "2026-10-29T20:25:22.759030Z"
   },
-  "KMM377": {
-    "route": null,
-    "checked_at": "2026-10-28T20:50:39.069643Z"
-  },
   "QTR2X": {
     "route": {
       "fromCity": "Atlanta",
@@ -11131,5 +11127,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T20:50:30.542257Z"
+  },
+  "BTI3HK": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-30T20:55:24.126134Z"
   }
 }
