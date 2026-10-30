@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-30T22:55:21.835205Z"
+  "flights": [
+    {
+      "callsign": "KLC1335",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.3997,
+      "lon": 13.0879,
+      "altKm": 11.6,
+      "speedKmh": 752,
+      "heading": 94,
+      "vertRateMs": 0,
+      "airline": "KLM Cityhopper",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Aalborg",
+      "toIata": "AAL",
+      "category": "plane"
+    },
+    {
+      "callsign": "HLF8816",
+      "country": "China",
+      "lat": 52.4893,
+      "lon": 13.5509,
+      "altKm": 9.7,
+      "speedKmh": 762,
+      "heading": 44,
+      "vertRateMs": 0,
+      "airline": "Hapagfly",
+      "airlineCountry": "Germany",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Xiang'an, Xiamen",
+      "toIata": "XMN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-30T23:00:51.308273Z"
 }
