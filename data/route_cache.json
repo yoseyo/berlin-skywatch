@@ -3294,7 +3294,7 @@
   },
   "AFR15VR": {
     "route": null,
-    "checked_at": "2026-10-29T19:15:33.451181Z"
+    "checked_at": "2026-10-30T19:35:23.005631Z"
   },
   "EWG31K": {
     "route": {
@@ -3327,7 +3327,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T19:45:32.052064Z"
+    "checked_at": "2026-10-30T19:35:23.005631Z"
   },
   "SAS45C": {
     "route": null,
@@ -3353,7 +3353,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-29T19:30:44.506068Z"
+    "checked_at": "2026-10-30T19:35:23.005631Z"
   },
   "LGL9473": {
     "route": {
@@ -7235,7 +7235,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T13:15:30.358227Z"
+    "checked_at": "2026-10-30T19:35:23.005631Z"
   },
   "RYR21FH": {
     "route": {
@@ -11097,5 +11097,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T19:25:22.899486Z"
+  },
+  "ETH725": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Addis Ababa",
+      "toIata": "ADD",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-30T19:35:23.005631Z"
+  },
+  "CTN4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-30T19:35:23.005631Z"
   }
 }
