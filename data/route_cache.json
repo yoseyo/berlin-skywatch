@@ -1837,7 +1837,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T08:40:32.727648Z"
+    "checked_at": "2026-10-30T08:40:31.791613Z"
   },
   "CAI62RH": {
     "route": {
@@ -3125,7 +3125,7 @@
   },
   "RYR49KM": {
     "route": null,
-    "checked_at": "2026-10-29T15:35:25.398629Z"
+    "checked_at": "2026-10-30T08:40:31.791613Z"
   },
   "WMT844": {
     "route": {
@@ -5649,17 +5649,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T20:15:31.007697Z"
-  },
-  "RYR4EW": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T08:35:24.346677Z"
   },
   "PGT9DN": {
     "route": {
@@ -10665,5 +10654,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T08:25:23.961090Z"
+  },
+  "SDR10CL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T08:40:31.791613Z"
   }
 }
