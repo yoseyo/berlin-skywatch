@@ -636,7 +636,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-29T13:10:32.422127Z"
+    "checked_at": "2026-10-30T13:10:31.347128Z"
   },
   "MSC2960": {
     "route": {
@@ -2626,7 +2626,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T19:15:33.451181Z"
+    "checked_at": "2026-10-30T13:10:31.347128Z"
   },
   "BAW979": {
     "route": {
@@ -5577,8 +5577,15 @@
     "checked_at": "2026-10-29T16:20:34.503665Z"
   },
   "EWG89N": {
-    "route": null,
-    "checked_at": "2026-10-28T13:20:33.099894Z"
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T13:10:31.347128Z"
   },
   "GAF816": {
     "route": null,
@@ -10772,5 +10779,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T13:05:23.270886Z"
+  },
+  "CES5014": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Xi'an",
+      "toIata": "XIY",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-30T13:10:31.347128Z"
   }
 }
