@@ -130,7 +130,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-29T16:50:33.134543Z"
+    "checked_at": "2026-10-30T17:05:26.827144Z"
   },
   "SWR8X": {
     "route": {
@@ -1819,7 +1819,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T09:15:30.113319Z"
+    "checked_at": "2026-10-30T17:05:26.827144Z"
   },
   "WZZ969": {
     "route": {
@@ -3045,7 +3045,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T05:20:31.935648Z"
+    "checked_at": "2026-10-30T17:05:26.827144Z"
   },
   "DLH193": {
     "route": {
@@ -4283,10 +4283,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T05:05:24.294985Z"
-  },
-  "WZZ9025": {
-    "route": null,
-    "checked_at": "2026-10-28T17:00:57.807712Z"
   },
   "BTI6UN": {
     "route": {
@@ -5585,7 +5581,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T09:50:30.755984Z"
+    "checked_at": "2026-10-30T17:05:26.827144Z"
   },
   "RYR5TJ": {
     "route": {
@@ -5609,10 +5605,6 @@
     },
     "checked_at": "2026-10-30T16:40:33.550825Z"
   },
-  "EJU58RW": {
-    "route": null,
-    "checked_at": "2026-10-28T17:05:24.842598Z"
-  },
   "SXS52W": {
     "route": {
       "fromCity": "Antalya",
@@ -5623,17 +5615,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-29T16:45:33.547415Z"
-  },
-  "RYR353": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T17:05:24.842598Z"
   },
   "WZZ5R": {
     "route": {
@@ -11003,5 +10984,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-30T17:00:57.146039Z"
+  },
+  "EWG60F": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T17:05:26.827144Z"
+  },
+  "EWG13N": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T17:05:26.827144Z"
   }
 }
