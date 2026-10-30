@@ -625,7 +625,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-29T12:05:25.513605Z"
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   },
   "SWR1PL": {
     "route": {
@@ -2186,7 +2186,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T15:35:25.791718Z"
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   },
   "RYR29NN": {
     "route": {
@@ -2307,7 +2307,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T11:55:23.623095Z"
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   },
   "DLH9MJ": {
     "route": {
@@ -2318,7 +2318,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T12:05:25.513605Z"
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   },
   "RYR857T": {
     "route": {
@@ -2703,7 +2703,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-29T11:50:31.666294Z"
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   },
   "DLH187": {
     "route": {
@@ -4234,7 +4234,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T12:15:30.806084Z"
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   },
   "DLH1MF": {
     "route": {
@@ -4246,17 +4246,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T11:55:22.860037Z"
-  },
-  "DLH2T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T12:10:33.223458Z"
   },
   "EWG5YA": {
     "route": {
@@ -5556,10 +5545,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T11:55:22.860037Z"
-  },
-  "BAF637": {
-    "route": null,
-    "checked_at": "2026-10-28T12:10:33.223458Z"
   },
   "EWG8432": {
     "route": {
@@ -8098,7 +8083,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-29T12:15:30.806084Z"
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   },
   "SDR24QM": {
     "route": null,
@@ -10674,5 +10659,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T12:05:25.062346Z"
+  },
+  "DLH894": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Stavanger",
+      "toIata": "SVG",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T12:10:33.288972Z"
+  },
+  "RYR7EN": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T12:10:33.288972Z"
   }
 }
