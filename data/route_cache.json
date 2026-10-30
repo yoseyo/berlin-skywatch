@@ -4157,7 +4157,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T15:20:32.788411Z"
+    "checked_at": "2026-10-30T16:35:23.960432Z"
   },
   "DLH3RV": {
     "route": {
@@ -4249,7 +4249,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T16:25:25.101907Z"
+    "checked_at": "2026-10-30T16:35:23.960432Z"
   },
   "BAW985": {
     "route": {
@@ -5575,21 +5575,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T15:50:33.363435Z"
-  },
-  "BBG273": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-28T16:30:44.809468Z"
-  },
-  "EWG9YR": {
-    "route": null,
-    "checked_at": "2026-10-28T16:30:44.809468Z"
   },
   "EWG86Z": {
     "route": null,
@@ -8242,7 +8227,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-29T17:25:28.015669Z"
+    "checked_at": "2026-10-30T16:35:23.960432Z"
   },
   "THY3330": {
     "route": {
@@ -10940,5 +10925,42 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-30T16:30:44.015863Z"
+  },
+  "EJU35NQ": {
+    "route": {
+      "fromCity": "Nantes",
+      "fromIata": "NTE",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-30T16:35:23.960432Z"
+  },
+  "ETH3750": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Guangzhou (Huadu)",
+      "toIata": "CAN",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-10-30T16:35:23.960432Z"
+  },
+  "EJU14LU": {
+    "route": null,
+    "checked_at": "2026-10-30T16:35:23.960432Z"
+  },
+  "AUA233": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-30T16:35:23.960432Z"
   }
 }
