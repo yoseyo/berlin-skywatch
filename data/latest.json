@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "BCS5959",
+      "country": "Bulgaria",
+      "lat": 52.2105,
+      "lon": 13.5807,
+      "altKm": 9.5,
+      "speedKmh": 727,
+      "heading": 66,
+      "vertRateMs": 5.2,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.4822,
-      "lon": 13.8549,
-      "altKm": 1.5,
-      "speedKmh": 373,
-      "heading": 168,
-      "vertRateMs": -6.8,
+      "lat": 52.3802,
+      "lon": 13.5379,
+      "altKm": 0.2,
+      "speedKmh": 233,
+      "heading": 249,
+      "vertRateMs": -3.6,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -16,7 +33,18 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "FPO3WZ",
+      "country": "France",
+      "lat": 52.2566,
+      "lon": 13.6304,
+      "altKm": 2.0,
+      "speedKmh": 481,
+      "heading": 58,
+      "vertRateMs": -2.9,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-30T04:35:23.129006Z"
+  "updated_at": "2026-10-30T04:40:29.959383Z"
 }
