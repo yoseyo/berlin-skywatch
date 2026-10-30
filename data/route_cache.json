@@ -1209,7 +1209,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T18:40:32.245165Z"
+    "checked_at": "2026-10-30T16:10:30.836968Z"
   },
   "LOT3JK": {
     "route": {
@@ -2972,17 +2972,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-10-30T15:20:33.936181Z"
-  },
-  "BAW983": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-28T16:05:26.888263Z"
   },
   "RYR37SL": {
     "route": {
@@ -4790,7 +4779,7 @@
   },
   "KLC1341": {
     "route": null,
-    "checked_at": "2026-10-29T16:20:34.503665Z"
+    "checked_at": "2026-10-30T16:10:30.836968Z"
   },
   "TVS4668": {
     "route": {
@@ -5543,10 +5532,6 @@
     "route": null,
     "checked_at": "2026-10-30T15:50:30.969557Z"
   },
-  "DETEG": {
-    "route": null,
-    "checked_at": "2026-10-28T16:05:26.888263Z"
-  },
   "FIN45M": {
     "route": {
       "fromCity": "Helsinki",
@@ -5557,28 +5542,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-30T15:45:30.414171Z"
-  },
-  "RYR49": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Treviso",
-      "toIata": "TSF",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T16:05:26.888263Z"
-  },
-  "EWG7T": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T16:05:26.888263Z"
   },
   "EWG5HY": {
     "route": null,
@@ -5619,7 +5582,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-29T16:25:25.101907Z"
+    "checked_at": "2026-10-30T16:10:30.836968Z"
   },
   "EWG9045": {
     "route": {
@@ -10929,5 +10892,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T16:05:24.797618Z"
+  },
+  "LZB320": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Bulgaria Air",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-30T16:10:30.836968Z"
   }
 }
