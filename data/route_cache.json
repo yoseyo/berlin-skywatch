@@ -2474,17 +2474,6 @@
     },
     "checked_at": "2026-10-30T13:35:25.642082Z"
   },
-  "RYR13FY": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-28T19:45:31.647168Z"
-  },
   "EJU41AH": {
     "route": {
       "fromCity": "Rome",
@@ -5610,10 +5599,6 @@
   "EWG38HU": {
     "route": null,
     "checked_at": "2026-10-30T15:25:25.196271Z"
-  },
-  "RHH223": {
-    "route": null,
-    "checked_at": "2026-10-28T19:45:31.647168Z"
   },
   "EJU84PU": {
     "route": null,
@@ -11130,5 +11115,20 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-30T19:40:30.724160Z"
+  },
+  "WMT7KQ": {
+    "route": null,
+    "checked_at": "2026-10-30T19:50:30.579412Z"
+  },
+  "RYR1GW": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Pisa",
+      "toIata": "PSA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T19:50:30.579412Z"
   }
 }
