@@ -867,7 +867,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T05:40:31.609860Z"
+    "checked_at": "2026-10-30T06:15:29.160253Z"
   },
   "KLM67B": {
     "route": {
@@ -1536,7 +1536,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-29T06:20:29.525722Z"
+    "checked_at": "2026-10-30T06:15:29.160253Z"
   },
   "EJU41UZ": {
     "route": {
@@ -5256,7 +5256,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T14:20:32.880310Z"
+    "checked_at": "2026-10-30T06:15:29.160253Z"
   },
   "RYR5GA": {
     "route": {
@@ -5682,17 +5682,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T05:30:41.354771Z"
-  },
-  "PGT95KW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-28T06:10:32.366572Z"
   },
   "EJU81RG": {
     "route": {
@@ -10714,5 +10703,20 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T06:05:23.985229Z"
+  },
+  "EWG44CM": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T06:15:29.160253Z"
+  },
+  "EWG6FB": {
+    "route": null,
+    "checked_at": "2026-10-30T06:15:29.160253Z"
   }
 }
