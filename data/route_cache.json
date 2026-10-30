@@ -937,7 +937,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-28T19:20:35.516803Z"
+    "checked_at": "2026-10-30T19:15:28.359975Z"
   },
   "CFG553": {
     "route": null,
@@ -3279,7 +3279,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T19:05:26.379893Z"
+    "checked_at": "2026-10-30T19:15:28.359975Z"
   },
   "BAW99XC": {
     "route": {
@@ -5606,28 +5606,6 @@
     "route": null,
     "checked_at": "2026-10-30T18:45:27.364118Z"
   },
-  "BTI6UQ": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-28T19:10:33.505406Z"
-  },
-  "TGZ782": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tbilisi",
-      "toIata": "TBS",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-10-28T19:10:33.505406Z"
-  },
   "FSE1F": {
     "route": null,
     "checked_at": "2026-10-29T10:30:43.513075Z"
@@ -5794,7 +5772,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T19:15:33.451181Z"
+    "checked_at": "2026-10-30T19:15:28.359975Z"
   },
   "RYR4BP": {
     "route": {
@@ -11101,5 +11079,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-30T19:10:29.946927Z"
+  },
+  "RAM222B": {
+    "route": {
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "SVO",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-10-30T19:15:28.359975Z"
+  },
+  "RYR8CJ": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T19:15:28.359975Z"
   }
 }
