@@ -3394,7 +3394,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T20:20:33.899157Z"
+    "checked_at": "2026-10-30T21:35:23.878759Z"
   },
   "BAW84PW": {
     "route": {
@@ -3535,7 +3535,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T20:35:23.081086Z"
+    "checked_at": "2026-10-30T21:35:23.878759Z"
   },
   "WZZ8282": {
     "route": {
@@ -3581,7 +3581,7 @@
   },
   "AFR17MD": {
     "route": null,
-    "checked_at": "2026-10-29T21:25:23.713676Z"
+    "checked_at": "2026-10-30T21:35:23.878759Z"
   },
   "EJU69VQ": {
     "route": {
@@ -3936,10 +3936,6 @@
   "WZZ8409": {
     "route": null,
     "checked_at": "2026-10-30T09:25:24.611464Z"
-  },
-  "CHX71": {
-    "route": null,
-    "checked_at": "2026-10-28T21:30:42.685178Z"
   },
   "KLM75C": {
     "route": {
@@ -5625,17 +5621,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T07:10:31.115293Z"
-  },
-  "DLH8YV": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Bergen",
-      "toIata": "BGO",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T21:30:42.685178Z"
   },
   "EJU15QB": {
     "route": null,
@@ -11189,5 +11174,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T21:30:39.931265Z"
+  },
+  "EWG4J": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T21:35:23.878759Z"
+  },
+  "SAS2690": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-30T21:35:23.878759Z"
+  },
+  "EWG7HG": {
+    "route": {
+      "fromCity": "Innsbruck",
+      "fromIata": "INN",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T21:35:23.878759Z"
   }
 }
