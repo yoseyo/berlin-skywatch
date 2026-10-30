@@ -1470,7 +1470,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-28T05:40:33.245377Z"
+    "checked_at": "2026-10-30T05:40:31.709942Z"
   },
   "DLH7AL": {
     "route": {
@@ -10640,5 +10640,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T05:35:24.467232Z"
+  },
+  "RYR35ZX": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Trapani (TP)",
+      "toIata": "TPS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T05:40:31.709942Z"
+  },
+  "VKG288": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-10-30T05:40:31.709942Z"
   }
 }
