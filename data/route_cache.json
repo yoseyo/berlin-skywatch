@@ -2406,7 +2406,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-29T12:15:30.806084Z"
+    "checked_at": "2026-10-30T12:20:34.025734Z"
   },
   "THY6EU": {
     "route": {
@@ -4208,7 +4208,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T10:20:32.609739Z"
+    "checked_at": "2026-10-30T12:20:34.025734Z"
   },
   "RYR64LR": {
     "route": null,
@@ -5545,32 +5545,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T11:55:22.860037Z"
-  },
-  "EWG8432": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bastia/Poretta",
-      "toIata": "BIA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-28T12:15:32.785665Z"
-  },
-  "CAL5539": {
-    "route": {
-      "fromCity": "New Delhi",
-      "fromIata": "DEL",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "China Airlines",
-      "airlineCountry": "Taiwan"
-    },
-    "checked_at": "2026-10-28T12:20:31.694705Z"
-  },
-  "RYR79EY": {
-    "route": null,
-    "checked_at": "2026-10-28T12:20:31.694705Z"
   },
   "EJU48EZ": {
     "route": {
@@ -10696,5 +10670,60 @@
   "RYR564M": {
     "route": null,
     "checked_at": "2026-10-30T12:15:29.813597Z"
+  },
+  "RYR8447": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T12:20:34.025734Z"
+  },
+  "DLH1AC": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T12:20:34.025734Z"
+  },
+  "DLH2EJ": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-30T12:20:34.025734Z"
+  },
+  "NMA738": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-30T12:20:34.025734Z"
+  },
+  "MSR759": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-30T12:20:34.025734Z"
   }
 }
