@@ -1,50 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "LGL94D",
-      "country": "Luxembourg",
-      "lat": 52.4091,
-      "lon": 13.6606,
-      "altKm": 0.6,
-      "speedKmh": 305,
-      "heading": 247,
-      "vertRateMs": -3.9,
-      "category": "plane"
-    },
-    {
-      "callsign": "ETH724",
-      "country": "Ethiopia",
-      "lat": 52.4133,
-      "lon": 13.8881,
-      "altKm": 12.5,
-      "speedKmh": 832,
-      "heading": 346,
-      "vertRateMs": 0.3,
-      "airline": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia",
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR1GE",
-      "country": "Ireland",
-      "lat": 52.2655,
-      "lon": 13.548,
-      "altKm": 4.6,
-      "speedKmh": 482,
-      "heading": 93,
-      "vertRateMs": 14.3,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
+      "callsign": "DLH2KP",
+      "country": "Germany",
+      "lat": 52.1945,
+      "lon": 13.1568,
+      "altKm": 2.9,
+      "speedKmh": 551,
+      "heading": 234,
+      "vertRateMs": 17.6,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-30T06:50:29.875975Z"
+  "updated_at": "2026-10-30T06:55:21.724018Z"
 }
