@@ -836,17 +836,6 @@
     },
     "checked_at": "2026-10-30T18:10:31.610291Z"
   },
-  "KLM1782": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-10-28T18:10:32.435953Z"
-  },
   "LOT5NA": {
     "route": {
       "fromCity": "Warsaw",
@@ -944,7 +933,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-29T18:05:28.051229Z"
+    "checked_at": "2026-10-30T18:15:28.047815Z"
   },
   "CFG552": {
     "route": null,
@@ -5637,17 +5626,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T18:10:31.610291Z"
-  },
-  "EJU57RH": {
-    "route": {
-      "fromCity": "Sta Cruz de la Palma, La Palma Island",
-      "fromIata": "SPC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-28T18:10:32.435953Z"
   },
   "DGFKH": {
     "route": null,
@@ -11024,5 +11002,27 @@
   "RYR75AW": {
     "route": null,
     "checked_at": "2026-10-30T18:05:25.256063Z"
+  },
+  "BEL7PJ": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-10-30T18:15:28.047815Z"
+  },
+  "RYR873P": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-30T18:15:28.047815Z"
   }
 }
