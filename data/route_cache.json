@@ -2241,7 +2241,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T10:15:30.545652Z"
+    "checked_at": "2026-10-30T10:45:28.643556Z"
   },
   "BAW97ED": {
     "route": {
@@ -10681,5 +10681,31 @@
   "PTO1596": {
     "route": null,
     "checked_at": "2026-10-30T10:40:30.439276Z"
+  },
+  "SAH59P": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-30T10:45:28.643556Z"
+  },
+  "LOT6140": {
+    "route": {
+      "fromCity": "Punta Cana",
+      "fromIata": "PUJ",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-30T10:45:28.643556Z"
+  },
+  "BAW973E": {
+    "route": null,
+    "checked_at": "2026-10-30T10:45:28.643556Z"
   }
 }
