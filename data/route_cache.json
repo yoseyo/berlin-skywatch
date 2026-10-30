@@ -2582,7 +2582,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T13:15:30.358227Z"
+    "checked_at": "2026-10-30T13:25:24.232279Z"
   },
   "SXS97P": {
     "route": {
@@ -2681,7 +2681,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T12:50:33.265170Z"
+    "checked_at": "2026-10-30T13:25:24.232279Z"
   },
   "THY1NC": {
     "route": {
@@ -5645,7 +5645,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-29T13:35:25.581192Z"
+    "checked_at": "2026-10-30T13:25:24.232279Z"
   },
   "EWG89KP": {
     "route": null,
@@ -10809,5 +10809,16 @@
   "NJE812P": {
     "route": null,
     "checked_at": "2026-10-30T13:20:33.375666Z"
+  },
+  "CCA950": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-30T13:25:24.232279Z"
   }
 }
