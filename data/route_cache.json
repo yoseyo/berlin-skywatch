@@ -1448,7 +1448,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-29T05:25:29.417606Z"
+    "checked_at": "2026-10-30T05:25:22.680052Z"
   },
   "THY4QH": {
     "route": {
@@ -4594,10 +4594,6 @@
     },
     "checked_at": "2026-10-29T15:20:32.788411Z"
   },
-  "UAG101": {
-    "route": null,
-    "checked_at": "2026-10-28T05:20:31.015588Z"
-  },
   "DLH3RV": {
     "route": {
       "fromCity": "Cagliari",
@@ -5686,17 +5682,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-28T20:45:28.449700Z"
-  },
-  "NIA3388": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-28T05:20:31.015588Z"
   },
   "DLH3AF": {
     "route": {
@@ -10622,5 +10607,16 @@
   "SDR80RF": {
     "route": null,
     "checked_at": "2026-10-30T05:20:28.436276Z"
+  },
+  "NIA8501": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-30T05:25:22.680052Z"
   }
 }

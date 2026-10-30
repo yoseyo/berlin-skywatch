@@ -1,16 +1,46 @@
 {
   "flights": [
     {
+      "callsign": "DLH2EE",
+      "country": "Germany",
+      "lat": 52.3377,
+      "lon": 13.4435,
+      "altKm": 0.5,
+      "speedKmh": 297,
+      "heading": 231,
+      "vertRateMs": 8.8,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    },
+    {
+      "callsign": "NIA8501",
+      "country": "Egypt",
+      "lat": 52.1251,
+      "lon": 14.0754,
+      "altKm": 3.2,
+      "speedKmh": 517,
+      "heading": 336,
+      "vertRateMs": -0.7,
+      "airline": "Nile Air",
+      "airlineCountry": "Egypt",
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "category": "plane"
+    },
+    {
       "callsign": "SDR80RF",
       "country": "Germany",
-      "lat": 52.3561,
-      "lon": 13.4356,
-      "altKm": 1.1,
-      "speedKmh": 287,
-      "heading": 249,
-      "vertRateMs": 10.1,
+      "lat": 52.2474,
+      "lon": 13.5228,
+      "altKm": 5.4,
+      "speedKmh": 641,
+      "heading": 91,
+      "vertRateMs": 15.9,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-30T05:20:28.436276Z"
+  "updated_at": "2026-10-30T05:25:22.680052Z"
 }
