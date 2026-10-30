@@ -4096,7 +4096,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-29T07:00:55.051792Z"
+    "checked_at": "2026-10-30T07:10:31.115293Z"
   },
   "AUA991A": {
     "route": null,
@@ -7589,7 +7589,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T09:30:45.522200Z"
+    "checked_at": "2026-10-30T07:10:31.115293Z"
   },
   "EJU94HQ": {
     "route": null,
@@ -8511,7 +8511,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-29T10:30:43.513075Z"
+    "checked_at": "2026-10-30T07:10:31.115293Z"
   },
   "GAF009": {
     "route": null,
@@ -10681,5 +10681,27 @@
   "PTN99W": {
     "route": null,
     "checked_at": "2026-10-30T07:05:23.356833Z"
+  },
+  "BTI83L": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-30T07:10:31.115293Z"
+  },
+  "NIA8502": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-10-30T07:10:31.115293Z"
   }
 }
