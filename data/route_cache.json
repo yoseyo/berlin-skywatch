@@ -526,7 +526,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-30T11:15:29.329352Z"
+    "checked_at": "2026-10-31T11:55:23.606573Z"
   },
   "AEE2WD": {
     "route": {
@@ -3769,7 +3769,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T11:55:22.860037Z"
+    "checked_at": "2026-10-31T11:55:23.606573Z"
   },
   "EWG5YA": {
     "route": {
@@ -5653,32 +5653,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T22:00:48.619210Z"
-  },
-  "GAC018E": {
-    "route": null,
-    "checked_at": "2026-10-29T11:50:31.666294Z"
-  },
-  "PGT61YY": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-29T11:50:31.666294Z"
-  },
-  "RYR252U": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T11:50:31.666294Z"
   },
   "WZZ24TK": {
     "route": {
@@ -8304,7 +8278,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-30T11:40:31.713547Z"
+    "checked_at": "2026-10-31T11:55:23.606573Z"
   },
   "UAL140": {
     "route": {
@@ -11144,5 +11118,16 @@
   "TAH456": {
     "route": null,
     "checked_at": "2026-10-31T11:50:31.589404Z"
+  },
+  "FIN96W": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-31T11:55:23.606573Z"
   }
 }
