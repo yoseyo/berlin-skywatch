@@ -1426,7 +1426,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-30T06:15:29.160253Z"
+    "checked_at": "2026-10-31T06:10:32.579622Z"
   },
   "EJU41UZ": {
     "route": {
@@ -5703,17 +5703,6 @@
     "route": null,
     "checked_at": "2026-10-31T05:45:27.711593Z"
   },
-  "EWG9Z": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T06:05:26.979867Z"
-  },
   "KLM64F": {
     "route": {
       "fromCity": "Warsaw",
@@ -5723,7 +5712,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T07:20:30.137390Z"
+    "checked_at": "2026-10-31T06:10:32.579622Z"
   },
   "PGT981": {
     "route": {
@@ -11269,5 +11258,27 @@
   "WMT8EK": {
     "route": null,
     "checked_at": "2026-10-31T06:05:24.932862Z"
+  },
+  "SAS72X": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T06:10:32.579622Z"
+  },
+  "EWG20P": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T06:10:32.579622Z"
   }
 }
