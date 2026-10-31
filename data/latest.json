@@ -1,25 +1,25 @@
 {
   "flights": [
     {
-      "callsign": "BNJ2712",
-      "country": "Belgium",
-      "lat": 52.3393,
-      "lon": 12.7119,
-      "altKm": 7.1,
-      "speedKmh": 781,
-      "heading": 257,
-      "vertRateMs": 9.8,
-      "category": "jet"
+      "callsign": "SAS45C",
+      "country": "Sweden",
+      "lat": 52.8399,
+      "lon": 12.9939,
+      "altKm": 4.1,
+      "speedKmh": 691,
+      "heading": 179,
+      "vertRateMs": -10.1,
+      "category": "plane"
     },
     {
       "callsign": "RYR27PY",
       "country": "Ireland",
-      "lat": 52.3845,
-      "lon": 13.5561,
-      "altKm": 0.6,
-      "speedKmh": 291,
-      "heading": 69,
-      "vertRateMs": 11.1,
+      "lat": 52.1477,
+      "lon": 13.7889,
+      "altKm": 4.1,
+      "speedKmh": 720,
+      "heading": 176,
+      "vertRateMs": 12.7,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Berlin",
@@ -31,12 +31,12 @@
     {
       "callsign": "TGZ781",
       "country": "Georgia",
-      "lat": 52.1866,
-      "lon": 13.2817,
-      "altKm": 2.1,
-      "speedKmh": 434,
-      "heading": 324,
-      "vertRateMs": -6.8,
+      "lat": 52.3419,
+      "lon": 13.4536,
+      "altKm": 0.2,
+      "speedKmh": 278,
+      "heading": 69,
+      "vertRateMs": -4.5,
       "airline": "Georgian Airways",
       "airlineCountry": "Georgia",
       "fromCity": "Tbilisi",
@@ -44,7 +44,24 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "SAS695",
+      "country": "Ireland",
+      "lat": 52.3034,
+      "lon": 14.0114,
+      "altKm": 10.9,
+      "speedKmh": 980,
+      "heading": 171,
+      "vertRateMs": 0,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-31T17:25:22.261605Z"
+  "updated_at": "2026-10-31T17:30:39.065087Z"
 }

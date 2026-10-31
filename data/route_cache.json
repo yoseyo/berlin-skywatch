@@ -3106,7 +3106,7 @@
   },
   "SAS45C": {
     "route": null,
-    "checked_at": "2026-10-30T18:45:27.364118Z"
+    "checked_at": "2026-10-31T17:30:39.065087Z"
   },
   "DLH4LV": {
     "route": {
@@ -11208,5 +11208,16 @@
       "airlineCountry": "Georgia"
     },
     "checked_at": "2026-10-31T17:25:22.261605Z"
+  },
+  "SAS695": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T17:30:39.065087Z"
   }
 }
