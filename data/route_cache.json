@@ -504,7 +504,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T12:35:26.292319Z"
+    "checked_at": "2026-10-31T09:45:28.565700Z"
   },
   "DLH8N": {
     "route": {
@@ -1793,7 +1793,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T09:30:40.898409Z"
+    "checked_at": "2026-10-31T09:45:28.565700Z"
   },
   "EJU75ZF": {
     "route": {
@@ -2072,7 +2072,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T12:10:33.288972Z"
+    "checked_at": "2026-10-31T09:45:28.565700Z"
   },
   "DLH3CM": {
     "route": {
@@ -2797,10 +2797,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T17:00:57.146039Z"
-  },
-  "RYR37GU": {
-    "route": null,
-    "checked_at": "2026-10-29T09:40:31.822178Z"
   },
   "QTR73F": {
     "route": {
@@ -5705,28 +5701,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T09:20:32.929960Z"
-  },
-  "DLH5MM": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T09:40:31.822178Z"
-  },
-  "WMT489": {
-    "route": {
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Tirana",
-      "toIata": "TIA",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-10-29T09:40:31.822178Z"
   },
   "NOZ1146": {
     "route": {
@@ -8995,7 +8969,7 @@
   },
   "N9AW": {
     "route": null,
-    "checked_at": "2026-10-30T12:55:23.103907Z"
+    "checked_at": "2026-10-31T09:45:28.565700Z"
   },
   "DLH6EK": {
     "route": {
@@ -11263,5 +11237,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T09:35:21.610049Z"
+  },
+  "RYR58HQ": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T09:45:28.565700Z"
+  },
+  "SXS49Y": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T09:45:28.565700Z"
   }
 }
