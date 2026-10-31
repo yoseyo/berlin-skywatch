@@ -1681,17 +1681,6 @@
     },
     "checked_at": "2026-10-31T08:45:27.598747Z"
   },
-  "RYR7YR": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T08:54:34.710155Z"
-  },
   "BAW974": {
     "route": {
       "fromCity": "London",
@@ -11279,5 +11268,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T08:50:31.943450Z"
+  },
+  "CTN480": {
+    "route": {
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-10-31T08:55:23.504041Z"
   }
 }
