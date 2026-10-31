@@ -3780,7 +3780,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-30T08:25:23.961090Z"
+    "checked_at": "2026-10-31T08:15:29.479121Z"
   },
   "DLH4KV": {
     "route": {
@@ -4376,17 +4376,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-29T08:25:23.952959Z"
-  },
-  "SAS31T": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-29T08:10:30.985188Z"
   },
   "WZZ26PX": {
     "route": {
@@ -5745,21 +5734,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-31T07:55:23.524830Z"
-  },
-  "SAS30H": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-29T08:10:30.985188Z"
-  },
-  "GAF614": {
-    "route": null,
-    "checked_at": "2026-10-29T08:10:30.985188Z"
   },
   "RYR649T": {
     "route": {
@@ -11338,5 +11312,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T08:10:30.911164Z"
+  },
+  "MGH650": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Mavi Gok Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T08:15:29.479121Z"
   }
 }
