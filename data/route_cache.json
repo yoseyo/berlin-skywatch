@@ -2629,17 +2629,6 @@
     },
     "checked_at": "2026-10-31T06:25:23.149210Z"
   },
-  "BTI3FL": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-29T15:25:25.278925Z"
-  },
   "DLH6LJ": {
     "route": {
       "fromCity": "London",
@@ -4820,17 +4809,6 @@
     },
     "checked_at": "2026-10-30T14:20:30.679432Z"
   },
-  "DLH6NW": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T15:25:25.278925Z"
-  },
   "DLH8CX": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5774,17 +5752,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-31T09:30:41.086096Z"
-  },
-  "CAI1M": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-29T15:20:32.788411Z"
   },
   "EJU31DR": {
     "route": null,
@@ -9090,7 +9057,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T18:15:28.047815Z"
+    "checked_at": "2026-10-31T15:25:28.374639Z"
   },
   "RYR5RG": {
     "route": {
@@ -11198,5 +11165,27 @@
   "AFR25KD": {
     "route": null,
     "checked_at": "2026-10-31T15:20:28.791432Z"
+  },
+  "TVS4465": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-31T15:25:28.374639Z"
+  },
+  "SAH51P": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-31T15:25:28.374639Z"
   }
 }
