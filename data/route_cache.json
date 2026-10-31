@@ -126,7 +126,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-30T17:05:26.827144Z"
+    "checked_at": "2026-10-31T17:05:24.022225Z"
   },
   "AEE82B": {
     "route": {
@@ -841,7 +841,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T17:15:31.447136Z"
+    "checked_at": "2026-10-31T17:05:24.022225Z"
   },
   "KLM73D": {
     "route": {
@@ -11168,5 +11168,42 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T17:00:48.850633Z"
+  },
+  "RYR46MW": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T17:05:24.022225Z"
+  },
+  "RYR37GU": {
+    "route": null,
+    "checked_at": "2026-10-31T17:05:24.022225Z"
+  },
+  "THY3354": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T17:05:24.022225Z"
+  },
+  "RYR87GR": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T17:05:24.022225Z"
   }
 }
