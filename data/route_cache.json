@@ -2739,7 +2739,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T16:55:24.233957Z"
+    "checked_at": "2026-10-31T16:35:22.419036Z"
   },
   "DLH7T": {
     "route": {
@@ -5731,14 +5731,6 @@
     },
     "checked_at": "2026-10-30T16:25:22.491809Z"
   },
-  "RJES08": {
-    "route": null,
-    "checked_at": "2026-10-29T16:30:43.438691Z"
-  },
-  "EWG42V": {
-    "route": null,
-    "checked_at": "2026-10-29T16:30:43.438691Z"
-  },
   "RJA5138": {
     "route": {
       "fromCity": "Berlin",
@@ -5886,7 +5878,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-30T16:35:23.960432Z"
+    "checked_at": "2026-10-31T16:35:22.419036Z"
   },
   "THY3330": {
     "route": {
@@ -11165,5 +11157,16 @@
   "HOP82RB": {
     "route": null,
     "checked_at": "2026-10-31T16:30:37.901448Z"
+  },
+  "SAS23G": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T16:35:22.419036Z"
   }
 }
