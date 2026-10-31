@@ -3398,7 +3398,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T16:25:22.491809Z"
+    "checked_at": "2026-10-31T08:05:25.051482Z"
   },
   "SAS95W": {
     "route": {
@@ -3673,7 +3673,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T08:25:23.961090Z"
+    "checked_at": "2026-10-31T08:05:25.051482Z"
   },
   "EJU46PA": {
     "route": {
@@ -11290,5 +11290,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T08:00:48.070982Z"
+  },
+  "SDR60XG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T08:05:25.051482Z"
+  },
+  "SAS49L": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T08:05:25.051482Z"
+  },
+  "SAS793": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T08:05:25.051482Z"
   }
 }
