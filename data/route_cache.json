@@ -405,7 +405,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T09:15:28.882886Z"
+    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "SWR3TE": {
     "route": {
@@ -834,7 +834,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-30T09:40:32.575586Z"
+    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "KLM95T": {
     "route": {
@@ -1253,7 +1253,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T09:35:22.107610Z"
+    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "PGT979": {
     "route": {
@@ -1771,7 +1771,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-30T09:40:32.575586Z"
+    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "DLH5KL": {
     "route": {
@@ -2336,7 +2336,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T12:50:31.490221Z"
+    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "CXI28UU": {
     "route": {
@@ -5682,48 +5682,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T09:30:40.898409Z"
-  },
-  "NSZ2040": {
-    "route": null,
-    "checked_at": "2026-10-29T09:25:23.732668Z"
-  },
-  "RYR4NJ": {
-    "route": {
-      "fromCity": "Verona",
-      "fromIata": "VRN",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T09:25:23.732668Z"
-  },
-  "DCPDC": {
-    "route": null,
-    "checked_at": "2026-10-29T09:25:23.732668Z"
-  },
-  "RYR77LL": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Brno",
-      "toIata": "BRQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T09:25:23.732668Z"
-  },
-  "AEE4773": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-29T09:25:23.732668Z"
+    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "RYR36DQ": {
     "route": {
@@ -6727,8 +6686,15 @@
     "checked_at": "2026-10-29T15:15:32.797162Z"
   },
   "WZZ1QS": {
-    "route": null,
-    "checked_at": "2026-10-29T15:20:32.788411Z"
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "CAI1M": {
     "route": {
