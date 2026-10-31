@@ -592,7 +592,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T12:50:31.490221Z"
+    "checked_at": "2026-10-31T12:55:23.677398Z"
   },
   "SAS1677": {
     "route": {
@@ -996,7 +996,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-30T12:30:46.085618Z"
+    "checked_at": "2026-10-31T12:55:23.677398Z"
   },
   "CFE61X": {
     "route": {
@@ -1253,7 +1253,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-29T12:55:24.351642Z"
+    "checked_at": "2026-10-31T12:55:23.677398Z"
   },
   "EWG2JM": {
     "route": null,
@@ -2303,7 +2303,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-30T13:35:25.642082Z"
+    "checked_at": "2026-10-31T12:55:23.677398Z"
   },
   "EJU41AH": {
     "route": {
@@ -2336,7 +2336,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-29T14:45:31.297449Z"
+    "checked_at": "2026-10-31T12:55:23.677398Z"
   },
   "NOZ1105": {
     "route": {
@@ -5704,21 +5704,6 @@
       "airlineCountry": "Iceland"
     },
     "checked_at": "2026-10-31T12:35:21.821584Z"
-  },
-  "RYR3LN": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T12:50:33.265170Z"
-  },
-  "BPO515": {
-    "route": null,
-    "checked_at": "2026-10-29T12:50:33.265170Z"
   },
   "SEH874": {
     "route": {
@@ -11136,5 +11121,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T12:50:29.286818Z"
+  },
+  "CCA446": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Jianyang, Chengdu",
+      "toIata": "TFU",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-31T12:55:23.677398Z"
   }
 }
