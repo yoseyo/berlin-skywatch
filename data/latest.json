@@ -1,57 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "WMT8HG",
-      "country": "Hungary",
-      "lat": 52.1772,
-      "lon": 14.0915,
-      "altKm": 10.9,
-      "speedKmh": 856,
-      "heading": 130,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "SWR53Q",
-      "country": "Latvia",
-      "lat": 52.7533,
-      "lon": 12.9111,
-      "altKm": 11.6,
-      "speedKmh": 668,
-      "heading": 39,
-      "vertRateMs": 0,
-      "airline": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland",
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "category": "plane"
-    },
-    {
-      "callsign": "AFR17MD",
-      "country": "France",
-      "lat": 52.3103,
-      "lon": 13.3215,
-      "altKm": 0.7,
-      "speedKmh": 282,
-      "heading": 70,
-      "vertRateMs": -4.5,
-      "category": "plane"
-    },
-    {
-      "callsign": "EWG92J",
+      "callsign": "DLH9HA",
       "country": "Germany",
-      "lat": 52.3357,
-      "lon": 13.4275,
-      "altKm": 0.3,
-      "speedKmh": 237,
-      "heading": 68,
-      "vertRateMs": -4.2,
+      "lat": 52.2484,
+      "lon": 13.107,
+      "altKm": 1.1,
+      "speedKmh": 413,
+      "heading": 45,
+      "vertRateMs": -2.3,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG1T",
+      "country": "Germany",
+      "lat": 52.3236,
+      "lon": 12.8523,
+      "altKm": 2.5,
+      "speedKmh": 439,
+      "heading": 98,
+      "vertRateMs": -10.7,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Cologne",
+      "toIata": "CGN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-31T21:35:23.680458Z"
+  "updated_at": "2026-10-31T21:40:37.278595Z"
 }
