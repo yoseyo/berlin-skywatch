@@ -3213,7 +3213,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T20:40:31.437047Z"
+    "checked_at": "2026-10-31T20:25:21.273220Z"
   },
   "LOT1MZ": {
     "route": null,
@@ -3236,7 +3236,7 @@
   },
   "SAS82U": {
     "route": null,
-    "checked_at": "2026-10-30T20:25:22.483875Z"
+    "checked_at": "2026-10-31T20:25:21.273220Z"
   },
   "DLH5AH": {
     "route": {
@@ -5865,17 +5865,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T20:10:30.338214Z"
-  },
-  "RYR33CC": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T20:20:33.899157Z"
   },
   "BEL9NK": {
     "route": {
@@ -11146,5 +11135,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T20:15:27.241469Z"
+  },
+  "SDR16XK": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T20:25:21.273220Z"
   }
 }
