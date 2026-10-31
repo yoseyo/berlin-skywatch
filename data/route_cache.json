@@ -952,7 +952,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-30T06:30:45.378115Z"
+    "checked_at": "2026-10-31T06:30:43.553644Z"
   },
   "SAS63Z": {
     "route": {
@@ -4626,7 +4626,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-29T09:25:23.732668Z"
+    "checked_at": "2026-10-31T06:30:43.553644Z"
   },
   "RYR35BR": {
     "route": null,
@@ -5724,39 +5724,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T06:40:30.806162Z"
-  },
-  "EWG22MU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T06:25:23.779628Z"
-  },
-  "EJU61RG": {
-    "route": {
-      "fromCity": "Marrakech",
-      "fromIata": "RAK",
-      "toCity": "Strasbourg",
-      "toIata": "SXB",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-29T06:30:43.426415Z"
-  },
-  "CFG2CA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T06:30:43.426415Z"
   },
   "FIN3AZ": {
     "route": {
@@ -6938,7 +6905,7 @@
   },
   "RYR77AJ": {
     "route": null,
-    "checked_at": "2026-10-29T13:50:32.519431Z"
+    "checked_at": "2026-10-31T06:30:43.553644Z"
   },
   "ISR254": {
     "route": {
@@ -11328,5 +11295,16 @@
   "EZS52MN": {
     "route": null,
     "checked_at": "2026-10-31T06:25:23.149210Z"
+  },
+  "FIN23B": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-31T06:30:43.553644Z"
   }
 }
