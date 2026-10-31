@@ -1415,7 +1415,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-30T06:00:50.855866Z"
+    "checked_at": "2026-10-31T06:00:50.414650Z"
   },
   "IBE07WP": {
     "route": {
@@ -5694,21 +5694,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T06:05:23.985229Z"
-  },
-  "SAS1697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-29T05:55:25.279975Z"
-  },
-  "VKG4188": {
-    "route": null,
-    "checked_at": "2026-10-29T05:55:25.279975Z"
   },
   "DCS603": {
     "route": null,
@@ -11280,5 +11265,16 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-31T05:55:22.603541Z"
+  },
+  "NSZ6HE": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T06:00:50.414650Z"
   }
 }
