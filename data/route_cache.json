@@ -427,7 +427,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-30T09:50:30.174471Z"
+    "checked_at": "2026-10-31T10:20:30.858329Z"
   },
   "SAS85J": {
     "route": {
@@ -493,7 +493,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-30T10:40:30.439276Z"
+    "checked_at": "2026-10-31T10:20:30.858329Z"
   },
   "KLM1775": {
     "route": {
@@ -1804,7 +1804,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-30T10:05:25.422771Z"
+    "checked_at": "2026-10-31T10:20:30.858329Z"
   },
   "WZZ9327": {
     "route": null,
@@ -4271,7 +4271,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-29T10:20:32.609739Z"
+    "checked_at": "2026-10-31T10:20:30.858329Z"
   },
   "FIN5BM": {
     "route": {
@@ -5642,17 +5642,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-30T09:55:23.349382Z"
-  },
-  "DLH5AW": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T10:15:30.545652Z"
   },
   "NOZ6BS": {
     "route": {
@@ -8320,8 +8309,15 @@
     "checked_at": "2026-10-30T10:05:25.422771Z"
   },
   "EWG72V": {
-    "route": null,
-    "checked_at": "2026-10-30T10:10:31.672819Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T10:20:30.858329Z"
   },
   "DMS2NW": {
     "route": null,
