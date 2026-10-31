@@ -49,7 +49,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T15:00:53.664973Z"
+    "checked_at": "2026-10-31T15:15:28.973355Z"
   },
   "KLM1779": {
     "route": {
@@ -5753,21 +5753,6 @@
     },
     "checked_at": "2026-10-31T15:05:23.011406Z"
   },
-  "EJU5312": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-29T15:10:35.109486Z"
-  },
-  "GAC896H": {
-    "route": null,
-    "checked_at": "2026-10-29T15:10:35.109486Z"
-  },
   "EJU61GN": {
     "route": {
       "fromCity": "Larnaca",
@@ -5877,7 +5862,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-30T15:20:33.936181Z"
+    "checked_at": "2026-10-31T15:15:28.973355Z"
   },
   "FIN8KT": {
     "route": {
@@ -6237,7 +6222,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T18:05:28.051229Z"
+    "checked_at": "2026-10-31T15:15:28.973355Z"
   },
   "EWG8MF": {
     "route": {
@@ -9311,7 +9296,7 @@
   },
   "RYR45WX": {
     "route": null,
-    "checked_at": "2026-10-30T19:20:30.698879Z"
+    "checked_at": "2026-10-31T15:15:28.973355Z"
   },
   "NOZ9VF": {
     "route": {
@@ -11187,5 +11172,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-31T15:10:28.541761Z"
+  },
+  "N177LN": {
+    "route": {
+      "fromCity": "Trebbin",
+      "fromIata": null,
+      "toCity": "London",
+      "toIata": "BQH",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-31T15:15:28.973355Z"
+  },
+  "EWG8681": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T15:15:28.973355Z"
   }
 }
