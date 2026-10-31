@@ -438,7 +438,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-30T10:15:30.089703Z"
+    "checked_at": "2026-10-31T10:10:30.175188Z"
   },
   "AEE8RB": {
     "route": {
@@ -1853,17 +1853,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T10:05:24.960346Z"
-  },
-  "BAW976": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Hannover",
-      "toIata": "HAJ",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-29T10:05:26.985001Z"
   },
   "CAI91DX": {
     "route": {
@@ -5104,7 +5093,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T17:05:26.827144Z"
+    "checked_at": "2026-10-31T10:10:30.175188Z"
   },
   "RYR5TJ": {
     "route": {
@@ -5672,32 +5661,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-30T09:55:23.349382Z"
-  },
-  "GPX3JX": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Malm\u00f6",
-      "toIata": "MMX",
-      "airlineName": "GP Aviation",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-10-29T10:05:26.985001Z"
-  },
-  "ATU100": {
-    "route": null,
-    "checked_at": "2026-10-29T10:05:26.985001Z"
-  },
-  "CFG8DF": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T10:05:26.985001Z"
   },
   "DLH5AW": {
     "route": {
@@ -11234,5 +11197,16 @@
   "TAH455": {
     "route": null,
     "checked_at": "2026-10-31T10:05:24.960346Z"
+  },
+  "EJU61RG": {
+    "route": {
+      "fromCity": "Marrakech",
+      "fromIata": "RAK",
+      "toCity": "Strasbourg",
+      "toIata": "SXB",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-31T10:10:30.175188Z"
   }
 }
