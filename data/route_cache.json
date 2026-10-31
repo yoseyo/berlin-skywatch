@@ -3061,11 +3061,11 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-29T19:25:24.572849Z"
+    "checked_at": "2026-10-31T19:10:31.764486Z"
   },
   "AFR15VR": {
     "route": null,
-    "checked_at": "2026-10-30T19:35:23.005631Z"
+    "checked_at": "2026-10-31T19:10:31.764486Z"
   },
   "RYR2FD": {
     "route": {
@@ -4294,17 +4294,6 @@
     },
     "checked_at": "2026-10-31T08:40:28.693464Z"
   },
-  "FIN1YB": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-29T19:05:26.379893Z"
-  },
   "RYR15XN": {
     "route": null,
     "checked_at": "2026-10-31T09:10:29.744664Z"
@@ -4393,10 +4382,6 @@
       "airlineCountry": "Ethiopia"
     },
     "checked_at": "2026-10-31T07:05:25.615027Z"
-  },
-  "EJU76VP": {
-    "route": null,
-    "checked_at": "2026-10-29T19:05:26.379893Z"
   },
   "RYR7HM": {
     "route": {
@@ -5807,17 +5792,6 @@
     },
     "checked_at": "2026-10-30T13:30:44.563287Z"
   },
-  "RYR2347": {
-    "route": {
-      "fromCity": "Newcastle",
-      "fromIata": "NCL",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T19:05:26.379893Z"
-  },
   "RYR206": {
     "route": {
       "fromCity": "Berlin",
@@ -5839,17 +5813,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T11:30:41.102331Z"
-  },
-  "EWG6T": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T19:10:31.638527Z"
   },
   "BTI3PR": {
     "route": {
@@ -11154,5 +11117,16 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-10-31T19:05:22.120850Z"
+  },
+  "FIN1673": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-31T19:10:31.764486Z"
   }
 }
