@@ -5716,10 +5716,6 @@
     },
     "checked_at": "2026-10-30T12:25:25.498967Z"
   },
-  "BPO504": {
-    "route": null,
-    "checked_at": "2026-10-29T12:55:24.351642Z"
-  },
   "DUKE61": {
     "route": null,
     "checked_at": "2026-10-29T13:00:57.021759Z"
@@ -8409,7 +8405,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T12:55:23.103907Z"
+    "checked_at": "2026-10-31T13:00:46.699249Z"
   },
   "EJU5187": {
     "route": {
@@ -11132,5 +11128,20 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-31T12:55:23.677398Z"
+  },
+  "EWG8904": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T13:00:46.699249Z"
+  },
+  "N125ME": {
+    "route": null,
+    "checked_at": "2026-10-31T13:00:46.699249Z"
   }
 }
