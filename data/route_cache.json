@@ -1360,7 +1360,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T05:40:31.709942Z"
+    "checked_at": "2026-10-31T05:30:40.672874Z"
   },
   "DLH7AL": {
     "route": {
@@ -5695,10 +5695,6 @@
     },
     "checked_at": "2026-10-30T05:05:24.294985Z"
   },
-  "GAF840": {
-    "route": null,
-    "checked_at": "2026-10-29T05:25:29.417606Z"
-  },
   "EJU63ME": {
     "route": {
       "fromCity": "Berlin",
@@ -8410,7 +8406,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T05:45:28.376787Z"
+    "checked_at": "2026-10-31T05:30:40.672874Z"
   },
   "ETH3883": {
     "route": null,
@@ -11247,5 +11243,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T05:25:23.196965Z"
+  },
+  "EWG8492": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T05:30:40.672874Z"
   }
 }
