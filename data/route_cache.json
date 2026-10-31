@@ -1198,7 +1198,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-30T07:25:22.365007Z"
+    "checked_at": "2026-10-31T07:15:30.067022Z"
   },
   "MEA245": {
     "route": {
@@ -5738,17 +5738,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T07:05:25.615027Z"
-  },
-  "EWG27B": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T07:10:34.371705Z"
   },
   "TVF34UB": {
     "route": {
@@ -11320,5 +11309,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T07:10:30.042049Z"
+  },
+  "NSZ4AW": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T07:15:30.067022Z"
   }
 }
