@@ -2920,7 +2920,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-30T18:20:33.648450Z"
+    "checked_at": "2026-10-31T18:00:46.913350Z"
   },
   "AFR62AM": {
     "route": null,
@@ -4898,10 +4898,6 @@
     "route": null,
     "checked_at": "2026-10-30T19:10:29.946927Z"
   },
-  "SXS7WC": {
-    "route": null,
-    "checked_at": "2026-10-29T17:55:25.550870Z"
-  },
   "ASL13B": {
     "route": null,
     "checked_at": "2026-10-30T18:45:27.364118Z"
@@ -5789,28 +5785,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T17:20:32.416003Z"
-  },
-  "THY6WM": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-29T17:55:25.550870Z"
-  },
-  "EWG47B": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T17:55:25.550870Z"
   },
   "BTI48D": {
     "route": {
@@ -8674,7 +8648,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T18:05:25.256063Z"
+    "checked_at": "2026-10-31T18:00:46.913350Z"
   },
   "RYR75AW": {
     "route": null,
@@ -11190,5 +11164,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T17:55:22.004749Z"
+  },
+  "CAI15XF": {
+    "route": {
+      "fromCity": "Rostock",
+      "fromIata": "RLG",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T18:00:46.913350Z"
+  },
+  "HOP62AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-31T18:00:46.913350Z"
   }
 }
