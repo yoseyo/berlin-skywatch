@@ -3333,7 +3333,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T21:55:22.228923Z"
+    "checked_at": "2026-10-31T21:50:28.726812Z"
   },
   "EJU97CN": {
     "route": null,
@@ -5891,17 +5891,6 @@
   "WZZ96CX": {
     "route": null,
     "checked_at": "2026-10-31T20:30:39.433243Z"
-  },
-  "EJU38JK": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-29T21:45:29.279248Z"
   },
   "RYR443T": {
     "route": {
@@ -11188,5 +11177,42 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-10-31T21:30:39.929538Z"
+  },
+  "SAS2768": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T21:50:28.726812Z"
+  },
+  "EJU53NR": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-31T21:50:28.726812Z"
+  },
+  "RYR6SU": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T21:50:28.726812Z"
+  },
+  "SAS88Z": {
+    "route": null,
+    "checked_at": "2026-10-31T21:50:28.726812Z"
   }
 }
