@@ -2787,7 +2787,7 @@
   },
   "RYR49KM": {
     "route": null,
-    "checked_at": "2026-10-30T08:40:31.791613Z"
+    "checked_at": "2026-10-31T10:25:24.131755Z"
   },
   "WMT844": {
     "route": {
@@ -2964,7 +2964,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-30T15:15:30.693491Z"
+    "checked_at": "2026-10-31T10:25:24.131755Z"
   },
   "AFR13RC": {
     "route": null,
@@ -3786,17 +3786,6 @@
     },
     "checked_at": "2026-10-30T12:20:34.025734Z"
   },
-  "BTI8KY": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-29T10:20:32.609739Z"
-  },
   "DLH4AL": {
     "route": {
       "fromCity": "Bremen",
@@ -4045,8 +4034,15 @@
     "checked_at": "2026-10-30T18:25:22.871522Z"
   },
   "RYR457A": {
-    "route": null,
-    "checked_at": "2026-10-29T10:25:26.299164Z"
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T10:25:24.131755Z"
   },
   "EWG007": {
     "route": null,
@@ -5008,10 +5004,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-29T15:55:24.641832Z"
-  },
-  "FSE1E": {
-    "route": null,
-    "checked_at": "2026-10-29T10:20:32.609739Z"
   },
   "FIN8AQ": {
     "route": null,
@@ -8409,7 +8401,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T10:35:22.365127Z"
+    "checked_at": "2026-10-31T10:25:24.131755Z"
   },
   "RYR7672": {
     "route": {
