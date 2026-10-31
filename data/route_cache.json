@@ -753,7 +753,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-30T20:50:30.542257Z"
+    "checked_at": "2026-10-31T20:55:22.680782Z"
   },
   "TAP4BE": {
     "route": {
@@ -11136,5 +11136,38 @@
   "RYR63RV": {
     "route": null,
     "checked_at": "2026-10-31T20:50:29.458014Z"
+  },
+  "WZZ943": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Abu Dhabi",
+      "toIata": "AUH",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-10-31T20:55:22.680782Z"
+  },
+  "TVS466P": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-10-31T20:55:22.680782Z"
+  },
+  "BAW992G": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-31T20:55:22.680782Z"
   }
 }
