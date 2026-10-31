@@ -744,17 +744,6 @@
     },
     "checked_at": "2026-10-31T09:40:29.180017Z"
   },
-  "BAW992G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-29T20:35:23.081086Z"
-  },
   "CCA940": {
     "route": {
       "fromCity": "Rome",
@@ -5876,17 +5865,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T07:20:31.691587Z"
-  },
-  "EWG8321": {
-    "route": {
-      "fromCity": "Newcastle",
-      "fromIata": "NCL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T20:35:23.081086Z"
   },
   "VLG1075": {
     "route": null,
@@ -11143,5 +11121,38 @@
   "SVI8222": {
     "route": null,
     "checked_at": "2026-10-31T20:35:21.832597Z"
+  },
+  "EWG7907": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T20:39:57.674197Z"
+  },
+  "RYR49": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Treviso",
+      "toIata": "TSF",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T20:39:57.674197Z"
+  },
+  "EWG8551": {
+    "route": {
+      "fromCity": "Jerez de la Frontera",
+      "fromIata": "XRY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T20:39:57.674197Z"
   }
 }
