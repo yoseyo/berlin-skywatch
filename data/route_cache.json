@@ -1918,7 +1918,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-30T10:25:24.552517Z"
+    "checked_at": "2026-10-31T10:40:31.414623Z"
   },
   "IBE07AZ": {
     "route": {
@@ -6277,7 +6277,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T13:45:32.787489Z"
+    "checked_at": "2026-10-31T10:40:31.414623Z"
   },
   "RYR77AJ": {
     "route": null,
@@ -11210,5 +11210,20 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-10-31T10:35:33.286413Z"
+  },
+  "PTN53A": {
+    "route": null,
+    "checked_at": "2026-10-31T10:40:31.414623Z"
+  },
+  "TKJ5001": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T10:40:31.414623Z"
   }
 }
