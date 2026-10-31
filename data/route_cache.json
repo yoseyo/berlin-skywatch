@@ -372,7 +372,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T08:15:31.059980Z"
+    "checked_at": "2026-10-31T08:10:30.911164Z"
   },
   "DLH175": {
     "route": {
@@ -1253,7 +1253,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T08:10:31.462604Z"
+    "checked_at": "2026-10-31T08:10:30.911164Z"
   },
   "KLM38Z": {
     "route": {
@@ -1657,7 +1657,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-30T09:05:25.056085Z"
+    "checked_at": "2026-10-31T08:10:30.911164Z"
   },
   "DLH173": {
     "route": {
@@ -3782,17 +3782,6 @@
     },
     "checked_at": "2026-10-30T08:25:23.961090Z"
   },
-  "DMS2HR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Saarbr\u00fccken",
-      "toIata": "SCN",
-      "airlineName": "Diamond Sky",
-      "airlineCountry": "Estonia"
-    },
-    "checked_at": "2026-10-29T08:05:25.574329Z"
-  },
   "DLH4KV": {
     "route": {
       "fromCity": "Hannover",
@@ -3802,7 +3791,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T08:15:31.059980Z"
+    "checked_at": "2026-10-31T08:10:30.911164Z"
   },
   "AUA224": {
     "route": {
@@ -4655,7 +4644,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T08:45:30.223605Z"
+    "checked_at": "2026-10-31T08:10:30.911164Z"
   },
   "EWG57T": {
     "route": {
@@ -11323,5 +11312,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T08:05:25.051482Z"
+  },
+  "WZZ5YR": {
+    "route": null,
+    "checked_at": "2026-10-31T08:10:30.911164Z"
+  },
+  "HLF8822": {
+    "route": {
+      "fromCity": "Vatry",
+      "fromIata": "XCR",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T08:10:30.911164Z"
+  },
+  "THY5VZ": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Denizli",
+      "toIata": "DNZ",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T08:10:30.911164Z"
   }
 }
