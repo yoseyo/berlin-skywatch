@@ -2538,7 +2538,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T14:55:25.806075Z"
+    "checked_at": "2026-10-31T14:40:29.313354Z"
   },
   "WMT7KX": {
     "route": null,
@@ -5752,10 +5752,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T07:45:31.239115Z"
-  },
-  "UAE1LW": {
-    "route": null,
-    "checked_at": "2026-10-29T14:35:28.235297Z"
   },
   "STLON49": {
     "route": null,
@@ -11157,5 +11153,16 @@
   "RYR723D": {
     "route": null,
     "checked_at": "2026-10-31T14:35:22.016056Z"
+  },
+  "BTI4VP": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-31T14:40:29.313354Z"
   }
 }
