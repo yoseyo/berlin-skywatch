@@ -460,7 +460,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T09:45:29.436177Z"
+    "checked_at": "2026-10-31T09:50:30.438520Z"
   },
   "AUA226K": {
     "route": {
@@ -1679,7 +1679,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-30T09:05:25.056085Z"
+    "checked_at": "2026-10-31T09:50:30.438520Z"
   },
   "RYR6SU": {
     "route": {
@@ -1874,7 +1874,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T10:05:25.422771Z"
+    "checked_at": "2026-10-31T09:50:30.438520Z"
   },
   "THY2JV": {
     "route": {
@@ -2029,17 +2029,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T11:05:24.092453Z"
-  },
-  "EWG9F": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T09:45:30.284473Z"
   },
   "SXS7EQ": {
     "route": {
@@ -5702,17 +5691,6 @@
     },
     "checked_at": "2026-10-30T09:20:32.929960Z"
   },
-  "NOZ1146": {
-    "route": {
-      "fromCity": "Troms\u00f8",
-      "fromIata": "TOS",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-29T09:45:30.284473Z"
-  },
   "RYR14ZJ": {
     "route": null,
     "checked_at": "2026-10-30T09:20:32.929960Z"
@@ -8361,7 +8339,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T09:50:30.174471Z"
+    "checked_at": "2026-10-31T09:50:30.438520Z"
   },
   "LUA114C": {
     "route": null,
@@ -8677,7 +8655,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T11:25:24.259147Z"
+    "checked_at": "2026-10-31T09:50:30.438520Z"
   },
   "SXS4BH": {
     "route": {
@@ -11259,5 +11237,35 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T09:45:28.565700Z"
+  },
+  "DESYL": {
+    "route": null,
+    "checked_at": "2026-10-31T09:50:30.438520Z"
+  },
+  "FIN1699": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Lanzarote Island",
+      "toIata": "ACE",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-10-31T09:50:30.438520Z"
+  },
+  "EJU5362": {
+    "route": {
+      "fromCity": "Tivat",
+      "fromIata": "TIV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-31T09:50:30.438520Z"
+  },
+  "DMAAC": {
+    "route": null,
+    "checked_at": "2026-10-31T09:50:30.438520Z"
   }
 }
