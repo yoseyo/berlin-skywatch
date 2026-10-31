@@ -192,7 +192,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-30T21:55:22.228923Z"
+    "checked_at": "2026-10-31T21:25:22.213121Z"
   },
   "IBE0787": {
     "route": {
@@ -4640,7 +4640,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T15:20:33.936181Z"
+    "checked_at": "2026-10-31T21:25:22.213121Z"
   },
   "KLM1316": {
     "route": {
@@ -5891,17 +5891,6 @@
   "WZZ96CX": {
     "route": null,
     "checked_at": "2026-10-31T20:30:39.433243Z"
-  },
-  "SRN1987": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Sirair",
-      "airlineCountry": "Russia"
-    },
-    "checked_at": "2026-10-29T21:20:30.787725Z"
   },
   "RYR5LZ": {
     "route": {
@@ -11184,5 +11173,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T21:15:28.370287Z"
+  },
+  "SAS47D": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T21:25:22.213121Z"
   }
 }
