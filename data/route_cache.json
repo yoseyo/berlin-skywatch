@@ -394,7 +394,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T09:00:53.126859Z"
+    "checked_at": "2026-10-31T09:10:29.744664Z"
   },
   "AUA225B": {
     "route": {
@@ -1782,7 +1782,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T09:20:32.929960Z"
+    "checked_at": "2026-10-31T09:10:29.744664Z"
   },
   "PGT36NC": {
     "route": {
@@ -3508,10 +3508,6 @@
     "route": null,
     "checked_at": "2026-10-30T20:50:30.542257Z"
   },
-  "RYR57BB": {
-    "route": null,
-    "checked_at": "2026-10-29T09:05:25.535663Z"
-  },
   "EZY26YP": {
     "route": null,
     "checked_at": "2026-10-29T22:15:27.570602Z"
@@ -3817,7 +3813,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-30T09:15:28.882886Z"
+    "checked_at": "2026-10-31T09:10:29.744664Z"
   },
   "AFR23TP": {
     "route": {
@@ -4630,7 +4626,7 @@
   },
   "RYR15XN": {
     "route": null,
-    "checked_at": "2026-10-30T09:50:30.174471Z"
+    "checked_at": "2026-10-31T09:10:29.744664Z"
   },
   "RYR52KV": {
     "route": {
@@ -5683,21 +5679,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T08:20:29.658140Z"
-  },
-  "GAF011": {
-    "route": null,
-    "checked_at": "2026-10-29T09:05:25.535663Z"
-  },
-  "ACA50": {
-    "route": {
-      "fromCity": "Montr\u00e9al",
-      "fromIata": "YUL",
-      "toCity": "New Delhi",
-      "toIata": "DEL",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-10-29T09:05:25.535663Z"
   },
   "WUK3636": {
     "route": null,
@@ -8696,7 +8677,7 @@
   },
   "BAW973E": {
     "route": null,
-    "checked_at": "2026-10-30T10:45:28.643556Z"
+    "checked_at": "2026-10-31T09:10:29.744664Z"
   },
   "VJT516": {
     "route": {
@@ -11283,5 +11264,27 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-10-31T09:00:48.400537Z"
+  },
+  "PGT9SF": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T09:10:29.744664Z"
+  },
+  "BTI4XH": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-31T09:10:29.744664Z"
   }
 }
