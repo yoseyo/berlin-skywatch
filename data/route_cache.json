@@ -636,7 +636,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-30T12:25:25.498967Z"
+    "checked_at": "2026-10-31T12:45:26.781666Z"
   },
   "SAS1678": {
     "route": {
@@ -5704,17 +5704,6 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-10-30T12:55:23.103907Z"
-  },
-  "SDR82GF": {
-    "route": {
-      "fromCity": "Dresden",
-      "fromIata": "DRS",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-29T12:40:33.124383Z"
   },
   "PTN17E": {
     "route": null,
@@ -11114,5 +11103,20 @@
   "NJE344D": {
     "route": null,
     "checked_at": "2026-10-31T12:40:29.263259Z"
+  },
+  "MFX7614": {
+    "route": null,
+    "checked_at": "2026-10-31T12:45:26.781666Z"
+  },
+  "VOE1462": {
+    "route": {
+      "fromCity": "Firenze",
+      "fromIata": "FLR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Volotea",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-31T12:45:26.781666Z"
   }
 }
