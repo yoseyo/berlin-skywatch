@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-31T04:55:21.081632Z"
+  "flights": [
+    {
+      "callsign": "EJU5059",
+      "country": "Austria",
+      "lat": 52.2268,
+      "lon": 13.3343,
+      "altKm": 2.5,
+      "speedKmh": 560,
+      "heading": 173,
+      "vertRateMs": 23.1,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-31T05:00:46.552217Z"
 }
