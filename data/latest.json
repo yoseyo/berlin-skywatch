@@ -1,4 +1,56 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-31T05:10:30.993869Z"
+  "flights": [
+    {
+      "callsign": "BBG273",
+      "country": "Cyprus",
+      "lat": 52.1994,
+      "lon": 13.2949,
+      "altKm": 2.8,
+      "speedKmh": 470,
+      "heading": 134,
+      "vertRateMs": 15.9,
+      "airline": "Bluebird Airways (BZ)",
+      "airlineCountry": "Greece",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "category": "plane"
+    },
+    {
+      "callsign": "TAP53EI",
+      "country": "Portugal",
+      "lat": 52.3407,
+      "lon": 13.457,
+      "altKm": 0.5,
+      "speedKmh": 294,
+      "heading": 239,
+      "vertRateMs": 10.7,
+      "airline": "TAP Portugal",
+      "airlineCountry": "Portugal",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU37DC",
+      "country": "Austria",
+      "lat": 52.2785,
+      "lon": 13.335,
+      "altKm": 1.8,
+      "speedKmh": 475,
+      "heading": 228,
+      "vertRateMs": 14.0,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-31T05:15:26.687245Z"
 }
