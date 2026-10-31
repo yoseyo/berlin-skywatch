@@ -240,7 +240,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-30T07:50:31.140168Z"
+    "checked_at": "2026-10-31T07:00:48.967914Z"
   },
   "AUA240": {
     "route": {
@@ -1316,7 +1316,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T18:30:41.148711Z"
+    "checked_at": "2026-10-31T07:00:48.967914Z"
   },
   "RYR9RJ": {
     "route": {
@@ -4392,17 +4392,6 @@
     },
     "checked_at": "2026-10-30T06:20:32.113361Z"
   },
-  "BTI7HB": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-29T06:55:25.949663Z"
-  },
   "FIN1AB": {
     "route": {
       "fromCity": "Helsinki",
@@ -4870,7 +4859,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-29T07:05:25.199051Z"
+    "checked_at": "2026-10-31T07:00:48.967914Z"
   },
   "ETH724": {
     "route": {
@@ -5731,17 +5720,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-30T07:05:23.356833Z"
-  },
-  "FIN6TF": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-29T06:55:25.949663Z"
   },
   "LOT4WE": {
     "route": {
@@ -8569,7 +8547,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T07:45:31.239115Z"
+    "checked_at": "2026-10-31T07:00:48.967914Z"
   },
   "ELY006": {
     "route": null,
@@ -11313,5 +11291,16 @@
       "airlineCountry": "Faroe Islands"
     },
     "checked_at": "2026-10-31T06:53:34.000407Z"
+  },
+  "BTI2GA": {
+    "route": {
+      "fromCity": "Tampere / Pirkkala",
+      "fromIata": "TMP",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-31T07:00:48.967914Z"
   }
 }
