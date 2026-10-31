@@ -1635,7 +1635,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T07:55:23.363399Z"
+    "checked_at": "2026-10-31T07:25:32.119276Z"
   },
   "AHY063": {
     "route": null,
@@ -2916,7 +2916,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T12:30:46.085618Z"
+    "checked_at": "2026-10-31T07:25:32.119276Z"
   },
   "LOT3EG": {
     "route": null,
@@ -3762,7 +3762,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-10-29T07:25:24.192324Z"
+    "checked_at": "2026-10-31T07:25:32.119276Z"
   },
   "DLH5T": {
     "route": {
@@ -4391,17 +4391,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T06:20:32.113361Z"
-  },
-  "FIN1AB": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-29T07:25:24.192324Z"
   },
   "EJU16FE": {
     "route": {
@@ -5749,10 +5738,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-31T06:45:28.618462Z"
-  },
-  "TAY3AW": {
-    "route": null,
-    "checked_at": "2026-10-29T07:25:24.192324Z"
   },
   "RYR731D": {
     "route": {
@@ -11313,5 +11298,16 @@
   "WMT6YU": {
     "route": null,
     "checked_at": "2026-10-31T07:20:31.691587Z"
+  },
+  "LOT4PJ": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-10-31T07:25:32.119276Z"
   }
 }
