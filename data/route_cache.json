@@ -137,7 +137,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-30T18:35:21.823505Z"
+    "checked_at": "2026-10-31T18:20:30.123215Z"
   },
   "KLC1335": {
     "route": {
@@ -6420,7 +6420,7 @@
   },
   "RYR65RB": {
     "route": null,
-    "checked_at": "2026-10-29T22:35:22.357686Z"
+    "checked_at": "2026-10-31T18:20:30.123215Z"
   },
   "WZZ3ZF": {
     "route": {
@@ -8596,7 +8596,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T18:05:25.256063Z"
+    "checked_at": "2026-10-31T18:20:30.123215Z"
   },
   "DLH2CE": {
     "route": {
@@ -9127,7 +9127,7 @@
   },
   "EWG8EH": {
     "route": null,
-    "checked_at": "2026-10-30T21:20:31.898277Z"
+    "checked_at": "2026-10-31T18:20:30.123215Z"
   },
   "EJU76FA": {
     "route": {
@@ -11178,5 +11178,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T18:10:29.379166Z"
+  },
+  "GPX7JE": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-31T18:20:30.123215Z"
+  },
+  "ISR256": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-10-31T18:20:30.123215Z"
+  },
+  "GPX6280": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "GP Aviation",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-10-31T18:20:30.123215Z"
   }
 }
