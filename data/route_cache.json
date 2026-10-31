@@ -12,7 +12,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-30T14:45:29.128178Z"
+    "checked_at": "2026-10-31T13:40:30.759672Z"
   },
   "SWR5CB": {
     "route": {
@@ -4800,7 +4800,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T13:20:33.375666Z"
+    "checked_at": "2026-10-31T13:40:30.759672Z"
   },
   "EJU37DC": {
     "route": {
@@ -5171,7 +5171,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T07:10:31.115293Z"
+    "checked_at": "2026-10-31T13:40:30.759672Z"
   },
   "EJU15QB": {
     "route": null,
@@ -5749,10 +5749,6 @@
     },
     "checked_at": "2026-10-31T10:35:33.286413Z"
   },
-  "NJE606B": {
-    "route": null,
-    "checked_at": "2026-10-29T13:35:25.581192Z"
-  },
   "TVS4616": {
     "route": {
       "fromCity": "Prague",
@@ -5977,8 +5973,15 @@
     "checked_at": "2026-10-29T15:10:35.109486Z"
   },
   "EJU61GN": {
-    "route": null,
-    "checked_at": "2026-10-29T15:15:32.797162Z"
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-31T13:40:30.759672Z"
   },
   "WZZ1QS": {
     "route": {
@@ -11117,5 +11120,38 @@
       "airlineCountry": "Tunisia"
     },
     "checked_at": "2026-10-31T13:35:23.606171Z"
+  },
+  "CAL5539": {
+    "route": {
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "China Airlines",
+      "airlineCountry": "Taiwan"
+    },
+    "checked_at": "2026-10-31T13:40:30.759672Z"
+  },
+  "EWG8WF": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Nottingham",
+      "toIata": "EMA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T13:40:30.759672Z"
+  },
+  "EWG1TE": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Verona",
+      "toIata": "VRN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T13:40:30.759672Z"
   }
 }
