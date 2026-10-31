@@ -1,18 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "SXS5SV",
+      "callsign": "TWI355",
       "country": "Turkey",
-      "lat": 52.3561,
-      "lon": 13.5135,
-      "altKm": 0.1,
-      "speedKmh": 269,
-      "heading": 249,
-      "vertRateMs": -0.3,
-      "airline": "SunExpress",
+      "lat": 52.1705,
+      "lon": 12.9836,
+      "altKm": 10.0,
+      "speedKmh": 749,
+      "heading": 313,
+      "vertRateMs": 0.3,
+      "airline": "Tailwind Airlines",
       "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-31T04:15:27.699753Z"
+  "updated_at": "2026-10-31T04:20:29.945505Z"
 }
