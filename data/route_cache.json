@@ -3139,7 +3139,7 @@
   },
   "EZY98TR": {
     "route": null,
-    "checked_at": "2026-10-29T19:40:31.328081Z"
+    "checked_at": "2026-10-31T18:25:22.985571Z"
   },
   "WZZ1078": {
     "route": null,
@@ -3328,7 +3328,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T11:30:44.560286Z"
+    "checked_at": "2026-10-31T18:25:22.985571Z"
   },
   "SXS94C": {
     "route": null,
@@ -5097,10 +5097,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T06:05:23.985229Z"
-  },
-  "DCS603": {
-    "route": null,
-    "checked_at": "2026-10-29T18:20:32.630003Z"
   },
   "SXS82C": {
     "route": null,
@@ -11211,5 +11207,27 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-10-31T18:20:30.123215Z"
+  },
+  "AUA972": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-31T18:25:22.985571Z"
+  },
+  "SDR60YJ": {
+    "route": {
+      "fromCity": "Marsa Alam",
+      "fromIata": "RMF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T18:25:22.985571Z"
   }
 }
