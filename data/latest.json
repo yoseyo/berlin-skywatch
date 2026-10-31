@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-31T01:15:27.376515Z"
+  "flights": [
+    {
+      "callsign": "GJT5XG",
+      "country": "Lithuania",
+      "lat": 52.2242,
+      "lon": 13.6145,
+      "altKm": 11.6,
+      "speedKmh": 687,
+      "heading": 66,
+      "vertRateMs": 0,
+      "airline": "Gestion Aerea Ajecutiva",
+      "airlineCountry": "Spain",
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-31T01:20:28.964628Z"
 }
