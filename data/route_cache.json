@@ -1349,7 +1349,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T05:50:29.662443Z"
+    "checked_at": "2026-10-31T05:35:23.661017Z"
   },
   "DLH3CH": {
     "route": {
@@ -4849,17 +4849,6 @@
   "WMT8HG": {
     "route": null,
     "checked_at": "2026-10-29T21:10:32.279294Z"
-  },
-  "DLH3AF": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T05:30:41.354771Z"
   },
   "EJU53GP": {
     "route": {
@@ -11254,5 +11243,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T05:30:40.672874Z"
+  },
+  "EJU61PC": {
+    "route": {
+      "fromCity": "Varna",
+      "fromIata": "VAR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-31T05:35:23.661017Z"
   }
 }
