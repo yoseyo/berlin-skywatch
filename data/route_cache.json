@@ -306,7 +306,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-30T07:40:31.398786Z"
+    "checked_at": "2026-10-31T07:50:32.272958Z"
   },
   "LOT1VZ": {
     "route": {
@@ -350,7 +350,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-30T08:15:31.059980Z"
+    "checked_at": "2026-10-31T07:50:32.272958Z"
   },
   "SWR2HD": {
     "route": {
@@ -1582,17 +1582,6 @@
     },
     "checked_at": "2026-10-31T07:20:31.691587Z"
   },
-  "THY3DP": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-29T07:45:30.210412Z"
-  },
   "RYR36NZ": {
     "route": {
       "fromCity": "Dublin",
@@ -1637,10 +1626,6 @@
     },
     "checked_at": "2026-10-31T07:25:32.119276Z"
   },
-  "AHY063": {
-    "route": null,
-    "checked_at": "2026-10-29T07:45:30.210412Z"
-  },
   "EJU68CT": {
     "route": {
       "fromCity": "Milan",
@@ -1683,7 +1668,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T07:55:23.363399Z"
+    "checked_at": "2026-10-31T07:50:32.272958Z"
   },
   "DLH7EE": {
     "route": {
@@ -5819,7 +5804,7 @@
   },
   "TVF10NK": {
     "route": null,
-    "checked_at": "2026-10-30T10:55:21.954043Z"
+    "checked_at": "2026-10-31T07:50:32.272958Z"
   },
   "PGT982": {
     "route": {
@@ -11287,5 +11272,20 @@
   "EZS15GW": {
     "route": null,
     "checked_at": "2026-10-31T07:40:29.402229Z"
+  },
+  "WZZ2LF": {
+    "route": null,
+    "checked_at": "2026-10-31T07:50:32.272958Z"
+  },
+  "EWG9Z": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T07:50:32.272958Z"
   }
 }
