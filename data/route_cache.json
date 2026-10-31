@@ -1481,7 +1481,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T06:55:21.724018Z"
+    "checked_at": "2026-10-31T06:53:34.000407Z"
   },
   "RYR21VK": {
     "route": {
@@ -3701,17 +3701,6 @@
     },
     "checked_at": "2026-10-31T05:25:23.196965Z"
   },
-  "DMS2PV": {
-    "route": {
-      "fromCity": "Saarbr\u00fccken",
-      "fromIata": "SCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Diamond Sky",
-      "airlineCountry": "Estonia"
-    },
-    "checked_at": "2026-10-29T06:50:33.080727Z"
-  },
   "AUA223B": {
     "route": {
       "fromCity": "Vienna",
@@ -5731,17 +5720,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-31T06:25:23.149210Z"
-  },
-  "DISAG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kuopio / Siilinj\u00e4rvi",
-      "toIata": "KUO",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-29T06:50:33.080727Z"
   },
   "NSZ5NE": {
     "route": {
@@ -11324,5 +11302,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-31T06:50:31.778448Z"
+  },
+  "FLI7122": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Atlantic Airways",
+      "airlineCountry": "Faroe Islands"
+    },
+    "checked_at": "2026-10-31T06:53:34.000407Z"
   }
 }
