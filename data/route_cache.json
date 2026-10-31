@@ -3868,7 +3868,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-30T17:50:39.757446Z"
+    "checked_at": "2026-10-31T17:55:22.004749Z"
   },
   "LBT232": {
     "route": {
@@ -5768,17 +5768,6 @@
     },
     "checked_at": "2026-10-31T09:40:29.180017Z"
   },
-  "ENT8RW": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-29T17:50:34.883961Z"
-  },
   "RYR57ED": {
     "route": {
       "fromCity": "London",
@@ -5800,10 +5789,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T17:20:32.416003Z"
-  },
-  "RYR63RV": {
-    "route": null,
-    "checked_at": "2026-10-29T17:50:34.883961Z"
   },
   "THY6WM": {
     "route": {
@@ -11194,5 +11179,16 @@
   "KMM376": {
     "route": null,
     "checked_at": "2026-10-31T17:50:28.536314Z"
+  },
+  "RYR24YB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T17:55:22.004749Z"
   }
 }
