@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-10-31T04:05:28.122714Z"
+  "flights": [
+    {
+      "callsign": "SXS5SV",
+      "country": "Turkey",
+      "lat": 52.3964,
+      "lon": 13.872,
+      "altKm": 1.4,
+      "speedKmh": 419,
+      "heading": 338,
+      "vertRateMs": -7.2,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-10-31T04:10:30.138149Z"
 }
