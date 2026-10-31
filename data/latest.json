@@ -1,20 +1,20 @@
 {
   "flights": [
     {
-      "callsign": "NSZ6HE",
-      "country": "Sweden",
-      "lat": 52.558,
-      "lon": 13.5392,
-      "altKm": 10.7,
-      "speedKmh": 1029,
-      "heading": 213,
+      "callsign": "WZZ52YC",
+      "country": "Hungary",
+      "lat": 52.3252,
+      "lon": 13.6921,
+      "altKm": 11.3,
+      "speedKmh": 898,
+      "heading": 271,
       "vertRateMs": 0,
-      "airline": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden",
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LTN",
       "category": "plane"
     },
     {
@@ -37,12 +37,12 @@
     {
       "callsign": "AFR24ZY",
       "country": "France",
-      "lat": 52.3465,
-      "lon": 13.4733,
-      "altKm": 0.2,
-      "speedKmh": 266,
-      "heading": 248,
-      "vertRateMs": 10.1,
+      "lat": 52.2087,
+      "lon": 13.0724,
+      "altKm": 2.9,
+      "speedKmh": 556,
+      "heading": 256,
+      "vertRateMs": 13.3,
       "airline": "Air France",
       "airlineCountry": "France",
       "fromCity": "Berlin",
@@ -50,7 +50,35 @@
       "toCity": "Paris",
       "toIata": "CDG",
       "category": "plane"
+    },
+    {
+      "callsign": "WMT8EK",
+      "country": "Malta",
+      "lat": 52.4415,
+      "lon": 13.8644,
+      "altKm": 1.4,
+      "speedKmh": 371,
+      "heading": 288,
+      "vertRateMs": -5.8,
+      "category": "plane"
+    },
+    {
+      "callsign": "CAI62RH",
+      "country": "Turkey",
+      "lat": 52.6391,
+      "lon": 13.7747,
+      "altKm": 11.9,
+      "speedKmh": 809,
+      "heading": 300,
+      "vertRateMs": 0,
+      "airline": "Corendon Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-10-31T06:00:50.414650Z"
+  "updated_at": "2026-10-31T06:05:24.932862Z"
 }
