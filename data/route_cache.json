@@ -720,7 +720,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T18:50:33.419974Z"
+    "checked_at": "2026-10-31T18:35:22.152803Z"
   },
   "SAS1673": {
     "route": {
@@ -2995,7 +2995,7 @@
   },
   "THY8WD": {
     "route": null,
-    "checked_at": "2026-10-30T19:20:30.698879Z"
+    "checked_at": "2026-10-31T18:35:22.152803Z"
   },
   "RYR2GQ": {
     "route": {
@@ -4337,7 +4337,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T20:05:24.564016Z"
+    "checked_at": "2026-10-31T18:35:22.152803Z"
   },
   "EJU85CU": {
     "route": {
@@ -5811,28 +5811,6 @@
     },
     "checked_at": "2026-10-30T10:00:51.316206Z"
   },
-  "RYR3EA": {
-    "route": {
-      "fromCity": "Marseille",
-      "fromIata": "MRS",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T18:30:44.209150Z"
-  },
-  "CCA936": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Shanghai (Pudong)",
-      "toIata": "PVG",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-29T18:30:44.209150Z"
-  },
   "RYR161K": {
     "route": null,
     "checked_at": "2026-10-31T11:15:28.768706Z"
@@ -6052,8 +6030,15 @@
     "checked_at": "2026-10-29T19:25:24.572849Z"
   },
   "VLG22VF": {
-    "route": null,
-    "checked_at": "2026-10-30T19:40:30.724160Z"
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-10-31T18:35:22.152803Z"
   },
   "SDR44PT": {
     "route": {
