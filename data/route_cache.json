@@ -4644,7 +4644,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T15:50:30.969557Z"
+    "checked_at": "2026-10-31T08:40:28.693464Z"
   },
   "FIN1YB": {
     "route": {
@@ -11287,5 +11287,31 @@
   "GFD93": {
     "route": null,
     "checked_at": "2026-10-31T08:35:21.696646Z"
+  },
+  "BOM1": {
+    "route": null,
+    "checked_at": "2026-10-31T08:40:28.693464Z"
+  },
+  "UAL82": {
+    "route": {
+      "fromCity": "New York",
+      "fromIata": "EWR",
+      "toCity": "New Delhi",
+      "toIata": "DEL",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-10-31T08:40:28.693464Z"
+  },
+  "VJT792": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Dubai",
+      "toIata": "DXB",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-10-31T08:40:28.693464Z"
   }
 }
