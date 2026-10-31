@@ -1672,7 +1672,7 @@
   },
   "RYR13BV": {
     "route": null,
-    "checked_at": "2026-10-30T23:15:28.457367Z"
+    "checked_at": "2026-10-31T13:15:27.035815Z"
   },
   "RYR7SP": {
     "route": {
@@ -5715,10 +5715,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-30T12:25:25.498967Z"
-  },
-  "RYR212X": {
-    "route": null,
-    "checked_at": "2026-10-29T13:10:32.422127Z"
   },
   "NSZ89C": {
     "route": {
@@ -11128,5 +11124,27 @@
   "DEPAD": {
     "route": null,
     "checked_at": "2026-10-31T13:10:28.792443Z"
+  },
+  "RYR29NN": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T13:15:27.035815Z"
+  },
+  "CES244": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-10-31T13:15:27.035815Z"
   }
 }
