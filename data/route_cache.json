@@ -51,10 +51,6 @@
     },
     "checked_at": "2026-10-30T15:00:53.664973Z"
   },
-  "CHX82": {
-    "route": null,
-    "checked_at": "2026-10-29T13:50:32.519431Z"
-  },
   "KLM1779": {
     "route": {
       "fromCity": "Amsterdam",
@@ -5760,35 +5756,9 @@
     "route": null,
     "checked_at": "2026-10-31T06:30:43.553644Z"
   },
-  "ISR254": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-29T13:50:32.519431Z"
-  },
   "SFG55C": {
     "route": null,
     "checked_at": "2026-10-30T08:20:30.184242Z"
-  },
-  "LOT6139": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Punta Cana",
-      "toIata": "PUJ",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-29T13:50:32.519431Z"
-  },
-  "N77DQ": {
-    "route": null,
-    "checked_at": "2026-10-29T13:50:32.519431Z"
   },
   "BID41C": {
     "route": null,
@@ -9360,7 +9330,7 @@
       "airlineName": "Swiss European Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-30T18:35:21.823505Z"
+    "checked_at": "2026-10-31T13:55:23.530160Z"
   },
   "BAW87AM": {
     "route": {
@@ -11171,5 +11141,16 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-10-31T13:50:28.844390Z"
+  },
+  "AFR61ER": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-10-31T13:55:23.530160Z"
   }
 }
