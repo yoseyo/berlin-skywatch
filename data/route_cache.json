@@ -907,7 +907,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-30T19:55:22.553987Z"
+    "checked_at": "2026-10-31T18:30:38.152818Z"
   },
   "DMS2LW": {
     "route": {
@@ -2983,7 +2983,7 @@
   },
   "SAS88C": {
     "route": null,
-    "checked_at": "2026-10-30T18:25:22.871522Z"
+    "checked_at": "2026-10-31T18:30:38.152818Z"
   },
   "SXS78Y": {
     "route": null,
@@ -5799,10 +5799,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-30T18:10:31.610291Z"
-  },
-  "CXI1H": {
-    "route": null,
-    "checked_at": "2026-10-29T18:25:25.841718Z"
   },
   "VJT453": {
     "route": {
@@ -11229,5 +11225,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T18:25:22.985571Z"
+  },
+  "THY3355": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ANK",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T18:30:38.152818Z"
+  },
+  "AEE409": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Kalamata",
+      "toIata": "KLX",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-31T18:30:38.152818Z"
   }
 }
