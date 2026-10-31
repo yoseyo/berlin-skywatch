@@ -676,7 +676,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T14:26:25.601128Z"
+    "checked_at": "2026-10-31T14:30:40.727052Z"
   },
   "UAL962": {
     "route": {
@@ -5763,17 +5763,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T07:45:31.239115Z"
-  },
-  "NOZ87G": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-29T14:25:25.183595Z"
   },
   "EWG3PH": {
     "route": {
@@ -11156,5 +11145,35 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-10-31T14:25:22.568543Z"
+  },
+  "GAF924": {
+    "route": null,
+    "checked_at": "2026-10-31T14:30:40.727052Z"
+  },
+  "PGT21KF": {
+    "route": null,
+    "checked_at": "2026-10-31T14:30:40.727052Z"
+  },
+  "CFG6NZ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T14:30:40.727052Z"
+  },
+  "EWG1T": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T14:30:40.727052Z"
   }
 }
