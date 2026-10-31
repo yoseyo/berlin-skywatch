@@ -963,7 +963,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-30T09:20:32.929960Z"
+    "checked_at": "2026-10-31T09:35:21.610049Z"
   },
   "FIN3YX": {
     "route": {
@@ -11234,5 +11234,38 @@
   "DMXIL": {
     "route": null,
     "checked_at": "2026-10-31T09:20:28.877637Z"
+  },
+  "RYR15HL": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T09:35:21.610049Z"
+  },
+  "EWG2V": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T09:35:21.610049Z"
+  },
+  "EWG8493": {
+    "route": {
+      "fromCity": "Sarajevo",
+      "fromIata": "SJJ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T09:35:21.610049Z"
   }
 }
