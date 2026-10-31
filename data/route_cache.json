@@ -471,7 +471,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T10:30:44.637896Z"
+    "checked_at": "2026-10-31T10:55:25.701339Z"
   },
   "LOT3JA": {
     "route": {
@@ -515,7 +515,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T11:00:54.029883Z"
+    "checked_at": "2026-10-31T10:55:25.701339Z"
   },
   "BEL4NK": {
     "route": {
@@ -1918,7 +1918,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-30T11:10:30.529462Z"
+    "checked_at": "2026-10-31T10:55:25.701339Z"
   },
   "THY1CU": {
     "route": {
@@ -2006,7 +2006,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T11:15:29.329352Z"
+    "checked_at": "2026-10-31T10:55:25.701339Z"
   },
   "EWG55H": {
     "route": {
@@ -3808,10 +3808,6 @@
     },
     "checked_at": "2026-10-31T05:40:31.772356Z"
   },
-  "CHX49": {
-    "route": null,
-    "checked_at": "2026-10-29T10:55:24.432687Z"
-  },
   "CFE27PM": {
     "route": {
       "fromCity": "London",
@@ -4586,17 +4582,6 @@
   "WMT8HG": {
     "route": null,
     "checked_at": "2026-10-29T21:10:32.279294Z"
-  },
-  "EJU53GP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-29T10:55:24.432687Z"
   },
   "SXS4AQ": {
     "route": {
@@ -5660,21 +5645,6 @@
       "airlineCountry": "Iceland"
     },
     "checked_at": "2026-10-31T10:30:39.217749Z"
-  },
-  "DLH2KY": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T10:50:31.370006Z"
-  },
-  "NJE395L": {
-    "route": null,
-    "checked_at": "2026-10-29T10:50:31.370006Z"
   },
   "RYR18HB": {
     "route": null,
@@ -11218,5 +11188,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T10:50:29.207831Z"
+  },
+  "BTI4WA": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-31T10:55:25.701339Z"
   }
 }
