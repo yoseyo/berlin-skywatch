@@ -3971,7 +3971,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-30T18:30:41.148711Z"
+    "checked_at": "2026-10-31T18:10:29.379166Z"
   },
   "BTI4UJ": {
     "route": {
@@ -5781,17 +5781,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-30T17:20:32.416003Z"
-  },
-  "BTI48D": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-29T18:05:28.051229Z"
   },
   "RYR7664": {
     "route": {
@@ -11193,5 +11182,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T18:05:23.590014Z"
+  },
+  "LOG915Z": {
+    "route": {
+      "fromCity": "Vila Franca de Xira",
+      "fromIata": "AVR",
+      "toCity": "Southampton",
+      "toIata": "SOU",
+      "airlineName": "Loganair",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-10-31T18:10:29.379166Z"
+  },
+  "EWG8433": {
+    "route": {
+      "fromCity": "Bastia/Poretta",
+      "fromIata": "BIA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T18:10:29.379166Z"
   }
 }
