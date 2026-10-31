@@ -93,7 +93,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T15:35:22.768630Z"
+    "checked_at": "2026-10-31T15:45:27.346146Z"
   },
   "LOT5PX": {
     "route": {
@@ -2682,7 +2682,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T15:45:30.414171Z"
+    "checked_at": "2026-10-31T15:45:27.346146Z"
   },
   "EZY32YZ": {
     "route": {
@@ -3842,7 +3842,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-30T17:00:57.146039Z"
+    "checked_at": "2026-10-31T15:45:27.346146Z"
   },
   "DLH4LW": {
     "route": {
@@ -5745,10 +5745,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-31T08:35:21.696646Z"
-  },
-  "RYR10FV": {
-    "route": null,
-    "checked_at": "2026-10-29T15:40:31.586173Z"
   },
   "EJU68JA": {
     "route": {
@@ -11165,5 +11161,49 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T15:40:27.981734Z"
+  },
+  "AUA971": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Gothenburg",
+      "toIata": "GOT",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-10-31T15:45:27.346146Z"
+  },
+  "THY5SX": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Samsun",
+      "toIata": "SZF",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T15:45:27.346146Z"
+  },
+  "SAS30H": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T15:45:27.346146Z"
+  },
+  "CFG7VT": {
+    "route": {
+      "fromCity": "Heraklion",
+      "fromIata": "HER",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-10-31T15:45:27.346146Z"
   }
 }
