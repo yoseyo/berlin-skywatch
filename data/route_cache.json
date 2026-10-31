@@ -2583,7 +2583,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T14:20:30.679432Z"
+    "checked_at": "2026-10-31T14:25:22.568543Z"
   },
   "BEL5XD": {
     "route": {
@@ -5753,17 +5753,6 @@
     "route": null,
     "checked_at": "2026-10-30T22:10:29.350200Z"
   },
-  "SAS1898": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-29T14:20:32.880310Z"
-  },
   "EWG4MW": {
     "route": {
       "fromCity": "Berlin",
@@ -6296,7 +6285,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-29T17:50:34.883961Z"
+    "checked_at": "2026-10-31T14:25:22.568543Z"
   },
   "SXS3ZX": {
     "route": {
@@ -9234,7 +9223,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T18:20:33.648450Z"
+    "checked_at": "2026-10-31T14:25:22.568543Z"
   },
   "ENT2CG": {
     "route": {
@@ -11156,5 +11145,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-31T14:20:30.235901Z"
+  },
+  "BTI7NV": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-10-31T14:25:22.568543Z"
   }
 }
