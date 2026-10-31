@@ -2211,7 +2211,7 @@
       "airlineName": "Shanxi Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-30T09:25:24.611464Z"
+    "checked_at": "2026-10-31T17:00:48.850633Z"
   },
   "SAS769": {
     "route": {
@@ -5730,10 +5730,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-31T10:05:24.960346Z"
-  },
-  "OEGIE": {
-    "route": null,
-    "checked_at": "2026-10-29T16:55:25.011015Z"
   },
   "EWG9HE": {
     "route": {
@@ -11150,5 +11146,27 @@
   "FRO948": {
     "route": null,
     "checked_at": "2026-10-31T16:50:29.340110Z"
+  },
+  "BBG271": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Bluebird Airways (BZ)",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-10-31T17:00:48.850633Z"
+  },
+  "FHY410": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Freebird Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-10-31T17:00:48.850633Z"
   }
 }
