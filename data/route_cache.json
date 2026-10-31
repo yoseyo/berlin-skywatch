@@ -2763,10 +2763,6 @@
     },
     "checked_at": "2026-10-31T16:10:28.886784Z"
   },
-  "EWG52K": {
-    "route": null,
-    "checked_at": "2026-10-29T18:00:58.817806Z"
-  },
   "DLH6HF": {
     "route": {
       "fromCity": "Luxembourg",
@@ -2950,7 +2946,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T18:05:25.256063Z"
+    "checked_at": "2026-10-31T18:05:23.590014Z"
   },
   "DLH7HM": {
     "route": {
@@ -11186,5 +11182,16 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-10-31T18:00:46.913350Z"
+  },
+  "RYR1CG": {
+    "route": {
+      "fromCity": "Beauvais",
+      "fromIata": "BVA",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T18:05:23.590014Z"
   }
 }
