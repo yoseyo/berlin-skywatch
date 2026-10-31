@@ -1,16 +1,52 @@
 {
   "flights": [
     {
-      "callsign": "EJU37CH",
+      "callsign": "EJU35TF",
       "country": "Austria",
-      "lat": 52.3189,
-      "lon": 13.3572,
-      "altKm": 0.5,
-      "speedKmh": 240,
-      "heading": 69,
-      "vertRateMs": -3.6,
+      "lat": 52.2329,
+      "lon": 12.7685,
+      "altKm": 2.9,
+      "speedKmh": 478,
+      "heading": 81,
+      "vertRateMs": -8.4,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH3X",
+      "country": "Germany",
+      "lat": 52.3126,
+      "lon": 13.3303,
+      "altKm": 0.6,
+      "speedKmh": 271,
+      "heading": 68,
+      "vertRateMs": -4.5,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR2FD",
+      "country": "Ireland",
+      "lat": 52.4791,
+      "lon": 13.6704,
+      "altKm": 2.3,
+      "speedKmh": 411,
+      "heading": 2,
+      "vertRateMs": 13.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-10-31T22:10:31.011925Z"
+  "updated_at": "2026-10-31T22:15:38.084735Z"
 }
