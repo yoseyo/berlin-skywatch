@@ -60,7 +60,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-30T14:26:25.601128Z"
+    "checked_at": "2026-10-31T14:35:22.016056Z"
   },
   "NSZ3303": {
     "route": {
@@ -2376,7 +2376,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-30T14:50:33.468844Z"
+    "checked_at": "2026-10-31T14:35:22.016056Z"
   },
   "DLH3CE": {
     "route": {
@@ -4220,17 +4220,6 @@
     },
     "checked_at": "2026-10-30T06:15:29.160253Z"
   },
-  "RYR2732": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-29T14:30:49.938719Z"
-  },
   "HOP25KD": {
     "route": null,
     "checked_at": "2026-10-30T15:50:30.969557Z"
@@ -5763,17 +5752,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T07:45:31.239115Z"
-  },
-  "EWG3PH": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-29T14:30:49.938719Z"
   },
   "UAE1LW": {
     "route": null,
@@ -11175,5 +11153,9 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T14:30:40.727052Z"
+  },
+  "RYR723D": {
+    "route": null,
+    "checked_at": "2026-10-31T14:35:22.016056Z"
   }
 }
