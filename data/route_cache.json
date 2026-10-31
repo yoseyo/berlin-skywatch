@@ -1104,17 +1104,6 @@
     },
     "checked_at": "2026-10-30T18:40:28.907512Z"
   },
-  "BBG271": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-29T16:20:34.503665Z"
-  },
   "BPOBER": {
     "route": null,
     "checked_at": "2026-10-31T11:45:31.388804Z"
@@ -4654,10 +4643,6 @@
     "route": null,
     "checked_at": "2026-10-31T12:15:27.772426Z"
   },
-  "DFWEL": {
-    "route": null,
-    "checked_at": "2026-10-29T16:20:34.503665Z"
-  },
   "EWG89N": {
     "route": {
       "fromCity": "Stockholm",
@@ -5734,10 +5719,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-10-31T15:15:28.973355Z"
-  },
-  "JBC697D": {
-    "route": null,
-    "checked_at": "2026-10-29T16:20:34.503665Z"
   },
   "DIMTP": {
     "route": {
@@ -11187,5 +11168,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
+  },
+  "SAS2993": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-10-31T16:25:21.225912Z"
+  },
+  "NJE675M": {
+    "route": null,
+    "checked_at": "2026-10-31T16:25:21.225912Z"
+  },
+  "RYR72EV": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-10-31T16:25:21.225912Z"
   }
 }
