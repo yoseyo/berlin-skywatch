@@ -1268,7 +1268,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T05:35:23.661017Z"
+    "checked_at": "2026-11-01T05:50:39.281324Z"
   },
   "DLH3CH": {
     "route": {
@@ -1312,7 +1312,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T05:55:22.603541Z"
+    "checked_at": "2026-11-01T05:50:39.281324Z"
   },
   "DLH8CE": {
     "route": {
@@ -1598,7 +1598,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T06:05:24.932862Z"
+    "checked_at": "2026-11-01T05:50:39.281324Z"
   },
   "WZZ1HL": {
     "route": {
@@ -5858,10 +5858,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T05:30:40.672874Z"
-  },
-  "ETH3883": {
-    "route": null,
-    "checked_at": "2026-10-30T05:50:29.662443Z"
   },
   "EWG8672": {
     "route": {
@@ -11152,5 +11148,16 @@
   "CAL067": {
     "route": null,
     "checked_at": "2026-11-01T05:45:28.921012Z"
+  },
+  "EWG6FC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T05:50:39.281324Z"
   }
 }
