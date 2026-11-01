@@ -2972,7 +2972,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-31T09:55:21.706300Z"
+    "checked_at": "2026-11-01T20:25:23.799176Z"
   },
   "EWG8465": {
     "route": {
@@ -3864,17 +3864,6 @@
       "airlineCountry": "Luxembourg"
     },
     "checked_at": "2026-10-30T20:45:27.821220Z"
-  },
-  "LOT3ND": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-30T20:25:22.483875Z"
   },
   "SXS4AQ": {
     "route": {
@@ -4906,7 +4895,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T20:10:30.338214Z"
+    "checked_at": "2026-11-01T20:25:23.799176Z"
   },
   "BEL9NK": {
     "route": {
@@ -4969,7 +4958,7 @@
   },
   "WZZ96CX": {
     "route": null,
-    "checked_at": "2026-10-31T20:30:39.433243Z"
+    "checked_at": "2026-11-01T20:25:23.799176Z"
   },
   "RYR443T": {
     "route": {
@@ -5924,17 +5913,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T20:00:48.448178Z"
-  },
-  "CFG1MP": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T20:25:22.483875Z"
   },
   "SDR45EE": {
     "route": {
@@ -11078,5 +11056,27 @@
   "WUK7DZ": {
     "route": null,
     "checked_at": "2026-11-01T20:20:31.866079Z"
+  },
+  "EWG6PR": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T20:25:23.799176Z"
+  },
+  "BAW84PW": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T20:25:23.799176Z"
   }
 }
