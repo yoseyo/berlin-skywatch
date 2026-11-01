@@ -830,7 +830,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T21:20:30.125648Z"
+    "checked_at": "2026-11-01T21:35:22.470518Z"
   },
   "AUA235D": {
     "route": {
@@ -852,7 +852,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T22:15:38.084735Z"
+    "checked_at": "2026-11-01T21:35:22.470518Z"
   },
   "AUA26Z": {
     "route": {
@@ -3661,10 +3661,6 @@
     },
     "checked_at": "2026-10-31T21:20:30.125648Z"
   },
-  "AEG6911": {
-    "route": null,
-    "checked_at": "2026-10-30T21:30:39.931265Z"
-  },
   "SRR6227": {
     "route": {
       "fromCity": "Berlin",
@@ -5909,17 +5905,6 @@
   "EWG8EH": {
     "route": null,
     "checked_at": "2026-11-01T16:40:29.277779Z"
-  },
-  "EJU5014": {
-    "route": {
-      "fromCity": "Rhodes Island",
-      "fromIata": "RHO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T21:30:39.931265Z"
   },
   "EWG4J": {
     "route": {
@@ -11154,5 +11139,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T21:30:39.900662Z"
+  },
+  "EWG13N": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T21:35:22.470518Z"
   }
 }
