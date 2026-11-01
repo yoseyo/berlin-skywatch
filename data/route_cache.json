@@ -1047,7 +1047,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-31T05:15:26.687245Z"
+    "checked_at": "2026-11-01T05:20:29.618900Z"
   },
   "RJA137": {
     "route": {
@@ -1257,7 +1257,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T05:25:23.196965Z"
+    "checked_at": "2026-11-01T05:20:29.618900Z"
   },
   "THY4QH": {
     "route": {
@@ -5848,10 +5848,6 @@
     "route": null,
     "checked_at": "2026-10-31T18:20:30.123215Z"
   },
-  "SDR80RF": {
-    "route": null,
-    "checked_at": "2026-10-30T05:20:28.436276Z"
-  },
   "NIA8501": {
     "route": {
       "fromCity": "Hurghada",
@@ -6473,7 +6469,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T08:20:29.658140Z"
+    "checked_at": "2026-11-01T05:20:29.618900Z"
   },
   "MFX7670": {
     "route": {
@@ -11181,5 +11177,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T05:15:29.133809Z"
+  },
+  "CHH489": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Hainan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-01T05:20:29.618900Z"
   }
 }
