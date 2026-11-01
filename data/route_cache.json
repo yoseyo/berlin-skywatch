@@ -610,7 +610,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-31T13:45:29.130870Z"
+    "checked_at": "2026-11-01T13:20:29.790437Z"
   },
   "MSC2960": {
     "route": {
@@ -2178,7 +2178,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T13:35:23.606171Z"
+    "checked_at": "2026-11-01T13:20:29.790437Z"
   },
   "SXS97P": {
     "route": {
@@ -5758,32 +5758,6 @@
     },
     "checked_at": "2026-11-01T13:00:49.624984Z"
   },
-  "BTI8WF": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-30T13:15:32.103055Z"
-  },
-  "EJU65LC": {
-    "route": null,
-    "checked_at": "2026-10-30T13:15:32.103055Z"
-  },
-  "RYR95WJ": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T13:15:32.103055Z"
-  },
   "NJE812P": {
     "route": null,
     "checked_at": "2026-10-30T13:20:33.375666Z"
@@ -8549,7 +8523,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T13:50:28.844390Z"
+    "checked_at": "2026-11-01T13:20:29.790437Z"
   },
   "TVS4464": {
     "route": {
@@ -8835,7 +8809,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-31T15:35:32.020210Z"
+    "checked_at": "2026-11-01T13:20:29.790437Z"
   },
   "DCUVH": {
     "route": null,
@@ -11033,5 +11007,38 @@
   "DMRBW": {
     "route": null,
     "checked_at": "2026-11-01T13:15:27.271880Z"
+  },
+  "RYR5LZ": {
+    "route": {
+      "fromCity": "Cork",
+      "fromIata": "ORK",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T13:20:29.790437Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-01T13:20:29.790437Z"
+  },
+  "N425BM": {
+    "route": {
+      "fromCity": "San Jose",
+      "fromIata": "SJC",
+      "toCity": "San Diego",
+      "toIata": "MYF",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-01T13:20:29.790437Z"
   }
 }
