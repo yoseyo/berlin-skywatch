@@ -2388,7 +2388,7 @@
   },
   "WMT7KX": {
     "route": null,
-    "checked_at": "2026-10-31T14:20:30.235901Z"
+    "checked_at": "2026-11-01T15:00:49.263035Z"
   },
   "EJU35TF": {
     "route": {
@@ -4906,7 +4906,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-10-31T15:15:28.973355Z"
+    "checked_at": "2026-11-01T15:00:49.263035Z"
   },
   "WZZ8MD": {
     "route": {
@@ -5749,17 +5749,6 @@
     },
     "checked_at": "2026-11-01T14:45:27.726734Z"
   },
-  "DLH743": {
-    "route": {
-      "fromCity": "Osaka",
-      "fromIata": "KIX",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T14:55:25.806075Z"
-  },
   "EJU62UA": {
     "route": {
       "fromCity": "Milan",
@@ -5770,17 +5759,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-31T21:45:27.141951Z"
-  },
-  "EJU32NT": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T14:55:25.806075Z"
   },
   "EJU51QP": {
     "route": null,
@@ -11054,5 +11032,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T14:55:22.306444Z"
+  },
+  "EWG4EJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T15:00:49.263035Z"
   }
 }
