@@ -324,7 +324,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T07:40:29.402229Z"
+    "checked_at": "2026-11-01T07:35:22.017467Z"
   },
   "SAS767": {
     "route": {
@@ -1422,7 +1422,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T11:05:22.992402Z"
+    "checked_at": "2026-11-01T07:35:22.017467Z"
   },
   "WZZ173": {
     "route": {
@@ -1466,7 +1466,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T07:40:29.402229Z"
+    "checked_at": "2026-11-01T07:35:22.017467Z"
   },
   "THY1CK": {
     "route": {
@@ -4905,17 +4905,6 @@
     },
     "checked_at": "2026-10-30T07:45:31.239115Z"
   },
-  "FIN6Y": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-30T07:30:44.852895Z"
-  },
   "DFEED": {
     "route": null,
     "checked_at": "2026-10-30T10:20:32.320070Z"
@@ -5788,17 +5777,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
-  },
-  "ELY048": {
-    "route": {
-      "fromCity": "Kansas City",
-      "fromIata": "MCI",
-      "toCity": "New York",
-      "toIata": "JFK",
-      "airlineName": "El Al Israel Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-10-30T07:30:44.852895Z"
   },
   "BAW972": {
     "route": {
@@ -10174,7 +10152,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T17:55:22.004749Z"
+    "checked_at": "2026-11-01T07:35:22.017467Z"
   },
   "CAI15XF": {
     "route": {
@@ -11135,5 +11113,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T07:30:38.610449Z"
+  },
+  "MFX7668": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Almaty",
+      "toIata": "ALA",
+      "airlineName": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-11-01T07:35:22.017467Z"
+  },
+  "GAF916": {
+    "route": null,
+    "checked_at": "2026-11-01T07:35:22.017467Z"
   }
 }
