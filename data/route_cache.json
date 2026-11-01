@@ -434,7 +434,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T10:10:30.175188Z"
+    "checked_at": "2026-11-01T10:00:48.820334Z"
   },
   "AEE8RB": {
     "route": {
@@ -1716,7 +1716,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T09:50:30.438520Z"
+    "checked_at": "2026-11-01T10:00:48.820334Z"
   },
   "THY2JV": {
     "route": {
@@ -3348,7 +3348,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T08:35:21.696646Z"
+    "checked_at": "2026-11-01T10:00:48.820334Z"
   },
   "EWG7GK": {
     "route": {
@@ -4444,7 +4444,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T21:25:22.213121Z"
+    "checked_at": "2026-11-01T10:00:48.820334Z"
   },
   "KLM1316": {
     "route": {
@@ -11073,5 +11073,16 @@
   "VLG4220": {
     "route": null,
     "checked_at": "2026-11-01T09:55:24.730882Z"
+  },
+  "CSN467": {
+    "route": {
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Southern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-01T10:00:48.820334Z"
   }
 }
