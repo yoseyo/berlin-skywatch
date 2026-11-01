@@ -621,7 +621,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-10-31T12:15:27.772426Z"
+    "checked_at": "2026-11-01T12:25:23.298436Z"
   },
   "MSR731": {
     "route": {
@@ -2057,7 +2057,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-30T12:20:34.025734Z"
+    "checked_at": "2026-11-01T12:25:23.298436Z"
   },
   "THY6EU": {
     "route": {
@@ -5772,17 +5772,6 @@
     },
     "checked_at": "2026-11-01T11:55:23.246082Z"
   },
-  "DLH1AC": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T12:20:34.025734Z"
-  },
   "DLH2EJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -5793,28 +5782,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T12:20:29.545994Z"
-  },
-  "NMA738": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nesma Airlines",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-30T12:20:34.025734Z"
-  },
-  "MSR759": {
-    "route": {
-      "fromCity": "Cairo",
-      "fromIata": "CAI",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Egyptair",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-30T12:20:34.025734Z"
   },
   "EWG7PJ": {
     "route": null,
@@ -11065,5 +11032,31 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-01T12:20:29.545994Z"
+  },
+  "EJU62CM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sharm el-Sheikh",
+      "toIata": "SSH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T12:25:23.298436Z"
+  },
+  "DKIDA": {
+    "route": null,
+    "checked_at": "2026-11-01T12:25:23.298436Z"
+  },
+  "RYR126Q": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T12:25:23.298436Z"
   }
 }
