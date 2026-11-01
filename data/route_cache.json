@@ -2643,7 +2643,7 @@
   },
   "PGT61NK": {
     "route": null,
-    "checked_at": "2026-10-31T19:50:29.440252Z"
+    "checked_at": "2026-11-01T17:55:22.755079Z"
   },
   "BAW848": {
     "route": {
@@ -2836,7 +2836,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T12:35:21.821584Z"
+    "checked_at": "2026-11-01T17:55:22.755079Z"
   },
   "EJU36HF": {
     "route": {
@@ -5664,7 +5664,7 @@
   },
   "EWG6YW": {
     "route": null,
-    "checked_at": "2026-10-31T12:30:40.233314Z"
+    "checked_at": "2026-11-01T17:55:22.755079Z"
   },
   "RYR34JK": {
     "route": {
@@ -10925,5 +10925,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T17:50:29.867948Z"
+  },
+  "RYR7RF": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Zemunik (Zadar)",
+      "toIata": "ZAD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T17:55:22.755079Z"
+  },
+  "EWG5427": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T17:55:22.755079Z"
+  },
+  "EWG5403": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T17:55:22.755079Z"
   }
 }
