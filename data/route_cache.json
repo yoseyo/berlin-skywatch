@@ -2447,7 +2447,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T15:10:28.541761Z"
+    "checked_at": "2026-11-01T15:15:31.869995Z"
   },
   "RYR310V": {
     "route": {
@@ -3516,17 +3516,6 @@
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
   },
-  "DLH3RV": {
-    "route": {
-      "fromCity": "Cagliari",
-      "fromIata": "CAG",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T15:10:36.598563Z"
-  },
   "CES787": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -4423,7 +4412,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T13:40:30.759672Z"
+    "checked_at": "2026-11-01T15:15:31.869995Z"
   },
   "EJU15QB": {
     "route": null,
@@ -5785,51 +5774,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T06:50:28.838286Z"
-  },
-  "WZZ6DG": {
-    "route": null,
-    "checked_at": "2026-10-30T15:10:36.598563Z"
-  },
-  "UAE9H": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Dubai",
-      "toIata": "DXB",
-      "airlineName": "Emirates",
-      "airlineCountry": "United Arab Emirates"
-    },
-    "checked_at": "2026-10-30T15:15:30.693491Z"
-  },
-  "SAS1915": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Firenze",
-      "toIata": "FLR",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T15:15:30.693491Z"
-  },
-  "CTM2079": {
-    "route": null,
-    "checked_at": "2026-10-30T15:15:30.693491Z"
-  },
-  "BAF639": {
-    "route": null,
-    "checked_at": "2026-10-30T15:15:30.693491Z"
-  },
-  "EWG1908": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T15:15:30.693491Z"
   },
   "EWG6YW": {
     "route": null,
@@ -11036,5 +10980,20 @@
   "FHY1582": {
     "route": null,
     "checked_at": "2026-11-01T15:05:25.023521Z"
+  },
+  "N136SA": {
+    "route": null,
+    "checked_at": "2026-11-01T15:15:31.869995Z"
+  },
+  "EWG7C": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T15:15:31.869995Z"
   }
 }
