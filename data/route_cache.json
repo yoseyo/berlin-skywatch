@@ -566,7 +566,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-31T12:30:40.233314Z"
+    "checked_at": "2026-11-01T14:00:46.068176Z"
   },
   "KLM26L": {
     "route": {
@@ -4214,17 +4214,6 @@
     },
     "checked_at": "2026-11-01T05:00:49.981929Z"
   },
-  "WZZ191": {
-    "route": {
-      "fromCity": "Ohrid",
-      "fromIata": "OHD",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-30T13:55:24.704342Z"
-  },
   "EWG5JW": {
     "route": null,
     "checked_at": "2026-10-30T14:20:30.679432Z"
@@ -4419,8 +4408,15 @@
     "checked_at": "2026-10-31T18:45:26.649029Z"
   },
   "EJU19XU": {
-    "route": null,
-    "checked_at": "2026-10-30T17:50:39.757446Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T14:00:46.068176Z"
   },
   "EWG38HU": {
     "route": null,
@@ -5757,28 +5753,6 @@
   "SCR239": {
     "route": null,
     "checked_at": "2026-10-31T10:05:24.960346Z"
-  },
-  "EJU19UQ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Olbia (SS)",
-      "toIata": "OLB",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T13:55:24.704342Z"
-  },
-  "DLH9YJ": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T13:55:24.704342Z"
   },
   "MGL138": {
     "route": {
