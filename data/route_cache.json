@@ -1246,7 +1246,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T15:00:49.709816Z"
+    "checked_at": "2026-11-01T05:25:33.963692Z"
   },
   "DLH2EE": {
     "route": {
@@ -5847,17 +5847,6 @@
   "RYR65RB": {
     "route": null,
     "checked_at": "2026-10-31T18:20:30.123215Z"
-  },
-  "NIA8501": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-30T05:25:22.680052Z"
   },
   "EJU41AW": {
     "route": {
@@ -11188,5 +11177,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-01T05:20:29.618900Z"
+  },
+  "EJU9048": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Nantes",
+      "toIata": "NTE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T05:25:33.963692Z"
   }
 }
