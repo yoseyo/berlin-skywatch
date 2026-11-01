@@ -2180,17 +2180,6 @@
     },
     "checked_at": "2026-10-31T12:35:21.821584Z"
   },
-  "NSZ4506": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T11:20:30.901325Z"
-  },
   "WZZ9GN": {
     "route": {
       "fromCity": "Larnaca",
@@ -4863,7 +4852,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T21:25:22.332216Z"
+    "checked_at": "2026-11-01T11:25:23.236642Z"
   },
   "NSZ8ML": {
     "route": {
@@ -4908,17 +4897,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-30T11:57:08.143427Z"
-  },
-  "FHY1273": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-30T11:20:30.901325Z"
   },
   "CHH490": {
     "route": {
@@ -10993,5 +10971,20 @@
   "SVI8223": {
     "route": null,
     "checked_at": "2026-11-01T11:15:28.806893Z"
+  },
+  "DMHIP": {
+    "route": null,
+    "checked_at": "2026-11-01T11:25:23.236642Z"
+  },
+  "RYR1VV": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T11:25:23.236642Z"
   }
 }
