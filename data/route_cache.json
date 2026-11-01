@@ -4211,10 +4211,6 @@
     },
     "checked_at": "2026-11-01T14:50:29.585277Z"
   },
-  "ASL13B": {
-    "route": null,
-    "checked_at": "2026-10-30T18:45:27.364118Z"
-  },
   "DLH3AW": {
     "route": null,
     "checked_at": "2026-10-31T18:45:26.649029Z"
@@ -10968,5 +10964,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T18:40:31.617569Z"
+  },
+  "SAS37Y": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T18:45:30.207377Z"
   }
 }
