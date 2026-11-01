@@ -720,7 +720,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T18:35:22.152803Z"
+    "checked_at": "2026-11-01T18:40:31.617569Z"
   },
   "SAS1673": {
     "route": {
@@ -4198,7 +4198,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-30T18:45:27.364118Z"
+    "checked_at": "2026-11-01T18:40:31.617569Z"
   },
   "EWG1TZ": {
     "route": {
@@ -10942,5 +10942,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T18:35:23.146072Z"
+  },
+  "ELY2373": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-01T18:40:31.617569Z"
+  },
+  "UPC6004": {
+    "route": null,
+    "checked_at": "2026-11-01T18:40:31.617569Z"
+  },
+  "SXS8HW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-01T18:40:31.617569Z"
   }
 }
