@@ -775,7 +775,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-30T19:55:22.553987Z"
+    "checked_at": "2026-11-01T19:45:30.058987Z"
   },
   "BAW844": {
     "route": {
@@ -2931,7 +2931,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T19:40:32.401618Z"
+    "checked_at": "2026-11-01T19:45:30.058987Z"
   },
   "IBE07WB": {
     "route": {
@@ -5906,17 +5906,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-11-01T10:40:34.564535Z"
-  },
-  "SAS1916": {
-    "route": {
-      "fromCity": "Firenze",
-      "fromIata": "FLR",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T19:40:30.724160Z"
   },
   "WMT7KQ": {
     "route": null,
@@ -11056,5 +11045,20 @@
   "RYR18HB": {
     "route": null,
     "checked_at": "2026-11-01T19:40:30.681562Z"
+  },
+  "LOT4MU": {
+    "route": null,
+    "checked_at": "2026-11-01T19:45:30.058987Z"
+  },
+  "EZY73YT": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T19:45:30.058987Z"
   }
 }
