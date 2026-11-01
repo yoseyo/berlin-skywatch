@@ -1095,7 +1095,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T16:10:30.836968Z"
+    "checked_at": "2026-11-01T16:00:49.614246Z"
   },
   "FIN5R": {
     "route": {
@@ -4389,7 +4389,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T12:50:29.286818Z"
+    "checked_at": "2026-11-01T16:00:49.614246Z"
   },
   "RYR2WX": {
     "route": {
@@ -4403,8 +4403,15 @@
     "checked_at": "2026-11-01T15:15:31.869995Z"
   },
   "EJU15QB": {
-    "route": null,
-    "checked_at": "2026-10-30T20:00:50.361465Z"
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T16:00:49.614246Z"
   },
   "AUA238N": {
     "route": {
@@ -5789,14 +5796,6 @@
     },
     "checked_at": "2026-11-01T14:45:27.726734Z"
   },
-  "GAF626": {
-    "route": null,
-    "checked_at": "2026-10-30T15:55:25.014079Z"
-  },
-  "JSY2E": {
-    "route": null,
-    "checked_at": "2026-10-30T15:55:25.014079Z"
-  },
   "WZZ98SJ": {
     "route": {
       "fromCity": "London",
@@ -5854,7 +5853,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-10-31T16:05:23.125157Z"
+    "checked_at": "2026-11-01T16:00:49.614246Z"
   },
   "RYR5HP": {
     "route": {
