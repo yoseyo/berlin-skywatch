@@ -2167,7 +2167,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-31T12:55:23.677398Z"
+    "checked_at": "2026-11-01T13:00:49.624984Z"
   },
   "EJU41AH": {
     "route": {
@@ -4843,17 +4843,6 @@
     },
     "checked_at": "2026-10-31T12:20:31.918912Z"
   },
-  "MEA246": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-10-30T12:55:23.103907Z"
-  },
   "ICE15M": {
     "route": {
       "fromCity": "Berlin",
@@ -5822,7 +5811,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T13:05:23.270886Z"
+    "checked_at": "2026-11-01T13:00:49.624984Z"
   },
   "CES5014": {
     "route": {
@@ -5955,7 +5944,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T14:00:54.261289Z"
+    "checked_at": "2026-11-01T13:00:49.624984Z"
   },
   "EWG3ZP": {
     "route": {
@@ -11040,5 +11029,49 @@
   "FHY1581": {
     "route": null,
     "checked_at": "2026-11-01T12:55:21.860068Z"
+  },
+  "NSZ4506": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T13:00:49.624984Z"
+  },
+  "SAS2961": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Firenze",
+      "toIata": "FLR",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T13:00:49.624984Z"
+  },
+  "RYR21FH": {
+    "route": {
+      "fromCity": "Rzesz\u00f3w",
+      "fromIata": "RZE",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T13:00:49.624984Z"
+  },
+  "WZZ9GN": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-01T13:00:49.624984Z"
   }
 }
