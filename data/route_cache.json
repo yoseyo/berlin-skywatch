@@ -379,7 +379,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T09:00:48.400537Z"
+    "checked_at": "2026-11-01T08:50:30.357497Z"
   },
   "DLH4X": {
     "route": {
@@ -4946,10 +4946,6 @@
     },
     "checked_at": "2026-10-30T17:10:31.673339Z"
   },
-  "GAF009": {
-    "route": null,
-    "checked_at": "2026-10-30T08:50:28.855655Z"
-  },
   "ICE14T": {
     "route": {
       "fromCity": "Reykjav\u00edk",
@@ -5740,10 +5736,6 @@
     },
     "checked_at": "2026-11-01T07:40:29.880018Z"
   },
-  "MFX7624": {
-    "route": null,
-    "checked_at": "2026-10-30T08:45:30.223605Z"
-  },
   "DLH8AE": {
     "route": {
       "fromCity": "Munich",
@@ -5754,32 +5746,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T08:35:22.277884Z"
-  },
-  "LBT248": {
-    "route": {
-      "fromCity": "Monastir",
-      "fromIata": "MIR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-30T08:45:30.223605Z"
-  },
-  "DMS2MY": {
-    "route": null,
-    "checked_at": "2026-10-30T08:50:28.855655Z"
-  },
-  "EJU14UP": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T08:50:28.855655Z"
   },
   "NOZ3JH": {
     "route": {
@@ -6894,7 +6860,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-30T15:00:53.664973Z"
+    "checked_at": "2026-11-01T08:50:30.357497Z"
   },
   "RYR37AF": {
     "route": {
@@ -8699,7 +8665,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T09:10:29.744664Z"
+    "checked_at": "2026-11-01T08:50:30.357497Z"
   },
   "BTI4XH": {
     "route": {
@@ -10154,7 +10120,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T19:00:48.617044Z"
+    "checked_at": "2026-11-01T08:50:30.357497Z"
   },
   "KMM377": {
     "route": null,
@@ -11131,5 +11097,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T08:45:27.814948Z"
+  },
+  "FIN1CA": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-01T08:50:30.357497Z"
+  },
+  "CAI52DW": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-01T08:50:30.357497Z"
   }
 }
