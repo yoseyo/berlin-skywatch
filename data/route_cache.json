@@ -93,7 +93,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T15:45:27.346146Z"
+    "checked_at": "2026-11-01T15:45:28.708420Z"
   },
   "LOT5PX": {
     "route": {
@@ -3532,7 +3532,7 @@
       "airlineName": "China Eastern Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-31T15:40:27.981734Z"
+    "checked_at": "2026-11-01T15:45:28.708420Z"
   },
   "LOT6NK": {
     "route": {
@@ -8784,7 +8784,7 @@
       "airlineName": "Corendon Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T18:00:46.913350Z"
+    "checked_at": "2026-11-01T15:45:28.708420Z"
   },
   "HOP62AM": {
     "route": {
@@ -10983,5 +10983,16 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-01T15:40:30.927458Z"
+  },
+  "CFG7NY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T15:45:28.708420Z"
   }
 }
