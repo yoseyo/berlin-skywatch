@@ -38,7 +38,7 @@
   },
   "CHX31": {
     "route": null,
-    "checked_at": "2026-10-31T06:35:28.030725Z"
+    "checked_at": "2026-11-01T06:55:21.757151Z"
   },
   "AUA995F": {
     "route": {
@@ -1378,7 +1378,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T06:53:34.000407Z"
+    "checked_at": "2026-11-01T06:55:21.757151Z"
   },
   "RYR21VK": {
     "route": {
@@ -8810,7 +8810,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-31T07:25:32.119276Z"
+    "checked_at": "2026-11-01T06:55:21.757151Z"
   },
   "RYR60GX": {
     "route": {
@@ -11129,5 +11129,27 @@
   "CAT607": {
     "route": null,
     "checked_at": "2026-11-01T06:45:26.892816Z"
+  },
+  "EJU5009": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T06:55:21.757151Z"
+  },
+  "VKG314": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-11-01T06:55:21.757151Z"
   }
 }
