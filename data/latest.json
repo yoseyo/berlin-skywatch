@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-01T23:30:37.877672Z"
+  "flights": [
+    {
+      "callsign": "RUK3EX",
+      "country": "United Kingdom",
+      "lat": 52.273,
+      "lon": 12.9667,
+      "altKm": 11.1,
+      "speedKmh": 829,
+      "heading": 311,
+      "vertRateMs": 0,
+      "airline": "Ryanair UK",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-01T23:35:21.903667Z"
 }
