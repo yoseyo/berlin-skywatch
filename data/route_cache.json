@@ -2879,7 +2879,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T18:50:30.506107Z"
+    "checked_at": "2026-11-01T19:00:48.669323Z"
   },
   "BAW99XC": {
     "route": {
@@ -4261,7 +4261,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T19:15:28.359975Z"
+    "checked_at": "2026-11-01T19:00:48.669323Z"
   },
   "RYR4BP": {
     "route": {
@@ -5912,7 +5912,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-31T19:50:29.440252Z"
+    "checked_at": "2026-11-01T19:00:48.669323Z"
   },
   "RAM222B": {
     "route": {
@@ -7957,7 +7957,7 @@
   },
   "FRO1948": {
     "route": null,
-    "checked_at": "2026-10-31T16:05:23.125157Z"
+    "checked_at": "2026-11-01T19:00:48.669323Z"
   },
   "EJU5125": {
     "route": {
@@ -10942,5 +10942,38 @@
   "ASL13B": {
     "route": null,
     "checked_at": "2026-11-01T18:50:29.727768Z"
+  },
+  "DLH7AK": {
+    "route": {
+      "fromCity": "Chicago",
+      "fromIata": "ORD",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T19:00:48.669323Z"
+  },
+  "RYR5ZY": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T19:00:48.669323Z"
+  },
+  "EWG6T": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T19:00:48.669323Z"
   }
 }
