@@ -1058,7 +1058,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-10-31T14:10:30.387453Z"
+    "checked_at": "2026-11-01T15:20:29.170152Z"
   },
   "FIN9YA": {
     "route": {
@@ -2402,8 +2402,15 @@
     "checked_at": "2026-10-31T22:15:38.084735Z"
   },
   "RYR16LA": {
-    "route": null,
-    "checked_at": "2026-10-31T07:40:29.402229Z"
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T15:20:29.170152Z"
   },
   "KLM67U": {
     "route": {
@@ -6248,7 +6255,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T17:55:24.682935Z"
+    "checked_at": "2026-11-01T15:20:29.170152Z"
   },
   "ATV504": {
     "route": null,
