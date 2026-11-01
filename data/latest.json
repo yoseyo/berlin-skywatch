@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-01T04:55:22.160599Z"
+  "flights": [
+    {
+      "callsign": "EJU37DC",
+      "country": "Austria",
+      "lat": 52.3276,
+      "lon": 13.5614,
+      "altKm": 1.2,
+      "speedKmh": 370,
+      "heading": 199,
+      "vertRateMs": 7.5,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-01T05:00:49.981929Z"
 }
