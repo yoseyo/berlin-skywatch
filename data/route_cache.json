@@ -126,7 +126,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-31T17:05:24.022225Z"
+    "checked_at": "2026-11-01T17:05:23.074108Z"
   },
   "AEE82B": {
     "route": {
@@ -2650,7 +2650,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T17:15:27.185445Z"
+    "checked_at": "2026-11-01T17:05:23.074108Z"
   },
   "PGT61NK": {
     "route": null,
@@ -5842,21 +5842,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T12:40:30.799752Z"
-  },
-  "SAS71Z": {
-    "route": null,
-    "checked_at": "2026-10-30T17:00:57.146039Z"
-  },
-  "SDR11BL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T17:00:57.146039Z"
   },
   "EWG60F": {
     "route": {
@@ -10904,5 +10889,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T17:00:47.715209Z"
+  },
+  "ENT1RE": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Girona",
+      "toIata": "GRO",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T17:05:23.074108Z"
   }
 }
