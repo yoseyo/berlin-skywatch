@@ -731,7 +731,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T08:25:21.366427Z"
+    "checked_at": "2026-11-01T08:25:23.479634Z"
   },
   "SAS1674": {
     "route": {
@@ -4929,7 +4929,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T09:20:32.929960Z"
+    "checked_at": "2026-11-01T08:25:23.479634Z"
   },
   "RYR14ZJ": {
     "route": null,
@@ -5042,17 +5042,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T22:00:48.619210Z"
-  },
-  "WZZ24TK": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-30T08:20:30.184242Z"
   },
   "EWG6835": {
     "route": {
@@ -5200,10 +5189,6 @@
   "RYR77AJ": {
     "route": null,
     "checked_at": "2026-10-31T06:30:43.553644Z"
-  },
-  "SFG55C": {
-    "route": null,
-    "checked_at": "2026-10-30T08:20:30.184242Z"
   },
   "RYR45GY": {
     "route": null,
@@ -11087,5 +11072,53 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T08:15:28.478478Z"
+  },
+  "FJMFZ": {
+    "route": null,
+    "checked_at": "2026-11-01T08:25:23.479634Z"
+  },
+  "CFG4RY": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T08:25:23.479634Z"
+  },
+  "VKG458": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-11-01T08:25:23.479634Z"
+  },
+  "RYR353": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T08:25:23.479634Z"
+  },
+  "WZZ506": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-01T08:25:23.479634Z"
   }
 }
