@@ -5758,10 +5758,6 @@
     },
     "checked_at": "2026-11-01T13:00:49.624984Z"
   },
-  "NJE812P": {
-    "route": null,
-    "checked_at": "2026-10-30T13:20:33.375666Z"
-  },
   "CCA950": {
     "route": {
       "fromCity": "Milan",
@@ -7218,7 +7214,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T21:35:23.878759Z"
+    "checked_at": "2026-11-01T13:25:22.590734Z"
   },
   "SWR53Q": {
     "route": {
@@ -11040,5 +11036,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-01T13:20:29.790437Z"
+  },
+  "EJU54BP": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T13:25:22.590734Z"
+  },
+  "RYR19UZ": {
+    "route": {
+      "fromCity": "Rzesz\u00f3w",
+      "fromIata": "RZE",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T13:25:22.590734Z"
   }
 }
