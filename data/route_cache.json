@@ -808,7 +808,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-31T09:30:41.086096Z"
+    "checked_at": "2026-11-01T09:20:29.473617Z"
   },
   "KLM95T": {
     "route": {
@@ -900,7 +900,7 @@
   },
   "CFG552": {
     "route": null,
-    "checked_at": "2026-10-31T09:15:36.240253Z"
+    "checked_at": "2026-11-01T09:20:29.473617Z"
   },
   "EIN33W": {
     "route": {
@@ -3479,17 +3479,6 @@
     },
     "checked_at": "2026-10-31T11:25:23.982179Z"
   },
-  "DLH4CF": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T09:15:28.882886Z"
-  },
   "ASL31R": {
     "route": null,
     "checked_at": "2026-10-31T08:45:27.598747Z"
@@ -3515,17 +3504,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-01T09:15:27.639404Z"
-  },
-  "EWG7B": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T09:15:28.882886Z"
   },
   "WZZ8409": {
     "route": null,
@@ -11111,5 +11089,20 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-01T09:00:48.334246Z"
+  },
+  "N650BR": {
+    "route": null,
+    "checked_at": "2026-11-01T09:20:29.473617Z"
+  },
+  "SAS1697": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T09:20:29.473617Z"
   }
 }
