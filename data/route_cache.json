@@ -2399,7 +2399,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T22:15:38.084735Z"
+    "checked_at": "2026-11-01T16:35:23.369375Z"
   },
   "RYR16LA": {
     "route": {
@@ -2534,8 +2534,15 @@
     "checked_at": "2026-11-01T15:10:27.816602Z"
   },
   "EWG8EV": {
-    "route": null,
-    "checked_at": "2026-10-30T17:39:50.557517Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T16:35:23.369375Z"
   },
   "RYR4LZ": {
     "route": null,
@@ -3580,7 +3587,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T16:35:23.960432Z"
+    "checked_at": "2026-11-01T16:35:23.369375Z"
   },
   "BAW985": {
     "route": {
@@ -4131,10 +4138,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T12:20:29.545994Z"
-  },
-  "EWG89KP": {
-    "route": null,
-    "checked_at": "2026-10-30T16:30:44.015863Z"
   },
   "AUA29B": {
     "route": {
@@ -5868,7 +5871,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T16:35:23.960432Z"
+    "checked_at": "2026-11-01T16:35:23.369375Z"
   },
   "RYR4022": {
     "route": {
@@ -10920,5 +10923,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T16:30:40.247166Z"
+  },
+  "EWG9UL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T16:35:23.369375Z"
   }
 }
