@@ -1613,7 +1613,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-30T14:00:54.261289Z"
+    "checked_at": "2026-11-01T09:00:48.334246Z"
   },
   "SWR7TA": {
     "route": {
@@ -1646,7 +1646,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T09:10:29.744664Z"
+    "checked_at": "2026-11-01T09:00:48.334246Z"
   },
   "PGT36NC": {
     "route": {
@@ -3940,17 +3940,6 @@
     },
     "checked_at": "2026-10-31T08:50:31.943450Z"
   },
-  "CKK215": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-30T08:56:13.467460Z"
-  },
   "FIN8WB": {
     "route": {
       "fromCity": "Munich",
@@ -5756,11 +5745,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-31T10:35:33.286413Z"
-  },
-  "TWI346": {
-    "route": null,
-    "checked_at": "2026-10-30T08:56:13.467460Z"
+    "checked_at": "2026-11-01T09:00:48.334246Z"
   },
   "TKJ5157": {
     "route": {
@@ -11134,5 +11119,16 @@
   "NJE708B": {
     "route": null,
     "checked_at": "2026-11-01T08:55:22.158027Z"
+  },
+  "TAH345": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Moorea",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-01T09:00:48.334246Z"
   }
 }
