@@ -786,7 +786,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-31T10:15:28.189631Z"
+    "checked_at": "2026-11-01T10:05:23.856738Z"
   },
   "KLM67B": {
     "route": {
@@ -3514,7 +3514,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T10:30:39.217749Z"
+    "checked_at": "2026-11-01T10:05:23.856738Z"
   },
   "EJU42WH": {
     "route": null,
@@ -4296,7 +4296,7 @@
       "airlineName": "Freebird Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T09:25:23.117998Z"
+    "checked_at": "2026-11-01T10:05:23.856738Z"
   },
   "RYR1ZC": {
     "route": {
@@ -5317,17 +5317,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-10-30T18:10:31.610291Z"
-  },
-  "VJT453": {
-    "route": {
-      "fromCity": "Amman",
-      "fromIata": "AMM",
-      "toCity": "Amman",
-      "toIata": "AMM",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-10-30T10:00:51.316206Z"
   },
   "RYR161K": {
     "route": null,
@@ -10055,7 +10044,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T19:55:21.002680Z"
+    "checked_at": "2026-11-01T10:05:23.856738Z"
   },
   "RYR3JQ": {
     "route": {
@@ -11084,5 +11073,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-01T10:00:48.820334Z"
+  },
+  "AHY064": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Baku",
+      "toIata": "GYD",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-11-01T10:05:23.856738Z"
+  },
+  "FIN6TF": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-01T10:05:23.856738Z"
   }
 }
