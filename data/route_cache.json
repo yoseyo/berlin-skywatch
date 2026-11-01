@@ -5740,17 +5740,6 @@
     },
     "checked_at": "2026-11-01T07:40:29.880018Z"
   },
-  "SDR10CL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T08:40:31.791613Z"
-  },
   "MFX7624": {
     "route": null,
     "checked_at": "2026-10-30T08:45:30.223605Z"
@@ -7540,7 +7529,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-30T18:25:22.871522Z"
+    "checked_at": "2026-11-01T08:45:27.814948Z"
   },
   "EWG2GC": {
     "route": {
@@ -11131,5 +11120,16 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-01T08:40:30.442726Z"
+  },
+  "RYR649T": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T08:45:27.814948Z"
   }
 }
