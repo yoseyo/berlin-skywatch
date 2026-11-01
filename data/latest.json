@@ -1,22 +1,29 @@
 {
   "flights": [
     {
-      "callsign": "EJU37DC",
-      "country": "Austria",
-      "lat": 52.3276,
-      "lon": 13.5614,
-      "altKm": 1.2,
-      "speedKmh": 370,
-      "heading": 199,
-      "vertRateMs": 7.5,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
+      "callsign": "KLM90J",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.2946,
+      "lon": 13.5204,
+      "altKm": 1.3,
+      "speedKmh": 501,
+      "heading": 223,
+      "vertRateMs": 16.6,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG8MA",
+      "country": "Germany",
+      "lat": 52.4997,
+      "lon": 13.6749,
+      "altKm": 2.9,
+      "speedKmh": 464,
+      "heading": 350,
+      "vertRateMs": 19.5,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-01T05:00:49.981929Z"
+  "updated_at": "2026-11-01T05:05:26.369007Z"
 }
