@@ -4164,7 +4164,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T13:40:30.759672Z"
+    "checked_at": "2026-11-01T14:55:22.306444Z"
   },
   "EJU37DC": {
     "route": {
@@ -5899,8 +5899,15 @@
     "checked_at": "2026-10-30T15:25:25.196271Z"
   },
   "RYR34JK": {
-    "route": null,
-    "checked_at": "2026-10-30T15:25:25.196271Z"
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T14:55:22.306444Z"
   },
   "WZZ326": {
     "route": {
@@ -11025,5 +11032,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T14:50:29.585277Z"
+  },
+  "THY8DE": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Seattle",
+      "toIata": "SEA",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-01T14:55:22.306444Z"
+  },
+  "SXS4FN": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-01T14:55:22.306444Z"
   }
 }
