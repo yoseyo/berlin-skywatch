@@ -2687,7 +2687,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-30T17:10:31.673339Z"
+    "checked_at": "2026-11-01T17:15:28.672040Z"
   },
   "EJU95KL": {
     "route": {
@@ -2762,10 +2762,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-10-31T18:00:46.913350Z"
-  },
-  "AFR62AM": {
-    "route": null,
-    "checked_at": "2026-10-30T17:10:31.673339Z"
   },
   "EWG9CZ": {
     "route": {
@@ -3600,17 +3596,6 @@
     },
     "checked_at": "2026-10-31T11:30:41.102331Z"
   },
-  "BTI6UN": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-30T17:10:31.673339Z"
-  },
   "VLG8TD": {
     "route": null,
     "checked_at": "2026-10-31T12:30:40.233314Z"
@@ -4052,7 +4037,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T05:50:32.306292Z"
+    "checked_at": "2026-11-01T17:15:28.672040Z"
   },
   "QTR66K": {
     "route": {
@@ -4236,7 +4221,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-31T17:15:27.185445Z"
+    "checked_at": "2026-11-01T17:15:28.672040Z"
   },
   "EJU48JX": {
     "route": null,
@@ -4617,17 +4602,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-01T09:55:24.730882Z"
-  },
-  "RYR556Z": {
-    "route": {
-      "fromCity": "Genova",
-      "fromIata": "GOA",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T17:10:31.673339Z"
   },
   "ICE14T": {
     "route": {
@@ -5831,21 +5805,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T12:40:30.799752Z"
-  },
-  "SPZON": {
-    "route": null,
-    "checked_at": "2026-10-30T17:10:31.673339Z"
-  },
-  "CXI95FV": {
-    "route": {
-      "fromCity": "Rostock",
-      "fromIata": "RLG",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "Shanxi Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-30T17:10:31.673339Z"
   },
   "WZZ9025": {
     "route": null,
@@ -10882,5 +10841,27 @@
   "DEJYZ": {
     "route": null,
     "checked_at": "2026-11-01T17:10:30.795159Z"
+  },
+  "UAE61": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-11-01T17:15:28.672040Z"
+  },
+  "RYR1QF": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T17:15:28.672040Z"
   }
 }
