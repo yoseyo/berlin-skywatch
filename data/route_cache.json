@@ -170,7 +170,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T21:05:24.346780Z"
+    "checked_at": "2026-11-01T21:30:39.900662Z"
   },
   "KLM27F": {
     "route": {
@@ -3324,7 +3324,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-31T11:25:23.982179Z"
+    "checked_at": "2026-11-01T21:30:39.900662Z"
   },
   "ASL31R": {
     "route": null,
@@ -8472,7 +8472,7 @@
   },
   "EJU37CH": {
     "route": null,
-    "checked_at": "2026-10-31T22:05:23.476618Z"
+    "checked_at": "2026-11-01T21:30:39.900662Z"
   },
   "EWG8VT": {
     "route": {
@@ -11132,5 +11132,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T21:20:30.726387Z"
+  },
+  "WZZ191": {
+    "route": {
+      "fromCity": "Ohrid",
+      "fromIata": "OHD",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-01T21:30:39.900662Z"
+  },
+  "EJU43LD": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T21:30:39.900662Z"
   }
 }
