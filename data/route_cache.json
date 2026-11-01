@@ -1444,7 +1444,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-10-30T12:40:34.767552Z"
+    "checked_at": "2026-11-01T07:15:27.739988Z"
   },
   "FIN7PE": {
     "route": {
@@ -3396,7 +3396,7 @@
   },
   "AUA991A": {
     "route": null,
-    "checked_at": "2026-10-31T07:20:31.691587Z"
+    "checked_at": "2026-11-01T07:15:27.739988Z"
   },
   "PGT97PB": {
     "route": {
@@ -5020,17 +5020,6 @@
     },
     "checked_at": "2026-10-30T17:10:31.673339Z"
   },
-  "WZZ8GS": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-30T07:10:31.115293Z"
-  },
   "GAF009": {
     "route": null,
     "checked_at": "2026-10-30T08:50:28.855655Z"
@@ -5810,28 +5799,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
-  },
-  "BTI83L": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-30T07:10:31.115293Z"
-  },
-  "NIA8502": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-30T07:10:31.115293Z"
   },
   "WUK7DZ": {
     "route": null,
@@ -11198,5 +11165,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T07:10:29.393040Z"
+  },
+  "EJU86XF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kerkyra Island",
+      "toIata": "CFU",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T07:15:27.739988Z"
+  },
+  "EWG9HE": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T07:15:27.739988Z"
   }
 }
