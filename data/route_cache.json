@@ -1960,17 +1960,6 @@
     },
     "checked_at": "2026-10-31T20:35:21.832597Z"
   },
-  "NSZ4505": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T10:15:30.089703Z"
-  },
   "SXS5JX": {
     "route": {
       "fromCity": "Zurich",
@@ -4182,7 +4171,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T10:50:29.207831Z"
+    "checked_at": "2026-11-01T10:20:31.232052Z"
   },
   "AUA97F": {
     "route": {
@@ -4903,7 +4892,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-10-31T10:30:39.217749Z"
+    "checked_at": "2026-11-01T10:20:31.232052Z"
   },
   "WUK7877": {
     "route": null,
@@ -5745,32 +5734,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-31T10:20:30.858329Z"
-  },
-  "DMS2NW": {
-    "route": null,
-    "checked_at": "2026-10-30T10:15:30.089703Z"
-  },
-  "CFG9VN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T10:15:30.089703Z"
-  },
-  "RYR28AA": {
-    "route": {
-      "fromCity": "\u0141\u00f3d\u017a",
-      "fromIata": "LCJ",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T10:15:30.089703Z"
   },
   "EJU73WR": {
     "route": {
@@ -7684,7 +7647,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T20:50:30.542257Z"
+    "checked_at": "2026-11-01T10:20:31.232052Z"
   },
   "BTI3HK": {
     "route": {
@@ -8831,7 +8794,7 @@
   },
   "BPO706": {
     "route": null,
-    "checked_at": "2026-10-31T11:45:31.388804Z"
+    "checked_at": "2026-11-01T10:20:31.232052Z"
   },
   "TAH456": {
     "route": null,
@@ -11095,5 +11058,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T10:15:27.894857Z"
+  },
+  "RYR77LL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T10:20:31.232052Z"
   }
 }
