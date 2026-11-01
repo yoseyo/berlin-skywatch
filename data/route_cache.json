@@ -1679,7 +1679,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T12:10:27.849378Z"
+    "checked_at": "2026-11-01T11:30:39.222689Z"
   },
   "VLG97ZF": {
     "route": {
@@ -4875,17 +4875,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-30T22:00:48.619210Z"
-  },
-  "EWG6835": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T11:25:24.259147Z"
   },
   "EJU91JK": {
     "route": {
@@ -10986,5 +10975,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T11:25:23.236642Z"
+  },
+  "DIMAL": {
+    "route": {
+      "fromCity": "M\u00fcnster",
+      "fromIata": "FMO",
+      "toCity": "M\u00fcnster",
+      "toIata": "FMO",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-01T11:30:39.222689Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-01T11:30:39.222689Z"
+  },
+  "BAW97ED": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T11:30:39.222689Z"
   }
 }
