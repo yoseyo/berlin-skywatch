@@ -3136,7 +3136,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T21:50:29.364383Z"
+    "checked_at": "2026-11-01T21:45:31.212182Z"
   },
   "DLH9HA": {
     "route": {
@@ -3147,7 +3147,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T21:40:37.278595Z"
+    "checked_at": "2026-11-01T21:45:31.212182Z"
   },
   "DLH7CT": {
     "route": {
@@ -3659,7 +3659,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T21:20:30.125648Z"
+    "checked_at": "2026-11-01T21:45:31.212182Z"
   },
   "SRR6227": {
     "route": {
@@ -3874,10 +3874,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T11:35:23.458600Z"
-  },
-  "EJU51XV": {
-    "route": null,
-    "checked_at": "2026-10-30T21:45:27.527874Z"
   },
   "SAS1694": {
     "route": {
@@ -11154,5 +11150,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T21:40:32.816867Z"
+  },
+  "RYR8201": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T21:45:31.212182Z"
+  },
+  "EWG8587": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T21:45:31.212182Z"
   }
 }
