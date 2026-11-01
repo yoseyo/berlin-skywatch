@@ -1554,7 +1554,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-31T09:50:30.438520Z"
+    "checked_at": "2026-11-01T08:40:30.442726Z"
   },
   "DLH4MJ": {
     "route": {
@@ -1565,7 +1565,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T08:35:21.696646Z"
+    "checked_at": "2026-11-01T08:40:30.442726Z"
   },
   "CAI62RH": {
     "route": {
@@ -3807,17 +3807,6 @@
     },
     "checked_at": "2026-10-30T12:05:25.062346Z"
   },
-  "CAI52DW": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-30T08:35:23.864725Z"
-  },
   "RYR2VV": {
     "route": {
       "fromCity": "Birmingham",
@@ -4960,10 +4949,6 @@
   "GAF009": {
     "route": null,
     "checked_at": "2026-10-30T08:50:28.855655Z"
-  },
-  "GAF010": {
-    "route": null,
-    "checked_at": "2026-10-30T08:35:23.864725Z"
   },
   "ICE14T": {
     "route": {
@@ -11135,5 +11120,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T08:35:22.277884Z"
+  },
+  "NOZ6BS": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-01T08:40:30.442726Z"
   }
 }
