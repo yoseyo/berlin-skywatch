@@ -115,7 +115,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-30T18:50:33.419974Z"
+    "checked_at": "2026-11-01T18:15:30.756188Z"
   },
   "AEE8DT": {
     "route": {
@@ -2465,7 +2465,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T06:25:23.149210Z"
+    "checked_at": "2026-11-01T18:15:30.756188Z"
   },
   "DLH6LJ": {
     "route": {
@@ -4186,17 +4186,6 @@
     },
     "checked_at": "2026-11-01T17:35:22.628919Z"
   },
-  "EWG8N": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T18:10:31.610291Z"
-  },
   "SXS3YW": {
     "route": {
       "fromCity": "Berlin",
@@ -4864,17 +4853,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-10-30T21:05:24.422674Z"
-  },
-  "NOZ8GB": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-10-30T18:10:31.610291Z"
   },
   "RYR161K": {
     "route": null,
@@ -10961,5 +10939,27 @@
   "CXI1H": {
     "route": null,
     "checked_at": "2026-11-01T18:10:28.855036Z"
+  },
+  "ENT3AT": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "DAT Enterprise Limited",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T18:15:30.756188Z"
+  },
+  "EWG7": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T18:15:30.756188Z"
   }
 }
