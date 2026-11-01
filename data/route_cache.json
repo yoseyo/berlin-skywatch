@@ -2325,7 +2325,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-10-31T14:15:29.718641Z"
+    "checked_at": "2026-11-01T14:50:29.585277Z"
   },
   "EJU73NW": {
     "route": null,
@@ -3503,7 +3503,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T15:00:53.664973Z"
+    "checked_at": "2026-11-01T14:50:29.585277Z"
   },
   "THY1333": {
     "route": {
@@ -4340,8 +4340,15 @@
     "checked_at": "2026-10-30T18:35:21.823505Z"
   },
   "EWG1TZ": {
-    "route": null,
-    "checked_at": "2026-10-30T19:10:29.946927Z"
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T14:50:29.585277Z"
   },
   "ASL13B": {
     "route": null,
@@ -5088,10 +5095,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-10-30T19:30:44.036131Z"
-  },
-  "RYR37BD": {
-    "route": null,
-    "checked_at": "2026-10-30T14:45:29.128178Z"
   },
   "AUA25Y": {
     "route": {
@@ -10996,5 +10999,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T14:45:27.726734Z"
+  },
+  "DCAPM": {
+    "route": null,
+    "checked_at": "2026-11-01T14:50:29.585277Z"
+  },
+  "SAS770": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T14:50:29.585277Z"
+  },
+  "SAS1698": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T14:50:29.585277Z"
   }
 }
