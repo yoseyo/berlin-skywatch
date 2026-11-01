@@ -1161,7 +1161,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T09:30:41.086096Z"
+    "checked_at": "2026-11-01T09:50:33.440078Z"
   },
   "PGT979": {
     "route": {
@@ -5738,33 +5738,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T09:45:27.853924Z"
-  },
-  "LUA114C": {
-    "route": null,
-    "checked_at": "2026-10-30T09:50:30.174471Z"
-  },
-  "SXS6DX": {
-    "route": null,
-    "checked_at": "2026-10-30T09:50:30.174471Z"
-  },
-  "NIA5318": {
-    "route": null,
-    "checked_at": "2026-10-30T09:50:30.174471Z"
-  },
-  "EWG1YR": {
-    "route": null,
-    "checked_at": "2026-10-30T09:50:30.174471Z"
-  },
-  "RYR3BW": {
-    "route": {
-      "fromCity": "Ancona",
-      "fromIata": "AOI",
-      "toCity": "Weeze",
-      "toIata": "NRN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T09:50:30.174471Z"
   },
   "RYR8201": {
     "route": {
@@ -11085,5 +11058,38 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-01T09:45:27.853924Z"
+  },
+  "NSZ2876": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T09:50:33.440078Z"
+  },
+  "NIA8701": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-11-01T09:50:33.440078Z"
+  },
+  "BAW976": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T09:50:33.440078Z"
   }
 }
