@@ -2894,7 +2894,7 @@
   },
   "AFR15VR": {
     "route": null,
-    "checked_at": "2026-10-31T19:10:31.764486Z"
+    "checked_at": "2026-11-01T19:10:29.348881Z"
   },
   "RYR2FD": {
     "route": {
@@ -4862,7 +4862,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-30T19:20:30.698879Z"
+    "checked_at": "2026-11-01T19:10:29.348881Z"
   },
   "RYR59PP": {
     "route": {
@@ -10986,5 +10986,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T19:05:22.217319Z"
+  },
+  "BTI3PR": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-01T19:10:29.348881Z"
+  },
+  "RYR37BD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T19:10:29.348881Z"
+  },
+  "EWG5H": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T19:10:29.348881Z"
   }
 }
