@@ -1220,7 +1220,7 @@
   },
   "EWG2JM": {
     "route": null,
-    "checked_at": "2026-10-31T05:55:22.603541Z"
+    "checked_at": "2026-11-01T05:15:29.133809Z"
   },
   "EWG21A": {
     "route": null,
@@ -11170,5 +11170,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T04:20:28.715661Z"
+  },
+  "EWG6900": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T05:15:29.133809Z"
   }
 }
