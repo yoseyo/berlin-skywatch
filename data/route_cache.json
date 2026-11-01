@@ -2654,7 +2654,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-30T17:39:50.557517Z"
+    "checked_at": "2026-11-01T17:25:21.577343Z"
   },
   "EJU89MC": {
     "route": {
@@ -2676,7 +2676,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T11:10:30.353996Z"
+    "checked_at": "2026-11-01T17:25:21.577343Z"
   },
   "BEL2HJ": {
     "route": {
@@ -3842,7 +3842,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T17:40:30.390309Z"
+    "checked_at": "2026-11-01T17:25:21.577343Z"
   },
   "RYR25UU": {
     "route": {
@@ -8381,7 +8381,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T17:30:39.065087Z"
+    "checked_at": "2026-11-01T17:25:21.577343Z"
   },
   "PLF250": {
     "route": null,
@@ -10859,5 +10859,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T17:20:29.705372Z"
+  },
+  "EJU9051": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T17:25:21.577343Z"
+  },
+  "EJU52RH": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T17:25:21.577343Z"
+  },
+  "PGT39GZ": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-01T17:25:21.577343Z"
   }
 }
