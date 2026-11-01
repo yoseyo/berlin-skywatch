@@ -599,7 +599,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T12:05:22.045868Z"
+    "checked_at": "2026-11-01T14:15:28.960213Z"
   },
   "SWR1PL": {
     "route": {
@@ -654,7 +654,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-10-31T14:20:30.235901Z"
+    "checked_at": "2026-11-01T14:15:28.960213Z"
   },
   "AUA230U": {
     "route": {
@@ -2440,7 +2440,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T14:25:22.568543Z"
+    "checked_at": "2026-11-01T14:15:28.960213Z"
   },
   "BEL5XD": {
     "route": {
@@ -5764,14 +5764,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T13:00:49.624984Z"
-  },
-  "BFD65H": {
-    "route": null,
-    "checked_at": "2026-10-30T14:10:34.220503Z"
-  },
-  "JEI151": {
-    "route": null,
-    "checked_at": "2026-10-30T14:10:34.220503Z"
   },
   "DLH891": {
     "route": {
@@ -11015,5 +11007,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-01T14:10:31.330925Z"
+  },
+  "CFG1DA": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T14:15:28.960213Z"
   }
 }
