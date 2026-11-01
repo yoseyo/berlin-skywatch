@@ -522,7 +522,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-31T11:55:23.606573Z"
+    "checked_at": "2026-11-01T11:10:31.300138Z"
   },
   "AEE2WD": {
     "route": {
@@ -555,7 +555,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-31T11:05:22.992402Z"
+    "checked_at": "2026-11-01T11:10:31.300138Z"
   },
   "LOT282": {
     "route": {
@@ -981,7 +981,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-30T16:20:32.465390Z"
+    "checked_at": "2026-11-01T11:10:31.300138Z"
   },
   "DMS2RV": {
     "route": {
@@ -4226,7 +4226,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-10-31T11:10:30.353996Z"
+    "checked_at": "2026-11-01T11:10:31.300138Z"
   },
   "TAP31EL": {
     "route": null,
@@ -5713,17 +5713,6 @@
     },
     "checked_at": "2026-11-01T10:55:22.994882Z"
   },
-  "WZZ9008": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-30T11:05:24.092453Z"
-  },
   "TKJ5158": {
     "route": {
       "fromCity": "Berlin",
@@ -5734,18 +5723,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-10-31T09:40:29.180017Z"
-  },
-  "LBT260": {
-    "route": null,
-    "checked_at": "2026-10-30T11:10:30.529462Z"
-  },
-  "LUA348R": {
-    "route": null,
-    "checked_at": "2026-10-30T11:10:30.529462Z"
-  },
-  "LNX21AX": {
-    "route": null,
-    "checked_at": "2026-10-30T11:10:30.529462Z"
   },
   "UAE59": {
     "route": {
@@ -10993,5 +10970,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T11:00:48.788754Z"
+  },
+  "DEOEL": {
+    "route": null,
+    "checked_at": "2026-11-01T11:10:31.300138Z"
+  },
+  "VJT516": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-01T11:10:31.300138Z"
   }
 }
