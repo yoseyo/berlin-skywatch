@@ -335,7 +335,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T08:00:48.070982Z"
+    "checked_at": "2026-11-01T08:05:23.082343Z"
   },
   "FIN7HC": {
     "route": {
@@ -346,7 +346,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-31T07:50:32.272958Z"
+    "checked_at": "2026-11-01T08:05:23.082343Z"
   },
   "SWR2HD": {
     "route": {
@@ -3424,17 +3424,6 @@
     },
     "checked_at": "2026-10-31T07:25:32.119276Z"
   },
-  "DLH5T": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T08:00:51.638831Z"
-  },
   "LOT286": {
     "route": {
       "fromCity": "London",
@@ -4223,10 +4212,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T11:35:23.458600Z"
-  },
-  "LGL72D": {
-    "route": null,
-    "checked_at": "2026-10-30T08:00:51.638831Z"
   },
   "EJU51XV": {
     "route": null,
@@ -11109,5 +11094,16 @@
   "DESNN": {
     "route": null,
     "checked_at": "2026-11-01T08:00:45.815125Z"
+  },
+  "HYM408": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Himalayan Airlines",
+      "airlineCountry": "Nepal"
+    },
+    "checked_at": "2026-11-01T08:05:23.082343Z"
   }
 }
