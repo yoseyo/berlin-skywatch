@@ -753,7 +753,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-31T20:55:22.680782Z"
+    "checked_at": "2026-11-01T20:50:29.391651Z"
   },
   "TAP4BE": {
     "route": {
@@ -3020,7 +3020,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T20:25:21.273220Z"
+    "checked_at": "2026-11-01T20:50:29.391651Z"
   },
   "LOT1MZ": {
     "route": null,
@@ -3065,7 +3065,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T20:35:21.832597Z"
+    "checked_at": "2026-11-01T20:50:29.391651Z"
   },
   "CFE8495": {
     "route": {
@@ -3087,7 +3087,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T21:35:23.878759Z"
+    "checked_at": "2026-11-01T20:50:29.391651Z"
   },
   "WZZ8282": {
     "route": {
@@ -11103,5 +11103,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T20:45:28.824402Z"
+  },
+  "LOT397": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-01T20:50:29.391651Z"
+  },
+  "LGL9A": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Luxair",
+      "airlineCountry": "Luxembourg"
+    },
+    "checked_at": "2026-11-01T20:50:29.391651Z"
   }
 }
