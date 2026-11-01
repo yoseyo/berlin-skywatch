@@ -2520,7 +2520,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T15:45:27.346146Z"
+    "checked_at": "2026-11-01T16:10:29.572809Z"
   },
   "EZY32YZ": {
     "route": {
@@ -4171,7 +4171,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T16:15:32.191386Z"
+    "checked_at": "2026-11-01T16:10:29.572809Z"
   },
   "BTI9AG": {
     "route": {
@@ -4444,7 +4444,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T14:45:28.399855Z"
+    "checked_at": "2026-11-01T16:10:29.572809Z"
   },
   "RYR36RX": {
     "route": {
@@ -4618,17 +4618,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T09:30:38.573779Z"
-  },
-  "RYR36DQ": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T16:05:24.797618Z"
   },
   "EJU72XB": {
     "route": {
@@ -10928,5 +10917,27 @@
   "AMB518": {
     "route": null,
     "checked_at": "2026-11-01T16:05:22.975746Z"
+  },
+  "CFE8PR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T16:10:29.572809Z"
+  },
+  "EWG8586": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T16:10:29.572809Z"
   }
 }
