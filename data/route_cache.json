@@ -1,7 +1,7 @@
 {
   "CHX100": {
     "route": null,
-    "checked_at": "2026-11-01T05:55:21.703026Z"
+    "checked_at": "2026-11-01T18:00:46.789539Z"
   },
   "MSC2961": {
     "route": {
@@ -709,7 +709,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-30T18:00:51.566693Z"
+    "checked_at": "2026-11-01T18:00:46.789539Z"
   },
   "DLH2N": {
     "route": {
@@ -841,7 +841,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T17:45:29.065559Z"
+    "checked_at": "2026-11-01T18:00:46.789539Z"
   },
   "DLH3X": {
     "route": {
@@ -896,7 +896,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-10-30T18:15:28.047815Z"
+    "checked_at": "2026-11-01T18:00:46.789539Z"
   },
   "CFG552": {
     "route": null,
@@ -4186,10 +4186,6 @@
     },
     "checked_at": "2026-11-01T17:15:28.672040Z"
   },
-  "EJU48JX": {
-    "route": null,
-    "checked_at": "2026-10-30T17:55:24.682935Z"
-  },
   "AUA99HC": {
     "route": {
       "fromCity": "Vienna",
@@ -6003,7 +5999,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-30T19:05:32.779747Z"
+    "checked_at": "2026-11-01T18:00:46.789539Z"
   },
   "RYR7BD": {
     "route": {
@@ -8389,7 +8385,7 @@
       "airlineName": "Air France Hop",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-31T18:00:46.913350Z"
+    "checked_at": "2026-11-01T18:00:46.789539Z"
   },
   "RYR1CG": {
     "route": {
@@ -10958,5 +10954,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T17:55:22.755079Z"
+  },
+  "EJU5185": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saint-Louis",
+      "toIata": "EAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T18:00:46.789539Z"
+  },
+  "WMT4011": {
+    "route": null,
+    "checked_at": "2026-11-01T18:00:46.789539Z"
+  },
+  "RYR41KP": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T18:00:46.789539Z"
   }
 }
