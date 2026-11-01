@@ -885,7 +885,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T18:30:38.152818Z"
+    "checked_at": "2026-11-01T20:45:28.824402Z"
   },
   "DMS2LW": {
     "route": {
@@ -3839,17 +3839,6 @@
     },
     "checked_at": "2026-10-31T18:35:22.152803Z"
   },
-  "LGL9A": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
-      "airlineName": "Luxair",
-      "airlineCountry": "Luxembourg"
-    },
-    "checked_at": "2026-10-30T20:45:27.821220Z"
-  },
   "SXS4AQ": {
     "route": {
       "fromCity": "Antalya",
@@ -4619,10 +4608,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-10-31T09:30:41.086096Z"
-  },
-  "EJU31DR": {
-    "route": null,
-    "checked_at": "2026-10-30T20:45:27.821220Z"
   },
   "AEE512": {
     "route": {
@@ -5898,17 +5883,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T20:00:48.448178Z"
-  },
-  "NIA852": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-30T20:40:31.437047Z"
   },
   "FPO9ER": {
     "route": null,
@@ -11096,5 +11070,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T20:40:29.858705Z"
+  },
+  "SAS92D": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T20:45:28.824402Z"
+  },
+  "LOT285": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-01T20:45:28.824402Z"
+  },
+  "DLH7PV": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T20:45:28.824402Z"
   }
 }
