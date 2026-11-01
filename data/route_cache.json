@@ -2750,7 +2750,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-31T18:00:46.913350Z"
+    "checked_at": "2026-11-01T18:10:28.855036Z"
   },
   "EWG9CZ": {
     "route": {
@@ -4981,7 +4981,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T20:15:27.241469Z"
+    "checked_at": "2026-11-01T18:10:28.855036Z"
   },
   "RYR70HH": {
     "route": {
@@ -5063,17 +5063,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T09:25:21.563564Z"
-  },
-  "EWG35E": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Friedrichshafen",
-      "toIata": "FDH",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T18:05:25.256063Z"
   },
   "WZZ96CX": {
     "route": null,
@@ -5798,21 +5787,6 @@
     },
     "checked_at": "2026-11-01T15:20:29.170152Z"
   },
-  "EZY42VU": {
-    "route": null,
-    "checked_at": "2026-10-30T18:05:25.256063Z"
-  },
-  "EZY87RQ": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-30T18:05:25.256063Z"
-  },
   "DLH7CF": {
     "route": {
       "fromCity": "Oslo",
@@ -5822,7 +5796,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T18:20:30.123215Z"
+    "checked_at": "2026-11-01T18:10:28.855036Z"
   },
   "DLH2CE": {
     "route": {
@@ -5836,8 +5810,15 @@
     "checked_at": "2026-11-01T18:05:24.240410Z"
   },
   "RYR75AW": {
-    "route": null,
-    "checked_at": "2026-10-30T18:05:25.256063Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T18:10:28.855036Z"
   },
   "BEL7PJ": {
     "route": {
@@ -6087,7 +6068,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T17:35:21.220461Z"
+    "checked_at": "2026-11-01T18:10:28.855036Z"
   },
   "EWG4503": {
     "route": {
@@ -10976,5 +10957,9 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-01T18:05:24.240410Z"
+  },
+  "CXI1H": {
+    "route": null,
+    "checked_at": "2026-11-01T18:10:28.855036Z"
   }
 }
