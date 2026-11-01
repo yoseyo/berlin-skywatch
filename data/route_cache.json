@@ -423,7 +423,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-31T10:20:30.858329Z"
+    "checked_at": "2026-11-01T09:55:24.730882Z"
   },
   "SAS85J": {
     "route": {
@@ -500,7 +500,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T09:45:28.565700Z"
+    "checked_at": "2026-11-01T09:55:24.730882Z"
   },
   "DLH8N": {
     "route": {
@@ -4881,7 +4881,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-31T12:40:29.263259Z"
+    "checked_at": "2026-11-01T09:55:24.730882Z"
   },
   "RYR556Z": {
     "route": {
@@ -5065,7 +5065,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-30T10:00:51.316206Z"
+    "checked_at": "2026-11-01T09:55:24.730882Z"
   },
   "EJU41NG": {
     "route": {
@@ -5739,28 +5739,6 @@
     },
     "checked_at": "2026-11-01T09:45:27.853924Z"
   },
-  "RYR8201": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T09:55:23.349382Z"
-  },
-  "QTR8210": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-10-30T09:55:23.349382Z"
-  },
   "THY3352": {
     "route": {
       "fromCity": "Antalya",
@@ -5771,17 +5749,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T05:20:29.618900Z"
-  },
-  "MFX7670": {
-    "route": {
-      "fromCity": "Li\u00e8ge",
-      "fromIata": "LGG",
-      "toCity": "Li\u00e8ge",
-      "toIata": "LGG",
-      "airlineName": "My Freighter LLC",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-10-30T09:55:23.349382Z"
   },
   "EJU84MC": {
     "route": {
@@ -11091,5 +11058,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-01T09:50:33.440078Z"
+  },
+  "NOZ1146": {
+    "route": {
+      "fromCity": "Troms\u00f8",
+      "fromIata": "TOS",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-01T09:55:24.730882Z"
+  },
+  "VLG4220": {
+    "route": null,
+    "checked_at": "2026-11-01T09:55:24.730882Z"
   }
 }
