@@ -3020,7 +3020,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T16:30:37.901448Z"
+    "checked_at": "2026-11-01T20:10:29.692267Z"
   },
   "THY3GQ": {
     "route": {
@@ -3039,7 +3039,7 @@
   },
   "LOT4CT": {
     "route": null,
-    "checked_at": "2026-10-31T20:15:27.241469Z"
+    "checked_at": "2026-11-01T20:10:29.692267Z"
   },
   "LOT1HL": {
     "route": {
@@ -4290,7 +4290,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-30T20:15:27.252642Z"
+    "checked_at": "2026-11-01T20:10:29.692267Z"
   },
   "EJU84EP": {
     "route": {
@@ -4939,7 +4939,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T07:20:31.691587Z"
+    "checked_at": "2026-11-01T20:10:29.692267Z"
   },
   "VLG1075": {
     "route": null,
@@ -11081,5 +11081,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T20:00:48.448178Z"
+  },
+  "WMT7KQ": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Bucharest",
+      "toIata": "BBU",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-01T20:10:29.692267Z"
+  },
+  "EWG57T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Graz (Feldkirchen bei Graz)",
+      "toIata": "GRZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T20:10:29.692267Z"
+  },
+  "RYR15AU": {
+    "route": null,
+    "checked_at": "2026-11-01T20:10:29.692267Z"
+  },
+  "CFG9EH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T20:10:29.692267Z"
   }
 }
