@@ -994,17 +994,6 @@
     },
     "checked_at": "2026-10-30T17:10:31.673339Z"
   },
-  "CFE8PR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-30T07:20:30.137390Z"
-  },
   "BBG272": {
     "route": {
       "fromCity": "Tel Aviv",
@@ -1455,7 +1444,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-31T07:20:31.691587Z"
+    "checked_at": "2026-11-01T07:25:22.499479Z"
   },
   "RYR36NZ": {
     "route": {
@@ -5800,39 +5789,6 @@
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
   },
-  "EJU59JC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T07:20:30.137390Z"
-  },
-  "ENT1FG": {
-    "route": {
-      "fromCity": "Wroc\u0142aw",
-      "fromIata": "WRO",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "DAT Enterprise Limited",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-30T07:25:22.365007Z"
-  },
-  "CFG2HD": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Ibiza",
-      "toIata": "IBZ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T07:25:22.365007Z"
-  },
   "ELY048": {
     "route": {
       "fromCity": "Kansas City",
@@ -10162,7 +10118,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T17:25:22.261605Z"
+    "checked_at": "2026-11-01T07:25:22.499479Z"
   },
   "TGZ781": {
     "route": {
@@ -11157,5 +11113,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T07:15:27.739988Z"
+  },
+  "EJU9041": {
+    "route": {
+      "fromCity": "Maastricht",
+      "fromIata": "MST",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T07:25:22.499479Z"
   }
 }
