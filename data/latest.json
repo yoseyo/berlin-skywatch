@@ -1,76 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "CHX82",
+      "callsign": "EWG8MF",
       "country": "Germany",
-      "lat": 52.4364,
-      "lon": 13.6157,
-      "altKm": 0.5,
-      "speedKmh": 207,
-      "heading": 340,
-      "vertRateMs": 2.6,
-      "category": "plane"
-    },
-    {
-      "callsign": "EJU51RE",
-      "country": "Austria",
-      "lat": 52.25,
-      "lon": 13.1534,
-      "altKm": 1.1,
-      "speedKmh": 424,
-      "heading": 33,
-      "vertRateMs": -2.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Belfast",
-      "fromIata": "BFS",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH6PX",
-      "country": "Germany",
-      "lat": 52.8276,
-      "lon": 13.642,
-      "altKm": 11.2,
-      "speedKmh": 790,
-      "heading": 11,
-      "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "category": "plane"
-    },
-    {
-      "callsign": "EWG8587",
-      "country": "Germany",
-      "lat": 52.3248,
-      "lon": 13.3817,
-      "altKm": 0.4,
-      "speedKmh": 278,
-      "heading": 69,
-      "vertRateMs": -4.5,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "EWG60F",
-      "country": "Germany",
-      "lat": 52.3114,
-      "lon": 13.2485,
+      "lat": 52.2986,
+      "lon": 13.2719,
       "altKm": 0.9,
-      "speedKmh": 351,
+      "speedKmh": 361,
       "heading": 69,
-      "vertRateMs": 0,
+      "vertRateMs": -3.9,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
       "category": "plane"
@@ -78,12 +16,12 @@
     {
       "callsign": "EWG8539",
       "country": "Germany",
-      "lat": 52.1687,
-      "lon": 13.1035,
-      "altKm": 1.9,
-      "speedKmh": 433,
-      "heading": 344,
-      "vertRateMs": -4.5,
+      "lat": 52.3284,
+      "lon": 13.3967,
+      "altKm": 0.4,
+      "speedKmh": 258,
+      "heading": 69,
+      "vertRateMs": -3.6,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
       "fromCity": "M\u00e1laga",
@@ -93,5 +31,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-01T21:50:31.358003Z"
+  "updated_at": "2026-11-01T21:55:22.429700Z"
 }
