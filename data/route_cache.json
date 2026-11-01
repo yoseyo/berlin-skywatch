@@ -137,7 +137,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-10-31T18:20:30.123215Z"
+    "checked_at": "2026-11-01T18:35:23.146072Z"
   },
   "KLC1335": {
     "route": {
@@ -2827,8 +2827,15 @@
     "checked_at": "2026-10-30T18:55:23.415946Z"
   },
   "EJU93VY": {
-    "route": null,
-    "checked_at": "2026-10-30T18:45:27.364118Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T18:35:23.146072Z"
   },
   "THY8WD": {
     "route": null,
@@ -4192,17 +4199,6 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-10-30T18:45:27.364118Z"
-  },
-  "BAW990G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-30T18:35:21.823505Z"
   },
   "EWG1TZ": {
     "route": {
@@ -10931,5 +10927,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T18:20:29.373284Z"
+  },
+  "SWR9ZT": {
+    "route": null,
+    "checked_at": "2026-11-01T18:35:23.146072Z"
+  },
+  "RYR84WC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T18:35:23.146072Z"
   }
 }
