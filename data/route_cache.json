@@ -60,7 +60,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T14:35:22.016056Z"
+    "checked_at": "2026-11-01T14:30:38.532210Z"
   },
   "NSZ3303": {
     "route": {
@@ -2327,17 +2327,6 @@
     },
     "checked_at": "2026-10-31T14:15:29.718641Z"
   },
-  "SXS4FN": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-30T14:26:25.601128Z"
-  },
   "EJU73NW": {
     "route": null,
     "checked_at": "2026-10-31T15:05:23.011406Z"
@@ -2395,7 +2384,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T14:40:29.313354Z"
+    "checked_at": "2026-11-01T14:30:38.532210Z"
   },
   "WMT7KX": {
     "route": null,
@@ -2411,10 +2400,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-30T14:40:33.386013Z"
-  },
-  "EJU49HX": {
-    "route": null,
-    "checked_at": "2026-10-30T14:26:25.601128Z"
   },
   "EJU35TF": {
     "route": {
@@ -3836,17 +3821,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-01T11:45:28.841087Z"
-  },
-  "HOP61ER": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air France Hop",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-10-30T14:26:25.601128Z"
   },
   "HOP25KD": {
     "route": null,
@@ -5760,10 +5734,6 @@
   "EWG8MA": {
     "route": null,
     "checked_at": "2026-11-01T05:05:26.369007Z"
-  },
-  "NJE348W": {
-    "route": null,
-    "checked_at": "2026-10-30T14:26:25.601128Z"
   },
   "TKJ4JH": {
     "route": {
@@ -11010,5 +10980,27 @@
   "DMVVL": {
     "route": null,
     "checked_at": "2026-11-01T14:25:21.946506Z"
+  },
+  "CFG8TJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T14:30:38.532210Z"
+  },
+  "EWG8538": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T14:30:38.532210Z"
   }
 }
