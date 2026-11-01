@@ -3901,7 +3901,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-10-31T11:35:23.458600Z"
+    "checked_at": "2026-11-01T11:45:28.841087Z"
   },
   "HOP61ER": {
     "route": {
@@ -5734,17 +5734,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-10-31T11:55:23.606573Z"
-  },
-  "UAL140": {
-    "route": {
-      "fromCity": "Chicago",
-      "fromIata": "ORD",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "United Airlines",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-10-30T11:40:31.713547Z"
   },
   "NOZ1WC": {
     "route": {
@@ -8955,7 +8944,7 @@
   },
   "GAF924": {
     "route": null,
-    "checked_at": "2026-10-31T14:30:40.727052Z"
+    "checked_at": "2026-11-01T11:45:28.841087Z"
   },
   "PGT21KF": {
     "route": null,
@@ -11016,5 +11005,31 @@
   "DMTCK": {
     "route": null,
     "checked_at": "2026-11-01T11:35:21.781300Z"
+  },
+  "NSZ4505": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T11:45:28.841087Z"
+  },
+  "NJE271W": {
+    "route": null,
+    "checked_at": "2026-11-01T11:45:28.841087Z"
+  },
+  "NIA8702": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nile Air",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-11-01T11:45:28.841087Z"
   }
 }
