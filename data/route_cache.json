@@ -159,7 +159,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-31T21:05:24.346780Z"
+    "checked_at": "2026-11-01T21:00:50.598918Z"
   },
   "AUA239": {
     "route": {
@@ -3121,7 +3121,7 @@
   },
   "EZY26YP": {
     "route": null,
-    "checked_at": "2026-10-31T19:45:29.118641Z"
+    "checked_at": "2026-11-01T21:00:50.598918Z"
   },
   "EJU43LD": {
     "route": null,
@@ -4891,7 +4891,7 @@
   },
   "VLG1075": {
     "route": null,
-    "checked_at": "2026-10-31T19:40:32.401618Z"
+    "checked_at": "2026-11-01T21:00:50.598918Z"
   },
   "DLH898": {
     "route": {
@@ -5888,50 +5888,6 @@
     },
     "checked_at": "2026-11-01T10:20:31.232052Z"
   },
-  "BTI3HK": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-30T20:55:24.126134Z"
-  },
-  "SDR19BY": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T21:00:50.366831Z"
-  },
-  "RYR5JH": {
-    "route": {
-      "fromCity": "Shannon",
-      "fromIata": "SNN",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T21:00:50.366831Z"
-  },
-  "RYR4LD": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-30T21:00:50.366831Z"
-  },
   "RYR5WM": {
     "route": {
       "fromCity": "Tenerife",
@@ -5952,7 +5908,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-30T21:10:29.120515Z"
+    "checked_at": "2026-11-01T21:00:50.598918Z"
   },
   "EJU73CG": {
     "route": {
@@ -11121,5 +11077,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-01T20:55:21.961327Z"
+  },
+  "NOZ9VF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-01T21:00:50.598918Z"
+  },
+  "RYR57BB": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T21:00:50.598918Z"
   }
 }
