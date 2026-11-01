@@ -4201,17 +4201,6 @@
     },
     "checked_at": "2026-10-30T17:45:28.773622Z"
   },
-  "WZZ5R": {
-    "route": {
-      "fromCity": "Kopitnari",
-      "fromIata": "KUT",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-30T17:15:31.447136Z"
-  },
   "LOT4TL": {
     "route": {
       "fromCity": "Warsaw",
@@ -4893,7 +4882,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-30T17:20:32.416003Z"
+    "checked_at": "2026-11-01T17:20:29.705372Z"
   },
   "RYR7664": {
     "route": {
@@ -5805,21 +5794,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T12:40:30.799752Z"
-  },
-  "WZZ9025": {
-    "route": null,
-    "checked_at": "2026-10-30T17:15:31.447136Z"
-  },
-  "LOT238": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-30T17:15:31.447136Z"
   },
   "SWU1950": {
     "route": {
@@ -10863,5 +10837,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T17:15:28.672040Z"
+  },
+  "LOT3JK": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-01T17:20:29.705372Z"
+  },
+  "RYR9846": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T17:20:29.705372Z"
   }
 }
