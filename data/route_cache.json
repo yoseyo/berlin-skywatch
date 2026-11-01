@@ -1150,7 +1150,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T08:10:30.911164Z"
+    "checked_at": "2026-11-01T08:15:28.478478Z"
   },
   "KLM38Z": {
     "route": {
@@ -1499,7 +1499,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T07:35:22.027196Z"
+    "checked_at": "2026-11-01T08:15:28.478478Z"
   },
   "VLG48LZ": {
     "route": {
@@ -1521,7 +1521,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-31T08:10:30.911164Z"
+    "checked_at": "2026-11-01T08:15:28.478478Z"
   },
   "DLH173": {
     "route": {
@@ -3444,7 +3444,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T08:10:30.911164Z"
+    "checked_at": "2026-11-01T08:15:28.478478Z"
   },
   "AUA224": {
     "route": {
@@ -11094,5 +11094,31 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-11-01T08:10:30.263692Z"
+  },
+  "NSZ5NE": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T08:15:28.478478Z"
+  },
+  "LHX7EE": {
+    "route": null,
+    "checked_at": "2026-11-01T08:15:28.478478Z"
+  },
+  "EWG4MW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T08:15:28.478478Z"
   }
 }
