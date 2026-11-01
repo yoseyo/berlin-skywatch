@@ -1117,7 +1117,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-10-30T11:10:30.529462Z"
+    "checked_at": "2026-11-01T10:35:22.530762Z"
   },
   "FHY1282": {
     "route": {
@@ -3700,17 +3700,6 @@
     },
     "checked_at": "2026-10-31T17:55:22.004749Z"
   },
-  "LBT232": {
-    "route": {
-      "fromCity": "Tunis",
-      "fromIata": "TUN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-30T10:30:44.637896Z"
-  },
   "EWG5PG": {
     "route": {
       "fromCity": "Geneva",
@@ -5720,28 +5709,6 @@
     },
     "checked_at": "2026-10-31T10:20:30.858329Z"
   },
-  "EJU57AV": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T10:30:44.637896Z"
-  },
-  "NSZ5650": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-30T10:30:44.637896Z"
-  },
   "LOT4LV": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5752,17 +5719,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-10-31T11:10:30.353996Z"
-  },
-  "LBT249": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Monastir",
-      "toIata": "MIR",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-30T10:35:22.365127Z"
   },
   "SXS9EF": {
     "route": {
@@ -11069,5 +11025,20 @@
   "DMNCN": {
     "route": null,
     "checked_at": "2026-11-01T10:30:40.547853Z"
+  },
+  "OU4409": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zagreb",
+      "toIata": "ZAG",
+      "airlineName": "Croatia Airlines",
+      "airlineCountry": "Croatia"
+    },
+    "checked_at": "2026-11-01T10:35:22.530762Z"
+  },
+  "DMSOI": {
+    "route": null,
+    "checked_at": "2026-11-01T10:35:22.530762Z"
   }
 }
