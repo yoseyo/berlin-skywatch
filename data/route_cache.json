@@ -4870,7 +4870,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-31T07:55:23.524830Z"
+    "checked_at": "2026-11-01T08:30:38.393761Z"
   },
   "TVF10NK": {
     "route": {
@@ -5754,17 +5754,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-01T07:40:29.880018Z"
-  },
-  "CFG2YU": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T08:25:23.961090Z"
   },
   "SDR10CL": {
     "route": {
@@ -11120,5 +11109,20 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-01T08:25:23.479634Z"
+  },
+  "TCARK": {
+    "route": null,
+    "checked_at": "2026-11-01T08:30:38.393761Z"
+  },
+  "NMA733": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Nesma Airlines",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-11-01T08:30:38.393761Z"
   }
 }
