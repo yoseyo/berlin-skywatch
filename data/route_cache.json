@@ -236,7 +236,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-31T07:00:48.967914Z"
+    "checked_at": "2026-11-01T06:30:39.639083Z"
   },
   "AUA240": {
     "route": {
@@ -926,7 +926,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-10-31T06:30:43.553644Z"
+    "checked_at": "2026-11-01T06:30:39.639083Z"
   },
   "SAS63Z": {
     "route": {
@@ -1356,7 +1356,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T12:00:46.964682Z"
+    "checked_at": "2026-11-01T06:30:39.639083Z"
   },
   "BAW851": {
     "route": {
@@ -4874,7 +4874,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-10-31T06:25:23.149210Z"
+    "checked_at": "2026-11-01T06:30:39.639083Z"
   },
   "NSZ5NE": {
     "route": {
@@ -5847,17 +5847,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
-  },
-  "AUA56": {
-    "route": {
-      "fromCity": "Montr\u00e9al",
-      "fromIata": "YUL",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T06:25:23.598257Z"
   },
   "EJU63VG": {
     "route": {
@@ -11151,5 +11140,16 @@
   "EJU35LT": {
     "route": null,
     "checked_at": "2026-11-01T06:25:22.637629Z"
+  },
+  "SDR27BN": {
+    "route": {
+      "fromCity": "Kassel",
+      "fromIata": "KSF",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T06:30:39.639083Z"
   }
 }
