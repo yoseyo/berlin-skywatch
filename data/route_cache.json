@@ -4918,7 +4918,7 @@
       "airlineName": "Transavia France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-10-31T06:45:28.618462Z"
+    "checked_at": "2026-11-01T06:45:26.892816Z"
   },
   "RYR731D": {
     "route": {
@@ -5836,17 +5836,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
-  },
-  "WZZ4027": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-30T06:40:30.806162Z"
   },
   "TWI345": {
     "route": {
@@ -11129,5 +11118,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-01T06:35:23.069838Z"
+  },
+  "FIN1703": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-01T06:45:26.892816Z"
+  },
+  "CAT607": {
+    "route": null,
+    "checked_at": "2026-11-01T06:45:26.892816Z"
   }
 }
