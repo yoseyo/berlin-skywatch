@@ -2222,7 +2222,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-10-31T12:55:23.677398Z"
+    "checked_at": "2026-11-01T12:30:40.331863Z"
   },
   "NOZ1105": {
     "route": {
@@ -4182,7 +4182,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-10-31T12:40:29.263259Z"
+    "checked_at": "2026-11-01T12:30:40.331863Z"
   },
   "CTN481": {
     "route": {
@@ -4886,17 +4886,6 @@
       "airlineCountry": "Iceland"
     },
     "checked_at": "2026-11-01T11:55:23.246082Z"
-  },
-  "SEH874": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-30T12:25:25.498967Z"
   },
   "NSZ89C": {
     "route": {
@@ -5755,7 +5744,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T12:15:27.772426Z"
+    "checked_at": "2026-11-01T12:30:40.331863Z"
   },
   "RYR564M": {
     "route": null,
@@ -8345,7 +8334,7 @@
   },
   "EJU37WL": {
     "route": null,
-    "checked_at": "2026-10-31T11:00:49.351142Z"
+    "checked_at": "2026-11-01T12:30:40.331863Z"
   },
   "VCJ97G": {
     "route": null,
@@ -11058,5 +11047,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T12:25:23.298436Z"
+  },
+  "EWG25Y": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-01T12:30:40.331863Z"
   }
 }
