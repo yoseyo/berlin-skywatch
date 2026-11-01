@@ -5417,8 +5417,15 @@
     "checked_at": "2026-10-31T21:45:27.141951Z"
   },
   "EJU51QP": {
-    "route": null,
-    "checked_at": "2026-10-31T09:05:24.119169Z"
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T22:20:31.556940Z"
   },
   "BEL9CK": {
     "route": {
@@ -5934,10 +5941,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T12:40:30.799752Z"
-  },
-  "WZZ4133": {
-    "route": null,
-    "checked_at": "2026-10-30T22:20:29.824423Z"
   },
   "GAF933": {
     "route": null,
@@ -11227,5 +11230,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-01T22:15:27.953424Z"
+  },
+  "EJU42RB": {
+    "route": {
+      "fromCity": "Sharm el-Sheikh",
+      "fromIata": "SSH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T22:20:31.556940Z"
+  },
+  "RYR81YU": {
+    "route": {
+      "fromCity": "Shannon",
+      "fromIata": "SNN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T22:20:31.556940Z"
   }
 }
