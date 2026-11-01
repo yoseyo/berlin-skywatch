@@ -4883,17 +4883,6 @@
     },
     "checked_at": "2026-10-30T07:05:23.356833Z"
   },
-  "LOT4WE": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-30T07:00:50.069760Z"
-  },
   "NSZ3YT": {
     "route": {
       "fromCity": "Stockholm",
@@ -5832,17 +5821,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-10-31T16:20:29.216311Z"
-  },
-  "TWI345": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Tailwind Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-30T07:00:50.069760Z"
   },
   "BBA41T": {
     "route": null,
@@ -10021,7 +9999,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T15:45:27.346146Z"
+    "checked_at": "2026-11-01T07:05:23.019047Z"
   },
   "CFG7VT": {
     "route": {
@@ -11184,5 +11162,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T07:00:47.358439Z"
+  },
+  "BTI7NK": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-01T07:05:23.019047Z"
+  },
+  "EJU83UM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T07:05:23.019047Z"
+  },
+  "RYR73YT": {
+    "route": {
+      "fromCity": "Paphos",
+      "fromIata": "PFO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-01T07:05:23.019047Z"
   }
 }
