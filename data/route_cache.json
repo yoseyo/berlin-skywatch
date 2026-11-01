@@ -302,7 +302,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-31T07:50:32.272958Z"
+    "checked_at": "2026-11-01T07:50:30.328642Z"
   },
   "LOT1VZ": {
     "route": {
@@ -4894,17 +4894,6 @@
     },
     "checked_at": "2026-10-30T14:55:25.806075Z"
   },
-  "FIN1DH": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-30T07:45:31.239115Z"
-  },
   "DFEED": {
     "route": null,
     "checked_at": "2026-10-30T10:20:32.320070Z"
@@ -5249,17 +5238,6 @@
   "RYR45GY": {
     "route": null,
     "checked_at": "2026-10-31T22:55:24.777325Z"
-  },
-  "EWG4MW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Salzburg",
-      "toIata": "SZG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T07:45:31.239115Z"
   },
   "MSR760": {
     "route": {
@@ -6503,7 +6481,7 @@
   },
   "RYR564M": {
     "route": null,
-    "checked_at": "2026-10-30T12:15:29.813597Z"
+    "checked_at": "2026-11-01T07:50:30.328642Z"
   },
   "RYR8447": {
     "route": {
@@ -11139,5 +11117,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T07:45:29.435860Z"
+  },
+  "AHY063": {
+    "route": {
+      "fromCity": "Baku",
+      "fromIata": "GYD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-11-01T07:50:30.328642Z"
   }
 }
