@@ -2665,7 +2665,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-10-31T22:25:23.347183Z"
+    "checked_at": "2026-11-01T20:55:21.961327Z"
   },
   "RYR3BZ": {
     "route": {
@@ -4893,17 +4893,6 @@
     "route": null,
     "checked_at": "2026-10-31T19:40:32.401618Z"
   },
-  "EZY16CU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-30T20:50:30.542257Z"
-  },
   "DLH898": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5883,10 +5872,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T20:00:48.448178Z"
-  },
-  "FPO9ER": {
-    "route": null,
-    "checked_at": "2026-10-30T20:50:30.542257Z"
   },
   "RYR92YL": {
     "route": null,
@@ -11125,5 +11110,16 @@
       "airlineCountry": "Luxembourg"
     },
     "checked_at": "2026-11-01T20:50:29.391651Z"
+  },
+  "EZY18GL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-01T20:55:21.961327Z"
   }
 }
