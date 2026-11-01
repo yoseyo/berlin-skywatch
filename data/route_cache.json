@@ -1139,7 +1139,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-10-31T18:50:30.506107Z"
+    "checked_at": "2026-11-01T17:45:27.994576Z"
   },
   "KLM1771": {
     "route": {
@@ -3609,7 +3609,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-10-31T17:45:29.065559Z"
+    "checked_at": "2026-11-01T17:45:27.994576Z"
   },
   "RYR2VV": {
     "route": {
@@ -5716,7 +5716,7 @@
   },
   "WZZ363": {
     "route": null,
-    "checked_at": "2026-10-31T09:00:48.400537Z"
+    "checked_at": "2026-11-01T17:45:27.994576Z"
   },
   "VLG9PJ": {
     "route": {
@@ -5816,17 +5816,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T16:45:30.539837Z"
-  },
-  "AUA234G": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-30T17:40:32.072210Z"
   },
   "RYR27QM": {
     "route": {
@@ -10896,5 +10885,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T17:35:22.628919Z"
+  },
+  "EJU91XM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T17:45:27.994576Z"
+  },
+  "EJU95KL": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-01T17:45:27.994576Z"
   }
 }
