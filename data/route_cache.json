@@ -2812,8 +2812,15 @@
     "checked_at": "2026-11-01T18:25:24.722632Z"
   },
   "SAS88C": {
-    "route": null,
-    "checked_at": "2026-10-31T18:30:38.152818Z"
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-01T18:30:41.482818Z"
   },
   "SXS78Y": {
     "route": null,
@@ -2858,7 +2865,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-10-30T18:50:33.419974Z"
+    "checked_at": "2026-11-01T18:30:41.482818Z"
   },
   "DLH199": {
     "route": {
@@ -3632,17 +3639,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-10-31T18:10:29.379166Z"
-  },
-  "BTI4UJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-30T18:30:41.148711Z"
   },
   "EWG8537": {
     "route": {
@@ -5831,17 +5827,6 @@
     },
     "checked_at": "2026-11-01T08:45:27.814948Z"
   },
-  "DLH7AK": {
-    "route": {
-      "fromCity": "Chicago",
-      "fromIata": "ORD",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-30T18:30:41.148711Z"
-  },
   "SWU1951": {
     "route": {
       "fromCity": "Berlin",
@@ -5898,8 +5883,15 @@
     "checked_at": "2026-10-30T18:55:23.415946Z"
   },
   "PGT38UL": {
-    "route": null,
-    "checked_at": "2026-10-30T19:05:32.779747Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-01T18:30:41.482818Z"
   },
   "EWG7T": {
     "route": {
