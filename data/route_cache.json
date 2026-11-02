@@ -742,7 +742,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-01T20:50:29.391651Z"
+    "checked_at": "2026-11-02T20:40:31.401211Z"
   },
   "TAP4BE": {
     "route": {
@@ -2134,7 +2134,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-10-31T22:00:47.580432Z"
+    "checked_at": "2026-11-02T20:40:31.401211Z"
   },
   "KLM1314": {
     "route": {
@@ -4410,7 +4410,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-01T20:15:27.752973Z"
+    "checked_at": "2026-11-02T20:40:31.401211Z"
   },
   "RYR2PM": {
     "route": {
@@ -5901,39 +5901,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T09:15:40.315904Z"
-  },
-  "EWG7907": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T20:39:57.674197Z"
-  },
-  "RYR49": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Treviso",
-      "toIata": "TSF",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T20:39:57.674197Z"
-  },
-  "EWG8551": {
-    "route": {
-      "fromCity": "Jerez de la Frontera",
-      "fromIata": "XRY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T20:39:57.674197Z"
   },
   "EJU48ZE": {
     "route": {
@@ -11433,5 +11400,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T20:35:24.894496Z"
+  },
+  "EWG7PJ": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T20:40:31.401211Z"
+  },
+  "RYR36DQ": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T20:40:31.401211Z"
   }
 }
