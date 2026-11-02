@@ -632,7 +632,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-01T15:30:38.454275Z"
+    "checked_at": "2026-11-02T13:00:54.320662Z"
   },
   "LOT2PJ": {
     "route": {
@@ -1161,7 +1161,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-01T13:15:27.271880Z"
+    "checked_at": "2026-11-02T13:00:54.320662Z"
   },
   "DLH5N": {
     "route": {
@@ -3743,7 +3743,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T14:55:22.306444Z"
+    "checked_at": "2026-11-02T13:00:54.320662Z"
   },
   "EJU37DC": {
     "route": {
@@ -5729,32 +5729,6 @@
   "DMYHG": {
     "route": null,
     "checked_at": "2026-11-02T09:30:43.947537Z"
-  },
-  "CCA446": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Jianyang, Chengdu",
-      "toIata": "TFU",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-31T12:55:23.677398Z"
-  },
-  "EWG8904": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T13:00:46.699249Z"
-  },
-  "N125ME": {
-    "route": null,
-    "checked_at": "2026-10-31T13:00:46.699249Z"
   },
   "TOY462": {
     "route": null,
@@ -11210,5 +11184,16 @@
   "CEF6022": {
     "route": null,
     "checked_at": "2026-11-02T12:55:23.275587Z"
+  },
+  "EJU35KD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T13:00:54.320662Z"
   }
 }
