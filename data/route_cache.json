@@ -60,7 +60,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T14:30:38.532210Z"
+    "checked_at": "2026-11-02T14:35:32.468580Z"
   },
   "NSZ3303": {
     "route": {
@@ -4254,7 +4254,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T10:10:31.583325Z"
+    "checked_at": "2026-11-02T14:35:32.468580Z"
   },
   "TAP532B": {
     "route": {
@@ -5722,10 +5722,6 @@
   "GAF924": {
     "route": null,
     "checked_at": "2026-11-01T11:45:28.841087Z"
-  },
-  "RYR723D": {
-    "route": null,
-    "checked_at": "2026-10-31T14:35:22.016056Z"
   },
   "BTI4VP": {
     "route": {
@@ -8353,7 +8349,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-01T14:50:29.585277Z"
+    "checked_at": "2026-11-02T14:35:32.468580Z"
   },
   "SAS1698": {
     "route": {
@@ -8543,7 +8539,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T16:20:29.230372Z"
+    "checked_at": "2026-11-02T14:35:32.468580Z"
   },
   "DLH9901": {
     "route": {
@@ -11221,5 +11217,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T14:30:46.166965Z"
+  },
+  "RYR8FM": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "CIA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T14:35:32.468580Z"
   }
 }
