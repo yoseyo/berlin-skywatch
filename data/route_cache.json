@@ -4140,7 +4140,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T11:25:23.236642Z"
+    "checked_at": "2026-11-02T16:30:43.740585Z"
   },
   "NSZ8ML": {
     "route": {
@@ -9176,7 +9176,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T21:05:23.419527Z"
+    "checked_at": "2026-11-02T16:30:43.740585Z"
   },
   "LDX8C": {
     "route": null,
@@ -11307,5 +11307,16 @@
   "N18EU": {
     "route": null,
     "checked_at": "2026-11-02T16:25:30.299645Z"
+  },
+  "BAW84NT": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-02T16:30:43.740585Z"
   }
 }
