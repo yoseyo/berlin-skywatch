@@ -808,7 +808,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T16:50:30.027015Z"
+    "checked_at": "2026-11-02T17:05:29.382550Z"
   },
   "KLM73D": {
     "route": {
@@ -2602,7 +2602,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T17:25:21.577343Z"
+    "checked_at": "2026-11-02T17:05:29.382550Z"
   },
   "EJU89MC": {
     "route": {
@@ -2683,7 +2683,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T17:50:29.867948Z"
+    "checked_at": "2026-11-02T17:05:29.382550Z"
   },
   "RYR91HD": {
     "route": null,
@@ -5804,17 +5804,6 @@
     },
     "checked_at": "2026-11-02T15:10:32.894234Z"
   },
-  "RYR46MW": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T17:05:24.022225Z"
-  },
   "RYR37GU": {
     "route": null,
     "checked_at": "2026-11-02T13:40:33.772637Z"
@@ -8364,7 +8353,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-01T17:20:29.705372Z"
+    "checked_at": "2026-11-02T17:05:29.382550Z"
   },
   "RYR9846": {
     "route": {
@@ -9193,7 +9182,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T21:30:39.900662Z"
+    "checked_at": "2026-11-02T17:05:29.382550Z"
   },
   "EWG13N": {
     "route": {
@@ -11354,5 +11343,16 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-02T17:00:53.347524Z"
+  },
+  "WZZ9025": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-02T17:05:29.382550Z"
   }
 }
