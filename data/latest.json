@@ -1,4 +1,27 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-02T22:50:30.233763Z"
+  "flights": [
+    {
+      "callsign": "PBB17",
+      "country": "Germany",
+      "lat": 52.5895,
+      "lon": 13.621,
+      "altKm": 0.4,
+      "speedKmh": 165,
+      "heading": 139,
+      "vertRateMs": 2.9,
+      "category": "heli"
+    },
+    {
+      "callsign": "GAF624",
+      "country": "Germany",
+      "lat": 52.3702,
+      "lon": 13.4954,
+      "altKm": 0.2,
+      "speedKmh": 273,
+      "heading": 248,
+      "vertRateMs": 15.0,
+      "category": "jet"
+    }
+  ],
+  "updated_at": "2026-11-02T22:55:22.795055Z"
 }
