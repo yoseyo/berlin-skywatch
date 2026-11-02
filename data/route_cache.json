@@ -4223,17 +4223,6 @@
     "route": null,
     "checked_at": "2026-11-02T10:55:23.785630Z"
   },
-  "MSR760": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Cairo",
-      "toIata": "CAI",
-      "airlineName": "Egyptair",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-10-31T15:05:23.011406Z"
-  },
   "AEE512": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -4909,7 +4898,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T14:45:27.726734Z"
+    "checked_at": "2026-11-02T15:05:24.063928Z"
   },
   "EJU62UA": {
     "route": {
@@ -5749,21 +5738,6 @@
     },
     "checked_at": "2026-11-02T09:00:59.870618Z"
   },
-  "NJE834H": {
-    "route": null,
-    "checked_at": "2026-10-31T15:05:23.011406Z"
-  },
-  "CCA931": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-31T15:05:23.011406Z"
-  },
   "EWG92J": {
     "route": {
       "fromCity": "Cologne",
@@ -5774,17 +5748,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T13:45:27.405434Z"
-  },
-  "RYR25EB": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T15:05:23.011406Z"
   },
   "CCA939": {
     "route": {
@@ -9055,7 +9018,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T19:25:24.791973Z"
+    "checked_at": "2026-11-02T15:05:24.063928Z"
   },
   "RYR252U": {
     "route": {
@@ -11331,5 +11294,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T15:00:56.282434Z"
+  },
+  "EZS1569": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-11-02T15:05:24.063928Z"
   }
 }
