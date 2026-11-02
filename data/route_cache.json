@@ -1172,7 +1172,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T13:10:30.320863Z"
+    "checked_at": "2026-11-02T13:30:47.741305Z"
   },
   "PGT1045": {
     "route": {
@@ -2156,7 +2156,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-11-01T13:35:22.357737Z"
+    "checked_at": "2026-11-02T13:30:47.741305Z"
   },
   "SAS1676": {
     "route": {
@@ -2244,7 +2244,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T14:10:31.330925Z"
+    "checked_at": "2026-11-02T13:30:47.741305Z"
   },
   "WZZ692": {
     "route": null,
@@ -4865,7 +4865,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T13:00:49.624984Z"
+    "checked_at": "2026-11-02T13:30:47.741305Z"
   },
   "WZZ2297": {
     "route": {
@@ -5707,17 +5707,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-02T09:50:33.747213Z"
-  },
-  "EJU98DB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T13:30:39.867601Z"
   },
   "LBT2423": {
     "route": {
@@ -8133,7 +8122,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-01T12:40:30.799752Z"
+    "checked_at": "2026-11-02T13:30:47.741305Z"
   },
   "EJU91JK": {
     "route": {
@@ -11216,5 +11205,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T13:25:23.999822Z"
+  },
+  "DUKE63": {
+    "route": null,
+    "checked_at": "2026-11-02T13:30:47.741305Z"
+  },
+  "EWG89N": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T13:30:47.741305Z"
   }
 }
