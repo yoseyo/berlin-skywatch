@@ -2233,7 +2233,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T14:25:21.946506Z"
+    "checked_at": "2026-11-02T14:25:26.204630Z"
   },
   "KLM84H": {
     "route": {
@@ -4315,17 +4315,6 @@
     },
     "checked_at": "2026-11-01T13:55:21.754501Z"
   },
-  "RYR57ED": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Rzesz\u00f3w",
-      "toIata": "RZE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T14:25:22.568543Z"
-  },
   "SXS3ZX": {
     "route": {
       "fromCity": "Antalya",
@@ -5729,17 +5718,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-02T14:20:44.813585Z"
-  },
-  "BTI7NV": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-31T14:25:22.568543Z"
   },
   "GAF924": {
     "route": null,
@@ -9203,7 +9181,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T19:40:30.681562Z"
+    "checked_at": "2026-11-02T14:25:26.204630Z"
   },
   "RYR18HB": {
     "route": null,
@@ -11232,5 +11210,31 @@
   "GAC296L": {
     "route": null,
     "checked_at": "2026-11-02T14:20:44.813585Z"
+  },
+  "RYR1GE": {
+    "route": {
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T14:25:26.204630Z"
+  },
+  "CFG5ZR": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T14:25:26.204630Z"
+  },
+  "AWH33F": {
+    "route": null,
+    "checked_at": "2026-11-02T14:25:26.204630Z"
   }
 }
