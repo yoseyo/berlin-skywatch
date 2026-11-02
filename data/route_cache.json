@@ -3794,7 +3794,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T16:40:29.277779Z"
+    "checked_at": "2026-11-02T17:10:35.185432Z"
   },
   "LOT4TL": {
     "route": {
@@ -5669,7 +5669,7 @@
   },
   "RYR69NL": {
     "route": null,
-    "checked_at": "2026-11-01T15:40:30.927458Z"
+    "checked_at": "2026-11-02T17:10:35.185432Z"
   },
   "EJU71AJ": {
     "route": {
@@ -5830,28 +5830,6 @@
     },
     "checked_at": "2026-11-02T16:35:26.778717Z"
   },
-  "RYR5GA": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T17:10:29.224987Z"
-  },
-  "EJU57RH": {
-    "route": {
-      "fromCity": "Sta Cruz de la Palma, La Palma Island",
-      "fromIata": "SPC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T17:10:29.224987Z"
-  },
   "BNJ2712": {
     "route": null,
     "checked_at": "2026-10-31T17:20:30.102794Z"
@@ -5943,7 +5921,7 @@
       "airlineName": "Air France Hop",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-01T18:00:46.789539Z"
+    "checked_at": "2026-11-02T17:10:35.185432Z"
   },
   "RYR1CG": {
     "route": {
@@ -11354,5 +11332,42 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-02T17:05:29.382550Z"
+  },
+  "DKH1667": {
+    "route": {
+      "fromCity": "Zhengzhou",
+      "fromIata": "CGO",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Juneyao Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-02T17:10:35.185432Z"
+  },
+  "RYR22EH": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T17:10:35.185432Z"
+  },
+  "LBT232": {
+    "route": {
+      "fromCity": "Tunis",
+      "fromIata": "TUN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-11-02T17:10:35.185432Z"
+  },
+  "DCS603": {
+    "route": null,
+    "checked_at": "2026-11-02T17:10:35.185432Z"
   }
 }
