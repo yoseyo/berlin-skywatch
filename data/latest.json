@@ -1,44 +1,57 @@
 {
   "flights": [
     {
-      "callsign": "WZZ6DG",
-      "country": "Hungary",
-      "lat": 52.5495,
-      "lon": 13.1895,
-      "altKm": 11.0,
-      "speedKmh": 851,
-      "heading": 297,
-      "vertRateMs": -7.2,
-      "category": "plane"
-    },
-    {
       "callsign": "WZZ173",
       "country": "Hungary",
-      "lat": 52.3713,
-      "lon": 13.9893,
-      "altKm": 1.9,
-      "speedKmh": 488,
-      "heading": 341,
-      "vertRateMs": -7.8,
+      "lat": 52.3992,
+      "lon": 13.6184,
+      "altKm": 0.5,
+      "speedKmh": 237,
+      "heading": 248,
+      "vertRateMs": -3.6,
       "airline": "Wizz Air",
       "airlineCountry": "Hungary",
-      "fromCity": "Kopitnari",
-      "fromIata": "KUT",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
       "category": "plane"
     },
     {
       "callsign": "CHX31",
       "country": "Germany",
-      "lat": 52.4596,
-      "lon": 13.3023,
+      "lat": 52.4416,
+      "lon": 13.3234,
+      "altKm": 0.1,
+      "speedKmh": 10,
+      "heading": 225,
+      "vertRateMs": -1.9,
+      "category": "plane"
+    },
+    {
+      "callsign": "BPOBER",
+      "country": "Germany",
+      "lat": 52.6262,
+      "lon": 13.5822,
       "altKm": 0.4,
-      "speedKmh": 228,
-      "heading": 126,
-      "vertRateMs": -0.7,
+      "speedKmh": 158,
+      "heading": 355,
+      "vertRateMs": 3.6,
+      "category": "heli"
+    },
+    {
+      "callsign": "RYR56WR",
+      "country": "Malta",
+      "lat": 52.8727,
+      "lon": 12.9162,
+      "altKm": 12.0,
+      "speedKmh": 817,
+      "heading": 88,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-02T07:25:26.100280Z"
+  "updated_at": "2026-11-02T07:30:41.184349Z"
 }
