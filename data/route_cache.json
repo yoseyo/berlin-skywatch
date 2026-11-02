@@ -137,7 +137,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-01T18:35:23.146072Z"
+    "checked_at": "2026-11-02T18:30:43.182792Z"
   },
   "KLC1335": {
     "route": {
@@ -2782,8 +2782,15 @@
     "checked_at": "2026-11-01T18:35:23.146072Z"
   },
   "THY8WD": {
-    "route": null,
-    "checked_at": "2026-11-01T18:20:29.373284Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-02T18:30:43.182792Z"
   },
   "RYR2GQ": {
     "route": {
@@ -5899,17 +5906,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T17:00:47.715209Z"
-  },
-  "AEE409": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Kalamata",
-      "toIata": "KLX",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-31T18:30:38.152818Z"
   },
   "RYR43VP": {
     "route": null,

@@ -1,29 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "BKI606",
-      "country": "Turkey",
-      "lat": 52.4271,
-      "lon": 13.9225,
-      "altKm": 1.6,
-      "speedKmh": 384,
-      "heading": 280,
-      "vertRateMs": -3.6,
+      "callsign": "AEE82B",
+      "country": "Greece",
+      "lat": 52.3125,
+      "lon": 13.3974,
+      "altKm": 1.1,
+      "speedKmh": 317,
+      "heading": 228,
+      "vertRateMs": 9.4,
+      "airline": "Aegean Airlines",
+      "airlineCountry": "Greece",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Athens",
+      "toIata": "ATH",
       "category": "plane"
     },
     {
-      "callsign": "EWG3ZP",
-      "country": "Germany",
-      "lat": 52.3792,
-      "lon": 13.6109,
-      "altKm": 0.4,
-      "speedKmh": 239,
+      "callsign": "THY8WD",
+      "country": "Turkey",
+      "lat": 52.3515,
+      "lon": 13.4939,
+      "altKm": 0.1,
+      "speedKmh": 307,
       "heading": 249,
-      "vertRateMs": -3.6,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
+      "vertRateMs": 7.2,
+      "airline": "Turkish Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-02T18:25:24.819828Z"
+  "updated_at": "2026-11-02T18:30:43.182792Z"
 }
