@@ -1,4 +1,67 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-02T05:35:25.709888Z"
+  "flights": [
+    {
+      "callsign": "EJU37DC",
+      "country": "Austria",
+      "lat": 52.3028,
+      "lon": 13.3788,
+      "altKm": 1.5,
+      "speedKmh": 450,
+      "heading": 228,
+      "vertRateMs": 13.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    },
+    {
+      "callsign": "THY4QH",
+      "country": "Turkey",
+      "lat": 52.2,
+      "lon": 13.4418,
+      "altKm": 3.0,
+      "speedKmh": 534,
+      "heading": 87,
+      "vertRateMs": 13,
+      "airline": "Turkish Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "category": "plane"
+    },
+    {
+      "callsign": "KLC80U",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.4882,
+      "lon": 13.2213,
+      "altKm": 10.5,
+      "speedKmh": 817,
+      "heading": 268,
+      "vertRateMs": 0.3,
+      "airline": "KLM Cityhopper",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "category": "plane"
+    },
+    {
+      "callsign": "WMT7065",
+      "country": "Malta",
+      "lat": 52.4405,
+      "lon": 13.7938,
+      "altKm": 1.2,
+      "speedKmh": 334,
+      "heading": 249,
+      "vertRateMs": -5.5,
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-02T05:40:30.933414Z"
 }
