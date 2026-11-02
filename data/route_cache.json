@@ -2613,7 +2613,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T20:55:21.961327Z"
+    "checked_at": "2026-11-02T21:10:31.976450Z"
   },
   "RYR3BZ": {
     "route": {
@@ -3510,10 +3510,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-02T14:00:58.426454Z"
-  },
-  "RYR32VB": {
-    "route": null,
-    "checked_at": "2026-10-31T21:10:29.502415Z"
   },
   "KLC1341": {
     "route": null,
@@ -5941,10 +5937,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T12:20:29.545994Z"
-  },
-  "SVI6329": {
-    "route": null,
-    "checked_at": "2026-10-31T21:10:29.502415Z"
   },
   "WZZ3668": {
     "route": null,
@@ -11403,5 +11395,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T21:05:28.927713Z"
+  },
+  "EJU56MK": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T21:10:31.976450Z"
+  },
+  "EWG8181": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T21:10:31.976450Z"
   }
 }
