@@ -71,7 +71,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-01T11:40:29.526586Z"
+    "checked_at": "2026-11-02T11:40:33.797294Z"
   },
   "SWR23F": {
     "route": {
@@ -467,7 +467,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T10:30:40.547853Z"
+    "checked_at": "2026-11-02T11:40:33.797294Z"
   },
   "LOT3JA": {
     "route": {
@@ -566,7 +566,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T11:20:30.410028Z"
+    "checked_at": "2026-11-02T11:40:33.797294Z"
   },
   "KLC21A": {
     "route": {
@@ -3661,17 +3661,6 @@
     },
     "checked_at": "2026-11-02T06:55:23.966126Z"
   },
-  "RYR7HM": {
-    "route": {
-      "fromCity": "Burgas",
-      "fromIata": "BOJ",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T11:35:23.458600Z"
-  },
   "SAS1694": {
     "route": {
       "fromCity": "Vienna",
@@ -5773,32 +5762,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T11:50:30.735965Z"
-  },
-  "EJU51NW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marsa Alam",
-      "toIata": "RMF",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T11:35:23.458600Z"
-  },
-  "BPO703": {
-    "route": null,
-    "checked_at": "2026-10-31T11:35:23.458600Z"
-  },
-  "RYR93VZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T11:40:28.406008Z"
   },
   "BPO706": {
     "route": null,
@@ -11310,5 +11273,9 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-11-02T11:35:23.385362Z"
+  },
+  "DCS601": {
+    "route": null,
+    "checked_at": "2026-11-02T11:40:33.797294Z"
   }
 }
