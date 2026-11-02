@@ -1,44 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "TAP53EI",
-      "country": "Portugal",
-      "lat": 52.2296,
-      "lon": 13.195,
-      "altKm": 2.3,
-      "speedKmh": 502,
-      "heading": 255,
-      "vertRateMs": 15.9,
-      "airline": "TAP Portugal",
-      "airlineCountry": "Portugal",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH2EE",
-      "country": "Germany",
-      "lat": 52.2925,
-      "lon": 13.3607,
-      "altKm": 1.6,
-      "speedKmh": 408,
-      "heading": 228,
-      "vertRateMs": 23.1,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
       "callsign": "HLF8818",
       "country": "China",
-      "lat": 52.2775,
-      "lon": 13.1971,
-      "altKm": 10.0,
-      "speedKmh": 789,
+      "lat": 52.7573,
+      "lon": 13.7711,
+      "altKm": 11.4,
+      "speedKmh": 856,
       "heading": 36,
-      "vertRateMs": 8.8,
+      "vertRateMs": 0,
       "airline": "Hapagfly",
       "airlineCountry": "Germany",
       "fromCity": "Paris",
@@ -46,18 +16,7 @@
       "toCity": "Shenzhen (Bao'an)",
       "toIata": "SZX",
       "category": "plane"
-    },
-    {
-      "callsign": "CAT9570",
-      "country": "Denmark",
-      "lat": 52.435,
-      "lon": 12.8284,
-      "altKm": 12.6,
-      "speedKmh": 814,
-      "heading": 147,
-      "vertRateMs": 0,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-02T05:20:30.712897Z"
+  "updated_at": "2026-11-02T05:25:23.432947Z"
 }
