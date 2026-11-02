@@ -808,7 +808,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-01T09:20:29.473617Z"
+    "checked_at": "2026-11-02T09:15:40.315904Z"
   },
   "KLM95T": {
     "route": {
@@ -4259,7 +4259,7 @@
   },
   "WUK3636": {
     "route": null,
-    "checked_at": "2026-11-01T09:25:21.563564Z"
+    "checked_at": "2026-11-02T09:15:40.315904Z"
   },
   "AUA99J": {
     "route": {
@@ -4281,7 +4281,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T08:25:23.479634Z"
+    "checked_at": "2026-11-02T09:15:40.315904Z"
   },
   "BTI9TZ": {
     "route": {
@@ -5871,17 +5871,6 @@
     },
     "checked_at": "2026-11-02T08:50:33.822071Z"
   },
-  "EJU5060": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T09:15:36.240253Z"
-  },
   "DMXIL": {
     "route": null,
     "checked_at": "2026-11-01T14:35:21.561433Z"
@@ -7413,7 +7402,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T10:05:23.856738Z"
+    "checked_at": "2026-11-02T09:15:40.315904Z"
   },
   "RYR3JQ": {
     "route": {
@@ -11330,5 +11319,16 @@
   "PTO8824": {
     "route": null,
     "checked_at": "2026-11-02T09:11:08.862476Z"
+  },
+  "NSZ2040": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-02T09:15:40.315904Z"
   }
 }
