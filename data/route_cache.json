@@ -236,7 +236,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-01T06:30:39.639083Z"
+    "checked_at": "2026-11-02T06:25:22.244352Z"
   },
   "AUA240": {
     "route": {
@@ -11194,5 +11194,49 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T06:20:31.437475Z"
+  },
+  "BTI7PY": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-02T06:25:22.244352Z"
+  },
+  "RYR9SE": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Aarhus",
+      "toIata": "AAR",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T06:25:22.244352Z"
+  },
+  "EWG9GL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T06:25:22.244352Z"
+  },
+  "DBANN": {
+    "route": {
+      "fromCity": "Speyer",
+      "fromIata": null,
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-02T06:25:22.244352Z"
   }
 }
