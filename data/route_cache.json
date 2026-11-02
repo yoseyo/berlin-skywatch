@@ -1312,7 +1312,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-01T06:05:25.347628Z"
+    "checked_at": "2026-11-02T06:10:32.594429Z"
   },
   "IBE07WP": {
     "route": {
@@ -3884,7 +3884,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T06:25:22.637629Z"
+    "checked_at": "2026-11-02T06:10:32.594429Z"
   },
   "EJU41VQ": {
     "route": {
@@ -5967,28 +5967,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-02T05:10:31.492073Z"
-  },
-  "SAS72X": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-31T06:10:32.579622Z"
-  },
-  "EWG20P": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T06:10:32.579622Z"
   },
   "EJU42DE": {
     "route": {
@@ -11212,5 +11190,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T06:00:52.436951Z"
+  },
+  "EJU95HZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sevilla",
+      "toIata": "SVQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T06:10:32.594429Z"
+  },
+  "EWG3NW": {
+    "route": null,
+    "checked_at": "2026-11-02T06:10:32.594429Z"
   }
 }
