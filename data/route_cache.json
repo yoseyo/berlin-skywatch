@@ -2904,8 +2904,15 @@
     "checked_at": "2026-11-02T19:25:27.176856Z"
   },
   "WZZ1078": {
-    "route": null,
-    "checked_at": "2026-11-01T19:55:22.748505Z"
+    "route": {
+      "fromCity": "Agadir (Temsia)",
+      "fromIata": "AGA",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-02T19:55:25.516727Z"
   },
   "CFE34E": {
     "route": {
@@ -3031,7 +3038,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T19:55:22.748505Z"
+    "checked_at": "2026-11-02T19:55:25.516727Z"
   },
   "EWG7XK": {
     "route": {
@@ -11445,5 +11452,16 @@
   "HOP15VR": {
     "route": null,
     "checked_at": "2026-11-02T19:45:29.850691Z"
+  },
+  "BTI29K": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-02T19:55:25.516727Z"
   }
 }
