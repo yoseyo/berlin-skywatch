@@ -1025,7 +1025,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-11-01T13:30:39.660254Z"
+    "checked_at": "2026-11-02T12:25:23.610867Z"
   },
   "FIN79T": {
     "route": {
@@ -2013,7 +2013,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-11-01T12:25:23.298436Z"
+    "checked_at": "2026-11-02T12:25:23.610867Z"
   },
   "THY6EU": {
     "route": {
@@ -3304,17 +3304,6 @@
     },
     "checked_at": "2026-11-02T10:20:33.865794Z"
   },
-  "DLH4AL": {
-    "route": {
-      "fromCity": "Bremen",
-      "fromIata": "BRE",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T12:20:31.918912Z"
-  },
   "DLH1MF": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -4236,7 +4225,7 @@
       "airlineName": "China Eastern Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-10-31T12:20:31.918912Z"
+    "checked_at": "2026-11-02T12:25:23.610867Z"
   },
   "ICE15M": {
     "route": {
@@ -5777,28 +5766,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T17:40:29.728653Z"
-  },
-  "LBT2422": {
-    "route": {
-      "fromCity": "Djerba",
-      "fromIata": "DJE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-31T12:20:31.918912Z"
-  },
-  "LOT6306": {
-    "route": {
-      "fromCity": "Punta Cana",
-      "fromIata": "PUJ",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-31T12:20:31.918912Z"
   },
   "PTN51X": {
     "route": null,
@@ -11321,5 +11288,20 @@
   "WZZ21KV": {
     "route": null,
     "checked_at": "2026-11-02T12:20:31.614703Z"
+  },
+  "AWH33E": {
+    "route": null,
+    "checked_at": "2026-11-02T12:25:23.610867Z"
+  },
+  "DLH9CK": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T12:25:23.610867Z"
   }
 }
