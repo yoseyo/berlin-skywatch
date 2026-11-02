@@ -1859,7 +1859,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-01T11:05:23.920341Z"
+    "checked_at": "2026-11-02T11:15:30.128106Z"
   },
   "DLH3CM": {
     "route": {
@@ -3554,17 +3554,6 @@
     },
     "checked_at": "2026-11-01T21:45:31.212182Z"
   },
-  "EWG7R": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T11:10:30.353996Z"
-  },
   "FIN8WB": {
     "route": {
       "fromCity": "Munich",
@@ -3751,7 +3740,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T17:15:28.672040Z"
+    "checked_at": "2026-11-02T11:15:30.128106Z"
   },
   "QTR66K": {
     "route": {
@@ -3973,10 +3962,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T14:00:46.068176Z"
-  },
-  "EJU84PU": {
-    "route": null,
-    "checked_at": "2026-10-31T11:10:30.353996Z"
   },
   "EWG9TK": {
     "route": {
@@ -4488,10 +4473,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T19:15:28.443259Z"
-  },
-  "RYR161K": {
-    "route": null,
-    "checked_at": "2026-10-31T11:15:28.768706Z"
   },
   "RYR206": {
     "route": {
@@ -5793,10 +5774,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T07:20:29.993452Z"
-  },
-  "WZZ443": {
-    "route": null,
-    "checked_at": "2026-10-31T11:10:30.353996Z"
   },
   "EJU48HQ": {
     "route": {
@@ -11285,5 +11262,31 @@
   "PTO8825": {
     "route": null,
     "checked_at": "2026-11-02T11:10:30.296724Z"
+  },
+  "FIN5BM": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Geneva",
+      "toIata": "GVA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-02T11:15:30.128106Z"
+  },
+  "RYR2WK": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Sevilla",
+      "toIata": "SVQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T11:15:30.128106Z"
+  },
+  "NJE417M": {
+    "route": null,
+    "checked_at": "2026-11-02T11:15:30.128106Z"
   }
 }
