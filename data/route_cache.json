@@ -82,7 +82,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-01T16:45:30.539837Z"
+    "checked_at": "2026-11-02T16:45:42.243044Z"
   },
   "KLM1780": {
     "route": {
@@ -3408,7 +3408,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-10-31T17:55:22.004749Z"
+    "checked_at": "2026-11-02T16:45:42.243044Z"
   },
   "SAS2657": {
     "route": {
@@ -5785,10 +5785,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T06:40:33.809777Z"
-  },
-  "CFG003": {
-    "route": null,
-    "checked_at": "2026-10-31T16:45:28.572953Z"
   },
   "FRO948": {
     "route": null,
@@ -11314,5 +11310,20 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-11-02T16:40:42.821128Z"
+  },
+  "FIN2K": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-02T16:45:42.243044Z"
+  },
+  "SFG55B": {
+    "route": null,
+    "checked_at": "2026-11-02T16:45:42.243044Z"
   }
 }
