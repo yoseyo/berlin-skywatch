@@ -863,7 +863,7 @@
       "airlineName": "Sky Express",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-01T14:10:31.330925Z"
+    "checked_at": "2026-11-02T14:55:24.932534Z"
   },
   "SAS1680": {
     "route": {
@@ -2314,7 +2314,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-01T15:10:27.816602Z"
+    "checked_at": "2026-11-02T14:55:24.932534Z"
   },
   "TKJ6JC": {
     "route": {
@@ -2491,7 +2491,7 @@
   },
   "WZZ82UE": {
     "route": null,
-    "checked_at": "2026-11-01T14:35:21.561433Z"
+    "checked_at": "2026-11-02T14:55:24.932534Z"
   },
   "TKJ1AV": {
     "route": null,
@@ -5733,17 +5733,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T06:10:29.351917Z"
-  },
-  "LOT33": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Miami",
-      "toIata": "MIA",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-31T14:55:22.229305Z"
   },
   "RYR69NL": {
     "route": null,
@@ -11280,5 +11269,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T14:50:33.387600Z"
+  },
+  "DFEIC": {
+    "route": {
+      "fromCity": "Vilshofen",
+      "fromIata": null,
+      "toCity": "Vilshofen",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-02T14:55:24.932534Z"
+  },
+  "CFE7026": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LCY",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-02T14:55:24.932534Z"
+  },
+  "EWG3PH": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Split",
+      "toIata": "SPU",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T14:55:24.932534Z"
   }
 }
