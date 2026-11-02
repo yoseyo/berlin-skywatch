@@ -709,7 +709,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T18:40:31.617569Z"
+    "checked_at": "2026-11-02T18:40:42.574666Z"
   },
   "SAS1673": {
     "route": {
@@ -5902,10 +5902,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T17:00:47.715209Z"
-  },
-  "RYR43VP": {
-    "route": null,
-    "checked_at": "2026-10-31T18:40:28.854316Z"
   },
   "RYR1571": {
     "route": {
@@ -11387,5 +11383,71 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T18:35:23.536558Z"
+  },
+  "CCA936": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-02T18:40:42.574666Z"
+  },
+  "BTI4UJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-02T18:40:42.574666Z"
+  },
+  "LBT233": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tunis",
+      "toIata": "TUN",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-11-02T18:40:42.574666Z"
+  },
+  "RYR93VZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T18:40:42.574666Z"
+  },
+  "RYR6XP": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T18:40:42.574666Z"
+  },
+  "HOP13RC": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-02T18:40:42.574666Z"
   }
 }
