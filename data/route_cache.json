@@ -5979,17 +5979,6 @@
     },
     "checked_at": "2026-11-02T02:10:35.686023Z"
   },
-  "TWI355": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Tailwind Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-31T04:20:29.945505Z"
-  },
   "EWG5XP": {
     "route": null,
     "checked_at": "2026-10-31T04:35:23.417768Z"
@@ -11267,5 +11256,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-02T04:00:47.599662Z"
+  },
+  "SRR6228": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-11-02T04:20:31.985125Z"
   }
 }
