@@ -3,14 +3,31 @@
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5551,
-      "lon": 13.0802,
-      "altKm": 0.9,
-      "speedKmh": 124,
-      "heading": 345,
-      "vertRateMs": 0,
+      "lat": 52.5414,
+      "lon": 13.1446,
+      "altKm": 0.8,
+      "speedKmh": 161,
+      "heading": 116,
+      "vertRateMs": -0.7,
       "category": "heli"
+    },
+    {
+      "callsign": "BCS9CG",
+      "country": "Ireland",
+      "lat": 52.3388,
+      "lon": 12.938,
+      "altKm": 9.1,
+      "speedKmh": 808,
+      "heading": 21,
+      "vertRateMs": 14.3,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-02T01:50:31.507612Z"
+  "updated_at": "2026-11-02T01:55:22.732651Z"
 }
