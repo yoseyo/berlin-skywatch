@@ -5119,10 +5119,6 @@
     },
     "checked_at": "2026-11-01T15:30:38.454275Z"
   },
-  "SCR239": {
-    "route": null,
-    "checked_at": "2026-10-31T10:05:24.960346Z"
-  },
   "EWG8541": {
     "route": {
       "fromCity": "Ibiza",
@@ -5848,10 +5844,6 @@
   "DMAAC": {
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
-  },
-  "TAH455": {
-    "route": null,
-    "checked_at": "2026-10-31T10:05:24.960346Z"
   },
   "EJU61RG": {
     "route": {
@@ -8559,7 +8551,7 @@
   },
   "DIVVV": {
     "route": null,
-    "checked_at": "2026-11-01T11:50:30.735965Z"
+    "checked_at": "2026-11-02T10:05:25.338075Z"
   },
   "DMVRG": {
     "route": null,
@@ -11312,5 +11304,16 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-02T10:00:57.481890Z"
+  },
+  "SAS2678": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-02T10:05:25.338075Z"
   }
 }
