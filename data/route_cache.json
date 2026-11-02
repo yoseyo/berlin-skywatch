@@ -203,7 +203,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-01T22:05:24.957519Z"
+    "checked_at": "2026-11-02T21:45:29.371004Z"
   },
   "KLM90J": {
     "route": {
@@ -841,7 +841,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T21:35:22.470518Z"
+    "checked_at": "2026-11-02T21:45:29.371004Z"
   },
   "AUA26Z": {
     "route": {
@@ -2687,7 +2687,7 @@
   },
   "RYR91HD": {
     "route": null,
-    "checked_at": "2026-11-01T17:35:22.628919Z"
+    "checked_at": "2026-11-02T21:45:29.371004Z"
   },
   "SWR2TG": {
     "route": {
@@ -3112,7 +3112,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T21:45:31.212182Z"
+    "checked_at": "2026-11-02T21:45:29.371004Z"
   },
   "DLH9HA": {
     "route": {
@@ -4841,17 +4841,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T15:05:24.063928Z"
-  },
-  "EJU62UA": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T21:45:27.141951Z"
   },
   "EJU51QP": {
     "route": {
@@ -11387,5 +11376,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T21:40:35.766655Z"
+  },
+  "EJU73WR": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T21:45:29.371004Z"
+  },
+  "RYR556Z": {
+    "route": {
+      "fromCity": "Genova",
+      "fromIata": "GOA",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T21:45:29.371004Z"
   }
 }
