@@ -434,7 +434,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-01T10:00:48.820334Z"
+    "checked_at": "2026-11-02T10:10:42.111783Z"
   },
   "AEE8RB": {
     "route": {
@@ -900,7 +900,7 @@
   },
   "CFG552": {
     "route": null,
-    "checked_at": "2026-11-01T09:20:29.473617Z"
+    "checked_at": "2026-11-02T10:10:42.111783Z"
   },
   "EIN33W": {
     "route": {
@@ -5844,17 +5844,6 @@
   "DMAAC": {
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
-  },
-  "EJU61RG": {
-    "route": {
-      "fromCity": "Marrakech",
-      "fromIata": "RAK",
-      "toCity": "Strasbourg",
-      "toIata": "SXB",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T10:10:30.175188Z"
   },
   "MGH649": {
     "route": {
@@ -11315,5 +11304,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T10:05:25.338075Z"
+  },
+  "ELY2372": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-02T10:10:42.111783Z"
+  },
+  "CFG2FR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T10:10:42.111783Z"
   }
 }
