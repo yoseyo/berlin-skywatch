@@ -8369,7 +8369,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T16:30:40.247166Z"
+    "checked_at": "2026-11-02T16:00:54.693437Z"
   },
   "EWG9UL": {
     "route": {
@@ -11277,5 +11277,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T15:50:31.583231Z"
+  },
+  "EWG3ZP": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T16:00:54.693437Z"
+  },
+  "SWR589X": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-11-02T16:00:54.693437Z"
   }
 }
