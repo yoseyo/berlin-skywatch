@@ -5898,17 +5898,6 @@
     },
     "checked_at": "2026-11-01T16:25:22.086630Z"
   },
-  "EWG8G": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T07:55:23.524830Z"
-  },
   "THY2LX": {
     "route": {
       "fromCity": "Gaziantep",
@@ -11268,5 +11257,42 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-02T07:50:32.915309Z"
+  },
+  "ELY2371": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-02T07:55:23.909272Z"
+  },
+  "LOT4HW": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T07:55:23.909272Z"
+  },
+  "ATV103": {
+    "route": null,
+    "checked_at": "2026-11-02T07:55:23.909272Z"
+  },
+  "CFG432": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T07:55:23.909272Z"
   }
 }
