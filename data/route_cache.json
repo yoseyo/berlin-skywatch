@@ -4267,10 +4267,6 @@
     },
     "checked_at": "2026-11-02T16:25:30.299645Z"
   },
-  "FIN6HC": {
-    "route": null,
-    "checked_at": "2026-10-31T16:40:28.102610Z"
-  },
   "TAP53ED": {
     "route": {
       "fromCity": "Berlin",
@@ -5789,32 +5785,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T06:40:33.809777Z"
-  },
-  "DILLC": {
-    "route": null,
-    "checked_at": "2026-10-31T16:40:28.102610Z"
-  },
-  "RYR9738": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T16:40:28.102610Z"
-  },
-  "SAS90M": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-31T16:40:28.102610Z"
   },
   "CFG003": {
     "route": null,
@@ -8347,7 +8317,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T17:00:47.715209Z"
+    "checked_at": "2026-11-02T16:40:42.821128Z"
   },
   "ENT1RE": {
     "route": {
@@ -8520,7 +8490,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T17:50:29.867948Z"
+    "checked_at": "2026-11-02T16:40:42.821128Z"
   },
   "AUA234G": {
     "route": {
@@ -11322,5 +11292,27 @@
   "DFOUR": {
     "route": null,
     "checked_at": "2026-11-02T16:35:26.778717Z"
+  },
+  "EJU48HQ": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T16:40:42.821128Z"
+  },
+  "FIN01AD": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-02T16:40:42.821128Z"
   }
 }
