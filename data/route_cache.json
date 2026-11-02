@@ -2189,7 +2189,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-01T15:30:38.454275Z"
+    "checked_at": "2026-11-02T13:40:33.772637Z"
   },
   "THY1NC": {
     "route": {
@@ -4227,17 +4227,6 @@
     },
     "checked_at": "2026-10-31T15:05:23.011406Z"
   },
-  "EJU61GN": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T13:40:30.759672Z"
-  },
   "AEE512": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -5708,50 +5697,6 @@
     },
     "checked_at": "2026-11-02T09:50:33.747213Z"
   },
-  "LBT2423": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Djerba",
-      "toIata": "DJE",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-10-31T13:35:23.606171Z"
-  },
-  "CAL5539": {
-    "route": {
-      "fromCity": "New Delhi",
-      "fromIata": "DEL",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "China Airlines",
-      "airlineCountry": "Taiwan"
-    },
-    "checked_at": "2026-10-31T13:40:30.759672Z"
-  },
-  "EWG8WF": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Nottingham",
-      "toIata": "EMA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T13:40:30.759672Z"
-  },
-  "EWG1TE": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Verona",
-      "toIata": "VRN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T13:40:30.759672Z"
-  },
   "THY79K": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -6281,7 +6226,7 @@
   },
   "RYR37GU": {
     "route": null,
-    "checked_at": "2026-11-01T15:35:23.351642Z"
+    "checked_at": "2026-11-02T13:40:33.772637Z"
   },
   "THY3354": {
     "route": {
@@ -11242,5 +11187,20 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-11-02T13:35:23.249004Z"
+  },
+  "DKMMF": {
+    "route": null,
+    "checked_at": "2026-11-02T13:40:33.772637Z"
+  },
+  "DLH882": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T13:40:33.772637Z"
   }
 }
