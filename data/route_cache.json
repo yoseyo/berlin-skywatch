@@ -5170,7 +5170,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T12:15:27.686288Z"
+    "checked_at": "2026-11-02T14:50:33.387600Z"
   },
   "RYR5RG": {
     "route": {
@@ -5722,10 +5722,6 @@
   "GAF924": {
     "route": null,
     "checked_at": "2026-11-01T11:45:28.841087Z"
-  },
-  "OEFML": {
-    "route": null,
-    "checked_at": "2026-10-31T14:50:31.008774Z"
   },
   "EWG32KT": {
     "route": {
@@ -11236,5 +11232,53 @@
   "HBKBC": {
     "route": null,
     "checked_at": "2026-11-02T14:45:35.826280Z"
+  },
+  "CKK235": {
+    "route": {
+      "fromCity": "Chongqing",
+      "fromIata": "CKG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-02T14:50:33.387600Z"
+  },
+  "RYR6LZ": {
+    "route": {
+      "fromCity": "N\u00e1poli",
+      "fromIata": "NAP",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T14:50:33.387600Z"
+  },
+  "AFR61ER": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-02T14:50:33.387600Z"
+  },
+  "QGA50P": {
+    "route": null,
+    "checked_at": "2026-11-02T14:50:33.387600Z"
+  },
+  "EWG6FB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bilbao",
+      "toIata": "BIO",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T14:50:33.387600Z"
   }
 }
