@@ -852,7 +852,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T19:15:28.443259Z"
+    "checked_at": "2026-11-02T18:45:33.651062Z"
   },
   "SEH875": {
     "route": {
@@ -2845,7 +2845,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T19:05:22.217319Z"
+    "checked_at": "2026-11-02T18:45:33.651062Z"
   },
   "AFR15VR": {
     "route": null,
@@ -5187,7 +5187,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-01T19:00:48.669323Z"
+    "checked_at": "2026-11-02T18:45:33.651062Z"
   },
   "RAM222B": {
     "route": {
@@ -5268,7 +5268,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T19:35:23.678146Z"
+    "checked_at": "2026-11-02T18:45:33.651062Z"
   },
   "SAS696": {
     "route": {
@@ -5902,17 +5902,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T17:00:47.715209Z"
-  },
-  "RYR1571": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T18:45:26.649029Z"
   },
   "RYR9503": {
     "route": {
@@ -11449,5 +11438,16 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-02T18:40:42.574666Z"
+  },
+  "TVF97HA": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-02T18:45:33.651062Z"
   }
 }
