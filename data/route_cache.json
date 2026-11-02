@@ -49,7 +49,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T15:05:25.023521Z"
+    "checked_at": "2026-11-02T15:00:56.282434Z"
   },
   "KLM1779": {
     "route": {
@@ -3320,7 +3320,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T14:50:29.585277Z"
+    "checked_at": "2026-11-02T15:00:56.282434Z"
   },
   "THY1333": {
     "route": {
@@ -5737,10 +5737,6 @@
   "RYR69NL": {
     "route": null,
     "checked_at": "2026-11-01T15:40:30.927458Z"
-  },
-  "THY3378": {
-    "route": null,
-    "checked_at": "2026-10-31T15:00:49.709816Z"
   },
   "EJU71AJ": {
     "route": {
@@ -11302,5 +11298,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T14:55:24.932534Z"
+  },
+  "NSZ4GY": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-02T15:00:56.282434Z"
+  },
+  "EWG2AY": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T15:00:56.282434Z"
+  },
+  "RYR82QP": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Rome",
+      "toIata": "CIA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T15:00:56.282434Z"
   }
 }
