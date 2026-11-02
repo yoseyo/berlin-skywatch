@@ -104,7 +104,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-01T16:50:30.027015Z"
+    "checked_at": "2026-11-02T16:50:32.195505Z"
   },
   "LOT3KT": {
     "route": {
@@ -2524,8 +2524,15 @@
     "checked_at": "2026-11-02T14:30:46.166965Z"
   },
   "LOT3EG": {
-    "route": null,
-    "checked_at": "2026-11-01T16:40:29.277779Z"
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T16:50:32.195505Z"
   },
   "DLH8CP": {
     "route": {
@@ -2569,7 +2576,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T16:50:30.027015Z"
+    "checked_at": "2026-11-02T16:50:32.195505Z"
   },
   "DLH193": {
     "route": {
@@ -5785,10 +5792,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T06:40:33.809777Z"
-  },
-  "FRO948": {
-    "route": null,
-    "checked_at": "2026-10-31T16:50:29.340110Z"
   },
   "BBG271": {
     "route": {
@@ -11325,5 +11328,16 @@
   "SFG55B": {
     "route": null,
     "checked_at": "2026-11-02T16:45:42.243044Z"
+  },
+  "SDR11DL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-02T16:50:32.195505Z"
   }
 }
