@@ -1,14 +1,48 @@
 {
   "flights": [
     {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.7662,
+      "lon": 13.6306,
+      "altKm": 11.1,
+      "speedKmh": 828,
+      "heading": 216,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    },
+    {
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.4171,
+      "lon": 13.7719,
+      "altKm": 1.0,
+      "speedKmh": 368,
+      "heading": 249,
+      "vertRateMs": -2.6,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "EJU36HF",
       "country": "Austria",
-      "lat": 52.3409,
-      "lon": 13.4559,
-      "altKm": 0.5,
-      "speedKmh": 308,
-      "heading": 242,
-      "vertRateMs": 8.1,
+      "lat": 52.1917,
+      "lon": 12.904,
+      "altKm": 4.7,
+      "speedKmh": 559,
+      "heading": 254,
+      "vertRateMs": 12.3,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -16,7 +50,31 @@
       "toCity": "Paris",
       "toIata": "CDG",
       "category": "plane"
+    },
+    {
+      "callsign": "KLM90J",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.2958,
+      "lon": 13.3688,
+      "altKm": 1.1,
+      "speedKmh": 458,
+      "heading": 228,
+      "vertRateMs": 11.4,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "category": "plane"
+    },
+    {
+      "callsign": "CAT9572",
+      "country": "Denmark",
+      "lat": 52.8274,
+      "lon": 13.8251,
+      "altKm": 12.0,
+      "speedKmh": 830,
+      "heading": 170,
+      "vertRateMs": 0,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-02T05:05:25.102752Z"
+  "updated_at": "2026-11-02T05:10:31.492073Z"
 }
