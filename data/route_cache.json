@@ -1150,7 +1150,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T08:15:28.478478Z"
+    "checked_at": "2026-11-02T08:15:32.153164Z"
   },
   "KLM38Z": {
     "route": {
@@ -5898,17 +5898,6 @@
     },
     "checked_at": "2026-11-02T07:45:31.242524Z"
   },
-  "MGH650": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-31T08:15:29.479121Z"
-  },
   "DFOIL": {
     "route": null,
     "checked_at": "2026-10-31T08:20:29.658140Z"
@@ -7466,7 +7455,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T08:50:30.357497Z"
+    "checked_at": "2026-11-02T08:15:32.153164Z"
   },
   "KMM377": {
     "route": null,
@@ -11279,5 +11268,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T08:10:34.817087Z"
+  },
+  "LGL72D": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Luxair",
+      "airlineCountry": "Luxembourg"
+    },
+    "checked_at": "2026-11-02T08:15:32.153164Z"
   }
 }
