@@ -687,7 +687,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-01T06:35:23.069838Z"
+    "checked_at": "2026-11-02T07:00:51.373804Z"
   },
   "UAL963": {
     "route": {
@@ -1204,17 +1204,6 @@
     "route": null,
     "checked_at": "2026-11-01T05:10:30.255450Z"
   },
-  "EWG30N": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T07:00:48.967914Z"
-  },
   "RYR9RJ": {
     "route": {
       "fromCity": "Milan",
@@ -1367,7 +1356,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T06:55:21.757151Z"
+    "checked_at": "2026-11-02T07:00:51.373804Z"
   },
   "RYR21VK": {
     "route": {
@@ -1925,7 +1914,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T11:50:30.735965Z"
+    "checked_at": "2026-11-02T07:00:51.373804Z"
   },
   "PGT39DV": {
     "route": {
@@ -3797,17 +3786,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-01T06:25:22.637629Z"
-  },
-  "LOT392": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-10-31T07:00:48.967914Z"
   },
   "ETH724": {
     "route": {
@@ -5953,17 +5931,6 @@
     },
     "checked_at": "2026-11-02T05:10:31.492073Z"
   },
-  "BTI2GA": {
-    "route": {
-      "fromCity": "Tampere / Pirkkala",
-      "fromIata": "TMP",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-10-31T07:00:48.967914Z"
-  },
   "WZZ64": {
     "route": {
       "fromCity": "Eindhoven",
@@ -7177,7 +7144,7 @@
   },
   "DCUVH": {
     "route": null,
-    "checked_at": "2026-10-31T15:35:32.020210Z"
+    "checked_at": "2026-11-02T07:00:51.373804Z"
   },
   "SAS49N": {
     "route": {
@@ -11282,5 +11249,16 @@
   "WMT4592": {
     "route": null,
     "checked_at": "2026-11-02T06:50:30.126982Z"
+  },
+  "EWG27B": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T07:00:51.373804Z"
   }
 }
