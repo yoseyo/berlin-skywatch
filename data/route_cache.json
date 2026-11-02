@@ -1202,7 +1202,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T05:25:33.963692Z"
+    "checked_at": "2026-11-02T10:25:23.727695Z"
   },
   "DLH2EE": {
     "route": {
@@ -1782,7 +1782,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-01T10:40:34.564535Z"
+    "checked_at": "2026-11-02T10:25:23.727695Z"
   },
   "IBE07AZ": {
     "route": {
@@ -1804,7 +1804,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-01T10:45:29.811567Z"
+    "checked_at": "2026-11-02T10:25:23.727695Z"
   },
   "RYR158L": {
     "route": {
@@ -9045,7 +9045,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T14:45:27.726734Z"
+    "checked_at": "2026-11-02T10:25:23.727695Z"
   },
   "DCAPM": {
     "route": null,
@@ -9697,7 +9697,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T19:00:48.669323Z"
+    "checked_at": "2026-11-02T10:25:23.727695Z"
   },
   "SXS52W": {
     "route": {
@@ -11304,5 +11304,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-02T10:20:33.865794Z"
+  },
+  "NSZ2041": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-02T10:25:23.727695Z"
+  },
+  "EWG86Z": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T10:25:23.727695Z"
   }
 }
