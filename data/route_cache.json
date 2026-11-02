@@ -412,7 +412,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-01T10:15:27.894857Z"
+    "checked_at": "2026-11-02T10:00:57.481890Z"
   },
   "BEL8CE": {
     "route": {
@@ -500,7 +500,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T09:55:24.730882Z"
+    "checked_at": "2026-11-02T10:00:57.481890Z"
   },
   "DLH8N": {
     "route": {
@@ -786,7 +786,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T10:05:23.856738Z"
+    "checked_at": "2026-11-02T10:00:57.481890Z"
   },
   "KLM67B": {
     "route": {
@@ -1705,7 +1705,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T10:00:48.820334Z"
+    "checked_at": "2026-11-02T10:00:57.481890Z"
   },
   "THY2JV": {
     "route": {
@@ -3316,8 +3316,15 @@
     "checked_at": "2026-11-01T10:05:23.856738Z"
   },
   "EJU42WH": {
-    "route": null,
-    "checked_at": "2026-10-31T15:55:22.682939Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T10:00:57.481890Z"
   },
   "EWG6U": {
     "route": {
@@ -5841,17 +5848,6 @@
   "DMAAC": {
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
-  },
-  "SWU2370": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Pie\u0161\u0165any",
-      "toIata": "PZY",
-      "airlineName": "Swiss European Air Lines",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-10-31T10:00:46.590114Z"
   },
   "TAH455": {
     "route": null,
@@ -11294,5 +11290,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-02T09:55:31.845498Z"
+  },
+  "RYR55SQ": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T10:00:57.481890Z"
+  },
+  "LOT1KH": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T10:00:57.481890Z"
   }
 }
