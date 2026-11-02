@@ -1837,7 +1837,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-01T10:45:29.811567Z"
+    "checked_at": "2026-11-02T10:50:32.101734Z"
   },
   "SXS7EQ": {
     "route": {
@@ -1870,7 +1870,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T10:55:22.994882Z"
+    "checked_at": "2026-11-02T10:50:32.101734Z"
   },
   "EWG55H": {
     "route": {
@@ -3358,17 +3358,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-10-31T12:40:29.263259Z"
-  },
-  "CFE7026": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-31T10:50:29.207831Z"
   },
   "AUA21P": {
     "route": {
@@ -5789,10 +5778,6 @@
   "DMAAC": {
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
-  },
-  "DMVKS": {
-    "route": null,
-    "checked_at": "2026-10-31T10:50:29.207831Z"
   },
   "RYR48PT": {
     "route": {
@@ -11260,5 +11245,49 @@
   "PTO4468": {
     "route": null,
     "checked_at": "2026-11-02T10:45:28.613749Z"
+  },
+  "UBD446": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Arbil",
+      "toIata": "EBL",
+      "airlineName": "United Airways",
+      "airlineCountry": "Bangladesh"
+    },
+    "checked_at": "2026-11-02T10:50:32.101734Z"
+  },
+  "DLH3AP": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T10:50:32.101734Z"
+  },
+  "DLH890": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T10:50:32.101734Z"
+  },
+  "EWG41C": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T10:50:32.101734Z"
   }
 }
