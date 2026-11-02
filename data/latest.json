@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "BCS3612",
+      "country": "Bahrain",
+      "lat": 52.1977,
+      "lon": 12.8821,
+      "altKm": 7.1,
+      "speedKmh": 774,
+      "heading": 25,
+      "vertRateMs": 10.7,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5015,
-      "lon": 13.3667,
-      "altKm": 0.9,
-      "speedKmh": 145,
-      "heading": 301,
-      "vertRateMs": -0.7,
+      "lat": 52.5044,
+      "lon": 13.2652,
+      "altKm": 1.0,
+      "speedKmh": 123,
+      "heading": 324,
+      "vertRateMs": -1.0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-11-02T01:20:29.347520Z"
+  "updated_at": "2026-11-02T01:25:24.879684Z"
 }
