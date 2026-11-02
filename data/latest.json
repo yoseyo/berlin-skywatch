@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "RAM220M",
+      "country": "Morocco",
+      "lat": 52.8913,
+      "lon": 13.3693,
+      "altKm": 11.4,
+      "speedKmh": 800,
+      "heading": 65,
+      "vertRateMs": 0,
+      "airline": "Royal Air Maroc",
+      "airlineCountry": "Morocco",
+      "fromCity": "Casablanca",
+      "fromIata": "CMN",
+      "toCity": "Moscow",
+      "toIata": "DME",
+      "category": "plane"
+    },
+    {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.5487,
-      "lon": 12.9366,
+      "lat": 52.6078,
+      "lon": 12.9118,
       "altKm": 1.0,
-      "speedKmh": 153,
-      "heading": 276,
-      "vertRateMs": 0,
+      "speedKmh": 180,
+      "heading": 112,
+      "vertRateMs": -0.7,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-11-02T01:35:23.179830Z"
+  "updated_at": "2026-11-02T01:40:31.702649Z"
 }
