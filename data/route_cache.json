@@ -5838,32 +5838,6 @@
     },
     "checked_at": "2026-11-02T07:45:31.242524Z"
   },
-  "DESYL": {
-    "route": null,
-    "checked_at": "2026-10-31T09:50:30.438520Z"
-  },
-  "FIN1699": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Lanzarote Island",
-      "toIata": "ACE",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-10-31T09:50:30.438520Z"
-  },
-  "EJU5362": {
-    "route": {
-      "fromCity": "Tivat",
-      "fromIata": "TIV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T09:50:30.438520Z"
-  },
   "DMAAC": {
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
@@ -6340,7 +6314,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T15:05:25.023521Z"
+    "checked_at": "2026-11-02T09:50:33.747213Z"
   },
   "EJU98DB": {
     "route": {
@@ -11298,5 +11272,16 @@
   "BFD02T": {
     "route": null,
     "checked_at": "2026-11-02T09:45:32.503019Z"
+  },
+  "EJU9054": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T09:50:33.747213Z"
   }
 }
