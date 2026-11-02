@@ -5902,10 +5902,6 @@
     },
     "checked_at": "2026-11-02T09:15:40.315904Z"
   },
-  "SVI8222": {
-    "route": null,
-    "checked_at": "2026-10-31T20:35:21.832597Z"
-  },
   "EWG7907": {
     "route": {
       "fromCity": "Larnaca",
@@ -8682,7 +8678,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-11-01T20:50:29.391651Z"
+    "checked_at": "2026-11-02T20:35:24.894496Z"
   },
   "EZY18GL": {
     "route": {
@@ -11422,5 +11418,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T20:30:46.547229Z"
+  },
+  "ADZ4106": {
+    "route": null,
+    "checked_at": "2026-11-02T20:35:24.894496Z"
+  },
+  "CFG2EJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T20:35:24.894496Z"
   }
 }
