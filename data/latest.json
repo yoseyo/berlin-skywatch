@@ -1,4 +1,69 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-02T05:45:29.070271Z"
+  "flights": [
+    {
+      "callsign": "WZZ52YC",
+      "country": "Hungary",
+      "lat": 52.2485,
+      "lon": 14.0246,
+      "altKm": 11.1,
+      "speedKmh": 869,
+      "heading": 272,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LTN",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH8CE",
+      "country": "Germany",
+      "lat": 52.5109,
+      "lon": 13.8078,
+      "altKm": 11.7,
+      "speedKmh": 856,
+      "heading": 234,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS9YV",
+      "country": "Turkey",
+      "lat": 52.2785,
+      "lon": 13.9192,
+      "altKm": 2.1,
+      "speedKmh": 493,
+      "heading": 344,
+      "vertRateMs": -6.5,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG21T",
+      "country": "Germany",
+      "lat": 52.3471,
+      "lon": 13.475,
+      "altKm": 0.3,
+      "speedKmh": 267,
+      "heading": 249,
+      "vertRateMs": 15.6,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-02T05:50:30.868016Z"
 }
