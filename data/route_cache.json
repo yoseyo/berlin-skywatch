@@ -1499,7 +1499,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-01T08:35:22.277884Z"
+    "checked_at": "2026-11-02T08:25:34.656645Z"
   },
   "QTR5G": {
     "route": {
@@ -11246,5 +11246,42 @@
   "BPO510": {
     "route": null,
     "checked_at": "2026-11-02T08:20:31.188973Z"
+  },
+  "AUA224": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T08:25:34.656645Z"
+  },
+  "PGT982": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-02T08:25:34.656645Z"
+  },
+  "HCR10": {
+    "route": null,
+    "checked_at": "2026-11-02T08:25:34.656645Z"
+  },
+  "SDR10EL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-02T08:25:34.656645Z"
   }
 }
