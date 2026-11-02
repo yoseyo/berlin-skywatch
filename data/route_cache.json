@@ -2233,7 +2233,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-01T12:05:23.959352Z"
+    "checked_at": "2026-11-02T11:50:32.962773Z"
   },
   "DLH187": {
     "route": {
@@ -5767,10 +5767,6 @@
     "route": null,
     "checked_at": "2026-11-01T10:20:31.232052Z"
   },
-  "TAH456": {
-    "route": null,
-    "checked_at": "2026-10-31T11:50:31.589404Z"
-  },
   "FIN96W": {
     "route": {
       "fromCity": "Helsinki",
@@ -8204,7 +8200,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T11:30:39.222689Z"
+    "checked_at": "2026-11-02T11:50:32.962773Z"
   },
   "DERVM": {
     "route": null,
@@ -11277,5 +11273,27 @@
   "DCS601": {
     "route": null,
     "checked_at": "2026-11-02T11:40:33.797294Z"
+  },
+  "EJU9072": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T11:50:32.962773Z"
+  },
+  "RJA147": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-11-02T11:50:32.962773Z"
   }
 }
