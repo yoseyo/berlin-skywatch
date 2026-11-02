@@ -643,7 +643,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-01T14:15:28.960213Z"
+    "checked_at": "2026-11-02T14:20:44.813585Z"
   },
   "AUA230U": {
     "route": {
@@ -654,7 +654,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T16:20:29.230372Z"
+    "checked_at": "2026-11-02T14:20:44.813585Z"
   },
   "KLC42X": {
     "route": {
@@ -4953,7 +4953,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-01T08:50:30.357497Z"
+    "checked_at": "2026-11-02T14:20:44.813585Z"
   },
   "RYR37AF": {
     "route": {
@@ -5728,7 +5728,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T14:45:27.726734Z"
+    "checked_at": "2026-11-02T14:20:44.813585Z"
   },
   "BTI7NV": {
     "route": {
@@ -11206,5 +11206,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T14:15:32.775526Z"
+  },
+  "CCA935": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-02T14:20:44.813585Z"
+  },
+  "BTI8MT": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-02T14:20:44.813585Z"
+  },
+  "GAC296L": {
+    "route": null,
+    "checked_at": "2026-11-02T14:20:44.813585Z"
   }
 }
