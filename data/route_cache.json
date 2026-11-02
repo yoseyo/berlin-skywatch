@@ -93,7 +93,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T15:45:28.708420Z"
+    "checked_at": "2026-11-02T15:45:31.674832Z"
   },
   "LOT5PX": {
     "route": {
@@ -2417,7 +2417,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T15:50:30.019476Z"
+    "checked_at": "2026-11-02T15:45:31.674832Z"
   },
   "DLH6T": {
     "route": {
@@ -5753,17 +5753,6 @@
     "route": null,
     "checked_at": "2026-11-02T07:00:51.373804Z"
   },
-  "AUA971": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Gothenburg",
-      "toIata": "GOT",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T15:45:27.346146Z"
-  },
   "THY5SX": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -5785,17 +5774,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T13:55:24.547610Z"
-  },
-  "CFG7VT": {
-    "route": {
-      "fromCity": "Heraklion",
-      "fromIata": "HER",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T15:45:27.346146Z"
   },
   "PGT5304": {
     "route": {
@@ -11284,5 +11262,20 @@
   "CHX35": {
     "route": null,
     "checked_at": "2026-11-02T15:30:45.964463Z"
+  },
+  "WZZ80EN": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-02T15:45:31.674832Z"
+  },
+  "DWW949": {
+    "route": null,
+    "checked_at": "2026-11-02T15:45:31.674832Z"
   }
 }
