@@ -2521,7 +2521,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T19:15:28.443259Z"
+    "checked_at": "2026-11-02T14:30:46.166965Z"
   },
   "LOT3EG": {
     "route": null,
@@ -5722,32 +5722,6 @@
   "GAF924": {
     "route": null,
     "checked_at": "2026-11-01T11:45:28.841087Z"
-  },
-  "PGT21KF": {
-    "route": null,
-    "checked_at": "2026-10-31T14:30:40.727052Z"
-  },
-  "CFG6NZ": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T14:30:40.727052Z"
-  },
-  "EWG1T": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T14:30:40.727052Z"
   },
   "RYR723D": {
     "route": null,
@@ -11236,5 +11210,16 @@
   "AWH33F": {
     "route": null,
     "checked_at": "2026-11-02T14:25:26.204630Z"
+  },
+  "NSZ5651": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-02T14:30:46.166965Z"
   }
 }
