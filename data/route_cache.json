@@ -2990,7 +2990,7 @@
   },
   "LOT4CT": {
     "route": null,
-    "checked_at": "2026-11-01T20:10:29.692267Z"
+    "checked_at": "2026-11-02T20:10:33.147606Z"
   },
   "LOT1HL": {
     "route": {
@@ -3071,7 +3071,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-01T21:10:32.382836Z"
+    "checked_at": "2026-11-02T20:10:33.147606Z"
   },
   "SXS94C": {
     "route": null,
@@ -5901,28 +5901,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T09:15:40.315904Z"
-  },
-  "EJU5372": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T20:10:30.338214Z"
-  },
-  "CFG2XU": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T20:10:30.338214Z"
   },
   "SUS911": {
     "route": {
@@ -11441,5 +11419,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-02T20:00:51.601890Z"
+  },
+  "TAY5DN": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "ASL Airlines Belgium",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-11-02T20:10:33.147606Z"
   }
 }
