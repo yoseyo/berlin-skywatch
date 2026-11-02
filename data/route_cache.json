@@ -3313,7 +3313,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-01T09:15:27.639404Z"
+    "checked_at": "2026-11-02T09:20:34.727611Z"
   },
   "KLM75C": {
     "route": {
@@ -3362,17 +3362,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T12:00:51.004124Z"
-  },
-  "CFE27PM": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-10-31T09:20:28.877637Z"
   },
   "RYR1GE": {
     "route": {
@@ -11330,5 +11319,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T09:15:40.315904Z"
+  },
+  "BTI48D": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-02T09:20:34.727611Z"
   }
 }
