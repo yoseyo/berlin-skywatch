@@ -599,7 +599,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-01T13:20:29.790437Z"
+    "checked_at": "2026-11-02T13:10:32.222940Z"
   },
   "MSC2960": {
     "route": {
@@ -1871,17 +1871,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T10:50:32.101734Z"
-  },
-  "EWG55H": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T13:08:22.416465Z"
   },
   "RYR17YU": {
     "route": {
@@ -3436,17 +3425,6 @@
     },
     "checked_at": "2026-10-31T18:10:29.379166Z"
   },
-  "EWG8537": {
-    "route": {
-      "fromCity": "M\u00e1laga",
-      "fromIata": "AGP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T13:10:28.792443Z"
-  },
   "KLM60M": {
     "route": {
       "fromCity": "Warsaw",
@@ -4887,7 +4865,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T12:55:21.860068Z"
+    "checked_at": "2026-11-02T13:10:32.222940Z"
   },
   "DLH6LT": {
     "route": {
@@ -4899,17 +4877,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-01T13:00:49.624984Z"
-  },
-  "CCA950": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Beijing",
-      "toIata": "PEK",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-10-31T13:08:22.416465Z"
   },
   "WZZ2297": {
     "route": {
@@ -5729,14 +5696,6 @@
   "DMYHG": {
     "route": null,
     "checked_at": "2026-11-02T09:30:43.947537Z"
-  },
-  "TOY462": {
-    "route": null,
-    "checked_at": "2026-10-31T13:08:22.416465Z"
-  },
-  "DEPAD": {
-    "route": null,
-    "checked_at": "2026-10-31T13:10:28.792443Z"
   },
   "RYR29NN": {
     "route": {
@@ -8998,7 +8957,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T17:45:27.994576Z"
+    "checked_at": "2026-11-02T13:10:32.222940Z"
   },
   "EJU53YT": {
     "route": {
@@ -11206,5 +11165,38 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-02T13:05:25.674934Z"
+  },
+  "ISR254": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-02T13:10:32.222940Z"
+  },
+  "CCA966": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-02T13:10:32.222940Z"
+  },
+  "RYR2263": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T13:10:32.222940Z"
   }
 }
