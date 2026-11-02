@@ -1444,7 +1444,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T20:50:29.458014Z"
+    "checked_at": "2026-11-02T09:05:23.771270Z"
   },
   "DLH3AA": {
     "route": {
@@ -3280,7 +3280,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T21:05:24.346780Z"
+    "checked_at": "2026-11-02T09:05:23.771270Z"
   },
   "EZY36QA": {
     "route": {
@@ -9141,7 +9141,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T13:55:21.754501Z"
+    "checked_at": "2026-11-02T09:05:23.771270Z"
   },
   "SDR82XF": {
     "route": null,
@@ -11319,5 +11319,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T09:00:59.870618Z"
+  },
+  "WZZ24TK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-02T09:05:23.771270Z"
+  },
+  "WZZ26PX": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-02T09:05:23.771270Z"
+  },
+  "DLH9EY": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T09:05:23.771270Z"
   }
 }
