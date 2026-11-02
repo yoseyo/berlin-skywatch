@@ -4265,17 +4265,6 @@
     },
     "checked_at": "2026-11-02T06:45:29.892214Z"
   },
-  "NSZ3YT": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-31T07:05:25.615027Z"
-  },
   "TVF34UB": {
     "route": {
       "fromCity": "Paris",
@@ -5931,17 +5920,6 @@
     },
     "checked_at": "2026-11-02T05:10:31.492073Z"
   },
-  "WZZ64": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-31T07:05:25.615027Z"
-  },
   "CFG4790": {
     "route": {
       "fromCity": "Zagreb",
@@ -5977,7 +5955,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-01T06:55:21.757151Z"
+    "checked_at": "2026-11-02T07:05:35.697442Z"
   },
   "RYR60GX": {
     "route": {
@@ -11260,5 +11238,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T07:00:51.373804Z"
+  },
+  "BTI83L": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-02T07:05:35.697442Z"
+  },
+  "GAF600": {
+    "route": null,
+    "checked_at": "2026-11-02T07:05:35.697442Z"
+  },
+  "LOT4WE": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T07:05:35.697442Z"
   }
 }
