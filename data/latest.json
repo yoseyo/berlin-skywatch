@@ -1,52 +1,29 @@
 {
   "flights": [
     {
+      "callsign": "BKI606",
+      "country": "Turkey",
+      "lat": 52.4271,
+      "lon": 13.9225,
+      "altKm": 1.6,
+      "speedKmh": 384,
+      "heading": 280,
+      "vertRateMs": -3.6,
+      "category": "plane"
+    },
+    {
       "callsign": "EWG3ZP",
       "country": "Germany",
-      "lat": 52.5325,
-      "lon": 13.6967,
-      "altKm": 1.4,
-      "speedKmh": 450,
-      "heading": 95,
-      "vertRateMs": -5.2,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "category": "plane"
-    },
-    {
-      "callsign": "EWG8VT",
-      "country": "Germany",
-      "lat": 52.4111,
-      "lon": 13.6684,
-      "altKm": 0.7,
-      "speedKmh": 317,
+      "lat": 52.3792,
+      "lon": 13.6109,
+      "altKm": 0.4,
+      "speedKmh": 239,
       "heading": 249,
-      "vertRateMs": -3.9,
+      "vertRateMs": -3.6,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
-      "callsign": "CFG433",
-      "country": "Germany",
-      "lat": 52.4459,
-      "lon": 13.8171,
-      "altKm": 1.2,
-      "speedKmh": 382,
-      "heading": 250,
-      "vertRateMs": -1.0,
-      "airline": "Condor Flugdienst",
-      "airlineCountry": "Germany",
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Berlin",
-      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-02T18:20:31.961754Z"
+  "updated_at": "2026-11-02T18:25:24.819828Z"
 }
