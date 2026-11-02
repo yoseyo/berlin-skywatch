@@ -2897,11 +2897,11 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-01T18:55:24.174286Z"
+    "checked_at": "2026-11-02T19:25:27.176856Z"
   },
   "EZY98TR": {
     "route": null,
-    "checked_at": "2026-11-01T19:50:31.341554Z"
+    "checked_at": "2026-11-02T19:25:27.176856Z"
   },
   "WZZ1078": {
     "route": null,
@@ -3929,7 +3929,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T16:00:49.614246Z"
+    "checked_at": "2026-11-02T19:25:27.176856Z"
   },
   "AUA238N": {
     "route": {
@@ -4500,10 +4500,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-01T15:55:21.977197Z"
-  },
-  "RYR65TM": {
-    "route": null,
-    "checked_at": "2026-10-31T19:25:21.547763Z"
   },
   "RYR65RB": {
     "route": null,
@@ -5232,17 +5228,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-02T17:45:30.962261Z"
-  },
-  "ETH725": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Addis Ababa",
-      "toIata": "ADD",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-10-31T19:25:21.547763Z"
   },
   "CTN4409": {
     "route": {
@@ -11497,5 +11482,16 @@
   "FIN7AX": {
     "route": null,
     "checked_at": "2026-11-02T19:20:34.000968Z"
+  },
+  "RYR298": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-02T19:25:27.176856Z"
   }
 }
