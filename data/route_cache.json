@@ -445,7 +445,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-01T09:10:29.137276Z"
+    "checked_at": "2026-11-02T09:30:43.947537Z"
   },
   "EIN3EG": {
     "route": {
@@ -4259,7 +4259,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T09:30:38.573779Z"
+    "checked_at": "2026-11-02T09:30:43.947537Z"
   },
   "EJU72XB": {
     "route": {
@@ -4411,17 +4411,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-10-31T13:40:30.759672Z"
-  },
-  "WZZ1QS": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-10-31T09:30:41.086096Z"
   },
   "AEE512": {
     "route": {
@@ -6279,7 +6268,7 @@
   },
   "DMYHG": {
     "route": null,
-    "checked_at": "2026-10-31T12:25:24.710396Z"
+    "checked_at": "2026-11-02T09:30:43.947537Z"
   },
   "PYR014": {
     "route": null,
@@ -11345,5 +11334,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T09:25:23.984983Z"
+  },
+  "AIB268D": {
+    "route": null,
+    "checked_at": "2026-11-02T09:30:43.947537Z"
+  },
+  "BTI7LZ": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-02T09:30:43.947537Z"
+  },
+  "LOT4NC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T09:30:43.947537Z"
   }
 }
