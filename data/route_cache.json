@@ -577,7 +577,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-01T12:10:28.944841Z"
+    "checked_at": "2026-11-02T12:15:31.836568Z"
   },
   "SAS1677": {
     "route": {
@@ -3728,8 +3728,15 @@
     "checked_at": "2026-11-02T11:10:30.296724Z"
   },
   "TAP31EL": {
-    "route": null,
-    "checked_at": "2026-11-01T12:40:30.799752Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-11-02T12:15:31.836568Z"
   },
   "EWG89N": {
     "route": {
@@ -4862,7 +4869,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T12:05:23.959352Z"
+    "checked_at": "2026-11-02T12:15:31.836568Z"
   },
   "RYR7EN": {
     "route": {
@@ -4910,7 +4917,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T12:20:29.545994Z"
+    "checked_at": "2026-11-02T12:15:31.836568Z"
   },
   "RYR3NA": {
     "route": {
@@ -8309,7 +8316,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-01T12:20:29.545994Z"
+    "checked_at": "2026-11-02T12:15:31.836568Z"
   },
   "EJU62CM": {
     "route": {
@@ -11299,5 +11306,16 @@
   "PTO4469": {
     "route": null,
     "checked_at": "2026-11-02T12:10:31.395403Z"
+  },
+  "EJU62MH": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T12:15:31.836568Z"
   }
 }
