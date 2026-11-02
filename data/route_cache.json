@@ -478,7 +478,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-01T11:00:48.788754Z"
+    "checked_at": "2026-11-02T10:45:28.613749Z"
   },
   "KLM1775": {
     "route": {
@@ -3751,7 +3751,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-01T10:55:22.994882Z"
+    "checked_at": "2026-11-02T10:45:28.613749Z"
   },
   "EJU61YV": {
     "route": {
@@ -5789,21 +5789,6 @@
   "DMAAC": {
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
-  },
-  "AEE6175": {
-    "route": {
-      "fromCity": "Ia\u015fi",
-      "fromIata": "IAS",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-10-31T10:45:27.346373Z"
-  },
-  "FHM4772": {
-    "route": null,
-    "checked_at": "2026-10-31T10:45:27.346373Z"
   },
   "DMVKS": {
     "route": null,
@@ -11249,5 +11234,31 @@
   "PTO9987": {
     "route": null,
     "checked_at": "2026-11-02T10:40:33.641855Z"
+  },
+  "CES786": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-02T10:45:28.613749Z"
+  },
+  "LOT7VJ": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T10:45:28.613749Z"
+  },
+  "PTO4468": {
+    "route": null,
+    "checked_at": "2026-11-02T10:45:28.613749Z"
   }
 }
