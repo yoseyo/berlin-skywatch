@@ -1532,7 +1532,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-10-31T08:45:27.598747Z"
+    "checked_at": "2026-11-02T08:10:34.817087Z"
   },
   "BAW974": {
     "route": {
@@ -3269,7 +3269,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T08:15:28.478478Z"
+    "checked_at": "2026-11-02T08:10:34.817087Z"
   },
   "AUA224": {
     "route": {
@@ -3727,17 +3727,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T12:15:27.686288Z"
-  },
-  "RYR9TA": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Ran\u00f3n",
-      "toIata": "OVD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T08:10:30.911164Z"
   },
   "RYR66SM": {
     "route": {
@@ -5908,32 +5897,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-02T07:45:31.242524Z"
-  },
-  "WZZ5YR": {
-    "route": null,
-    "checked_at": "2026-10-31T08:10:30.911164Z"
-  },
-  "HLF8822": {
-    "route": {
-      "fromCity": "Vatry",
-      "fromIata": "XCR",
-      "toCity": "Shenzhen (Bao'an)",
-      "toIata": "SZX",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T08:10:30.911164Z"
-  },
-  "THY5VZ": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Denizli",
-      "toIata": "DNZ",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-31T08:10:30.911164Z"
   },
   "MGH650": {
     "route": {
@@ -11294,5 +11257,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-02T08:00:50.887463Z"
+  },
+  "EWG5M": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T08:10:34.817087Z"
+  },
+  "EWG5NR": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T08:10:34.817087Z"
   }
 }
