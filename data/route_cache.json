@@ -5968,39 +5968,6 @@
     },
     "checked_at": "2026-11-02T05:10:31.492073Z"
   },
-  "EJU42DE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sta Cruz de la Palma, La Palma Island",
-      "toIata": "SPC",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T06:15:37.509002Z"
-  },
-  "SAS7791": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-31T06:15:37.509002Z"
-  },
-  "CFG2CK": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T06:15:37.509002Z"
-  },
   "WZZ959": {
     "route": {
       "fromCity": "Larnaca",
@@ -8398,7 +8365,7 @@
   },
   "EJU35LT": {
     "route": null,
-    "checked_at": "2026-11-01T06:25:22.637629Z"
+    "checked_at": "2026-11-02T06:20:31.437475Z"
   },
   "SDR27BN": {
     "route": {
@@ -11205,5 +11172,27 @@
   "EWG3NW": {
     "route": null,
     "checked_at": "2026-11-02T06:10:32.594429Z"
+  },
+  "EJU9061": {
+    "route": {
+      "fromCity": "Olbia (SS)",
+      "fromIata": "OLB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T06:20:31.437475Z"
+  },
+  "CFG2DC": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T06:20:31.437475Z"
   }
 }
