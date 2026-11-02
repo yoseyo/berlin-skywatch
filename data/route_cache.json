@@ -1455,7 +1455,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-01T07:35:22.017467Z"
+    "checked_at": "2026-11-02T07:50:32.915309Z"
   },
   "THY1CK": {
     "route": {
@@ -5897,21 +5897,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-01T16:25:22.086630Z"
-  },
-  "WZZ2LF": {
-    "route": null,
-    "checked_at": "2026-10-31T07:50:32.272958Z"
-  },
-  "EWG9Z": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T07:50:32.272958Z"
   },
   "EWG8G": {
     "route": {
@@ -11261,5 +11246,27 @@
   "HBJLE": {
     "route": null,
     "checked_at": "2026-11-02T07:45:31.242524Z"
+  },
+  "WZZ8GS": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-02T07:50:32.915309Z"
+  },
+  "LOT403": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T07:50:32.915309Z"
   }
 }
