@@ -3519,17 +3519,6 @@
     "route": null,
     "checked_at": "2026-11-01T06:15:29.090327Z"
   },
-  "RYR88UY": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "BGY",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-10-31T22:00:47.580432Z"
-  },
   "KLC1342": {
     "route": {
       "fromCity": "Billund",
@@ -3962,17 +3951,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T16:15:36.352250Z"
-  },
-  "SAS80D": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-10-31T22:00:47.580432Z"
   },
   "SXS5SV": {
     "route": {
@@ -5948,17 +5926,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T14:10:34.354321Z"
-  },
-  "EJU63AU": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Funchal",
-      "toIata": "FNC",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-10-31T21:55:23.812162Z"
   },
   "EJU37CH": {
     "route": null,
@@ -11398,5 +11365,16 @@
   "SPJAL": {
     "route": null,
     "checked_at": "2026-11-02T21:55:23.762188Z"
+  },
+  "EJU73CG": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-02T22:00:49.407968Z"
   }
 }
