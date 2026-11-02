@@ -126,7 +126,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-01T17:05:23.074108Z"
+    "checked_at": "2026-11-02T17:00:53.347524Z"
   },
   "AEE82B": {
     "route": {
@@ -981,7 +981,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-11-01T17:10:30.795159Z"
+    "checked_at": "2026-11-02T17:00:53.347524Z"
   },
   "BBG272": {
     "route": {
@@ -5803,17 +5803,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-11-02T15:10:32.894234Z"
-  },
-  "FHY410": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-31T17:00:48.850633Z"
   },
   "RYR46MW": {
     "route": {
@@ -11354,5 +11343,16 @@
   "EWG007": {
     "route": null,
     "checked_at": "2026-11-02T16:55:25.268917Z"
+  },
+  "LOT2303": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-02T17:00:53.347524Z"
   }
 }
