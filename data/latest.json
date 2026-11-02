@@ -1,35 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "EJU65LC",
+      "callsign": "EJU36HF",
       "country": "Austria",
-      "lat": 52.2433,
-      "lon": 13.1711,
-      "altKm": 3.2,
-      "speedKmh": 518,
-      "heading": 254,
-      "vertRateMs": 17.2,
+      "lat": 52.3409,
+      "lon": 13.4559,
+      "altKm": 0.5,
+      "speedKmh": 308,
+      "heading": 242,
+      "vertRateMs": 8.1,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "category": "plane"
-    },
-    {
-      "callsign": "EJU91XM",
-      "country": "Austria",
-      "lat": 52.2883,
-      "lon": 13.3541,
-      "altKm": 1.6,
-      "speedKmh": 422,
-      "heading": 229,
-      "vertRateMs": 18.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
+      "toCity": "Paris",
+      "toIata": "CDG",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-02T05:00:48.817502Z"
+  "updated_at": "2026-11-02T05:05:25.102752Z"
 }
