@@ -1760,7 +1760,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-01T11:05:23.920341Z"
+    "checked_at": "2026-11-02T10:15:32.280476Z"
   },
   "DLH1AE": {
     "route": {
@@ -3854,7 +3854,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-10-31T21:55:23.812162Z"
+    "checked_at": "2026-11-02T10:15:32.280476Z"
   },
   "SAS1675": {
     "route": {
@@ -5844,32 +5844,6 @@
   "DMAAC": {
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
-  },
-  "MGH649": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Mavi Gok Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-10-31T10:15:28.189631Z"
-  },
-  "CFG3RW": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-10-31T10:15:28.189631Z"
-  },
-  "CHX35": {
-    "route": null,
-    "checked_at": "2026-10-31T10:15:28.189631Z"
   },
   "NIA8602": {
     "route": {
@@ -11326,5 +11300,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T10:10:42.111783Z"
+  },
+  "PBB17": {
+    "route": null,
+    "checked_at": "2026-11-02T10:15:32.280476Z"
+  },
+  "EWG4601": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-02T10:15:32.280476Z"
   }
 }
