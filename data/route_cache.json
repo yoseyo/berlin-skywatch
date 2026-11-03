@@ -214,7 +214,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-02T05:10:31.492073Z"
+    "checked_at": "2026-11-03T05:10:31.556014Z"
   },
   "KLC80U": {
     "route": {
@@ -1014,7 +1014,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-02T05:20:30.712897Z"
+    "checked_at": "2026-11-03T05:10:31.556014Z"
   },
   "RJA137": {
     "route": {
@@ -1189,10 +1189,6 @@
     "route": null,
     "checked_at": "2026-11-02T06:40:33.809777Z"
   },
-  "EWG21A": {
-    "route": null,
-    "checked_at": "2026-11-01T05:10:30.255450Z"
-  },
   "RYR9RJ": {
     "route": {
       "fromCity": "Milan",
@@ -1312,7 +1308,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-02T06:35:25.558612Z"
+    "checked_at": "2026-11-03T05:10:31.556014Z"
   },
   "EJU64VT": {
     "route": {
@@ -4793,10 +4789,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T14:10:34.354321Z"
-  },
-  "EWG8MA": {
-    "route": null,
-    "checked_at": "2026-11-01T05:05:26.369007Z"
   },
   "TKJ4JH": {
     "route": {
@@ -8782,7 +8774,7 @@
       "airlineName": "Star Air",
       "airlineCountry": "Denmark"
     },
-    "checked_at": "2026-11-02T04:20:31.985125Z"
+    "checked_at": "2026-11-03T05:10:31.556014Z"
   },
   "EJU65LC": {
     "route": {
@@ -11449,5 +11441,16 @@
   "CEF05L": {
     "route": null,
     "checked_at": "2026-11-03T05:05:23.067717Z"
+  },
+  "ADZ4006": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria"
+    },
+    "checked_at": "2026-11-03T05:10:31.556014Z"
   }
 }
