@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-03T22:00:51.348648Z"
+  "flights": [
+    {
+      "callsign": "RYR53DY",
+      "country": "Malta",
+      "lat": 52.5168,
+      "lon": 12.8808,
+      "altKm": 11.7,
+      "speedKmh": 761,
+      "heading": 22,
+      "vertRateMs": 0.3,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-03T22:05:25.327014Z"
 }
