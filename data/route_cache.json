@@ -2383,17 +2383,6 @@
     },
     "checked_at": "2026-11-03T16:25:23.308398Z"
   },
-  "DLH8CP": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-01T16:40:29.277779Z"
-  },
   "DLH7T": {
     "route": {
       "fromCity": "Munich",
@@ -4665,10 +4654,6 @@
     },
     "checked_at": "2026-11-02T21:35:24.992797Z"
   },
-  "EWG8EH": {
-    "route": null,
-    "checked_at": "2026-11-01T16:40:29.277779Z"
-  },
   "SAS2690": {
     "route": {
       "fromCity": "Milan",
@@ -5615,10 +5600,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T16:00:54.693437Z"
-  },
-  "NJE263N": {
-    "route": null,
-    "checked_at": "2026-11-01T16:40:29.277779Z"
   },
   "EWG52K": {
     "route": null,
@@ -10547,5 +10528,16 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-03T16:35:26.706377Z"
+  },
+  "TAP53ED": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-11-03T16:40:35.626094Z"
   }
 }
