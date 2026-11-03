@@ -1,18 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "EWG25Z",
-      "country": "Germany",
-      "lat": 52.3215,
-      "lon": 13.2909,
-      "altKm": 0.9,
-      "speedKmh": 296,
-      "heading": 68,
-      "vertRateMs": -4.9,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
+      "callsign": "AIC65T",
+      "country": "India",
+      "lat": 52.725,
+      "lon": 13.6272,
+      "altKm": 10.2,
+      "speedKmh": 865,
+      "heading": 148,
+      "vertRateMs": 0,
+      "airline": "Air India",
+      "airlineCountry": "India",
+      "fromCity": "New York",
+      "fromIata": "JFK",
+      "toCity": "Mumbai",
+      "toIata": "BOM",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T22:25:23.561812Z"
+  "updated_at": "2026-11-03T22:30:41.955607Z"
 }
