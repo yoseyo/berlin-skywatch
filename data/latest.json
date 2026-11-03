@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "AEE82B",
+      "country": "Greece",
+      "lat": 52.342,
+      "lon": 13.5582,
+      "altKm": 0.8,
+      "speedKmh": 295,
+      "heading": 142,
+      "vertRateMs": 12.3,
+      "airline": "Aegean Airlines",
+      "airlineCountry": "Greece",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "category": "plane"
+    },
+    {
       "callsign": "FIN9YA",
       "country": "Finland",
-      "lat": 52.3435,
-      "lon": 13.5712,
-      "altKm": 0.8,
-      "speedKmh": 339,
-      "heading": 147,
-      "vertRateMs": 7.8,
+      "lat": 52.5788,
+      "lon": 13.8702,
+      "altKm": 4.4,
+      "speedKmh": 623,
+      "heading": 25,
+      "vertRateMs": 13.3,
       "airline": "Finnair",
       "airlineCountry": "Finland",
       "fromCity": "Berlin",
@@ -16,7 +33,41 @@
       "toCity": "Helsinki",
       "toIata": "HEL",
       "category": "plane"
+    },
+    {
+      "callsign": "QTR75T",
+      "country": "Qatar",
+      "lat": 52.1053,
+      "lon": 13.5876,
+      "altKm": 3.3,
+      "speedKmh": 583,
+      "heading": 288,
+      "vertRateMs": -2.6,
+      "airline": "Qatar Airways",
+      "airlineCountry": "Qatar",
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "London",
+      "toIata": "STN",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG4JT",
+      "country": "Malta",
+      "lat": 52.2609,
+      "lon": 12.9267,
+      "altKm": 2.0,
+      "speedKmh": 452,
+      "heading": 81,
+      "vertRateMs": -10.1,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T18:30:52.456210Z"
+  "updated_at": "2026-11-03T18:35:32.226204Z"
 }
