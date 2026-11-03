@@ -324,7 +324,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T07:35:23.772384Z"
+    "checked_at": "2026-11-03T08:00:51.593947Z"
   },
   "SAS767": {
     "route": {
@@ -346,7 +346,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-02T08:00:50.887463Z"
+    "checked_at": "2026-11-03T08:00:51.593947Z"
   },
   "SWR2HD": {
     "route": {
@@ -1451,7 +1451,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-02T08:00:50.887463Z"
+    "checked_at": "2026-11-03T08:00:51.593947Z"
   },
   "EJU68CT": {
     "route": {
@@ -5864,10 +5864,6 @@
     },
     "checked_at": "2026-11-02T19:15:33.189677Z"
   },
-  "DESNN": {
-    "route": null,
-    "checked_at": "2026-11-01T08:00:45.815125Z"
-  },
   "HYM408": {
     "route": {
       "fromCity": "Hamburg",
@@ -8791,7 +8787,7 @@
       "airlineName": "Condor Flugdienst",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T07:55:23.909272Z"
+    "checked_at": "2026-11-03T08:00:51.593947Z"
   },
   "RUK176": {
     "route": {
@@ -8846,7 +8842,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T08:10:34.817087Z"
+    "checked_at": "2026-11-03T08:00:51.593947Z"
   },
   "LGL72D": {
     "route": {
@@ -11236,5 +11232,16 @@
   "POLICE5": {
     "route": null,
     "checked_at": "2026-11-03T07:50:33.038330Z"
+  },
+  "WZZ2LF": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kopitnari",
+      "toIata": "KUT",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-03T08:00:51.593947Z"
   }
 }
