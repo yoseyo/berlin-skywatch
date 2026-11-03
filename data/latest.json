@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-03T05:40:30.684885Z"
+  "flights": [
+    {
+      "callsign": "SXS9YV",
+      "country": "Turkey",
+      "lat": 52.2961,
+      "lon": 13.262,
+      "altKm": 0.9,
+      "speedKmh": 318,
+      "heading": 69,
+      "vertRateMs": -3.9,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-03T05:45:34.475610Z"
 }
