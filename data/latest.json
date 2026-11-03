@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-03T04:00:50.487998Z"
+  "flights": [
+    {
+      "callsign": "CSN331",
+      "country": "China",
+      "lat": 52.7938,
+      "lon": 12.7712,
+      "altKm": 11.6,
+      "speedKmh": 925,
+      "heading": 228,
+      "vertRateMs": 0,
+      "airline": "China Southern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-03T04:05:24.586460Z"
 }
