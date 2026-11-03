@@ -2708,8 +2708,15 @@
     "checked_at": "2026-11-02T20:05:25.819745Z"
   },
   "SAS45C": {
-    "route": null,
-    "checked_at": "2026-11-01T19:30:41.818194Z"
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-03T18:55:23.664905Z"
   },
   "DLH4LV": {
     "route": {
@@ -2920,7 +2927,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-02T18:35:23.536558Z"
+    "checked_at": "2026-11-03T18:55:23.664905Z"
   },
   "EZY26YP": {
     "route": {
@@ -3567,7 +3574,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T19:00:51.974501Z"
+    "checked_at": "2026-11-03T18:55:23.664905Z"
   },
   "EJU19XU": {
     "route": {
@@ -4482,7 +4489,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-02T18:45:33.651062Z"
+    "checked_at": "2026-11-03T18:55:23.664905Z"
   },
   "RYR8CJ": {
     "route": {
@@ -10345,5 +10352,13 @@
   "CAT9573": {
     "route": null,
     "checked_at": "2026-11-03T18:40:44.762650Z"
+  },
+  "WMT423B": {
+    "route": null,
+    "checked_at": "2026-11-03T18:55:23.664905Z"
+  },
+  "CAT9571": {
+    "route": null,
+    "checked_at": "2026-11-03T18:55:23.664905Z"
   }
 }
