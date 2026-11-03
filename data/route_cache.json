@@ -720,7 +720,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-02T08:05:30.848652Z"
+    "checked_at": "2026-11-03T08:20:32.150782Z"
   },
   "SAS1674": {
     "route": {
@@ -8794,7 +8794,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T08:10:34.817087Z"
+    "checked_at": "2026-11-03T08:20:32.150782Z"
   },
   "EWG5NR": {
     "route": {
@@ -11225,5 +11225,16 @@
   "TYW211F": {
     "route": null,
     "checked_at": "2026-11-03T08:10:33.022207Z"
+  },
+  "CFG4LH": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-03T08:20:32.150782Z"
   }
 }
