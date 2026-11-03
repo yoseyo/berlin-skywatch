@@ -775,7 +775,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-02T10:00:57.481890Z"
+    "checked_at": "2026-11-03T10:20:34.865438Z"
   },
   "KLM67B": {
     "route": {
@@ -1701,7 +1701,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T10:20:33.865794Z"
+    "checked_at": "2026-11-03T10:20:34.865438Z"
   },
   "AFR12AR": {
     "route": {
@@ -4413,7 +4413,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-02T10:35:23.739089Z"
+    "checked_at": "2026-11-03T10:20:34.865438Z"
   },
   "RYR209": {
     "route": {
@@ -5213,10 +5213,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-01T11:50:30.735965Z"
-  },
-  "BPO706": {
-    "route": null,
-    "checked_at": "2026-11-01T10:20:31.232052Z"
   },
   "FIN96W": {
     "route": {
@@ -8758,7 +8754,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-02T10:05:25.338075Z"
+    "checked_at": "2026-11-03T10:20:34.865438Z"
   },
   "ELY2372": {
     "route": {
@@ -11023,5 +11019,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-03T10:10:31.711703Z"
+  },
+  "BTI8KY": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-03T10:20:34.865438Z"
+  },
+  "BAF647": {
+    "route": {
+      "fromCity": "Camp Springs",
+      "fromIata": "ADW",
+      "toCity": "Halifax",
+      "toIata": "YHZ",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-03T10:20:34.865438Z"
+  },
+  "GAC185L": {
+    "route": null,
+    "checked_at": "2026-11-03T10:20:34.865438Z"
   }
 }
