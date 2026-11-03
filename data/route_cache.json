@@ -2049,7 +2049,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-02T14:45:35.826280Z"
+    "checked_at": "2026-11-03T14:50:30.919569Z"
   },
   "DLH3CE": {
     "route": {
@@ -5693,10 +5693,6 @@
     },
     "checked_at": "2026-11-02T10:25:23.727695Z"
   },
-  "DCAPM": {
-    "route": null,
-    "checked_at": "2026-11-01T14:50:29.585277Z"
-  },
   "SAS770": {
     "route": {
       "fromCity": "Prague",
@@ -5707,17 +5703,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-02T14:35:32.468580Z"
-  },
-  "SAS1698": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-01T14:50:29.585277Z"
   },
   "THY8DE": {
     "route": {
@@ -10669,5 +10654,20 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-03T14:45:30.173068Z"
+  },
+  "WZZ5886": {
+    "route": null,
+    "checked_at": "2026-11-03T14:50:30.919569Z"
+  },
+  "DLH715": {
+    "route": {
+      "fromCity": "Tokyo",
+      "fromIata": "HND",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-03T14:50:30.919569Z"
   }
 }
