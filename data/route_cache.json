@@ -511,7 +511,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-02T11:30:45.894327Z"
+    "checked_at": "2026-11-03T11:40:30.183165Z"
   },
   "AEE2WD": {
     "route": {
@@ -533,7 +533,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-02T11:05:24.189087Z"
+    "checked_at": "2026-11-03T11:40:30.183165Z"
   },
   "FIN50M": {
     "route": {
@@ -2119,7 +2119,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-02T11:50:32.962773Z"
+    "checked_at": "2026-11-03T11:40:30.183165Z"
   },
   "DLH187": {
     "route": {
@@ -4326,17 +4326,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-02T07:45:31.242524Z"
-  },
-  "THY3351": {
-    "route": {
-      "fromCity": "Van",
-      "fromIata": "VAN",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-01T11:40:29.526586Z"
   },
   "EZY17GF": {
     "route": {
@@ -10985,5 +10974,31 @@
   "NJE514E": {
     "route": null,
     "checked_at": "2026-11-03T11:30:42.968297Z"
+  },
+  "MFX7670": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Li\u00e8ge",
+      "toIata": "LGG",
+      "airlineName": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-11-03T11:40:30.183165Z"
+  },
+  "CHX71": {
+    "route": null,
+    "checked_at": "2026-11-03T11:40:30.183165Z"
+  },
+  "EWG14AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-03T11:40:30.183165Z"
   }
 }
