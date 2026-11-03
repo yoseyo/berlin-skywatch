@@ -3,12 +3,12 @@
     {
       "callsign": "EJU43LD",
       "country": "Austria",
-      "lat": 52.2957,
-      "lon": 12.7621,
-      "altKm": 2.6,
-      "speedKmh": 480,
-      "heading": 107,
-      "vertRateMs": -7.5,
+      "lat": 52.296,
+      "lon": 13.2613,
+      "altKm": 0.9,
+      "speedKmh": 360,
+      "heading": 69,
+      "vertRateMs": -6.8,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "London",
@@ -16,7 +16,35 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "N326EW",
+      "country": "United States",
+      "lat": 52.2592,
+      "lon": 13.028,
+      "altKm": 1.4,
+      "speedKmh": 452,
+      "heading": 75,
+      "vertRateMs": -4.5,
+      "category": "plane"
+    },
+    {
+      "callsign": "KLM73D",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.9128,
+      "lon": 12.8946,
+      "altKm": 12.6,
+      "speedKmh": 760,
+      "heading": 95,
+      "vertRateMs": 0,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T21:35:33.337118Z"
+  "updated_at": "2026-11-03T21:40:39.937322Z"
 }
