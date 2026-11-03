@@ -1,4 +1,52 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-03T05:20:32.909199Z"
+  "flights": [
+    {
+      "callsign": "EJU36HF",
+      "country": "Austria",
+      "lat": 52.3289,
+      "lon": 13.5631,
+      "altKm": 1.2,
+      "speedKmh": 352,
+      "heading": 203,
+      "vertRateMs": 9.4,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG8550",
+      "country": "Germany",
+      "lat": 52.4015,
+      "lon": 13.62,
+      "altKm": 1.3,
+      "speedKmh": 368,
+      "heading": 51,
+      "vertRateMs": 25.4,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Jerez de la Frontera",
+      "toIata": "XRY",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH2EE",
+      "country": "Germany",
+      "lat": 52.361,
+      "lon": 13.7556,
+      "altKm": 2.8,
+      "speedKmh": 546,
+      "heading": 180,
+      "vertRateMs": 12.7,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-03T05:25:25.297560Z"
 }
