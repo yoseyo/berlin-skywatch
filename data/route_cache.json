@@ -841,7 +841,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T21:45:29.371004Z"
+    "checked_at": "2026-11-03T21:45:34.078039Z"
   },
   "AUA26Z": {
     "route": {
@@ -2971,7 +2971,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T21:50:49.665480Z"
+    "checked_at": "2026-11-03T21:45:34.078039Z"
   },
   "EJU97CN": {
     "route": null,
@@ -4677,7 +4677,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-02T09:00:59.870618Z"
+    "checked_at": "2026-11-03T21:45:34.078039Z"
   },
   "EWG92J": {
     "route": {
@@ -5417,7 +5417,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-02T17:20:33.932476Z"
+    "checked_at": "2026-11-03T21:45:34.078039Z"
   },
   "CHX82": {
     "route": null,
@@ -5834,28 +5834,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T14:45:35.826280Z"
-  },
-  "RYR8201": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-01T21:45:31.212182Z"
-  },
-  "EWG8587": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-01T21:45:31.212182Z"
   },
   "EWG8539": {
     "route": {
@@ -10120,5 +10098,16 @@
   "N326EW": {
     "route": null,
     "checked_at": "2026-11-03T21:40:39.937322Z"
+  },
+  "EJU63AU": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-03T21:45:34.078039Z"
   }
 }
