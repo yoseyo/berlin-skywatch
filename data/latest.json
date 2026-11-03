@@ -1,36 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "WZZ5886",
-      "country": "Hungary",
-      "lat": 52.8254,
-      "lon": 12.943,
-      "altKm": 10.5,
-      "speedKmh": 861,
-      "heading": 242,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "POLICE5",
-      "country": "Germany",
-      "lat": 52.5007,
-      "lon": 12.7998,
-      "altKm": 0.6,
-      "speedKmh": 248,
-      "heading": 338,
-      "vertRateMs": 0,
-      "category": "jet"
-    },
-    {
       "callsign": "SAS1676",
       "country": "Denmark",
-      "lat": 52.3091,
-      "lon": 13.6306,
-      "altKm": 1.5,
-      "speedKmh": 367,
-      "heading": 84,
-      "vertRateMs": 12.7,
+      "lat": 52.6941,
+      "lon": 13.5944,
+      "altKm": 6.2,
+      "speedKmh": 684,
+      "heading": 348,
+      "vertRateMs": 15.3,
       "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
       "fromCity": "Berlin",
@@ -40,33 +18,22 @@
       "category": "plane"
     },
     {
-      "callsign": "GCK40",
-      "country": "Austria",
-      "lat": 52.3623,
-      "lon": 13.4622,
-      "altKm": 0.2,
-      "speedKmh": 216,
-      "heading": 69,
-      "vertRateMs": -3.2,
-      "category": "jet"
-    },
-    {
-      "callsign": "DLH715",
-      "country": "Germany",
-      "lat": 52.3129,
-      "lon": 13.554,
-      "altKm": 11.9,
-      "speedKmh": 923,
-      "heading": 178,
-      "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Tokyo",
-      "fromIata": "HND",
-      "toCity": "Munich",
-      "toIata": "MUC",
+      "callsign": "RYR27QM",
+      "country": "Ireland",
+      "lat": 52.4494,
+      "lon": 13.6567,
+      "altKm": 1.4,
+      "speedKmh": 462,
+      "heading": 20,
+      "vertRateMs": 9.1,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T14:50:30.919569Z"
+  "updated_at": "2026-11-03T14:55:23.331636Z"
 }
