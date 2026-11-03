@@ -1866,7 +1866,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-01T12:05:23.959352Z"
+    "checked_at": "2026-11-03T12:00:51.589805Z"
   },
   "DLH184": {
     "route": {
@@ -4437,17 +4437,6 @@
     },
     "checked_at": "2026-11-02T12:20:31.614703Z"
   },
-  "RYR8447": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-01T11:55:23.246082Z"
-  },
   "DLH2EJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -4985,17 +4974,6 @@
     },
     "checked_at": "2026-11-02T07:20:33.020949Z"
   },
-  "RYR64HG": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-01T12:00:51.004124Z"
-  },
   "RAM220M": {
     "route": {
       "fromCity": "Casablanca",
@@ -5139,17 +5117,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T11:10:30.296724Z"
-  },
-  "FIN96W": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-11-01T11:55:23.246082Z"
   },
   "DEHGB": {
     "route": null,
@@ -5755,25 +5722,6 @@
   "DIVVV": {
     "route": null,
     "checked_at": "2026-11-02T10:05:25.338075Z"
-  },
-  "DMVRG": {
-    "route": null,
-    "checked_at": "2026-11-01T11:55:23.246082Z"
-  },
-  "DMSGP": {
-    "route": null,
-    "checked_at": "2026-11-01T12:00:51.004124Z"
-  },
-  "RYR41SQ": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-01T12:00:51.004124Z"
   },
   "DIMIM": {
     "route": null,
@@ -10970,5 +10918,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-03T11:45:29.816589Z"
+  },
+  "EJU81TL": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-03T12:00:51.589805Z"
   }
 }
