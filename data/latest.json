@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "AEG6912",
-      "country": "Estonia",
-      "lat": 52.3413,
-      "lon": 13.828,
-      "altKm": 5.9,
-      "speedKmh": 488,
-      "heading": 67,
-      "vertRateMs": 0,
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.2853,
+      "lon": 13.5634,
+      "altKm": 9.5,
+      "speedKmh": 753,
+      "heading": 51,
+      "vertRateMs": 11.1,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T04:30:41.668528Z"
+  "updated_at": "2026-11-03T04:35:23.378383Z"
 }
