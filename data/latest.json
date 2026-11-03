@@ -1,57 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "AEG6911",
-      "country": "Estonia",
-      "lat": 52.3192,
-      "lon": 13.0435,
-      "altKm": 5.6,
-      "speedKmh": 544,
-      "heading": 253,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "EJU51RE",
+      "callsign": "EJU43LD",
       "country": "Austria",
-      "lat": 52.331,
-      "lon": 13.4078,
-      "altKm": 0.4,
-      "speedKmh": 238,
-      "heading": 68,
-      "vertRateMs": -3.2,
+      "lat": 52.2957,
+      "lon": 12.7621,
+      "altKm": 2.6,
+      "speedKmh": 480,
+      "heading": 107,
+      "vertRateMs": -7.5,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH6PX",
-      "country": "Germany",
-      "lat": 52.5369,
-      "lon": 13.9522,
-      "altKm": 10.8,
-      "speedKmh": 740,
-      "heading": 18,
-      "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "category": "plane"
-    },
-    {
-      "callsign": "SDR82CN",
-      "country": "Germany",
-      "lat": 52.3148,
-      "lon": 13.263,
-      "altKm": 1.0,
-      "speedKmh": 306,
-      "heading": 69,
-      "vertRateMs": -5.5,
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T21:30:43.126886Z"
+  "updated_at": "2026-11-03T21:35:33.337118Z"
 }
