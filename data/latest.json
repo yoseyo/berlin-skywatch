@@ -1,23 +1,36 @@
 {
   "flights": [
     {
+      "callsign": "EJU41VQ",
+      "country": "Austria",
+      "lat": 52.3604,
+      "lon": 13.532,
+      "altKm": 0.4,
+      "speedKmh": 266,
+      "heading": 71,
+      "vertRateMs": 15.0,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
       "callsign": "SERMK",
       "country": "Sweden",
-      "lat": 52.3981,
-      "lon": 13.6136,
-      "altKm": 1.4,
-      "speedKmh": 341,
-      "heading": 69,
-      "vertRateMs": 11.7,
+      "lat": 52.4092,
+      "lon": 13.6606,
+      "altKm": 1.8,
+      "speedKmh": 431,
+      "heading": 68,
+      "vertRateMs": 18.9,
       "category": "plane"
     },
     {
       "callsign": "JDI24W",
       "country": "Poland",
-      "lat": 52.6687,
-      "lon": 13.7901,
+      "lat": 52.6663,
+      "lon": 13.8913,
       "altKm": 12.0,
-      "speedKmh": 791,
+      "speedKmh": 795,
       "heading": 92,
       "vertRateMs": 0,
       "category": "plane"
@@ -26,10 +39,10 @@
       "callsign": "BAW985",
       "country": "United Kingdom",
       "lat": 52.2637,
-      "lon": 13.3366,
-      "altKm": 2.5,
-      "speedKmh": 567,
-      "heading": 270,
+      "lon": 13.263,
+      "altKm": 3.1,
+      "speedKmh": 578,
+      "heading": 271,
       "vertRateMs": 17.2,
       "airline": "British Airways",
       "airlineCountry": "United Kingdom",
@@ -40,5 +53,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T17:20:01.068118Z"
+  "updated_at": "2026-11-03T17:20:34.645641Z"
 }
