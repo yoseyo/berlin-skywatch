@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "BAW8RM",
+      "country": "United Kingdom",
+      "lat": 52.2739,
+      "lon": 13.4528,
+      "altKm": 2.2,
+      "speedKmh": 561,
+      "heading": 271,
+      "vertRateMs": 14.3,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "category": "plane"
+    },
+    {
       "callsign": "EJU36HF",
       "country": "Austria",
-      "lat": 52.3289,
-      "lon": 13.5631,
-      "altKm": 1.2,
-      "speedKmh": 352,
-      "heading": 203,
-      "vertRateMs": 9.4,
+      "lat": 52.1722,
+      "lon": 12.8853,
+      "altKm": 5.7,
+      "speedKmh": 663,
+      "heading": 256,
+      "vertRateMs": 12.3,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -20,12 +37,12 @@
     {
       "callsign": "EWG8550",
       "country": "Germany",
-      "lat": 52.4015,
-      "lon": 13.62,
-      "altKm": 1.3,
-      "speedKmh": 368,
-      "heading": 51,
-      "vertRateMs": 25.4,
+      "lat": 52.3836,
+      "lon": 13.0775,
+      "altKm": 6.6,
+      "speedKmh": 723,
+      "heading": 254,
+      "vertRateMs": 15.6,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
       "fromCity": "Berlin",
@@ -33,20 +50,7 @@
       "toCity": "Jerez de la Frontera",
       "toIata": "XRY",
       "category": "plane"
-    },
-    {
-      "callsign": "DLH2EE",
-      "country": "Germany",
-      "lat": 52.361,
-      "lon": 13.7556,
-      "altKm": 2.8,
-      "speedKmh": 546,
-      "heading": 180,
-      "vertRateMs": 12.7,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T05:25:25.297560Z"
+  "updated_at": "2026-11-03T05:30:43.436895Z"
 }
