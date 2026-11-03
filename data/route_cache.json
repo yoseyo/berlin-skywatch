@@ -3252,7 +3252,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-02T10:04:03.910882Z"
+    "checked_at": "2026-11-03T10:10:31.711703Z"
   },
   "EJU42WH": {
     "route": {
@@ -11038,5 +11038,27 @@
   "RYR161K": {
     "route": null,
     "checked_at": "2026-11-03T10:05:24.818040Z"
+  },
+  "CFG3WR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-03T10:10:31.711703Z"
+  },
+  "RYR260L": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-03T10:10:31.711703Z"
   }
 }
