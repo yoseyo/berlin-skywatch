@@ -93,7 +93,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-02T15:45:31.674832Z"
+    "checked_at": "2026-11-03T15:45:35.438323Z"
   },
   "LOT5PX": {
     "route": {
@@ -2451,7 +2451,7 @@
   },
   "PGT61NK": {
     "route": null,
-    "checked_at": "2026-11-02T17:20:33.932476Z"
+    "checked_at": "2026-11-03T15:45:35.438323Z"
   },
   "BAW848": {
     "route": {
@@ -5116,17 +5116,6 @@
     },
     "checked_at": "2026-11-03T15:30:43.614716Z"
   },
-  "CAI15XF": {
-    "route": {
-      "fromCity": "Rostock",
-      "fromIata": "RLG",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-01T15:45:28.708420Z"
-  },
   "HOP62AM": {
     "route": {
       "fromCity": "Berlin",
@@ -5666,17 +5655,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-02T15:40:32.562470Z"
-  },
-  "CFG7NY": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-01T15:45:28.708420Z"
   },
   "DKOAH": {
     "route": null,
@@ -10650,5 +10628,27 @@
   "GAF631": {
     "route": null,
     "checked_at": "2026-11-03T15:40:31.148979Z"
+  },
+  "CFG5AK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-03T15:45:35.438323Z"
+  },
+  "RYR32VB": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-03T15:45:35.438323Z"
   }
 }
