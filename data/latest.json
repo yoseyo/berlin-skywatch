@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "LGL9A",
-      "country": "Luxembourg",
-      "lat": 52.413,
-      "lon": 13.167,
-      "altKm": 5.0,
-      "speedKmh": 695,
-      "heading": 257,
-      "vertRateMs": 14.3,
-      "airline": "Luxair",
-      "airlineCountry": "Luxembourg",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Luxembourg",
-      "toIata": "LUX",
+      "callsign": "ADZ4106",
+      "country": "Bulgaria",
+      "lat": 52.5453,
+      "lon": 13.6684,
+      "altKm": 3.3,
+      "speedKmh": 547,
+      "heading": 318,
+      "vertRateMs": 15.9,
+      "category": "plane"
+    },
+    {
+      "callsign": "BAW992G",
+      "country": "United Kingdom",
+      "lat": 52.2974,
+      "lon": 13.0834,
+      "altKm": 1.5,
+      "speedKmh": 313,
+      "heading": 93,
+      "vertRateMs": -5.2,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T20:35:35.727501Z"
+  "updated_at": "2026-11-03T20:40:38.783119Z"
 }
