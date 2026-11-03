@@ -1495,7 +1495,7 @@
   },
   "RYR13BV": {
     "route": null,
-    "checked_at": "2026-11-02T08:50:33.822071Z"
+    "checked_at": "2026-11-03T20:55:28.551866Z"
   },
   "RYR7SP": {
     "route": {
@@ -10171,5 +10171,27 @@
   "PGT1616": {
     "route": null,
     "checked_at": "2026-11-03T20:15:30.172571Z"
+  },
+  "WMT8HG": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-03T20:55:28.551866Z"
+  },
+  "BCS3317": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-03T20:55:28.551866Z"
   }
 }
