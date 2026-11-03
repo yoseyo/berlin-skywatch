@@ -5682,17 +5682,6 @@
     "route": null,
     "checked_at": "2026-11-03T08:25:24.538581Z"
   },
-  "CES751": {
-    "route": {
-      "fromCity": "Wenzhou",
-      "fromIata": "WNZ",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "China Eastern Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-01T14:45:27.726734Z"
-  },
   "EJU49HX": {
     "route": {
       "fromCity": "Berlin",
@@ -10658,5 +10647,27 @@
   "AFP95": {
     "route": null,
     "checked_at": "2026-11-03T14:40:30.039974Z"
+  },
+  "ETH3708": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Hong Kong",
+      "toIata": "HKG",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-11-03T14:45:30.173068Z"
+  },
+  "GCK40": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "NHT",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-03T14:45:30.173068Z"
   }
 }
