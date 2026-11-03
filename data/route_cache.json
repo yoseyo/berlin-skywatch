@@ -49,7 +49,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-02T15:00:56.282434Z"
+    "checked_at": "2026-11-03T15:10:39.631756Z"
   },
   "KLM1779": {
     "route": {
@@ -3217,17 +3217,6 @@
     },
     "checked_at": "2026-11-03T15:00:53.188474Z"
   },
-  "THY1333": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Bremen",
-      "toIata": "BRE",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-01T15:10:27.816602Z"
-  },
   "BAW984": {
     "route": {
       "fromCity": "London",
@@ -4687,17 +4676,6 @@
     },
     "checked_at": "2026-11-02T17:45:30.962261Z"
   },
-  "RYR1GW": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Pisa",
-      "toIata": "PSA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-01T15:10:27.816602Z"
-  },
   "RYR3NR": {
     "route": {
       "fromCity": "Vienna",
@@ -4815,17 +4793,6 @@
       "airlineCountry": "Morocco"
     },
     "checked_at": "2026-11-02T02:10:35.686023Z"
-  },
-  "BBG273": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Bluebird Airways (BZ)",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-11-01T15:10:27.816602Z"
   },
   "WZZ45MY": {
     "route": null,
@@ -5680,7 +5647,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-02T14:35:32.468580Z"
+    "checked_at": "2026-11-03T15:10:39.631756Z"
   },
   "THY8DE": {
     "route": {
@@ -6379,7 +6346,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-02T15:05:24.063928Z"
+    "checked_at": "2026-11-03T15:10:39.631756Z"
   },
   "RYR252U": {
     "route": {
@@ -10647,5 +10614,27 @@
   "AXY248E": {
     "route": null,
     "checked_at": "2026-11-03T15:05:27.804976Z"
+  },
+  "WZZ1QS": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-03T15:10:39.631756Z"
+  },
+  "AAR545": {
+    "route": {
+      "fromCity": "Seoul",
+      "fromIata": "ICN",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Asiana Airlines",
+      "airlineCountry": "South Korea"
+    },
+    "checked_at": "2026-11-03T15:10:39.631756Z"
   }
 }
