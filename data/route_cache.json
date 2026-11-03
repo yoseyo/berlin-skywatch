@@ -4404,17 +4404,6 @@
     },
     "checked_at": "2026-11-03T13:55:24.368207Z"
   },
-  "AUA233": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-01T16:35:23.369375Z"
-  },
   "SWU1950": {
     "route": {
       "fromCity": "Bolzano",
@@ -5627,17 +5616,6 @@
     },
     "checked_at": "2026-11-02T16:00:54.693437Z"
   },
-  "EWG9UL": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-01T16:35:23.369375Z"
-  },
   "NJE263N": {
     "route": null,
     "checked_at": "2026-11-01T16:40:29.277779Z"
@@ -5681,7 +5659,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T16:40:42.821128Z"
+    "checked_at": "2026-11-03T16:35:26.706377Z"
   },
   "ENT1RE": {
     "route": {
@@ -8688,7 +8666,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-02T16:45:42.243044Z"
+    "checked_at": "2026-11-03T16:35:26.706377Z"
   },
   "SFG55B": {
     "route": null,
@@ -10558,5 +10536,16 @@
   "HRN221": {
     "route": null,
     "checked_at": "2026-11-03T16:25:23.308398Z"
+  },
+  "VJT480": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "\u00c5lesund",
+      "toIata": "AES",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-03T16:35:26.706377Z"
   }
 }
