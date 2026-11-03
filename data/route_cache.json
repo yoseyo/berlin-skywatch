@@ -379,7 +379,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T08:50:33.822071Z"
+    "checked_at": "2026-11-03T09:20:33.693232Z"
   },
   "DLH4X": {
     "route": {
@@ -1598,7 +1598,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-02T09:40:42.373992Z"
+    "checked_at": "2026-11-03T09:20:33.693232Z"
   },
   "EJU75ZF": {
     "route": {
@@ -1690,7 +1690,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-02T10:35:23.739089Z"
+    "checked_at": "2026-11-03T09:20:33.693232Z"
   },
   "RYR8KD": {
     "route": {
@@ -3101,7 +3101,7 @@
   },
   "EJU97CN": {
     "route": null,
-    "checked_at": "2026-11-02T20:20:35.020643Z"
+    "checked_at": "2026-11-03T09:20:33.693232Z"
   },
   "QTR33X": {
     "route": {
@@ -3263,7 +3263,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-02T09:20:34.727611Z"
+    "checked_at": "2026-11-03T09:20:33.693232Z"
   },
   "KLM75C": {
     "route": {
@@ -5841,21 +5841,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T08:00:50.887463Z"
-  },
-  "N650BR": {
-    "route": null,
-    "checked_at": "2026-11-01T09:20:29.473617Z"
-  },
-  "SAS1697": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-01T09:20:29.473617Z"
   },
   "AEE6179": {
     "route": {
@@ -11144,5 +11129,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-03T09:10:32.147437Z"
+  },
+  "SAS31T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-03T09:20:33.693232Z"
   }
 }
