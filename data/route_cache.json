@@ -2484,7 +2484,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-02T17:25:23.870041Z"
+    "checked_at": "2026-11-03T17:35:26.662210Z"
   },
   "EZY63HL": {
     "route": {
@@ -2809,7 +2809,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-02T17:25:23.870041Z"
+    "checked_at": "2026-11-03T17:35:26.662210Z"
   },
   "THY3GQ": {
     "route": {
@@ -3340,7 +3340,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-02T18:00:53.246644Z"
+    "checked_at": "2026-11-03T17:35:26.662210Z"
   },
   "ETH724": {
     "route": {
@@ -3539,17 +3539,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-03T17:15:31.771285Z"
-  },
-  "AUA99HC": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-01T17:35:22.628919Z"
   },
   "QTR75T": {
     "route": {
@@ -4970,7 +4959,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-02T17:30:53.460218Z"
+    "checked_at": "2026-11-03T17:35:26.662210Z"
   },
   "RYR99FB": {
     "route": null,
@@ -5620,28 +5609,6 @@
     "route": null,
     "checked_at": "2026-11-03T06:40:30.379338Z"
   },
-  "LOT428": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-01T17:35:22.628919Z"
-  },
-  "EWG2UE": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-01T17:35:22.628919Z"
-  },
   "EJU91XM": {
     "route": {
       "fromCity": "London",
@@ -5662,7 +5629,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-02T13:10:32.222940Z"
+    "checked_at": "2026-11-03T17:35:26.662210Z"
   },
   "EJU53YT": {
     "route": {
@@ -10481,5 +10448,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-03T17:30:46.476723Z"
+  },
+  "PGT984": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "\u0130zmir",
+      "toIata": "ADB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-03T17:35:26.662210Z"
+  },
+  "SXS2XE": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-03T17:35:26.662210Z"
   }
 }
