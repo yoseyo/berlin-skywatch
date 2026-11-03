@@ -4924,7 +4924,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-01T22:10:30.364390Z"
+    "checked_at": "2026-11-03T21:20:41.519209Z"
   },
   "RYR6SU": {
     "route": {
@@ -5838,17 +5838,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-02T16:30:43.740585Z"
-  },
-  "EWG56F": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-01T21:20:30.726387Z"
   },
   "WZZ191": {
     "route": {
@@ -10160,5 +10149,16 @@
   "N888DC": {
     "route": null,
     "checked_at": "2026-11-03T21:05:25.505390Z"
+  },
+  "KLM83K": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-11-03T21:20:41.519209Z"
   }
 }
