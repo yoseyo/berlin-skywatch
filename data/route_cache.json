@@ -555,7 +555,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-02T12:20:31.614703Z"
+    "checked_at": "2026-11-03T12:10:31.964914Z"
   },
   "KLM26L": {
     "route": {
@@ -1164,8 +1164,15 @@
     "checked_at": "2026-11-02T12:55:23.275587Z"
   },
   "EWG2JM": {
-    "route": null,
-    "checked_at": "2026-11-02T06:40:33.809777Z"
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-03T12:10:31.964914Z"
   },
   "RYR9RJ": {
     "route": {
@@ -1877,7 +1884,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T11:35:23.385362Z"
+    "checked_at": "2026-11-03T12:10:31.964914Z"
   },
   "THY9VS": {
     "route": {
@@ -5711,28 +5718,6 @@
   "DIVVV": {
     "route": null,
     "checked_at": "2026-11-02T10:05:25.338075Z"
-  },
-  "NOZ1WC": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-01T12:10:28.944841Z"
-  },
-  "BTI8EP": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-01T12:10:28.944841Z"
   },
   "NOZ87G": {
     "route": {
@@ -10907,5 +10892,17 @@
   "T7DNH": {
     "route": null,
     "checked_at": "2026-11-03T12:05:24.156518Z"
+  },
+  "LEJ110": {
+    "route": null,
+    "checked_at": "2026-11-03T12:10:31.964914Z"
+  },
+  "SFG55D": {
+    "route": null,
+    "checked_at": "2026-11-03T12:10:31.964914Z"
+  },
+  "DHTFD": {
+    "route": null,
+    "checked_at": "2026-11-03T12:10:31.964914Z"
   }
 }
