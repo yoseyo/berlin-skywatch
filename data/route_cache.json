@@ -5229,10 +5229,6 @@
     },
     "checked_at": "2026-11-02T14:20:44.813585Z"
   },
-  "GAF924": {
-    "route": null,
-    "checked_at": "2026-11-01T11:45:28.841087Z"
-  },
   "RYR69NL": {
     "route": null,
     "checked_at": "2026-11-02T17:10:35.185432Z"
@@ -5766,32 +5762,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-03T10:05:24.818040Z"
-  },
-  "NSZ4505": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-01T11:45:28.841087Z"
-  },
-  "NJE271W": {
-    "route": null,
-    "checked_at": "2026-11-01T11:45:28.841087Z"
-  },
-  "NIA8702": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Hurghada",
-      "toIata": "HRG",
-      "airlineName": "Nile Air",
-      "airlineCountry": "Egypt"
-    },
-    "checked_at": "2026-11-01T11:45:28.841087Z"
   },
   "DIVVV": {
     "route": null,
@@ -11000,5 +10970,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-03T11:40:30.183165Z"
+  },
+  "RYR77AJ": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Shannon",
+      "toIata": "SNN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-03T11:45:29.816589Z"
   }
 }
