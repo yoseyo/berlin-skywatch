@@ -1576,7 +1576,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-02T09:55:31.845498Z"
+    "checked_at": "2026-11-03T08:55:23.369363Z"
   },
   "IBE07ML": {
     "route": {
@@ -3263,7 +3263,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-02T08:35:24.579652Z"
+    "checked_at": "2026-11-03T08:55:23.369363Z"
   },
   "AFR23TP": {
     "route": {
@@ -5852,21 +5852,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-02T08:00:50.887463Z"
-  },
-  "TAH423": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Air Moorea",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-11-01T08:55:22.158027Z"
-  },
-  "NJE708B": {
-    "route": null,
-    "checked_at": "2026-11-01T08:55:22.158027Z"
   },
   "TAH345": {
     "route": {
@@ -11144,5 +11129,16 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-11-03T08:45:30.737239Z"
+  },
+  "MMF52": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-03T08:55:23.369363Z"
   }
 }
