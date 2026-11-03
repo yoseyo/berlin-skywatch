@@ -1528,7 +1528,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-02T08:45:39.089461Z"
+    "checked_at": "2026-11-03T07:40:31.401943Z"
   },
   "DLH4MJ": {
     "route": {
@@ -5350,17 +5350,6 @@
     "route": null,
     "checked_at": "2026-11-01T11:05:23.920341Z"
   },
-  "RYR48PT": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-01T07:40:29.880018Z"
-  },
   "EJU37WL": {
     "route": null,
     "checked_at": "2026-11-01T12:30:40.331863Z"
@@ -5704,7 +5693,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-02T08:15:32.153164Z"
+    "checked_at": "2026-11-03T07:40:31.401943Z"
   },
   "FIN1673": {
     "route": {
@@ -11272,5 +11261,20 @@
   "LDX600": {
     "route": null,
     "checked_at": "2026-11-03T07:35:22.992476Z"
+  },
+  "FCA1MA": {
+    "route": null,
+    "checked_at": "2026-11-03T07:40:31.401943Z"
+  },
+  "IBIS8": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": null,
+      "toCity": "Augsburg",
+      "toIata": "AGB",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-03T07:40:31.401943Z"
   }
 }
