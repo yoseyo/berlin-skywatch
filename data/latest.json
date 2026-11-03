@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-03T04:55:23.264460Z"
+  "flights": [
+    {
+      "callsign": "CSH871",
+      "country": "China",
+      "lat": 52.3359,
+      "lon": 13.4142,
+      "altKm": 11.7,
+      "speedKmh": 936,
+      "heading": 213,
+      "vertRateMs": -0.3,
+      "airline": "Shanghai Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-03T05:00:51.488658Z"
 }
