@@ -280,7 +280,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T06:55:23.966126Z"
+    "checked_at": "2026-11-03T06:55:25.559986Z"
   },
   "LOT2CM": {
     "route": {
@@ -1341,7 +1341,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-02T07:00:51.373804Z"
+    "checked_at": "2026-11-03T06:55:25.559986Z"
   },
   "RYR21VK": {
     "route": {
@@ -5911,17 +5911,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-03T06:05:25.048754Z"
-  },
-  "VKG314": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-11-01T06:55:21.757151Z"
   },
   "BTI877": {
     "route": {
@@ -11374,5 +11363,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-03T06:45:29.988210Z"
+  },
+  "RYR521U": {
+    "route": {
+      "fromCity": "Kaunas",
+      "fromIata": "KUN",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-03T06:55:25.559986Z"
   }
 }
