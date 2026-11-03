@@ -1,53 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "GAF643",
-      "country": "Germany",
-      "lat": 52.3536,
-      "lon": 13.4255,
-      "altKm": 0.3,
-      "speedKmh": 201,
-      "heading": 69,
-      "vertRateMs": -3.2,
-      "category": "jet"
-    },
-    {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.5062,
-      "lon": 13.3381,
-      "altKm": 1.0,
-      "speedKmh": 108,
-      "heading": 357,
-      "vertRateMs": -1.0,
+      "lat": 52.5088,
+      "lon": 13.3293,
+      "altKm": 0.9,
+      "speedKmh": 8,
+      "heading": 63,
+      "vertRateMs": -0.7,
       "category": "heli"
-    },
-    {
-      "callsign": "EJU84VX",
-      "country": "Austria",
-      "lat": 52.3085,
-      "lon": 13.3138,
-      "altKm": 0.7,
-      "speedKmh": 310,
-      "heading": 69,
-      "vertRateMs": -5.2,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "category": "plane"
     },
     {
       "callsign": "EWG6PR",
       "country": "Malta",
-      "lat": 52.2633,
-      "lon": 13.462,
-      "altKm": 2.0,
-      "speedKmh": 540,
-      "heading": 255,
-      "vertRateMs": 17.9,
+      "lat": 52.1831,
+      "lon": 12.7139,
+      "altKm": 6.2,
+      "speedKmh": 727,
+      "heading": 259,
+      "vertRateMs": 12.0,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-03T19:40:43.331765Z"
+  "updated_at": "2026-11-03T19:45:37.630257Z"
 }
