@@ -926,7 +926,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-03T09:30:46.518258Z"
+    "checked_at": "2026-11-04T09:30:43.508586Z"
   },
   "FIN3YX": {
     "route": {
@@ -5885,10 +5885,6 @@
     },
     "checked_at": "2026-11-04T08:55:21.722198Z"
   },
-  "RUK7BW": {
-    "route": null,
-    "checked_at": "2026-11-02T09:25:23.984983Z"
-  },
   "EWG7B": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -6926,7 +6922,7 @@
   },
   "STQ88A": {
     "route": null,
-    "checked_at": "2026-11-03T06:30:40.854667Z"
+    "checked_at": "2026-11-04T09:30:43.508586Z"
   },
   "QQE706": {
     "route": null,
@@ -9640,5 +9636,16 @@
   "ATV302": {
     "route": null,
     "checked_at": "2026-11-04T08:55:21.722198Z"
+  },
+  "PGT9SF": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-04T09:30:43.508586Z"
   }
 }
