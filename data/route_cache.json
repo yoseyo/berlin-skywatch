@@ -5764,7 +5764,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T17:30:46.476723Z"
+    "checked_at": "2026-11-04T17:10:29.277551Z"
   },
   "RYR457A": {
     "route": {
@@ -9116,5 +9116,27 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-04T17:05:24.087304Z"
+  },
+  "RYR5TJ": {
+    "route": {
+      "fromCity": "Cork",
+      "fromIata": "ORK",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T17:10:29.277551Z"
+  },
+  "RYR353": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T17:10:29.277551Z"
   }
 }
