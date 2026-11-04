@@ -4481,7 +4481,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-03T07:45:30.957796Z"
+    "checked_at": "2026-11-04T07:15:27.987094Z"
   },
   "THY2LX": {
     "route": {
@@ -5301,17 +5301,6 @@
     },
     "checked_at": "2026-11-03T16:35:26.706377Z"
   },
-  "EJU59JC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T07:10:30.300608Z"
-  },
   "LOT3JK": {
     "route": {
       "fromCity": "Warsaw",
@@ -5940,17 +5929,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-04T06:55:22.650956Z"
-  },
-  "RYR67RH": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T07:10:30.300608Z"
   },
   "FIN1AB": {
     "route": {
@@ -9925,5 +9903,27 @@
       "airlineCountry": "Canada"
     },
     "checked_at": "2026-11-04T07:00:50.558012Z"
+  },
+  "PGT1677": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-04T07:15:27.987094Z"
+  },
+  "BAW851": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-04T07:15:27.987094Z"
   }
 }
