@@ -71,7 +71,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-03T11:30:42.968297Z"
+    "checked_at": "2026-11-04T11:25:23.462829Z"
   },
   "SWR23F": {
     "route": {
@@ -346,7 +346,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-03T08:00:51.593947Z"
+    "checked_at": "2026-11-04T11:25:23.462829Z"
   },
   "SWR2HD": {
     "route": {
@@ -4406,10 +4406,6 @@
     },
     "checked_at": "2026-11-03T17:35:26.662210Z"
   },
-  "RYR99FB": {
-    "route": null,
-    "checked_at": "2026-11-02T11:20:42.145315Z"
-  },
   "RYR47HV": {
     "route": {
       "fromCity": "Gothenburg",
@@ -5799,36 +5795,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-03T19:25:32.542672Z"
-  },
-  "DLH9858": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-02T11:20:42.145315Z"
-  },
-  "MFX7616": {
-    "route": null,
-    "checked_at": "2026-11-02T11:20:42.145315Z"
-  },
-  "NJE649L": {
-    "route": null,
-    "checked_at": "2026-11-02T11:25:23.318229Z"
-  },
-  "RYR3WY": {
-    "route": {
-      "fromCity": "Podgorica",
-      "fromIata": "TGD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T11:25:23.318229Z"
   },
   "BPO504": {
     "route": null,
@@ -9404,5 +9370,16 @@
   "AMQ16A": {
     "route": null,
     "checked_at": "2026-11-04T11:20:30.200187Z"
+  },
+  "NSZ4506": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-04T11:25:23.462829Z"
   }
 }
