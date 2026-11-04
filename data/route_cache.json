@@ -2143,17 +2143,6 @@
     },
     "checked_at": "2026-11-03T17:05:27.328170Z"
   },
-  "BEL5XD": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-11-02T15:20:33.907197Z"
-  },
   "WMT5HN": {
     "route": {
       "fromCity": "Tirana",
@@ -2207,7 +2196,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T15:40:31.148979Z"
+    "checked_at": "2026-11-04T15:25:23.595625Z"
   },
   "PGT8AE": {
     "route": {
@@ -5677,33 +5666,11 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T15:25:25.750095Z"
-  },
-  "DLH3RV": {
-    "route": {
-      "fromCity": "Cagliari",
-      "fromIata": "CAG",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-02T15:20:33.907197Z"
+    "checked_at": "2026-11-04T15:25:23.595625Z"
   },
   "PIK91": {
     "route": null,
     "checked_at": "2026-11-04T13:55:26.371674Z"
-  },
-  "WZZ326": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tuzla",
-      "toIata": "TZL",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-02T15:20:33.907197Z"
   },
   "RYR5812": {
     "route": {
@@ -5759,7 +5726,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T13:40:29.061049Z"
+    "checked_at": "2026-11-04T15:25:23.595625Z"
   },
   "SWR589X": {
     "route": {
@@ -9164,5 +9131,16 @@
   "DEDLJ": {
     "route": null,
     "checked_at": "2026-11-04T15:20:29.801050Z"
+  },
+  "PLF120": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-04T15:25:23.595625Z"
   }
 }
