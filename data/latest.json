@@ -1,16 +1,35 @@
 {
   "flights": [
     {
-      "callsign": "SXS4YN",
-      "country": "Turkey",
-      "lat": 52.3686,
-      "lon": 13.4888,
-      "altKm": 0.1,
-      "speedKmh": 254,
-      "heading": 69,
-      "vertRateMs": -1.3,
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.8145,
+      "lon": 13.4364,
+      "altKm": 3.3,
+      "speedKmh": 563,
+      "heading": 203,
+      "vertRateMs": -5.5,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU48HQ",
+      "country": "Austria",
+      "lat": 52.4819,
+      "lon": 13.6579,
+      "altKm": 2.3,
+      "speedKmh": 497,
+      "heading": 346,
+      "vertRateMs": 15.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-04T05:00:50.391641Z"
+  "updated_at": "2026-11-04T05:05:25.506729Z"
 }
