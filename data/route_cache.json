@@ -2038,7 +2038,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T13:45:28.584075Z"
+    "checked_at": "2026-11-04T14:15:28.020745Z"
   },
   "DLH1EE": {
     "route": {
@@ -2049,7 +2049,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T14:30:44.141578Z"
+    "checked_at": "2026-11-04T14:15:28.020745Z"
   },
   "KLM84H": {
     "route": {
@@ -7811,7 +7811,7 @@
       "airlineName": "Air France Hop",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-03T14:20:34.313330Z"
+    "checked_at": "2026-11-04T14:15:28.020745Z"
   },
   "BFD03T": {
     "route": null,
@@ -9210,5 +9210,42 @@
   "N3787N": {
     "route": null,
     "checked_at": "2026-11-04T14:05:24.552260Z"
+  },
+  "CFG6JH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T14:15:28.020745Z"
+  },
+  "DEVSI": {
+    "route": null,
+    "checked_at": "2026-11-04T14:15:28.020745Z"
+  },
+  "IBE07FL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-11-04T14:15:28.020745Z"
+  },
+  "GAF612": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DIA",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-04T14:15:28.020745Z"
   }
 }
