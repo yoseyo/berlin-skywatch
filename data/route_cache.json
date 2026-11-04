@@ -148,7 +148,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-03T20:50:41.737817Z"
+    "checked_at": "2026-11-04T20:50:27.359276Z"
   },
   "BEL1ZK": {
     "route": {
@@ -8960,5 +8960,49 @@
   "DFFUN": {
     "route": null,
     "checked_at": "2026-11-04T20:30:41.106463Z"
+  },
+  "BAW983": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-04T20:50:27.359276Z"
+  },
+  "DLH7PV": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T20:50:27.359276Z"
+  },
+  "EWG1KG": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T20:50:27.359276Z"
+  },
+  "RYR48BZ": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T20:50:27.359276Z"
   }
 }
