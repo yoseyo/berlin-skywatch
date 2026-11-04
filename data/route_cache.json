@@ -588,7 +588,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-03T12:05:24.156518Z"
+    "checked_at": "2026-11-04T12:05:25.075131Z"
   },
   "SWR1PL": {
     "route": {
@@ -1786,17 +1786,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T12:00:51.342539Z"
-  },
-  "RYR857T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T12:05:24.490647Z"
   },
   "WZZ966": {
     "route": {
@@ -3279,7 +3268,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-11-03T12:15:29.585836Z"
+    "checked_at": "2026-11-04T12:05:25.075131Z"
   },
   "CTN481": {
     "route": {
@@ -3577,17 +3566,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-02T12:25:23.610867Z"
-  },
-  "ICE15M": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Icelandair",
-      "airlineCountry": "Iceland"
-    },
-    "checked_at": "2026-11-02T12:05:24.490647Z"
   },
   "WMT788": {
     "route": {
@@ -4637,17 +4615,6 @@
     },
     "checked_at": "2026-11-03T10:05:24.818040Z"
   },
-  "RYR13FY": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T12:00:53.571074Z"
-  },
   "BAW97ED": {
     "route": {
       "fromCity": "Berlin",
@@ -4668,7 +4635,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-02T12:15:31.836568Z"
+    "checked_at": "2026-11-04T12:05:25.075131Z"
   },
   "EJU62CM": {
     "route": {
@@ -4713,17 +4680,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-04T12:00:51.342539Z"
-  },
-  "NSZ2884": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-02T12:00:53.571074Z"
   },
   "WZZ9GN": {
     "route": {
@@ -5016,17 +4972,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-02T18:35:23.536558Z"
-  },
-  "EWG5H": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Ibiza",
-      "toIata": "IBZ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-02T12:00:53.571074Z"
   },
   "EWG4JT": {
     "route": {
@@ -9381,5 +9326,16 @@
   "NJE552N": {
     "route": null,
     "checked_at": "2026-11-04T12:00:51.342539Z"
+  },
+  "LOT29": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Miami",
+      "toIata": "MIA",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-04T12:05:25.075131Z"
   }
 }
