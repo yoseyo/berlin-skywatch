@@ -1807,7 +1807,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-03T10:30:45.329957Z"
+    "checked_at": "2026-11-04T16:30:40.790630Z"
   },
   "NOZ1104": {
     "route": {
@@ -2240,7 +2240,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T16:20:32.693751Z"
+    "checked_at": "2026-11-04T16:30:40.790630Z"
   },
   "RYR4LZ": {
     "route": null,
@@ -3496,17 +3496,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-11-03T09:50:34.979391Z"
-  },
-  "WZZ1NH": {
-    "route": {
-      "fromCity": "Yerevan",
-      "fromIata": "EVN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-02T16:25:30.299645Z"
   },
   "SXS3ZX": {
     "route": {
@@ -5629,21 +5618,6 @@
     "route": null,
     "checked_at": "2026-11-03T15:50:29.875010Z"
   },
-  "EXS9HR": {
-    "route": {
-      "fromCity": "Newcastle",
-      "fromIata": "NCL",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Jet2.com",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-02T16:25:30.299645Z"
-  },
-  "AFR25KD": {
-    "route": null,
-    "checked_at": "2026-11-02T16:25:30.299645Z"
-  },
   "N18EU": {
     "route": null,
     "checked_at": "2026-11-03T13:00:50.681322Z"
@@ -5694,7 +5668,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-03T16:35:26.706377Z"
+    "checked_at": "2026-11-04T16:30:40.790630Z"
   },
   "SFG55B": {
     "route": null,
@@ -9127,5 +9101,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T16:25:21.714787Z"
+  },
+  "BTI9AG": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-04T16:30:40.790630Z"
   }
 }
