@@ -830,7 +830,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T17:40:35.536480Z"
+    "checked_at": "2026-11-04T17:35:23.661401Z"
   },
   "DLH3X": {
     "route": {
@@ -2675,7 +2675,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-03T17:35:26.662210Z"
+    "checked_at": "2026-11-04T17:35:23.661401Z"
   },
   "THY3GQ": {
     "route": {
@@ -9083,5 +9083,16 @@
   "LDX6": {
     "route": null,
     "checked_at": "2026-11-04T17:29:34.930517Z"
+  },
+  "AUA99HC": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-04T17:35:23.661401Z"
   }
 }
