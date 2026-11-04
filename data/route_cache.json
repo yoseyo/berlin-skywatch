@@ -1851,7 +1851,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-03T12:15:29.585836Z"
+    "checked_at": "2026-11-04T12:20:34.291744Z"
   },
   "KLM29G": {
     "route": {
@@ -2156,7 +2156,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T12:25:21.998981Z"
+    "checked_at": "2026-11-04T12:20:34.291744Z"
   },
   "RYR16LA": {
     "route": {
@@ -3280,17 +3280,6 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-11-04T11:05:27.184854Z"
-  },
-  "TAP31EL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-11-02T12:15:31.836568Z"
   },
   "RYR1ZC": {
     "route": {
@@ -5744,21 +5733,6 @@
   "JBD1": {
     "route": null,
     "checked_at": "2026-11-03T14:15:33.932243Z"
-  },
-  "EJU62MH": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T12:15:31.836568Z"
-  },
-  "WZZ21KV": {
-    "route": null,
-    "checked_at": "2026-11-02T12:20:31.614703Z"
   },
   "AWH33E": {
     "route": null,
@@ -9344,5 +9318,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T12:15:30.315144Z"
+  },
+  "EJU98DB": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Heraklion",
+      "toIata": "HER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-04T12:20:34.291744Z"
   }
 }
