@@ -1458,7 +1458,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-03T07:40:31.401943Z"
+    "checked_at": "2026-11-04T08:45:28.600472Z"
   },
   "DLH4MJ": {
     "route": {
@@ -1469,7 +1469,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T08:35:27.964170Z"
+    "checked_at": "2026-11-04T08:45:28.600472Z"
   },
   "CAI62RH": {
     "route": {
@@ -2335,10 +2335,6 @@
     "route": null,
     "checked_at": "2026-11-03T16:20:32.693751Z"
   },
-  "RYR49KM": {
-    "route": null,
-    "checked_at": "2026-11-02T08:40:42.957633Z"
-  },
   "WMT844": {
     "route": {
       "fromCity": "Tirana",
@@ -2772,10 +2768,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-03T19:25:32.542672Z"
-  },
-  "EJU93CP": {
-    "route": null,
-    "checked_at": "2026-11-02T08:40:42.957633Z"
   },
   "RYR7EK": {
     "route": {
@@ -5287,17 +5279,6 @@
     "route": null,
     "checked_at": "2026-11-02T19:00:51.974501Z"
   },
-  "RYR41KP": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T08:40:42.957633Z"
-  },
   "EWG1H": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5955,17 +5936,6 @@
   "TCMKA": {
     "route": null,
     "checked_at": "2026-11-03T06:25:24.596861Z"
-  },
-  "EZY54UH": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-02T08:40:42.957633Z"
   },
   "UBD445": {
     "route": {
@@ -9822,5 +9792,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T08:30:40.442477Z"
+  },
+  "SDR14YL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-04T08:45:28.600472Z"
+  },
+  "RYS912": {
+    "route": {
+      "fromCity": "Cardiff",
+      "fromIata": "CWL",
+      "toCity": "Katowice",
+      "toIata": "KTW",
+      "airlineName": "Royal Sky",
+      "airlineCountry": "Thailand"
+    },
+    "checked_at": "2026-11-04T08:45:28.600472Z"
   }
 }
