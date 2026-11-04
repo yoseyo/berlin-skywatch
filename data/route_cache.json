@@ -854,17 +854,6 @@
     },
     "checked_at": "2026-11-03T18:50:42.926450Z"
   },
-  "SEH875": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Sky Express",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-11-02T14:55:24.932534Z"
-  },
   "SAS1680": {
     "route": {
       "fromCity": "Berlin",
@@ -1983,7 +1972,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-03T14:50:30.919569Z"
+    "checked_at": "2026-11-04T15:00:54.164413Z"
   },
   "DLH3CE": {
     "route": {
@@ -5701,17 +5690,6 @@
     },
     "checked_at": "2026-11-04T13:55:26.371674Z"
   },
-  "EWG3PH": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-02T14:55:24.932534Z"
-  },
   "NSZ4GY": {
     "route": {
       "fromCity": "Barcelona",
@@ -6982,7 +6960,7 @@
   },
   "DHBEE": {
     "route": null,
-    "checked_at": "2026-11-03T07:45:30.957796Z"
+    "checked_at": "2026-11-04T15:00:54.164413Z"
   },
   "POLICE5": {
     "route": null,
@@ -9186,5 +9164,27 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-04T14:55:22.568417Z"
+  },
+  "BEL9CK": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-11-04T15:00:54.164413Z"
+  },
+  "RYR7BD": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Brussels",
+      "toIata": "CRL",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T15:00:54.164413Z"
   }
 }
