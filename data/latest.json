@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-04T22:10:29.458017Z"
+  "flights": [
+    {
+      "callsign": "SRR6227",
+      "country": "Denmark",
+      "lat": 52.445,
+      "lon": 13.6534,
+      "altKm": 1.5,
+      "speedKmh": 486,
+      "heading": 15,
+      "vertRateMs": 12.3,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-04T22:15:34.608246Z"
 }
