@@ -3084,7 +3084,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T16:20:32.693751Z"
+    "checked_at": "2026-11-04T16:15:28.788412Z"
   },
   "BAW985": {
     "route": {
@@ -5647,17 +5647,6 @@
     },
     "checked_at": "2026-11-03T16:30:45.705247Z"
   },
-  "SAS2689": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-02T16:10:34.228731Z"
-  },
   "VLG18GY": {
     "route": {
       "fromCity": "Barcelona",
@@ -7610,7 +7599,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T16:05:24.463774Z"
+    "checked_at": "2026-11-04T16:15:28.788412Z"
   },
   "PGT983": {
     "route": {
@@ -9145,5 +9134,20 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-04T16:00:50.176821Z"
+  },
+  "DFOOD": {
+    "route": {
+      "fromCity": "Marseille",
+      "fromIata": "MRS",
+      "toCity": "Augsburg",
+      "toIata": "AGB",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-04T16:15:28.788412Z"
+  },
+  "NJE420E": {
+    "route": null,
+    "checked_at": "2026-11-04T16:15:28.788412Z"
   }
 }
