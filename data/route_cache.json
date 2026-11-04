@@ -2229,7 +2229,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-03T16:05:24.463774Z"
+    "checked_at": "2026-11-04T16:20:28.360842Z"
   },
   "EWG8EV": {
     "route": {
@@ -3376,17 +3376,6 @@
     },
     "checked_at": "2026-11-02T19:25:27.176856Z"
   },
-  "RYR58ER": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Rome",
-      "toIata": "CIA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T16:15:36.352250Z"
-  },
   "EJU64QM": {
     "route": {
       "fromCity": "Berlin",
@@ -3779,17 +3768,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T14:35:24.483253Z"
-  },
-  "EJU51QP": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T16:15:36.352250Z"
   },
   "MSR732": {
     "route": {
@@ -5657,17 +5635,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-11-03T18:45:38.792232Z"
-  },
-  "EJU69ZE": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T16:15:36.352250Z"
   },
   "EZS53ZG": {
     "route": {
@@ -9149,5 +9116,16 @@
   "NJE420E": {
     "route": null,
     "checked_at": "2026-11-04T16:15:28.788412Z"
+  },
+  "RYR49": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Treviso",
+      "toIata": "TSF",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T16:20:28.360842Z"
   }
 }
