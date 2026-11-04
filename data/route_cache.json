@@ -3312,7 +3312,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T14:00:51.506727Z"
+    "checked_at": "2026-11-04T13:40:30.438421Z"
   },
   "EJU51RE": {
     "route": {
@@ -4176,10 +4176,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-04T09:55:24.753183Z"
-  },
-  "DEHWW": {
-    "route": null,
-    "checked_at": "2026-11-02T13:35:23.249004Z"
   },
   "BAW98GL": {
     "route": {
@@ -5684,7 +5680,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-03T13:10:32.209338Z"
+    "checked_at": "2026-11-04T13:40:30.438421Z"
   },
   "LHX849": {
     "route": {
@@ -5696,28 +5692,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T13:30:41.626261Z"
-  },
-  "BAW846W": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-02T13:35:23.249004Z"
-  },
-  "GJT8VZ": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Funchal",
-      "toIata": "FNC",
-      "airlineName": "Gestion Aerea Ajecutiva",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-11-02T13:35:23.249004Z"
   },
   "DKMMF": {
     "route": null,
@@ -9262,5 +9236,20 @@
   "JET1": {
     "route": null,
     "checked_at": "2026-11-04T13:35:22.442448Z"
+  },
+  "LOT238": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-04T13:40:30.438421Z"
+  },
+  "GAF528": {
+    "route": null,
+    "checked_at": "2026-11-04T13:40:30.438421Z"
   }
 }
