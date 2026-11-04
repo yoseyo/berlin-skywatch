@@ -3824,17 +3824,6 @@
     },
     "checked_at": "2026-11-04T14:10:44.337128Z"
   },
-  "WZZ98SJ": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LTN",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-02T15:40:32.562470Z"
-  },
   "WZZ363": {
     "route": null,
     "checked_at": "2026-11-02T18:55:23.933511Z"
@@ -5685,7 +5674,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-02T15:45:31.674832Z"
+    "checked_at": "2026-11-04T15:45:29.786774Z"
   },
   "DWW949": {
     "route": null,
@@ -9164,5 +9153,16 @@
   "FIN8AQ": {
     "route": null,
     "checked_at": "2026-11-04T15:40:28.154315Z"
+  },
+  "CCA957": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-04T15:45:29.786774Z"
   }
 }
