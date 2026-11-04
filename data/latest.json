@@ -3,12 +3,12 @@
     {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.8145,
-      "lon": 13.4364,
-      "altKm": 3.3,
-      "speedKmh": 563,
+      "lat": 52.4609,
+      "lon": 13.1923,
+      "altKm": 1.9,
+      "speedKmh": 476,
       "heading": 203,
-      "vertRateMs": -5.5,
+      "vertRateMs": -6.2,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -20,16 +20,33 @@
     {
       "callsign": "EJU48HQ",
       "country": "Austria",
-      "lat": 52.4819,
-      "lon": 13.6579,
-      "altKm": 2.3,
-      "speedKmh": 497,
-      "heading": 346,
-      "vertRateMs": 15.3,
+      "lat": 52.3256,
+      "lon": 12.922,
+      "altKm": 6.1,
+      "speedKmh": 741,
+      "heading": 245,
+      "vertRateMs": 9.1,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
+      "callsign": "KLM90J",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.36,
+      "lon": 13.5293,
+      "altKm": 0.3,
+      "speedKmh": 263,
+      "heading": 68,
+      "vertRateMs": 13.7,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-04T05:05:25.506729Z"
+  "updated_at": "2026-11-04T05:10:30.512361Z"
 }
