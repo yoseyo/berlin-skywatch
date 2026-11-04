@@ -2823,7 +2823,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-03T10:55:24.170167Z"
+    "checked_at": "2026-11-04T11:10:35.176796Z"
   },
   "SXS94C": {
     "route": null,
@@ -4257,17 +4257,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-03T11:00:55.288275Z"
-  },
-  "RYR29SC": {
-    "route": {
-      "fromCity": "Tallinn",
-      "fromIata": "TLL",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T11:10:30.296724Z"
   },
   "RYR29NN": {
     "route": {
@@ -5799,10 +5788,6 @@
   "LYF345": {
     "route": null,
     "checked_at": "2026-11-03T08:35:27.964170Z"
-  },
-  "PTO8825": {
-    "route": null,
-    "checked_at": "2026-11-02T11:10:30.296724Z"
   },
   "FIN5BM": {
     "route": {
@@ -9411,5 +9396,20 @@
   "HUE222": {
     "route": null,
     "checked_at": "2026-11-04T11:05:27.184854Z"
+  },
+  "TAP53LB": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-11-04T11:10:35.176796Z"
+  },
+  "RJA23H": {
+    "route": null,
+    "checked_at": "2026-11-04T11:10:35.176796Z"
   }
 }
