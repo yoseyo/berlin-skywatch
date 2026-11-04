@@ -959,7 +959,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-11-03T16:45:30.706034Z"
+    "checked_at": "2026-11-04T16:55:21.783240Z"
   },
   "BBG272": {
     "route": {
@@ -2296,7 +2296,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T16:45:30.706034Z"
+    "checked_at": "2026-11-04T16:55:21.783240Z"
   },
   "THY3PC": {
     "route": {
@@ -5643,17 +5643,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-11-04T16:30:40.790630Z"
-  },
-  "SDR11DL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-02T16:50:32.195505Z"
   },
   "AZG8990": {
     "route": {
@@ -9094,5 +9083,16 @@
   "DCUVH": {
     "route": null,
     "checked_at": "2026-11-04T16:50:28.812670Z"
+  },
+  "LOT3": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Chicago",
+      "toIata": "ORD",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-04T16:55:21.783240Z"
   }
 }
