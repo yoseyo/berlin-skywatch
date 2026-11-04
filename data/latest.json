@@ -1,48 +1,27 @@
 {
   "flights": [
     {
-      "callsign": "AUA99B",
+      "callsign": "EJU84VX",
       "country": "Austria",
-      "lat": 52.3721,
-      "lon": 13.9632,
-      "altKm": 12.1,
-      "speedKmh": 784,
-      "heading": 170,
-      "vertRateMs": 0.3,
-      "airline": "Austrian Airlines",
+      "lat": 52.306,
+      "lon": 13.3035,
+      "altKm": 0.7,
+      "speedKmh": 301,
+      "heading": 69,
+      "vertRateMs": -3.6,
+      "airline": "easyJet Europe",
       "airlineCountry": "Austria",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR76SL",
-      "country": "Poland",
-      "lat": 52.5993,
-      "lon": 13.5941,
-      "altKm": 12.1,
-      "speedKmh": 709,
-      "heading": 96,
-      "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
       "category": "plane"
     },
     {
       "callsign": "EZY98TR",
       "country": "United Kingdom",
-      "lat": 52.2806,
-      "lon": 13.0824,
-      "altKm": 1.6,
-      "speedKmh": 375,
-      "heading": 108,
-      "vertRateMs": -4.2,
+      "lat": 52.3346,
+      "lon": 13.4227,
+      "altKm": 0.3,
+      "speedKmh": 236,
+      "heading": 69,
+      "vertRateMs": -3.6,
       "airline": "easyJet",
       "airlineCountry": "United Kingdom",
       "fromCity": "London",
@@ -50,7 +29,18 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "AYJ453",
+      "country": "Germany",
+      "lat": 52.3826,
+      "lon": 13.5477,
+      "altKm": 1.0,
+      "speedKmh": 329,
+      "heading": 69,
+      "vertRateMs": 24.4,
+      "category": "jet"
     }
   ],
-  "updated_at": "2026-11-04T19:40:28.737564Z"
+  "updated_at": "2026-11-04T19:45:27.782875Z"
 }
