@@ -1282,7 +1282,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-03T19:05:26.472851Z"
+    "checked_at": "2026-11-04T19:35:40.956929Z"
   },
   "WZZ173": {
     "route": {
@@ -2561,7 +2561,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T19:50:32.871121Z"
+    "checked_at": "2026-11-04T19:35:40.956929Z"
   },
   "IBE07WB": {
     "route": {
@@ -3080,7 +3080,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-03T19:25:32.542672Z"
+    "checked_at": "2026-11-04T19:35:40.956929Z"
   },
   "UAE98V": {
     "route": {
@@ -3459,17 +3459,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-03T13:20:32.520304Z"
-  },
-  "VLG22VF": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Vueling Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-11-02T19:30:43.247802Z"
   },
   "BEL9NK": {
     "route": {
@@ -5658,17 +5647,6 @@
   "FIN7AX": {
     "route": null,
     "checked_at": "2026-11-03T19:10:42.741460Z"
-  },
-  "RYR15HL": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T19:30:43.247802Z"
   },
   "ETH725": {
     "route": {
@@ -9048,5 +9026,16 @@
   "KMM376": {
     "route": null,
     "checked_at": "2026-11-04T19:30:40.443973Z"
+  },
+  "AUA99B": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-04T19:35:40.956929Z"
   }
 }
