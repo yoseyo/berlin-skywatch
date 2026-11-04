@@ -1,16 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "CEF145",
-      "country": "Czech Republic",
-      "lat": 52.751,
-      "lon": 13.9871,
-      "altKm": 3.2,
-      "speedKmh": 292,
-      "heading": 354,
-      "vertRateMs": 0.3,
+      "callsign": "ADZ4006",
+      "country": "Bulgaria",
+      "lat": 52.1776,
+      "lon": 12.9082,
+      "altKm": 2.2,
+      "speedKmh": 472,
+      "heading": 49,
+      "vertRateMs": -9.4,
+      "airline": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS4YN",
+      "country": "Turkey",
+      "lat": 52.1013,
+      "lon": 13.4488,
+      "altKm": 4.4,
+      "speedKmh": 602,
+      "heading": 287,
+      "vertRateMs": -10.1,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-04T04:45:29.789851Z"
+  "updated_at": "2026-11-04T04:50:32.593850Z"
 }
