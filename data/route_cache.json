@@ -1392,7 +1392,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-03T08:00:51.593947Z"
+    "checked_at": "2026-11-04T07:55:25.515791Z"
   },
   "EJU68CT": {
     "route": {
@@ -5930,17 +5930,6 @@
     },
     "checked_at": "2026-11-03T07:25:25.683373Z"
   },
-  "WZZ8GS": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-02T07:50:32.915309Z"
-  },
   "LOT403": {
     "route": {
       "fromCity": "Warsaw",
@@ -5963,21 +5952,6 @@
     },
     "checked_at": "2026-11-03T07:55:23.407687Z"
   },
-  "LOT4HW": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-02T07:55:23.909272Z"
-  },
-  "ATV103": {
-    "route": null,
-    "checked_at": "2026-11-02T07:55:23.909272Z"
-  },
   "CFG432": {
     "route": {
       "fromCity": "Munich",
@@ -5987,7 +5961,7 @@
       "airlineName": "Condor Flugdienst",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T08:00:51.593947Z"
+    "checked_at": "2026-11-04T07:55:25.515791Z"
   },
   "RUK176": {
     "route": {
@@ -9888,5 +9862,20 @@
   "DINNA": {
     "route": null,
     "checked_at": "2026-11-04T07:50:32.485036Z"
+  },
+  "GAF013": {
+    "route": null,
+    "checked_at": "2026-11-04T07:55:25.515791Z"
+  },
+  "RYR41SQ": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T07:55:25.515791Z"
   }
 }
