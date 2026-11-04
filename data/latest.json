@@ -1,27 +1,50 @@
 {
   "flights": [
     {
-      "callsign": "PGT1617",
-      "country": "Turkey",
-      "lat": 52.3538,
-      "lon": 13.4265,
-      "altKm": 0.3,
-      "speedKmh": 201,
-      "heading": 69,
-      "vertRateMs": -2.6,
-      "category": "plane"
-    },
-    {
       "callsign": "CEF145",
       "country": "Czech Republic",
-      "lat": 52.3113,
-      "lon": 14.0632,
+      "lat": 52.5354,
+      "lon": 14.0246,
       "altKm": 3.2,
-      "speedKmh": 296,
+      "speedKmh": 290,
       "heading": 354,
       "vertRateMs": 0,
       "category": "plane"
+    },
+    {
+      "callsign": "SRN1988",
+      "country": "Poland",
+      "lat": 52.1864,
+      "lon": 13.6594,
+      "altKm": 6.5,
+      "speedKmh": 456,
+      "heading": 64,
+      "vertRateMs": 0.3,
+      "airline": "Sirair",
+      "airlineCountry": "Russia",
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "category": "plane"
+    },
+    {
+      "callsign": "CAL067",
+      "country": "Taiwan",
+      "lat": 52.648,
+      "lon": 14.0617,
+      "altKm": 12.3,
+      "speedKmh": 960,
+      "heading": 206,
+      "vertRateMs": -0.3,
+      "airline": "China Airlines",
+      "airlineCountry": "Taiwan",
+      "fromCity": "Taipei",
+      "fromIata": "TPE",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-04T04:35:24.448226Z"
+  "updated_at": "2026-11-04T04:40:32.785746Z"
 }
