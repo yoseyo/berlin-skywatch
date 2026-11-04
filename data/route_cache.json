@@ -1029,7 +1029,7 @@
   },
   "BPOBER": {
     "route": null,
-    "checked_at": "2026-11-04T01:05:24.465593Z"
+    "checked_at": "2026-11-04T16:25:21.714787Z"
   },
   "FIN5R": {
     "route": {
@@ -3736,17 +3736,6 @@
     },
     "checked_at": "2026-11-03T13:10:32.209338Z"
   },
-  "WZZ2297": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Riyadh",
-      "toIata": "RUH",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-02T16:20:32.729376Z"
-  },
   "DLH891": {
     "route": {
       "fromCity": "Riga",
@@ -3973,7 +3962,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-03T15:40:31.148979Z"
+    "checked_at": "2026-11-04T16:25:21.714787Z"
   },
   "LOT4PJ": {
     "route": {
@@ -5635,17 +5624,6 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-11-03T18:45:38.792232Z"
-  },
-  "EZS53ZG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-11-02T16:20:32.729376Z"
   },
   "GAF649": {
     "route": null,
@@ -9127,5 +9105,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-04T16:20:28.360842Z"
+  },
+  "ISR256": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-04T16:25:21.714787Z"
+  },
+  "EWG8213": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T16:25:21.714787Z"
   }
 }
