@@ -1719,7 +1719,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-03T09:30:46.518258Z"
+    "checked_at": "2026-11-04T15:30:44.519245Z"
   },
   "PGT39DV": {
     "route": {
@@ -3040,7 +3040,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-03T15:55:25.445095Z"
+    "checked_at": "2026-11-04T15:30:44.519245Z"
   },
   "CES787": {
     "route": {
@@ -4559,17 +4559,6 @@
     },
     "checked_at": "2026-11-04T14:35:24.483253Z"
   },
-  "THY8DE": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Seattle",
-      "toIata": "SEA",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-02T15:25:28.783424Z"
-  },
   "SXS4FN": {
     "route": {
       "fromCity": "Antalya",
@@ -4634,8 +4623,15 @@
     "checked_at": "2026-11-02T16:00:54.693437Z"
   },
   "EWG52K": {
-    "route": null,
-    "checked_at": "2026-11-03T15:00:53.188474Z"
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T15:30:44.519245Z"
   },
   "EWG9YR": {
     "route": {
@@ -5671,17 +5667,6 @@
   "PIK91": {
     "route": null,
     "checked_at": "2026-11-04T13:55:26.371674Z"
-  },
-  "RYR5812": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "CRL",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T15:25:28.783424Z"
   },
   "PBW16": {
     "route": null,
@@ -9142,5 +9127,16 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-04T15:25:23.595625Z"
+  },
+  "DLH3RV": {
+    "route": {
+      "fromCity": "Cagliari",
+      "fromIata": "CAG",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T15:30:44.519245Z"
   }
 }
