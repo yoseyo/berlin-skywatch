@@ -4085,17 +4085,6 @@
     },
     "checked_at": "2026-11-03T11:00:55.288275Z"
   },
-  "RYR29NN": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T15:15:30.483117Z"
-  },
   "CFE76JZ": {
     "route": {
       "fromCity": "London",
@@ -9149,5 +9138,31 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-04T15:11:08.860539Z"
+  },
+  "RYR8MQ": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T15:20:29.801050Z"
+  },
+  "RYR67RH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T15:20:29.801050Z"
+  },
+  "DEDLJ": {
+    "route": null,
+    "checked_at": "2026-11-04T15:20:29.801050Z"
   }
 }
