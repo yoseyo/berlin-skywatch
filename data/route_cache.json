@@ -948,7 +948,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-03T16:20:32.693751Z"
+    "checked_at": "2026-11-04T17:15:31.949791Z"
   },
   "DMS2RV": {
     "route": {
@@ -3308,7 +3308,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-03T17:15:31.771285Z"
+    "checked_at": "2026-11-04T17:15:31.949791Z"
   },
   "QTR75T": {
     "route": {
@@ -4008,10 +4008,6 @@
     },
     "checked_at": "2026-11-04T09:55:24.753183Z"
   },
-  "RYR69NL": {
-    "route": null,
-    "checked_at": "2026-11-02T17:10:35.185432Z"
-  },
   "EJU71AJ": {
     "route": {
       "fromCity": "Paris",
@@ -4587,7 +4583,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T17:35:26.662210Z"
+    "checked_at": "2026-11-04T17:15:31.949791Z"
   },
   "EJU56QD": {
     "route": {
@@ -5658,39 +5654,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-04T17:00:53.968785Z"
-  },
-  "DKH1667": {
-    "route": {
-      "fromCity": "Zhengzhou",
-      "fromIata": "CGO",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Juneyao Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-02T17:10:35.185432Z"
-  },
-  "RYR22EH": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T17:10:35.185432Z"
-  },
-  "LBT232": {
-    "route": {
-      "fromCity": "Tunis",
-      "fromIata": "TUN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-11-02T17:10:35.185432Z"
   },
   "DCS603": {
     "route": null,
@@ -7809,7 +7772,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T21:45:34.078039Z"
+    "checked_at": "2026-11-04T17:15:31.949791Z"
   },
   "BCS8EL": {
     "route": {
@@ -9138,5 +9101,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-04T17:10:29.277551Z"
+  },
+  "UAE61": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-11-04T17:15:31.949791Z"
   }
 }
