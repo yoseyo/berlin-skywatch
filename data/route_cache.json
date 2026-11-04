@@ -566,7 +566,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-03T11:15:29.202846Z"
+    "checked_at": "2026-11-04T11:35:24.622441Z"
   },
   "KLC21A": {
     "route": {
@@ -3839,17 +3839,6 @@
     },
     "checked_at": "2026-11-04T10:30:47.738441Z"
   },
-  "WZZ1039": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-02T11:35:23.385362Z"
-  },
   "DLH894": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -4405,17 +4394,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-03T17:35:26.662210Z"
-  },
-  "RYR47HV": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Banja Luka",
-      "toIata": "BNX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T11:30:45.894327Z"
   },
   "RYR24YB": {
     "route": {
@@ -5208,17 +5186,6 @@
     },
     "checked_at": "2026-11-03T10:25:26.718110Z"
   },
-  "EJU47EH": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T11:30:45.894327Z"
-  },
   "LOT285": {
     "route": {
       "fromCity": "Warsaw",
@@ -5795,10 +5762,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-03T19:25:32.542672Z"
-  },
-  "BPO504": {
-    "route": null,
-    "checked_at": "2026-11-02T11:30:45.894327Z"
   },
   "SXS9EF": {
     "route": {
@@ -9392,5 +9355,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T11:30:41.651595Z"
+  },
+  "GTI8019": {
+    "route": {
+      "fromCity": "Cincinnati / Covington",
+      "fromIata": "CVG",
+      "toCity": "Tacoma",
+      "toIata": "TCM",
+      "airlineName": "Atlas Air",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-11-04T11:35:24.622441Z"
   }
 }
