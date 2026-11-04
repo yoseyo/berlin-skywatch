@@ -2574,10 +2574,6 @@
     },
     "checked_at": "2026-11-04T19:10:27.899781Z"
   },
-  "EZY98TR": {
-    "route": null,
-    "checked_at": "2026-11-02T19:25:27.176856Z"
-  },
   "WZZ1078": {
     "route": {
       "fromCity": "Agadir (Temsia)",
@@ -3320,17 +3316,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-03T20:00:52.651648Z"
-  },
-  "EJU15QB": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T19:25:27.176856Z"
   },
   "EJU64QM": {
     "route": {
@@ -5200,7 +5185,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T19:25:32.542672Z"
+    "checked_at": "2026-11-04T19:30:40.443973Z"
   },
   "SXS9EF": {
     "route": {
@@ -5673,17 +5658,6 @@
   "FIN7AX": {
     "route": null,
     "checked_at": "2026-11-03T19:10:42.741460Z"
-  },
-  "RYR298": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T19:25:27.176856Z"
   },
   "RYR15HL": {
     "route": {
@@ -9048,5 +9022,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-04T19:15:28.975077Z"
+  },
+  "BTI8GC": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-04T19:30:40.443973Z"
+  },
+  "EIN33W": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Aer Lingus",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T19:30:40.443973Z"
+  },
+  "KMM376": {
+    "route": null,
+    "checked_at": "2026-11-04T19:30:40.443973Z"
   }
 }
