@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "T7AMY",
+      "country": "San Marino",
+      "lat": 52.5265,
+      "lon": 13.3162,
+      "altKm": 12.0,
+      "speedKmh": 954,
+      "heading": 297,
+      "vertRateMs": -7.8,
+      "category": "plane"
+    },
+    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.4609,
-      "lon": 13.1923,
-      "altKm": 1.9,
-      "speedKmh": 476,
-      "heading": 203,
-      "vertRateMs": -6.2,
+      "lat": 52.3036,
+      "lon": 13.2932,
+      "altKm": 0.8,
+      "speedKmh": 310,
+      "heading": 69,
+      "vertRateMs": -2.6,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -18,35 +29,22 @@
       "category": "plane"
     },
     {
-      "callsign": "EJU48HQ",
-      "country": "Austria",
-      "lat": 52.3256,
-      "lon": 12.922,
-      "altKm": 6.1,
-      "speedKmh": 741,
-      "heading": 245,
-      "vertRateMs": 9.1,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "category": "plane"
-    },
-    {
       "callsign": "KLM90J",
       "country": "Kingdom of the Netherlands",
-      "lat": 52.36,
-      "lon": 13.5293,
-      "altKm": 0.3,
-      "speedKmh": 263,
-      "heading": 68,
-      "vertRateMs": 13.7,
+      "lat": 52.2734,
+      "lon": 13.0894,
+      "altKm": 4.4,
+      "speedKmh": 611,
+      "heading": 275,
+      "vertRateMs": 16.9,
       "airline": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands",
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-04T05:10:30.512361Z"
+  "updated_at": "2026-11-04T05:15:30.605485Z"
 }
