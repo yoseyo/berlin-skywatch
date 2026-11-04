@@ -3308,7 +3308,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-11-03T18:35:32.226204Z"
+    "checked_at": "2026-11-04T18:35:22.682979Z"
   },
   "EWG1TZ": {
     "route": {
@@ -5702,7 +5702,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-11-02T18:40:42.574666Z"
+    "checked_at": "2026-11-04T18:35:22.682979Z"
   },
   "LBT233": {
     "route": {
@@ -9068,5 +9068,27 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-11-04T18:25:22.181653Z"
+  },
+  "FIN01AD": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-04T18:35:22.682979Z"
+  },
+  "RYR1FQ": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-04T18:35:22.682979Z"
   }
 }
