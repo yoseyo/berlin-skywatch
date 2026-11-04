@@ -830,7 +830,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T21:45:34.078039Z"
+    "checked_at": "2026-11-04T21:50:27.436177Z"
   },
   "AUA26Z": {
     "route": {
@@ -2786,11 +2786,18 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T21:45:34.078039Z"
+    "checked_at": "2026-11-04T21:50:27.436177Z"
   },
   "EJU97CN": {
-    "route": null,
-    "checked_at": "2026-11-03T09:20:33.693232Z"
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-04T21:50:27.436177Z"
   },
   "QTR33X": {
     "route": {
@@ -4574,7 +4581,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T12:50:29.457715Z"
+    "checked_at": "2026-11-04T21:50:27.436177Z"
   },
   "EJU42RB": {
     "route": {
@@ -5576,7 +5583,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-02T22:05:24.591295Z"
+    "checked_at": "2026-11-04T21:50:27.436177Z"
   },
   "SRR6227": {
     "route": {
@@ -8938,5 +8945,9 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-04T21:20:28.842486Z"
+  },
+  "RYR45GY": {
+    "route": null,
+    "checked_at": "2026-11-04T21:50:27.436177Z"
   }
 }
