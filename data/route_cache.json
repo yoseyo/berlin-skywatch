@@ -1403,7 +1403,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T07:10:32.508952Z"
+    "checked_at": "2026-11-04T08:10:31.109362Z"
   },
   "VLG48LZ": {
     "route": {
@@ -5972,7 +5972,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T08:20:32.150782Z"
+    "checked_at": "2026-11-04T08:10:31.109362Z"
   },
   "EWG5NR": {
     "route": {
@@ -8792,7 +8792,7 @@
   },
   "DHTFD": {
     "route": null,
-    "checked_at": "2026-11-03T12:10:31.964914Z"
+    "checked_at": "2026-11-04T08:10:31.109362Z"
   },
   "AOJ98T": {
     "route": null,
@@ -9852,5 +9852,38 @@
   "NJE825N": {
     "route": null,
     "checked_at": "2026-11-04T08:05:26.822453Z"
+  },
+  "CFG1RV": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T08:10:31.109362Z"
+  },
+  "LOT4HW": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-04T08:10:31.109362Z"
+  },
+  "NOS374": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Punta Cana",
+      "toIata": "PUJ",
+      "airlineName": "Neos",
+      "airlineCountry": "Italy"
+    },
+    "checked_at": "2026-11-04T08:10:31.109362Z"
   }
 }
