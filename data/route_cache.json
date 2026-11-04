@@ -1686,7 +1686,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-03T10:35:23.336564Z"
+    "checked_at": "2026-11-04T10:40:31.265474Z"
   },
   "RYR158L": {
     "route": {
@@ -3077,7 +3077,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T10:30:45.329957Z"
+    "checked_at": "2026-11-04T10:40:31.265474Z"
   },
   "DLH1MF": {
     "route": {
@@ -3944,7 +3944,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-03T13:05:24.848835Z"
+    "checked_at": "2026-11-04T10:40:31.265474Z"
   },
   "DLH6EK": {
     "route": {
@@ -7813,7 +7813,7 @@
   },
   "POLICE5": {
     "route": null,
-    "checked_at": "2026-11-03T07:50:33.038330Z"
+    "checked_at": "2026-11-04T10:40:31.265474Z"
   },
   "WZZ2LF": {
     "route": {
@@ -9507,5 +9507,27 @@
   "LHB7": {
     "route": null,
     "checked_at": "2026-11-04T10:30:47.738441Z"
+  },
+  "VJT904": {
+    "route": {
+      "fromCity": "Miami",
+      "fromIata": "OPF",
+      "toCity": "Paris",
+      "toIata": "LBG",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-04T10:40:31.265474Z"
+  },
+  "EWG8186": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T10:40:31.265474Z"
   }
 }
