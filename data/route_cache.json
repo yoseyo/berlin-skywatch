@@ -159,7 +159,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-03T21:00:53.295354Z"
+    "checked_at": "2026-11-04T21:10:29.297422Z"
   },
   "AUA239": {
     "route": {
@@ -181,7 +181,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-03T21:10:37.076138Z"
+    "checked_at": "2026-11-04T21:10:29.297422Z"
   },
   "SWR9LC": {
     "route": {
@@ -4477,17 +4477,6 @@
     },
     "checked_at": "2026-11-04T12:40:29.655092Z"
   },
-  "WMT7KQ": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Bucharest",
-      "toIata": "BBU",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-11-02T21:05:28.927713Z"
-  },
   "EWG6PR": {
     "route": {
       "fromCity": "Vienna",
@@ -5562,17 +5551,6 @@
   "ADZ4106": {
     "route": null,
     "checked_at": "2026-11-04T20:30:41.106463Z"
-  },
-  "RYR78BG": {
-    "route": {
-      "fromCity": "Krak\u00f3w",
-      "fromIata": "KRK",
-      "toCity": "Shannon",
-      "toIata": "SNN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T21:05:28.927713Z"
   },
   "EJU56MK": {
     "route": {
@@ -8993,5 +8971,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-04T21:00:49.464030Z"
+  },
+  "SRN1987": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "Sirair",
+      "airlineCountry": "Russia"
+    },
+    "checked_at": "2026-11-04T21:10:29.297422Z"
+  },
+  "EWG7NE": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T21:10:29.297422Z"
   }
 }
