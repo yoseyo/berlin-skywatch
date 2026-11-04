@@ -2270,7 +2270,7 @@
   },
   "WZZ82UE": {
     "route": null,
-    "checked_at": "2026-11-03T14:40:30.039974Z"
+    "checked_at": "2026-11-04T14:55:22.568417Z"
   },
   "TKJ1AV": {
     "route": null,
@@ -3051,7 +3051,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T15:00:53.188474Z"
+    "checked_at": "2026-11-04T14:55:22.568417Z"
   },
   "BAW984": {
     "route": {
@@ -3948,17 +3948,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-11-02T17:35:27.006245Z"
-  },
-  "RYR873P": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T14:50:33.387600Z"
   },
   "RYR5RG": {
     "route": {
@@ -5686,42 +5675,9 @@
     },
     "checked_at": "2026-11-04T11:30:41.651595Z"
   },
-  "RYR6LZ": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-02T14:50:33.387600Z"
-  },
-  "AFR61ER": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-11-02T14:50:33.387600Z"
-  },
   "QGA50P": {
     "route": null,
     "checked_at": "2026-11-04T11:40:33.260275Z"
-  },
-  "EWG6FB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bilbao",
-      "toIata": "BIO",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-02T14:50:33.387600Z"
   },
   "DFEIC": {
     "route": {
@@ -9208,5 +9164,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-04T14:45:27.574785Z"
+  },
+  "CCA939": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-04T14:55:22.568417Z"
+  },
+  "CCA931": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-04T14:55:22.568417Z"
   }
 }
