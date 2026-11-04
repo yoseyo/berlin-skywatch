@@ -742,7 +742,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-02T21:20:36.732541Z"
+    "checked_at": "2026-11-04T21:00:49.464030Z"
   },
   "LOT6PA": {
     "route": {
@@ -3434,10 +3434,6 @@
     },
     "checked_at": "2026-11-03T13:20:32.520304Z"
   },
-  "VLG1075": {
-    "route": null,
-    "checked_at": "2026-11-02T20:55:27.798868Z"
-  },
   "DLH898": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -3447,18 +3443,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T20:50:41.737817Z"
-  },
-  "EJU64BR": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T20:55:27.798868Z"
+    "checked_at": "2026-11-04T21:00:49.464030Z"
   },
   "SAS661": {
     "route": {
@@ -3979,7 +3964,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-03T20:40:38.783119Z"
+    "checked_at": "2026-11-04T21:00:49.464030Z"
   },
   "EJU53NR": {
     "route": {
@@ -9008,5 +8993,16 @@
   "KMM377": {
     "route": null,
     "checked_at": "2026-11-04T20:55:22.723843Z"
+  },
+  "EZY26YP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-04T21:00:49.464030Z"
   }
 }
