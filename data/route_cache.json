@@ -2126,7 +2126,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-03T14:35:23.484123Z"
+    "checked_at": "2026-11-04T14:35:24.483253Z"
   },
   "WMT7KX": {
     "route": null,
@@ -2229,7 +2229,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-03T14:15:33.932243Z"
+    "checked_at": "2026-11-04T14:35:24.483253Z"
   },
   "QTR73F": {
     "route": {
@@ -3844,7 +3844,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T14:40:30.039974Z"
+    "checked_at": "2026-11-04T14:35:24.483253Z"
   },
   "EJU51QP": {
     "route": {
@@ -4623,7 +4623,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-03T15:10:39.631756Z"
+    "checked_at": "2026-11-04T14:35:24.483253Z"
   },
   "THY8DE": {
     "route": {
@@ -5692,17 +5692,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-04T09:05:23.532569Z"
-  },
-  "NSZ5651": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-02T14:30:46.166965Z"
   },
   "RYR8FM": {
     "route": {
@@ -9218,5 +9207,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-04T14:30:43.393450Z"
+  },
+  "BAW98GL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-04T14:35:24.483253Z"
+  },
+  "BTI3FL": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-04T14:35:24.483253Z"
+  },
+  "NJE146K": {
+    "route": null,
+    "checked_at": "2026-11-04T14:35:24.483253Z"
   }
 }
