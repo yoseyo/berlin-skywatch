@@ -368,7 +368,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-03T08:15:32.561442Z"
+    "checked_at": "2026-11-04T08:30:40.442477Z"
   },
   "DLH175": {
     "route": {
@@ -2797,7 +2797,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-03T10:45:32.382574Z"
+    "checked_at": "2026-11-04T08:30:40.442477Z"
   },
   "SAS95W": {
     "route": {
@@ -5995,32 +5995,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-04T08:20:29.796815Z"
-  },
-  "PGT982": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-02T08:25:34.656645Z"
-  },
-  "HCR10": {
-    "route": null,
-    "checked_at": "2026-11-02T08:25:34.656645Z"
-  },
-  "SDR10EL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-02T08:25:34.656645Z"
   },
   "CKK215": {
     "route": {
@@ -9881,5 +9855,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-04T08:15:30.829361Z"
+  },
+  "FHM7172": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "Freebird Airlines Europe",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-04T08:30:40.442477Z"
+  },
+  "DLH477": {
+    "route": {
+      "fromCity": "Vancouver",
+      "fromIata": "YVR",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-04T08:30:40.442477Z"
   }
 }
