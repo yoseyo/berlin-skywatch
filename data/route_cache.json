@@ -753,7 +753,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-03T19:50:32.871121Z"
+    "checked_at": "2026-11-04T20:05:23.827398Z"
   },
   "BAW844": {
     "route": {
@@ -2653,7 +2653,7 @@
   },
   "LOT1MZ": {
     "route": null,
-    "checked_at": "2026-11-03T20:05:24.733661Z"
+    "checked_at": "2026-11-04T20:05:23.827398Z"
   },
   "LOT4CT": {
     "route": null,
@@ -5615,17 +5615,6 @@
     "route": null,
     "checked_at": "2026-11-03T19:10:42.741460Z"
   },
-  "EJU42FE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-02T20:00:51.601890Z"
-  },
   "TAY5DN": {
     "route": {
       "fromCity": "Paris",
@@ -5635,7 +5624,7 @@
       "airlineName": "ASL Airlines Belgium",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-03T20:05:24.733661Z"
+    "checked_at": "2026-11-04T20:05:23.827398Z"
   },
   "TVF14XF": {
     "route": {
@@ -9004,5 +8993,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-04T20:00:49.016625Z"
+  },
+  "AUA238N": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-04T20:05:23.827398Z"
+  },
+  "BAW91J": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-04T20:05:23.827398Z"
   }
 }
