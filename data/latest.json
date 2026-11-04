@@ -1,42 +1,44 @@
 {
   "flights": [
     {
-      "callsign": "KLM27F",
-      "country": "Kingdom of the Netherlands",
-      "lat": 52.3149,
-      "lon": 13.2639,
-      "altKm": 1.0,
-      "speedKmh": 282,
-      "heading": 68,
-      "vertRateMs": -4.2,
-      "airline": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands",
+      "callsign": "EJU84EP",
+      "country": "Austria",
+      "lat": 52.1012,
+      "lon": 13.0164,
+      "altKm": 2.4,
+      "speedKmh": 502,
+      "heading": 25,
+      "vertRateMs": -11.7,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS94C",
+      "country": "Turkey",
+      "lat": 52.3383,
+      "lon": 13.5656,
+      "altKm": 1.1,
+      "speedKmh": 253,
+      "heading": 142,
+      "vertRateMs": 15.9,
       "category": "plane"
     },
     {
       "callsign": "BPOBER",
       "country": "Germany",
-      "lat": 52.57,
-      "lon": 13.2651,
+      "lat": 52.588,
+      "lon": 13.3206,
       "altKm": 0.8,
-      "speedKmh": 128,
-      "heading": 1,
-      "vertRateMs": 1.0,
+      "speedKmh": 187,
+      "heading": 86,
+      "vertRateMs": 0,
       "category": "heli"
-    },
-    {
-      "callsign": "EWG7NE",
-      "country": "Germany",
-      "lat": 52.3265,
-      "lon": 13.389,
-      "altKm": 0.4,
-      "speedKmh": 225,
-      "heading": 69,
-      "vertRateMs": -3.2,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-04T21:15:26.331301Z"
+  "updated_at": "2026-11-04T21:20:28.842486Z"
 }
