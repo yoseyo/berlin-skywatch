@@ -324,7 +324,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T07:35:22.114695Z"
+    "checked_at": "2026-11-05T07:40:28.314953Z"
   },
   "SAS767": {
     "route": {
@@ -4391,10 +4391,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-03T15:35:28.218372Z"
-  },
-  "RYR18HB": {
-    "route": null,
-    "checked_at": "2026-11-03T07:35:22.992476Z"
   },
   "EZY73YT": {
     "route": {
@@ -8908,5 +8904,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-05T07:30:39.420733Z"
+  },
+  "RYR649T": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T07:40:28.314953Z"
   }
 }
