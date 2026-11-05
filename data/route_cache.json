@@ -867,7 +867,7 @@
   },
   "CFG552": {
     "route": null,
-    "checked_at": "2026-11-04T09:05:23.532569Z"
+    "checked_at": "2026-11-05T09:05:23.824399Z"
   },
   "CFG553": {
     "route": null,
@@ -5514,10 +5514,6 @@
     },
     "checked_at": "2026-11-04T08:25:22.341707Z"
   },
-  "DLV465": {
-    "route": null,
-    "checked_at": "2026-11-03T09:00:55.416143Z"
-  },
   "RYR1155": {
     "route": {
       "fromCity": "Manchester",
@@ -8881,5 +8877,53 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-05T08:55:22.347504Z"
+  },
+  "NSZ2040": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-05T09:05:23.824399Z"
+  },
+  "RYR912": {
+    "route": {
+      "fromCity": "Cork",
+      "fromIata": "ORK",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T09:05:23.824399Z"
+  },
+  "OEFYI": {
+    "route": null,
+    "checked_at": "2026-11-05T09:05:23.824399Z"
+  },
+  "RYR77LL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T09:05:23.824399Z"
+  },
+  "DLH8AE": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T09:05:23.824399Z"
   }
 }
