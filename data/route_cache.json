@@ -2189,7 +2189,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T16:55:21.783240Z"
+    "checked_at": "2026-11-05T16:55:22.472982Z"
   },
   "THY3PC": {
     "route": {
@@ -2226,7 +2226,7 @@
   },
   "PGT61NK": {
     "route": null,
-    "checked_at": "2026-11-04T16:00:50.176821Z"
+    "checked_at": "2026-11-05T16:55:22.472982Z"
   },
   "BAW848": {
     "route": {
@@ -5489,17 +5489,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T16:50:29.446143Z"
-  },
-  "BTI84D": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-03T16:50:33.058595Z"
   },
   "EJU48ZE": {
     "route": {
@@ -9309,5 +9298,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T16:50:29.446143Z"
+  },
+  "LOT2303": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-05T16:55:22.472982Z"
   }
 }
