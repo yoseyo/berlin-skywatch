@@ -1,4 +1,27 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-05T22:40:31.308106Z"
+  "flights": [
+    {
+      "callsign": "CEF586",
+      "country": "Czech Republic",
+      "lat": 52.1174,
+      "lon": 12.9997,
+      "altKm": 12.1,
+      "speedKmh": 815,
+      "heading": 144,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "PBB17",
+      "country": "Germany",
+      "lat": 52.6321,
+      "lon": 13.5658,
+      "altKm": 0.4,
+      "speedKmh": 179,
+      "heading": 8,
+      "vertRateMs": 1.3,
+      "category": "heli"
+    }
+  ],
+  "updated_at": "2026-11-05T22:45:26.486278Z"
 }
