@@ -5464,17 +5464,6 @@
     },
     "checked_at": "2026-11-05T09:35:23.597655Z"
   },
-  "WZZ4861": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Bucharest",
-      "toIata": "OTP",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-03T19:25:32.542672Z"
-  },
   "CTN4409": {
     "route": {
       "fromCity": "Berlin",
@@ -9486,5 +9475,27 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-11-05T19:25:22.525496Z"
+  },
+  "EWG4JT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T19:30:41.940344Z"
+  },
+  "SXS8NM": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-05T19:30:41.940344Z"
   }
 }
