@@ -1381,7 +1381,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T08:15:30.829361Z"
+    "checked_at": "2026-11-05T08:25:22.165215Z"
   },
   "BAW974": {
     "route": {
@@ -5570,17 +5570,6 @@
     },
     "checked_at": "2026-11-05T08:05:24.270745Z"
   },
-  "CFG4LH": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T08:20:32.150782Z"
-  },
   "KAL541": {
     "route": {
       "fromCity": "Seoul",
@@ -8907,5 +8896,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-05T08:10:30.129587Z"
+  },
+  "SAS30H": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-05T08:25:22.165215Z"
+  },
+  "RYR5ZY": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T08:25:22.165215Z"
   }
 }
