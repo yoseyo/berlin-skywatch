@@ -4127,10 +4127,6 @@
     },
     "checked_at": "2026-11-04T13:45:30.243825Z"
   },
-  "CHX64": {
-    "route": null,
-    "checked_at": "2026-11-03T08:25:24.538581Z"
-  },
   "EJU49HX": {
     "route": {
       "fromCity": "Berlin",
@@ -7105,7 +7101,7 @@
       "airlineName": "China Cargo Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-04T08:50:30.265341Z"
+    "checked_at": "2026-11-05T08:30:41.652708Z"
   },
   "PGT72PN": {
     "route": {
@@ -8918,5 +8914,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T08:25:22.165215Z"
+  },
+  "RYR7YR": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T08:30:41.652708Z"
   }
 }
