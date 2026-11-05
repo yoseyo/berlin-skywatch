@@ -1,4 +1,35 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-05T05:30:39.625721Z"
+  "flights": [
+    {
+      "callsign": "EJU41VQ",
+      "country": "Austria",
+      "lat": 52.3568,
+      "lon": 13.5478,
+      "altKm": 0.6,
+      "speedKmh": 258,
+      "heading": 130,
+      "vertRateMs": 12.0,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
+      "callsign": "BAW8RM",
+      "country": "United Kingdom",
+      "lat": 52.2689,
+      "lon": 13.3059,
+      "altKm": 3.6,
+      "speedKmh": 561,
+      "heading": 274,
+      "vertRateMs": 17.2,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-05T05:35:21.228360Z"
 }
