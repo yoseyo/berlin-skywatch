@@ -4847,7 +4847,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-04T20:20:29.183227Z"
+    "checked_at": "2026-11-05T17:50:31.088432Z"
   },
   "SAS71Z": {
     "route": null,
@@ -9334,5 +9334,16 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-11-05T17:46:35.859694Z"
+  },
+  "HOP13RC": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-05T17:50:31.088432Z"
   }
 }
