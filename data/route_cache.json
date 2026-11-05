@@ -1205,7 +1205,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T10:15:32.342526Z"
+    "checked_at": "2026-11-05T10:20:29.689855Z"
   },
   "DLH2KP": {
     "route": {
@@ -1484,7 +1484,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T10:05:25.304374Z"
+    "checked_at": "2026-11-05T10:20:29.689855Z"
   },
   "EWG6ZR": {
     "route": {
@@ -9081,5 +9081,38 @@
   "WDE25": {
     "route": null,
     "checked_at": "2026-11-05T10:15:30.078253Z"
+  },
+  "NOZ6BS": {
+    "route": {
+      "fromCity": "Bergen",
+      "fromIata": "BGO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-05T10:20:29.689855Z"
+  },
+  "CFG8DF": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T10:20:29.689855Z"
+  },
+  "SAS92D": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-05T10:20:29.689855Z"
   }
 }
