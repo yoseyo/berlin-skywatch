@@ -786,7 +786,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-04T09:20:30.426561Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "KLM95T": {
     "route": {
@@ -1528,7 +1528,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T10:05:25.304374Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "THY2JV": {
     "route": {
@@ -1561,7 +1561,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-04T10:30:47.738441Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "DLH1AE": {
     "route": {
@@ -1583,7 +1583,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-04T10:25:25.278068Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "IBE07AZ": {
     "route": {
@@ -3424,7 +3424,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-04T10:30:47.738441Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "LOT266": {
     "route": {
@@ -4195,7 +4195,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-11-04T08:00:52.285531Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "EJU91XM": {
     "route": {
@@ -4628,7 +4628,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T10:35:23.879233Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "LOT403": {
     "route": {
@@ -5533,32 +5533,6 @@
     },
     "checked_at": "2026-11-04T10:55:25.961690Z"
   },
-  "BTI8KY": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-03T10:20:34.865438Z"
-  },
-  "BAF647": {
-    "route": {
-      "fromCity": "Camp Springs",
-      "fromIata": "ADW",
-      "toCity": "Halifax",
-      "toIata": "YHZ",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-03T10:20:34.865438Z"
-  },
-  "GAC185L": {
-    "route": null,
-    "checked_at": "2026-11-03T10:20:34.865438Z"
-  },
   "FIN1EB": {
     "route": {
       "fromCity": "Zurich",
@@ -5708,7 +5682,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T11:40:30.183165Z"
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   },
   "RYR77AJ": {
     "route": {
@@ -9114,5 +9088,35 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-05T10:20:29.689855Z"
+  },
+  "DMRBW": {
+    "route": null,
+    "checked_at": "2026-11-05T10:25:22.939677Z"
+  },
+  "NSZ2041": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-05T10:25:22.939677Z"
+  },
+  "NJE329G": {
+    "route": null,
+    "checked_at": "2026-11-05T10:25:22.939677Z"
+  },
+  "TJD402": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-05T10:25:22.939677Z"
   }
 }
