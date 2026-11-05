@@ -2494,7 +2494,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T19:35:40.956929Z"
+    "checked_at": "2026-11-05T19:40:32.105050Z"
   },
   "IBE07WB": {
     "route": {
@@ -4849,10 +4849,6 @@
     },
     "checked_at": "2026-11-04T09:20:30.426561Z"
   },
-  "GAF643": {
-    "route": null,
-    "checked_at": "2026-11-03T19:35:34.207012Z"
-  },
   "CFG433": {
     "route": {
       "fromCity": "Hurghada",
@@ -5463,17 +5459,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T09:35:23.597655Z"
-  },
-  "CTN4409": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Croatia Airlines",
-      "airlineCountry": "Croatia"
-    },
-    "checked_at": "2026-11-03T19:35:34.207012Z"
   },
   "EJU84VX": {
     "route": {
@@ -7078,7 +7063,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T19:00:50.043139Z"
+    "checked_at": "2026-11-05T19:40:32.105050Z"
   },
   "DLH7AK": {
     "route": {
@@ -9519,5 +9504,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T19:35:23.907781Z"
+  },
+  "SXS8DD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-05T19:40:32.105050Z"
   }
 }
