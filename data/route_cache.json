@@ -1018,7 +1018,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-03T07:20:32.192345Z"
+    "checked_at": "2026-11-05T07:15:27.786620Z"
   },
   "SWR1PF": {
     "route": {
@@ -5562,21 +5562,6 @@
     },
     "checked_at": "2026-11-05T06:30:40.571972Z"
   },
-  "EJU46PA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-03T07:10:32.508952Z"
-  },
-  "VLJ893Q": {
-    "route": null,
-    "checked_at": "2026-11-03T07:10:32.508952Z"
-  },
   "DIETB": {
     "route": {
       "fromCity": "Warsaw",
@@ -8897,5 +8882,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T07:00:48.923408Z"
+  },
+  "NSZ3YT": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-05T07:15:27.786620Z"
+  },
+  "LOT4WE": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-05T07:15:27.786620Z"
+  },
+  "SDR34ER": {
+    "route": null,
+    "checked_at": "2026-11-05T07:15:27.786620Z"
   }
 }
