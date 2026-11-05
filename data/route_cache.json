@@ -148,7 +148,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-04T20:50:27.359276Z"
+    "checked_at": "2026-11-05T21:00:49.203662Z"
   },
   "BEL1ZK": {
     "route": {
@@ -159,7 +159,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-04T21:10:29.297422Z"
+    "checked_at": "2026-11-05T21:00:49.203662Z"
   },
   "AUA239": {
     "route": {
@@ -170,7 +170,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T21:05:22.637378Z"
+    "checked_at": "2026-11-05T21:00:49.203662Z"
   },
   "KLM27F": {
     "route": {
@@ -1260,7 +1260,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T19:35:40.956929Z"
+    "checked_at": "2026-11-05T21:00:49.203662Z"
   },
   "WZZ173": {
     "route": {
@@ -5471,17 +5471,6 @@
     },
     "checked_at": "2026-11-05T20:50:29.412491Z"
   },
-  "BCS3317": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T20:55:28.551866Z"
-  },
   "DLH884": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -9633,5 +9622,16 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-11-05T20:50:29.412491Z"
+  },
+  "HLF8848": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T21:00:49.203662Z"
   }
 }
