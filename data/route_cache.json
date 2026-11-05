@@ -634,17 +634,6 @@
     },
     "checked_at": "2026-11-05T14:05:31.210637Z"
   },
-  "LOT2PJ": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-03T14:20:34.313330Z"
-  },
   "AUA230U": {
     "route": {
       "fromCity": "Berlin",
@@ -2024,10 +2013,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-04T14:35:24.483253Z"
-  },
-  "WMT7KX": {
-    "route": null,
-    "checked_at": "2026-11-03T14:20:34.313330Z"
   },
   "EJU35TF": {
     "route": {
@@ -9088,5 +9073,42 @@
   "DECLP": {
     "route": null,
     "checked_at": "2026-11-05T14:20:29.305770Z"
+  },
+  "EJU31DR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-05T14:25:23.219412Z"
+  },
+  "CFG4FD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T14:25:23.219412Z"
+  },
+  "DFWEL": {
+    "route": null,
+    "checked_at": "2026-11-05T14:25:23.219412Z"
+  },
+  "RYR81YU": {
+    "route": {
+      "fromCity": "Shannon",
+      "fromIata": "SNN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T14:25:23.219412Z"
   }
 }
