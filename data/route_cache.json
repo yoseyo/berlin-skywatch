@@ -368,7 +368,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T08:30:40.442477Z"
+    "checked_at": "2026-11-05T08:35:21.410762Z"
   },
   "DLH175": {
     "route": {
@@ -3375,17 +3375,6 @@
     },
     "checked_at": "2026-11-03T12:30:41.824561Z"
   },
-  "AEE512": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-11-03T08:30:43.671451Z"
-  },
   "AEE513": {
     "route": {
       "fromCity": "Berlin",
@@ -5157,10 +5146,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-04T15:45:29.786774Z"
-  },
-  "DWW949": {
-    "route": null,
-    "checked_at": "2026-11-03T08:30:43.671451Z"
   },
   "EWG3ZP": {
     "route": {
@@ -8925,5 +8910,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T08:30:41.652708Z"
+  },
+  "N136SA": {
+    "route": null,
+    "checked_at": "2026-11-05T08:35:21.410762Z"
+  },
+  "BCS230P": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T08:35:21.410762Z"
   }
 }
