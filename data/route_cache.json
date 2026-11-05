@@ -2122,7 +2122,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T16:20:28.360842Z"
+    "checked_at": "2026-11-05T16:05:29.689552Z"
   },
   "EWG8EV": {
     "route": {
@@ -2943,7 +2943,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-04T15:55:22.368919Z"
+    "checked_at": "2026-11-05T16:05:29.689552Z"
   },
   "AUA22S": {
     "route": {
@@ -4269,17 +4269,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-05T09:50:29.086524Z"
-  },
-  "EJU42RB": {
-    "route": {
-      "fromCity": "Sharm el-Sheikh",
-      "fromIata": "SSH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-03T16:05:24.463774Z"
   },
   "BCS15N": {
     "route": {
@@ -9235,5 +9224,16 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-05T15:55:23.193392Z"
+  },
+  "AFR386": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-05T16:05:29.689552Z"
   }
 }
