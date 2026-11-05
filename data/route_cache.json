@@ -5545,21 +5545,6 @@
     },
     "checked_at": "2026-11-05T10:25:22.939677Z"
   },
-  "EJU81TL": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-03T12:00:51.589805Z"
-  },
-  "T7DNH": {
-    "route": null,
-    "checked_at": "2026-11-03T12:05:24.156518Z"
-  },
   "LEJ110": {
     "route": null,
     "checked_at": "2026-11-03T12:10:31.964914Z"
@@ -9236,5 +9221,20 @@
   "DEJYZ": {
     "route": null,
     "checked_at": "2026-11-05T12:00:50.079330Z"
+  },
+  "DHEER": {
+    "route": null,
+    "checked_at": "2026-11-05T12:05:25.760888Z"
+  },
+  "ICE15M": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Reykjav\u00edk",
+      "toIata": "KEF",
+      "airlineName": "Icelandair",
+      "airlineCountry": "Iceland"
+    },
+    "checked_at": "2026-11-05T12:05:25.760888Z"
   }
 }
