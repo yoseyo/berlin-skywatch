@@ -3677,7 +3677,7 @@
       "airlineName": "Air France Hop",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-04T16:00:50.176821Z"
+    "checked_at": "2026-11-05T15:55:23.193392Z"
   },
   "BBG271": {
     "route": {
@@ -9187,5 +9187,53 @@
   "DITLS": {
     "route": null,
     "checked_at": "2026-11-05T15:50:34.651311Z"
+  },
+  "EJU35NQ": {
+    "route": {
+      "fromCity": "Nantes",
+      "fromIata": "NTE",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-05T15:55:23.193392Z"
+  },
+  "CES787": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-05T15:55:23.193392Z"
+  },
+  "DISPO": {
+    "route": {
+      "fromCity": "Bilbao",
+      "fromIata": "BIO",
+      "toCity": "Memmingen",
+      "toIata": "FMM",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-05T15:55:23.193392Z"
+  },
+  "DLY794G": {
+    "route": null,
+    "checked_at": "2026-11-05T15:55:23.193392Z"
+  },
+  "OEFIX": {
+    "route": {
+      "fromCity": "Olbia (SS)",
+      "fromIata": "OLB",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-05T15:55:23.193392Z"
   }
 }
