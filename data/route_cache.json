@@ -346,7 +346,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-04T11:25:23.462829Z"
+    "checked_at": "2026-11-05T07:55:21.087560Z"
   },
   "SWR2HD": {
     "route": {
@@ -3773,7 +3773,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-03T08:10:33.022207Z"
+    "checked_at": "2026-11-05T07:55:21.087560Z"
   },
   "CTN480": {
     "route": {
@@ -8915,5 +8915,16 @@
   "DGFKH": {
     "route": null,
     "checked_at": "2026-11-05T07:50:28.443028Z"
+  },
+  "DLH489": {
+    "route": {
+      "fromCity": "Seattle",
+      "fromIata": "SEA",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T07:55:21.087560Z"
   }
 }
