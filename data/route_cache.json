@@ -1550,7 +1550,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T09:35:23.710174Z"
+    "checked_at": "2026-11-05T10:35:22.849751Z"
   },
   "BAW975R": {
     "route": {
@@ -1572,7 +1572,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T10:05:25.304374Z"
+    "checked_at": "2026-11-05T10:35:22.849751Z"
   },
   "AFR12AR": {
     "route": {
@@ -5522,17 +5522,6 @@
     },
     "checked_at": "2026-11-04T10:55:25.961690Z"
   },
-  "FIN1EB": {
-    "route": {
-      "fromCity": "Zurich",
-      "fromIata": "ZRH",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-11-03T10:30:45.329957Z"
-  },
   "CHX85": {
     "route": null,
     "checked_at": "2026-11-03T10:50:30.864563Z"
@@ -6469,7 +6458,7 @@
   },
   "N888DC": {
     "route": null,
-    "checked_at": "2026-11-03T21:05:25.505390Z"
+    "checked_at": "2026-11-05T10:35:22.849751Z"
   },
   "KLM83K": {
     "route": {
@@ -9140,5 +9129,35 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T10:30:40.105087Z"
+  },
+  "DMVRG": {
+    "route": null,
+    "checked_at": "2026-11-05T10:35:22.849751Z"
+  },
+  "QTR90B": {
+    "route": {
+      "fromCity": "Cape Town",
+      "fromIata": "CPT",
+      "toCity": "Doha",
+      "toIata": "DOH",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-11-05T10:35:22.849751Z"
+  },
+  "BCS6069": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Abu Dhabi",
+      "toIata": "AUH",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T10:35:22.849751Z"
+  },
+  "MABST": {
+    "route": null,
+    "checked_at": "2026-11-05T10:35:22.849751Z"
   }
 }
