@@ -830,7 +830,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T18:50:29.525191Z"
+    "checked_at": "2026-11-05T19:00:49.275016Z"
   },
   "SAS1680": {
     "route": {
@@ -3893,7 +3893,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T07:30:42.990204Z"
+    "checked_at": "2026-11-05T19:00:49.275016Z"
   },
   "BAW979": {
     "route": {
@@ -9428,5 +9428,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-05T18:50:30.310708Z"
+  },
+  "BEL9DL": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-11-05T19:00:49.275016Z"
+  },
+  "HOP15VR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-05T19:00:49.275016Z"
   }
 }
