@@ -577,7 +577,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-04T12:30:41.788125Z"
+    "checked_at": "2026-11-05T12:30:42.169608Z"
   },
   "SAS1677": {
     "route": {
@@ -3316,17 +3316,6 @@
     },
     "checked_at": "2026-11-03T13:00:50.681322Z"
   },
-  "RYR9TE": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Rome",
-      "toIata": "CIA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T12:30:41.824561Z"
-  },
   "EWG8MF": {
     "route": {
       "fromCity": "Hamburg",
@@ -4001,17 +3990,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T11:20:30.200187Z"
-  },
-  "MEA246": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-11-03T12:30:41.824561Z"
   },
   "EJU54BP": {
     "route": {
@@ -4824,17 +4802,6 @@
   "JBD1": {
     "route": null,
     "checked_at": "2026-11-03T14:15:33.932243Z"
-  },
-  "DLH9CK": {
-    "route": {
-      "fromCity": "Nuremberg",
-      "fromIata": "NUE",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T12:30:41.824561Z"
   },
   "WZZ58": {
     "route": {
@@ -9235,5 +9202,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-05T12:25:24.805729Z"
+  },
+  "WZZ1858": {
+    "route": {
+      "fromCity": "Forl\u00ec (FC)",
+      "fromIata": "FRL",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-05T12:30:42.169608Z"
   }
 }
