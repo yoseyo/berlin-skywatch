@@ -390,7 +390,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T08:55:21.722198Z"
+    "checked_at": "2026-11-05T09:15:34.298711Z"
   },
   "AUA225B": {
     "route": {
@@ -687,7 +687,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-04T10:05:25.304374Z"
+    "checked_at": "2026-11-05T09:15:34.298711Z"
   },
   "DLH2N": {
     "route": {
@@ -4786,7 +4786,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T09:05:23.532569Z"
+    "checked_at": "2026-11-05T09:15:34.298711Z"
   },
   "LOT4NC": {
     "route": {
@@ -4797,7 +4797,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-04T09:05:23.532569Z"
+    "checked_at": "2026-11-05T09:15:34.298711Z"
   },
   "LOT1KH": {
     "route": {
@@ -8940,5 +8940,35 @@
   "MOLLY": {
     "route": null,
     "checked_at": "2026-11-05T09:10:30.563203Z"
+  },
+  "OKHFH": {
+    "route": null,
+    "checked_at": "2026-11-05T09:15:34.298711Z"
+  },
+  "WUK3636": {
+    "route": null,
+    "checked_at": "2026-11-05T09:15:34.298711Z"
+  },
+  "MSR983": {
+    "route": {
+      "fromCity": "Cairo",
+      "fromIata": "CAI",
+      "toCity": "Los Angeles",
+      "toIata": "LAX",
+      "airlineName": "Egyptair",
+      "airlineCountry": "Egypt"
+    },
+    "checked_at": "2026-11-05T09:15:34.298711Z"
+  },
+  "ASL31R": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-11-05T09:15:34.298711Z"
   }
 }
