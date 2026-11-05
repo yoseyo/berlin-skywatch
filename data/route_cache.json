@@ -4631,17 +4631,6 @@
     },
     "checked_at": "2026-11-04T14:45:27.574785Z"
   },
-  "LHX4AE": {
-    "route": {
-      "fromCity": "Timi\u015foara",
-      "fromIata": "TSR",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T06:25:24.596861Z"
-  },
   "EWG7L": {
     "route": {
       "fromCity": "Stuttgart",
@@ -4818,10 +4807,6 @@
     },
     "checked_at": "2026-11-04T08:20:29.796815Z"
   },
-  "TCMKA": {
-    "route": null,
-    "checked_at": "2026-11-03T06:25:24.596861Z"
-  },
   "SAS2677": {
     "route": {
       "fromCity": "Stockholm",
@@ -4978,7 +4963,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T10:50:30.864563Z"
+    "checked_at": "2026-11-05T06:30:40.571972Z"
   },
   "LYF345": {
     "route": null,
@@ -5449,8 +5434,15 @@
     "checked_at": "2026-11-04T13:45:30.243825Z"
   },
   "RYR83GK": {
-    "route": null,
-    "checked_at": "2026-11-03T09:40:33.146473Z"
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T06:30:40.571972Z"
   },
   "EWG8537": {
     "route": {
@@ -5568,7 +5560,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T06:25:24.596861Z"
+    "checked_at": "2026-11-05T06:30:40.571972Z"
   },
   "CHG1542": {
     "route": {
@@ -7147,7 +7139,7 @@
   },
   "DINNA": {
     "route": null,
-    "checked_at": "2026-11-04T07:50:32.485036Z"
+    "checked_at": "2026-11-05T06:30:40.571972Z"
   },
   "GAF013": {
     "route": null,
@@ -8835,5 +8827,42 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-11-05T06:25:22.745725Z"
+  },
+  "EJU62CM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sharm el-Sheikh",
+      "toIata": "SSH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-05T06:30:40.571972Z"
+  },
+  "EWG22MU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T06:30:40.571972Z"
+  },
+  "DIPBB": {
+    "route": null,
+    "checked_at": "2026-11-05T06:30:40.571972Z"
+  },
+  "PGT981": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-05T06:30:40.571972Z"
   }
 }
