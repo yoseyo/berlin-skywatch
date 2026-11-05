@@ -2001,7 +2001,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T15:11:08.860539Z"
+    "checked_at": "2026-11-05T15:15:31.710115Z"
   },
   "TKJ6JC": {
     "route": {
@@ -2056,7 +2056,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T15:11:08.860539Z"
+    "checked_at": "2026-11-05T15:15:31.710115Z"
   },
   "RYR310V": {
     "route": {
@@ -2156,7 +2156,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-04T14:00:50.899576Z"
+    "checked_at": "2026-11-05T15:15:31.710115Z"
   },
   "RYR37SL": {
     "route": {
@@ -3800,17 +3800,6 @@
     },
     "checked_at": "2026-11-04T05:05:25.506729Z"
   },
-  "EJU9048": {
-    "route": {
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Nantes",
-      "toIata": "NTE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-03T15:15:30.915323Z"
-  },
   "EJU35LT": {
     "route": {
       "fromCity": "Berlin",
@@ -5441,28 +5430,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-05T15:05:23.248564Z"
-  },
-  "WZZ1QS": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-03T15:10:39.631756Z"
-  },
-  "AAR545": {
-    "route": {
-      "fromCity": "Seoul",
-      "fromIata": "ICN",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Asiana Airlines",
-      "airlineCountry": "South Korea"
-    },
-    "checked_at": "2026-11-03T15:10:39.631756Z"
   },
   "TAP532B": {
     "route": {
@@ -9151,5 +9118,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T15:10:29.413786Z"
+  },
+  "KLM77H": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-11-05T15:15:31.710115Z"
+  },
+  "SXS7NM": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-05T15:15:31.710115Z"
   }
 }
