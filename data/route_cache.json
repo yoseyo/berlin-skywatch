@@ -1660,7 +1660,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T11:50:28.539458Z"
+    "checked_at": "2026-11-05T11:25:25.591574Z"
   },
   "RYR1KK": {
     "route": {
@@ -2285,7 +2285,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T12:40:29.655092Z"
+    "checked_at": "2026-11-05T11:25:25.591574Z"
   },
   "BEL2HJ": {
     "route": {
@@ -2793,7 +2793,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T07:35:22.114695Z"
+    "checked_at": "2026-11-05T11:25:25.591574Z"
   },
   "EWG7GK": {
     "route": {
@@ -4787,17 +4787,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-04T15:55:22.368919Z"
-  },
-  "DLH890": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T11:20:31.983079Z"
   },
   "EWG41C": {
     "route": {
@@ -9198,5 +9187,20 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-11-05T11:20:29.799516Z"
+  },
+  "RYR252U": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T11:25:25.591574Z"
+  },
+  "RYR18HB": {
+    "route": null,
+    "checked_at": "2026-11-05T11:25:25.591574Z"
   }
 }
