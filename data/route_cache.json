@@ -1737,7 +1737,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T16:30:40.790630Z"
+    "checked_at": "2026-11-05T11:50:28.976672Z"
   },
   "NOZ1104": {
     "route": {
@@ -4915,7 +4915,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-04T12:40:29.655092Z"
+    "checked_at": "2026-11-05T11:50:28.976672Z"
   },
   "LSV202": {
     "route": null,
@@ -5544,17 +5544,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T10:25:22.939677Z"
-  },
-  "RYR77AJ": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Shannon",
-      "toIata": "SNN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T11:45:29.816589Z"
   },
   "EJU81TL": {
     "route": {
@@ -9221,5 +9210,16 @@
   "DMDPD": {
     "route": null,
     "checked_at": "2026-11-05T11:40:28.780886Z"
+  },
+  "MFX7668": {
+    "route": {
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Almaty",
+      "toIata": "ALA",
+      "airlineName": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-11-05T11:50:28.976672Z"
   }
 }
