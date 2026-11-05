@@ -93,7 +93,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-04T15:50:30.346931Z"
+    "checked_at": "2026-11-05T15:45:28.829182Z"
   },
   "LOT5PX": {
     "route": {
@@ -5446,10 +5446,6 @@
     },
     "checked_at": "2026-11-04T15:40:28.154315Z"
   },
-  "GAF631": {
-    "route": null,
-    "checked_at": "2026-11-03T15:40:31.148979Z"
-  },
   "CFG5AK": {
     "route": {
       "fromCity": "Berlin",
@@ -9173,5 +9169,27 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-11-05T15:40:29.135134Z"
+  },
+  "EJU68JA": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-05T15:45:28.829182Z"
+  },
+  "RYR49KM": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T15:45:28.829182Z"
   }
 }
