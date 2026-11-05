@@ -258,7 +258,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T06:40:35.423508Z"
+    "checked_at": "2026-11-05T06:45:27.263767Z"
   },
   "SWR5XL": {
     "route": {
@@ -269,7 +269,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-04T06:30:41.291767Z"
+    "checked_at": "2026-11-05T06:45:27.263767Z"
   },
   "DLH2X": {
     "route": {
@@ -5562,17 +5562,6 @@
     },
     "checked_at": "2026-11-05T06:30:40.571972Z"
   },
-  "WZZ959": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-03T06:40:30.379338Z"
-  },
   "HLF8816": {
     "route": {
       "fromCity": "Paris",
@@ -8864,5 +8853,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T06:35:21.190095Z"
+  },
+  "FIN6TF": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-05T06:45:27.263767Z"
+  },
+  "EWG56Z": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Arbil",
+      "toIata": "EBL",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T06:45:27.263767Z"
   }
 }
