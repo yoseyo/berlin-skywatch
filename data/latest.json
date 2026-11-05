@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-05T04:45:33.748999Z"
+  "flights": [
+    {
+      "callsign": "ADZ4006",
+      "country": "Bulgaria",
+      "lat": 52.2011,
+      "lon": 12.9755,
+      "altKm": 1.9,
+      "speedKmh": 436,
+      "heading": 45,
+      "vertRateMs": -5.5,
+      "airline": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-05T04:50:27.426045Z"
 }
