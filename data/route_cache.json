@@ -3200,7 +3200,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T19:00:50.043139Z"
+    "checked_at": "2026-11-05T18:40:29.710519Z"
   },
   "DLH3AW": {
     "route": {
@@ -4093,17 +4093,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-04T18:40:28.279044Z"
-  },
-  "EWG4JT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T18:35:32.226204Z"
   },
   "CFE93AU": {
     "route": {
@@ -9422,5 +9411,31 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-05T18:30:42.537548Z"
+  },
+  "WMT76": {
+    "route": {
+      "fromCity": "Bucharest",
+      "fromIata": "OTP",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-05T18:40:29.710519Z"
+  },
+  "ATV404": {
+    "route": null,
+    "checked_at": "2026-11-05T18:40:29.710519Z"
+  },
+  "SWR9ZT": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-11-05T18:40:29.710519Z"
   }
 }
