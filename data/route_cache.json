@@ -2219,7 +2219,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T14:45:27.574785Z"
+    "checked_at": "2026-11-05T07:45:30.304692Z"
   },
   "LOT3EG": {
     "route": {
@@ -2874,7 +2874,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-04T07:45:32.120461Z"
+    "checked_at": "2026-11-05T07:45:30.304692Z"
   },
   "LOT286": {
     "route": {
@@ -3895,17 +3895,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-04T17:20:32.008301Z"
-  },
-  "RYR7YR": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T07:40:31.401943Z"
   },
   "RYR4XP": {
     "route": {
@@ -5572,21 +5561,6 @@
   "LDX600": {
     "route": null,
     "checked_at": "2026-11-05T06:35:21.190095Z"
-  },
-  "FCA1MA": {
-    "route": null,
-    "checked_at": "2026-11-03T07:40:31.401943Z"
-  },
-  "IBIS8": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": null,
-      "toCity": "Augsburg",
-      "toIata": "AGB",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-03T07:40:31.401943Z"
   },
   "DHBEE": {
     "route": null,
@@ -8915,5 +8889,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T07:40:28.314953Z"
+  },
+  "WZZ579": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-05T07:45:30.304692Z"
+  },
+  "ASL34B": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-11-05T07:45:30.304692Z"
   }
 }
