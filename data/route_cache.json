@@ -401,7 +401,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T09:25:22.581055Z"
+    "checked_at": "2026-11-05T09:40:29.003241Z"
   },
   "SWR3TE": {
     "route": {
@@ -3197,7 +3197,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T19:15:28.975077Z"
+    "checked_at": "2026-11-05T09:40:29.003241Z"
   },
   "KLM1316": {
     "route": {
@@ -5524,17 +5524,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-05T08:45:28.053093Z"
-  },
-  "RYR84TC": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T09:35:27.363342Z"
   },
   "SDR14ML": {
     "route": null,
@@ -9011,5 +9000,31 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-05T09:30:22.746026Z"
+  },
+  "EJU85CX": {
+    "route": {
+      "fromCity": "Geneva",
+      "fromIata": "GVA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-05T09:40:29.003241Z"
+  },
+  "NJE382B": {
+    "route": null,
+    "checked_at": "2026-11-05T09:40:29.003241Z"
+  },
+  "RYR2WX": {
+    "route": {
+      "fromCity": "Newcastle",
+      "fromIata": "NCL",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T09:40:29.003241Z"
   }
 }
