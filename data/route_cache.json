@@ -2976,7 +2976,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-04T19:35:40.956929Z"
+    "checked_at": "2026-11-05T19:45:34.578003Z"
   },
   "UAE98V": {
     "route": {
@@ -4122,17 +4122,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-04T12:40:29.655092Z"
-  },
-  "EWG6PR": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T19:40:43.331765Z"
   },
   "BAW84PW": {
     "route": {
@@ -9515,5 +9504,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-05T19:40:32.105050Z"
+  },
+  "RYR59PP": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T19:45:34.578003Z"
   }
 }
