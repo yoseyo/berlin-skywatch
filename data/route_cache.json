@@ -1216,7 +1216,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T06:55:22.650956Z"
+    "checked_at": "2026-11-05T07:00:48.923408Z"
   },
   "RYR21VK": {
     "route": {
@@ -5562,17 +5562,6 @@
     },
     "checked_at": "2026-11-05T06:30:40.571972Z"
   },
-  "RYR521U": {
-    "route": {
-      "fromCity": "Kaunas",
-      "fromIata": "KUN",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T06:55:25.559986Z"
-  },
   "GAF629": {
     "route": null,
     "checked_at": "2026-11-03T07:05:24.325987Z"
@@ -8868,5 +8857,49 @@
   "DCS604": {
     "route": null,
     "checked_at": "2026-11-05T06:55:21.677143Z"
+  },
+  "MJF3B": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "LBG",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-05T07:00:48.923408Z"
+  },
+  "RYR7HM": {
+    "route": {
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T07:00:48.923408Z"
+  },
+  "BTI7HB": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-05T07:00:48.923408Z"
+  },
+  "RYR857T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T07:00:48.923408Z"
   }
 }
