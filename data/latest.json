@@ -1,39 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "BCS3612",
-      "country": "Bahrain",
-      "lat": 52.7966,
-      "lon": 13.1122,
-      "altKm": 10.9,
-      "speedKmh": 792,
-      "heading": 18,
-      "vertRateMs": -0.7,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "category": "plane"
-    },
-    {
-      "callsign": "CES249",
+      "callsign": "CES255",
       "country": "China",
-      "lat": 52.1671,
-      "lon": 13.0955,
+      "lat": 52.1261,
+      "lon": 13.8523,
       "altKm": 11.7,
-      "speedKmh": 941,
-      "heading": 216,
-      "vertRateMs": 0,
+      "speedKmh": 944,
+      "heading": 222,
+      "vertRateMs": -0.3,
       "airline": "China Eastern Airlines",
       "airlineCountry": "China",
       "fromCity": "Shanghai (Pudong)",
       "fromIata": "PVG",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
+      "toCity": "Chicago",
+      "toIata": "ORD",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-05T04:15:27.867223Z"
+  "updated_at": "2026-11-05T04:20:29.572047Z"
 }
