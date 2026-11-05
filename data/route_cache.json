@@ -9630,5 +9630,27 @@
   "UNI132": {
     "route": null,
     "checked_at": "2026-11-05T21:10:35.721597Z"
+  },
+  "EJU64BR": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-05T21:20:30.506485Z"
+  },
+  "RYR33CC": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T21:20:30.506485Z"
   }
 }
