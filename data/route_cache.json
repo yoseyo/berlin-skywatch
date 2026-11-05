@@ -2270,7 +2270,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-04T16:40:31.767870Z"
+    "checked_at": "2026-11-05T16:30:40.936495Z"
   },
   "BAW988G": {
     "route": {
@@ -2954,7 +2954,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T16:15:28.788412Z"
+    "checked_at": "2026-11-05T16:30:40.936495Z"
   },
   "BAW985": {
     "route": {
@@ -5069,7 +5069,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-03T20:45:34.443309Z"
+    "checked_at": "2026-11-05T16:30:40.936495Z"
   },
   "WZZ4133": {
     "route": {
@@ -5453,10 +5453,6 @@
     },
     "checked_at": "2026-11-05T16:25:23.198964Z"
   },
-  "OEEKA": {
-    "route": null,
-    "checked_at": "2026-11-03T16:25:23.308398Z"
-  },
   "HRN221": {
     "route": null,
     "checked_at": "2026-11-05T09:10:30.563203Z"
@@ -5525,7 +5521,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T17:00:57.179450Z"
+    "checked_at": "2026-11-05T16:30:40.936495Z"
   },
   "NJE776L": {
     "route": null,
@@ -9265,5 +9261,31 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-11-05T16:25:23.198964Z"
+  },
+  "BBA41": {
+    "route": null,
+    "checked_at": "2026-11-05T16:30:40.936495Z"
+  },
+  "RYR13SB": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Valletta",
+      "toIata": "MLA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T16:30:40.936495Z"
+  },
+  "EZY63HL": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-05T16:30:40.936495Z"
   }
 }
