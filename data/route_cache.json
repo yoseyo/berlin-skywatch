@@ -588,7 +588,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-04T12:05:25.075131Z"
+    "checked_at": "2026-11-05T12:50:28.091691Z"
   },
   "SWR1PL": {
     "route": {
@@ -904,7 +904,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-04T12:30:41.788125Z"
+    "checked_at": "2026-11-05T12:50:28.091691Z"
   },
   "AUA228T": {
     "route": {
@@ -948,7 +948,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-04T13:05:26.803306Z"
+    "checked_at": "2026-11-05T12:50:28.091691Z"
   },
   "TAP53EI": {
     "route": {
@@ -1891,7 +1891,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T12:50:31.171457Z"
+    "checked_at": "2026-11-05T12:50:28.091691Z"
   },
   "SXS7KG": {
     "route": {
@@ -4002,17 +4002,6 @@
     },
     "checked_at": "2026-11-04T07:30:42.990204Z"
   },
-  "EJU85CU": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-03T12:45:28.532229Z"
-  },
   "THY6WB": {
     "route": {
       "fromCity": "I\u011fd\u0131r",
@@ -4872,10 +4861,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-05T11:50:28.976672Z"
-  },
-  "LSV202": {
-    "route": null,
-    "checked_at": "2026-11-03T12:45:28.532229Z"
   },
   "CCA935": {
     "route": {
@@ -9210,5 +9195,16 @@
   "DHTMX": {
     "route": null,
     "checked_at": "2026-11-05T12:45:28.474734Z"
+  },
+  "MEA246": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-11-05T12:50:28.091691Z"
   }
 }
