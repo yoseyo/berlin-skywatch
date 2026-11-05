@@ -1847,7 +1847,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T13:10:29.582464Z"
+    "checked_at": "2026-11-05T13:00:49.624506Z"
   },
   "KLM1314": {
     "route": {
@@ -3446,7 +3446,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T10:40:31.265474Z"
+    "checked_at": "2026-11-05T13:00:49.624506Z"
   },
   "DLH6EK": {
     "route": {
@@ -3457,7 +3457,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T13:01:01.073779Z"
+    "checked_at": "2026-11-05T13:00:49.624506Z"
   },
   "DLH6LT": {
     "route": {
@@ -9184,5 +9184,27 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-11-05T12:50:28.091691Z"
+  },
+  "EWG7T": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T13:00:49.624506Z"
+  },
+  "ISR254": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-05T13:00:49.624506Z"
   }
 }
