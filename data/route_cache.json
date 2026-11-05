@@ -137,7 +137,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-04T18:50:29.525191Z"
+    "checked_at": "2026-11-05T18:45:29.927853Z"
   },
   "KLC1335": {
     "route": {
@@ -2406,7 +2406,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T18:30:41.921734Z"
+    "checked_at": "2026-11-05T18:45:29.927853Z"
   },
   "EJU36HF": {
     "route": {
@@ -2483,7 +2483,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-04T18:55:23.248542Z"
+    "checked_at": "2026-11-05T18:45:29.927853Z"
   },
   "DLH4LV": {
     "route": {
@@ -3509,10 +3509,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-04T19:00:50.043139Z"
-  },
-  "RYR45WX": {
-    "route": null,
-    "checked_at": "2026-11-03T18:40:44.762650Z"
   },
   "KLM1782": {
     "route": {
@@ -5471,25 +5467,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T08:05:24.270745Z"
-  },
-  "PGT68QQ": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-03T18:40:44.762650Z"
-  },
-  "SDR15NL": {
-    "route": null,
-    "checked_at": "2026-11-03T18:40:44.762650Z"
-  },
-  "CAT9573": {
-    "route": null,
-    "checked_at": "2026-11-03T18:40:44.762650Z"
   },
   "WMT423B": {
     "route": null,
@@ -9437,5 +9414,16 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-05T18:40:29.710519Z"
+  },
+  "ELY2373": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-05T18:45:29.927853Z"
   }
 }
