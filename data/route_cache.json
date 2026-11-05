@@ -4838,10 +4838,6 @@
     },
     "checked_at": "2026-11-04T17:00:53.968785Z"
   },
-  "DCS603": {
-    "route": null,
-    "checked_at": "2026-11-03T17:45:35.945736Z"
-  },
   "VLG8TD": {
     "route": {
       "fromCity": "Berlin",
@@ -9316,5 +9312,27 @@
   "ATV403": {
     "route": null,
     "checked_at": "2026-11-05T17:40:29.376193Z"
+  },
+  "RYR2GQ": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "BGY",
+      "toCity": "Sofia",
+      "toIata": "SOF",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T17:46:35.859694Z"
+  },
+  "AEE513": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Thessaloniki",
+      "toIata": "SKG",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-05T17:46:35.859694Z"
   }
 }
