@@ -1,7 +1,7 @@
 {
   "CHX100": {
     "route": null,
-    "checked_at": "2026-11-05T05:10:29.434270Z"
+    "checked_at": "2026-11-05T17:35:22.772454Z"
   },
   "MSC2961": {
     "route": {
@@ -2292,7 +2292,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T17:50:28.501497Z"
+    "checked_at": "2026-11-05T17:35:22.772454Z"
   },
   "EWG43J": {
     "route": {
@@ -2384,7 +2384,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-04T17:20:32.008301Z"
+    "checked_at": "2026-11-05T17:35:22.772454Z"
   },
   "EJU93VY": {
     "route": {
@@ -5493,17 +5493,6 @@
   "JDI24W": {
     "route": null,
     "checked_at": "2026-11-05T15:50:34.651311Z"
-  },
-  "RYR96GA": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T17:30:46.476723Z"
   },
   "PGT984": {
     "route": {
@@ -9334,5 +9323,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-05T17:25:22.049478Z"
+  },
+  "WZZ89": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-05T17:35:22.772454Z"
   }
 }
