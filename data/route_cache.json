@@ -1594,7 +1594,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-04T10:55:25.961690Z"
+    "checked_at": "2026-11-05T10:55:22.409935Z"
   },
   "THY1CU": {
     "route": {
@@ -4967,7 +4967,7 @@
   },
   "HBKBC": {
     "route": null,
-    "checked_at": "2026-11-04T14:50:32.307661Z"
+    "checked_at": "2026-11-05T10:55:22.409935Z"
   },
   "CKK235": {
     "route": {
@@ -5499,21 +5499,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-04T10:55:25.961690Z"
-  },
-  "CHX85": {
-    "route": null,
-    "checked_at": "2026-11-03T10:50:30.864563Z"
-  },
-  "LOT2LP": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-03T10:50:30.864563Z"
   },
   "MEA245": {
     "route": {
@@ -9163,5 +9148,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T10:50:28.052422Z"
+  },
+  "CES786": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-05T10:55:22.409935Z"
   }
 }
