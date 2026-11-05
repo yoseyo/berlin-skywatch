@@ -2586,7 +2586,7 @@
   },
   "LOT1MZ": {
     "route": null,
-    "checked_at": "2026-11-04T20:05:23.827398Z"
+    "checked_at": "2026-11-05T20:30:39.518413Z"
   },
   "LOT4CT": {
     "route": null,
@@ -3288,7 +3288,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T21:00:49.464030Z"
+    "checked_at": "2026-11-05T20:30:39.518413Z"
   },
   "SAS661": {
     "route": {
@@ -3728,7 +3728,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-04T21:00:49.464030Z"
+    "checked_at": "2026-11-05T20:30:39.518413Z"
   },
   "EJU53NR": {
     "route": {
@@ -4143,7 +4143,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-04T20:15:30.481119Z"
+    "checked_at": "2026-11-05T20:30:39.518413Z"
   },
   "LGL9A": {
     "route": {
@@ -9570,5 +9570,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T20:25:24.029664Z"
+  },
+  "NSZ9001": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-05T20:30:39.518413Z"
+  },
+  "FIN9XR": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-05T20:30:39.518413Z"
+  },
+  "CFG2FH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Rijeka",
+      "toIata": "RJK",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T20:30:39.518413Z"
   }
 }
