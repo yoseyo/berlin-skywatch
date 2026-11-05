@@ -357,7 +357,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-04T08:40:30.624117Z"
+    "checked_at": "2026-11-05T08:40:28.170436Z"
   },
   "EIN3JE": {
     "route": {
@@ -709,7 +709,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-04T08:20:29.796815Z"
+    "checked_at": "2026-11-05T08:40:28.170436Z"
   },
   "SAS1674": {
     "route": {
@@ -1403,7 +1403,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T08:45:28.600472Z"
+    "checked_at": "2026-11-05T08:40:28.170436Z"
   },
   "WZZ1HL": {
     "route": {
@@ -1414,7 +1414,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-04T20:00:49.016625Z"
+    "checked_at": "2026-11-05T08:40:28.170436Z"
   },
   "RYR13BV": {
     "route": null,
@@ -4731,7 +4731,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T08:10:31.109362Z"
+    "checked_at": "2026-11-05T08:40:28.170436Z"
   },
   "EWG5NR": {
     "route": {
@@ -4776,17 +4776,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T06:10:28.993552Z"
-  },
-  "EWG4HV": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Cairo",
-      "toIata": "CAI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T08:35:27.964170Z"
   },
   "WZZ26PX": {
     "route": {
@@ -4912,10 +4901,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T06:30:40.571972Z"
-  },
-  "LYF345": {
-    "route": null,
-    "checked_at": "2026-11-03T08:35:27.964170Z"
   },
   "EJU84PU": {
     "route": {
@@ -5090,17 +5075,6 @@
   "QGA50P": {
     "route": null,
     "checked_at": "2026-11-04T11:40:33.260275Z"
-  },
-  "DFEIC": {
-    "route": {
-      "fromCity": "Vilshofen",
-      "fromIata": null,
-      "toCity": "Vilshofen",
-      "toIata": null,
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-03T08:35:27.964170Z"
   },
   "CFE7026": {
     "route": {
@@ -8925,5 +8899,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T08:35:21.410762Z"
+  },
+  "SAS49L": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-05T08:40:28.170436Z"
   }
 }
