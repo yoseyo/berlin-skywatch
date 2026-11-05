@@ -49,7 +49,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T15:10:39.631756Z"
+    "checked_at": "2026-11-05T15:05:23.248564Z"
   },
   "KLM1779": {
     "route": {
@@ -3442,7 +3442,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T14:35:24.483253Z"
+    "checked_at": "2026-11-05T15:05:23.248564Z"
   },
   "MSR732": {
     "route": {
@@ -5431,17 +5431,6 @@
     },
     "checked_at": "2026-11-04T12:55:24.385980Z"
   },
-  "UZB251": {
-    "route": {
-      "fromCity": "Tashkent",
-      "fromIata": "TAS",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Uzbekistan Airways",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-11-03T15:00:53.188474Z"
-  },
   "EJU61GN": {
     "route": {
       "fromCity": "Larnaca",
@@ -5451,7 +5440,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-03T15:05:27.804976Z"
+    "checked_at": "2026-11-05T15:05:23.248564Z"
   },
   "AXY248E": {
     "route": null,
@@ -6429,7 +6418,7 @@
   },
   "HUE222": {
     "route": null,
-    "checked_at": "2026-11-04T11:05:27.184854Z"
+    "checked_at": "2026-11-05T15:05:23.248564Z"
   },
   "TAP53LB": {
     "route": {
@@ -9144,5 +9133,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T15:00:52.929758Z"
+  },
+  "EZY32YZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-05T15:05:23.248564Z"
   }
 }
