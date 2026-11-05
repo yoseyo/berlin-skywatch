@@ -511,7 +511,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-04T11:05:27.184854Z"
+    "checked_at": "2026-11-05T11:20:29.799516Z"
   },
   "AEE2WD": {
     "route": {
@@ -533,7 +533,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T11:15:39.756449Z"
+    "checked_at": "2026-11-05T11:20:29.799516Z"
   },
   "FIN50M": {
     "route": {
@@ -544,7 +544,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-04T11:05:27.184854Z"
+    "checked_at": "2026-11-05T11:20:29.799516Z"
   },
   "LOT282": {
     "route": {
@@ -566,7 +566,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-04T11:35:24.622441Z"
+    "checked_at": "2026-11-05T11:20:29.799516Z"
   },
   "KLC21A": {
     "route": {
@@ -5511,18 +5511,6 @@
     },
     "checked_at": "2026-11-04T11:20:30.200187Z"
   },
-  "SERMK": {
-    "route": null,
-    "checked_at": "2026-11-03T11:15:29.202846Z"
-  },
-  "MMF18": {
-    "route": null,
-    "checked_at": "2026-11-03T11:15:29.202846Z"
-  },
-  "QGA01A": {
-    "route": null,
-    "checked_at": "2026-11-03T11:15:29.202846Z"
-  },
   "EJU51NW": {
     "route": {
       "fromCity": "Berlin",
@@ -9199,5 +9187,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T11:15:29.061304Z"
+  },
+  "ISR253": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-05T11:20:29.799516Z"
   }
 }
