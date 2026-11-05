@@ -2914,7 +2914,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T10:40:31.265474Z"
+    "checked_at": "2026-11-05T10:30:40.105087Z"
   },
   "DLH1MF": {
     "route": {
@@ -4350,17 +4350,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-04T19:50:28.614397Z"
-  },
-  "RYR242G": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T10:25:26.718110Z"
   },
   "LOT285": {
     "route": {
@@ -9118,5 +9107,38 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-05T10:25:22.939677Z"
+  },
+  "WZZ8GS": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-05T10:30:40.105087Z"
+  },
+  "ICE14T": {
+    "route": {
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Icelandair",
+      "airlineCountry": "Iceland"
+    },
+    "checked_at": "2026-11-05T10:30:40.105087Z"
+  },
+  "DLH9910": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T10:30:40.105087Z"
   }
 }
