@@ -992,7 +992,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-04T19:10:27.899781Z"
+    "checked_at": "2026-11-05T19:10:31.511157Z"
   },
   "BPOBER": {
     "route": null,
@@ -7126,7 +7126,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T19:05:23.733418Z"
+    "checked_at": "2026-11-05T19:10:31.511157Z"
   },
   "EWG8N": {
     "route": {
@@ -9435,5 +9435,38 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-05T19:00:49.275016Z"
+  },
+  "NOZ1124": {
+    "route": {
+      "fromCity": "Troms\u00f8",
+      "fromIata": "TOS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-05T19:10:31.511157Z"
+  },
+  "VLG22VF": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Vueling Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-11-05T19:10:31.511157Z"
+  },
+  "RYR2347": {
+    "route": {
+      "fromCity": "Newcastle",
+      "fromIata": "NCL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-05T19:10:31.511157Z"
   }
 }
