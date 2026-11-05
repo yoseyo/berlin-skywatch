@@ -2826,7 +2826,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T09:00:52.281858Z"
+    "checked_at": "2026-11-05T12:45:28.474734Z"
   },
   "AFR1434": {
     "route": {
@@ -5508,28 +5508,6 @@
   "AOJ98T": {
     "route": null,
     "checked_at": "2026-11-04T09:25:22.581055Z"
-  },
-  "RYR35ZX": {
-    "route": {
-      "fromCity": "Sevilla",
-      "fromIata": "SVQ",
-      "toCity": "Trapani (TP)",
-      "toIata": "TPS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-03T12:40:30.471631Z"
-  },
-  "EWG8551": {
-    "route": {
-      "fromCity": "Jerez de la Frontera",
-      "fromIata": "XRY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T12:40:30.471631Z"
   },
   "RYR14ZJ": {
     "route": {
@@ -9206,5 +9184,31 @@
   "GAF864": {
     "route": null,
     "checked_at": "2026-11-05T12:35:23.767763Z"
+  },
+  "CAI15XF": {
+    "route": {
+      "fromCity": "Rostock",
+      "fromIata": "RLG",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-05T12:45:28.474734Z"
+  },
+  "SEH874": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-05T12:45:28.474734Z"
+  },
+  "DHTMX": {
+    "route": null,
+    "checked_at": "2026-11-05T12:45:28.474734Z"
   }
 }
