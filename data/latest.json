@@ -1,35 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "EJU64QM",
+      "callsign": "EJU91XM",
       "country": "Austria",
-      "lat": 52.2569,
-      "lon": 13.4162,
-      "altKm": 2.4,
-      "speedKmh": 534,
-      "heading": 253,
-      "vertRateMs": 17.2,
+      "lat": 52.1926,
+      "lon": 13.785,
+      "altKm": 3.7,
+      "speedKmh": 611,
+      "heading": 184,
+      "vertRateMs": 11.7,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
       "category": "plane"
     },
     {
-      "callsign": "EJU91XM",
-      "country": "Austria",
-      "lat": 52.3524,
-      "lon": 13.4975,
-      "altKm": 0.1,
-      "speedKmh": 160,
-      "heading": 68,
-      "vertRateMs": 0.3,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
+      "callsign": "CHX100",
+      "country": "Germany",
+      "lat": 52.5688,
+      "lon": 13.4102,
+      "altKm": 0.5,
+      "speedKmh": 234,
+      "heading": 221,
+      "vertRateMs": 0.7,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-05T05:05:21.529688Z"
+  "updated_at": "2026-11-05T05:10:29.434270Z"
 }
