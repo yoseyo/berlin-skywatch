@@ -1,16 +1,33 @@
 {
   "flights": [
     {
+      "callsign": "WZZ2894",
+      "country": "Hungary",
+      "lat": 52.4834,
+      "lon": 13.7386,
+      "altKm": 11.2,
+      "speedKmh": 772,
+      "heading": 39,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Timi\u015foara",
+      "fromIata": "TSR",
+      "toCity": "Valencia",
+      "toIata": "VLC",
+      "category": "plane"
+    },
+    {
       "callsign": "PBB17",
       "country": "Germany",
-      "lat": 52.71,
-      "lon": 13.5397,
-      "altKm": 0.5,
-      "speedKmh": 41,
-      "heading": 63,
-      "vertRateMs": 1.0,
+      "lat": 52.7487,
+      "lon": 13.5476,
+      "altKm": 0.6,
+      "speedKmh": 164,
+      "heading": 191,
+      "vertRateMs": -1.0,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-11-05T22:55:21.831362Z"
+  "updated_at": "2026-11-05T23:00:50.879850Z"
 }
