@@ -2899,7 +2899,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T14:55:22.568417Z"
+    "checked_at": "2026-11-05T15:10:29.413786Z"
   },
   "BAW984": {
     "route": {
@@ -4147,7 +4147,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-04T16:00:50.176821Z"
+    "checked_at": "2026-11-05T15:10:29.413786Z"
   },
   "LGL9473": {
     "route": {
@@ -5441,10 +5441,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-05T15:05:23.248564Z"
-  },
-  "AXY248E": {
-    "route": null,
-    "checked_at": "2026-11-03T15:05:27.804976Z"
   },
   "WZZ1QS": {
     "route": {
@@ -9144,5 +9140,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-05T15:05:23.248564Z"
+  },
+  "DLH715": {
+    "route": {
+      "fromCity": "Tokyo",
+      "fromIata": "HND",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T15:10:29.413786Z"
   }
 }
