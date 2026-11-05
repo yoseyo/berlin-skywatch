@@ -808,7 +808,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T17:35:23.661401Z"
+    "checked_at": "2026-11-05T17:40:29.376193Z"
   },
   "DLH3X": {
     "route": {
@@ -2362,7 +2362,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-04T17:45:30.137052Z"
+    "checked_at": "2026-11-05T17:40:29.376193Z"
   },
   "RYR48MN": {
     "route": {
@@ -4033,7 +4033,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-04T17:20:32.008301Z"
+    "checked_at": "2026-11-05T17:40:29.376193Z"
   },
   "EJU52RH": {
     "route": {
@@ -5493,28 +5493,6 @@
   "JDI24W": {
     "route": null,
     "checked_at": "2026-11-05T15:50:34.651311Z"
-  },
-  "PGT984": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "\u0130zmir",
-      "toIata": "ADB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-03T17:35:26.662210Z"
-  },
-  "SXS2XE": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-03T17:35:26.662210Z"
   },
   "LDX11": {
     "route": null,
@@ -9334,5 +9312,20 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-05T17:35:22.772454Z"
+  },
+  "SXS2SE": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-05T17:40:29.376193Z"
+  },
+  "ATV403": {
+    "route": null,
+    "checked_at": "2026-11-05T17:40:29.376193Z"
   }
 }
