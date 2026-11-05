@@ -115,7 +115,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-04T18:00:49.039819Z"
+    "checked_at": "2026-11-05T18:00:49.067421Z"
   },
   "AEE8DT": {
     "route": {
@@ -3289,17 +3289,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-05T10:40:27.907474Z"
-  },
-  "EWG8MF": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T17:55:27.279078Z"
   },
   "DLH898": {
     "route": {
@@ -7238,7 +7227,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T19:05:23.733418Z"
+    "checked_at": "2026-11-05T18:00:49.067421Z"
   },
   "AFR15VR": {
     "route": {
@@ -9367,5 +9356,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T17:55:24.982868Z"
+  },
+  "KLM24P": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-11-05T18:00:49.067421Z"
+  },
+  "THY6904": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-05T18:00:49.067421Z"
+  },
+  "WZZ2JE": {
+    "route": {
+      "fromCity": "Liverpool",
+      "fromIata": "LPL",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-05T18:00:49.067421Z"
   }
 }
