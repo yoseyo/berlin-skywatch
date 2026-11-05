@@ -2100,7 +2100,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T14:35:24.483253Z"
+    "checked_at": "2026-11-05T15:30:41.581406Z"
   },
   "QTR73F": {
     "route": {
@@ -3600,7 +3600,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-04T16:25:21.714787Z"
+    "checked_at": "2026-11-05T15:30:41.581406Z"
   },
   "LOT4PJ": {
     "route": {
@@ -5445,28 +5445,6 @@
   "DFUNI": {
     "route": null,
     "checked_at": "2026-11-04T09:25:22.581055Z"
-  },
-  "DLH9AC": {
-    "route": {
-      "fromCity": "Billund",
-      "fromIata": "BLL",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-03T15:25:25.750095Z"
-  },
-  "SAS55H": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-03T15:25:25.750095Z"
   },
   "HOP25KD": {
     "route": {
@@ -9162,5 +9140,16 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-05T15:25:23.573165Z"
+  },
+  "EWG38HU": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-05T15:30:41.581406Z"
   }
 }
