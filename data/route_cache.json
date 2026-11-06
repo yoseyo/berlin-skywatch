@@ -291,7 +291,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-05T09:30:22.746026Z"
+    "checked_at": "2026-11-06T07:30:39.750316Z"
   },
   "SWR97Y": {
     "route": {
@@ -324,7 +324,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T07:40:28.314953Z"
+    "checked_at": "2026-11-06T07:30:39.750316Z"
   },
   "SAS767": {
     "route": {
@@ -5446,10 +5446,6 @@
     },
     "checked_at": "2026-11-05T07:05:21.192391Z"
   },
-  "DICMK": {
-    "route": null,
-    "checked_at": "2026-11-04T07:25:22.676230Z"
-  },
   "EJU42DE": {
     "route": {
       "fromCity": "Berlin",
@@ -9831,5 +9827,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T07:25:22.027929Z"
+  },
+  "RYR5QA": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T07:30:39.750316Z"
+  },
+  "RYR2UU": {
+    "route": {
+      "fromCity": "Charlestown",
+      "fromIata": "NOC",
+      "toCity": "Nottingham",
+      "toIata": "EMA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T07:30:39.750316Z"
   }
 }
