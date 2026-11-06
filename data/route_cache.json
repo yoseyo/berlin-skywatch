@@ -511,7 +511,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-05T11:20:29.799516Z"
+    "checked_at": "2026-11-06T11:35:23.003593Z"
   },
   "AEE2WD": {
     "route": {
@@ -1638,7 +1638,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T11:25:25.591574Z"
+    "checked_at": "2026-11-06T11:35:23.003593Z"
   },
   "RYR1KK": {
     "route": {
@@ -1660,7 +1660,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T11:40:28.780886Z"
+    "checked_at": "2026-11-06T11:35:23.003593Z"
   },
   "DLH9MJ": {
     "route": {
@@ -4946,10 +4946,6 @@
     },
     "checked_at": "2026-11-05T13:15:38.493087Z"
   },
-  "NAF29": {
-    "route": null,
-    "checked_at": "2026-11-04T11:30:41.651595Z"
-  },
   "HOP61ER": {
     "route": {
       "fromCity": "Paris",
@@ -5326,17 +5322,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-06T11:30:41.333714Z"
-  },
-  "EWG34T": {
-    "route": {
-      "fromCity": "Innsbruck",
-      "fromIata": "INN",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T11:30:41.651595Z"
   },
   "GTI8019": {
     "route": {
@@ -8189,7 +8174,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-11-05T15:55:23.193392Z"
+    "checked_at": "2026-11-06T11:35:23.003593Z"
   },
   "AFR386": {
     "route": {
@@ -9981,5 +9966,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T11:30:41.333714Z"
+  },
+  "DFLYC": {
+    "route": null,
+    "checked_at": "2026-11-06T11:35:23.003593Z"
+  },
+  "EWG8553": {
+    "route": {
+      "fromCity": "Bilbao",
+      "fromIata": "BIO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T11:35:23.003593Z"
   }
 }
