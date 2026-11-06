@@ -5294,7 +5294,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T18:50:30.310708Z"
+    "checked_at": "2026-11-06T19:35:22.545558Z"
   },
   "EWG57T": {
     "route": {
@@ -10502,5 +10502,31 @@
       "airlineCountry": "Croatia"
     },
     "checked_at": "2026-11-06T19:30:41.413995Z"
+  },
+  "FCK2FT": {
+    "route": null,
+    "checked_at": "2026-11-06T19:35:22.545558Z"
+  },
+  "BTI8GC": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-06T19:35:22.545558Z"
+  },
+  "CCA750": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Beijing",
+      "toIata": "PKX",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-06T19:35:22.545558Z"
   }
 }
