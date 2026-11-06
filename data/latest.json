@@ -1,14 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "QTR5G",
+      "country": "Qatar",
+      "lat": 52.3995,
+      "lon": 13.6198,
+      "altKm": 1.0,
+      "speedKmh": 341,
+      "heading": 68,
+      "vertRateMs": 11.1,
+      "airline": "Qatar Airways",
+      "airlineCountry": "Qatar",
+      "category": "plane"
+    },
+    {
       "callsign": "SAS1673",
       "country": "Denmark",
-      "lat": 52.391,
-      "lon": 13.1383,
-      "altKm": 1.5,
-      "speedKmh": 443,
-      "heading": 197,
-      "vertRateMs": -6.8,
+      "lat": 52.3043,
+      "lon": 13.2962,
+      "altKm": 0.8,
+      "speedKmh": 301,
+      "heading": 68,
+      "vertRateMs": -5.2,
       "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
       "fromCity": "Copenhagen",
@@ -18,14 +31,31 @@
       "category": "plane"
     },
     {
+      "callsign": "DLH4MJ",
+      "country": "Germany",
+      "lat": 52.2545,
+      "lon": 13.0923,
+      "altKm": 1.6,
+      "speedKmh": 403,
+      "heading": 63,
+      "vertRateMs": -4.5,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "category": "plane"
+    },
+    {
       "callsign": "EIN3JE",
       "country": "Ireland",
-      "lat": 52.2766,
-      "lon": 13.1785,
-      "altKm": 0.9,
-      "speedKmh": 333,
-      "heading": 72,
-      "vertRateMs": 0,
+      "lat": 52.3439,
+      "lon": 13.4618,
+      "altKm": 0.1,
+      "speedKmh": 233,
+      "heading": 69,
+      "vertRateMs": -3.6,
       "airline": "Aer Lingus",
       "airlineCountry": "Ireland",
       "fromCity": "Dublin",
@@ -33,24 +63,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "EZY17GF",
-      "country": "United Kingdom",
-      "lat": 52.3199,
-      "lon": 13.6999,
-      "altKm": 10.9,
-      "speedKmh": 831,
-      "heading": 121,
-      "vertRateMs": 0,
-      "airline": "easyJet",
-      "airlineCountry": "United Kingdom",
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T08:30:40.080272Z"
+  "updated_at": "2026-11-06T08:35:22.435370Z"
 }
