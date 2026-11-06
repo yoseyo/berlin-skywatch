@@ -1205,7 +1205,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T07:00:48.923408Z"
+    "checked_at": "2026-11-06T07:00:48.523489Z"
   },
   "RYR21VK": {
     "route": {
@@ -3035,7 +3035,7 @@
       "airlineName": "Ethiopian Airlines",
       "airlineCountry": "Ethiopia"
     },
-    "checked_at": "2026-11-04T07:00:50.558012Z"
+    "checked_at": "2026-11-06T07:00:48.523489Z"
   },
   "SAS1694": {
     "route": {
@@ -3772,7 +3772,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-04T06:55:22.650956Z"
+    "checked_at": "2026-11-06T07:00:48.523489Z"
   },
   "EJU16FE": {
     "route": {
@@ -5434,17 +5434,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T20:40:29.759820Z"
-  },
-  "EJU32NT": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-04T06:55:22.650956Z"
   },
   "ACA886": {
     "route": {
@@ -9794,5 +9783,27 @@
   "CAT601": {
     "route": null,
     "checked_at": "2026-11-06T06:55:21.844481Z"
+  },
+  "AUA26Y": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T07:00:48.523489Z"
+  },
+  "RYR9LE": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T07:00:48.523489Z"
   }
 }
