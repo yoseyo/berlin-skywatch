@@ -2538,7 +2538,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T20:35:23.438142Z"
+    "checked_at": "2026-11-06T20:30:39.641841Z"
   },
   "LOT1MZ": {
     "route": null,
@@ -3934,7 +3934,7 @@
       "airlineName": "Luxair",
       "airlineCountry": "Luxembourg"
     },
-    "checked_at": "2026-11-05T20:35:23.438142Z"
+    "checked_at": "2026-11-06T20:30:39.641841Z"
   },
   "EJU43LD": {
     "route": {
@@ -10564,5 +10564,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T20:25:22.124984Z"
+  },
+  "ASL60U": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Belgrade",
+      "toIata": "BEG",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-11-06T20:30:39.641841Z"
+  },
+  "RYR4LD": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T20:30:39.641841Z"
   }
 }
