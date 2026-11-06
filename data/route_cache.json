@@ -4794,10 +4794,6 @@
     },
     "checked_at": "2026-11-06T08:20:29.003796Z"
   },
-  "UKN1161": {
-    "route": null,
-    "checked_at": "2026-11-04T12:50:31.171457Z"
-  },
   "MEA245": {
     "route": {
       "fromCity": "Beirut",
@@ -10081,5 +10077,57 @@
       "airlineCountry": "Egypt"
     },
     "checked_at": "2026-11-06T12:50:29.797143Z"
+  },
+  "PGT1045": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-06T12:55:22.499388Z"
+  },
+  "RJA137": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-11-06T12:55:22.499388Z"
+  },
+  "NJE554L": {
+    "route": null,
+    "checked_at": "2026-11-06T12:55:22.499388Z"
+  },
+  "SPJDA": {
+    "route": null,
+    "checked_at": "2026-11-06T12:55:22.499388Z"
+  },
+  "WZZ2297": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Riyadh",
+      "toIata": "RUH",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-06T12:55:22.499388Z"
+  },
+  "EWG3NW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T12:55:22.499388Z"
   }
 }
