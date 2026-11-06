@@ -1748,7 +1748,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-05T12:10:32.028053Z"
+    "checked_at": "2026-11-06T12:25:21.771965Z"
   },
   "DLH4CT": {
     "route": {
@@ -5319,17 +5319,6 @@
     },
     "checked_at": "2026-11-06T12:00:49.353297Z"
   },
-  "EJU98DB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Heraklion",
-      "toIata": "HER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-04T12:20:34.291744Z"
-  },
   "TVS4576": {
     "route": {
       "fromCity": "Stuttgart",
@@ -7542,7 +7531,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-11-05T12:05:25.760888Z"
+    "checked_at": "2026-11-06T12:25:21.771965Z"
   },
   "GAF645": {
     "route": {
@@ -10014,5 +10003,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T12:20:31.144197Z"
+  },
+  "EJU45BL": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Funchal",
+      "toIata": "FNC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T12:25:21.771965Z"
   }
 }
