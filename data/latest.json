@@ -1,16 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "CHX82",
+      "country": "Germany",
+      "lat": 52.5877,
+      "lon": 13.6518,
+      "altKm": 0.6,
+      "speedKmh": 213,
+      "heading": 37,
+      "vertRateMs": -0.7,
+      "category": "plane"
+    },
+    {
       "callsign": "FCK2FT",
       "country": "Germany",
-      "lat": 52.4472,
-      "lon": 13.7061,
+      "lat": 52.4115,
+      "lon": 13.5093,
       "altKm": 0.7,
-      "speedKmh": 281,
-      "heading": 166,
+      "speedKmh": 320,
+      "heading": 67,
       "vertRateMs": 0,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T23:35:22.902834Z"
+  "updated_at": "2026-11-06T23:40:29.378831Z"
 }
