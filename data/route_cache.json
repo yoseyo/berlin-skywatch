@@ -621,7 +621,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-11-05T12:35:23.767763Z"
+    "checked_at": "2026-11-06T12:40:29.956535Z"
   },
   "SAS1678": {
     "route": {
@@ -1260,7 +1260,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-05T16:20:29.639742Z"
+    "checked_at": "2026-11-06T12:40:29.956535Z"
   },
   "FIN7PE": {
     "route": {
@@ -1803,7 +1803,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T13:10:31.750803Z"
+    "checked_at": "2026-11-06T12:40:29.956535Z"
   },
   "WMT769": {
     "route": {
@@ -4002,17 +4002,6 @@
     },
     "checked_at": "2026-11-05T19:05:23.035097Z"
   },
-  "WZZ8KY": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Baden-Baden",
-      "toIata": "FKB",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-04T12:40:29.655092Z"
-  },
   "BAW84PW": {
     "route": {
       "fromCity": "Warsaw",
@@ -5296,17 +5285,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T12:00:49.353297Z"
-  },
-  "HLF8822": {
-    "route": {
-      "fromCity": "Vatry",
-      "fromIata": "XCR",
-      "toCity": "Shenzhen (Bao'an)",
-      "toIata": "SZX",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T12:40:29.655092Z"
   },
   "TAP31EL": {
     "route": {
@@ -10044,5 +10022,20 @@
   "WFL750P": {
     "route": null,
     "checked_at": "2026-11-06T12:35:24.281490Z"
+  },
+  "WZZ21KV": {
+    "route": null,
+    "checked_at": "2026-11-06T12:40:29.956535Z"
+  },
+  "RYR5UJ": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T12:40:29.956535Z"
   }
 }
