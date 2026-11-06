@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "CHH489",
-      "country": "China",
-      "lat": 52.3358,
-      "lon": 13.4278,
-      "altKm": 0.3,
-      "speedKmh": 250,
-      "heading": 69,
-      "vertRateMs": -4.2,
-      "airline": "Hainan Airlines",
-      "airlineCountry": "China",
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "ADZ410A",
+      "country": "Bulgaria",
+      "lat": 52.494,
+      "lon": 13.5085,
+      "altKm": 3.4,
+      "speedKmh": 596,
+      "heading": 245,
+      "vertRateMs": 4.9,
+      "category": "plane"
+    },
+    {
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.8953,
+      "lon": 13.984,
+      "altKm": 11.8,
+      "speedKmh": 835,
+      "heading": 214,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T05:10:28.649524Z"
+  "updated_at": "2026-11-06T05:15:29.228563Z"
 }
