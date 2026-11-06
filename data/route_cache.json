@@ -720,7 +720,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-05T21:05:23.135051Z"
+    "checked_at": "2026-11-06T20:35:22.800361Z"
   },
   "TAP4BE": {
     "route": {
@@ -2572,7 +2572,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T19:55:24.220633Z"
+    "checked_at": "2026-11-06T20:35:22.800361Z"
   },
   "CFE8495": {
     "route": {
@@ -2943,7 +2943,7 @@
       "airlineName": "Emirates",
       "airlineCountry": "United Arab Emirates"
     },
-    "checked_at": "2026-11-05T20:40:29.759820Z"
+    "checked_at": "2026-11-06T20:35:22.800361Z"
   },
   "DLH6PX": {
     "route": {
@@ -3189,7 +3189,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T10:40:27.907474Z"
+    "checked_at": "2026-11-06T20:35:22.800361Z"
   },
   "DLH898": {
     "route": {
@@ -4477,10 +4477,6 @@
     },
     "checked_at": "2026-11-06T18:15:28.410382Z"
   },
-  "ADZ4106": {
-    "route": null,
-    "checked_at": "2026-11-04T20:30:41.106463Z"
-  },
   "EWG8181": {
     "route": {
       "fromCity": "Fuerteventura Island",
@@ -5395,10 +5391,6 @@
     },
     "checked_at": "2026-11-06T19:45:29.421845Z"
   },
-  "DFFUN": {
-    "route": null,
-    "checked_at": "2026-11-04T20:30:41.106463Z"
-  },
   "BAW983": {
     "route": {
       "fromCity": "Berlin",
@@ -5504,7 +5496,7 @@
   },
   "RYR45GY": {
     "route": null,
-    "checked_at": "2026-11-04T21:50:27.436177Z"
+    "checked_at": "2026-11-06T20:35:22.800361Z"
   },
   "ATCTEST": {
     "route": null,
@@ -10586,5 +10578,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T20:30:39.641841Z"
+  },
+  "THY6BV": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-06T20:35:22.800361Z"
+  },
+  "RYR92YL": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T20:35:22.800361Z"
   }
 }
