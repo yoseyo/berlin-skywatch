@@ -544,7 +544,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-05T11:20:29.799516Z"
+    "checked_at": "2026-11-06T11:15:29.609115Z"
   },
   "LOT282": {
     "route": {
@@ -1616,7 +1616,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T10:45:28.990510Z"
+    "checked_at": "2026-11-06T11:15:29.609115Z"
   },
   "RYR17YU": {
     "route": {
@@ -2056,7 +2056,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T06:40:28.920115Z"
+    "checked_at": "2026-11-06T11:15:29.609115Z"
   },
   "DLH6LJ": {
     "route": {
@@ -5327,10 +5327,6 @@
     },
     "checked_at": "2026-11-06T10:45:31.602402Z"
   },
-  "RJA23H": {
-    "route": null,
-    "checked_at": "2026-11-04T11:10:35.176796Z"
-  },
   "DEHWZ": {
     "route": null,
     "checked_at": "2026-11-04T11:15:39.756449Z"
@@ -7553,7 +7549,7 @@
   },
   "WUK7877": {
     "route": null,
-    "checked_at": "2026-11-05T11:05:22.890334Z"
+    "checked_at": "2026-11-06T11:15:29.609115Z"
   },
   "RYR37GU": {
     "route": {
@@ -7930,7 +7926,7 @@
   },
   "DFWEL": {
     "route": null,
-    "checked_at": "2026-11-05T14:25:23.219412Z"
+    "checked_at": "2026-11-06T11:15:29.609115Z"
   },
   "RYR81YU": {
     "route": {
@@ -9923,5 +9919,27 @@
   "DCW1": {
     "route": null,
     "checked_at": "2026-11-06T11:10:28.823207Z"
+  },
+  "EWG86Y": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T11:15:29.609115Z"
+  },
+  "EXS63C": {
+    "route": {
+      "fromCity": "Kittil\u00e4",
+      "fromIata": "KTT",
+      "toCity": "Bristol",
+      "toIata": "BRS",
+      "airlineName": "Jet2.com",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-06T11:15:29.609115Z"
   }
 }
