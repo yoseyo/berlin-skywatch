@@ -3,20 +3,44 @@
     {
       "callsign": "EJU95LT",
       "country": "Austria",
-      "lat": 52.2394,
-      "lon": 13.1988,
-      "altKm": 1.1,
-      "speedKmh": 379,
-      "heading": 25,
-      "vertRateMs": -2.3,
+      "lat": 52.346,
+      "lon": 13.4709,
+      "altKm": 0.1,
+      "speedKmh": 233,
+      "heading": 69,
+      "vertRateMs": -2.9,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Rabat",
-      "toIata": "RBA",
+      "category": "plane"
+    },
+    {
+      "callsign": "SRR6227",
+      "country": "Denmark",
+      "lat": 52.3917,
+      "lon": 13.5854,
+      "altKm": 1.0,
+      "speedKmh": 279,
+      "heading": 69,
+      "vertRateMs": 10.1,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "category": "plane"
+    },
+    {
+      "callsign": "NJE660W",
+      "country": "Portugal",
+      "lat": 52.4501,
+      "lon": 13.5265,
+      "altKm": 3.4,
+      "speedKmh": 593,
+      "heading": 269,
+      "vertRateMs": 6.2,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T22:10:32.713289Z"
+  "updated_at": "2026-11-06T22:15:29.245534Z"
 }
