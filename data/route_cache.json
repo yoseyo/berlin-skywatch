@@ -5446,10 +5446,6 @@
     },
     "checked_at": "2026-11-05T20:40:29.759820Z"
   },
-  "SXS5RC": {
-    "route": null,
-    "checked_at": "2026-11-04T06:35:23.363230Z"
-  },
   "EJU38WT": {
     "route": {
       "fromCity": "Berlin",
@@ -9698,5 +9694,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T06:30:41.196850Z"
+  },
+  "EJU63VG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T06:35:24.227280Z"
+  },
+  "AUA2R": {
+    "route": {
+      "fromCity": "Chicago",
+      "fromIata": "ORD",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T06:35:24.227280Z"
+  },
+  "EJU95HZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sevilla",
+      "toIata": "SVQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T06:35:24.227280Z"
   }
 }
