@@ -2178,7 +2178,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T17:00:53.913548Z"
+    "checked_at": "2026-11-06T17:10:29.999081Z"
   },
   "PGT61NK": {
     "route": null,
@@ -2910,7 +2910,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-05T16:45:31.691495Z"
+    "checked_at": "2026-11-06T17:10:29.999081Z"
   },
   "SAS2657": {
     "route": {
@@ -5218,17 +5218,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T13:45:29.491873Z"
-  },
-  "RYR353": {
-    "route": {
-      "fromCity": "Eindhoven",
-      "fromIata": "EIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T17:10:29.277551Z"
   },
   "UAE61": {
     "route": {
@@ -10260,5 +10249,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T17:05:24.644349Z"
+  },
+  "WZZ9025": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-06T17:10:29.999081Z"
   }
 }
