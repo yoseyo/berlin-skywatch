@@ -1693,7 +1693,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T11:40:28.780886Z"
+    "checked_at": "2026-11-06T11:50:29.825707Z"
   },
   "THY9VS": {
     "route": {
@@ -1715,7 +1715,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T11:50:28.976672Z"
+    "checked_at": "2026-11-06T11:50:29.825707Z"
   },
   "NOZ1104": {
     "route": {
@@ -4888,7 +4888,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-04T14:25:22.242837Z"
+    "checked_at": "2026-11-06T11:50:29.825707Z"
   },
   "N8705Y": {
     "route": null,
@@ -5318,17 +5318,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-05T10:40:27.907474Z"
-  },
-  "DLH453": {
-    "route": {
-      "fromCity": "Los Angeles",
-      "fromIata": "LAX",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T11:50:28.539458Z"
   },
   "GAF312": {
     "route": null,
@@ -9955,5 +9944,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-06T11:40:30.708242Z"
+  },
+  "TVS4577": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-11-06T11:50:29.825707Z"
+  },
+  "NOZ1WC": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-06T11:50:29.825707Z"
   }
 }
