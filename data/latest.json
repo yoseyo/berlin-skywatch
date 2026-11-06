@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-06T00:05:23.584315Z"
+  "flights": [
+    {
+      "callsign": "KRP655",
+      "country": "Romania",
+      "lat": 52.7264,
+      "lon": 14.0015,
+      "altKm": 10.9,
+      "speedKmh": 887,
+      "heading": 173,
+      "vertRateMs": 0,
+      "airline": "Carpatair",
+      "airlineCountry": "Romania",
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-06T00:10:28.768639Z"
 }
