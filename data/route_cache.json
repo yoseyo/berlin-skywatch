@@ -1183,7 +1183,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T08:20:30.613914Z"
+    "checked_at": "2026-11-06T15:50:30.758989Z"
   },
   "WZZ97YB": {
     "route": {
@@ -2078,7 +2078,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T16:05:29.689552Z"
+    "checked_at": "2026-11-06T15:50:30.758989Z"
   },
   "EWG8EV": {
     "route": {
@@ -4359,17 +4359,6 @@
     "route": null,
     "checked_at": "2026-11-05T13:05:25.464756Z"
   },
-  "WZZ80EN": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-04T15:45:29.786774Z"
-  },
   "EWG9045": {
     "route": {
       "fromCity": "Berlin",
@@ -5229,28 +5218,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-06T15:35:23.760954Z"
-  },
-  "CCA957": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-04T15:45:29.786774Z"
-  },
-  "CFG9NX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T15:50:30.346931Z"
   },
   "NSZ9PR": {
     "route": {
@@ -7621,7 +7588,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-05T16:30:40.936495Z"
+    "checked_at": "2026-11-06T15:50:30.758989Z"
   },
   "DLH9AC": {
     "route": {
@@ -10234,5 +10201,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T15:45:28.748269Z"
+  },
+  "CFG3NY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T15:50:30.758989Z"
+  },
+  "AFR82RB": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-06T15:50:30.758989Z"
   }
 }
