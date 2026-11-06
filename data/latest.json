@@ -1,12 +1,23 @@
 {
   "flights": [
     {
+      "callsign": "MFX152",
+      "country": "Uzbekistan",
+      "lat": 52.1593,
+      "lon": 13.642,
+      "altKm": 11.5,
+      "speedKmh": 755,
+      "heading": 64,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "RYR18LZ",
       "country": "Poland",
-      "lat": 52.8785,
-      "lon": 13.1308,
+      "lat": 52.7987,
+      "lon": 13.3691,
       "altKm": 11.8,
-      "speedKmh": 806,
+      "speedKmh": 807,
       "heading": 119,
       "vertRateMs": 0,
       "airline": "Ryanair",
@@ -20,12 +31,12 @@
     {
       "callsign": "SRR6227",
       "country": "Denmark",
-      "lat": 52.506,
-      "lon": 13.4632,
-      "altKm": 3.4,
-      "speedKmh": 588,
-      "heading": 254,
-      "vertRateMs": 4.5,
+      "lat": 52.4712,
+      "lon": 13.2525,
+      "altKm": 4.2,
+      "speedKmh": 673,
+      "heading": 255,
+      "vertRateMs": 12.7,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Berlin",
@@ -33,18 +44,7 @@
       "toCity": "Cologne",
       "toIata": "CGN",
       "category": "plane"
-    },
-    {
-      "callsign": "NJE660W",
-      "country": "Portugal",
-      "lat": 52.446,
-      "lon": 12.8838,
-      "altKm": 6.9,
-      "speedKmh": 791,
-      "heading": 269,
-      "vertRateMs": 9.1,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T22:19:12.677849Z"
+  "updated_at": "2026-11-06T22:20:29.307626Z"
 }
