@@ -915,7 +915,7 @@
       "airlineName": "Diamond Sky",
       "airlineCountry": "Estonia"
     },
-    "checked_at": "2026-11-05T17:10:28.871036Z"
+    "checked_at": "2026-11-06T16:45:29.985918Z"
   },
   "BBG272": {
     "route": {
@@ -2134,7 +2134,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-05T16:45:31.691495Z"
+    "checked_at": "2026-11-06T16:45:29.985918Z"
   },
   "DLH7T": {
     "route": {
@@ -2516,7 +2516,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T10:40:27.907474Z"
+    "checked_at": "2026-11-06T16:45:29.985918Z"
   },
   "SAS95W": {
     "route": {
@@ -10241,5 +10241,42 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T16:40:30.236768Z"
+  },
+  "DCORR": {
+    "route": null,
+    "checked_at": "2026-11-06T16:45:29.985918Z"
+  },
+  "LOT2WP": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-06T16:45:29.985918Z"
+  },
+  "RYR556Z": {
+    "route": {
+      "fromCity": "Genova",
+      "fromIata": "GOA",
+      "toCity": "London",
+      "toIata": "STN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T16:45:29.985918Z"
+  },
+  "EWG13N": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Edinburgh",
+      "toIata": "EDI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T16:45:29.985918Z"
   }
 }
