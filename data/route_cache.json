@@ -82,7 +82,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-05T16:50:29.446143Z"
+    "checked_at": "2026-11-06T16:50:33.817087Z"
   },
   "KLM1780": {
     "route": {
@@ -104,7 +104,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-05T17:20:28.746411Z"
+    "checked_at": "2026-11-06T16:50:33.817087Z"
   },
   "LOT3KT": {
     "route": {
@@ -1385,7 +1385,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T09:30:22.746026Z"
+    "checked_at": "2026-11-06T16:50:33.817087Z"
   },
   "WZZ969": {
     "route": {
@@ -2145,7 +2145,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T16:55:22.472982Z"
+    "checked_at": "2026-11-06T16:50:33.817087Z"
   },
   "THY3PC": {
     "route": {
@@ -4379,7 +4379,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-05T16:25:23.198964Z"
+    "checked_at": "2026-11-06T16:50:33.817087Z"
   },
   "EWG007": {
     "route": null,
@@ -5229,10 +5229,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-06T16:15:29.246110Z"
-  },
-  "DCUVH": {
-    "route": null,
-    "checked_at": "2026-11-04T16:50:28.812670Z"
   },
   "LOT3": {
     "route": {
@@ -6439,7 +6435,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T09:45:29.612828Z"
+    "checked_at": "2026-11-06T16:50:33.817087Z"
   },
   "UAG84C": {
     "route": {
@@ -10278,5 +10274,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T16:45:29.985918Z"
+  },
+  "EJU14LU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T16:50:33.817087Z"
+  },
+  "SWU1950": {
+    "route": {
+      "fromCity": "Bolzano",
+      "fromIata": "BZO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss European Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-11-06T16:50:33.817087Z"
   }
 }
