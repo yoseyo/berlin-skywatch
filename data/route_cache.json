@@ -2012,7 +2012,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T15:15:31.710115Z"
+    "checked_at": "2026-11-06T15:15:29.085063Z"
   },
   "RYR310V": {
     "route": {
@@ -2112,7 +2112,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-05T15:15:31.710115Z"
+    "checked_at": "2026-11-06T15:15:29.085063Z"
   },
   "RYR37SL": {
     "route": {
@@ -3820,7 +3820,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T15:50:34.651311Z"
+    "checked_at": "2026-11-06T15:15:29.085063Z"
   },
   "EWG9YR": {
     "route": {
@@ -5196,28 +5196,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-11-06T14:55:21.700173Z"
-  },
-  "EJU14HZ": {
-    "route": {
-      "fromCity": "Giza",
-      "fromIata": "SPX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-04T15:11:08.860539Z"
-  },
-  "BTI8MT": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-04T15:11:08.860539Z"
   },
   "RYR8MQ": {
     "route": {
@@ -7433,7 +7411,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T15:10:29.413786Z"
+    "checked_at": "2026-11-06T15:15:29.085063Z"
   },
   "KLM77H": {
     "route": {
@@ -7580,7 +7558,7 @@
       "airlineName": "China Eastern Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-05T15:55:23.193392Z"
+    "checked_at": "2026-11-06T15:15:29.085063Z"
   },
   "DISPO": {
     "route": {
@@ -10219,5 +10197,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T15:10:29.434226Z"
+  },
+  "EJU32NT": {
+    "route": {
+      "fromCity": "Porto",
+      "fromIata": "OPO",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T15:15:29.085063Z"
+  },
+  "EJU47EH": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T15:15:29.085063Z"
+  },
+  "LOT6309": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Punta Cana",
+      "toIata": "PUJ",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-06T15:15:29.085063Z"
   }
 }
