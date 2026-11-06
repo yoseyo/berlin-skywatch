@@ -4698,17 +4698,6 @@
     },
     "checked_at": "2026-11-05T18:35:23.154441Z"
   },
-  "RYR93VZ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Faro",
-      "toIata": "FAO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T10:20:31.291728Z"
-  },
   "TVF97HA": {
     "route": {
       "fromCity": "Paris",
@@ -5345,43 +5334,6 @@
     },
     "checked_at": "2026-11-06T10:10:29.699893Z"
   },
-  "NSZ4505": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-04T10:20:31.291728Z"
-  },
-  "EJU14KB": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-04T10:20:31.291728Z"
-  },
-  "EWG38M": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T10:20:31.291728Z"
-  },
-  "KRP654": {
-    "route": null,
-    "checked_at": "2026-11-04T10:20:31.291728Z"
-  },
   "THY6TK": {
     "route": {
       "fromCity": "Hamburg",
@@ -5391,7 +5343,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T10:25:25.278068Z"
+    "checked_at": "2026-11-06T10:25:24.065222Z"
   },
   "LHB7": {
     "route": null,
@@ -9882,5 +9834,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T10:20:31.243672Z"
+  },
+  "LOT7VJ": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-06T10:25:24.065222Z"
+  },
+  "EJU73LD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Varna",
+      "toIata": "VAR",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T10:25:24.065222Z"
   }
 }
