@@ -566,7 +566,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-05T11:20:29.799516Z"
+    "checked_at": "2026-11-06T11:30:41.333714Z"
   },
   "KLC21A": {
     "route": {
@@ -4257,7 +4257,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T10:25:22.939677Z"
+    "checked_at": "2026-11-06T11:30:41.333714Z"
   },
   "LOT403": {
     "route": {
@@ -5314,7 +5314,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T06:25:22.745725Z"
+    "checked_at": "2026-11-06T11:30:41.333714Z"
   },
   "NSZ4506": {
     "route": {
@@ -5325,7 +5325,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-04T11:25:23.462829Z"
+    "checked_at": "2026-11-06T11:30:41.333714Z"
   },
   "EWG34T": {
     "route": {
@@ -9959,5 +9959,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T11:25:21.761888Z"
+  },
+  "EJU15KG": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T11:30:41.333714Z"
+  },
+  "RYR8HW": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Cagliari",
+      "toIata": "CAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T11:30:41.333714Z"
   }
 }
