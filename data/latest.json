@@ -1,18 +1,18 @@
 {
   "flights": [
     {
-      "callsign": "RYR16LA",
-      "country": "Ireland",
-      "lat": 52.3473,
-      "lon": 13.3996,
-      "altKm": 0.4,
-      "speedKmh": 266,
-      "heading": 69,
-      "vertRateMs": -4.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "London",
-      "fromIata": "STN",
+      "callsign": "WZZ8GS",
+      "country": "Hungary",
+      "lat": 52.2903,
+      "lon": 13.2381,
+      "altKm": 1.1,
+      "speedKmh": 349,
+      "heading": 68,
+      "vertRateMs": -8.8,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
@@ -20,12 +20,12 @@
     {
       "callsign": "SWR5XL",
       "country": "Switzerland",
-      "lat": 52.3843,
-      "lon": 13.5559,
-      "altKm": 0.7,
-      "speedKmh": 262,
-      "heading": 69,
-      "vertRateMs": 15.0,
+      "lat": 52.3385,
+      "lon": 13.2475,
+      "altKm": 4.8,
+      "speedKmh": 768,
+      "heading": 233,
+      "vertRateMs": 14.3,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
       "fromCity": "Berlin",
@@ -33,7 +33,37 @@
       "toCity": "Zurich",
       "toIata": "ZRH",
       "category": "plane"
+    },
+    {
+      "callsign": "CFG432",
+      "country": "Germany",
+      "lat": 52.3842,
+      "lon": 13.5547,
+      "altKm": 0.6,
+      "speedKmh": 294,
+      "heading": 70,
+      "vertRateMs": 13,
+      "airline": "Condor Flugdienst",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    },
+    {
+      "callsign": "AFR1434",
+      "country": "France",
+      "lat": 52.1812,
+      "lon": 13.085,
+      "altKm": 1.4,
+      "speedKmh": 430,
+      "heading": 11,
+      "vertRateMs": -6.8,
+      "airline": "Air France",
+      "airlineCountry": "France",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T07:50:28.387563Z"
+  "updated_at": "2026-11-06T07:55:22.662027Z"
 }
