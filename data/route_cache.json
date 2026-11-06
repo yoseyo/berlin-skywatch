@@ -1381,7 +1381,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-05T08:55:22.347504Z"
+    "checked_at": "2026-11-06T08:55:22.999081Z"
   },
   "DLH4MJ": {
     "route": {
@@ -1440,7 +1440,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-05T09:00:50.657648Z"
+    "checked_at": "2026-11-06T08:55:22.999081Z"
   },
   "IBE07ML": {
     "route": {
@@ -3301,17 +3301,6 @@
     },
     "checked_at": "2026-11-06T08:25:22.471482Z"
   },
-  "MGL137": {
-    "route": {
-      "fromCity": "Ulaanbaatar (Sergelen)",
-      "fromIata": "UBN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "MIAT Mongolian Airlines",
-      "airlineCountry": "Mongolia"
-    },
-    "checked_at": "2026-11-04T08:55:21.722198Z"
-  },
   "LOT4LV": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -4380,17 +4369,6 @@
     },
     "checked_at": "2026-11-05T06:10:28.993552Z"
   },
-  "DLH9EY": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T08:55:21.722198Z"
-  },
   "EWG7B": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5389,21 +5367,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-06T08:15:28.800665Z"
-  },
-  "PGT72PN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Ankara",
-      "toIata": "ESB",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-04T08:55:21.722198Z"
-  },
-  "ATV302": {
-    "route": null,
-    "checked_at": "2026-11-04T08:55:21.722198Z"
   },
   "PGT9SF": {
     "route": {
@@ -7857,7 +7820,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-05T11:35:24.166592Z"
+    "checked_at": "2026-11-06T08:55:22.999081Z"
   },
   "HBJLH": {
     "route": null,
@@ -9774,5 +9737,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T08:45:30.218731Z"
+  },
+  "BAW973E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-06T08:55:22.999081Z"
   }
 }
