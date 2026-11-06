@@ -1880,7 +1880,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T13:55:20.923820Z"
+    "checked_at": "2026-11-06T14:30:42.302084Z"
   },
   "DLH1EE": {
     "route": {
@@ -1924,7 +1924,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T14:20:29.305770Z"
+    "checked_at": "2026-11-06T14:30:42.302084Z"
   },
   "DLH9AW": {
     "route": {
@@ -3783,7 +3783,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T14:55:21.927725Z"
+    "checked_at": "2026-11-06T14:30:42.302084Z"
   },
   "CFE8PR": {
     "route": {
@@ -3809,7 +3809,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-04T14:30:43.393450Z"
+    "checked_at": "2026-11-06T14:30:42.302084Z"
   },
   "EWG52K": {
     "route": {
@@ -4776,17 +4776,6 @@
     },
     "checked_at": "2026-11-06T14:20:29.721680Z"
   },
-  "KLM67U": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Rome",
-      "toIata": "FCO",
-      "airlineName": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands"
-    },
-    "checked_at": "2026-11-04T14:25:22.242837Z"
-  },
   "TYW213F": {
     "route": {
       "fromCity": "Bristol",
@@ -5185,21 +5174,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-11-06T10:50:30.111416Z"
-  },
-  "N66HR": {
-    "route": null,
-    "checked_at": "2026-11-04T14:25:22.242837Z"
-  },
-  "TKJ4JH": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-04T14:25:22.242837Z"
   },
   "STLON20": {
     "route": null,
@@ -7534,7 +7508,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-05T15:05:23.248564Z"
+    "checked_at": "2026-11-06T14:30:42.302084Z"
   },
   "DLH715": {
     "route": {
@@ -10169,5 +10143,27 @@
       "airlineCountry": "Jordan"
     },
     "checked_at": "2026-11-06T14:25:21.581153Z"
+  },
+  "NSZ5651": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-06T14:30:42.302084Z"
+  },
+  "LOT2PJ": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-06T14:30:42.302084Z"
   }
 }
