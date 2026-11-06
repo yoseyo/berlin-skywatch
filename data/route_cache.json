@@ -4571,17 +4571,6 @@
     },
     "checked_at": "2026-11-04T10:45:28.494066Z"
   },
-  "EWG5YA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "M\u00e1laga",
-      "toIata": "AGP",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T05:35:22.753162Z"
-  },
   "WZZ58": {
     "route": {
       "fromCity": "Warsaw",
@@ -9684,5 +9673,16 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-06T05:15:29.228563Z"
+  },
+  "SAS49N": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-06T05:35:24.096220Z"
   }
 }
