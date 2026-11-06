@@ -959,7 +959,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-05T19:10:31.511157Z"
+    "checked_at": "2026-11-06T19:00:50.856342Z"
   },
   "BPOBER": {
     "route": null,
@@ -2259,7 +2259,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T17:05:25.053596Z"
+    "checked_at": "2026-11-06T19:00:50.856342Z"
   },
   "RYR91HD": {
     "route": null,
@@ -2395,7 +2395,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T18:50:30.310708Z"
+    "checked_at": "2026-11-06T19:00:50.856342Z"
   },
   "BAW99XC": {
     "route": {
@@ -2561,7 +2561,7 @@
   },
   "SAS82U": {
     "route": null,
-    "checked_at": "2026-11-05T19:35:23.907781Z"
+    "checked_at": "2026-11-06T19:00:50.856342Z"
   },
   "DLH5AH": {
     "route": {
@@ -5274,17 +5274,6 @@
     },
     "checked_at": "2026-11-05T13:30:41.863857Z"
   },
-  "EJU79NE": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-04T18:55:23.248542Z"
-  },
   "BAW990G": {
     "route": {
       "fromCity": "London",
@@ -5317,17 +5306,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T18:50:30.310708Z"
-  },
-  "LOT2CF": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-04T19:00:50.043139Z"
   },
   "EWG57T": {
     "route": {
@@ -5434,7 +5412,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-04T20:00:49.016625Z"
+    "checked_at": "2026-11-06T19:00:50.856342Z"
   },
   "AUA238N": {
     "route": {
@@ -7635,7 +7613,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-05T19:00:49.275016Z"
+    "checked_at": "2026-11-06T19:00:50.856342Z"
   },
   "HOP15VR": {
     "route": {
@@ -10451,5 +10429,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T18:45:27.840912Z"
+  },
+  "EZY73MW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bristol",
+      "toIata": "BRS",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-06T19:00:50.856342Z"
+  },
+  "RYR8CJ": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Catania",
+      "toIata": "CTA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T19:00:50.856342Z"
+  },
+  "RYR5JH": {
+    "route": {
+      "fromCity": "Shannon",
+      "fromIata": "SNN",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T19:00:50.856342Z"
   }
 }
