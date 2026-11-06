@@ -5494,28 +5494,6 @@
     },
     "checked_at": "2026-11-05T20:40:29.759820Z"
   },
-  "SRN1988": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Sirair",
-      "airlineCountry": "Russia"
-    },
-    "checked_at": "2026-11-04T04:40:32.785746Z"
-  },
-  "CAL067": {
-    "route": {
-      "fromCity": "Taipei",
-      "fromIata": "TPE",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "China Airlines",
-      "airlineCountry": "Taiwan"
-    },
-    "checked_at": "2026-11-04T04:40:32.785746Z"
-  },
   "SXS4YN": {
     "route": null,
     "checked_at": "2026-11-04T04:50:32.593850Z"
@@ -9688,5 +9666,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-06T04:40:31.712744Z"
+  },
+  "TAY3WZ": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "ASL Airlines Belgium",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-11-06T04:45:27.564907Z"
   }
 }

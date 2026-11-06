@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "TAY3WZ",
+      "country": "Austria",
+      "lat": 52.11,
+      "lon": 12.8017,
+      "altKm": 2.8,
+      "speedKmh": 508,
+      "heading": 47,
+      "vertRateMs": -8.1,
+      "airline": "ASL Airlines Belgium",
+      "airlineCountry": "Belgium",
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
       "callsign": "BLX336",
       "country": "Sweden",
-      "lat": 52.1172,
-      "lon": 13.9768,
+      "lat": 52.7011,
+      "lon": 13.743,
       "altKm": 12.4,
-      "speedKmh": 827,
+      "speedKmh": 824,
       "heading": 346,
-      "vertRateMs": -0.3,
+      "vertRateMs": 0,
       "airline": "TUIfly Nordic",
       "airlineCountry": "Sweden",
       "fromCity": "Larnaca",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T04:40:31.712744Z"
+  "updated_at": "2026-11-06T04:45:27.564907Z"
 }
