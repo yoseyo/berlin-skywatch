@@ -4404,7 +4404,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-04T19:30:40.443973Z"
+    "checked_at": "2026-11-06T11:40:30.708242Z"
   },
   "WZZ58": {
     "route": {
@@ -5322,17 +5322,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-06T11:30:41.333714Z"
-  },
-  "GTI8019": {
-    "route": {
-      "fromCity": "Cincinnati / Covington",
-      "fromIata": "CVG",
-      "toCity": "Tacoma",
-      "toIata": "TCM",
-      "airlineName": "Atlas Air",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-11-04T11:35:24.622441Z"
   },
   "BTI6WU": {
     "route": {
@@ -9981,5 +9970,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T11:35:23.003593Z"
+  },
+  "EWG38M": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T11:40:30.708242Z"
+  },
+  "WZZ1039": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-06T11:40:30.708242Z"
   }
 }
