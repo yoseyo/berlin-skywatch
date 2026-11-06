@@ -5340,17 +5340,6 @@
     },
     "checked_at": "2026-11-06T19:10:29.004775Z"
   },
-  "RYR64HG": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T19:15:28.975077Z"
-  },
   "BTI8GC": {
     "route": {
       "fromCity": "Zurich",
@@ -10484,5 +10473,38 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-06T19:15:27.953417Z"
+  },
+  "SXS2XE": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-06T19:20:30.343301Z"
+  },
+  "BTI6UQ": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-06T19:20:30.343301Z"
+  },
+  "RYR45WX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Treviso",
+      "toIata": "TSF",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T19:20:30.343301Z"
   }
 }
