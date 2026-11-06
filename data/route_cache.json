@@ -555,7 +555,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-05T13:10:31.750803Z"
+    "checked_at": "2026-11-06T13:00:50.362862Z"
   },
   "KLM26L": {
     "route": {
@@ -1748,7 +1748,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T12:40:30.293379Z"
+    "checked_at": "2026-11-06T13:00:50.362862Z"
   },
   "DLH9EP": {
     "route": {
@@ -1761,17 +1761,6 @@
     },
     "checked_at": "2026-11-06T12:20:31.144197Z"
   },
-  "SAS769": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-04T12:55:24.385980Z"
-  },
   "TKJ8QS": {
     "route": {
       "fromCity": "Mu\u015f",
@@ -1781,7 +1770,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T13:05:25.464756Z"
+    "checked_at": "2026-11-06T13:00:50.362862Z"
   },
   "SXS60G": {
     "route": {
@@ -4905,17 +4894,6 @@
     },
     "checked_at": "2026-11-04T15:55:22.368919Z"
   },
-  "GCK40": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "NHT",
-      "toCity": "Valletta",
-      "toIata": "MLA",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-04T12:55:24.385980Z"
-  },
   "EJU61GN": {
     "route": {
       "fromCity": "Larnaca",
@@ -5281,17 +5259,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-11-06T12:20:31.144197Z"
-  },
-  "KAL542": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Seoul",
-      "toIata": "ICN",
-      "airlineName": "Korean Air",
-      "airlineCountry": "South Korea"
-    },
-    "checked_at": "2026-11-04T12:55:24.385980Z"
   },
   "IBE07EB": {
     "route": {
@@ -7650,7 +7617,7 @@
   },
   "DEBRR": {
     "route": null,
-    "checked_at": "2026-11-05T13:25:25.978334Z"
+    "checked_at": "2026-11-06T13:00:50.362862Z"
   },
   "DFABJ": {
     "route": null,
@@ -10129,5 +10096,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T12:55:22.499388Z"
+  },
+  "NJE586G": {
+    "route": null,
+    "checked_at": "2026-11-06T13:00:50.362862Z"
+  },
+  "WZZ9GN": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-06T13:00:50.362862Z"
   }
 }
