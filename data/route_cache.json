@@ -1913,7 +1913,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-05T13:35:23.647363Z"
+    "checked_at": "2026-11-06T13:45:27.836159Z"
   },
   "WMT974": {
     "route": {
@@ -4349,7 +4349,7 @@
       "airlineName": "City Airlines",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T13:25:25.978334Z"
+    "checked_at": "2026-11-06T13:45:27.836159Z"
   },
   "CFE27PM": {
     "route": {
@@ -5226,21 +5226,6 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-05T13:25:25.978334Z"
-  },
-  "LOT238": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-04T13:40:30.438421Z"
-  },
-  "GAF528": {
-    "route": null,
-    "checked_at": "2026-11-04T13:40:30.438421Z"
   },
   "NJE530G": {
     "route": null,
@@ -10104,5 +10089,16 @@
   "BBB54": {
     "route": null,
     "checked_at": "2026-11-06T13:40:29.356458Z"
+  },
+  "EJU19UQ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Olbia (SS)",
+      "toIata": "OLB",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T13:45:27.836159Z"
   }
 }
