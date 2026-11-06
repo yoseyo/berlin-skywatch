@@ -3,12 +3,12 @@
     {
       "callsign": "VLG9PJ",
       "country": "Spain",
-      "lat": 52.4007,
-      "lon": 13.6204,
-      "altKm": 1.1,
-      "speedKmh": 348,
-      "heading": 53,
-      "vertRateMs": 4.5,
+      "lat": 52.33,
+      "lon": 13.2008,
+      "altKm": 4.8,
+      "speedKmh": 675,
+      "heading": 232,
+      "vertRateMs": 12.0,
       "airline": "Vueling Airlines",
       "airlineCountry": "Spain",
       "fromCity": "Berlin",
@@ -18,16 +18,44 @@
       "category": "plane"
     },
     {
+      "callsign": "GAF626",
+      "country": "Germany",
+      "lat": 52.3735,
+      "lon": 13.5098,
+      "altKm": 0.2,
+      "speedKmh": 276,
+      "heading": 69,
+      "vertRateMs": 15.6,
+      "category": "jet"
+    },
+    {
+      "callsign": "DLH6T",
+      "country": "Germany",
+      "lat": 52.1022,
+      "lon": 13.2034,
+      "altKm": 1.7,
+      "speedKmh": 604,
+      "heading": 348,
+      "vertRateMs": -5.2,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "CHX39",
       "country": "Germany",
-      "lat": 52.4971,
-      "lon": 13.3318,
-      "altKm": 0.3,
-      "speedKmh": 200,
-      "heading": 187,
-      "vertRateMs": 0,
+      "lat": 52.4409,
+      "lon": 13.3227,
+      "altKm": 0.1,
+      "speedKmh": 9,
+      "heading": 37,
+      "vertRateMs": -1.3,
       "category": "heli"
     }
   ],
-  "updated_at": "2026-11-06T15:25:22.533059Z"
+  "updated_at": "2026-11-06T15:30:41.978429Z"
 }
