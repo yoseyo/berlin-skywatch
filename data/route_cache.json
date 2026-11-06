@@ -2307,7 +2307,7 @@
   },
   "RYR91HD": {
     "route": null,
-    "checked_at": "2026-11-05T11:40:28.780886Z"
+    "checked_at": "2026-11-06T07:15:28.616325Z"
   },
   "SWR2TG": {
     "route": {
@@ -2778,7 +2778,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T07:10:28.061165Z"
+    "checked_at": "2026-11-06T07:15:28.616325Z"
   },
   "AUA991A": {
     "route": {
@@ -3563,7 +3563,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-05T07:05:21.192391Z"
+    "checked_at": "2026-11-06T07:15:28.616325Z"
   },
   "THY2LX": {
     "route": {
@@ -5445,28 +5445,6 @@
       "airlineCountry": "Canada"
     },
     "checked_at": "2026-11-05T07:05:21.192391Z"
-  },
-  "PGT1677": {
-    "route": {
-      "fromCity": "Ankara",
-      "fromIata": "ESB",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-04T07:15:27.987094Z"
-  },
-  "BAW851": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-04T07:15:27.987094Z"
   },
   "DICMK": {
     "route": null,
@@ -9820,5 +9798,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T07:10:29.245906Z"
+  },
+  "NOZ72C": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-06T07:15:28.616325Z"
+  },
+  "RYR9CB": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T07:15:28.616325Z"
   }
 }
