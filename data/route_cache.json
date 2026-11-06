@@ -2605,7 +2605,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-05T21:05:23.135051Z"
+    "checked_at": "2026-11-06T15:20:31.744758Z"
   },
   "RYR26NC": {
     "route": {
@@ -5197,17 +5197,6 @@
     },
     "checked_at": "2026-11-06T14:55:21.700173Z"
   },
-  "RYR8MQ": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T15:20:29.801050Z"
-  },
   "RYR67RH": {
     "route": {
       "fromCity": "Birmingham",
@@ -5218,10 +5207,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-05T08:00:50.175509Z"
-  },
-  "DEDLJ": {
-    "route": null,
-    "checked_at": "2026-11-04T15:20:29.801050Z"
   },
   "PLF120": {
     "route": {
@@ -10230,5 +10215,16 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-06T15:15:29.085063Z"
+  },
+  "EJU71YV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T15:20:31.744758Z"
   }
 }
