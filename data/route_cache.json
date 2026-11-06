@@ -1605,7 +1605,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T11:15:29.061304Z"
+    "checked_at": "2026-11-06T11:20:30.687661Z"
   },
   "DLH3CM": {
     "route": {
@@ -2516,7 +2516,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-05T11:05:22.890334Z"
+    "checked_at": "2026-11-06T11:20:30.687661Z"
   },
   "EWG8465": {
     "route": {
@@ -3796,17 +3796,6 @@
     },
     "checked_at": "2026-11-05T12:10:32.028053Z"
   },
-  "EWG7XP": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T11:20:30.200187Z"
-  },
   "EJU54BP": {
     "route": {
       "fromCity": "Paris",
@@ -4890,17 +4879,6 @@
     },
     "checked_at": "2026-11-06T10:45:31.602402Z"
   },
-  "RYR44ZH": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Warsaw",
-      "toIata": "WMI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T11:20:30.200187Z"
-  },
   "EJU51NW": {
     "route": {
       "fromCity": "Berlin",
@@ -5327,10 +5305,6 @@
     },
     "checked_at": "2026-11-06T10:45:31.602402Z"
   },
-  "DEHWZ": {
-    "route": null,
-    "checked_at": "2026-11-04T11:15:39.756449Z"
-  },
   "EWG65T": {
     "route": {
       "fromCity": "Palma De Mallorca",
@@ -5341,10 +5315,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T06:25:22.745725Z"
-  },
-  "AMQ16A": {
-    "route": null,
-    "checked_at": "2026-11-04T11:20:30.200187Z"
   },
   "NSZ4506": {
     "route": {
@@ -9941,5 +9911,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-06T11:15:29.609115Z"
+  },
+  "EJU98XV": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T11:20:30.687661Z"
+  },
+  "EFD5R": {
+    "route": null,
+    "checked_at": "2026-11-06T11:20:30.687661Z"
   }
 }
