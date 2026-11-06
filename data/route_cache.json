@@ -1227,7 +1227,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T21:00:49.203662Z"
+    "checked_at": "2026-11-06T16:20:29.770365Z"
   },
   "WZZ173": {
     "route": {
@@ -2101,7 +2101,7 @@
   },
   "TKJ1AV": {
     "route": null,
-    "checked_at": "2026-11-04T16:35:23.634708Z"
+    "checked_at": "2026-11-06T16:20:29.770365Z"
   },
   "WMT844": {
     "route": {
@@ -3079,7 +3079,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T09:40:29.003241Z"
+    "checked_at": "2026-11-06T16:20:29.770365Z"
   },
   "KLM1316": {
     "route": {
@@ -5218,17 +5218,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-05T14:10:30.385275Z"
-  },
-  "RYR49": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Treviso",
-      "toIata": "TSF",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T16:20:28.360842Z"
   },
   "ISR256": {
     "route": {
@@ -7470,7 +7459,7 @@
   },
   "RMB3": {
     "route": null,
-    "checked_at": "2026-11-05T16:25:23.198964Z"
+    "checked_at": "2026-11-06T16:20:29.770365Z"
   },
   "RYR57SZ": {
     "route": {
@@ -10194,5 +10183,27 @@
   "AMB527": {
     "route": null,
     "checked_at": "2026-11-06T16:15:29.246110Z"
+  },
+  "LBT232": {
+    "route": {
+      "fromCity": "Tunis",
+      "fromIata": "TUN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-11-06T16:20:29.770365Z"
+  },
+  "WZZ98SJ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-06T16:20:29.770365Z"
   }
 }
