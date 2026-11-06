@@ -34,7 +34,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-05T10:10:31.736912Z"
+    "checked_at": "2026-11-06T10:45:31.602402Z"
   },
   "CHX31": {
     "route": null,
@@ -1649,7 +1649,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T11:40:28.780886Z"
+    "checked_at": "2026-11-06T10:45:31.602402Z"
   },
   "SXS5JX": {
     "route": {
@@ -4417,17 +4417,6 @@
     },
     "checked_at": "2026-11-04T19:30:40.443973Z"
   },
-  "SXS9EF": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-04T10:45:28.494066Z"
-  },
   "WZZ58": {
     "route": {
       "fromCity": "Warsaw",
@@ -4910,7 +4899,7 @@
       "airlineName": "Middle East Airlines",
       "airlineCountry": "Lebanon"
     },
-    "checked_at": "2026-11-05T11:00:51.322886Z"
+    "checked_at": "2026-11-06T10:45:31.602402Z"
   },
   "RYR44ZH": {
     "route": {
@@ -5351,7 +5340,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-04T11:10:35.176796Z"
+    "checked_at": "2026-11-06T10:45:31.602402Z"
   },
   "RJA23H": {
     "route": null,
@@ -7456,7 +7445,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-11-05T10:30:40.105087Z"
+    "checked_at": "2026-11-06T10:45:31.602402Z"
   },
   "DLH9910": {
     "route": {
@@ -9860,5 +9849,31 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-06T10:40:35.839962Z"
+  },
+  "BAF655": {
+    "route": {
+      "fromCity": "Halifax",
+      "fromIata": "YHZ",
+      "toCity": "Melsbroek (Steenokkerzeel)",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-06T10:45:31.602402Z"
+  },
+  "SQF902": {
+    "route": null,
+    "checked_at": "2026-11-06T10:45:31.602402Z"
+  },
+  "STQ111": {
+    "route": {
+      "fromCity": "Weeze",
+      "fromIata": "NRN",
+      "toCity": "Dortmund",
+      "toIata": "DTM",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-06T10:45:31.602402Z"
   }
 }
