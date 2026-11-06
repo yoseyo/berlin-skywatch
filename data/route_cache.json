@@ -478,7 +478,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-05T11:40:28.780886Z"
+    "checked_at": "2026-11-06T11:00:50.957941Z"
   },
   "KLM1775": {
     "route": {
@@ -500,7 +500,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T11:10:35.970358Z"
+    "checked_at": "2026-11-06T11:00:50.957941Z"
   },
   "BEL4NK": {
     "route": {
@@ -4878,17 +4878,6 @@
   "UKN1161": {
     "route": null,
     "checked_at": "2026-11-04T12:50:31.171457Z"
-  },
-  "RYR260L": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T10:55:25.961690Z"
   },
   "MEA245": {
     "route": {
@@ -9897,5 +9886,38 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-06T10:50:30.111416Z"
+  },
+  "EJU57AV": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T11:00:50.957941Z"
+  },
+  "LBT248": {
+    "route": {
+      "fromCity": "Monastir",
+      "fromIata": "MIR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-11-06T11:00:50.957941Z"
+  },
+  "RYR72EZ": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Rzesz\u00f3w",
+      "toIata": "RZE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-06T11:00:50.957941Z"
   }
 }
