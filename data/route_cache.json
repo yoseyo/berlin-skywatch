@@ -412,7 +412,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-05T10:15:30.078253Z"
+    "checked_at": "2026-11-06T10:00:50.314242Z"
   },
   "BEL8CE": {
     "route": {
@@ -423,7 +423,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-05T09:55:25.189304Z"
+    "checked_at": "2026-11-06T10:00:50.314242Z"
   },
   "SAS85J": {
     "route": {
@@ -1517,7 +1517,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T10:25:22.939677Z"
+    "checked_at": "2026-11-06T10:00:50.314242Z"
   },
   "THY2JV": {
     "route": {
@@ -5345,17 +5345,6 @@
     },
     "checked_at": "2026-11-06T09:25:22.503643Z"
   },
-  "EWG6951": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Rijeka",
-      "toIata": "RJK",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-04T09:55:24.753183Z"
-  },
   "CFG3YU": {
     "route": {
       "fromCity": "Berlin",
@@ -8938,7 +8927,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T20:05:24.426684Z"
+    "checked_at": "2026-11-06T10:00:50.314242Z"
   },
   "NOZ1125": {
     "route": {
@@ -9837,5 +9826,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T09:55:24.352347Z"
+  },
+  "EWG9042": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T10:00:50.314242Z"
   }
 }
