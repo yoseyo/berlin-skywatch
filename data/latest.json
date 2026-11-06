@@ -1,27 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "EJU95LT",
-      "country": "Austria",
-      "lat": 52.346,
-      "lon": 13.4709,
-      "altKm": 0.1,
-      "speedKmh": 233,
-      "heading": 69,
-      "vertRateMs": -2.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
+      "callsign": "RYR18LZ",
+      "country": "Poland",
+      "lat": 52.8785,
+      "lon": 13.1308,
+      "altKm": 11.8,
+      "speedKmh": 806,
+      "heading": 119,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
       "category": "plane"
     },
     {
       "callsign": "SRR6227",
       "country": "Denmark",
-      "lat": 52.3917,
-      "lon": 13.5854,
-      "altKm": 1.0,
-      "speedKmh": 279,
-      "heading": 69,
-      "vertRateMs": 10.1,
+      "lat": 52.506,
+      "lon": 13.4632,
+      "altKm": 3.4,
+      "speedKmh": 588,
+      "heading": 254,
+      "vertRateMs": 4.5,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Berlin",
@@ -33,14 +37,14 @@
     {
       "callsign": "NJE660W",
       "country": "Portugal",
-      "lat": 52.4501,
-      "lon": 13.5265,
-      "altKm": 3.4,
-      "speedKmh": 593,
+      "lat": 52.446,
+      "lon": 12.8838,
+      "altKm": 6.9,
+      "speedKmh": 791,
       "heading": 269,
-      "vertRateMs": 6.2,
+      "vertRateMs": 9.1,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-06T22:15:29.245534Z"
+  "updated_at": "2026-11-06T22:19:12.677849Z"
 }
