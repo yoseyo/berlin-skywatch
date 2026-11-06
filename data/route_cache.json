@@ -4384,17 +4384,6 @@
     },
     "checked_at": "2026-11-06T11:40:30.708242Z"
   },
-  "WZZ58": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-04T12:25:23.807556Z"
-  },
   "CCA966": {
     "route": {
       "fromCity": "Frankfurt am Main",
@@ -10014,5 +10003,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T12:25:21.771965Z"
+  },
+  "WZZ5R": {
+    "route": {
+      "fromCity": "Kopitnari",
+      "fromIata": "KUT",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-06T12:30:41.256402Z"
+  },
+  "LBT249": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Monastir",
+      "toIata": "MIR",
+      "airlineName": "Nouvelair",
+      "airlineCountry": "Tunisia"
+    },
+    "checked_at": "2026-11-06T12:30:41.256402Z"
+  },
+  "DCBCT": {
+    "route": null,
+    "checked_at": "2026-11-06T12:30:41.256402Z"
   }
 }
