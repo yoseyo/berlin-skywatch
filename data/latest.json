@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-06T05:25:22.146232Z"
+  "flights": [
+    {
+      "callsign": "DLH2EE",
+      "country": "Germany",
+      "lat": 52.3171,
+      "lon": 13.8255,
+      "altKm": 3.3,
+      "speedKmh": 537,
+      "heading": 127,
+      "vertRateMs": 11.1,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-06T05:30:39.066382Z"
 }
