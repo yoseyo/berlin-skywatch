@@ -2976,7 +2976,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-11-05T14:00:51.051255Z"
+    "checked_at": "2026-11-06T14:00:53.095357Z"
   },
   "KLC1341": {
     "route": null,
@@ -4398,10 +4398,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-05T14:55:21.927725Z"
-  },
-  "PIK91": {
-    "route": null,
-    "checked_at": "2026-11-04T13:55:26.371674Z"
   },
   "CHX35": {
     "route": null,
@@ -10144,5 +10140,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T13:55:22.296919Z"
+  },
+  "WZZ191": {
+    "route": {
+      "fromCity": "Ohrid",
+      "fromIata": "OHD",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-06T14:00:53.095357Z"
   }
 }
