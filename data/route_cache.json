@@ -71,7 +71,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-05T11:30:41.897520Z"
+    "checked_at": "2026-11-06T12:00:49.353297Z"
   },
   "SWR23F": {
     "route": {
@@ -434,7 +434,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-05T10:15:30.078253Z"
+    "checked_at": "2026-11-06T12:00:49.353297Z"
   },
   "AEE8RB": {
     "route": {
@@ -1671,7 +1671,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T12:10:32.028053Z"
+    "checked_at": "2026-11-06T12:00:49.353297Z"
   },
   "WZZ966": {
     "route": {
@@ -1682,7 +1682,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-05T12:20:30.469030Z"
+    "checked_at": "2026-11-06T12:00:49.353297Z"
   },
   "DLH184": {
     "route": {
@@ -5319,10 +5319,6 @@
     },
     "checked_at": "2026-11-06T11:55:23.892899Z"
   },
-  "GAF312": {
-    "route": null,
-    "checked_at": "2026-11-04T11:55:25.917971Z"
-  },
   "NSZ72N": {
     "route": {
       "fromCity": "Prague",
@@ -5358,7 +5354,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-05T12:00:50.079330Z"
+    "checked_at": "2026-11-06T12:00:49.353297Z"
   },
   "EJU98DB": {
     "route": {
@@ -9970,5 +9966,42 @@
   "OEXSA": {
     "route": null,
     "checked_at": "2026-11-06T11:55:23.892899Z"
+  },
+  "EJU91JK": {
+    "route": {
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T12:00:49.353297Z"
+  },
+  "N2763": {
+    "route": null,
+    "checked_at": "2026-11-06T12:00:49.353297Z"
+  },
+  "EWG6T": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Sarajevo",
+      "toIata": "SJJ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T12:00:49.353297Z"
+  },
+  "EWG2UE": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T12:00:49.353297Z"
   }
 }
