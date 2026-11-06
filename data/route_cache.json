@@ -753,7 +753,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-05T16:25:23.198964Z"
+    "checked_at": "2026-11-06T16:40:30.236768Z"
   },
   "LOT5NA": {
     "route": {
@@ -2226,7 +2226,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-05T16:30:40.936495Z"
+    "checked_at": "2026-11-06T16:40:30.236768Z"
   },
   "BAW988G": {
     "route": {
@@ -5230,14 +5230,6 @@
     },
     "checked_at": "2026-11-06T16:15:29.246110Z"
   },
-  "CFC2926": {
-    "route": null,
-    "checked_at": "2026-11-04T16:35:23.634708Z"
-  },
-  "NJE429B": {
-    "route": null,
-    "checked_at": "2026-11-04T16:35:23.634708Z"
-  },
   "DCUVH": {
     "route": null,
     "checked_at": "2026-11-04T16:50:28.812670Z"
@@ -7370,7 +7362,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T15:55:23.193392Z"
+    "checked_at": "2026-11-06T16:40:30.236768Z"
   },
   "CES787": {
     "route": {
@@ -10227,5 +10219,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T16:35:23.362234Z"
+  },
+  "TKJ3NX": {
+    "route": {
+      "fromCity": "Ordu",
+      "fromIata": "OGU",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-06T16:40:30.236768Z"
+  },
+  "EJU82BY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-06T16:40:30.236768Z"
   }
 }
