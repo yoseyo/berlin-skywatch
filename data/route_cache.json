@@ -467,7 +467,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T10:50:28.052422Z"
+    "checked_at": "2026-11-06T10:30:42.491168Z"
   },
   "LOT3JA": {
     "route": {
@@ -744,17 +744,6 @@
     },
     "checked_at": "2026-11-05T20:10:29.798713Z"
   },
-  "BAW844": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Dubrovnik",
-      "toIata": "DBV",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-04T10:25:25.278068Z"
-  },
   "KLM67B": {
     "route": {
       "fromCity": "Amsterdam",
@@ -937,7 +926,7 @@
       "airlineName": "Bluebird Airways (BZ)",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-05T12:50:28.091691Z"
+    "checked_at": "2026-11-06T10:30:42.491168Z"
   },
   "TAP53EI": {
     "route": {
@@ -2373,7 +2362,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T17:55:24.982868Z"
+    "checked_at": "2026-11-06T10:30:42.491168Z"
   },
   "SAS88C": {
     "route": {
@@ -4045,17 +4034,6 @@
       "airlineCountry": "Luxembourg"
     },
     "checked_at": "2026-11-05T19:05:23.035097Z"
-  },
-  "EZY73YT": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-04T10:25:25.278068Z"
   },
   "WZZ8KY": {
     "route": {
@@ -9856,5 +9834,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T10:25:24.065222Z"
+  },
+  "NSZ4505": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-06T10:30:42.491168Z"
+  },
+  "ICE532": {
+    "route": {
+      "fromCity": "Reykjav\u00edk",
+      "fromIata": "KEF",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Icelandair",
+      "airlineCountry": "Iceland"
+    },
+    "checked_at": "2026-11-06T10:30:42.491168Z"
+  },
+  "GAF129": {
+    "route": null,
+    "checked_at": "2026-11-06T10:30:42.491168Z"
   }
 }
