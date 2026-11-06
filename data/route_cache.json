@@ -882,7 +882,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-05T09:30:22.746026Z"
+    "checked_at": "2026-11-06T09:25:22.503643Z"
   },
   "FIN3YX": {
     "route": {
@@ -1040,7 +1040,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-05T09:30:22.746026Z"
+    "checked_at": "2026-11-06T09:25:22.503643Z"
   },
   "PGT979": {
     "route": {
@@ -4691,17 +4691,6 @@
     },
     "checked_at": "2026-11-05T17:15:30.275859Z"
   },
-  "RYR457A": {
-    "route": {
-      "fromCity": "Faro",
-      "fromIata": "FAO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-04T09:20:30.426561Z"
-  },
   "CFG433": {
     "route": {
       "fromCity": "Hurghada",
@@ -5377,7 +5366,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-04T09:30:43.508586Z"
+    "checked_at": "2026-11-06T09:25:22.503643Z"
   },
   "EWG6951": {
     "route": {
@@ -7312,7 +7301,7 @@
   },
   "WUK3636": {
     "route": null,
-    "checked_at": "2026-11-05T09:15:34.298711Z"
+    "checked_at": "2026-11-06T09:25:22.503643Z"
   },
   "MSR983": {
     "route": {
@@ -9800,5 +9789,31 @@
   "JFA21W": {
     "route": null,
     "checked_at": "2026-11-06T09:20:29.117912Z"
+  },
+  "TVF34UB": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-06T09:25:22.503643Z"
+  },
+  "GAF600": {
+    "route": null,
+    "checked_at": "2026-11-06T09:25:22.503643Z"
+  },
+  "EWG4HV": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Cairo",
+      "toIata": "CAI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-06T09:25:22.503643Z"
   }
 }
