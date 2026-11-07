@@ -1,38 +1,42 @@
 {
   "flights": [
     {
-      "callsign": "LEJ888",
-      "country": "Germany",
-      "lat": 52.4276,
-      "lon": 13.1085,
-      "altKm": 6.3,
-      "speedKmh": 512,
-      "heading": 264,
-      "vertRateMs": 10.1,
-      "category": "jet"
+      "callsign": "PGT8AE",
+      "country": "Turkey",
+      "lat": 52.2225,
+      "lon": 13.191,
+      "altKm": 1.3,
+      "speedKmh": 416,
+      "heading": 319,
+      "vertRateMs": -3.2,
+      "airline": "Pegasus Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
     },
     {
-      "callsign": "RYR5RG",
-      "country": "Ireland",
-      "lat": 52.3367,
-      "lon": 13.4315,
-      "altKm": 0.2,
-      "speedKmh": 278,
-      "heading": 69,
-      "vertRateMs": -5.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
+      "callsign": "TKJ1AV",
+      "country": "Turkey",
+      "lat": 52.4285,
+      "lon": 13.8861,
+      "altKm": 2.6,
+      "speedKmh": 500,
+      "heading": 115,
+      "vertRateMs": 11.4,
       "category": "plane"
     },
     {
       "callsign": "RYR7SP",
       "country": "Ireland",
-      "lat": 52.5609,
-      "lon": 13.5985,
-      "altKm": 2.6,
-      "speedKmh": 526,
-      "heading": 263,
-      "vertRateMs": 14.6,
+      "lat": 52.4695,
+      "lon": 12.8366,
+      "altKm": 6.3,
+      "speedKmh": 727,
+      "heading": 259,
+      "vertRateMs": 12.0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Sofia",
@@ -42,5 +46,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-07T16:15:31.132918Z"
+  "updated_at": "2026-11-07T16:20:32.726587Z"
 }

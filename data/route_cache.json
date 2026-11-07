@@ -2064,7 +2064,7 @@
   },
   "TKJ1AV": {
     "route": null,
-    "checked_at": "2026-11-06T16:20:29.770365Z"
+    "checked_at": "2026-11-07T16:20:32.726587Z"
   },
   "WMT844": {
     "route": {
@@ -5584,21 +5584,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-06T11:35:23.003593Z"
-  },
-  "DEEMB": {
-    "route": null,
-    "checked_at": "2026-11-05T16:20:29.639742Z"
-  },
-  "EJU42RB": {
-    "route": {
-      "fromCity": "Sharm el-Sheikh",
-      "fromIata": "SSH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-05T16:20:29.639742Z"
   },
   "RMB3": {
     "route": null,
@@ -10566,5 +10551,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T16:10:31.870603Z"
+  },
+  "PGT8AE": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T16:20:32.726587Z"
   }
 }
