@@ -2244,7 +2244,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T09:10:29.546011Z"
+    "checked_at": "2026-11-07T20:00:48.576876Z"
   },
   "DLH5HW": {
     "route": {
@@ -2516,7 +2516,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-06T20:25:22.124984Z"
+    "checked_at": "2026-11-07T20:00:48.576876Z"
   },
   "SAS82U": {
     "route": null,
@@ -4267,17 +4267,6 @@
     },
     "checked_at": "2026-11-07T08:30:41.307279Z"
   },
-  "EJU84VX": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-05T19:55:24.220633Z"
-  },
   "WMT8HG": {
     "route": {
       "fromCity": "Hamburg",
@@ -4674,17 +4663,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T19:25:22.136260Z"
-  },
-  "EZY98TR": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-05T19:55:24.220633Z"
   },
   "RYR9UU": {
     "route": {
@@ -10435,5 +10413,16 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-07T19:50:30.375743Z"
+  },
+  "SXS8NM": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T20:00:48.576876Z"
   }
 }
