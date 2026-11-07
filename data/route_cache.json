@@ -1623,7 +1623,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T12:00:49.353297Z"
+    "checked_at": "2026-11-07T12:15:29.652022Z"
   },
   "WZZ966": {
     "route": {
@@ -1689,7 +1689,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-05T12:20:30.469030Z"
+    "checked_at": "2026-11-07T12:15:29.652022Z"
   },
   "KLM29G": {
     "route": {
@@ -5484,33 +5484,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-11-06T12:25:21.771965Z"
-  },
-  "GAF645": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "airlineName": "German Air Force",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-05T12:10:32.028053Z"
-  },
-  "NOZ6TY": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-05T12:15:26.909014Z"
-  },
-  "PVD427A": {
-    "route": null,
-    "checked_at": "2026-11-05T12:15:26.909014Z"
+    "checked_at": "2026-11-07T12:15:29.652022Z"
   },
   "RYR242G": {
     "route": {
@@ -10501,5 +10475,38 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-07T12:05:24.795489Z"
+  },
+  "EJU47TP": {
+    "route": {
+      "fromCity": "Luxembourg",
+      "fromIata": "LUX",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-07T12:15:29.652022Z"
+  },
+  "SAS1665": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-07T12:15:29.652022Z"
+  },
+  "LOT6310": {
+    "route": {
+      "fromCity": "Punta Cana",
+      "fromIata": "PUJ",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-07T12:15:29.652022Z"
   }
 }
