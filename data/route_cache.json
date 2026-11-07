@@ -2677,17 +2677,6 @@
     },
     "checked_at": "2026-11-07T05:50:31.665578Z"
   },
-  "PGT39EW": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-05T11:25:25.591574Z"
-  },
   "EWG7GK": {
     "route": {
       "fromCity": "Faro",
@@ -3571,17 +3560,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T11:25:21.761888Z"
-  },
-  "BAW97ED": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-05T11:30:41.897520Z"
   },
   "CHH490": {
     "route": {
@@ -5467,31 +5445,9 @@
     },
     "checked_at": "2026-11-06T08:20:29.003796Z"
   },
-  "RYR252U": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T11:25:25.591574Z"
-  },
   "RYR18HB": {
     "route": null,
     "checked_at": "2026-11-07T09:05:24.708914Z"
-  },
-  "NOZ61C": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bergen",
-      "toIata": "BGO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-05T11:30:41.897520Z"
   },
   "WZZ24TK": {
     "route": {
@@ -10498,5 +10454,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T11:25:23.779691Z"
+  },
+  "EJU37WL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Fuerteventura Island",
+      "toIata": "FUE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-07T11:30:42.248421Z"
+  },
+  "FIN4LK": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-07T11:30:42.248421Z"
+  },
+  "QTR719": {
+    "route": {
+      "fromCity": "Doha",
+      "fromIata": "DOH",
+      "toCity": "Seattle",
+      "toIata": "SEA",
+      "airlineName": "Qatar Airways",
+      "airlineCountry": "Qatar"
+    },
+    "checked_at": "2026-11-07T11:30:42.248421Z"
+  },
+  "RYR29SC": {
+    "route": {
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T11:30:42.248421Z"
   }
 }
