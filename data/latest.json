@@ -1,22 +1,63 @@
 {
   "flights": [
     {
-      "callsign": "RYR48MN",
+      "callsign": "LEJ888",
+      "country": "Germany",
+      "lat": 52.4342,
+      "lon": 13.6467,
+      "altKm": 2.1,
+      "speedKmh": 396,
+      "heading": 0,
+      "vertRateMs": 14.3,
+      "category": "jet"
+    },
+    {
+      "callsign": "PGT5304",
+      "country": "Turkey",
+      "lat": 52.3822,
+      "lon": 13.9081,
+      "altKm": 3.3,
+      "speedKmh": 546,
+      "heading": 107,
+      "vertRateMs": 6.5,
+      "airline": "Pegasus Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR5RG",
       "country": "Ireland",
-      "lat": 52.3019,
-      "lon": 13.4501,
-      "altKm": 11.4,
-      "speedKmh": 793,
-      "heading": 176,
-      "vertRateMs": 0,
+      "lat": 52.1632,
+      "lon": 13.1611,
+      "altKm": 1.9,
+      "speedKmh": 484,
+      "heading": 354,
+      "vertRateMs": -3.6,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Frankfurt am Main",
-      "toIata": "HHN",
+      "fromCity": "Mykonos Island",
+      "fromIata": "JMK",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR72EV",
+      "country": "Malta",
+      "lat": 52.295,
+      "lon": 13.2579,
+      "altKm": 0.9,
+      "speedKmh": 388,
+      "heading": 68,
+      "vertRateMs": -6.8,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-07T16:05:24.405436Z"
+  "updated_at": "2026-11-07T16:10:31.870603Z"
 }

@@ -5585,17 +5585,6 @@
     },
     "checked_at": "2026-11-06T11:35:23.003593Z"
   },
-  "AFR386": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Toronto",
-      "toIata": "YYZ",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-11-05T16:05:29.689552Z"
-  },
   "DEEMB": {
     "route": null,
     "checked_at": "2026-11-05T16:20:29.639742Z"
@@ -7500,7 +7489,7 @@
   },
   "LEJ888": {
     "route": null,
-    "checked_at": "2026-11-06T12:20:31.144197Z"
+    "checked_at": "2026-11-07T16:10:31.870603Z"
   },
   "QTR66K": {
     "route": {
@@ -8715,7 +8704,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T18:15:28.410382Z"
+    "checked_at": "2026-11-07T16:10:31.870603Z"
   },
   "SWU1951": {
     "route": {
@@ -10555,5 +10544,27 @@
   "AWH94B": {
     "route": null,
     "checked_at": "2026-11-07T15:55:23.737109Z"
+  },
+  "PGT5304": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T16:10:31.870603Z"
+  },
+  "RYR72EV": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T16:10:31.870603Z"
   }
 }
