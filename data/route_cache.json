@@ -2520,7 +2520,7 @@
   },
   "SAS82U": {
     "route": null,
-    "checked_at": "2026-11-06T19:00:50.856342Z"
+    "checked_at": "2026-11-07T20:20:34.090206Z"
   },
   "DLH5AH": {
     "route": {
@@ -10424,5 +10424,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-07T20:15:29.656991Z"
+  },
+  "EWG8551": {
+    "route": {
+      "fromCity": "Jerez de la Frontera",
+      "fromIata": "XRY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T20:20:34.090206Z"
+  },
+  "RYR66FY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marrakech",
+      "toIata": "RAK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T20:20:34.090206Z"
   }
 }
