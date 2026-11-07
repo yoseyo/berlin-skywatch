@@ -595,7 +595,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-06T13:05:25.967948Z"
+    "checked_at": "2026-11-07T13:00:50.344206Z"
   },
   "MSC2960": {
     "route": {
@@ -3418,17 +3418,6 @@
     },
     "checked_at": "2026-11-05T14:45:30.116572Z"
   },
-  "RYR87GR": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "MXP",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T12:55:32.379309Z"
-  },
   "SAS695": {
     "route": {
       "fromCity": "Vienna",
@@ -5507,17 +5496,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T17:55:22.917717Z"
-  },
-  "ISR254": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-11-05T13:00:49.624506Z"
   },
   "EJU93CP": {
     "route": {
@@ -8147,7 +8125,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-06T13:20:28.991079Z"
+    "checked_at": "2026-11-07T13:00:50.344206Z"
   },
   "STQ555": {
     "route": {
@@ -10539,5 +10517,42 @@
   "CHX64": {
     "route": null,
     "checked_at": "2026-11-07T12:55:23.643914Z"
+  },
+  "PWF102": {
+    "route": {
+      "fromCity": "Dresden",
+      "fromIata": "DRS",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Private Wings Flugcharter",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T13:00:50.344206Z"
+  },
+  "RYR45KM": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T13:00:50.344206Z"
+  },
+  "SPSMJ": {
+    "route": null,
+    "checked_at": "2026-11-07T13:00:50.344206Z"
+  },
+  "EWG8550": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Jerez de la Frontera",
+      "toIata": "XRY",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T13:00:50.344206Z"
   }
 }
