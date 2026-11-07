@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-07T23:20:31.473172Z"
+  "flights": [
+    {
+      "callsign": "RYR92YL",
+      "country": "Poland",
+      "lat": 52.844,
+      "lon": 13.6366,
+      "altKm": 11.4,
+      "speedKmh": 800,
+      "heading": 119,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-07T23:25:24.610008Z"
 }
