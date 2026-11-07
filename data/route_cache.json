@@ -694,7 +694,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-06T08:25:22.471482Z"
+    "checked_at": "2026-11-07T08:20:31.045273Z"
   },
   "SAS1674": {
     "route": {
@@ -10662,5 +10662,16 @@
   "PHMUE": {
     "route": null,
     "checked_at": "2026-11-07T08:10:31.603871Z"
+  },
+  "CFG1RD": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T08:20:31.045273Z"
   }
 }
