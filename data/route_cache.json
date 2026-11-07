@@ -1975,7 +1975,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-06T14:10:30.943908Z"
+    "checked_at": "2026-11-07T14:10:32.686104Z"
   },
   "DLH3AJ": {
     "route": {
@@ -3429,17 +3429,6 @@
     },
     "checked_at": "2026-11-06T17:45:28.491830Z"
   },
-  "RYR24YB": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T14:05:31.210637Z"
-  },
   "HOP62AM": {
     "route": {
       "fromCity": "Berlin",
@@ -4734,17 +4723,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-05T21:25:22.493443Z"
-  },
-  "DFOOD": {
-    "route": {
-      "fromCity": "Marseille",
-      "fromIata": "MRS",
-      "toCity": "Augsburg",
-      "toIata": "AGB",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-05T14:10:30.385275Z"
   },
   "BTI9AG": {
     "route": {
@@ -10598,5 +10576,16 @@
   "AWH94A": {
     "route": null,
     "checked_at": "2026-11-07T14:05:24.275391Z"
+  },
+  "WZZ432": {
+    "route": {
+      "fromCity": "Funchal",
+      "fromIata": "FNC",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-07T14:10:32.686104Z"
   }
 }
