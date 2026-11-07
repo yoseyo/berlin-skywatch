@@ -232,7 +232,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-06T06:50:29.788291Z"
+    "checked_at": "2026-11-07T06:40:31.034971Z"
   },
   "AUA240": {
     "route": {
@@ -10721,5 +10721,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-07T06:30:43.549398Z"
+  },
+  "WZZ959": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-07T06:40:31.034971Z"
+  },
+  "RYR77AJ": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Shannon",
+      "toIata": "SNN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T06:40:31.034971Z"
   }
 }
