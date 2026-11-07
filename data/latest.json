@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "EJU68CT",
-      "country": "Austria",
-      "lat": 52.304,
-      "lon": 13.2949,
-      "altKm": 0.8,
-      "speedKmh": 320,
-      "heading": 69,
-      "vertRateMs": -4.2,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "LOT2CM",
+      "country": "Poland",
+      "lat": 52.387,
+      "lon": 13.7003,
+      "altKm": 10.5,
+      "speedKmh": 882,
+      "heading": 270,
+      "vertRateMs": 0,
+      "airline": "LOT Polish Airlines",
+      "airlineCountry": "Poland",
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "category": "plane"
+    },
+    {
+      "callsign": "SDR30NB",
+      "country": "Germany",
+      "lat": 52.4379,
+      "lon": 13.7895,
+      "altKm": 1.7,
+      "speedKmh": 487,
+      "heading": 85,
+      "vertRateMs": 12.0,
+      "airline": "City Airline",
+      "airlineCountry": "Sweden",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-07T07:15:28.074987Z"
+  "updated_at": "2026-11-07T07:20:31.298684Z"
 }
