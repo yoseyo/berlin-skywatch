@@ -225,7 +225,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-06T05:50:29.063458Z"
+    "checked_at": "2026-11-07T06:10:31.809928Z"
   },
   "BEL8YE": {
     "route": {
@@ -838,7 +838,7 @@
   },
   "CFG553": {
     "route": null,
-    "checked_at": "2026-11-06T06:05:24.165039Z"
+    "checked_at": "2026-11-07T06:10:31.809928Z"
   },
   "BTI74A": {
     "route": {
@@ -4138,17 +4138,6 @@
     },
     "checked_at": "2026-11-06T09:05:22.796766Z"
   },
-  "EWG9Z": {
-    "route": {
-      "fromCity": "Salzburg",
-      "fromIata": "SZG",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-05T06:10:28.993552Z"
-  },
   "EWG7B": {
     "route": {
       "fromCity": "D\u00fcsseldorf",
@@ -5427,17 +5416,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T18:00:52.586330Z"
-  },
-  "CFG2CA": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-05T06:10:28.993552Z"
   },
   "RYR29NN": {
     "route": {
@@ -10795,5 +10773,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-07T06:00:52.412737Z"
+  },
+  "RYR55SQ": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T06:10:31.809928Z"
+  },
+  "CFG2CK": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T06:10:31.809928Z"
+  },
+  "AWH93C": {
+    "route": null,
+    "checked_at": "2026-11-07T06:10:31.809928Z"
+  },
+  "WMT8EK": {
+    "route": {
+      "fromCity": "Cluj-Napoca",
+      "fromIata": "CLJ",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-07T06:10:31.809928Z"
   }
 }
