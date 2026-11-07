@@ -1392,7 +1392,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-06T08:55:22.999081Z"
+    "checked_at": "2026-11-07T09:00:55.723680Z"
   },
   "IBE07ML": {
     "route": {
@@ -10621,5 +10621,16 @@
   "MGH634": {
     "route": null,
     "checked_at": "2026-11-07T08:35:23.141304Z"
+  },
+  "CSC9003": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Sichuan Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-07T09:00:55.723680Z"
   }
 }
