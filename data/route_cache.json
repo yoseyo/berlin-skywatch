@@ -1359,7 +1359,7 @@
   },
   "RYR13BV": {
     "route": null,
-    "checked_at": "2026-11-06T23:10:31.998309Z"
+    "checked_at": "2026-11-07T13:20:33.813840Z"
   },
   "RYR7SP": {
     "route": {
@@ -1821,7 +1821,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-06T13:20:28.991079Z"
+    "checked_at": "2026-11-07T13:20:33.813840Z"
   },
   "THY1NC": {
     "route": {
@@ -4289,17 +4289,6 @@
     },
     "checked_at": "2026-11-06T11:50:29.825707Z"
   },
-  "BTI98T": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-05T13:15:38.493087Z"
-  },
   "HOP61ER": {
     "route": {
       "fromCity": "Paris",
@@ -5504,10 +5493,6 @@
     },
     "checked_at": "2026-11-06T12:05:25.006818Z"
   },
-  "CHX84": {
-    "route": null,
-    "checked_at": "2026-11-05T13:15:38.493087Z"
-  },
   "EJU41NG": {
     "route": {
       "fromCity": "Paris",
@@ -5518,17 +5503,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T19:40:27.360291Z"
-  },
-  "RYR3LN": {
-    "route": {
-      "fromCity": "Pisa",
-      "fromIata": "PSA",
-      "toCity": "Bari",
-      "toIata": "BRI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T13:15:38.493087Z"
   },
   "N5PG": {
     "route": null,
@@ -5831,7 +5805,7 @@
   },
   "DITLS": {
     "route": null,
-    "checked_at": "2026-11-05T15:50:34.651311Z"
+    "checked_at": "2026-11-07T13:20:33.813840Z"
   },
   "EJU35NQ": {
     "route": {
@@ -10591,5 +10565,42 @@
   "CHX92": {
     "route": null,
     "checked_at": "2026-11-07T13:15:31.045135Z"
+  },
+  "WZZ1858": {
+    "route": {
+      "fromCity": "Forl\u00ec (FC)",
+      "fromIata": "FRL",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-07T13:20:33.813840Z"
+  },
+  "THY79K": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "San Francisco",
+      "toIata": "SFO",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T13:20:33.813840Z"
+  },
+  "DEUNK": {
+    "route": null,
+    "checked_at": "2026-11-07T13:20:33.813840Z"
+  },
+  "EJU78DJ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Giza",
+      "toIata": "SPX",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-07T13:20:33.813840Z"
   }
 }
