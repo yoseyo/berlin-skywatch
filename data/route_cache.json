@@ -981,7 +981,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-06T08:15:28.800665Z"
+    "checked_at": "2026-11-07T08:00:50.641317Z"
   },
   "KLM38Z": {
     "route": {
@@ -2774,7 +2774,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T08:00:49.522740Z"
+    "checked_at": "2026-11-07T08:00:50.641317Z"
   },
   "AFR23TP": {
     "route": {
@@ -4035,17 +4035,6 @@
     },
     "checked_at": "2026-11-07T07:55:22.690999Z"
   },
-  "DMS2HR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Saarbr\u00fccken",
-      "toIata": "SCN",
-      "airlineName": "Diamond Sky",
-      "airlineCountry": "Estonia"
-    },
-    "checked_at": "2026-11-05T08:00:50.175509Z"
-  },
   "EWG5M": {
     "route": {
       "fromCity": "London",
@@ -4916,17 +4905,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-11-06T14:55:21.700173Z"
-  },
-  "RYR67RH": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T08:00:50.175509Z"
   },
   "PLF120": {
     "route": {
@@ -10695,5 +10673,16 @@
   "EJU6105": {
     "route": null,
     "checked_at": "2026-11-07T07:50:31.226025Z"
+  },
+  "WZZ4861": {
+    "route": {
+      "fromCity": "Edinburgh",
+      "fromIata": "EDI",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-07T08:00:50.641317Z"
   }
 }
