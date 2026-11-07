@@ -2531,7 +2531,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T20:35:22.800361Z"
+    "checked_at": "2026-11-07T19:45:30.680942Z"
   },
   "CFE8495": {
     "route": {
@@ -5611,17 +5611,6 @@
     },
     "checked_at": "2026-11-06T10:10:29.699893Z"
   },
-  "SXS8DD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gaziantep",
-      "toIata": "GZT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-05T19:40:32.105050Z"
-  },
   "RYR59PP": {
     "route": {
       "fromCity": "Gran Canaria Island",
@@ -5712,7 +5701,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T20:25:24.029664Z"
+    "checked_at": "2026-11-07T19:45:30.680942Z"
   },
   "NSZ9001": {
     "route": {
@@ -10442,5 +10431,16 @@
       "airlineCountry": "Bulgaria"
     },
     "checked_at": "2026-11-07T19:40:31.677747Z"
+  },
+  "PGT1604": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gaziantep",
+      "toIata": "GZT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T19:45:30.680942Z"
   }
 }
