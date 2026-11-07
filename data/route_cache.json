@@ -5430,10 +5430,6 @@
     },
     "checked_at": "2026-11-06T10:40:35.839962Z"
   },
-  "DUKE73": {
-    "route": null,
-    "checked_at": "2026-11-05T11:05:22.890334Z"
-  },
   "EJU53GP": {
     "route": {
       "fromCity": "Berlin",
@@ -5459,17 +5455,6 @@
   "WUK7877": {
     "route": null,
     "checked_at": "2026-11-07T11:00:52.913385Z"
-  },
-  "RYR37GU": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T11:05:22.890334Z"
   },
   "AIB513A": {
     "route": null,
@@ -10487,5 +10472,31 @@
   "WMT7011": {
     "route": null,
     "checked_at": "2026-11-07T11:00:52.913385Z"
+  },
+  "TSC5001": {
+    "route": {
+      "fromCity": "Ottawa",
+      "fromIata": "YOW",
+      "toCity": "Montr\u00e9al",
+      "toIata": "YUL",
+      "airlineName": "Air Transat",
+      "airlineCountry": "Canada"
+    },
+    "checked_at": "2026-11-07T11:05:24.812819Z"
+  },
+  "GAC071E": {
+    "route": null,
+    "checked_at": "2026-11-07T11:05:24.812819Z"
+  },
+  "RYR93VZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Faro",
+      "toIata": "FAO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T11:05:24.812819Z"
   }
 }
