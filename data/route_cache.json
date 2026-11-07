@@ -2354,7 +2354,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T19:00:50.856342Z"
+    "checked_at": "2026-11-07T18:50:31.692150Z"
   },
   "BAW99XC": {
     "route": {
@@ -5577,28 +5577,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-06T18:55:22.789137Z"
-  },
-  "ELY2373": {
-    "route": {
-      "fromCity": "Tel Aviv",
-      "fromIata": "TLV",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "El Al Israel Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-11-05T18:45:29.927853Z"
-  },
-  "BTI3FT": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-05T18:50:30.310708Z"
   },
   "BEL9DL": {
     "route": {
@@ -10467,5 +10445,27 @@
   "NJE639Y": {
     "route": null,
     "checked_at": "2026-11-07T18:45:29.128548Z"
+  },
+  "WZZ9DW": {
+    "route": {
+      "fromCity": "Torino",
+      "fromIata": "TRN",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-07T18:50:31.692150Z"
+  },
+  "RYR67RH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T18:50:31.692150Z"
   }
 }
