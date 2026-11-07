@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "DLH898",
+      "country": "Germany",
+      "lat": 52.1316,
+      "lon": 13.8665,
+      "altKm": 10.8,
+      "speedKmh": 834,
+      "heading": 65,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "category": "plane"
+    },
+    {
       "callsign": "KLC1335",
       "country": "Kingdom of the Netherlands",
-      "lat": 52.4044,
-      "lon": 13.0728,
-      "altKm": 11.1,
-      "speedKmh": 795,
-      "heading": 91,
-      "vertRateMs": -5.2,
+      "lat": 52.3911,
+      "lon": 14.0326,
+      "altKm": 9.6,
+      "speedKmh": 771,
+      "heading": 92,
+      "vertRateMs": -4.9,
       "airline": "KLM Cityhopper",
       "airlineCountry": "Netherlands",
       "fromCity": "Amsterdam",
@@ -16,41 +33,7 @@
       "toCity": "Aalborg",
       "toIata": "AAL",
       "category": "plane"
-    },
-    {
-      "callsign": "RYR5TJ",
-      "country": "Malta",
-      "lat": 52.7088,
-      "lon": 12.8039,
-      "altKm": 11.1,
-      "speedKmh": 850,
-      "heading": 278,
-      "vertRateMs": 0,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Cork",
-      "fromIata": "ORK",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR32VB",
-      "country": "Malta",
-      "lat": 52.2682,
-      "lon": 13.1819,
-      "altKm": 1.2,
-      "speedKmh": 396,
-      "heading": 42,
-      "vertRateMs": -3.6,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-07T20:40:32.136267Z"
+  "updated_at": "2026-11-07T20:45:30.057692Z"
 }
