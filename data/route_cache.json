@@ -830,7 +830,7 @@
   },
   "CFG552": {
     "route": null,
-    "checked_at": "2026-11-06T09:50:30.745992Z"
+    "checked_at": "2026-11-07T09:05:24.708914Z"
   },
   "CFG553": {
     "route": null,
@@ -1491,7 +1491,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T09:30:41.982582Z"
+    "checked_at": "2026-11-07T09:05:24.708914Z"
   },
   "BAW975R": {
     "route": {
@@ -5379,43 +5379,6 @@
     },
     "checked_at": "2026-11-06T08:45:30.218731Z"
   },
-  "NSZ2040": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-05T09:05:23.824399Z"
-  },
-  "RYR912": {
-    "route": {
-      "fromCity": "Cork",
-      "fromIata": "ORK",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T09:05:23.824399Z"
-  },
-  "OEFYI": {
-    "route": null,
-    "checked_at": "2026-11-05T09:05:23.824399Z"
-  },
-  "RYR77LL": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Brno",
-      "toIata": "BRQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T09:05:23.824399Z"
-  },
   "DLH8AE": {
     "route": {
       "fromCity": "Munich",
@@ -5934,7 +5897,7 @@
   },
   "RYR18HB": {
     "route": null,
-    "checked_at": "2026-11-06T08:15:28.800665Z"
+    "checked_at": "2026-11-07T09:05:24.708914Z"
   },
   "NOZ61C": {
     "route": {
@@ -10632,5 +10595,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-07T09:00:55.723680Z"
+  },
+  "CAI061P": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Corendon Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T09:05:24.708914Z"
   }
 }
