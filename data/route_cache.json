@@ -166,7 +166,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-06T21:05:24.919176Z"
+    "checked_at": "2026-11-07T20:55:23.347996Z"
   },
   "KLM27F": {
     "route": {
@@ -10391,5 +10391,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T20:35:25.178172Z"
+  },
+  "RYR49": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Treviso",
+      "toIata": "TSF",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T20:55:23.347996Z"
+  },
+  "WMT8HG": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Chi\u015fin\u0103u",
+      "toIata": "RMO",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-07T20:55:23.347996Z"
   }
 }
