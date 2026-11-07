@@ -1865,7 +1865,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T14:20:29.721680Z"
+    "checked_at": "2026-11-07T14:15:30.341126Z"
   },
   "KLM84H": {
     "route": {
@@ -5456,10 +5456,6 @@
   "DEBRR": {
     "route": null,
     "checked_at": "2026-11-06T13:00:50.362862Z"
-  },
-  "DLY612M": {
-    "route": null,
-    "checked_at": "2026-11-05T14:15:29.035218Z"
   },
   "DECLP": {
     "route": null,
@@ -10587,5 +10583,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-07T14:10:32.686104Z"
+  },
+  "KLM67U": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-11-07T14:15:30.341126Z"
   }
 }
