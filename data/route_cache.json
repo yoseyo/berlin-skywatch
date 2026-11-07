@@ -5589,17 +5589,6 @@
     },
     "checked_at": "2026-11-06T19:00:50.856342Z"
   },
-  "HOP15VR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air France Hop",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-11-05T19:00:49.275016Z"
-  },
   "NOZ1124": {
     "route": {
       "fromCity": "Troms\u00f8",
@@ -10467,5 +10456,31 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T18:50:31.692150Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T19:00:51.675037Z"
+  },
+  "KMM377": {
+    "route": null,
+    "checked_at": "2026-11-07T19:00:51.675037Z"
+  },
+  "SDR30MH": {
+    "route": {
+      "fromCity": "Gran Canaria Island",
+      "fromIata": "LPA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-07T19:00:51.675037Z"
   }
 }
