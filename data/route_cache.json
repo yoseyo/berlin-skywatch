@@ -4291,7 +4291,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T21:35:21.884422Z"
+    "checked_at": "2026-11-07T20:10:32.066701Z"
   },
   "EWG25Z": {
     "route": {
@@ -4454,17 +4454,6 @@
   "N99BY": {
     "route": null,
     "checked_at": "2026-11-07T10:30:42.835914Z"
-  },
-  "EZY58DP": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-05T20:10:29.798713Z"
   },
   "CCA939": {
     "route": {
@@ -5772,7 +5761,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T21:35:21.884422Z"
+    "checked_at": "2026-11-07T20:10:32.066701Z"
   },
   "EJU38JK": {
     "route": {
@@ -10413,5 +10402,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T20:05:24.387498Z"
+  },
+  "EJU48ZE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dubrovnik",
+      "toIata": "DBV",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-07T20:10:32.066701Z"
+  },
+  "RYR44ZH": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T20:10:32.066701Z"
   }
 }
