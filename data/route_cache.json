@@ -562,7 +562,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-06T11:30:41.333714Z"
+    "checked_at": "2026-11-07T11:40:32.379279Z"
   },
   "KLC21A": {
     "route": {
@@ -5463,14 +5463,6 @@
   "HBJLH": {
     "route": null,
     "checked_at": "2026-11-06T08:05:23.505036Z"
-  },
-  "NJE867D": {
-    "route": null,
-    "checked_at": "2026-11-05T11:40:28.780886Z"
-  },
-  "DMDPD": {
-    "route": null,
-    "checked_at": "2026-11-05T11:40:28.780886Z"
   },
   "MFX7668": {
     "route": {
@@ -10498,5 +10490,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T11:30:42.248421Z"
+  },
+  "RYR7HM": {
+    "route": {
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T11:40:32.379279Z"
   }
 }
