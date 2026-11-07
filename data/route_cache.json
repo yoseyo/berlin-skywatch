@@ -878,7 +878,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-06T12:50:29.797143Z"
+    "checked_at": "2026-11-07T12:20:32.961636Z"
   },
   "CFE61X": {
     "route": {
@@ -1656,7 +1656,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-06T12:35:24.281490Z"
+    "checked_at": "2026-11-07T12:20:32.961636Z"
   },
   "RYR3CC": {
     "route": {
@@ -1843,7 +1843,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-06T12:20:31.144197Z"
+    "checked_at": "2026-11-07T12:20:32.961636Z"
   },
   "DLH187": {
     "route": {
@@ -5485,17 +5485,6 @@
       "airlineCountry": "Iceland"
     },
     "checked_at": "2026-11-07T12:15:29.652022Z"
-  },
-  "RYR242G": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T12:20:30.469030Z"
   },
   "EJU86XF": {
     "route": {
@@ -10508,5 +10497,20 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-07T12:15:29.652022Z"
+  },
+  "CCA446": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Jianyang, Chengdu",
+      "toIata": "TFU",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-07T12:20:32.961636Z"
+  },
+  "SPJAL": {
+    "route": null,
+    "checked_at": "2026-11-07T12:20:32.961636Z"
   }
 }
