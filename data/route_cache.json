@@ -4736,17 +4736,6 @@
     },
     "checked_at": "2026-11-05T20:40:29.759820Z"
   },
-  "ACA886": {
-    "route": {
-      "fromCity": "Toronto",
-      "fromIata": "YYZ",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Air Canada",
-      "airlineCountry": "Canada"
-    },
-    "checked_at": "2026-11-05T07:05:21.192391Z"
-  },
   "DINNA": {
     "route": null,
     "checked_at": "2026-11-06T07:10:29.245906Z"
@@ -10710,5 +10699,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-07T07:00:52.046915Z"
+  },
+  "EJU5267": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-07T07:05:23.738016Z"
+  },
+  "BTI7HB": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-07T07:05:23.738016Z"
   }
 }
