@@ -1,27 +1,61 @@
 {
   "flights": [
     {
-      "callsign": "DEHGB",
-      "country": "Germany",
-      "lat": 52.2015,
-      "lon": 13.1445,
-      "altKm": 0.2,
-      "speedKmh": 128,
-      "heading": 75,
-      "vertRateMs": -3.6,
+      "callsign": "WZZ966",
+      "country": "Hungary",
+      "lat": 52.3363,
+      "lon": 14.0952,
+      "altKm": 11.2,
+      "speedKmh": 861,
+      "heading": 266,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "FCO",
       "category": "plane"
     },
     {
-      "callsign": "ELI30B",
-      "country": "Czech Republic",
-      "lat": 52.2718,
-      "lon": 13.1827,
-      "altKm": 1.1,
-      "speedKmh": 437,
-      "heading": 30,
-      "vertRateMs": -2.9,
+      "callsign": "DMYSK",
+      "country": "Germany",
+      "lat": 52.3352,
+      "lon": 12.8356,
+      "altKm": 0.2,
+      "speedKmh": 252,
+      "heading": 166,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "DEHGB",
+      "country": "Germany",
+      "lat": 52.201,
+      "lon": 13.1413,
+      "altKm": 0.2,
+      "speedKmh": 133,
+      "heading": 76,
+      "vertRateMs": -4.2,
+      "category": "plane"
+    },
+    {
+      "callsign": "NOZ53Y",
+      "country": "Norway",
+      "lat": 52.4709,
+      "lon": 13.7958,
+      "altKm": 12.0,
+      "speedKmh": 868,
+      "heading": 349,
+      "vertRateMs": 0,
+      "airline": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway",
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Oslo",
+      "toIata": "OSL",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-07T11:55:24.604248Z"
+  "updated_at": "2026-11-07T12:00:50.661908Z"
 }
