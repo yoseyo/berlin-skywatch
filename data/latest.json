@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-07T22:55:24.295836Z"
+  "flights": [
+    {
+      "callsign": "SAS2776",
+      "country": "Ireland",
+      "lat": 52.7409,
+      "lon": 13.1962,
+      "altKm": 10.6,
+      "speedKmh": 894,
+      "heading": 353,
+      "vertRateMs": 4.5,
+      "airline": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-07T23:00:49.236357Z"
 }
