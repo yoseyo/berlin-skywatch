@@ -1876,7 +1876,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-06T13:45:27.836159Z"
+    "checked_at": "2026-11-07T13:40:30.964586Z"
   },
   "WMT974": {
     "route": {
@@ -3394,7 +3394,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-06T10:10:29.699893Z"
+    "checked_at": "2026-11-07T13:40:30.964586Z"
   },
   "HOP82RB": {
     "route": {
@@ -5489,14 +5489,6 @@
   "DEBRR": {
     "route": null,
     "checked_at": "2026-11-06T13:00:50.362862Z"
-  },
-  "HUF341": {
-    "route": null,
-    "checked_at": "2026-11-05T13:35:23.647363Z"
-  },
-  "DFOUR": {
-    "route": null,
-    "checked_at": "2026-11-05T13:35:23.647363Z"
   },
   "GAC474Q": {
     "route": null,
@@ -10580,5 +10572,16 @@
   "DMVRG": {
     "route": null,
     "checked_at": "2026-11-07T13:35:23.224908Z"
+  },
+  "RYR15HL": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "CRL",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T13:40:30.964586Z"
   }
 }
