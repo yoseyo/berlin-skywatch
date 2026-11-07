@@ -3392,17 +3392,6 @@
     },
     "checked_at": "2026-11-06T17:45:28.491830Z"
   },
-  "HOP62AM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air France Hop",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-11-05T17:05:25.053596Z"
-  },
   "RYR2BB": {
     "route": {
       "fromCity": "Wroc\u0142aw",
@@ -5567,10 +5556,6 @@
     },
     "checked_at": "2026-11-06T08:05:23.505036Z"
   },
-  "MMF65": {
-    "route": null,
-    "checked_at": "2026-11-05T17:05:25.053596Z"
-  },
   "EWG89KP": {
     "route": {
       "fromCity": "Berlin",
@@ -5581,17 +5566,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T16:25:23.438846Z"
-  },
-  "LOT15K": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "New York",
-      "toIata": "EWR",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-05T17:10:28.871036Z"
   },
   "LOT407": {
     "route": {
@@ -8755,7 +8729,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T19:20:30.343301Z"
+    "checked_at": "2026-11-07T17:10:30.835659Z"
   },
   "ETH725": {
     "route": {
@@ -10536,5 +10510,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T17:05:24.463130Z"
+  },
+  "BBG271": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Bluebird Airways (BZ)",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-07T17:10:30.835659Z"
   }
 }
