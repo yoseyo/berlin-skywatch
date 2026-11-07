@@ -933,7 +933,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-06T17:25:21.897209Z"
+    "checked_at": "2026-11-07T17:25:23.552570Z"
   },
   "FIN9YA": {
     "route": {
@@ -2398,7 +2398,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-06T18:50:31.935955Z"
+    "checked_at": "2026-11-07T17:25:23.552570Z"
   },
   "DLH4LV": {
     "route": {
@@ -5566,17 +5566,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-06T17:05:24.644349Z"
-  },
-  "EJU31NP": {
-    "route": {
-      "fromCity": "Kerkyra Island",
-      "fromIata": "CFU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-05T17:25:22.049478Z"
   },
   "WZZ89": {
     "route": {
@@ -10521,5 +10510,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-07T17:20:30.414454Z"
+  },
+  "RYR99FB": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Kaunas",
+      "toIata": "KUN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T17:25:23.552570Z"
   }
 }
