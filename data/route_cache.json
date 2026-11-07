@@ -36,10 +36,6 @@
     },
     "checked_at": "2026-11-06T10:45:31.602402Z"
   },
-  "CHX31": {
-    "route": null,
-    "checked_at": "2026-11-05T06:25:22.745725Z"
-  },
   "AUA995F": {
     "route": {
       "fromCity": "Vienna",
@@ -3433,17 +3429,6 @@
     },
     "checked_at": "2026-11-05T09:10:30.563203Z"
   },
-  "EJU37WL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Fuerteventura Island",
-      "toIata": "FUE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-05T06:25:22.745725Z"
-  },
   "CFE76JZ": {
     "route": {
       "fromCity": "London",
@@ -5416,28 +5401,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T18:00:52.586330Z"
-  },
-  "THY1XR": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-05T06:25:22.745725Z"
-  },
-  "ASL56A": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Spurling Aviation",
-      "airlineCountry": "United States"
-    },
-    "checked_at": "2026-11-05T06:25:22.745725Z"
   },
   "EJU62CM": {
     "route": {
@@ -8080,7 +8043,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-06T07:10:29.245906Z"
+    "checked_at": "2026-11-07T06:25:24.216369Z"
   },
   "NOZ72C": {
     "route": {
@@ -10799,5 +10762,27 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-11-07T06:10:31.809928Z"
+  },
+  "WZZ1676": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-07T06:25:24.216369Z"
+  },
+  "KLM64F": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-11-07T06:25:24.216369Z"
   }
 }
