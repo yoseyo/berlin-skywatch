@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-07T03:10:32.693755Z"
+  "flights": [
+    {
+      "callsign": "CES709",
+      "country": "China",
+      "lat": 52.5487,
+      "lon": 13.1127,
+      "altKm": 11.6,
+      "speedKmh": 929,
+      "heading": 217,
+      "vertRateMs": 0,
+      "airline": "China Eastern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-07T03:15:30.271515Z"
 }
