@@ -45,7 +45,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-06T15:05:23.249442Z"
+    "checked_at": "2026-11-07T15:05:24.122466Z"
   },
   "KLM1779": {
     "route": {
@@ -4546,10 +4546,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T06:50:29.788291Z"
-  },
-  "HUE222": {
-    "route": null,
-    "checked_at": "2026-11-05T15:05:23.248564Z"
   },
   "TAP53LB": {
     "route": {
@@ -10559,5 +10555,16 @@
   "HLF8876": {
     "route": null,
     "checked_at": "2026-11-07T15:00:54.042956Z"
+  },
+  "CFG6NZ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T15:05:24.122466Z"
   }
 }
