@@ -639,7 +639,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-06T14:45:31.956618Z"
+    "checked_at": "2026-11-07T14:55:24.223509Z"
   },
   "KLC42X": {
     "route": {
@@ -1799,7 +1799,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-06T14:55:21.700173Z"
+    "checked_at": "2026-11-07T14:55:24.223509Z"
   },
   "DLH3CE": {
     "route": {
@@ -1887,7 +1887,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-06T15:01:09.190393Z"
+    "checked_at": "2026-11-07T14:55:24.223509Z"
   },
   "EJU73NW": {
     "route": {
@@ -5489,14 +5489,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T14:45:31.956618Z"
-  },
-  "NFA188P": {
-    "route": null,
-    "checked_at": "2026-11-05T14:55:21.927725Z"
-  },
-  "DERVN": {
-    "route": null,
-    "checked_at": "2026-11-05T14:55:21.927725Z"
   },
   "EWG3PH": {
     "route": {
@@ -10541,5 +10533,27 @@
   "CFC2921": {
     "route": null,
     "checked_at": "2026-11-07T14:50:30.188269Z"
+  },
+  "SAS7502": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-07T14:55:24.223509Z"
+  },
+  "PGT21KF": {
+    "route": {
+      "fromCity": "\u0130zmir",
+      "fromIata": "ADB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T14:55:24.223509Z"
   }
 }
