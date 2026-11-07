@@ -606,7 +606,7 @@
       "airlineName": "Air Cairo",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-11-06T12:05:25.006818Z"
+    "checked_at": "2026-11-07T12:30:42.075680Z"
   },
   "MSR731": {
     "route": {
@@ -617,7 +617,7 @@
       "airlineName": "Egyptair",
       "airlineCountry": "Egypt"
     },
-    "checked_at": "2026-11-06T12:40:29.956535Z"
+    "checked_at": "2026-11-07T12:30:42.075680Z"
   },
   "SAS1678": {
     "route": {
@@ -1667,7 +1667,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T11:50:29.825707Z"
+    "checked_at": "2026-11-07T12:30:42.075680Z"
   },
   "NOZ1104": {
     "route": {
@@ -1700,7 +1700,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-06T12:25:21.771965Z"
+    "checked_at": "2026-11-07T12:30:42.075680Z"
   },
   "DLH4CT": {
     "route": {
@@ -5485,17 +5485,6 @@
       "airlineCountry": "Iceland"
     },
     "checked_at": "2026-11-07T12:15:29.652022Z"
-  },
-  "EJU86XF": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Kerkyra Island",
-      "toIata": "CFU",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-05T12:25:24.805729Z"
   },
   "WZZ1858": {
     "route": {
@@ -10542,5 +10531,31 @@
   "DMSVV": {
     "route": null,
     "checked_at": "2026-11-07T12:25:24.220570Z"
+  },
+  "SUS9011": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Lanzarote Island",
+      "toIata": "ACE",
+      "airlineName": "Sun Air of Scandinavia",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-11-07T12:30:42.075680Z"
+  },
+  "BAW9255": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-07T12:30:42.075680Z"
+  },
+  "DMSOI": {
+    "route": null,
+    "checked_at": "2026-11-07T12:30:42.075680Z"
   }
 }
