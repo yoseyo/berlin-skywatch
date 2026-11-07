@@ -5406,10 +5406,6 @@
     },
     "checked_at": "2026-11-07T05:30:42.362487Z"
   },
-  "WMT791": {
-    "route": null,
-    "checked_at": "2026-11-05T05:45:27.079626Z"
-  },
   "DLH3AF": {
     "route": {
       "fromCity": "Munich",
@@ -10766,5 +10762,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-07T05:30:42.362487Z"
+  },
+  "WZZ1727": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-07T05:45:29.535939Z"
   }
 }
