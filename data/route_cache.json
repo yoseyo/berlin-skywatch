@@ -4394,7 +4394,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-05T11:10:35.970358Z"
+    "checked_at": "2026-11-07T09:35:23.776413Z"
   },
   "FIN07RT": {
     "route": {
@@ -4406,10 +4406,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-11-06T11:50:29.825707Z"
-  },
-  "N8705Y": {
-    "route": null,
-    "checked_at": "2026-11-05T09:35:23.597655Z"
   },
   "CHX71": {
     "route": null,
@@ -7691,7 +7687,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-11-06T08:00:49.522740Z"
+    "checked_at": "2026-11-07T09:35:23.776413Z"
   },
   "LGL72D": {
     "route": {
@@ -10573,5 +10569,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-07T09:25:23.631717Z"
+  },
+  "TKJ3RB": {
+    "route": {
+      "fromCity": "Nicosia",
+      "fromIata": "ECN",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-07T09:35:23.776413Z"
+  },
+  "RYR457A": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T09:35:23.776413Z"
   }
 }
