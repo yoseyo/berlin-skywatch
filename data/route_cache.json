@@ -2143,10 +2143,6 @@
     },
     "checked_at": "2026-11-07T16:50:31.230164Z"
   },
-  "PGT61NK": {
-    "route": null,
-    "checked_at": "2026-11-05T16:55:22.472982Z"
-  },
   "BAW848": {
     "route": {
       "fromCity": "London",
@@ -5570,17 +5566,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-06T08:05:23.505036Z"
-  },
-  "LOT2303": {
-    "route": {
-      "fromCity": "Gda\u0144sk",
-      "fromIata": "GDN",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-05T16:55:22.472982Z"
   },
   "MMF65": {
     "route": null,
@@ -10518,5 +10503,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T16:50:31.230164Z"
+  },
+  "RYR161K": {
+    "route": {
+      "fromCity": "Shannon",
+      "fromIata": "SNN",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T16:55:23.787822Z"
   }
 }
