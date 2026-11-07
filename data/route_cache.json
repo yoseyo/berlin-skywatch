@@ -1036,7 +1036,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T19:50:30.039643Z"
+    "checked_at": "2026-11-07T15:00:54.042956Z"
   },
   "DLH2EE": {
     "route": {
@@ -1931,7 +1931,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-06T15:10:29.434226Z"
+    "checked_at": "2026-11-07T15:00:54.042956Z"
   },
   "TKJ6JC": {
     "route": {
@@ -5489,17 +5489,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T14:45:31.956618Z"
-  },
-  "EWG3PH": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-05T15:00:52.929758Z"
   },
   "EZY32YZ": {
     "route": {
@@ -10555,5 +10544,20 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-07T14:55:24.223509Z"
+  },
+  "PWF1966": {
+    "route": {
+      "fromCity": "Mannheim",
+      "fromIata": "MHG",
+      "toCity": "Trebbin",
+      "toIata": null,
+      "airlineName": "Private Wings Flugcharter",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T15:00:54.042956Z"
+  },
+  "HLF8876": {
+    "route": null,
+    "checked_at": "2026-11-07T15:00:54.042956Z"
   }
 }
