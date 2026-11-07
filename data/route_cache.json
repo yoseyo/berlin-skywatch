@@ -1062,7 +1062,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-06T06:00:50.170672Z"
+    "checked_at": "2026-11-07T05:50:31.665578Z"
   },
   "DLH3CH": {
     "route": {
@@ -1117,7 +1117,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T05:45:26.946474Z"
+    "checked_at": "2026-11-07T05:50:31.665578Z"
   },
   "AFR24ZY": {
     "route": {
@@ -2690,7 +2690,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-06T05:55:22.243870Z"
+    "checked_at": "2026-11-07T05:50:31.665578Z"
   },
   "PGT39EW": {
     "route": {
@@ -5405,17 +5405,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-07T05:30:42.362487Z"
-  },
-  "DLH3AF": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stuttgart",
-      "toIata": "STR",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-05T05:50:28.901028Z"
   },
   "RYR158L": {
     "route": {
@@ -10773,5 +10762,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-07T05:45:29.535939Z"
+  },
+  "HLF8822": {
+    "route": {
+      "fromCity": "Vatry",
+      "fromIata": "XCR",
+      "toCity": "Shenzhen (Bao'an)",
+      "toIata": "SZX",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T05:50:31.665578Z"
+  },
+  "RYR32FH": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Bristol",
+      "toIata": "BRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T05:50:31.665578Z"
   }
 }
