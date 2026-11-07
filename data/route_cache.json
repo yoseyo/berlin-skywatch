@@ -2505,7 +2505,7 @@
   },
   "LOT4CT": {
     "route": null,
-    "checked_at": "2026-11-06T20:10:29.199202Z"
+    "checked_at": "2026-11-07T20:15:29.656991Z"
   },
   "LOT1HL": {
     "route": {
@@ -5570,28 +5570,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T10:00:50.314242Z"
-  },
-  "NOZ1125": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Troms\u00f8",
-      "toIata": "TOS",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-05T20:15:28.784788Z"
-  },
-  "RYR54WW": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Weeze",
-      "toIata": "NRN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-05T20:15:28.784788Z"
   },
   "LOT7EG": {
     "route": {
@@ -10424,5 +10402,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T20:10:32.066701Z"
+  },
+  "CFG2XU": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T20:15:29.656991Z"
+  },
+  "EWG8VZ": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Dortmund",
+      "toIata": "DTM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T20:15:29.656991Z"
   }
 }
