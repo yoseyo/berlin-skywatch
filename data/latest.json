@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-07T02:05:24.707636Z"
+  "flights": [
+    {
+      "callsign": "CCA898",
+      "country": "China",
+      "lat": 52.9458,
+      "lon": 12.9641,
+      "altKm": 10.5,
+      "speedKmh": 861,
+      "heading": 35,
+      "vertRateMs": -0.3,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-07T02:10:30.995843Z"
 }
