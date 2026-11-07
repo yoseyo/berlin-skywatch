@@ -782,7 +782,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-06T17:35:22.438596Z"
+    "checked_at": "2026-11-07T17:40:31.674161Z"
   },
   "DLH3X": {
     "route": {
@@ -3313,7 +3313,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-06T17:55:22.917717Z"
+    "checked_at": "2026-11-07T17:40:31.674161Z"
   },
   "SAS696": {
     "route": {
@@ -3593,17 +3593,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T16:00:51.307551Z"
-  },
-  "LOT3JK": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-05T17:40:29.376193Z"
   },
   "EJU52RH": {
     "route": {
@@ -5567,21 +5556,6 @@
     },
     "checked_at": "2026-11-06T17:05:24.644349Z"
   },
-  "SXS2SE": {
-    "route": {
-      "fromCity": "Gaziantep",
-      "fromIata": "GZT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-05T17:40:29.376193Z"
-  },
-  "ATV403": {
-    "route": null,
-    "checked_at": "2026-11-05T17:40:29.376193Z"
-  },
   "RYR2GQ": {
     "route": {
       "fromCity": "Milan",
@@ -5690,7 +5664,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-05T18:05:24.597455Z"
+    "checked_at": "2026-11-07T17:40:31.674161Z"
   },
   "EWG8MF": {
     "route": {
@@ -10518,5 +10492,31 @@
   "KMM376": {
     "route": null,
     "checked_at": "2026-11-07T17:35:24.497464Z"
+  },
+  "BFD07K": {
+    "route": null,
+    "checked_at": "2026-11-07T17:40:31.674161Z"
+  },
+  "TGZ781": {
+    "route": {
+      "fromCity": "Tbilisi",
+      "fromIata": "TBS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Georgian Airways",
+      "airlineCountry": "Georgia"
+    },
+    "checked_at": "2026-11-07T17:40:31.674161Z"
+  },
+  "EWG8181": {
+    "route": {
+      "fromCity": "Fuerteventura Island",
+      "fromIata": "FUE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-07T17:40:31.674161Z"
   }
 }
