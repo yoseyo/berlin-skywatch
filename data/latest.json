@@ -1,42 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "RYR9503",
-      "country": "Ireland",
-      "lat": 52.807,
-      "lon": 13.9221,
-      "altKm": 11.1,
-      "speedKmh": 813,
-      "heading": 89,
-      "vertRateMs": -9.8,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Bydgoszcz",
-      "toIata": "BZG",
-      "category": "plane"
-    },
-    {
-      "callsign": "KMM377",
-      "country": "Malta",
-      "lat": 52.236,
-      "lon": 13.7704,
-      "altKm": 3.9,
-      "speedKmh": 588,
-      "heading": 183,
-      "vertRateMs": 14.6,
-      "category": "plane"
-    },
-    {
       "callsign": "SWR8X",
       "country": "Switzerland",
-      "lat": 52.4429,
-      "lon": 13.798,
-      "altKm": 2.2,
-      "speedKmh": 444,
-      "heading": 53,
-      "vertRateMs": 13,
+      "lat": 52.2184,
+      "lon": 13.4491,
+      "altKm": 5.0,
+      "speedKmh": 646,
+      "heading": 212,
+      "vertRateMs": 8.8,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
       "fromCity": "Berlin",
@@ -44,7 +16,24 @@
       "toCity": "Zurich",
       "toIata": "ZRH",
       "category": "plane"
+    },
+    {
+      "callsign": "DLH7AK",
+      "country": "Germany",
+      "lat": 52.6389,
+      "lon": 12.9362,
+      "altKm": 11.4,
+      "speedKmh": 770,
+      "heading": 167,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Chicago",
+      "fromIata": "ORD",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-07T19:05:24.308025Z"
+  "updated_at": "2026-11-07T19:10:30.760118Z"
 }
