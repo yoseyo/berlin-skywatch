@@ -793,7 +793,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T21:25:25.728616Z"
+    "checked_at": "2026-11-07T21:45:28.957906Z"
   },
   "AUA26Z": {
     "route": {
@@ -3567,17 +3567,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T16:00:51.307551Z"
-  },
-  "EJU52RH": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-05T21:40:30.868508Z"
   },
   "CHX82": {
     "route": null,
@@ -10416,5 +10405,16 @@
   "SXS94C": {
     "route": null,
     "checked_at": "2026-11-07T21:40:30.835629Z"
+  },
+  "EJU79NE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-07T21:45:28.957906Z"
   }
 }
