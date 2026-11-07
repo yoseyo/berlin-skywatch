@@ -683,7 +683,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T19:10:29.004775Z"
+    "checked_at": "2026-11-07T18:35:23.928230Z"
   },
   "SAS1673": {
     "route": {
@@ -2299,7 +2299,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-06T17:00:51.380801Z"
+    "checked_at": "2026-11-07T18:35:23.928230Z"
   },
   "EJU93VY": {
     "route": {
@@ -2321,7 +2321,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-06T18:30:41.287089Z"
+    "checked_at": "2026-11-07T18:35:23.928230Z"
   },
   "EJU36HF": {
     "route": {
@@ -2847,7 +2847,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-06T17:10:29.999081Z"
+    "checked_at": "2026-11-07T18:35:23.928230Z"
   },
   "SAS2657": {
     "route": {
@@ -4065,17 +4065,6 @@
     },
     "checked_at": "2026-11-07T18:15:31.125573Z"
   },
-  "BTI4UJ": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-05T18:35:23.154441Z"
-  },
   "TVF97HA": {
     "route": {
       "fromCity": "Paris",
@@ -4553,17 +4542,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-11-06T14:55:21.700173Z"
-  },
-  "PLF120": {
-    "route": {
-      "fromCity": "Amman",
-      "fromIata": "AMM",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-05T18:35:23.154441Z"
   },
   "DLH3RV": {
     "route": {
@@ -10485,5 +10463,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T18:30:41.234475Z"
+  },
+  "MFX7661": {
+    "route": {
+      "fromCity": "Lagos",
+      "fromIata": "LOS",
+      "toCity": "Li\u00e8ge",
+      "toIata": "LGG",
+      "airlineName": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-11-07T18:35:23.928230Z"
+  },
+  "RYR7YR": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-07T18:35:23.928230Z"
   }
 }
