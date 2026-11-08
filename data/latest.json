@@ -1,4 +1,73 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-08T21:45:30.031026Z"
+  "flights": [
+    {
+      "callsign": "IBE0787",
+      "country": "Spain",
+      "lat": 52.2034,
+      "lon": 12.9377,
+      "altKm": 2.2,
+      "speedKmh": 504,
+      "heading": 58,
+      "vertRateMs": -7.8,
+      "airline": "Iberia Airlines",
+      "airlineCountry": "Spain",
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR26NC",
+      "country": "Poland",
+      "lat": 52.3897,
+      "lon": 13.5475,
+      "altKm": 11.3,
+      "speedKmh": 795,
+      "heading": 90,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Torino",
+      "toIata": "TRN",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH9HA",
+      "country": "Germany",
+      "lat": 52.2874,
+      "lon": 13.2256,
+      "altKm": 1.1,
+      "speedKmh": 408,
+      "heading": 68,
+      "vertRateMs": -4.2,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Wroc\u0142aw",
+      "fromIata": "WRO",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR64LR",
+      "country": "Ireland",
+      "lat": 52.4984,
+      "lon": 13.6766,
+      "altKm": 2.2,
+      "speedKmh": 503,
+      "heading": 349,
+      "vertRateMs": 6.2,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-08T21:50:32.196784Z"
 }
