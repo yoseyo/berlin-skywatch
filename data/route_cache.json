@@ -4636,7 +4636,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-07T08:31:13.819211Z"
+    "checked_at": "2026-11-08T08:30:41.164745Z"
   },
   "WUK3636": {
     "route": null,
@@ -10130,5 +10130,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T08:25:23.905333Z"
+  },
+  "RYR6SU": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T08:30:41.164745Z"
+  },
+  "RYR82QP": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Rome",
+      "toIata": "CIA",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T08:30:41.164745Z"
+  },
+  "RYR649T": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T08:30:41.164745Z"
   }
 }
