@@ -89,7 +89,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-07T15:40:31.099749Z"
+    "checked_at": "2026-11-08T15:50:31.239006Z"
   },
   "LOT5PX": {
     "route": {
@@ -4600,17 +4600,6 @@
     "route": null,
     "checked_at": "2026-11-06T16:20:29.770365Z"
   },
-  "EZY63HL": {
-    "route": {
-      "fromCity": "Zakynthos Island",
-      "fromIata": "ZTH",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T15:50:30.758989Z"
-  },
   "EWG89KP": {
     "route": {
       "fromCity": "Berlin",
@@ -5273,17 +5262,6 @@
   "T7VAS": {
     "route": null,
     "checked_at": "2026-11-07T11:25:23.779691Z"
-  },
-  "CFG3NY": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T15:50:30.758989Z"
   },
   "AFR82RB": {
     "route": {
@@ -9603,5 +9581,42 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-08T15:25:24.891865Z"
+  },
+  "EJU63UZ": {
+    "route": {
+      "fromCity": "Lisbon",
+      "fromIata": "LIS",
+      "toCity": "Lyon",
+      "toIata": "LYS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T15:50:31.239006Z"
+  },
+  "RYR54WW": {
+    "route": {
+      "fromCity": "Tenerife",
+      "fromIata": "TFS",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T15:50:31.239006Z"
+  },
+  "OEKBE": {
+    "route": null,
+    "checked_at": "2026-11-08T15:50:31.239006Z"
+  },
+  "EWG5JW": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T15:50:31.239006Z"
   }
 }
