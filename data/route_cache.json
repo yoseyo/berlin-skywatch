@@ -4011,7 +4011,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T09:35:23.776413Z"
+    "checked_at": "2026-11-08T06:40:31.545856Z"
   },
   "FIN07RT": {
     "route": {
@@ -5552,54 +5552,6 @@
   "SUI002": {
     "route": null,
     "checked_at": "2026-11-07T07:40:31.895057Z"
-  },
-  "WZZ128": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Yerevan",
-      "toIata": "EVN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-06T06:40:29.449306Z"
-  },
-  "AUA42": {
-    "route": {
-      "fromCity": "Washington",
-      "fromIata": "IAD",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T06:40:29.449306Z"
-  },
-  "AUA8K": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T06:40:29.449306Z"
-  },
-  "CEF6027": {
-    "route": null,
-    "checked_at": "2026-11-06T06:40:29.449306Z"
-  },
-  "WZZ4027": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-06T06:40:29.449306Z"
   },
   "AUA56": {
     "route": {
@@ -10301,5 +10253,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T06:30:43.140078Z"
+  },
+  "SDR27BN": {
+    "route": {
+      "fromCity": "Kassel",
+      "fromIata": "KSF",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-08T06:40:31.545856Z"
   }
 }
