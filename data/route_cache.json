@@ -3353,7 +3353,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-06T13:55:22.296919Z"
+    "checked_at": "2026-11-08T13:25:24.219466Z"
   },
   "EJU49HX": {
     "route": {
@@ -9720,5 +9720,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T13:15:29.824247Z"
+  },
+  "EJU9041": {
+    "route": {
+      "fromCity": "Maastricht",
+      "fromIata": "MST",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T13:25:24.219466Z"
+  },
+  "EJU54BP": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T13:25:24.219466Z"
   }
 }
