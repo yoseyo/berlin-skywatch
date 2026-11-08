@@ -1,25 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "RYR18HB",
-      "country": "Ireland",
-      "lat": 52.3992,
-      "lon": 14.0876,
-      "altKm": 11.3,
-      "speedKmh": 759,
-      "heading": 93,
+      "callsign": "DLH4LV",
+      "country": "Germany",
+      "lat": 52.2907,
+      "lon": 13.1635,
+      "altKm": 1.2,
+      "speedKmh": 411,
+      "heading": 67,
       "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Bologna",
+      "toIata": "BLQ",
       "category": "plane"
     },
     {
       "callsign": "EZY73YT",
       "country": "United Kingdom",
-      "lat": 52.299,
-      "lon": 13.0045,
-      "altKm": 1.5,
-      "speedKmh": 467,
-      "heading": 104,
-      "vertRateMs": -3.6,
+      "lat": 52.3055,
+      "lon": 13.3009,
+      "altKm": 0.8,
+      "speedKmh": 347,
+      "heading": 68,
+      "vertRateMs": -5.5,
       "airline": "easyJet",
       "airlineCountry": "United Kingdom",
       "fromCity": "Bristol",
@@ -38,24 +44,7 @@
       "heading": 169,
       "vertRateMs": 1.0,
       "category": "heli"
-    },
-    {
-      "callsign": "SAS45C",
-      "country": "Ireland",
-      "lat": 52.3255,
-      "lon": 13.3847,
-      "altKm": 0.4,
-      "speedKmh": 267,
-      "heading": 68,
-      "vertRateMs": -4.5,
-      "airline": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T19:32:09.814038Z"
+  "updated_at": "2026-11-08T19:35:32.883464Z"
 }
