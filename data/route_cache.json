@@ -2130,7 +2130,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-06T19:00:50.856342Z"
+    "checked_at": "2026-11-08T17:15:30.461844Z"
   },
   "RYR91HD": {
     "route": null,
@@ -3452,17 +3452,6 @@
     "route": null,
     "checked_at": "2026-11-06T17:20:28.796903Z"
   },
-  "BTI6UN": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-06T17:15:29.437113Z"
-  },
   "LHX851": {
     "route": {
       "fromCity": "Helsinki",
@@ -3833,17 +3822,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-06T17:45:28.491830Z"
-  },
-  "EWG2EP": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Souda",
-      "toIata": "CHQ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T17:15:29.437113Z"
   },
   "EIN33T": {
     "route": {
@@ -5170,17 +5148,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T15:55:25.238907Z"
-  },
-  "SDR11BL": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-06T17:15:29.437113Z"
   },
   "AFR62AM": {
     "route": {
@@ -9545,5 +9512,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T17:10:31.557304Z"
+  },
+  "SXS4ZM": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-08T17:15:30.461844Z"
+  },
+  "BAW848": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T17:15:30.461844Z"
   }
 }
