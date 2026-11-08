@@ -2222,7 +2222,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T18:35:23.928230Z"
+    "checked_at": "2026-11-08T18:35:25.065956Z"
   },
   "DLH199": {
     "route": {
@@ -3374,10 +3374,6 @@
     },
     "checked_at": "2026-11-07T08:30:41.307279Z"
   },
-  "PBB17": {
-    "route": null,
-    "checked_at": "2026-11-06T18:35:22.551204Z"
-  },
   "EWG86Z": {
     "route": {
       "fromCity": "Stuttgart",
@@ -3796,17 +3792,6 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-11-08T16:25:24.127084Z"
-  },
-  "BAW990G": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T18:35:22.551204Z"
   },
   "AUA237": {
     "route": {
@@ -5155,17 +5140,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T12:00:51.873572Z"
-  },
-  "LZB320": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "airlineName": "Bulgaria Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-11-06T18:35:22.551204Z"
   },
   "EJU98AU": {
     "route": {
@@ -9596,5 +9570,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-08T18:30:42.398802Z"
+  },
+  "SWR9ZT": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-11-08T18:35:25.065956Z"
+  },
+  "CFE93AU": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LCY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "BA CityFlyer",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T18:35:25.065956Z"
+  },
+  "EJU19XU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T18:35:25.065956Z"
   }
 }
