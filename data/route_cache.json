@@ -856,7 +856,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-07T09:55:28.352938Z"
+    "checked_at": "2026-11-08T16:00:50.565067Z"
   },
   "FIN3YX": {
     "route": {
@@ -2803,7 +2803,7 @@
   },
   "KLC1341": {
     "route": null,
-    "checked_at": "2026-11-07T15:55:23.737109Z"
+    "checked_at": "2026-11-08T16:00:50.565067Z"
   },
   "KLC1342": {
     "route": {
@@ -9578,5 +9578,38 @@
   "QGA01A": {
     "route": null,
     "checked_at": "2026-11-08T15:55:25.238907Z"
+  },
+  "CCA957": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-08T16:00:50.565067Z"
+  },
+  "TVS258F": {
+    "route": {
+      "fromCity": "Zakynthos Island",
+      "fromIata": "ZTH",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": "Smart Wings",
+      "airlineCountry": "Czech Republic"
+    },
+    "checked_at": "2026-11-08T16:00:50.565067Z"
+  },
+  "CFG7NY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T16:00:50.565067Z"
   }
 }
