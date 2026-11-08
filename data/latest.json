@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-08T05:35:23.600472Z"
+  "flights": [
+    {
+      "callsign": "RYR22EH",
+      "country": "Poland",
+      "lat": 52.2945,
+      "lon": 13.8241,
+      "altKm": 11.1,
+      "speedKmh": 817,
+      "heading": 232,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-08T05:40:32.629548Z"
 }
