@@ -3408,7 +3408,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-06T07:00:48.523489Z"
+    "checked_at": "2026-11-08T06:55:22.274797Z"
   },
   "EJU16FE": {
     "route": {
@@ -3419,7 +3419,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T11:50:30.427101Z"
+    "checked_at": "2026-11-08T06:55:22.274797Z"
   },
   "CHH490": {
     "route": {
@@ -5519,32 +5519,6 @@
   "SUI002": {
     "route": null,
     "checked_at": "2026-11-07T07:40:31.895057Z"
-  },
-  "LGL94D": {
-    "route": {
-      "fromCity": "Luxembourg",
-      "fromIata": "LUX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Luxair",
-      "airlineCountry": "Luxembourg"
-    },
-    "checked_at": "2026-11-06T06:55:21.844481Z"
-  },
-  "EWG9GL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T06:55:21.844481Z"
-  },
-  "CAT601": {
-    "route": null,
-    "checked_at": "2026-11-06T06:55:21.844481Z"
   },
   "AUA26Y": {
     "route": {
@@ -10253,5 +10227,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T06:50:30.245902Z"
+  },
+  "LHX2X": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T06:55:22.274797Z"
   }
 }
