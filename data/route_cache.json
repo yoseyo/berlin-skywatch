@@ -749,7 +749,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-07T16:30:41.461449Z"
+    "checked_at": "2026-11-08T17:20:31.347946Z"
   },
   "LOT5NA": {
     "route": {
@@ -2803,7 +2803,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T05:55:23.559162Z"
+    "checked_at": "2026-11-08T17:20:31.347946Z"
   },
   "CTN481": {
     "route": {
@@ -3436,21 +3436,6 @@
   "EWG007": {
     "route": null,
     "checked_at": "2026-11-08T15:04:51.366373Z"
-  },
-  "VLG8TD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Vueling Airlines",
-      "airlineCountry": "Spain"
-    },
-    "checked_at": "2026-11-06T17:20:28.796903Z"
-  },
-  "SAS71Z": {
-    "route": null,
-    "checked_at": "2026-11-06T17:20:28.796903Z"
   },
   "LHX851": {
     "route": {
@@ -5170,17 +5155,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T12:45:28.230955Z"
-  },
-  "EZY18GL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T17:20:28.796903Z"
   },
   "UAE61": {
     "route": {
@@ -9534,5 +9508,42 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T17:15:30.461844Z"
+  },
+  "BEL2HJ": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-11-08T17:20:31.347946Z"
+  },
+  "RYR9846": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "\u0141\u00f3d\u017a",
+      "toIata": "LCJ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T17:20:31.347946Z"
+  },
+  "DEOFG": {
+    "route": null,
+    "checked_at": "2026-11-08T17:20:31.347946Z"
+  },
+  "LOT3JK": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-08T17:20:31.347946Z"
   }
 }
