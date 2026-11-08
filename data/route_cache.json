@@ -3693,17 +3693,6 @@
     },
     "checked_at": "2026-11-06T04:55:22.829548Z"
   },
-  "BCS3612": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T04:50:28.212194Z"
-  },
   "EWG3WY": {
     "route": {
       "fromCity": "Berlin",
@@ -10419,5 +10408,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-08T04:20:30.973381Z"
+  },
+  "PGT65UP": {
+    "route": {
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-08T04:50:30.468945Z"
   }
 }

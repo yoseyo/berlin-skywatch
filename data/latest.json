@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-08T04:45:29.167542Z"
+  "flights": [
+    {
+      "callsign": "PGT65UP",
+      "country": "Turkey",
+      "lat": 52.2913,
+      "lon": 13.1757,
+      "altKm": 1.2,
+      "speedKmh": 391,
+      "heading": 57,
+      "vertRateMs": 0,
+      "airline": "Pegasus Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Gaziantep",
+      "fromIata": "GZT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-08T04:50:30.468945Z"
 }
