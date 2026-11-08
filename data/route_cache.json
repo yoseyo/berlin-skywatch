@@ -4559,17 +4559,6 @@
     },
     "checked_at": "2026-11-07T09:55:28.352938Z"
   },
-  "EWG38HU": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T15:10:29.434226Z"
-  },
   "EJU68JA": {
     "route": {
       "fromCity": "Edinburgh",
@@ -5291,61 +5280,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T14:55:23.449567Z"
-  },
-  "THY8DE": {
-    "route": {
-      "fromCity": "Arnavutk\u00f6y, Istanbul",
-      "fromIata": "IST",
-      "toCity": "Seattle",
-      "toIata": "SEA",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-06T15:10:29.434226Z"
-  },
-  "RYR27QM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T15:10:29.434226Z"
-  },
-  "UZB201": {
-    "route": {
-      "fromCity": "Tashkent",
-      "fromIata": "TAS",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Uzbekistan Airways",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-11-06T15:10:29.434226Z"
-  },
-  "UZB251": {
-    "route": {
-      "fromCity": "Tashkent",
-      "fromIata": "TAS",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Uzbekistan Airways",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-11-06T15:10:29.434226Z"
-  },
-  "RYR34JK": {
-    "route": {
-      "fromCity": "Gothenburg",
-      "fromIata": "GOT",
-      "toCity": "Zagreb",
-      "toIata": "ZAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T15:10:29.434226Z"
   },
   "EJU32NT": {
     "route": {
@@ -9651,5 +9585,20 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T15:04:51.366373Z"
+  },
+  "RAM231": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PKX",
+      "toCity": "Casablanca",
+      "toIata": "CMN",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-11-08T15:10:32.504535Z"
+  },
+  "VJT634": {
+    "route": null,
+    "checked_at": "2026-11-08T15:10:32.504535Z"
   }
 }
