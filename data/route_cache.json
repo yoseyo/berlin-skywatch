@@ -1623,7 +1623,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-07T12:00:50.661908Z"
+    "checked_at": "2026-11-08T11:50:31.635056Z"
   },
   "DLH184": {
     "route": {
@@ -3826,17 +3826,6 @@
     },
     "checked_at": "2026-11-08T06:40:31.545856Z"
   },
-  "FIN07RT": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-11-06T11:50:29.825707Z"
-  },
   "HOP61ER": {
     "route": {
       "fromCity": "Paris",
@@ -5295,28 +5284,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-08T11:30:45.405990Z"
-  },
-  "TVS4577": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Prague",
-      "toIata": "PRG",
-      "airlineName": "Smart Wings",
-      "airlineCountry": "Czech Republic"
-    },
-    "checked_at": "2026-11-06T11:50:29.825707Z"
-  },
-  "NOZ1WC": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-06T11:50:29.825707Z"
   },
   "OEXSA": {
     "route": null,
@@ -9794,5 +9761,24 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T11:45:31.402626Z"
+  },
+  "DMTWH": {
+    "route": null,
+    "checked_at": "2026-11-08T11:50:31.635056Z"
+  },
+  "ISR251": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-08T11:50:31.635056Z"
+  },
+  "AWH91B": {
+    "route": null,
+    "checked_at": "2026-11-08T11:50:31.635056Z"
   }
 }
