@@ -1,30 +1,13 @@
 {
   "flights": [
     {
-      "callsign": "WZZ488",
-      "country": "Hungary",
-      "lat": 52.5065,
-      "lon": 13.5003,
-      "altKm": 11.1,
-      "speedKmh": 833,
-      "heading": 255,
-      "vertRateMs": 0,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "London",
-      "toIata": "LTN",
-      "category": "plane"
-    },
-    {
       "callsign": "SWR1317",
       "country": "Latvia",
-      "lat": 52.6027,
-      "lon": 13.6832,
+      "lat": 52.1055,
+      "lon": 13.1641,
       "altKm": 11.1,
-      "speedKmh": 745,
-      "heading": 213,
+      "speedKmh": 733,
+      "heading": 212,
       "vertRateMs": 0,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
@@ -35,22 +18,18 @@
       "category": "plane"
     },
     {
-      "callsign": "EWG2JM",
+      "callsign": "DLH2EE",
       "country": "Germany",
-      "lat": 52.3276,
-      "lon": 13.0704,
-      "altKm": 6.8,
-      "speedKmh": 725,
-      "heading": 230,
-      "vertRateMs": 10.4,
-      "airline": "Eurowings",
+      "lat": 52.3097,
+      "lon": 13.7322,
+      "altKm": 2.1,
+      "speedKmh": 449,
+      "heading": 131,
+      "vertRateMs": 8.1,
+      "airline": "Lufthansa",
       "airlineCountry": "Germany",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T05:25:24.634192Z"
+  "updated_at": "2026-11-08T05:30:43.661064Z"
 }
