@@ -867,7 +867,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-07T12:35:24.844492Z"
+    "checked_at": "2026-11-08T12:55:23.070741Z"
   },
   "AUA228T": {
     "route": {
@@ -1711,7 +1711,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T12:50:31.695972Z"
+    "checked_at": "2026-11-08T12:55:23.070741Z"
   },
   "SXS60G": {
     "route": {
@@ -1788,7 +1788,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-07T13:10:31.486772Z"
+    "checked_at": "2026-11-08T12:55:23.070741Z"
   },
   "SXS7KG": {
     "route": {
@@ -5245,17 +5245,6 @@
     "route": null,
     "checked_at": "2026-11-07T10:00:48.884000Z"
   },
-  "WZZ8KY": {
-    "route": {
-      "fromCity": "Varna",
-      "fromIata": "VAR",
-      "toCity": "Baden-Baden",
-      "toIata": "FKB",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-06T12:50:29.797143Z"
-  },
   "CCA950": {
     "route": {
       "fromCity": "Milan",
@@ -5266,17 +5255,6 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-07T12:50:31.695972Z"
-  },
-  "EWG34T": {
-    "route": {
-      "fromCity": "Innsbruck",
-      "fromIata": "INN",
-      "toCity": "Kos Island",
-      "toIata": "KGS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T12:50:29.797143Z"
   },
   "MSR759": {
     "route": {
@@ -5289,17 +5267,6 @@
     },
     "checked_at": "2026-11-08T12:30:40.991656Z"
   },
-  "PGT1045": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-06T12:55:22.499388Z"
-  },
   "RJA137": {
     "route": {
       "fromCity": "Amman",
@@ -5311,14 +5278,6 @@
     },
     "checked_at": "2026-11-08T12:40:30.799430Z"
   },
-  "NJE554L": {
-    "route": null,
-    "checked_at": "2026-11-06T12:55:22.499388Z"
-  },
-  "SPJDA": {
-    "route": null,
-    "checked_at": "2026-11-06T12:55:22.499388Z"
-  },
   "WZZ2297": {
     "route": {
       "fromCity": "Budapest",
@@ -5329,17 +5288,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-07T06:45:29.235582Z"
-  },
-  "EWG3NW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T12:55:22.499388Z"
   },
   "NJE586G": {
     "route": null,
@@ -5365,7 +5313,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-06T13:05:25.967948Z"
+    "checked_at": "2026-11-08T12:55:23.070741Z"
   },
   "EJU8624": {
     "route": {
@@ -5424,7 +5372,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-07T13:00:50.344206Z"
+    "checked_at": "2026-11-08T12:55:23.070741Z"
   },
   "STQ555": {
     "route": {
@@ -9798,5 +9746,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T12:50:29.117543Z"
+  },
+  "DEMSI": {
+    "route": null,
+    "checked_at": "2026-11-08T12:55:23.070741Z"
+  },
+  "NOZ1104": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-08T12:55:23.070741Z"
+  },
+  "EWG7XP": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T12:55:23.070741Z"
   }
 }
