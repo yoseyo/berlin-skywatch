@@ -6794,7 +6794,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T22:50:30.012486Z"
+    "checked_at": "2026-11-08T13:30:41.728284Z"
   },
   "AWH93A": {
     "route": null,
@@ -7647,7 +7647,7 @@
   },
   "DEADX": {
     "route": null,
-    "checked_at": "2026-11-07T12:35:24.844492Z"
+    "checked_at": "2026-11-08T13:30:41.728284Z"
   },
   "CHX31": {
     "route": null,
@@ -7788,7 +7788,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T13:20:33.813840Z"
+    "checked_at": "2026-11-08T13:30:41.728284Z"
   },
   "DEUNK": {
     "route": null,
@@ -9742,5 +9742,27 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T13:25:24.219466Z"
+  },
+  "DAH2072": {
+    "route": {
+      "fromCity": "Algiers",
+      "fromIata": "ALG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air Algerie",
+      "airlineCountry": "Algeria"
+    },
+    "checked_at": "2026-11-08T13:30:41.728284Z"
+  },
+  "ISR252": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-08T13:30:41.728284Z"
   }
 }
