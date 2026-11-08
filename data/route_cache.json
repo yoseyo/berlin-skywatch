@@ -3887,7 +3887,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-11-07T13:35:23.224908Z"
+    "checked_at": "2026-11-08T16:15:31.125928Z"
   },
   "AUA99HC": {
     "route": {
@@ -5229,10 +5229,6 @@
   "FIN8AQ": {
     "route": null,
     "checked_at": "2026-11-08T15:55:25.238907Z"
-  },
-  "AMB527": {
-    "route": null,
-    "checked_at": "2026-11-06T16:15:29.246110Z"
   },
   "LBT232": {
     "route": {
@@ -9604,5 +9600,38 @@
   "GAF608": {
     "route": null,
     "checked_at": "2026-11-08T16:10:32.277748Z"
+  },
+  "NOZ6TY": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-08T16:15:31.125928Z"
+  },
+  "EJU5372": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T16:15:31.125928Z"
+  },
+  "EWG8371": {
+    "route": {
+      "fromCity": "Lanzarote Island",
+      "fromIata": "ACE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T16:15:31.125928Z"
   }
 }
