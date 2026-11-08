@@ -2134,7 +2134,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-07T18:20:31.391435Z"
+    "checked_at": "2026-11-08T18:05:26.048471Z"
   },
   "RYR18AR": {
     "route": {
@@ -3955,17 +3955,6 @@
     },
     "checked_at": "2026-11-08T11:00:52.126123Z"
   },
-  "EJU48JX": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T18:00:52.586330Z"
-  },
   "PGT981": {
     "route": {
       "fromCity": "Ankara",
@@ -5122,32 +5111,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T15:45:32.063007Z"
-  },
-  "LBT233": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tunis",
-      "toIata": "TUN",
-      "airlineName": "Nouvelair",
-      "airlineCountry": "Tunisia"
-    },
-    "checked_at": "2026-11-06T18:00:52.586330Z"
-  },
-  "ATV504": {
-    "route": null,
-    "checked_at": "2026-11-06T18:00:52.586330Z"
-  },
-  "RYR15AU": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T18:00:52.586330Z"
   },
   "RYR75AW": {
     "route": {
@@ -9560,5 +9523,38 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-08T18:00:49.759476Z"
+  },
+  "EJU5185": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saint-Louis",
+      "toIata": "EAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T18:05:26.048471Z"
+  },
+  "EJU9046": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T18:05:26.048471Z"
+  },
+  "RYR41KP": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T18:05:26.048471Z"
   }
 }
