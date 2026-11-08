@@ -1,52 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "THY4QH",
-      "country": "Turkey",
-      "lat": 52.3479,
-      "lon": 13.8739,
-      "altKm": 2.8,
-      "speedKmh": 513,
-      "heading": 103,
-      "vertRateMs": 12.7,
-      "airline": "Turkish Airlines",
-      "airlineCountry": "Turkey",
+      "callsign": "BAW8RM",
+      "country": "United Kingdom",
+      "lat": 52.3138,
+      "lon": 13.5435,
+      "altKm": 1.2,
+      "speedKmh": 329,
+      "heading": 217,
+      "vertRateMs": 8.1,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH6ET",
-      "country": "Germany",
-      "lat": 52.1456,
-      "lon": 13.0896,
-      "altKm": 4.2,
-      "speedKmh": 674,
-      "heading": 234,
-      "vertRateMs": 13.3,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "M\u00fcnster",
-      "fromIata": "FMO",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR72EV",
-      "country": "Ireland",
-      "lat": 52.3212,
-      "lon": 13.2903,
-      "altKm": 0.9,
-      "speedKmh": 356,
-      "heading": 69,
-      "vertRateMs": -6.2,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
+      "toCity": "London",
+      "toIata": "LHR",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T05:55:23.532359Z"
+  "updated_at": "2026-11-08T06:00:52.265951Z"
 }
