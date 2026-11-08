@@ -507,7 +507,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-07T11:15:31.050810Z"
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   },
   "AEE2WD": {
     "route": {
@@ -529,7 +529,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T11:15:31.050810Z"
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   },
   "FIN50M": {
     "route": {
@@ -540,7 +540,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-07T11:10:31.732619Z"
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   },
   "LOT282": {
     "route": {
@@ -889,7 +889,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-06T16:05:23.431333Z"
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   },
   "DMS2RV": {
     "route": {
@@ -1546,7 +1546,7 @@
       "airlineName": "Tarkim Havacilik",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T11:10:31.732619Z"
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   },
   "DLH3CM": {
     "route": {
@@ -1579,7 +1579,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T11:45:30.174166Z"
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   },
   "RYR1KK": {
     "route": {
@@ -2880,7 +2880,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-06T11:10:28.823207Z"
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   },
   "EJU41VQ": {
     "route": {
@@ -3652,17 +3652,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-06T12:05:25.006818Z"
-  },
-  "CKK235": {
-    "route": {
-      "fromCity": "Chongqing",
-      "fromIata": "CKG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-06T11:10:28.823207Z"
   },
   "CFE7026": {
     "route": {
@@ -5335,10 +5324,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-08T07:55:24.864256Z"
-  },
-  "PTN45S": {
-    "route": null,
-    "checked_at": "2026-11-06T11:05:27.159839Z"
   },
   "DCW1": {
     "route": null,
@@ -9859,5 +9844,20 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-11-08T11:05:25.577885Z"
+  },
+  "EJU74MN": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T11:10:31.828800Z"
+  },
+  "MOCNY": {
+    "route": null,
+    "checked_at": "2026-11-08T11:10:31.828800Z"
   }
 }
