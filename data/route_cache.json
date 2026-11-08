@@ -4777,7 +4777,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-06T12:05:25.006818Z"
+    "checked_at": "2026-11-08T10:15:31.029477Z"
   },
   "EJU41NG": {
     "route": {
@@ -5368,39 +5368,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T07:05:23.865896Z"
-  },
-  "EJU73WR": {
-    "route": {
-      "fromCity": "Lyon",
-      "fromIata": "LYS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T10:15:29.978076Z"
-  },
-  "RYR84TC": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Milan",
-      "toIata": "BGY",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T10:15:29.978076Z"
-  },
-  "RYR3BW": {
-    "route": {
-      "fromCity": "Ancona",
-      "fromIata": "AOI",
-      "toCity": "Weeze",
-      "toIata": "NRN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T10:15:29.978076Z"
   },
   "CFG9VN": {
     "route": {
@@ -8140,7 +8107,7 @@
   },
   "LUA289S": {
     "route": null,
-    "checked_at": "2026-11-07T10:35:24.984329Z"
+    "checked_at": "2026-11-08T10:15:31.029477Z"
   },
   "RYR9TE": {
     "route": {
@@ -9966,5 +9933,60 @@
   "NJE099L": {
     "route": null,
     "checked_at": "2026-11-08T10:10:30.333910Z"
+  },
+  "EZS9047": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Easyjet Switzerland",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-11-08T10:15:31.029477Z"
+  },
+  "AHY064": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Baku",
+      "toIata": "GYD",
+      "airlineName": "Azerbaijan Airlines",
+      "airlineCountry": "Azerbaijan"
+    },
+    "checked_at": "2026-11-08T10:15:31.029477Z"
+  },
+  "FIN6TF": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-08T10:15:31.029477Z"
+  },
+  "CFG3TN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T10:15:31.029477Z"
+  },
+  "BAW976": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T10:15:31.029477Z"
   }
 }
