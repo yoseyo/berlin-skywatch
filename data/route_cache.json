@@ -5196,17 +5196,6 @@
     },
     "checked_at": "2026-11-08T13:30:41.728284Z"
   },
-  "HLF8816": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Xiang'an, Xiamen",
-      "toIata": "XMN",
-      "airlineName": "Hapagfly",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T23:15:29.685808Z"
-  },
   "AWH93B": {
     "route": null,
     "checked_at": "2026-11-07T00:00:50.959753Z"
@@ -9812,5 +9801,16 @@
   "WZZ25ZD": {
     "route": null,
     "checked_at": "2026-11-08T23:10:31.520427Z"
+  },
+  "RYR8200": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Aberdeen",
+      "toIata": "ABZ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T23:20:31.389594Z"
   }
 }
