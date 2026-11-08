@@ -661,7 +661,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-07T06:20:33.049751Z"
+    "checked_at": "2026-11-08T07:40:30.351831Z"
   },
   "UAL963": {
     "route": {
@@ -3089,7 +3089,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-07T07:35:25.690122Z"
+    "checked_at": "2026-11-08T07:40:30.351831Z"
   },
   "EZY17GF": {
     "route": {
@@ -3648,17 +3648,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-06T11:30:41.333714Z"
-  },
-  "LOT403": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-06T07:40:28.954756Z"
   },
   "CFG432": {
     "route": {
@@ -5515,10 +5504,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T11:50:30.427101Z"
-  },
-  "JBD1": {
-    "route": null,
-    "checked_at": "2026-11-06T07:40:28.954756Z"
   },
   "BAW972": {
     "route": {
@@ -10171,5 +10156,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T07:30:41.436006Z"
+  },
+  "LOT6286": {
+    "route": {
+      "fromCity": "Punta Cana",
+      "fromIata": "PUJ",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-08T07:40:30.351831Z"
   }
 }
