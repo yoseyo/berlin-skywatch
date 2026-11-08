@@ -1799,7 +1799,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T13:20:33.813840Z"
+    "checked_at": "2026-11-08T13:10:33.251433Z"
   },
   "THY1NC": {
     "route": {
@@ -3344,17 +3344,6 @@
     },
     "checked_at": "2026-11-08T12:00:51.873572Z"
   },
-  "EJU54BP": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T13:05:25.967948Z"
-  },
   "BAW979": {
     "route": {
       "fromCity": "Hannover",
@@ -4780,10 +4769,6 @@
     "route": null,
     "checked_at": "2026-11-06T16:20:29.770365Z"
   },
-  "BBA41": {
-    "route": null,
-    "checked_at": "2026-11-06T13:10:33.172082Z"
-  },
   "EZY63HL": {
     "route": {
       "fromCity": "Zakynthos Island",
@@ -5306,39 +5291,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-08T12:55:23.070741Z"
-  },
-  "EJU8624": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T13:05:25.967948Z"
-  },
-  "EJU65LC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T13:10:33.172082Z"
-  },
-  "PIA749": {
-    "route": {
-      "fromCity": "Islamabad",
-      "fromIata": "ISB",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Pakistan International Airlines",
-      "airlineCountry": "Pakistan"
-    },
-    "checked_at": "2026-11-06T13:10:33.172082Z"
   },
   "WZZ376": {
     "route": {
@@ -9779,5 +9731,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T13:05:24.791705Z"
+  },
+  "SFG55D": {
+    "route": null,
+    "checked_at": "2026-11-08T13:10:33.251433Z"
+  },
+  "BAW845": {
+    "route": {
+      "fromCity": "Dubrovnik",
+      "fromIata": "DBV",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T13:10:33.251433Z"
   }
 }
