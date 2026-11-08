@@ -3704,17 +3704,6 @@
     },
     "checked_at": "2026-11-06T04:50:28.212194Z"
   },
-  "BCS9CG": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T04:15:30.208074Z"
-  },
   "SRR6228": {
     "route": {
       "fromCity": "Cologne",
@@ -10452,5 +10441,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-08T03:55:22.523220Z"
+  },
+  "CSH871": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "airlineName": "Shanghai Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-08T04:20:30.973381Z"
   }
 }
