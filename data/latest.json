@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "DLH7AL",
+      "country": "Germany",
+      "lat": 52.5306,
+      "lon": 13.418,
+      "altKm": 12.0,
+      "speedKmh": 748,
+      "heading": 176,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
       "callsign": "DLH3CH",
       "country": "Germany",
-      "lat": 52.8508,
-      "lon": 13.2663,
+      "lat": 52.2982,
+      "lon": 13.3634,
       "altKm": 12.0,
-      "speedKmh": 756,
+      "speedKmh": 754,
       "heading": 174,
-      "vertRateMs": -0.3,
+      "vertRateMs": 0,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Gothenburg",
@@ -16,7 +33,37 @@
       "toCity": "Frankfurt am Main",
       "toIata": "FRA",
       "category": "plane"
+    },
+    {
+      "callsign": "DLH6ET",
+      "country": "Germany",
+      "lat": 52.343,
+      "lon": 13.5615,
+      "altKm": 0.7,
+      "speedKmh": 309,
+      "heading": 163,
+      "vertRateMs": 8.1,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "category": "plane"
+    },
+    {
+      "callsign": "SXS9YV",
+      "country": "Turkey",
+      "lat": 52.2216,
+      "lon": 13.1862,
+      "altKm": 1.9,
+      "speedKmh": 463,
+      "heading": 343,
+      "vertRateMs": -7.2,
+      "airline": "SunExpress",
+      "airlineCountry": "Turkey",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T05:45:31.588278Z"
+  "updated_at": "2026-11-08T05:50:31.772721Z"
 }
