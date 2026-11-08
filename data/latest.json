@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "DLH5KL",
-      "country": "Germany",
-      "lat": 52.841,
-      "lon": 13.1261,
-      "altKm": 11.1,
-      "speedKmh": 882,
-      "heading": 4,
-      "vertRateMs": 0.3,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
+      "callsign": "NOZ3JH",
+      "country": "Norway",
+      "lat": 52.4263,
+      "lon": 13.7344,
+      "altKm": 1.4,
+      "speedKmh": 458,
+      "heading": 69,
+      "vertRateMs": 13.7,
+      "airline": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "category": "plane"
+    },
+    {
+      "callsign": "WUK3636",
+      "country": "United Kingdom",
+      "lat": 52.7955,
+      "lon": 13.0414,
+      "altKm": 10.7,
+      "speedKmh": 784,
+      "heading": 88,
+      "vertRateMs": -5.2,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T09:00:50.968839Z"
+  "updated_at": "2026-11-08T09:05:25.948745Z"
 }
