@@ -4008,7 +4008,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-07T12:05:24.795489Z"
+    "checked_at": "2026-11-08T12:40:30.799430Z"
   },
   "N99BY": {
     "route": null,
@@ -4564,7 +4564,7 @@
       "airlineName": "Icelandair",
       "airlineCountry": "Iceland"
     },
-    "checked_at": "2026-11-07T12:15:29.652022Z"
+    "checked_at": "2026-11-08T12:40:30.799430Z"
   },
   "SEH874": {
     "route": {
@@ -4942,10 +4942,6 @@
     },
     "checked_at": "2026-11-07T18:25:23.737787Z"
   },
-  "ADN87D": {
-    "route": null,
-    "checked_at": "2026-11-06T12:35:24.281490Z"
-  },
   "LOT7EG": {
     "route": {
       "fromCity": "Warsaw",
@@ -5260,58 +5256,6 @@
     "route": null,
     "checked_at": "2026-11-07T10:00:48.884000Z"
   },
-  "WZZ58": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-06T12:35:24.281490Z"
-  },
-  "RYR41KP": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T12:35:24.281490Z"
-  },
-  "EWG31K": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T12:35:24.281490Z"
-  },
-  "WFL750P": {
-    "route": null,
-    "checked_at": "2026-11-06T12:35:24.281490Z"
-  },
-  "WZZ21KV": {
-    "route": null,
-    "checked_at": "2026-11-06T12:40:29.956535Z"
-  },
-  "RYR5UJ": {
-    "route": {
-      "fromCity": "Bologna",
-      "fromIata": "BLQ",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T12:40:29.956535Z"
-  },
   "NSZ2059": {
     "route": {
       "fromCity": "Prague",
@@ -5387,7 +5331,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-11-07T13:15:31.045135Z"
+    "checked_at": "2026-11-08T12:40:30.799430Z"
   },
   "NJE554L": {
     "route": null,
@@ -6528,7 +6472,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T19:00:50.856342Z"
+    "checked_at": "2026-11-08T12:40:30.799430Z"
   },
   "RYR5JH": {
     "route": {
@@ -9795,5 +9739,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T12:35:22.888686Z"
+  },
+  "EWG4LK": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T12:40:30.799430Z"
+  },
+  "RYR41SQ": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T12:40:30.799430Z"
   }
 }
