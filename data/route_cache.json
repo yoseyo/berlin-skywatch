@@ -67,7 +67,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-06T12:00:49.353297Z"
+    "checked_at": "2026-11-08T11:35:24.780180Z"
   },
   "SWR23F": {
     "route": {
@@ -2832,7 +2832,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-11-07T12:00:50.661908Z"
+    "checked_at": "2026-11-08T11:35:24.780180Z"
   },
   "KLC1341": {
     "route": null,
@@ -4861,17 +4861,6 @@
     },
     "checked_at": "2026-11-07T08:50:32.093874Z"
   },
-  "OEFIX": {
-    "route": {
-      "fromCity": "Olbia (SS)",
-      "fromIata": "OLB",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-06T11:35:23.003593Z"
-  },
   "RMB3": {
     "route": null,
     "checked_at": "2026-11-06T16:20:29.770365Z"
@@ -5295,21 +5284,6 @@
   "DCW1": {
     "route": null,
     "checked_at": "2026-11-07T11:00:52.913385Z"
-  },
-  "DFLYC": {
-    "route": null,
-    "checked_at": "2026-11-06T11:35:23.003593Z"
-  },
-  "EWG8553": {
-    "route": {
-      "fromCity": "Bilbao",
-      "fromIata": "BIO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T11:35:23.003593Z"
   },
   "EWG38M": {
     "route": {
@@ -7987,7 +7961,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-07T12:05:24.795489Z"
+    "checked_at": "2026-11-08T11:35:24.780180Z"
   },
   "EJU47TP": {
     "route": {
@@ -9786,5 +9760,20 @@
       "airlineCountry": "Jordan"
     },
     "checked_at": "2026-11-08T11:30:45.405990Z"
+  },
+  "NSZ4505": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-08T11:35:24.780180Z"
+  },
+  "DEEWX": {
+    "route": null,
+    "checked_at": "2026-11-08T11:35:24.780180Z"
   }
 }
