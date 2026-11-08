@@ -793,7 +793,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T18:55:23.912198Z"
+    "checked_at": "2026-11-08T19:00:50.165296Z"
   },
   "SAS1680": {
     "route": {
@@ -2869,7 +2869,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-07T18:45:29.128548Z"
+    "checked_at": "2026-11-08T19:00:50.165296Z"
   },
   "EJU64QM": {
     "route": {
@@ -5205,7 +5205,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-06T19:20:30.343301Z"
+    "checked_at": "2026-11-08T19:00:50.165296Z"
   },
   "BTI6UQ": {
     "route": {
@@ -9658,5 +9658,38 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-11-08T18:55:23.751124Z"
+  },
+  "VKG459": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-11-08T19:00:50.165296Z"
+  },
+  "BAW87AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T19:00:50.165296Z"
+  },
+  "RYR84WC": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T19:00:50.165296Z"
   }
 }
