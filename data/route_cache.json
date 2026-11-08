@@ -2689,7 +2689,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-07T19:30:44.037894Z"
+    "checked_at": "2026-11-08T19:40:31.142518Z"
   },
   "UAE98V": {
     "route": {
@@ -4169,17 +4169,6 @@
     },
     "checked_at": "2026-11-08T10:15:31.029477Z"
   },
-  "EJU41NG": {
-    "route": {
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T19:40:27.360291Z"
-  },
   "EJU31DR": {
     "route": {
       "fromCity": "Berlin",
@@ -4395,7 +4384,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-07T18:25:23.737787Z"
+    "checked_at": "2026-11-08T19:40:31.142518Z"
   },
   "LOT7EG": {
     "route": {
@@ -5221,17 +5210,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-08T19:20:32.513606Z"
-  },
-  "EJU62MH": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T19:40:27.360291Z"
   },
   "EZY54UH": {
     "route": {
@@ -9739,5 +9717,38 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T19:30:43.034699Z"
+  },
+  "EZY98TR": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T19:40:31.142518Z"
+  },
+  "LGL9473": {
+    "route": {
+      "fromCity": "Luxembourg",
+      "fromIata": "LUX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Luxair",
+      "airlineCountry": "Luxembourg"
+    },
+    "checked_at": "2026-11-08T19:40:31.142518Z"
+  },
+  "EZY85MG": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T19:40:31.142518Z"
   }
 }
