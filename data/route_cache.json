@@ -1135,7 +1135,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-07T06:20:33.049751Z"
+    "checked_at": "2026-11-08T06:20:31.453797Z"
   },
   "EJU64VT": {
     "route": {
@@ -3520,17 +3520,6 @@
     },
     "checked_at": "2026-11-07T14:45:35.187766Z"
   },
-  "CFE8PR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LCY",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T06:20:29.296361Z"
-  },
   "CHX49": {
     "route": null,
     "checked_at": "2026-11-07T12:45:28.749282Z"
@@ -5570,28 +5559,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-08T06:15:30.014996Z"
-  },
-  "AUA38": {
-    "route": {
-      "fromCity": "New York",
-      "fromIata": "EWR",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T06:20:29.296361Z"
-  },
-  "EJU83UM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T06:20:29.296361Z"
   },
   "EJU41UZ": {
     "route": {
@@ -10389,5 +10356,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T06:15:30.014996Z"
+  },
+  "RYR6044": {
+    "route": {
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T06:20:31.453797Z"
   }
 }
