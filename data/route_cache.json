@@ -3572,17 +3572,6 @@
     },
     "checked_at": "2026-11-06T21:45:30.360596Z"
   },
-  "EWG4LK": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T11:30:41.333714Z"
-  },
   "CFG432": {
     "route": {
       "fromCity": "Munich",
@@ -4042,28 +4031,6 @@
       "airlineCountry": "Portugal"
     },
     "checked_at": "2026-11-08T10:30:43.889991Z"
-  },
-  "EWG65T": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T11:30:41.333714Z"
-  },
-  "NSZ4506": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-06T11:30:41.333714Z"
   },
   "EJU61YV": {
     "route": {
@@ -4619,7 +4586,7 @@
   },
   "WUK7877": {
     "route": null,
-    "checked_at": "2026-11-07T11:00:52.913385Z"
+    "checked_at": "2026-11-08T11:30:45.405990Z"
   },
   "NSZ8ML": {
     "route": {
@@ -5329,28 +5296,6 @@
     "route": null,
     "checked_at": "2026-11-07T11:00:52.913385Z"
   },
-  "EJU15KG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T11:30:41.333714Z"
-  },
-  "RYR8HW": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Cagliari",
-      "toIata": "CAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T11:30:41.333714Z"
-  },
   "DFLYC": {
     "route": null,
     "checked_at": "2026-11-06T11:35:23.003593Z"
@@ -5386,7 +5331,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-07T11:35:24.851761Z"
+    "checked_at": "2026-11-08T11:30:45.405990Z"
   },
   "TVS4577": {
     "route": {
@@ -9830,5 +9775,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T11:25:25.259522Z"
+  },
+  "RJA291": {
+    "route": {
+      "fromCity": "Amman",
+      "fromIata": "AMM",
+      "toCity": "Dallas-Fort Worth",
+      "toIata": "DFW",
+      "airlineName": "Royal Jordanian",
+      "airlineCountry": "Jordan"
+    },
+    "checked_at": "2026-11-08T11:30:45.405990Z"
   }
 }
