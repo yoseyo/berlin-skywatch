@@ -3364,7 +3364,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-06T12:15:28.158235Z"
+    "checked_at": "2026-11-08T12:00:51.873572Z"
   },
   "EJU54BP": {
     "route": {
@@ -4031,17 +4031,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T06:30:43.140078Z"
-  },
-  "DLH4AL": {
-    "route": {
-      "fromCity": "Bremen",
-      "fromIata": "BRE",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T12:00:49.353297Z"
   },
   "TAP31EL": {
     "route": {
@@ -5274,42 +5263,9 @@
     },
     "checked_at": "2026-11-08T11:30:45.405990Z"
   },
-  "EJU91JK": {
-    "route": {
-      "fromCity": "Catania",
-      "fromIata": "CTA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T12:00:49.353297Z"
-  },
   "N2763": {
     "route": null,
     "checked_at": "2026-11-07T14:30:43.198507Z"
-  },
-  "EWG6T": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Sarajevo",
-      "toIata": "SJJ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T12:00:49.353297Z"
-  },
-  "EWG2UE": {
-    "route": {
-      "fromCity": "Dubrovnik",
-      "fromIata": "DBV",
-      "toCity": "D\u00fcsseldorf",
-      "toIata": "DUS",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T12:00:49.353297Z"
   },
   "CES710": {
     "route": {
@@ -6598,7 +6554,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T18:25:21.566358Z"
+    "checked_at": "2026-11-08T12:00:51.873572Z"
   },
   "RYR2WK": {
     "route": {
@@ -9765,5 +9721,20 @@
   "AWH91B": {
     "route": null,
     "checked_at": "2026-11-08T11:50:31.635056Z"
+  },
+  "PGT61YY": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-08T12:00:51.873572Z"
+  },
+  "DMYHG": {
+    "route": null,
+    "checked_at": "2026-11-08T12:00:51.873572Z"
   }
 }
