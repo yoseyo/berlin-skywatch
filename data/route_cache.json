@@ -595,7 +595,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-07T13:00:50.344206Z"
+    "checked_at": "2026-11-08T13:05:24.791705Z"
   },
   "MSC2960": {
     "route": {
@@ -1744,7 +1744,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T13:10:31.486772Z"
+    "checked_at": "2026-11-08T13:05:24.791705Z"
   },
   "KLM1314": {
     "route": {
@@ -3089,7 +3089,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-07T12:55:23.643914Z"
+    "checked_at": "2026-11-08T13:05:24.791705Z"
   },
   "DLH891": {
     "route": {
@@ -4614,10 +4614,6 @@
     "route": null,
     "checked_at": "2026-11-06T14:45:31.956618Z"
   },
-  "DEBRR": {
-    "route": null,
-    "checked_at": "2026-11-06T13:00:50.362862Z"
-  },
   "EJU31DR": {
     "route": {
       "fromCity": "Berlin",
@@ -5288,10 +5284,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-07T06:45:29.235582Z"
-  },
-  "NJE586G": {
-    "route": null,
-    "checked_at": "2026-11-06T13:00:50.362862Z"
   },
   "WZZ9GN": {
     "route": {
@@ -9776,5 +9768,16 @@
   "JSY2W": {
     "route": null,
     "checked_at": "2026-11-08T13:00:49.772594Z"
+  },
+  "DLH6LT": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T13:05:24.791705Z"
   }
 }
