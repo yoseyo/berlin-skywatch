@@ -2323,17 +2323,6 @@
     },
     "checked_at": "2026-11-08T19:50:31.862444Z"
   },
-  "EWG8465": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T20:15:28.189377Z"
-  },
   "BAW850T": {
     "route": {
       "fromCity": "London",
@@ -2354,7 +2343,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-07T07:55:22.690999Z"
+    "checked_at": "2026-11-08T20:15:29.346542Z"
   },
   "SAS95W": {
     "route": {
@@ -2365,7 +2354,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-07T17:15:30.923155Z"
+    "checked_at": "2026-11-08T20:15:29.346542Z"
   },
   "THY3GQ": {
     "route": {
@@ -2384,7 +2373,7 @@
   },
   "LOT4CT": {
     "route": null,
-    "checked_at": "2026-11-07T20:15:29.656991Z"
+    "checked_at": "2026-11-08T20:15:29.346542Z"
   },
   "LOT1HL": {
     "route": {
@@ -9728,5 +9717,27 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T20:10:32.556362Z"
+  },
+  "RYR242G": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T20:15:29.346542Z"
+  },
+  "RYR15AU": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T20:15:29.346542Z"
   }
 }
