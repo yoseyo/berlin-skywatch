@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EJU37DC",
+      "country": "Austria",
+      "lat": 52.2464,
+      "lon": 13.3863,
+      "altKm": 2.7,
+      "speedKmh": 515,
+      "heading": 249,
+      "vertRateMs": 16.9,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    },
+    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.7881,
-      "lon": 13.3327,
-      "altKm": 3.2,
-      "speedKmh": 503,
+      "lat": 52.4925,
+      "lon": 13.1732,
+      "altKm": 2.1,
+      "speedKmh": 422,
       "heading": 198,
-      "vertRateMs": 0,
+      "vertRateMs": -9.1,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T05:00:51.304241Z"
+  "updated_at": "2026-11-08T05:05:22.942590Z"
 }
