@@ -45,7 +45,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T15:05:24.122466Z"
+    "checked_at": "2026-11-08T15:04:51.366373Z"
   },
   "KLM1779": {
     "route": {
@@ -3418,17 +3418,6 @@
     },
     "checked_at": "2026-11-07T21:55:23.513094Z"
   },
-  "CFE93AU": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "BA CityFlyer",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T15:01:09.190393Z"
-  },
   "LGL9473": {
     "route": {
       "fromCity": "Luxembourg",
@@ -3567,7 +3556,7 @@
   },
   "EWG007": {
     "route": null,
-    "checked_at": "2026-11-06T16:25:23.438846Z"
+    "checked_at": "2026-11-08T15:04:51.366373Z"
   },
   "VLG8TD": {
     "route": {
@@ -4581,17 +4570,6 @@
     },
     "checked_at": "2026-11-06T15:10:29.434226Z"
   },
-  "RAM231": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PKX",
-      "toCity": "Casablanca",
-      "toIata": "CMN",
-      "airlineName": "Royal Air Maroc",
-      "airlineCountry": "Morocco"
-    },
-    "checked_at": "2026-11-06T15:01:09.190393Z"
-  },
   "EJU68JA": {
     "route": {
       "fromCity": "Edinburgh",
@@ -5313,17 +5291,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T14:55:23.449567Z"
-  },
-  "SAS55H": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-06T15:01:09.190393Z"
   },
   "EJU51QP": {
     "route": {
@@ -6236,7 +6203,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-06T20:25:22.124984Z"
+    "checked_at": "2026-11-08T15:04:51.366373Z"
   },
   "ASL60U": {
     "route": {
@@ -9673,5 +9640,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T15:00:51.213185Z"
+  },
+  "DAH2073": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Algiers",
+      "toIata": "ALG",
+      "airlineName": "Air Algerie",
+      "airlineCountry": "Algeria"
+    },
+    "checked_at": "2026-11-08T15:04:51.366373Z"
+  },
+  "BAW98GL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T15:04:51.366373Z"
   }
 }
