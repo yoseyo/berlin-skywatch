@@ -804,7 +804,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-07T18:45:29.128548Z"
+    "checked_at": "2026-11-08T20:50:30.009620Z"
   },
   "DMS2LW": {
     "route": {
@@ -4090,7 +4090,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-07T14:00:52.090367Z"
+    "checked_at": "2026-11-08T20:50:30.009620Z"
   },
   "NSZ89C": {
     "route": {
@@ -5188,17 +5188,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-08T20:35:23.101787Z"
-  },
-  "EWG60F": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T20:45:30.205387Z"
   },
   "RYR5WM": {
     "route": {
@@ -9794,5 +9783,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T20:45:29.527471Z"
+  },
+  "RYR57BB": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T20:50:30.009620Z"
   }
 }
