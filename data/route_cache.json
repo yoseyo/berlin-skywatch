@@ -628,7 +628,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-07T13:15:31.045135Z"
+    "checked_at": "2026-11-08T15:15:30.949211Z"
   },
   "AUA230U": {
     "route": {
@@ -3714,7 +3714,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-07T15:10:34.277135Z"
+    "checked_at": "2026-11-08T15:15:30.949211Z"
   },
   "HOP25KD": {
     "route": {
@@ -5281,17 +5281,6 @@
     },
     "checked_at": "2026-11-08T14:55:23.449567Z"
   },
-  "EJU32NT": {
-    "route": {
-      "fromCity": "Porto",
-      "fromIata": "OPO",
-      "toCity": "Bordeaux/M\u00e9rignac",
-      "toIata": "BOD",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T15:15:29.085063Z"
-  },
   "EJU47EH": {
     "route": {
       "fromCity": "Milan",
@@ -5302,17 +5291,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-07T10:05:25.150155Z"
-  },
-  "LOT6309": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Punta Cana",
-      "toIata": "PUJ",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-06T15:15:29.085063Z"
   },
   "EJU71YV": {
     "route": {
@@ -9600,5 +9578,49 @@
   "VJT634": {
     "route": null,
     "checked_at": "2026-11-08T15:10:32.504535Z"
+  },
+  "BTI3FL": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-08T15:15:30.949211Z"
+  },
+  "RYR27QM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T15:15:30.949211Z"
+  },
+  "EZY31XA": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Corvera",
+      "toIata": "RMU",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T15:15:30.949211Z"
+  },
+  "AEE512": {
+    "route": {
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-08T15:15:30.949211Z"
   }
 }
