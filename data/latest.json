@@ -1,48 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "NOZ6BS",
-      "country": "Norway",
-      "lat": 52.3601,
-      "lon": 13.453,
-      "altKm": 0.2,
-      "speedKmh": 262,
-      "heading": 69,
-      "vertRateMs": -4.5,
-      "airline": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway",
-      "fromCity": "Bergen",
-      "fromIata": "BGO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "SWR7TA",
-      "country": "Switzerland",
-      "lat": 52.2413,
-      "lon": 13.3355,
-      "altKm": 2.8,
-      "speedKmh": 502,
-      "heading": 238,
-      "vertRateMs": 15.9,
-      "airline": "Swiss International Air Lines",
-      "airlineCountry": "Switzerland",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "category": "plane"
-    },
-    {
       "callsign": "DLH5KL",
       "country": "Germany",
-      "lat": 52.1234,
-      "lon": 13.0418,
+      "lat": 52.841,
+      "lon": 13.1261,
       "altKm": 11.1,
-      "speedKmh": 886,
+      "speedKmh": 882,
       "heading": 4,
-      "vertRateMs": 0,
+      "vertRateMs": 0.3,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Munich",
@@ -52,5 +18,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T08:55:23.756180Z"
+  "updated_at": "2026-11-08T09:00:50.968839Z"
 }
