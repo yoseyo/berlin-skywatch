@@ -562,7 +562,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-07T11:40:32.379279Z"
+    "checked_at": "2026-11-08T11:20:33.044149Z"
   },
   "KLC21A": {
     "route": {
@@ -1535,7 +1535,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T11:00:52.913385Z"
+    "checked_at": "2026-11-08T11:20:33.044149Z"
   },
   "TKJ2BK": {
     "route": {
@@ -5328,43 +5328,6 @@
   "DCW1": {
     "route": null,
     "checked_at": "2026-11-07T11:00:52.913385Z"
-  },
-  "EWG86Y": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T11:15:29.609115Z"
-  },
-  "EXS63C": {
-    "route": {
-      "fromCity": "Kittil\u00e4",
-      "fromIata": "KTT",
-      "toCity": "Bristol",
-      "toIata": "BRS",
-      "airlineName": "Jet2.com",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T11:15:29.609115Z"
-  },
-  "EJU98XV": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Zurich",
-      "toIata": "ZRH",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T11:20:30.687661Z"
-  },
-  "EFD5R": {
-    "route": null,
-    "checked_at": "2026-11-06T11:20:30.687661Z"
   },
   "THY9WJ": {
     "route": {
@@ -9859,5 +9822,35 @@
   "MOCNY": {
     "route": null,
     "checked_at": "2026-11-08T11:10:31.828800Z"
+  },
+  "EJU9048": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Nantes",
+      "toIata": "NTE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T11:20:33.044149Z"
+  },
+  "PGT72FD": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Pendik, Istanbul",
+      "toIata": "SAW",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-08T11:20:33.044149Z"
+  },
+  "DEFMG": {
+    "route": null,
+    "checked_at": "2026-11-08T11:20:33.044149Z"
+  },
+  "JDI7MP": {
+    "route": null,
+    "checked_at": "2026-11-08T11:20:33.044149Z"
   }
 }
