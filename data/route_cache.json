@@ -2713,17 +2713,6 @@
     },
     "checked_at": "2026-11-08T16:10:32.277748Z"
   },
-  "AUA22S": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T16:25:23.438846Z"
-  },
   "BAW985": {
     "route": {
       "fromCity": "Berlin",
@@ -3953,7 +3942,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-07T16:30:41.461449Z"
+    "checked_at": "2026-11-08T16:25:24.127084Z"
   },
   "BAW990G": {
     "route": {
@@ -4536,17 +4525,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-07T08:50:32.093874Z"
-  },
-  "EWG89KP": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T16:25:23.438846Z"
   },
   "LOT407": {
     "route": {
@@ -9640,5 +9618,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T16:20:32.969427Z"
+  },
+  "BTI6JK": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-08T16:25:24.127084Z"
+  },
+  "DLH9854": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T16:25:24.127084Z"
+  },
+  "EWG2AY": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Bari",
+      "toIata": "BRI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T16:25:24.127084Z"
   }
 }
