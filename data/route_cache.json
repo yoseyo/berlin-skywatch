@@ -1634,7 +1634,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-07T11:45:30.174166Z"
+    "checked_at": "2026-11-08T11:45:31.402626Z"
   },
   "THY9VS": {
     "route": {
@@ -1832,7 +1832,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-07T12:20:32.961636Z"
+    "checked_at": "2026-11-08T11:45:31.402626Z"
   },
   "DLH187": {
     "route": {
@@ -9772,5 +9772,27 @@
   "TCDGN": {
     "route": null,
     "checked_at": "2026-11-08T11:40:32.216896Z"
+  },
+  "SVA061": {
+    "route": {
+      "fromCity": "Jeddah",
+      "fromIata": "JED",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Saudi Arabian Airlines",
+      "airlineCountry": "Saudi Arabia"
+    },
+    "checked_at": "2026-11-08T11:45:31.402626Z"
+  },
+  "BAW97ED": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T11:45:31.402626Z"
   }
 }
