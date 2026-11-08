@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-08T03:50:30.053076Z"
+  "flights": [
+    {
+      "callsign": "CCA949",
+      "country": "China",
+      "lat": 52.1398,
+      "lon": 13.9217,
+      "altKm": 11.6,
+      "speedKmh": 851,
+      "heading": 222,
+      "vertRateMs": 0,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-08T03:55:22.523220Z"
 }
