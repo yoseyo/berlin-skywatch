@@ -1,31 +1,44 @@
 {
   "flights": [
     {
-      "callsign": "EJU37DC",
+      "callsign": "EJU63ME",
       "country": "Austria",
-      "lat": 52.2464,
-      "lon": 13.3863,
-      "altKm": 2.7,
-      "speedKmh": 515,
-      "heading": 249,
-      "vertRateMs": 16.9,
+      "lat": 52.295,
+      "lon": 13.5195,
+      "altKm": 1.4,
+      "speedKmh": 413,
+      "heading": 220,
+      "vertRateMs": 8.8,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "category": "plane"
+    },
+    {
+      "callsign": "KLM90J",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.3612,
+      "lon": 13.541,
+      "altKm": 0.4,
+      "speedKmh": 291,
+      "heading": 90,
+      "vertRateMs": 7.8,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
       "category": "plane"
     },
     {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.4925,
-      "lon": 13.1732,
-      "altKm": 2.1,
-      "speedKmh": 422,
-      "heading": 198,
-      "vertRateMs": -9.1,
+      "lat": 52.294,
+      "lon": 13.2536,
+      "altKm": 0.9,
+      "speedKmh": 335,
+      "heading": 68,
+      "vertRateMs": 0.3,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -35,5 +48,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T05:05:22.942590Z"
+  "updated_at": "2026-11-08T05:10:31.457883Z"
 }
