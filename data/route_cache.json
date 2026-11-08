@@ -177,7 +177,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-07T21:05:24.548860Z"
+    "checked_at": "2026-11-08T21:05:24.635680Z"
   },
   "IBE0787": {
     "route": {
@@ -2432,7 +2432,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-07T21:35:23.481726Z"
+    "checked_at": "2026-11-08T21:05:24.635680Z"
   },
   "RYR26NC": {
     "route": {
@@ -5188,17 +5188,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T20:20:30.717048Z"
-  },
-  "TAY9ER": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "ASL Airlines Belgium",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-11-06T21:00:50.800219Z"
   },
   "EJU9044": {
     "route": {
@@ -9798,5 +9787,16 @@
       "airlineCountry": "Qatar"
     },
     "checked_at": "2026-11-08T21:00:50.471971Z"
+  },
+  "LGL9A": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Luxembourg",
+      "toIata": "LUX",
+      "airlineName": "Luxair",
+      "airlineCountry": "Luxembourg"
+    },
+    "checked_at": "2026-11-08T21:05:24.635680Z"
   }
 }
