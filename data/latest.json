@@ -1,14 +1,48 @@
 {
   "flights": [
     {
+      "callsign": "DLH8CE",
+      "country": "Germany",
+      "lat": 52.7091,
+      "lon": 13.9436,
+      "altKm": 11.1,
+      "speedKmh": 821,
+      "heading": 229,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "category": "plane"
+    },
+    {
+      "callsign": "AFR24ZY",
+      "country": "France",
+      "lat": 52.3341,
+      "lon": 13.56,
+      "altKm": 0.9,
+      "speedKmh": 264,
+      "heading": 166,
+      "vertRateMs": 9.8,
+      "airline": "Air France",
+      "airlineCountry": "France",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "category": "plane"
+    },
+    {
       "callsign": "BAW8RM",
       "country": "United Kingdom",
-      "lat": 52.3138,
-      "lon": 13.5435,
-      "altKm": 1.2,
-      "speedKmh": 329,
-      "heading": 217,
-      "vertRateMs": 8.1,
+      "lat": 52.2854,
+      "lon": 12.9351,
+      "altKm": 4.2,
+      "speedKmh": 713,
+      "heading": 274,
+      "vertRateMs": 11.7,
       "airline": "British Airways",
       "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
@@ -18,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T06:00:52.265951Z"
+  "updated_at": "2026-11-08T06:05:24.671256Z"
 }
