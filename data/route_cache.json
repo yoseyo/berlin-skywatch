@@ -9736,5 +9736,27 @@
   "DMYHG": {
     "route": null,
     "checked_at": "2026-11-08T12:00:51.873572Z"
+  },
+  "LOT34": {
+    "route": {
+      "fromCity": "Miami",
+      "fromIata": "MIA",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-08T12:05:24.939779Z"
+  },
+  "SAS31W": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-08T12:05:24.939779Z"
   }
 }
