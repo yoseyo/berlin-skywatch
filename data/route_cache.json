@@ -5171,17 +5171,6 @@
     },
     "checked_at": "2026-11-08T15:55:25.238907Z"
   },
-  "WZZ9025": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Budapest",
-      "toIata": "BUD",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-06T17:10:29.999081Z"
-  },
   "SDR11BL": {
     "route": {
       "fromCity": "Beirut",
@@ -9545,5 +9534,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T17:05:25.493617Z"
+  },
+  "DLH9912": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Manila",
+      "toIata": "MNL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T17:10:31.557304Z"
   }
 }
