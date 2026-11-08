@@ -2266,7 +2266,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T19:55:24.080781Z"
+    "checked_at": "2026-11-08T20:10:32.556362Z"
   },
   "SAS45C": {
     "route": {
@@ -3296,17 +3296,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T16:55:25.895050Z"
-  },
-  "LOT285": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-06T20:10:29.199202Z"
   },
   "LGL9A": {
     "route": {
@@ -4364,17 +4353,6 @@
     },
     "checked_at": "2026-11-08T19:40:31.142518Z"
   },
-  "LOT7EG": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Goleniow",
-      "toIata": "SZZ",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-06T20:05:24.997282Z"
-  },
   "BEL9NK": {
     "route": {
       "fromCity": "Berlin",
@@ -4384,7 +4362,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-06T20:20:30.147638Z"
+    "checked_at": "2026-11-08T20:10:32.556362Z"
   },
   "RYR65RB": {
     "route": {
@@ -5199,17 +5177,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T19:25:23.869906Z"
-  },
-  "CFG8JY": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T20:10:29.199202Z"
   },
   "RYR1GW": {
     "route": {
@@ -9739,5 +9706,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T20:05:24.420760Z"
+  },
+  "WMT7KQ": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Bucharest",
+      "toIata": "BBU",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-08T20:10:32.556362Z"
+  },
+  "EZY32YZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-08T20:10:32.556362Z"
   }
 }
