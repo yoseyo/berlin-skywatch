@@ -2454,7 +2454,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-07T18:40:29.873138Z"
+    "checked_at": "2026-11-08T21:30:41.574652Z"
   },
   "AFR17MD": {
     "route": null,
@@ -3553,10 +3553,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-07T08:30:41.307279Z"
-  },
-  "AEG6911": {
-    "route": null,
-    "checked_at": "2026-11-06T21:25:25.728616Z"
   },
   "EJU63AU": {
     "route": {
@@ -9812,5 +9808,16 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T21:25:24.083749Z"
+  },
+  "EJU97CN": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T21:30:41.574652Z"
   }
 }
