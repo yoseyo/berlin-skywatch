@@ -5156,28 +5156,6 @@
     },
     "checked_at": "2026-11-08T12:00:51.873572Z"
   },
-  "RYR2WK": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Sevilla",
-      "toIata": "SVQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-06T18:25:21.566358Z"
-  },
-  "BAW87AM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T18:25:21.566358Z"
-  },
   "LZB320": {
     "route": {
       "fromCity": "Berlin",
@@ -9563,5 +9541,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T18:20:33.622926Z"
+  },
+  "RYR8HW": {
+    "route": {
+      "fromCity": "Dublin",
+      "fromIata": "DUB",
+      "toCity": "Cagliari",
+      "toIata": "CAG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T18:25:24.304593Z"
+  },
+  "EWG8MF": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T18:25:24.304593Z"
+  },
+  "EWG16H": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T18:25:24.304593Z"
   }
 }
