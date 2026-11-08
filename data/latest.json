@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "BPOBER",
+      "callsign": "EWG32F",
       "country": "Germany",
-      "lat": 52.6019,
-      "lon": 13.5772,
-      "altKm": 0.1,
-      "speedKmh": 41,
-      "heading": 260,
-      "vertRateMs": -2.3,
-      "category": "heli"
+      "lat": 52.2551,
+      "lon": 13.1443,
+      "altKm": 1.0,
+      "speedKmh": 449,
+      "heading": 12,
+      "vertRateMs": -4.5,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-08T22:30:43.268187Z"
+  "updated_at": "2026-11-08T22:35:23.122154Z"
 }
