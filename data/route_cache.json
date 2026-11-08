@@ -1289,7 +1289,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-07T08:25:23.326265Z"
+    "checked_at": "2026-11-08T08:25:23.905333Z"
   },
   "QTR5G": {
     "route": {
@@ -3090,17 +3090,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-08T07:40:30.351831Z"
-  },
-  "EZY17GF": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-06T08:25:22.471482Z"
   },
   "LOT4LV": {
     "route": {
@@ -10119,5 +10108,27 @@
       "airlineCountry": "Azerbaijan"
     },
     "checked_at": "2026-11-08T08:07:09.936346Z"
+  },
+  "CFG4RY": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T08:25:23.905333Z"
+  },
+  "LHX7EE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-08T08:25:23.905333Z"
   }
 }
