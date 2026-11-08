@@ -1223,7 +1223,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-06T12:40:29.956535Z"
+    "checked_at": "2026-11-08T07:10:31.803852Z"
   },
   "FIN7PE": {
     "route": {
@@ -4152,10 +4152,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-07T20:10:32.066701Z"
-  },
-  "DINNA": {
-    "route": null,
-    "checked_at": "2026-11-06T07:10:29.245906Z"
   },
   "LOT4HW": {
     "route": {
@@ -10223,5 +10219,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T06:55:22.274797Z"
+  },
+  "EJU48EZ": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Agadir (Temsia)",
+      "toIata": "AGA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T07:10:31.803852Z"
+  },
+  "EJU5009": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Souda",
+      "toIata": "CHQ",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T07:10:31.803852Z"
   }
 }
