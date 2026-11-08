@@ -2042,7 +2042,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-07T07:25:22.875198Z"
+    "checked_at": "2026-11-08T16:35:24.528118Z"
   },
   "LOT3EG": {
     "route": {
@@ -2086,7 +2086,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-07T16:30:41.461449Z"
+    "checked_at": "2026-11-08T16:35:24.528118Z"
   },
   "DLH193": {
     "route": {
@@ -5225,28 +5225,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T16:30:43.277423Z"
-  },
-  "EJU9046": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T16:35:23.362234Z"
-  },
-  "EJU86FR": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-06T16:35:23.362234Z"
   },
   "TKJ3NX": {
     "route": {
@@ -9651,5 +9629,35 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-08T16:30:43.277423Z"
+  },
+  "AUA22S": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Austrian Airlines",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-08T16:35:24.528118Z"
+  },
+  "N66HR": {
+    "route": null,
+    "checked_at": "2026-11-08T16:35:24.528118Z"
+  },
+  "SEH875": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-08T16:35:24.528118Z"
+  },
+  "MASBA": {
+    "route": null,
+    "checked_at": "2026-11-08T16:35:24.528118Z"
   }
 }
