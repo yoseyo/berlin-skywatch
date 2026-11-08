@@ -1645,7 +1645,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T12:20:32.961636Z"
+    "checked_at": "2026-11-08T12:15:31.276310Z"
   },
   "RYR3CC": {
     "route": {
@@ -2913,7 +2913,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-07T13:35:23.224908Z"
+    "checked_at": "2026-11-08T12:15:31.276310Z"
   },
   "AUA29B": {
     "route": {
@@ -3069,17 +3069,6 @@
     },
     "checked_at": "2026-11-08T10:40:30.794444Z"
   },
-  "DLH894": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Stavanger",
-      "toIata": "SVG",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-06T12:10:33.129313Z"
-  },
   "DLH2EJ": {
     "route": {
       "fromCity": "Bucharest",
@@ -3089,7 +3078,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-07T12:10:31.817088Z"
+    "checked_at": "2026-11-08T12:15:31.276310Z"
   },
   "RYR3NA": {
     "route": {
@@ -3353,7 +3342,7 @@
       "airlineName": "Hainan Airlines",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-06T12:10:33.129313Z"
+    "checked_at": "2026-11-08T12:15:31.276310Z"
   },
   "BAW978": {
     "route": {
@@ -9758,5 +9747,42 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T12:10:31.617137Z"
+  },
+  "DMRBW": {
+    "route": null,
+    "checked_at": "2026-11-08T12:15:31.276310Z"
+  },
+  "NSZ2909": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-08T12:15:31.276310Z"
+  },
+  "NOZ1WC": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Oslo",
+      "toIata": "OSL",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-08T12:15:31.276310Z"
+  },
+  "RYR21FH": {
+    "route": {
+      "fromCity": "Rzesz\u00f3w",
+      "fromIata": "RZE",
+      "toCity": "Manchester",
+      "toIata": "MAN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-08T12:15:31.276310Z"
   }
 }
