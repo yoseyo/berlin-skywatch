@@ -221,7 +221,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-08T06:25:23.412134Z"
+    "checked_at": "2026-11-09T07:00:50.765056Z"
   },
   "AUA240": {
     "route": {
@@ -2717,17 +2717,6 @@
     },
     "checked_at": "2026-11-08T18:00:49.759476Z"
   },
-  "ETH724": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Brussels",
-      "toIata": "BRU",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-11-07T06:55:24.545641Z"
-  },
   "SAS1694": {
     "route": {
       "fromCity": "Vienna",
@@ -5158,17 +5147,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-08T06:10:30.621334Z"
-  },
-  "WZZ8WQ": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Cluj-Napoca",
-      "toIata": "CLJ",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-07T06:55:24.545641Z"
   },
   "EWG41C": {
     "route": {
@@ -9904,5 +9882,27 @@
   "NAF14": {
     "route": null,
     "checked_at": "2026-11-09T06:55:24.479643Z"
+  },
+  "EWG27B": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T07:00:50.765056Z"
+  },
+  "BTI83L": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-09T07:00:50.765056Z"
   }
 }
