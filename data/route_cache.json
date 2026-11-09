@@ -89,7 +89,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-08T15:50:31.239006Z"
+    "checked_at": "2026-11-09T15:35:27.121194Z"
   },
   "LOT5PX": {
     "route": {
@@ -5034,10 +5034,6 @@
     },
     "checked_at": "2026-11-08T05:40:32.629548Z"
   },
-  "DEMLG": {
-    "route": null,
-    "checked_at": "2026-11-07T15:35:25.002492Z"
-  },
   "BTI7RK": {
     "route": {
       "fromCity": "Munich",
@@ -5194,7 +5190,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-07T17:05:24.463130Z"
+    "checked_at": "2026-11-09T15:35:27.121194Z"
   },
   "BBG271": {
     "route": {
@@ -10554,5 +10550,16 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-09T15:30:46.309612Z"
+  },
+  "EWG7C": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Kos Island",
+      "toIata": "KGS",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T15:35:27.121194Z"
   }
 }
