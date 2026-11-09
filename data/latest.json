@@ -1,59 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "AEG6911",
-      "country": "Estonia",
-      "lat": 52.1446,
-      "lon": 12.8021,
-      "altKm": 5.4,
-      "speedKmh": 462,
-      "heading": 256,
-      "vertRateMs": 0,
-      "category": "plane"
-    },
-    {
-      "callsign": "WZZ4133",
-      "country": "Hungary",
-      "lat": 52.8747,
-      "lon": 13.0653,
-      "altKm": 10.9,
-      "speedKmh": 877,
-      "heading": 63,
-      "vertRateMs": 0,
-      "airline": "Wizz Air",
-      "airlineCountry": "Hungary",
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "category": "plane"
-    },
-    {
-      "callsign": "EJU69VQ",
-      "country": "Austria",
-      "lat": 52.3087,
-      "lon": 13.3143,
-      "altKm": 0.7,
-      "speedKmh": 310,
-      "heading": 69,
-      "vertRateMs": -4.9,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "DLH7CT",
       "country": "Germany",
-      "lat": 52.3192,
-      "lon": 13.1045,
+      "lat": 52.6937,
+      "lon": 13.9615,
       "altKm": 11.9,
-      "speedKmh": 875,
-      "heading": 54,
-      "vertRateMs": 0,
+      "speedKmh": 879,
+      "heading": 55,
+      "vertRateMs": 0.3,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Valletta",
@@ -61,24 +16,7 @@
       "toCity": "Munich",
       "toIata": "MUC",
       "category": "plane"
-    },
-    {
-      "callsign": "DLH6PX",
-      "country": "Germany",
-      "lat": 52.6064,
-      "lon": 14.055,
-      "altKm": 10.9,
-      "speedKmh": 829,
-      "heading": 18,
-      "vertRateMs": 0.3,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T21:45:32.578164Z"
+  "updated_at": "2026-11-09T21:50:32.418097Z"
 }
