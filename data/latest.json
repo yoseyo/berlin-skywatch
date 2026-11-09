@@ -1,30 +1,13 @@
 {
   "flights": [
     {
-      "callsign": "SRR6227",
-      "country": "Denmark",
-      "lat": 52.2998,
-      "lon": 13.0478,
-      "altKm": 3.9,
-      "speedKmh": 638,
-      "heading": 257,
-      "vertRateMs": 20.2,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cologne",
-      "toIata": "CGN",
-      "category": "plane"
-    },
-    {
       "callsign": "RYR3NA",
       "country": "Ireland",
-      "lat": 52.7259,
-      "lon": 13.7702,
+      "lat": 52.6995,
+      "lon": 12.8841,
       "altKm": 10.9,
-      "speedKmh": 793,
-      "heading": 268,
+      "speedKmh": 773,
+      "heading": 267,
       "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
@@ -33,7 +16,18 @@
       "toCity": "Catania",
       "toIata": "CTA",
       "category": "plane"
+    },
+    {
+      "callsign": "RYR91HD",
+      "country": "Ireland",
+      "lat": 52.5254,
+      "lon": 13.2942,
+      "altKm": 11.2,
+      "speedKmh": 787,
+      "heading": 269,
+      "vertRateMs": 2.9,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T22:30:42.328691Z"
+  "updated_at": "2026-11-09T22:35:23.887007Z"
 }
