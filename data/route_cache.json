@@ -959,7 +959,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T13:00:49.772594Z"
+    "checked_at": "2026-11-09T13:10:35.573368Z"
   },
   "EWG2JM": {
     "route": {
@@ -5005,31 +5005,9 @@
     },
     "checked_at": "2026-11-09T10:30:43.933014Z"
   },
-  "RYR1GE": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-07T13:10:31.486772Z"
-  },
   "BPO562": {
     "route": null,
     "checked_at": "2026-11-08T15:00:51.213185Z"
-  },
-  "EWG8904": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Larnaca",
-      "toIata": "LCA",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-07T13:10:31.486772Z"
   },
   "WZZ8BV": {
     "route": {
@@ -5263,7 +5241,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-07T15:15:29.839909Z"
+    "checked_at": "2026-11-09T13:10:35.573368Z"
   },
   "RYR22EH": {
     "route": {
@@ -10373,5 +10351,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T13:05:25.849324Z"
+  },
+  "CCA966": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-09T13:10:35.573368Z"
+  },
+  "SAS58M": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "LIN",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-09T13:10:35.573368Z"
   }
 }
