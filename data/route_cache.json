@@ -232,7 +232,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T06:10:30.621334Z"
+    "checked_at": "2026-11-09T06:30:42.796282Z"
   },
   "DLH172": {
     "route": {
@@ -243,7 +243,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T06:35:24.543353Z"
+    "checked_at": "2026-11-09T06:30:42.796282Z"
   },
   "SWR5XL": {
     "route": {
@@ -9823,5 +9823,38 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-09T06:20:30.888667Z"
+  },
+  "BTI7WR": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "D\u00fcsseldorf",
+      "toIata": "DUS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-09T06:30:42.796282Z"
+  },
+  "CFG2DC": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T06:30:42.796282Z"
+  },
+  "DLH7EP": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Dresden",
+      "toIata": "DRS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T06:30:42.796282Z"
   }
 }
