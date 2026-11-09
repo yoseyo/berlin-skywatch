@@ -1245,7 +1245,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-11-08T08:15:28.764458Z"
+    "checked_at": "2026-11-09T08:55:25.008583Z"
   },
   "DLH173": {
     "route": {
@@ -1425,7 +1425,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-08T09:25:23.684232Z"
+    "checked_at": "2026-11-09T08:55:25.008583Z"
   },
   "BAW975R": {
     "route": {
@@ -3618,7 +3618,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-07T20:50:32.821231Z"
+    "checked_at": "2026-11-09T08:55:25.008583Z"
   },
   "EWG1KG": {
     "route": {
@@ -9981,5 +9981,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-09T08:50:32.748316Z"
+  },
+  "EWG4HV": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Cairo",
+      "toIata": "CAI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T08:55:25.008583Z"
+  },
+  "DFEFY": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "Bottrop-Kirchhellen",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-09T08:55:25.008583Z"
+  },
+  "ATV104": {
+    "route": null,
+    "checked_at": "2026-11-09T08:55:25.008583Z"
   }
 }
