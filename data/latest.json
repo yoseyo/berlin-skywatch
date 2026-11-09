@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EJU91JK",
+      "country": "Austria",
+      "lat": 52.2359,
+      "lon": 13.1824,
+      "altKm": 1.2,
+      "speedKmh": 479,
+      "heading": 354,
+      "vertRateMs": -4.5,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Catania",
+      "fromIata": "CTA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "AUA239",
       "country": "Austria",
-      "lat": 52.1179,
-      "lon": 13.3479,
-      "altKm": 2.4,
-      "speedKmh": 524,
-      "heading": 326,
-      "vertRateMs": -11.7,
+      "lat": 52.3485,
+      "lon": 13.4042,
+      "altKm": 0.4,
+      "speedKmh": 249,
+      "heading": 69,
+      "vertRateMs": -3.6,
       "airline": "Austrian Airlines",
       "airlineCountry": "Austria",
       "fromCity": "Vienna",
@@ -20,12 +37,12 @@
     {
       "callsign": "RYR556Z",
       "country": "Ireland",
-      "lat": 52.5164,
-      "lon": 13.6771,
-      "altKm": 2.3,
-      "speedKmh": 526,
-      "heading": 340,
-      "vertRateMs": 13,
+      "lat": 52.2236,
+      "lon": 13.1274,
+      "altKm": 5.6,
+      "speedKmh": 706,
+      "heading": 212,
+      "vertRateMs": 8.4,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
       "fromCity": "Genova",
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T21:55:23.772396Z"
+  "updated_at": "2026-11-09T22:00:51.039933Z"
 }
