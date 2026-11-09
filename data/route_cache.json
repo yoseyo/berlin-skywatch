@@ -166,7 +166,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-08T20:55:23.511465Z"
+    "checked_at": "2026-11-09T21:05:26.387982Z"
   },
   "SWR9LC": {
     "route": {
@@ -5081,28 +5081,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T09:25:23.773808Z"
-  },
-  "NOZ5KH": {
-    "route": {
-      "fromCity": "Belgrade",
-      "fromIata": "BEG",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-07T21:05:24.548860Z"
-  },
-  "EWG25Z": {
-    "route": {
-      "fromCity": "Barcelona",
-      "fromIata": "BCN",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-07T21:05:24.548860Z"
   },
   "NSZ4EG": {
     "route": {
@@ -10763,5 +10741,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T20:55:25.496732Z"
+  },
+  "RYR78BG": {
+    "route": {
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Shannon",
+      "toIata": "SNN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T21:05:26.387982Z"
+  },
+  "RYR3BW": {
+    "route": {
+      "fromCity": "Ancona",
+      "fromIata": "AOI",
+      "toCity": "Weeze",
+      "toIata": "NRN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T21:05:26.387982Z"
   }
 }
