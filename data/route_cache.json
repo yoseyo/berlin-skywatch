@@ -507,7 +507,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T11:10:31.828800Z"
+    "checked_at": "2026-11-09T11:05:24.356130Z"
   },
   "FIN50M": {
     "route": {
@@ -2693,7 +2693,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T17:20:31.347946Z"
+    "checked_at": "2026-11-09T11:05:24.356130Z"
   },
   "CTN481": {
     "route": {
@@ -2704,7 +2704,7 @@
       "airlineName": "Croatia Airlines",
       "airlineCountry": "Croatia"
     },
-    "checked_at": "2026-11-08T11:05:25.577885Z"
+    "checked_at": "2026-11-09T11:05:24.356130Z"
   },
   "SAS1675": {
     "route": {
@@ -4480,7 +4480,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T19:50:31.862444Z"
+    "checked_at": "2026-11-09T11:05:24.356130Z"
   },
   "T7VAS": {
     "route": null,
@@ -10297,5 +10297,31 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-09T11:00:56.129577Z"
+  },
+  "EWG4J": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Salzburg",
+      "toIata": "SZG",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T11:05:24.356130Z"
+  },
+  "STLON51": {
+    "route": null,
+    "checked_at": "2026-11-09T11:05:24.356130Z"
+  },
+  "RYR3WY": {
+    "route": {
+      "fromCity": "Podgorica",
+      "fromIata": "TGD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T11:05:24.356130Z"
   }
 }
