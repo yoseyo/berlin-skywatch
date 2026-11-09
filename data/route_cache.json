@@ -2568,7 +2568,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T15:25:24.891865Z"
+    "checked_at": "2026-11-09T16:05:26.466509Z"
   },
   "FIN5DL": {
     "route": {
@@ -10627,5 +10627,31 @@
       "airlineCountry": "Switzerland"
     },
     "checked_at": "2026-11-09T16:00:54.225629Z"
+  },
+  "EWG57T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Graz (Feldkirchen bei Graz)",
+      "toIata": "GRZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T16:05:26.466509Z"
+  },
+  "AFR25KD": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-09T16:05:26.466509Z"
+  },
+  "NJE813C": {
+    "route": null,
+    "checked_at": "2026-11-09T16:05:26.466509Z"
   }
 }
