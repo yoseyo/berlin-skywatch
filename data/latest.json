@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T05:40:32.779572Z"
+  "flights": [
+    {
+      "callsign": "VKG126",
+      "country": "Denmark",
+      "lat": 52.4729,
+      "lon": 13.9339,
+      "altKm": 10.7,
+      "speedKmh": 748,
+      "heading": 170,
+      "vertRateMs": -0.3,
+      "airline": "SunClass Airlines",
+      "airlineCountry": "Denmark",
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T05:45:29.605815Z"
 }
