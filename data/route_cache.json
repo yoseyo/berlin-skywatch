@@ -3339,7 +3339,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T16:45:30.321030Z"
+    "checked_at": "2026-11-09T17:00:58.177585Z"
   },
   "AFR13RC": {
     "route": {
@@ -8284,7 +8284,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T22:00:51.523503Z"
+    "checked_at": "2026-11-09T17:00:58.177585Z"
   },
   "RYR6WF": {
     "route": {
@@ -10720,5 +10720,27 @@
   "LUA302W": {
     "route": null,
     "checked_at": "2026-11-09T16:55:26.027305Z"
+  },
+  "TUI7XK": {
+    "route": {
+      "fromCity": "Hurghada",
+      "fromIata": "HRG",
+      "toCity": "Hannover",
+      "toIata": "HAJ",
+      "airlineName": "TUIfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T17:00:58.177585Z"
+  },
+  "WZZ5QQ": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Bratislava",
+      "toIata": "BTS",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-09T17:00:58.177585Z"
   }
 }
