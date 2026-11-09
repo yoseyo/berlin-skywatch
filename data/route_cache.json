@@ -3058,17 +3058,6 @@
     },
     "checked_at": "2026-11-08T20:00:49.881825Z"
   },
-  "WZZ45MY": {
-    "route": {
-      "fromCity": "Katowice",
-      "fromIata": "KTW",
-      "toCity": "Reykjav\u00edk",
-      "toIata": "KEF",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-07T06:05:25.114070Z"
-  },
   "LOT4PJ": {
     "route": {
       "fromCity": "Amsterdam",
@@ -3754,7 +3743,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T05:10:31.457883Z"
+    "checked_at": "2026-11-09T06:10:31.876068Z"
   },
   "RYR158L": {
     "route": {
@@ -5158,43 +5147,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T17:25:23.420978Z"
-  },
-  "RYR55SQ": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-07T06:10:31.809928Z"
-  },
-  "CFG2CK": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-07T06:10:31.809928Z"
-  },
-  "AWH93C": {
-    "route": null,
-    "checked_at": "2026-11-07T06:10:31.809928Z"
-  },
-  "WMT8EK": {
-    "route": {
-      "fromCity": "Cluj-Napoca",
-      "fromIata": "CLJ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-11-07T06:10:31.809928Z"
   },
   "WZZ1676": {
     "route": {
@@ -9838,5 +9790,16 @@
       "airlineCountry": "Denmark"
     },
     "checked_at": "2026-11-09T05:45:29.605815Z"
+  },
+  "FIN4AN": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Gazipa\u015fa",
+      "toIata": "GZP",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-09T06:10:31.876068Z"
   }
 }

@@ -1,14 +1,48 @@
 {
   "flights": [
     {
+      "callsign": "EJU63ME",
+      "country": "Austria",
+      "lat": 52.438,
+      "lon": 13.65,
+      "altKm": 1.4,
+      "speedKmh": 493,
+      "heading": 18,
+      "vertRateMs": 16.9,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
+      "category": "plane"
+    },
+    {
+      "callsign": "FIN4AN",
+      "country": "Finland",
+      "lat": 52.1857,
+      "lon": 13.2745,
+      "altKm": 10.4,
+      "speedKmh": 800,
+      "heading": 211,
+      "vertRateMs": 0.3,
+      "airline": "Finnair",
+      "airlineCountry": "Finland",
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Gazipa\u015fa",
+      "toIata": "GZP",
+      "category": "plane"
+    },
+    {
       "callsign": "BAW8RM",
       "country": "United Kingdom",
-      "lat": 52.5155,
-      "lon": 13.6082,
-      "altKm": 2.9,
-      "speedKmh": 537,
-      "heading": 274,
-      "vertRateMs": 15.3,
+      "lat": 52.4703,
+      "lon": 12.7578,
+      "altKm": 6.7,
+      "speedKmh": 786,
+      "heading": 266,
+      "vertRateMs": 13,
       "airline": "British Airways",
       "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
@@ -16,24 +50,7 @@
       "toCity": "London",
       "toIata": "LHR",
       "category": "plane"
-    },
-    {
-      "callsign": "DLH8CE",
-      "country": "Germany",
-      "lat": 52.3422,
-      "lon": 13.4116,
-      "altKm": 10.3,
-      "speedKmh": 824,
-      "heading": 234,
-      "vertRateMs": -0.3,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Billund",
-      "toIata": "BLL",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T06:05:25.004636Z"
+  "updated_at": "2026-11-09T06:10:31.876068Z"
 }
