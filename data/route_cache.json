@@ -485,7 +485,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-08T11:10:31.828800Z"
+    "checked_at": "2026-11-09T11:20:32.346030Z"
   },
   "AEE2WD": {
     "route": {
@@ -496,7 +496,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-08T10:50:34.095209Z"
+    "checked_at": "2026-11-09T11:20:32.346030Z"
   },
   "AUA27Y": {
     "route": {
@@ -3826,10 +3826,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-09T10:10:33.655537Z"
-  },
-  "DFWEL": {
-    "route": null,
-    "checked_at": "2026-11-07T11:20:31.963796Z"
   },
   "EJU42WH": {
     "route": {
@@ -10290,5 +10286,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T11:15:32.054390Z"
+  },
+  "ISR253": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-09T11:20:32.346030Z"
+  },
+  "RYR5UJ": {
+    "route": {
+      "fromCity": "Bologna",
+      "fromIata": "BLQ",
+      "toCity": "Bordeaux/M\u00e9rignac",
+      "toIata": "BOD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T11:20:32.346030Z"
   }
 }
