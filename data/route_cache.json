@@ -3923,17 +3923,6 @@
     },
     "checked_at": "2026-11-08T15:40:34.618143Z"
   },
-  "EJU5312": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-07T09:55:28.352938Z"
-  },
   "EJU68JA": {
     "route": {
       "fromCity": "Edinburgh",
@@ -4342,10 +4331,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T12:35:22.888686Z"
-  },
-  "DCBCT": {
-    "route": null,
-    "checked_at": "2026-11-07T10:00:48.884000Z"
   },
   "CCA950": {
     "route": {
@@ -10180,5 +10165,39 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T09:55:23.744385Z"
+  },
+  "WUK6ZK": {
+    "route": null,
+    "checked_at": "2026-11-09T10:00:57.142478Z"
+  },
+  "RMB3": {
+    "route": null,
+    "checked_at": "2026-11-09T10:00:57.142478Z"
+  },
+  "BFD09K": {
+    "route": null,
+    "checked_at": "2026-11-09T10:00:57.142478Z"
+  },
+  "BTI9TZ": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-09T10:00:57.142478Z"
+  },
+  "EUL5R": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Prague",
+      "toIata": "PRG",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-09T10:00:57.142478Z"
   }
 }
