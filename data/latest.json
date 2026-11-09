@@ -1,14 +1,27 @@
 {
   "flights": [
     {
+      "callsign": "EJU91XM",
+      "country": "Austria",
+      "lat": 52.2681,
+      "lon": 13.48,
+      "altKm": 1.8,
+      "speedKmh": 473,
+      "heading": 235,
+      "vertRateMs": 12.0,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.438,
-      "lon": 13.1001,
-      "altKm": 1.7,
-      "speedKmh": 491,
-      "heading": 193,
-      "vertRateMs": -8.8,
+      "lat": 52.3154,
+      "lon": 13.3424,
+      "altKm": 0.6,
+      "speedKmh": 302,
+      "heading": 69,
+      "vertRateMs": -5.8,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -16,7 +29,20 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "KLM90J",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.3434,
+      "lon": 13.5473,
+      "altKm": 0.7,
+      "speedKmh": 333,
+      "heading": 146,
+      "vertRateMs": 9.1,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T05:05:26.051980Z"
+  "updated_at": "2026-11-09T05:10:31.743735Z"
 }
