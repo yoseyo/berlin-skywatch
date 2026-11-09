@@ -834,7 +834,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-11-08T06:45:30.827918Z"
+    "checked_at": "2026-11-09T06:35:25.311944Z"
   },
   "SAS63Z": {
     "route": {
@@ -1091,7 +1091,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-08T06:05:24.671256Z"
+    "checked_at": "2026-11-09T06:35:25.311944Z"
   },
   "IBE07WP": {
     "route": {
@@ -5158,17 +5158,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-08T06:10:30.621334Z"
-  },
-  "SXS4AQ": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-07T06:30:43.549398Z"
   },
   "WZZ959": {
     "route": {
@@ -9856,5 +9845,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T06:30:42.796282Z"
+  },
+  "EWG7KW": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T06:35:25.311944Z"
+  },
+  "GAF874": {
+    "route": null,
+    "checked_at": "2026-11-09T06:35:25.311944Z"
+  },
+  "EWG3WY": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T06:35:25.311944Z"
   }
 }
