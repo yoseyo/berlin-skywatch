@@ -1267,7 +1267,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T07:55:24.864256Z"
+    "checked_at": "2026-11-09T07:55:24.015383Z"
   },
   "DLH7EE": {
     "route": {
@@ -2513,7 +2513,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-07T08:31:13.819211Z"
+    "checked_at": "2026-11-09T07:55:24.015383Z"
   },
   "DLH4KV": {
     "route": {
@@ -4276,17 +4276,6 @@
     },
     "checked_at": "2026-11-08T17:00:51.712276Z"
   },
-  "BAW972": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LHR",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-07T07:55:22.690999Z"
-  },
   "NOZ2XM": {
     "route": {
       "fromCity": "Oslo",
@@ -4296,7 +4285,7 @@
       "airlineName": "Norwegian Air Shuttle AOC AS",
       "airlineCountry": "Norway"
     },
-    "checked_at": "2026-11-08T08:05:24.827926Z"
+    "checked_at": "2026-11-09T07:55:24.015383Z"
   },
   "BAW973E": {
     "route": {
@@ -9878,5 +9867,27 @@
   "ATV103": {
     "route": null,
     "checked_at": "2026-11-09T07:50:32.854446Z"
+  },
+  "DLH5T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T07:55:24.015383Z"
+  },
+  "WZZ8GS": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-09T07:55:24.015383Z"
   }
 }
