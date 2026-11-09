@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T22:40:31.438468Z"
+  "flights": [
+    {
+      "callsign": "EJU73CG",
+      "country": "Austria",
+      "lat": 52.2469,
+      "lon": 13.0091,
+      "altKm": 1.4,
+      "speedKmh": 487,
+      "heading": 76,
+      "vertRateMs": -3.2,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T22:45:30.187115Z"
 }
