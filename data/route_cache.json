@@ -408,7 +408,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-08T10:25:23.814604Z"
+    "checked_at": "2026-11-09T10:13:31.883454Z"
   },
   "AEE8RB": {
     "route": {
@@ -2524,7 +2524,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-08T10:20:31.372044Z"
+    "checked_at": "2026-11-09T10:13:31.883454Z"
   },
   "DLH1MF": {
     "route": {
@@ -5790,7 +5790,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T15:25:24.891865Z"
+    "checked_at": "2026-11-09T10:13:31.883454Z"
   },
   "CFG7VT": {
     "route": {
@@ -10210,5 +10210,27 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-11-09T10:10:33.655537Z"
+  },
+  "ELY2372": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-09T10:13:31.883454Z"
+  },
+  "CFG2FR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T10:13:31.883454Z"
   }
 }
