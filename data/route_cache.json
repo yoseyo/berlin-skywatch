@@ -1326,7 +1326,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-08T08:55:23.756180Z"
+    "checked_at": "2026-11-09T09:10:36.610339Z"
   },
   "IBE07ML": {
     "route": {
@@ -6308,7 +6308,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-08T09:20:32.897102Z"
+    "checked_at": "2026-11-09T09:10:36.610339Z"
   },
   "EJU48ZE": {
     "route": {
@@ -10055,5 +10055,38 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-09T09:05:24.910838Z"
+  },
+  "DLH9EY": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Pozna\u0144",
+      "toIata": "POZ",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T09:10:36.610339Z"
+  },
+  "EJU71AJ": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-09T09:10:36.610339Z"
+  },
+  "LOT4NC": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-09T09:10:36.610339Z"
   }
 }
