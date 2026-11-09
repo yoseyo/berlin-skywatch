@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "RYR677",
-      "country": "Malta",
-      "lat": 52.4176,
-      "lon": 12.8463,
-      "altKm": 12.2,
-      "speedKmh": 788,
-      "heading": 310,
+      "callsign": "SRR6227",
+      "country": "Denmark",
+      "lat": 52.2998,
+      "lon": 13.0478,
+      "altKm": 3.9,
+      "speedKmh": 638,
+      "heading": 257,
+      "vertRateMs": 20.2,
+      "airline": "Star Air",
+      "airlineCountry": "Denmark",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR3NA",
+      "country": "Ireland",
+      "lat": 52.7259,
+      "lon": 13.7702,
+      "altKm": 10.9,
+      "speedKmh": 793,
+      "heading": 268,
       "vertRateMs": 0,
       "airline": "Ryanair",
       "airlineCountry": "Ireland",
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Dublin",
-      "toIata": "DUB",
+      "fromCity": "Krak\u00f3w",
+      "fromIata": "KRK",
+      "toCity": "Catania",
+      "toIata": "CTA",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T22:25:24.808243Z"
+  "updated_at": "2026-11-09T22:30:42.328691Z"
 }
