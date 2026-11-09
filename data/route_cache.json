@@ -322,17 +322,6 @@
     },
     "checked_at": "2026-11-08T08:20:30.857537Z"
   },
-  "FIN7HC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-11-07T08:15:30.030389Z"
-  },
   "SWR2HD": {
     "route": {
       "fromCity": "Zurich",
@@ -1245,7 +1234,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-08T08:25:23.905333Z"
+    "checked_at": "2026-11-09T08:15:30.744947Z"
   },
   "QTR5G": {
     "route": {
@@ -1268,17 +1257,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T07:55:24.015383Z"
-  },
-  "DLH7EE": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-07T08:10:31.603871Z"
   },
   "BAW974": {
     "route": {
@@ -4896,7 +4874,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-08T18:55:23.751124Z"
+    "checked_at": "2026-11-09T08:15:30.744947Z"
   },
   "ETH725": {
     "route": {
@@ -5077,10 +5055,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-08T06:10:30.621334Z"
-  },
-  "PHMUE": {
-    "route": null,
-    "checked_at": "2026-11-07T08:10:31.603871Z"
   },
   "CFG1RD": {
     "route": {
@@ -9915,5 +9889,27 @@
       "airlineCountry": "Estonia"
     },
     "checked_at": "2026-11-09T08:10:31.232327Z"
+  },
+  "ELY2371": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "El Al Israel Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-09T08:15:30.744947Z"
+  },
+  "ETH724": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Ethiopian Airlines",
+      "airlineCountry": "Ethiopia"
+    },
+    "checked_at": "2026-11-09T08:15:30.744947Z"
   }
 }
