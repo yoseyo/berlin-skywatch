@@ -917,17 +917,6 @@
     "route": null,
     "checked_at": "2026-11-08T19:30:43.034699Z"
   },
-  "FIN5R": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-11-07T07:25:22.875198Z"
-  },
   "SWR1PF": {
     "route": {
       "fromCity": "Zurich",
@@ -5125,17 +5114,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-08T06:10:30.621334Z"
-  },
-  "WMT6YU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Cluj-Napoca",
-      "toIata": "CLJ",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-11-07T07:25:22.875198Z"
   },
   "NSZ3YT": {
     "route": {
@@ -9856,5 +9834,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T07:20:33.053996Z"
+  },
+  "EJU9071": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "N\u00e1poli",
+      "toIata": "NAP",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-09T07:25:23.845991Z"
+  },
+  "LOT4WE": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-09T07:25:23.845991Z"
+  },
+  "AYJ461": {
+    "route": null,
+    "checked_at": "2026-11-09T07:25:23.845991Z"
   }
 }
