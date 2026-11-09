@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T22:20:33.197515Z"
+  "flights": [
+    {
+      "callsign": "RYR677",
+      "country": "Malta",
+      "lat": 52.4176,
+      "lon": 12.8463,
+      "altKm": 12.2,
+      "speedKmh": 788,
+      "heading": 310,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T22:25:24.808243Z"
 }
