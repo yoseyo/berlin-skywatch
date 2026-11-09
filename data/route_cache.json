@@ -1733,7 +1733,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T13:45:29.243632Z"
+    "checked_at": "2026-11-09T13:55:24.801796Z"
   },
   "AFR66XV": {
     "route": {
@@ -1755,7 +1755,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T14:15:29.987202Z"
+    "checked_at": "2026-11-09T13:55:24.801796Z"
   },
   "DLH1EE": {
     "route": {
@@ -3825,7 +3825,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T09:10:33.413746Z"
+    "checked_at": "2026-11-09T13:55:24.801796Z"
   },
   "DLH715": {
     "route": {
@@ -4282,17 +4282,6 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-11-08T12:55:23.070741Z"
-  },
-  "THY6WB": {
-    "route": {
-      "fromCity": "I\u011fd\u0131r",
-      "fromIata": "IGD",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-07T13:55:24.755349Z"
   },
   "RYR70HH": {
     "route": {
@@ -10369,5 +10358,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T13:45:32.926274Z"
+  },
+  "LHX849": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T13:55:24.801796Z"
+  },
+  "EWG1H": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T13:55:24.801796Z"
   }
 }
