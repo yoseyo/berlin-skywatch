@@ -2502,7 +2502,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-08T07:50:31.732775Z"
+    "checked_at": "2026-11-09T07:50:32.854446Z"
   },
   "LOT286": {
     "route": {
@@ -5089,10 +5089,6 @@
     },
     "checked_at": "2026-11-08T06:10:30.621334Z"
   },
-  "EJU6105": {
-    "route": null,
-    "checked_at": "2026-11-07T07:50:31.226025Z"
-  },
   "WZZ4861": {
     "route": {
       "fromCity": "Edinburgh",
@@ -5251,7 +5247,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-07T10:05:25.150155Z"
+    "checked_at": "2026-11-09T07:50:32.854446Z"
   },
   "CFG9YR": {
     "route": {
@@ -9856,5 +9852,31 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-09T07:45:31.389654Z"
+  },
+  "LOT4HW": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-09T07:50:32.854446Z"
+  },
+  "SAS1693": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-09T07:50:32.854446Z"
+  },
+  "ATV103": {
+    "route": null,
+    "checked_at": "2026-11-09T07:50:32.854446Z"
   }
 }
