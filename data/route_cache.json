@@ -1711,7 +1711,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T12:55:23.070741Z"
+    "checked_at": "2026-11-09T13:05:25.849324Z"
   },
   "SXS7KG": {
     "route": {
@@ -4285,7 +4285,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-08T12:55:23.070741Z"
+    "checked_at": "2026-11-09T13:05:25.849324Z"
   },
   "WMT788": {
     "route": {
@@ -7479,7 +7479,7 @@
   },
   "GAF608": {
     "route": null,
-    "checked_at": "2026-11-08T16:10:32.277748Z"
+    "checked_at": "2026-11-09T13:05:25.849324Z"
   },
   "NOZ6TY": {
     "route": {
@@ -7899,7 +7899,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T18:10:33.198427Z"
+    "checked_at": "2026-11-09T13:05:25.849324Z"
   },
   "EJU15KG": {
     "route": {
@@ -10351,5 +10351,27 @@
   "DETMW": {
     "route": null,
     "checked_at": "2026-11-09T13:00:53.185615Z"
+  },
+  "LOT6521": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Puerto Plata",
+      "toIata": "POP",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-09T13:05:25.849324Z"
+  },
+  "EWG4601": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T13:05:25.849324Z"
   }
 }
