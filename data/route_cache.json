@@ -1102,7 +1102,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-08T07:30:41.436006Z"
+    "checked_at": "2026-11-09T11:50:31.292802Z"
   },
   "WZZ97YB": {
     "route": {
@@ -1535,7 +1535,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T11:25:25.259522Z"
+    "checked_at": "2026-11-09T11:50:31.292802Z"
   },
   "DLH9MJ": {
     "route": {
@@ -5640,7 +5640,7 @@
   },
   "PGT61NK": {
     "route": null,
-    "checked_at": "2026-11-08T16:55:25.895050Z"
+    "checked_at": "2026-11-09T11:50:31.292802Z"
   },
   "KMM376": {
     "route": null,
@@ -10319,5 +10319,38 @@
   "HYP045": {
     "route": null,
     "checked_at": "2026-11-09T11:45:30.681947Z"
+  },
+  "BTI28P": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-09T11:50:31.292802Z"
+  },
+  "EWG89N": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T11:50:31.292802Z"
+  },
+  "EWG6U": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T11:50:31.292802Z"
   }
 }
