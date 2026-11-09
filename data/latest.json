@@ -1,22 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "DLH7CT",
-      "country": "Germany",
-      "lat": 52.6937,
-      "lon": 13.9615,
-      "altKm": 11.9,
-      "speedKmh": 879,
-      "heading": 55,
-      "vertRateMs": 0.3,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Munich",
-      "toIata": "MUC",
+      "callsign": "AUA239",
+      "country": "Austria",
+      "lat": 52.1179,
+      "lon": 13.3479,
+      "altKm": 2.4,
+      "speedKmh": 524,
+      "heading": 326,
+      "vertRateMs": -11.7,
+      "airline": "Austrian Airlines",
+      "airlineCountry": "Austria",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR556Z",
+      "country": "Ireland",
+      "lat": 52.5164,
+      "lon": 13.6771,
+      "altKm": 2.3,
+      "speedKmh": 526,
+      "heading": 340,
+      "vertRateMs": 13,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Genova",
+      "fromIata": "GOA",
+      "toCity": "London",
+      "toIata": "STN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T21:50:32.418097Z"
+  "updated_at": "2026-11-09T21:55:23.772396Z"
 }
