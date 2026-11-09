@@ -2329,7 +2329,7 @@
   },
   "LOT4CT": {
     "route": null,
-    "checked_at": "2026-11-08T20:15:29.346542Z"
+    "checked_at": "2026-11-09T20:15:31.484472Z"
   },
   "LOT1HL": {
     "route": {
@@ -5070,17 +5070,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T09:10:36.610339Z"
-  },
-  "CFG2XU": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-07T20:15:29.656991Z"
   },
   "EWG8VZ": {
     "route": {
@@ -10774,5 +10763,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-09T19:45:30.483559Z"
+  },
+  "THY6BV": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Hamburg",
+      "toIata": "HAM",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-09T20:15:31.484472Z"
   }
 }
