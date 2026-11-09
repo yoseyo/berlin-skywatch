@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "TAP53EI",
-      "country": "Portugal",
-      "lat": 52.2348,
-      "lon": 13.1858,
-      "altKm": 3.3,
-      "speedKmh": 528,
-      "heading": 255,
-      "vertRateMs": 12.3,
-      "airline": "TAP Portugal",
-      "airlineCountry": "Portugal",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
+      "callsign": "SWR1317",
+      "country": "Latvia",
+      "lat": 52.4713,
+      "lon": 13.5735,
+      "altKm": 11.6,
+      "speedKmh": 762,
+      "heading": 212,
+      "vertRateMs": 0,
+      "airline": "Swiss International Air Lines",
+      "airlineCountry": "Switzerland",
+      "fromCity": "Tallinn",
+      "fromIata": "TLL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "category": "plane"
+    },
+    {
+      "callsign": "CFG553",
+      "country": "Germany",
+      "lat": 52.1875,
+      "lon": 13.2899,
+      "altKm": 1.7,
+      "speedKmh": 490,
+      "heading": 295,
+      "vertRateMs": -5.8,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-09T05:20:32.518353Z"
+  "updated_at": "2026-11-09T05:25:25.263636Z"
 }
