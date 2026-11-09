@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T04:55:22.510200Z"
+  "flights": [
+    {
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.7458,
+      "lon": 13.329,
+      "altKm": 3.3,
+      "speedKmh": 521,
+      "heading": 230,
+      "vertRateMs": -5.8,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T05:00:51.838772Z"
 }
