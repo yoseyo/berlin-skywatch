@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T06:00:49.928830Z"
+  "flights": [
+    {
+      "callsign": "BAW8RM",
+      "country": "United Kingdom",
+      "lat": 52.5155,
+      "lon": 13.6082,
+      "altKm": 2.9,
+      "speedKmh": 537,
+      "heading": 274,
+      "vertRateMs": 15.3,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH8CE",
+      "country": "Germany",
+      "lat": 52.3422,
+      "lon": 13.4116,
+      "altKm": 10.3,
+      "speedKmh": 824,
+      "heading": 234,
+      "vertRateMs": -0.3,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T06:05:25.004636Z"
 }
