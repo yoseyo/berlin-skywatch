@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T03:50:31.002148Z"
+  "flights": [
+    {
+      "callsign": "CCA965",
+      "country": "China",
+      "lat": 52.6048,
+      "lon": 12.809,
+      "altKm": 10.4,
+      "speedKmh": 871,
+      "heading": 225,
+      "vertRateMs": 0,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T03:55:23.380724Z"
 }
