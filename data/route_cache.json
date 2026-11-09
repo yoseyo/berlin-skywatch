@@ -1887,7 +1887,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T15:20:32.273858Z"
+    "checked_at": "2026-11-09T15:30:46.309612Z"
   },
   "RYR310V": {
     "route": {
@@ -4391,7 +4391,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T15:30:42.106807Z"
+    "checked_at": "2026-11-09T15:30:46.309612Z"
   },
   "FIN8AQ": {
     "route": null,
@@ -5033,17 +5033,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-08T05:40:32.629548Z"
-  },
-  "JAR28": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Castres/Mazamet",
-      "toIata": "DCM",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-07T15:30:40.912703Z"
   },
   "DEMLG": {
     "route": null,
@@ -10546,5 +10535,24 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T15:25:25.754985Z"
+  },
+  "HL8551": {
+    "route": null,
+    "checked_at": "2026-11-09T15:30:46.309612Z"
+  },
+  "HBVCC": {
+    "route": null,
+    "checked_at": "2026-11-09T15:30:46.309612Z"
+  },
+  "HOP82RB": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-09T15:30:46.309612Z"
   }
 }
