@@ -5082,17 +5082,6 @@
     },
     "checked_at": "2026-11-09T09:25:23.773808Z"
   },
-  "NSZ4EG": {
-    "route": {
-      "fromCity": "Alicante",
-      "fromIata": "ALC",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-07T21:30:42.719257Z"
-  },
   "KLM73D": {
     "route": {
       "fromCity": "Amsterdam",
@@ -5103,28 +5092,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-09T21:30:42.288203Z"
-  },
-  "EJU37CH": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-07T21:35:23.481726Z"
-  },
-  "NOZ1909": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-07T21:35:23.481726Z"
   },
   "EJU53NR": {
     "route": {
@@ -10818,5 +10785,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T21:30:42.288203Z"
+  },
+  "AEG6911": {
+    "route": null,
+    "checked_at": "2026-11-09T21:35:24.494781Z"
+  },
+  "WZZ23PQ": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-09T21:35:24.494781Z"
   }
 }
