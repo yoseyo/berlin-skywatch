@@ -298,7 +298,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-08T08:15:28.764458Z"
+    "checked_at": "2026-11-09T09:15:29.788985Z"
   },
   "DLH174": {
     "route": {
@@ -650,7 +650,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-08T10:05:26.007577Z"
+    "checked_at": "2026-11-09T09:15:29.788985Z"
   },
   "DLH2N": {
     "route": {
@@ -10088,5 +10088,38 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-09T09:10:36.610339Z"
+  },
+  "NSZ2040": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-09T09:15:29.788985Z"
+  },
+  "WZZ1911": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-09T09:15:29.788985Z"
+  },
+  "MGL137": {
+    "route": {
+      "fromCity": "Ulaanbaatar (Sergelen)",
+      "fromIata": "UBN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "MIAT Mongolian Airlines",
+      "airlineCountry": "Mongolia"
+    },
+    "checked_at": "2026-11-09T09:15:29.788985Z"
   }
 }
