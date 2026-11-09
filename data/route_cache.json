@@ -2075,7 +2075,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T17:15:30.461844Z"
+    "checked_at": "2026-11-09T17:35:26.364095Z"
   },
   "RYR91HD": {
     "route": null,
@@ -4582,7 +4582,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T18:20:33.622926Z"
+    "checked_at": "2026-11-09T17:35:26.364095Z"
   },
   "SXS2XE": {
     "route": {
@@ -5114,10 +5114,6 @@
   "PGT61NK": {
     "route": null,
     "checked_at": "2026-11-09T11:50:31.292802Z"
-  },
-  "KMM376": {
-    "route": null,
-    "checked_at": "2026-11-07T17:35:24.497464Z"
   },
   "BFD07K": {
     "route": null,
@@ -10819,5 +10815,49 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-09T17:30:46.013854Z"
+  },
+  "EJU48HQ": {
+    "route": {
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-09T17:35:26.364095Z"
+  },
+  "SDR11DL": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-09T17:35:26.364095Z"
+  },
+  "RYR29NN": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T17:35:26.364095Z"
+  },
+  "RYR457A": {
+    "route": {
+      "fromCity": "Faro",
+      "fromIata": "FAO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T17:35:26.364095Z"
   }
 }
