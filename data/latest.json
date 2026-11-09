@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T23:15:29.773294Z"
+  "flights": [
+    {
+      "callsign": "EXS7BY",
+      "country": "United Kingdom",
+      "lat": 52.5603,
+      "lon": 13.7979,
+      "altKm": 10.9,
+      "speedKmh": 761,
+      "heading": 291,
+      "vertRateMs": 0,
+      "airline": "Jet2.com",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Newcastle",
+      "toIata": "NCL",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T23:20:32.212502Z"
 }
