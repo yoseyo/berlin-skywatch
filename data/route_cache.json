@@ -672,7 +672,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-08T08:20:30.857537Z"
+    "checked_at": "2026-11-09T08:30:42.137867Z"
   },
   "SAS1674": {
     "route": {
@@ -3205,17 +3205,6 @@
     },
     "checked_at": "2026-11-09T08:05:27.256905Z"
   },
-  "AUA224": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Vienna",
-      "toIata": "VIE",
-      "airlineName": "Austrian Airlines",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-07T08:30:41.307279Z"
-  },
   "EWG86Z": {
     "route": {
       "fromCity": "Stuttgart",
@@ -3417,17 +3406,6 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-08T17:35:24.684764Z"
-  },
-  "RYR15XN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Madrid",
-      "toIata": "MAD",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-07T08:30:41.307279Z"
   },
   "EJU63AU": {
     "route": {
@@ -3732,7 +3710,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-07T08:31:13.819211Z"
+    "checked_at": "2026-11-09T08:30:42.137867Z"
   },
   "SAS30H": {
     "route": {
@@ -3873,7 +3851,7 @@
   },
   "RYR18HB": {
     "route": null,
-    "checked_at": "2026-11-08T19:25:23.869906Z"
+    "checked_at": "2026-11-09T08:30:42.137867Z"
   },
   "NOZ52Z": {
     "route": {
@@ -9966,5 +9944,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-09T08:25:24.191120Z"
+  },
+  "DLH7EE": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T08:30:42.137867Z"
   }
 }
