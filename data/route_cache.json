@@ -2726,7 +2726,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T13:15:29.824247Z"
+    "checked_at": "2026-11-09T13:20:31.757077Z"
   },
   "EJU37DC": {
     "route": {
@@ -6934,7 +6934,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-08T13:10:33.251433Z"
+    "checked_at": "2026-11-09T13:20:31.757077Z"
   },
   "PTN45S": {
     "route": null,
@@ -10347,5 +10347,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T13:15:32.058174Z"
+  },
+  "EJU9047": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Toulouse/Blagnac",
+      "toIata": "TLS",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-09T13:20:31.757077Z"
+  },
+  "LOT238": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-09T13:20:31.757077Z"
+  },
+  "BAW846W": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "British Airways",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-09T13:20:31.757077Z"
+  },
+  "DLH9YJ": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T13:20:31.757077Z"
   }
 }
