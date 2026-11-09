@@ -1337,7 +1337,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-08T09:20:32.897102Z"
+    "checked_at": "2026-11-09T09:20:32.874741Z"
   },
   "PGT36NC": {
     "route": {
@@ -2513,7 +2513,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-08T09:15:30.493979Z"
+    "checked_at": "2026-11-09T09:20:32.874741Z"
   },
   "KLM75C": {
     "route": {
@@ -3736,7 +3736,7 @@
   },
   "WUK3636": {
     "route": null,
-    "checked_at": "2026-11-08T09:05:25.948745Z"
+    "checked_at": "2026-11-09T09:20:32.874741Z"
   },
   "ASL31R": {
     "route": {
@@ -3885,17 +3885,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-08T10:15:31.029477Z"
-  },
-  "EJU31DR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-07T09:15:29.972386Z"
   },
   "DFWEL": {
     "route": null,
@@ -5011,40 +5000,6 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-08T06:10:30.621334Z"
-  },
-  "EJU14KB": {
-    "route": {
-      "fromCity": "Split",
-      "fromIata": "SPU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-07T09:15:29.972386Z"
-  },
-  "EZY28JY": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "LGW",
-      "toCity": "Milan",
-      "toIata": "LIN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-07T09:15:29.972386Z"
-  },
-  "DCHFA": {
-    "route": null,
-    "checked_at": "2026-11-07T09:20:32.228057Z"
-  },
-  "EQE751": {
-    "route": null,
-    "checked_at": "2026-11-07T09:20:32.228057Z"
-  },
-  "DCDSO": {
-    "route": null,
-    "checked_at": "2026-11-07T09:20:32.228057Z"
   },
   "EJU94ZN": {
     "route": {
@@ -10121,5 +10076,38 @@
       "airlineCountry": "Mongolia"
     },
     "checked_at": "2026-11-09T09:15:29.788985Z"
+  },
+  "BTI48D": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-09T09:20:32.874741Z"
+  },
+  "SDR10EL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-09T09:20:32.874741Z"
+  },
+  "EWG7B": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T09:20:32.874741Z"
   }
 }
