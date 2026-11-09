@@ -397,7 +397,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-08T09:50:30.596961Z"
+    "checked_at": "2026-11-09T09:45:30.216497Z"
   },
   "SAS85J": {
     "route": {
@@ -419,7 +419,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-08T09:15:30.493979Z"
+    "checked_at": "2026-11-09T09:45:30.216497Z"
   },
   "EIN3EG": {
     "route": {
@@ -1348,7 +1348,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T09:10:33.413746Z"
+    "checked_at": "2026-11-09T09:45:30.216497Z"
   },
   "EJU75ZF": {
     "route": {
@@ -5001,21 +5001,6 @@
     },
     "checked_at": "2026-11-09T09:35:26.375190Z"
   },
-  "SDR16GL": {
-    "route": null,
-    "checked_at": "2026-11-07T09:45:30.055558Z"
-  },
-  "EJU61RG": {
-    "route": {
-      "fromCity": "Marrakech",
-      "fromIata": "RAK",
-      "toCity": "Strasbourg",
-      "toIata": "SXB",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-07T09:45:30.055558Z"
-  },
   "HBVCC": {
     "route": null,
     "checked_at": "2026-11-07T09:50:31.152513Z"
@@ -6987,7 +6972,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-08T10:15:31.029477Z"
+    "checked_at": "2026-11-09T09:45:30.216497Z"
   },
   "BAW844": {
     "route": {
@@ -10155,5 +10140,27 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-09T09:40:32.650515Z"
+  },
+  "UAE33T": {
+    "route": {
+      "fromCity": "Dubai",
+      "fromIata": "DXB",
+      "toCity": "Paisley, Renfrewshire",
+      "toIata": "GLA",
+      "airlineName": "Emirates",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-11-09T09:45:30.216497Z"
+  },
+  "VKG844": {
+    "route": {
+      "fromCity": "Gothenburg",
+      "fromIata": "GOT",
+      "toCity": "Hurghada",
+      "toIata": "HRG",
+      "airlineName": "SunClass Airlines",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-11-09T09:45:30.216497Z"
   }
 }
