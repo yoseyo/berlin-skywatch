@@ -1,7 +1,7 @@
 {
   "CHX100": {
     "route": null,
-    "checked_at": "2026-11-08T11:05:25.577885Z"
+    "checked_at": "2026-11-09T13:15:32.058174Z"
   },
   "MSC2961": {
     "route": {
@@ -529,7 +529,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-08T12:35:22.888686Z"
+    "checked_at": "2026-11-09T13:15:32.058174Z"
   },
   "KLM26L": {
     "route": {
@@ -606,7 +606,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-08T15:15:30.949211Z"
+    "checked_at": "2026-11-09T13:15:32.058174Z"
   },
   "AUA230U": {
     "route": {
@@ -1678,7 +1678,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T13:05:24.791705Z"
+    "checked_at": "2026-11-09T13:15:32.058174Z"
   },
   "KLM1314": {
     "route": {
@@ -1722,7 +1722,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T13:10:33.251433Z"
+    "checked_at": "2026-11-09T13:15:32.058174Z"
   },
   "THY1NC": {
     "route": {
@@ -4324,17 +4324,6 @@
     "route": null,
     "checked_at": "2026-11-08T13:50:32.453098Z"
   },
-  "SXS8TW": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-07T13:15:31.045135Z"
-  },
   "WMT7KX": {
     "route": {
       "fromCity": "Berlin",
@@ -4810,7 +4799,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-08T15:45:32.063007Z"
+    "checked_at": "2026-11-09T13:15:32.058174Z"
   },
   "RYR8MQ": {
     "route": {
@@ -5008,43 +4997,6 @@
   "BPO562": {
     "route": null,
     "checked_at": "2026-11-08T15:00:51.213185Z"
-  },
-  "WZZ8BV": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-07T13:15:31.045135Z"
-  },
-  "SAS7354": {
-    "route": {
-      "fromCity": "Sharm el-Sheikh",
-      "fromIata": "SSH",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-07T13:15:31.045135Z"
-  },
-  "RYR29NN": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-07T13:15:31.045135Z"
-  },
-  "CHX92": {
-    "route": null,
-    "checked_at": "2026-11-07T13:15:31.045135Z"
   },
   "WZZ1858": {
     "route": {
@@ -10373,5 +10325,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-09T13:10:35.573368Z"
+  },
+  "FIN2AU": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-09T13:15:32.058174Z"
+  },
+  "RYR7HM": {
+    "route": {
+      "fromCity": "Burgas",
+      "fromIata": "BOJ",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T13:15:32.058174Z"
   }
 }
