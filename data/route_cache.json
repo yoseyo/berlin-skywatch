@@ -1601,7 +1601,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T12:30:40.991656Z"
+    "checked_at": "2026-11-09T12:15:32.289964Z"
   },
   "KLM29G": {
     "route": {
@@ -4986,17 +4986,6 @@
     },
     "checked_at": "2026-11-09T09:55:23.744385Z"
   },
-  "EJU47TP": {
-    "route": {
-      "fromCity": "Luxembourg",
-      "fromIata": "LUX",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-07T12:15:29.652022Z"
-  },
   "SAS1665": {
     "route": {
       "fromCity": "Copenhagen",
@@ -5007,17 +4996,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-08T12:20:33.946441Z"
-  },
-  "LOT6310": {
-    "route": {
-      "fromCity": "Punta Cana",
-      "fromIata": "PUJ",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-07T12:15:29.652022Z"
   },
   "CCA446": {
     "route": {
@@ -10385,5 +10363,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T12:10:32.253639Z"
+  },
+  "DLH2T": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T12:15:32.289964Z"
   }
 }
