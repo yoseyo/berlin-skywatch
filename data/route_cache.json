@@ -3932,7 +3932,7 @@
   },
   "VLG1075": {
     "route": null,
-    "checked_at": "2026-11-08T20:40:31.278017Z"
+    "checked_at": "2026-11-09T20:25:25.490231Z"
   },
   "EJU64BR": {
     "route": {
@@ -5081,28 +5081,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-08T12:30:40.991656Z"
-  },
-  "EWG8551": {
-    "route": {
-      "fromCity": "Jerez de la Frontera",
-      "fromIata": "XRY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-07T20:20:34.090206Z"
-  },
-  "RYR66FY": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marrakech",
-      "toIata": "RAK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-07T20:20:34.090206Z"
   },
   "RYR5TJ": {
     "route": {
@@ -10774,5 +10752,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-09T20:15:31.484472Z"
+  },
+  "CFG2EJ": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T20:25:25.490231Z"
+  },
+  "RYR83GK": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T20:25:25.490231Z"
   }
 }
