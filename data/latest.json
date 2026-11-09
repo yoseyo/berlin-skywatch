@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-09T23:00:53.598421Z"
+  "flights": [
+    {
+      "callsign": "MFX7670",
+      "country": "Uzbekistan",
+      "lat": 52.6795,
+      "lon": 13.2849,
+      "altKm": 9.9,
+      "speedKmh": 923,
+      "heading": 71,
+      "vertRateMs": -0.3,
+      "airline": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan",
+      "fromCity": "Li\u00e8ge",
+      "fromIata": "LGG",
+      "toCity": "Li\u00e8ge",
+      "toIata": "LGG",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-09T23:05:24.553635Z"
 }
