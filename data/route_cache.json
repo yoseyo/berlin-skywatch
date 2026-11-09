@@ -5034,28 +5034,6 @@
     },
     "checked_at": "2026-11-08T05:40:32.629548Z"
   },
-  "BTI7RK": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-07T15:45:29.821343Z"
-  },
-  "RYR10FV": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-07T15:45:29.821343Z"
-  },
   "WZZ91": {
     "route": {
       "fromCity": "Warsaw",
@@ -10576,5 +10554,27 @@
   "DCBEN": {
     "route": null,
     "checked_at": "2026-11-09T15:40:34.273121Z"
+  },
+  "CFG9YT": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T15:45:33.762387Z"
+  },
+  "THY1333": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Bremen",
+      "toIata": "BRE",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-09T15:45:33.762387Z"
   }
 }
