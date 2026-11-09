@@ -452,7 +452,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-08T10:40:30.794444Z"
+    "checked_at": "2026-11-09T10:45:32.627319Z"
   },
   "KLM1775": {
     "route": {
@@ -3607,7 +3607,7 @@
   },
   "RYR45GY": {
     "route": null,
-    "checked_at": "2026-11-07T22:40:31.527207Z"
+    "checked_at": "2026-11-09T10:45:32.627319Z"
   },
   "EJU63ME": {
     "route": {
@@ -5000,17 +5000,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-09T10:35:24.991188Z"
-  },
-  "BTI696": {
-    "route": {
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Riga",
-      "toIata": "RIX",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-07T10:45:30.736412Z"
   },
   "THY1CU": {
     "route": {
@@ -10302,5 +10291,20 @@
       "airlineCountry": "Netherlands"
     },
     "checked_at": "2026-11-09T10:40:42.654108Z"
+  },
+  "DLH890": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-09T10:45:32.627319Z"
+  },
+  "CHX35": {
+    "route": null,
+    "checked_at": "2026-11-09T10:45:32.627319Z"
   }
 }
