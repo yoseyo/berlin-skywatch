@@ -926,7 +926,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-08T08:00:51.445646Z"
+    "checked_at": "2026-11-09T08:40:31.925054Z"
   },
   "KLM38Z": {
     "route": {
@@ -1315,7 +1315,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-08T08:45:29.630266Z"
+    "checked_at": "2026-11-09T08:40:31.925054Z"
   },
   "SWR7TA": {
     "route": {
@@ -3417,17 +3417,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T16:45:30.321030Z"
-  },
-  "CKK215": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-07T08:40:31.067249Z"
   },
   "FIN8WB": {
     "route": {
@@ -8673,7 +8662,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T18:45:29.101959Z"
+    "checked_at": "2026-11-09T08:40:31.925054Z"
   },
   "CCA866": {
     "route": {
@@ -9951,5 +9940,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T08:30:42.137867Z"
+  },
+  "EZY54UH": {
+    "route": {
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-09T08:40:31.925054Z"
+  },
+  "HUF342": {
+    "route": null,
+    "checked_at": "2026-11-09T08:40:31.925054Z"
+  },
+  "RYR5ZY": {
+    "route": {
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-09T08:40:31.925054Z"
   }
 }
