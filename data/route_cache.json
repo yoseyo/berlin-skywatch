@@ -2064,7 +2064,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-08T17:45:31.080322Z"
+    "checked_at": "2026-11-09T17:40:37.802023Z"
   },
   "EWG43J": {
     "route": {
@@ -2134,7 +2134,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-08T17:35:24.684764Z"
+    "checked_at": "2026-11-09T17:40:37.802023Z"
   },
   "RYR48MN": {
     "route": {
@@ -3882,17 +3882,6 @@
     },
     "checked_at": "2026-11-07T18:00:50.540103Z"
   },
-  "RYR7664": {
-    "route": {
-      "fromCity": "Treviso",
-      "fromIata": "TSF",
-      "toCity": "Porto",
-      "toIata": "OPO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-07T17:40:31.674161Z"
-  },
   "NOZ8GB": {
     "route": {
       "fromCity": "Oslo",
@@ -5114,32 +5103,6 @@
   "PGT61NK": {
     "route": null,
     "checked_at": "2026-11-09T11:50:31.292802Z"
-  },
-  "BFD07K": {
-    "route": null,
-    "checked_at": "2026-11-07T17:40:31.674161Z"
-  },
-  "TGZ781": {
-    "route": {
-      "fromCity": "Tbilisi",
-      "fromIata": "TBS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Georgian Airways",
-      "airlineCountry": "Georgia"
-    },
-    "checked_at": "2026-11-07T17:40:31.674161Z"
-  },
-  "EWG8181": {
-    "route": {
-      "fromCity": "Fuerteventura Island",
-      "fromIata": "FUE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-07T17:40:31.674161Z"
   },
   "RYR24YB": {
     "route": {
@@ -10859,5 +10822,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T17:35:26.364095Z"
+  },
+  "BEL7PJ": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-11-09T17:40:37.802023Z"
   }
 }
