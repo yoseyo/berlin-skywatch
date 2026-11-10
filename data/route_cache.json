@@ -797,7 +797,7 @@
   },
   "CFG552": {
     "route": null,
-    "checked_at": "2026-11-09T09:05:24.910838Z"
+    "checked_at": "2026-11-10T09:00:53.672052Z"
   },
   "CFG553": {
     "route": null,
@@ -7926,7 +7926,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-09T08:50:32.748316Z"
+    "checked_at": "2026-11-10T09:00:53.672052Z"
   },
   "EWG4HV": {
     "route": {
@@ -10684,5 +10684,16 @@
   "AGR1943": {
     "route": null,
     "checked_at": "2026-11-10T08:55:25.106737Z"
+  },
+  "DLH4X": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-10T09:00:53.672052Z"
   }
 }
