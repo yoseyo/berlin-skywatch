@@ -2200,7 +2200,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-09T20:30:44.324928Z"
+    "checked_at": "2026-11-10T13:25:26.440371Z"
   },
   "CFE34E": {
     "route": {
@@ -4473,7 +4473,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-08T13:30:41.728284Z"
+    "checked_at": "2026-11-10T13:25:26.440371Z"
   },
   "CSS101": {
     "route": {
@@ -4886,17 +4886,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-10T12:50:33.433577Z"
-  },
-  "EJU9041": {
-    "route": {
-      "fromCity": "Maastricht",
-      "fromIata": "MST",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-08T13:25:24.219466Z"
   },
   "EJU54BP": {
     "route": {
@@ -8337,7 +8326,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-09T13:30:44.823431Z"
+    "checked_at": "2026-11-10T13:25:26.440371Z"
   },
   "CHX82": {
     "route": null,
@@ -10472,5 +10461,27 @@
   "VCJ97G": {
     "route": null,
     "checked_at": "2026-11-10T13:20:33.591350Z"
+  },
+  "KAL542": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Seoul",
+      "toIata": "ICN",
+      "airlineName": "Korean Air",
+      "airlineCountry": "South Korea"
+    },
+    "checked_at": "2026-11-10T13:25:26.440371Z"
+  },
+  "CCA432": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Jianyang, Chengdu",
+      "toIata": "TFU",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-10T13:25:26.440371Z"
   }
 }
