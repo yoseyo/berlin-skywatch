@@ -1003,7 +1003,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-09T06:15:29.035798Z"
+    "checked_at": "2026-11-10T05:55:25.722589Z"
   },
   "WZZ52YC": {
     "route": {
@@ -1025,7 +1025,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-09T06:55:24.479643Z"
+    "checked_at": "2026-11-10T05:55:25.722589Z"
   },
   "DLH8CE": {
     "route": {
@@ -4868,17 +4868,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T17:10:35.081488Z"
-  },
-  "RYR72EV": {
-    "route": {
-      "fromCity": "London",
-      "fromIata": "STN",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T05:55:23.532359Z"
   },
   "PGT8AE": {
     "route": {
@@ -10851,5 +10840,16 @@
       "airlineCountry": "India"
     },
     "checked_at": "2026-11-10T05:40:32.826676Z"
+  },
+  "HLF8816": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Xiang'an, Xiamen",
+      "toIata": "XMN",
+      "airlineName": "Hapagfly",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-10T05:55:25.722589Z"
   }
 }
