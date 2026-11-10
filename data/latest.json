@@ -3,16 +3,37 @@
     {
       "callsign": "KLM90J",
       "country": "Kingdom of the Netherlands",
-      "lat": 52.3536,
-      "lon": 13.5028,
-      "altKm": 0.1,
-      "speedKmh": 169,
-      "heading": 69,
-      "vertRateMs": 0.3,
+      "lat": 52.2743,
+      "lon": 13.1582,
+      "altKm": 4.4,
+      "speedKmh": 556,
+      "heading": 275,
+      "vertRateMs": 6.8,
       "airline": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands",
+      "fromCity": "Birmingham",
+      "fromIata": "BHX",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "category": "plane"
+    },
+    {
+      "callsign": "BAW8RM",
+      "country": "United Kingdom",
+      "lat": 52.263,
+      "lon": 13.4047,
+      "altKm": 2.1,
+      "speedKmh": 485,
+      "heading": 270,
+      "vertRateMs": 8.1,
+      "airline": "British Airways",
+      "airlineCountry": "United Kingdom",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LHR",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T05:45:31.989575Z"
+  "updated_at": "2026-11-10T05:50:35.173114Z"
 }
