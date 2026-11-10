@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-10T05:05:24.821185Z"
+  "flights": [
+    {
+      "callsign": "EJU5375",
+      "country": "Austria",
+      "lat": 52.3573,
+      "lon": 13.543,
+      "altKm": 0.6,
+      "speedKmh": 262,
+      "heading": 121,
+      "vertRateMs": 13.3,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-10T05:10:34.647952Z"
 }
