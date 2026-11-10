@@ -1,48 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "THY8WD",
-      "country": "Turkey",
-      "lat": 52.215,
-      "lon": 14.0896,
-      "altKm": 5.1,
-      "speedKmh": 771,
-      "heading": 88,
-      "vertRateMs": 9.4,
-      "airline": "Turkish Airlines",
-      "airlineCountry": "Turkey",
+      "callsign": "EWG4JT",
+      "country": "Germany",
+      "lat": 52.479,
+      "lon": 12.9866,
+      "altKm": 2.6,
+      "speedKmh": 536,
+      "heading": 80,
+      "vertRateMs": -4.9,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
       "fromCity": "Berlin",
       "fromIata": "BER",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "category": "plane"
-    },
-    {
-      "callsign": "FIN9YA",
-      "country": "Finland",
-      "lat": 52.5912,
-      "lon": 13.5834,
-      "altKm": 5.7,
-      "speedKmh": 662,
-      "heading": 36,
-      "vertRateMs": 10.7,
-      "airline": "Finnair",
-      "airlineCountry": "Finland",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
       "category": "plane"
     },
     {
       "callsign": "DLH2N",
       "country": "Germany",
-      "lat": 52.1939,
-      "lon": 13.843,
-      "altKm": 2.0,
-      "speedKmh": 488,
-      "heading": 11,
-      "vertRateMs": -7.2,
+      "lat": 52.4199,
+      "lon": 13.7061,
+      "altKm": 0.8,
+      "speedKmh": 341,
+      "heading": 249,
+      "vertRateMs": -5.5,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Munich",
@@ -52,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T18:35:24.184030Z"
+  "updated_at": "2026-11-10T18:40:34.042785Z"
 }
