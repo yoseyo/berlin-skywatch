@@ -1,56 +1,27 @@
 {
   "flights": [
     {
-      "callsign": "SAS1675",
-      "country": "Denmark",
-      "lat": 52.3623,
-      "lon": 13.4624,
-      "altKm": 0.2,
-      "speedKmh": 235,
-      "heading": 69,
-      "vertRateMs": -2.6,
-      "airline": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "VIO1B",
+      "country": "Slovenia",
+      "lat": 52.2608,
+      "lon": 14.0466,
+      "altKm": 2.2,
+      "speedKmh": 406,
+      "heading": 341,
+      "vertRateMs": -5.5,
       "category": "plane"
     },
     {
-      "callsign": "DLH882",
+      "callsign": "CHX71",
       "country": "Germany",
-      "lat": 52.8279,
-      "lon": 13.573,
-      "altKm": 10.6,
-      "speedKmh": 830,
-      "heading": 48,
+      "lat": 52.2072,
+      "lon": 13.6897,
+      "altKm": 0.2,
+      "speedKmh": 213,
+      "heading": 327,
       "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Tallinn",
-      "toIata": "TLL",
-      "category": "plane"
-    },
-    {
-      "callsign": "RYR1ZC",
-      "country": "Ireland",
-      "lat": 52.4333,
-      "lon": 12.8111,
-      "altKm": 6.0,
-      "speedKmh": 655,
-      "heading": 262,
-      "vertRateMs": 10.1,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "category": "plane"
+      "category": "heli"
     }
   ],
-  "updated_at": "2026-11-10T13:40:32.277479Z"
+  "updated_at": "2026-11-10T13:45:31.555726Z"
 }
