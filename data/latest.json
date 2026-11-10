@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EJU45RT",
+      "country": "Austria",
+      "lat": 52.2402,
+      "lon": 13.3086,
+      "altKm": 2.9,
+      "speedKmh": 501,
+      "heading": 223,
+      "vertRateMs": 16.9,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "category": "plane"
+    },
+    {
       "callsign": "EJU5375",
       "country": "Austria",
-      "lat": 52.3573,
-      "lon": 13.543,
-      "altKm": 0.6,
-      "speedKmh": 262,
-      "heading": 121,
-      "vertRateMs": 13.3,
+      "lat": 52.3031,
+      "lon": 14.0635,
+      "altKm": 4.5,
+      "speedKmh": 631,
+      "heading": 100,
+      "vertRateMs": 16.6,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
       "fromCity": "Berlin",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T05:10:34.647952Z"
+  "updated_at": "2026-11-10T05:15:33.080023Z"
 }
