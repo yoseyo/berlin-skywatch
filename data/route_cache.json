@@ -4834,7 +4834,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-09T14:00:51.853382Z"
+    "checked_at": "2026-11-10T10:25:27.504164Z"
   },
   "RYR649T": {
     "route": {
@@ -4883,17 +4883,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-10T09:45:32.226679Z"
-  },
-  "CAI15XF": {
-    "route": {
-      "fromCity": "Rostock",
-      "fromIata": "RLG",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-08T10:25:23.814604Z"
   },
   "RYR13FY": {
     "route": {
@@ -10689,5 +10678,16 @@
   "SYR279": {
     "route": null,
     "checked_at": "2026-11-10T10:15:33.582455Z"
+  },
+  "DLH1AE": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-10T10:25:27.504164Z"
   }
 }
