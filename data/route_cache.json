@@ -1190,7 +1190,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-09T08:15:30.744947Z"
+    "checked_at": "2026-11-10T08:25:25.746756Z"
   },
   "QTR5G": {
     "route": {
@@ -4939,28 +4939,6 @@
     },
     "checked_at": "2026-11-09T06:40:32.297889Z"
   },
-  "CFG4RY": {
-    "route": {
-      "fromCity": "Prague",
-      "fromIata": "PRG",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-08T08:25:23.905333Z"
-  },
-  "LHX7EE": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-08T08:25:23.905333Z"
-  },
   "RYR6SU": {
     "route": {
       "fromCity": "Bristol",
@@ -8247,7 +8225,7 @@
   },
   "DEVCD": {
     "route": null,
-    "checked_at": "2026-11-09T09:30:44.924152Z"
+    "checked_at": "2026-11-10T08:25:25.746756Z"
   },
   "GAM340": {
     "route": null,
@@ -10720,5 +10698,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-10T08:20:35.435994Z"
+  },
+  "CKK215": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-10T08:25:25.746756Z"
   }
 }
