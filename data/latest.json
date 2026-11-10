@@ -1,31 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "EWG4LK",
-      "country": "Germany",
-      "lat": 52.3472,
-      "lon": 13.4761,
-      "altKm": 0.1,
-      "speedKmh": 212,
-      "heading": 69,
-      "vertRateMs": -1.0,
-      "airline": "Eurowings",
-      "airlineCountry": "Germany",
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "callsign": "FIN7PE",
+      "country": "Finland",
+      "lat": 52.9015,
+      "lon": 13.6966,
+      "altKm": 11.5,
+      "speedKmh": 803,
+      "heading": 211,
+      "vertRateMs": 0,
+      "airline": "Finnair",
+      "airlineCountry": "Finland",
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
       "category": "plane"
     },
     {
       "callsign": "SWR97Y",
       "country": "Latvia",
-      "lat": 52.1016,
-      "lon": 12.9392,
-      "altKm": 2.2,
-      "speedKmh": 514,
-      "heading": 37,
-      "vertRateMs": -8.4,
+      "lat": 52.3008,
+      "lon": 13.2818,
+      "altKm": 0.9,
+      "speedKmh": 345,
+      "heading": 69,
+      "vertRateMs": -5.5,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
       "fromCity": "Zurich",
@@ -33,18 +33,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "AGR943",
-      "country": "Kingdom of the Netherlands",
-      "lat": 52.3229,
-      "lon": 13.2972,
-      "altKm": 0.8,
-      "speedKmh": 382,
-      "heading": 68,
-      "vertRateMs": -5.5,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T07:30:44.779527Z"
+  "updated_at": "2026-11-10T07:35:26.215461Z"
 }
