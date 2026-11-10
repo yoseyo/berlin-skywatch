@@ -1,48 +1,27 @@
 {
   "flights": [
     {
-      "callsign": "AUA223B",
-      "country": "Austria",
-      "lat": 52.329,
-      "lon": 13.3991,
-      "altKm": 0.4,
-      "speedKmh": 227,
-      "heading": 68,
-      "vertRateMs": -3.2,
-      "airline": "Austrian Airlines",
-      "airlineCountry": "Austria",
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "GAF720",
-      "country": "Germany",
-      "lat": 52.3026,
-      "lon": 13.2127,
-      "altKm": 1.2,
-      "speedKmh": 332,
-      "heading": 69,
-      "vertRateMs": -5.2,
-      "category": "plane"
-    },
-    {
       "callsign": "OEEMH",
       "country": "Austria",
-      "lat": 52.1943,
-      "lon": 13.1519,
-      "altKm": 1.7,
-      "speedKmh": 489,
-      "heading": 324,
-      "vertRateMs": -7.5,
-      "fromCity": "M\u00fcnster",
-      "fromIata": "FMO",
-      "toCity": "M\u00f6nchengladbach",
-      "toIata": "MGL",
+      "lat": 52.3451,
+      "lon": 13.3898,
+      "altKm": 0.5,
+      "speedKmh": 285,
+      "heading": 68,
+      "vertRateMs": -5.8,
       "category": "plane"
+    },
+    {
+      "callsign": "LEA115D",
+      "country": "France",
+      "lat": 52.2368,
+      "lon": 13.0724,
+      "altKm": 1.1,
+      "speedKmh": 407,
+      "heading": 55,
+      "vertRateMs": -4.9,
+      "category": "jet"
     }
   ],
-  "updated_at": "2026-11-10T07:10:32.570474Z"
+  "updated_at": "2026-11-10T07:15:31.024666Z"
 }
