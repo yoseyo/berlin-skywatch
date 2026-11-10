@@ -3928,7 +3928,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-09T10:20:35.123027Z"
+    "checked_at": "2026-11-10T13:35:24.509255Z"
   },
   "TKJ4JH": {
     "route": {
@@ -4882,17 +4882,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-09T07:35:25.281308Z"
-  },
-  "EJU85CU": {
-    "route": {
-      "fromCity": "Souda",
-      "fromIata": "CHQ",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-08T13:35:24.247553Z"
   },
   "DEKPR": {
     "route": null,
@@ -10446,5 +10435,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-10T13:25:26.440371Z"
+  },
+  "DLH882": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Tallinn",
+      "toIata": "TLL",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-10T13:35:24.509255Z"
   }
 }
