@@ -2436,7 +2436,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-09T10:13:31.883454Z"
+    "checked_at": "2026-11-10T10:15:33.582455Z"
   },
   "DLH1MF": {
     "route": {
@@ -4467,10 +4467,6 @@
     "route": null,
     "checked_at": "2026-11-08T10:45:28.928080Z"
   },
-  "LUA289S": {
-    "route": null,
-    "checked_at": "2026-11-08T10:15:31.029477Z"
-  },
   "RYR9TE": {
     "route": {
       "fromCity": "Manchester",
@@ -4873,42 +4869,9 @@
     },
     "checked_at": "2026-11-09T09:00:55.081582Z"
   },
-  "EZS9047": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-11-08T10:15:31.029477Z"
-  },
   "AHY064": {
     "route": null,
     "checked_at": "2026-11-10T09:50:35.305821Z"
-  },
-  "FIN6TF": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Alicante",
-      "toIata": "ALC",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-11-08T10:15:31.029477Z"
-  },
-  "CFG3TN": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-08T10:15:31.029477Z"
   },
   "BAW976": {
     "route": {
@@ -5090,7 +5053,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-09T11:45:30.681947Z"
+    "checked_at": "2026-11-10T10:15:33.582455Z"
   },
   "DMTWH": {
     "route": null,
@@ -10722,5 +10685,20 @@
   "NJE489B": {
     "route": null,
     "checked_at": "2026-11-10T10:10:41.077910Z"
+  },
+  "BTI8KY": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Vilnius",
+      "toIata": "VNO",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-10T10:15:33.582455Z"
+  },
+  "SYR279": {
+    "route": null,
+    "checked_at": "2026-11-10T10:15:33.582455Z"
   }
 }
