@@ -540,7 +540,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-09T12:30:45.982033Z"
+    "checked_at": "2026-11-10T13:15:31.652221Z"
   },
   "SAS1677": {
     "route": {
@@ -1590,7 +1590,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-09T12:30:45.982033Z"
+    "checked_at": "2026-11-10T13:15:31.652221Z"
   },
   "WMT769": {
     "route": {
@@ -1612,7 +1612,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-09T13:15:32.058174Z"
+    "checked_at": "2026-11-10T13:15:31.652221Z"
   },
   "KLM1314": {
     "route": {
@@ -1656,7 +1656,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-09T13:15:32.058174Z"
+    "checked_at": "2026-11-10T13:15:31.652221Z"
   },
   "THY1NC": {
     "route": {
@@ -4886,21 +4886,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-10T12:50:33.433577Z"
-  },
-  "PTN45S": {
-    "route": null,
-    "checked_at": "2026-11-08T13:15:29.824247Z"
-  },
-  "RYR5LZ": {
-    "route": {
-      "fromCity": "Cork",
-      "fromIata": "ORK",
-      "toCity": "London",
-      "toIata": "STN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T13:15:29.824247Z"
   },
   "EJU9041": {
     "route": {
@@ -10468,5 +10453,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-10T13:05:25.699487Z"
+  },
+  "AEE757": {
+    "route": {
+      "fromCity": "Oslo",
+      "fromIata": "OSL",
+      "toCity": "Athens",
+      "toIata": "ATH",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-10T13:15:31.652221Z"
   }
 }
