@@ -2447,7 +2447,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-09T15:00:54.758344Z"
+    "checked_at": "2026-11-10T15:00:56.383479Z"
   },
   "LOT6NK": {
     "route": {
@@ -2979,7 +2979,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-09T15:10:35.179941Z"
+    "checked_at": "2026-11-10T15:00:56.383479Z"
   },
   "EJU56QD": {
     "route": {
@@ -3193,17 +3193,6 @@
       "airlineCountry": "Belgium"
     },
     "checked_at": "2026-11-09T14:20:33.228363Z"
-  },
-  "DLH3RV": {
-    "route": {
-      "fromCity": "Cagliari",
-      "fromIata": "CAG",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-08T15:00:51.213185Z"
   },
   "BTI9AG": {
     "route": {
@@ -4393,10 +4382,6 @@
     },
     "checked_at": "2026-11-09T10:30:43.933014Z"
   },
-  "BPO562": {
-    "route": null,
-    "checked_at": "2026-11-08T15:00:51.213185Z"
-  },
   "THY79K": {
     "route": {
       "fromCity": "Arnavutk\u00f6y, Istanbul",
@@ -4882,17 +4867,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-09T09:25:23.773808Z"
-  },
-  "RYR46MW": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Eindhoven",
-      "toIata": "EIN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T15:00:51.213185Z"
   },
   "DAH2073": {
     "route": {
@@ -10427,5 +10401,20 @@
       "airlineCountry": "Uzbekistan"
     },
     "checked_at": "2026-11-10T14:55:31.598405Z"
+  },
+  "UZB251": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-11-10T15:00:56.383479Z"
+  },
+  "ULC65A": {
+    "route": null,
+    "checked_at": "2026-11-10T15:00:56.383479Z"
   }
 }
