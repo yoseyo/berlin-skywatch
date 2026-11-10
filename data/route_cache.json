@@ -3474,17 +3474,6 @@
     },
     "checked_at": "2026-11-09T15:55:26.357016Z"
   },
-  "FHY1282": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Antalya",
-      "toIata": "AYT",
-      "airlineName": "Freebird Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-08T11:25:25.259522Z"
-  },
   "WUK7877": {
     "route": null,
     "checked_at": "2026-11-09T11:15:32.054390Z"
@@ -4849,17 +4838,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-10T10:39:23.634346Z"
-  },
-  "RYR1VV": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "Brussels",
-      "toIata": "CRL",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T11:25:25.259522Z"
   },
   "RJA291": {
     "route": {
@@ -8258,7 +8236,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-09T11:00:56.129577Z"
+    "checked_at": "2026-11-10T11:25:25.426593Z"
   },
   "EWG4J": {
     "route": {
@@ -10622,5 +10600,16 @@
   "FHM4724": {
     "route": null,
     "checked_at": "2026-11-10T11:00:54.789575Z"
+  },
+  "MEA245": {
+    "route": {
+      "fromCity": "Beirut",
+      "fromIata": "BEY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-11-10T11:25:25.426593Z"
   }
 }
