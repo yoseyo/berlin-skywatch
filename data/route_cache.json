@@ -1700,7 +1700,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-09T14:05:27.352534Z"
+    "checked_at": "2026-11-10T14:15:33.897239Z"
   },
   "KLM84H": {
     "route": {
@@ -1722,7 +1722,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-09T14:40:35.757258Z"
+    "checked_at": "2026-11-10T14:15:33.897239Z"
   },
   "EJU73NW": {
     "route": {
@@ -3895,7 +3895,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-09T14:20:33.228363Z"
+    "checked_at": "2026-11-10T14:15:33.897239Z"
   },
   "RYR1ZC": {
     "route": {
@@ -4454,7 +4454,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-09T14:20:33.228363Z"
+    "checked_at": "2026-11-10T14:15:33.897239Z"
   },
   "PWF1966": {
     "route": {
@@ -4897,28 +4897,6 @@
       "airlineCountry": "Norway"
     },
     "checked_at": "2026-11-10T12:55:27.232532Z"
-  },
-  "SAS2768": {
-    "route": {
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-08T14:15:29.987202Z"
-  },
-  "RYR5HP": {
-    "route": {
-      "fromCity": "Zemunik (Zadar)",
-      "fromIata": "ZAD",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T14:15:29.987202Z"
   },
   "EJU49HX": {
     "route": {
@@ -10393,5 +10371,24 @@
   "NJE060E": {
     "route": null,
     "checked_at": "2026-11-10T14:05:25.980918Z"
+  },
+  "EJU5267": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-10T14:15:33.897239Z"
+  },
+  "JDI01": {
+    "route": null,
+    "checked_at": "2026-11-10T14:15:33.897239Z"
+  },
+  "BMW54": {
+    "route": null,
+    "checked_at": "2026-11-10T14:15:33.897239Z"
   }
 }
