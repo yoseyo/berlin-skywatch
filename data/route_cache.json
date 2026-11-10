@@ -1921,7 +1921,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-09T16:50:34.506839Z"
+    "checked_at": "2026-11-10T16:50:33.238656Z"
   },
   "THY3PC": {
     "route": {
@@ -3918,17 +3918,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T17:30:42.358069Z"
-  },
-  "RYR75AW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T16:50:31.189399Z"
   },
   "THY6WM": {
     "route": {
@@ -10222,5 +10211,16 @@
   "NJE850W": {
     "route": null,
     "checked_at": "2026-11-10T16:45:36.019966Z"
+  },
+  "EJU61GN": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-10T16:50:33.238656Z"
   }
 }
