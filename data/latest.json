@@ -1,35 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "EJU63AU",
-      "country": "Austria",
-      "lat": 52.3745,
-      "lon": 13.5912,
-      "altKm": 0.4,
-      "speedKmh": 252,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "easyJet Europe",
-      "airlineCountry": "Austria",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH7CT",
-      "country": "Germany",
-      "lat": 52.7797,
-      "lon": 13.9365,
-      "altKm": 11.2,
-      "speedKmh": 886,
-      "heading": 57,
-      "vertRateMs": 0,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Valletta",
-      "fromIata": "MLA",
-      "toCity": "Munich",
-      "toIata": "MUC",
+      "callsign": "KLM27F",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.5555,
+      "lon": 13.2228,
+      "altKm": 3.0,
+      "speedKmh": 565,
+      "heading": 97,
+      "vertRateMs": -6.5,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Nantes",
+      "toIata": "NTE",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T21:50:32.387804Z"
+  "updated_at": "2026-11-10T21:55:25.080138Z"
 }
