@@ -1,39 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.3574,
-      "lon": 13.4416,
-      "altKm": 0.3,
-      "speedKmh": 232,
-      "heading": 69,
-      "vertRateMs": -3.6,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "BCS5959",
-      "country": "Bulgaria",
-      "lat": 52.1763,
-      "lon": 13.9377,
-      "altKm": 8.9,
-      "speedKmh": 917,
-      "heading": 62,
-      "vertRateMs": 9.8,
+      "callsign": "BCS15N",
+      "country": "Austria",
+      "lat": 52.4541,
+      "lon": 13.5637,
+      "altKm": 10.0,
+      "speedKmh": 872,
+      "heading": 50,
+      "vertRateMs": 9.4,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
       "fromIata": "LEJ",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS9CG",
+      "country": "Ireland",
+      "lat": 52.5053,
+      "lon": 12.8115,
+      "altKm": 9.3,
+      "speedKmh": 878,
+      "heading": 24,
+      "vertRateMs": 11.4,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Leipzig",
+      "toIata": "LEJ",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T04:30:41.612281Z"
+  "updated_at": "2026-11-10T04:35:22.885390Z"
 }
