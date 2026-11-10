@@ -639,7 +639,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-09T06:15:29.035798Z"
+    "checked_at": "2026-11-10T06:40:33.228737Z"
   },
   "UAL963": {
     "route": {
@@ -2748,7 +2748,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-09T06:40:32.297889Z"
+    "checked_at": "2026-11-10T06:40:33.228737Z"
   },
   "BTI97T": {
     "route": {
@@ -3186,17 +3186,6 @@
       "airlineCountry": "Lebanon"
     },
     "checked_at": "2026-11-08T10:50:34.095209Z"
-  },
-  "EJU51NW": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Marsa Alam",
-      "toIata": "RMF",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-08T06:40:31.545856Z"
   },
   "HOP61ER": {
     "route": {
@@ -5026,17 +5015,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T06:25:24.999518Z"
-  },
-  "SDR27BN": {
-    "route": {
-      "fromCity": "Kassel",
-      "fromIata": "KSF",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-08T06:40:31.545856Z"
   },
   "EJU5081": {
     "route": {
@@ -10840,5 +10818,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-10T06:30:43.992054Z"
+  },
+  "WZZ959": {
+    "route": {
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-10T06:40:33.228737Z"
   }
 }
