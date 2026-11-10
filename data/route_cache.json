@@ -4850,17 +4850,6 @@
     "route": null,
     "checked_at": "2026-11-09T11:40:31.740899Z"
   },
-  "DLH4AL": {
-    "route": {
-      "fromCity": "Bremen",
-      "fromIata": "BRE",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-08T12:20:33.946441Z"
-  },
   "EJU62CM": {
     "route": {
       "fromCity": "Berlin",
@@ -10548,5 +10537,16 @@
   "BPO504": {
     "route": null,
     "checked_at": "2026-11-10T12:05:26.312083Z"
+  },
+  "EJU81TL": {
+    "route": {
+      "fromCity": "Antalya",
+      "fromIata": "AYT",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-10T12:25:24.850138Z"
   }
 }
