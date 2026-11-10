@@ -364,7 +364,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-09T09:55:23.744385Z"
+    "checked_at": "2026-11-10T09:30:45.788935Z"
   },
   "SWR3TE": {
     "route": {
@@ -419,7 +419,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-09T09:40:32.650515Z"
+    "checked_at": "2026-11-10T09:30:45.788935Z"
   },
   "AUA226K": {
     "route": {
@@ -672,7 +672,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-09T09:35:26.375190Z"
+    "checked_at": "2026-11-10T09:30:45.788935Z"
   },
   "CCA940": {
     "route": {
@@ -2924,7 +2924,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-09T13:00:53.185615Z"
+    "checked_at": "2026-11-10T09:30:45.788935Z"
   },
   "BAW992G": {
     "route": {
@@ -10706,5 +10706,27 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-10T09:25:24.919521Z"
+  },
+  "DLH5AW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-10T09:30:45.788935Z"
+  },
+  "DIBEC": {
+    "route": {
+      "fromCity": "Mainz",
+      "fromIata": null,
+      "toCity": "Nuremberg",
+      "toIata": "NUE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-10T09:30:45.788935Z"
   }
 }
