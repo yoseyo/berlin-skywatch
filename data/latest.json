@@ -1,18 +1,39 @@
 {
   "flights": [
     {
+      "callsign": "TAP53EI",
+      "country": "Portugal",
+      "lat": 52.2534,
+      "lon": 13.3614,
+      "altKm": 2.7,
+      "speedKmh": 486,
+      "heading": 257,
+      "vertRateMs": 17.9,
+      "airline": "TAP Portugal",
+      "airlineCountry": "Portugal",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
       "callsign": "EWG1T",
       "country": "Germany",
-      "lat": 52.3275,
-      "lon": 13.556,
-      "altKm": 0.7,
-      "speedKmh": 365,
-      "heading": 188,
-      "vertRateMs": 8.1,
+      "lat": 52.2086,
+      "lon": 13.0135,
+      "altKm": 3.9,
+      "speedKmh": 625,
+      "heading": 255,
+      "vertRateMs": 12.0,
       "airline": "Eurowings",
       "airlineCountry": "Germany",
+      "fromCity": "Thessaloniki",
+      "fromIata": "SKG",
+      "toCity": "Cologne",
+      "toIata": "CGN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T05:30:42.828133Z"
+  "updated_at": "2026-11-10T05:35:25.347645Z"
 }
