@@ -397,7 +397,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-09T10:13:31.883454Z"
+    "checked_at": "2026-11-10T10:10:41.077910Z"
   },
   "AEE8RB": {
     "route": {
@@ -3198,17 +3198,6 @@
     },
     "checked_at": "2026-11-08T16:45:30.321030Z"
   },
-  "THY6TK": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "Turkish Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-08T10:10:30.333910Z"
-  },
   "EWG8186": {
     "route": {
       "fromCity": "Berlin",
@@ -4883,10 +4872,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T09:00:55.081582Z"
-  },
-  "NJE099L": {
-    "route": null,
-    "checked_at": "2026-11-08T10:10:30.333910Z"
   },
   "EZS9047": {
     "route": {
@@ -10711,5 +10696,31 @@
   "PAV510": {
     "route": null,
     "checked_at": "2026-11-10T10:00:54.490582Z"
+  },
+  "EJU57AV": {
+    "route": {
+      "fromCity": "Prishtina",
+      "fromIata": "PRN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-10T10:10:41.077910Z"
+  },
+  "CFG3WR": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-10T10:10:41.077910Z"
+  },
+  "NJE489B": {
+    "route": null,
+    "checked_at": "2026-11-10T10:10:41.077910Z"
   }
 }
