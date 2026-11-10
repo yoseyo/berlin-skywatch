@@ -1,14 +1,42 @@
 {
   "flights": [
     {
+      "callsign": "ADZ4106",
+      "country": "Bulgaria",
+      "lat": 52.3285,
+      "lon": 13.2475,
+      "altKm": 2.2,
+      "speedKmh": 427,
+      "heading": 254,
+      "vertRateMs": 15.9,
+      "airline": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "category": "plane"
+    },
+    {
+      "callsign": "PGT1616",
+      "country": "Turkey",
+      "lat": 52.1918,
+      "lon": 13.3944,
+      "altKm": 4.0,
+      "speedKmh": 527,
+      "heading": 86,
+      "vertRateMs": 19.8,
+      "category": "plane"
+    },
+    {
       "callsign": "BAW992G",
       "country": "United Kingdom",
-      "lat": 52.5051,
-      "lon": 13.6162,
-      "altKm": 1.6,
-      "speedKmh": 438,
-      "heading": 102,
-      "vertRateMs": -4.9,
+      "lat": 52.3836,
+      "lon": 13.6295,
+      "altKm": 0.5,
+      "speedKmh": 242,
+      "heading": 249,
+      "vertRateMs": -4.5,
       "airline": "British Airways",
       "airlineCountry": "United Kingdom",
       "fromCity": "London",
@@ -16,7 +44,52 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "CCA940",
+      "country": "China",
+      "lat": 52.2861,
+      "lon": 13.0328,
+      "altKm": 10.1,
+      "speedKmh": 858,
+      "heading": 16,
+      "vertRateMs": 0,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Rome",
+      "fromIata": "FCO",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "category": "plane"
+    },
+    {
+      "callsign": "LOT4CT",
+      "country": "Poland",
+      "lat": 52.2621,
+      "lon": 13.6268,
+      "altKm": 11.0,
+      "speedKmh": 695,
+      "heading": 272,
+      "vertRateMs": 0.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "EWG8MF",
+      "country": "Germany",
+      "lat": 52.1939,
+      "lon": 13.6057,
+      "altKm": 1.5,
+      "speedKmh": 499,
+      "heading": 41,
+      "vertRateMs": -4.9,
+      "airline": "Eurowings",
+      "airlineCountry": "Germany",
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T20:25:24.134996Z"
+  "updated_at": "2026-11-10T20:30:42.540232Z"
 }
