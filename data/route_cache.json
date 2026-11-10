@@ -529,7 +529,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-09T11:40:31.740899Z"
+    "checked_at": "2026-11-10T11:35:26.083873Z"
   },
   "KLC21A": {
     "route": {
@@ -4839,32 +4839,6 @@
     },
     "checked_at": "2026-11-10T10:39:23.634346Z"
   },
-  "RJA291": {
-    "route": {
-      "fromCity": "Amman",
-      "fromIata": "AMM",
-      "toCity": "Dallas-Fort Worth",
-      "toIata": "DFW",
-      "airlineName": "Royal Jordanian",
-      "airlineCountry": "Jordan"
-    },
-    "checked_at": "2026-11-08T11:30:45.405990Z"
-  },
-  "NSZ4505": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-08T11:35:24.780180Z"
-  },
-  "DEEWX": {
-    "route": null,
-    "checked_at": "2026-11-08T11:35:24.780180Z"
-  },
   "DMSGP": {
     "route": null,
     "checked_at": "2026-11-08T11:40:32.216896Z"
@@ -8299,7 +8273,7 @@
       "airlineName": "Israir Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-11-09T11:20:32.346030Z"
+    "checked_at": "2026-11-10T11:35:26.083873Z"
   },
   "RYR5UJ": {
     "route": {
@@ -10637,5 +10611,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T11:30:45.155477Z"
+  },
+  "EJU51NW": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marsa Alam",
+      "toIata": "RMF",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-10T11:35:26.083873Z"
+  },
+  "RYR77AJ": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Shannon",
+      "toIata": "SNN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-10T11:35:26.083873Z"
   }
 }
