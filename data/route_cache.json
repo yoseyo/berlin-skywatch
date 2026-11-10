@@ -5082,17 +5082,6 @@
     },
     "checked_at": "2026-11-08T21:55:23.882658Z"
   },
-  "CCA949": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Milan",
-      "toIata": "MXP",
-      "airlineName": "Air China",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-08T03:55:22.523220Z"
-  },
   "CSH871": {
     "route": {
       "fromCity": "Shanghai (Pudong)",
@@ -10840,5 +10829,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-10T03:45:30.366374Z"
+  },
+  "UAL83": {
+    "route": {
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "airlineName": "United Airlines",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-11-10T03:55:24.558103Z"
   }
 }
