@@ -2660,7 +2660,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-09T19:10:35.186329Z"
+    "checked_at": "2026-11-10T19:00:53.056442Z"
   },
   "EJU64QM": {
     "route": {
@@ -5006,39 +5006,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-09T08:40:31.925054Z"
-  },
-  "VKG459": {
-    "route": {
-      "fromCity": "Hurghada",
-      "fromIata": "HRG",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "SunClass Airlines",
-      "airlineCountry": "Denmark"
-    },
-    "checked_at": "2026-11-08T19:00:50.165296Z"
-  },
-  "BAW87AM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-08T19:00:50.165296Z"
-  },
-  "RYR84WC": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T19:00:50.165296Z"
   },
   "MPC003": {
     "route": null,
@@ -10050,5 +10017,27 @@
   "SDR32TW": {
     "route": null,
     "checked_at": "2026-11-10T18:55:25.289339Z"
+  },
+  "PGT68QQ": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-10T19:00:53.056442Z"
+  },
+  "EWG8537": {
+    "route": {
+      "fromCity": "M\u00e1laga",
+      "fromIata": "AGP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-10T19:00:53.056442Z"
   }
 }
