@@ -4253,17 +4253,6 @@
     },
     "checked_at": "2026-11-09T07:50:32.854446Z"
   },
-  "RYR9TE": {
-    "route": {
-      "fromCity": "Manchester",
-      "fromIata": "MAN",
-      "toCity": "Rome",
-      "toIata": "CIA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T15:25:24.891865Z"
-  },
   "LOT2LP": {
     "route": {
       "fromCity": "Brussels",
@@ -4889,17 +4878,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-11-09T13:40:33.837999Z"
-  },
-  "BEL5XD": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-11-08T15:25:24.891865Z"
   },
   "CAI62RH": {
     "route": {
@@ -10369,5 +10347,16 @@
   "NJE638F": {
     "route": null,
     "checked_at": "2026-11-10T15:20:36.386129Z"
+  },
+  "RAM231": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PKX",
+      "toCity": "Casablanca",
+      "toIata": "CMN",
+      "airlineName": "Royal Air Maroc",
+      "airlineCountry": "Morocco"
+    },
+    "checked_at": "2026-11-10T15:25:26.566665Z"
   }
 }
