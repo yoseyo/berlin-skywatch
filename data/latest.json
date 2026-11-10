@@ -1,4 +1,39 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-10T03:40:31.304437Z"
+  "flights": [
+    {
+      "callsign": "AIC105",
+      "country": "India",
+      "lat": 52.144,
+      "lon": 13.8983,
+      "altKm": 12.1,
+      "speedKmh": 833,
+      "heading": 294,
+      "vertRateMs": 0,
+      "airline": "Air India",
+      "airlineCountry": "India",
+      "fromCity": "New Delhi",
+      "fromIata": "DEL",
+      "toCity": "New York",
+      "toIata": "EWR",
+      "category": "plane"
+    },
+    {
+      "callsign": "CSN331",
+      "country": "China",
+      "lat": 52.3795,
+      "lon": 13.0979,
+      "altKm": 10.9,
+      "speedKmh": 850,
+      "heading": 231,
+      "vertRateMs": 0,
+      "airline": "China Southern Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Guangzhou (Huadu)",
+      "fromIata": "CAN",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-10T03:45:30.366374Z"
 }
