@@ -2539,7 +2539,7 @@
   },
   "KLC1341": {
     "route": null,
-    "checked_at": "2026-11-09T15:50:34.995856Z"
+    "checked_at": "2026-11-10T16:05:26.608533Z"
   },
   "KLC1342": {
     "route": {
@@ -3016,7 +3016,7 @@
   },
   "EWG007": {
     "route": null,
-    "checked_at": "2026-11-09T16:20:33.417893Z"
+    "checked_at": "2026-11-10T16:05:26.608533Z"
   },
   "CFG433": {
     "route": {
@@ -3929,17 +3929,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-08T16:30:43.277423Z"
-  },
-  "TKJ3NX": {
-    "route": {
-      "fromCity": "Ordu",
-      "fromIata": "OGU",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Tarkim Havacilik",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-08T16:05:24.200270Z"
   },
   "AFR62AM": {
     "route": {
@@ -4863,21 +4852,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T14:20:34.666579Z"
-  },
-  "WZZ89": {
-    "route": {
-      "fromCity": "Bari",
-      "fromIata": "BRI",
-      "toCity": "Venice",
-      "toIata": "VCE",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-08T16:05:24.200270Z"
-  },
-  "AWH92B": {
-    "route": null,
-    "checked_at": "2026-11-08T16:05:24.200270Z"
   },
   "VJT683": {
     "route": {
@@ -10325,5 +10299,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T15:55:26.558421Z"
+  },
+  "PGT983": {
+    "route": {
+      "fromCity": "Pendik, Istanbul",
+      "fromIata": "SAW",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-10T16:05:26.608533Z"
+  },
+  "EJU38RH": {
+    "route": {
+      "fromCity": "Lanzarote Island",
+      "fromIata": "ACE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-10T16:05:26.608533Z"
   }
 }
