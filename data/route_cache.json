@@ -375,7 +375,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-09T10:05:24.757805Z"
+    "checked_at": "2026-11-10T09:50:35.305821Z"
   },
   "BEL8CE": {
     "route": {
@@ -1282,7 +1282,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-09T09:45:30.216497Z"
+    "checked_at": "2026-11-10T09:50:35.305821Z"
   },
   "EJU75ZF": {
     "route": {
@@ -1315,7 +1315,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-09T09:55:23.744385Z"
+    "checked_at": "2026-11-10T09:50:35.305821Z"
   },
   "DLH1KF": {
     "route": {
@@ -4906,28 +4906,6 @@
     },
     "checked_at": "2026-11-09T09:00:55.081582Z"
   },
-  "NOZ61C": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Bergen",
-      "toIata": "BGO",
-      "airlineName": "Norwegian Air Shuttle AOC AS",
-      "airlineCountry": "Norway"
-    },
-    "checked_at": "2026-11-08T09:50:30.596961Z"
-  },
-  "PGT9DN": {
-    "route": {
-      "fromCity": "B\u00e2le/Mulhouse",
-      "fromIata": "BSL",
-      "toCity": "Pendik, Istanbul",
-      "toIata": "SAW",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-08T09:50:30.596961Z"
-  },
   "ALX279": {
     "route": null,
     "checked_at": "2026-11-08T09:55:23.407984Z"
@@ -4948,15 +4926,8 @@
     "checked_at": "2026-11-08T10:15:31.029477Z"
   },
   "AHY064": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Baku",
-      "toIata": "GYD",
-      "airlineName": "Azerbaijan Airlines",
-      "airlineCountry": "Azerbaijan"
-    },
-    "checked_at": "2026-11-08T10:15:31.029477Z"
+    "route": null,
+    "checked_at": "2026-11-10T09:50:35.305821Z"
   },
   "FIN6TF": {
     "route": {
@@ -10747,5 +10718,9 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-10T09:45:32.226679Z"
+  },
+  "GAF726": {
+    "route": null,
+    "checked_at": "2026-11-10T09:50:35.305821Z"
   }
 }
