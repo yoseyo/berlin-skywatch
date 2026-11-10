@@ -617,7 +617,7 @@
       "airlineName": "KLM Cityhopper",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-09T14:05:27.352534Z"
+    "checked_at": "2026-11-10T14:55:31.598405Z"
   },
   "UAL962": {
     "route": {
@@ -3071,7 +3071,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-08T15:15:30.949211Z"
+    "checked_at": "2026-11-10T14:55:31.598405Z"
   },
   "HOP25KD": {
     "route": {
@@ -10390,5 +10390,42 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T14:45:32.645823Z"
+  },
+  "EJU9053": {
+    "route": {
+      "fromCity": "Bordeaux/M\u00e9rignac",
+      "fromIata": "BOD",
+      "toCity": "Alghero",
+      "toIata": "AHO",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-10T14:55:31.598405Z"
+  },
+  "OEFGE": {
+    "route": null,
+    "checked_at": "2026-11-10T14:55:31.598405Z"
+  },
+  "BTX3C": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Paris",
+      "toIata": "LBG",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-10T14:55:31.598405Z"
+  },
+  "UZB201": {
+    "route": {
+      "fromCity": "Tashkent",
+      "fromIata": "TAS",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Uzbekistan Airways",
+      "airlineCountry": "Uzbekistan"
+    },
+    "checked_at": "2026-11-10T14:55:31.598405Z"
   }
 }
