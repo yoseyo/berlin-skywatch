@@ -4857,10 +4857,6 @@
     },
     "checked_at": "2026-11-10T16:15:31.760301Z"
   },
-  "N66HR": {
-    "route": null,
-    "checked_at": "2026-11-08T16:35:24.528118Z"
-  },
   "SEH875": {
     "route": {
       "fromCity": "Berlin",
@@ -4871,10 +4867,6 @@
       "airlineCountry": "Greece"
     },
     "checked_at": "2026-11-09T15:15:32.897382Z"
-  },
-  "MASBA": {
-    "route": null,
-    "checked_at": "2026-11-08T16:35:24.528118Z"
   },
   "FIN24Q": {
     "route": {
@@ -10226,5 +10218,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T16:20:34.968760Z"
+  },
+  "FIN01AD": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-10T16:35:28.236959Z"
   }
 }
