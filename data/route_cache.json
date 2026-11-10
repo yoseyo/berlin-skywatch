@@ -595,7 +595,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-09T13:15:32.058174Z"
+    "checked_at": "2026-11-10T13:00:52.331079Z"
   },
   "AUA230U": {
     "route": {
@@ -3880,7 +3880,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-09T13:05:25.849324Z"
+    "checked_at": "2026-11-10T13:00:52.331079Z"
   },
   "WZZ692": {
     "route": null,
@@ -4886,10 +4886,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T11:30:45.155477Z"
-  },
-  "JSY2W": {
-    "route": null,
-    "checked_at": "2026-11-08T13:00:49.772594Z"
   },
   "DLH6LT": {
     "route": {
@@ -8246,7 +8242,7 @@
       "airlineName": "Israir Airlines",
       "airlineCountry": "Israel"
     },
-    "checked_at": "2026-11-09T12:55:24.666331Z"
+    "checked_at": "2026-11-10T13:00:52.331079Z"
   },
   "ETD913": {
     "route": {
@@ -10450,5 +10446,42 @@
   "N16EU": {
     "route": null,
     "checked_at": "2026-11-10T12:50:33.433577Z"
+  },
+  "WZZ15YR": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "Gda\u0144sk",
+      "toIata": "GDN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-10T13:00:52.331079Z"
+  },
+  "NJE306Y": {
+    "route": null,
+    "checked_at": "2026-11-10T13:00:52.331079Z"
+  },
+  "RYR35ZX": {
+    "route": {
+      "fromCity": "Sevilla",
+      "fromIata": "SVQ",
+      "toCity": "Trapani (TP)",
+      "toIata": "TPS",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-10T13:00:52.331079Z"
+  },
+  "MEA246": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Middle East Airlines",
+      "airlineCountry": "Lebanon"
+    },
+    "checked_at": "2026-11-10T13:00:52.331079Z"
   }
 }
