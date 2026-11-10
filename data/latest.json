@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "EJU71AJ",
+      "country": "Austria",
+      "lat": 52.3407,
+      "lon": 13.8258,
+      "altKm": 1.2,
+      "speedKmh": 429,
+      "heading": 51,
+      "vertRateMs": -2.9,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "KLM27F",
       "country": "Kingdom of the Netherlands",
-      "lat": 52.5555,
-      "lon": 13.2228,
-      "altKm": 3.0,
-      "speedKmh": 565,
-      "heading": 97,
-      "vertRateMs": -6.5,
+      "lat": 52.4492,
+      "lon": 13.8262,
+      "altKm": 1.0,
+      "speedKmh": 421,
+      "heading": 190,
+      "vertRateMs": -2.6,
       "airline": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands",
       "fromCity": "Amsterdam",
@@ -18,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T21:55:25.080138Z"
+  "updated_at": "2026-11-10T22:00:49.757051Z"
 }
