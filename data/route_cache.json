@@ -2233,7 +2233,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-09T19:45:30.483559Z"
+    "checked_at": "2026-11-10T10:45:31.072643Z"
   },
   "SAS95W": {
     "route": {
@@ -4443,10 +4443,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T07:50:32.854446Z"
-  },
-  "DMPCR": {
-    "route": null,
-    "checked_at": "2026-11-08T10:45:28.928080Z"
   },
   "RYR9TE": {
     "route": {
@@ -10700,5 +10696,16 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-10T10:35:24.822555Z"
+  },
+  "FIN1EB": {
+    "route": {
+      "fromCity": "Zurich",
+      "fromIata": "ZRH",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-10T10:45:31.072643Z"
   }
 }
