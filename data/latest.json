@@ -1,52 +1,35 @@
 {
   "flights": [
     {
-      "callsign": "CFE8495",
-      "country": "United Kingdom",
-      "lat": 52.3772,
-      "lon": 13.5253,
-      "altKm": 0.1,
-      "speedKmh": 219,
-      "heading": 249,
-      "vertRateMs": -3.2,
-      "airline": "BA CityFlyer",
-      "airlineCountry": "United Kingdom",
-      "fromCity": "London",
-      "fromIata": "LCY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "DLH5AH",
-      "country": "Germany",
-      "lat": 52.3395,
-      "lon": 13.3654,
-      "altKm": 1.2,
-      "speedKmh": 412,
-      "heading": 249,
-      "vertRateMs": 18.9,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "category": "plane"
-    },
-    {
       "callsign": "DLH4LV",
       "country": "Germany",
-      "lat": 52.3374,
-      "lon": 13.8119,
-      "altKm": 1.2,
-      "speedKmh": 447,
-      "heading": 49,
-      "vertRateMs": -5.5,
+      "lat": 52.3694,
+      "lon": 13.5692,
+      "altKm": 0.3,
+      "speedKmh": 250,
+      "heading": 249,
+      "vertRateMs": -3.6,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Bologna",
-      "toIata": "BLQ",
+      "category": "plane"
+    },
+    {
+      "callsign": "LOT6PA",
+      "country": "Poland",
+      "lat": 52.2245,
+      "lon": 13.1455,
+      "altKm": 9.5,
+      "speedKmh": 833,
+      "heading": 85,
+      "vertRateMs": -0.3,
+      "airline": "LOT Polish Airlines",
+      "airlineCountry": "Poland",
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Madrid",
+      "toIata": "MAD",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-10T19:45:32.336895Z"
+  "updated_at": "2026-11-10T19:50:34.458209Z"
 }
