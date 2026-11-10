@@ -1392,7 +1392,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-09T10:55:24.370701Z"
+    "checked_at": "2026-11-10T10:55:25.744930Z"
   },
   "SXS47C": {
     "route": {
@@ -2891,7 +2891,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-09T10:25:24.490233Z"
+    "checked_at": "2026-11-10T10:55:25.744930Z"
   },
   "SAS695": {
     "route": {
@@ -3098,17 +3098,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T09:05:24.535408Z"
-  },
-  "MEA245": {
-    "route": {
-      "fromCity": "Beirut",
-      "fromIata": "BEY",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-11-08T10:50:34.095209Z"
   },
   "HOP61ER": {
     "route": {
@@ -3941,17 +3930,6 @@
     },
     "checked_at": "2026-11-08T12:55:23.070741Z"
   },
-  "RYR70HH": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Pozna\u0144",
-      "toIata": "POZ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-08T10:50:34.095209Z"
-  },
   "WZZ692": {
     "route": null,
     "checked_at": "2026-11-09T14:10:37.279869Z"
@@ -4501,7 +4479,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-08T11:55:24.929846Z"
+    "checked_at": "2026-11-10T10:55:25.744930Z"
   },
   "RYR29SC": {
     "route": {
@@ -10707,5 +10685,16 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-11-10T10:45:31.072643Z"
+  },
+  "JDI85H": {
+    "route": {
+      "fromCity": "Amsterdam",
+      "fromIata": "AMS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-10T10:55:25.744930Z"
   }
 }
