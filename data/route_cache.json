@@ -265,7 +265,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-09T06:50:33.815141Z"
+    "checked_at": "2026-11-10T06:55:24.326302Z"
   },
   "LOT2CM": {
     "route": {
@@ -3003,28 +3003,6 @@
     },
     "checked_at": "2026-11-10T05:50:35.173114Z"
   },
-  "FIN1703": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Rhodes Island",
-      "toIata": "RHO",
-      "airlineName": "Finnair",
-      "airlineCountry": "Finland"
-    },
-    "checked_at": "2026-11-08T06:55:22.274797Z"
-  },
-  "EJU16FE": {
-    "route": {
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-08T06:55:22.274797Z"
-  },
   "CHH490": {
     "route": {
       "fromCity": "Berlin",
@@ -5015,17 +4993,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-09T06:40:32.297889Z"
-  },
-  "LHX2X": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "City Airlines",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-08T06:55:22.274797Z"
   },
   "EJU48EZ": {
     "route": {
@@ -10792,5 +10759,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-10T06:40:33.228737Z"
+  },
+  "SRR901": {
+    "route": {
+      "fromCity": "Billund",
+      "fromIata": "BLL",
+      "toCity": "Billund",
+      "toIata": "BLL",
+      "airlineName": "Star Air",
+      "airlineCountry": "Denmark"
+    },
+    "checked_at": "2026-11-10T06:55:24.326302Z"
   }
 }
