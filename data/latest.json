@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "PGT1617",
+      "country": "Turkey",
+      "lat": 52.17,
+      "lon": 13.2513,
+      "altKm": 1.5,
+      "speedKmh": 452,
+      "heading": 319,
+      "vertRateMs": -4.5,
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.2805,
-      "lon": 12.9698,
-      "altKm": 1.4,
-      "speedKmh": 366,
-      "heading": 107,
-      "vertRateMs": -3.2,
+      "lat": 52.341,
+      "lon": 13.3725,
+      "altKm": 0.5,
+      "speedKmh": 269,
+      "heading": 69,
+      "vertRateMs": -4.2,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -16,24 +27,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "BCS3612",
-      "country": "Germany",
-      "lat": 52.5914,
-      "lon": 13.0625,
-      "altKm": 8.8,
-      "speedKmh": 855,
-      "heading": 21,
-      "vertRateMs": 11.1,
-      "airline": "European Air Transport",
-      "airlineCountry": "Germany",
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Helsinki",
-      "toIata": "HEL",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T04:25:23.937993Z"
+  "updated_at": "2026-11-11T04:30:42.068275Z"
 }
