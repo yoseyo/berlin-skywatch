@@ -1685,7 +1685,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T14:15:33.897239Z"
+    "checked_at": "2026-11-11T14:10:34.119807Z"
   },
   "KLM84H": {
     "route": {
@@ -1740,7 +1740,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-10T14:30:46.026833Z"
+    "checked_at": "2026-11-11T14:10:34.119807Z"
   },
   "PGT5GX": {
     "route": {
@@ -1873,7 +1873,7 @@
       "airlineName": "Wizz Air Malta",
       "airlineCountry": "Malta"
     },
-    "checked_at": "2026-11-09T15:20:33.855506Z"
+    "checked_at": "2026-11-11T14:10:34.119807Z"
   },
   "RYR37SL": {
     "route": {
@@ -3351,7 +3351,7 @@
       "airlineName": "Royal Jordanian",
       "airlineCountry": "Jordan"
     },
-    "checked_at": "2026-11-09T14:25:25.159103Z"
+    "checked_at": "2026-11-11T14:10:34.119807Z"
   },
   "LOT2PJ": {
     "route": {
@@ -3451,17 +3451,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-09T15:40:34.273121Z"
-  },
-  "RYR8CJ": {
-    "route": {
-      "fromCity": "Rome",
-      "fromIata": "FCO",
-      "toCity": "Catania",
-      "toIata": "CTA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T14:05:27.352534Z"
   },
   "PGT38UL": {
     "route": {
@@ -5120,21 +5109,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T14:25:26.066201Z"
-  },
-  "DMSGV": {
-    "route": null,
-    "checked_at": "2026-11-09T14:05:27.352534Z"
-  },
-  "DBANN": {
-    "route": {
-      "fromCity": "Speyer",
-      "fromIata": null,
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-09T14:05:27.352534Z"
   },
   "AFR61ER": {
     "route": {
@@ -8744,5 +8718,16 @@
   "UPPC007": {
     "route": null,
     "checked_at": "2026-11-11T14:00:51.486614Z"
+  },
+  "HOP61ER": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-11T14:10:34.119807Z"
   }
 }
