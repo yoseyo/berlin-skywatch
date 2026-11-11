@@ -3176,10 +3176,6 @@
     },
     "checked_at": "2026-11-09T14:10:37.279869Z"
   },
-  "WUK3636": {
-    "route": null,
-    "checked_at": "2026-11-09T09:20:32.874741Z"
-  },
   "ASL31R": {
     "route": {
       "fromCity": "Berlin",
@@ -5152,7 +5148,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-10T09:00:53.672052Z"
+    "checked_at": "2026-11-11T09:20:33.516583Z"
   },
   "EWG4HV": {
     "route": {
@@ -5219,28 +5215,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-10T09:15:33.470601Z"
-  },
-  "BTI48D": {
-    "route": {
-      "fromCity": "D\u00fcsseldorf",
-      "fromIata": "DUS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-09T09:20:32.874741Z"
-  },
-  "SDR10EL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "City Airline",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-09T09:20:32.874741Z"
   },
   "EWG7B": {
     "route": {
@@ -9425,5 +9399,16 @@
   "JSF827": {
     "route": null,
     "checked_at": "2026-11-11T09:10:32.089820Z"
+  },
+  "HOP23TP": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France Hop",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-11T09:20:33.516583Z"
   }
 }
