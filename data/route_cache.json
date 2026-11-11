@@ -2388,7 +2388,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T15:40:36.332237Z"
+    "checked_at": "2026-11-11T16:00:58.376774Z"
   },
   "FIN5DL": {
     "route": {
@@ -2447,7 +2447,7 @@
   },
   "KLC1341": {
     "route": null,
-    "checked_at": "2026-11-10T16:05:26.608533Z"
+    "checked_at": "2026-11-11T16:00:58.376774Z"
   },
   "KLC1342": {
     "route": {
@@ -2865,7 +2865,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T14:00:52.765636Z"
+    "checked_at": "2026-11-11T16:00:58.376774Z"
   },
   "EWG007": {
     "route": null,
@@ -3061,17 +3061,6 @@
   "WZZ9327": {
     "route": null,
     "checked_at": "2026-11-11T09:55:24.690046Z"
-  },
-  "RYR58ER": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Rome",
-      "toIata": "CIA",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T15:55:26.357016Z"
   },
   "RYR18HB": {
     "route": null,
@@ -3319,17 +3308,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-11T15:55:24.353408Z"
-  },
-  "PGT4KZ": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-09T16:00:54.225629Z"
   },
   "THY6WM": {
     "route": {
@@ -4216,17 +4194,6 @@
     },
     "checked_at": "2026-11-10T16:45:36.019966Z"
   },
-  "EJU51QP": {
-    "route": {
-      "fromCity": "Venice",
-      "fromIata": "VCE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-09T16:00:54.225629Z"
-  },
   "EJU97CN": {
     "route": {
       "fromCity": "Paris",
@@ -5085,17 +5052,6 @@
     "route": null,
     "checked_at": "2026-11-10T07:00:54.797435Z"
   },
-  "ETH3794": {
-    "route": {
-      "fromCity": "Maastricht",
-      "fromIata": "MST",
-      "toCity": "Maastricht",
-      "toIata": "MST",
-      "airlineName": "Ethiopian Airlines",
-      "airlineCountry": "Ethiopia"
-    },
-    "checked_at": "2026-11-09T15:55:26.357016Z"
-  },
   "WZZ80EN": {
     "route": {
       "fromCity": "Vilnius",
@@ -5105,18 +5061,7 @@
       "airlineName": "Wizz Air",
       "airlineCountry": "Hungary"
     },
-    "checked_at": "2026-11-09T15:55:26.357016Z"
-  },
-  "EWG3PH": {
-    "route": {
-      "fromCity": "Hamburg",
-      "fromIata": "HAM",
-      "toCity": "Split",
-      "toIata": "SPU",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T15:55:26.357016Z"
+    "checked_at": "2026-11-11T16:00:58.376774Z"
   },
   "VJT453": {
     "route": {
@@ -5128,28 +5073,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-10T10:00:54.490582Z"
-  },
-  "DLH4CY": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T16:00:54.225629Z"
-  },
-  "EZS53ZG": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Geneva",
-      "toIata": "GVA",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-11-09T16:00:54.225629Z"
   },
   "EWG57T": {
     "route": {
@@ -8655,5 +8578,38 @@
   "NJE160A": {
     "route": null,
     "checked_at": "2026-11-11T15:55:24.353408Z"
+  },
+  "WZZ89": {
+    "route": {
+      "fromCity": "Bari",
+      "fromIata": "BRI",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-11T16:00:58.376774Z"
+  },
+  "ISR255": {
+    "route": {
+      "fromCity": "Tel Aviv",
+      "fromIata": "TLV",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-11T16:00:58.376774Z"
+  },
+  "RYR49": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Treviso",
+      "toIata": "TSF",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-11T16:00:58.376774Z"
   }
 }
