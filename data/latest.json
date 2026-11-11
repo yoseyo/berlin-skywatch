@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "BEL1ZK",
+      "country": "Belgium",
+      "lat": 52.2755,
+      "lon": 13.0748,
+      "altKm": 1.3,
+      "speedKmh": 483,
+      "heading": 100,
+      "vertRateMs": -3.2,
+      "airline": "Brussels Airlines",
+      "airlineCountry": "Belgium",
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "HLF8868",
       "country": "China",
-      "lat": 52.3871,
-      "lon": 13.0986,
-      "altKm": 8.8,
-      "speedKmh": 946,
-      "heading": 41,
-      "vertRateMs": 9.1,
+      "lat": 52.7028,
+      "lon": 13.5558,
+      "altKm": 10.5,
+      "speedKmh": 926,
+      "heading": 42,
+      "vertRateMs": 1.0,
       "airline": "Hapagfly",
       "airlineCountry": "Germany",
       "fromCity": "Bangkok",
@@ -16,18 +33,7 @@
       "toCity": "Yantai",
       "toIata": "YNT",
       "category": "plane"
-    },
-    {
-      "callsign": "KMM377",
-      "country": "Malta",
-      "lat": 52.2225,
-      "lon": 13.7443,
-      "altKm": 3.1,
-      "speedKmh": 540,
-      "heading": 184,
-      "vertRateMs": 8.1,
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T20:57:56.149144Z"
+  "updated_at": "2026-11-11T21:00:56.710937Z"
 }
