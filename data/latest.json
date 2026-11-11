@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "DLH2EE",
-      "country": "Germany",
-      "lat": 52.2541,
-      "lon": 13.8281,
-      "altKm": 2.8,
-      "speedKmh": 538,
-      "heading": 149,
-      "vertRateMs": 14.3,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "category": "plane"
-    },
-    {
       "callsign": "CHH489",
       "country": "China",
-      "lat": 52.3288,
-      "lon": 13.0343,
-      "altKm": 0.9,
-      "speedKmh": 338,
-      "heading": 176,
-      "vertRateMs": -0.7,
+      "lat": 52.313,
+      "lon": 13.3325,
+      "altKm": 0.6,
+      "speedKmh": 298,
+      "heading": 69,
+      "vertRateMs": -3.2,
       "airline": "Hainan Airlines",
       "airlineCountry": "China",
       "fromCity": "Beijing",
@@ -33,24 +16,7 @@
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
-    },
-    {
-      "callsign": "KLM90J",
-      "country": "Kingdom of the Netherlands",
-      "lat": 52.2788,
-      "lon": 13.0469,
-      "altKm": 5.0,
-      "speedKmh": 581,
-      "heading": 274,
-      "vertRateMs": 15.3,
-      "airline": "KLM Royal Dutch Airlines",
-      "airlineCountry": "Netherlands",
-      "fromCity": "Birmingham",
-      "fromIata": "BHX",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
-      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T05:20:31.929590Z"
+  "updated_at": "2026-11-11T05:25:24.307512Z"
 }
