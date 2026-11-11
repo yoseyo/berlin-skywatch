@@ -3423,17 +3423,6 @@
     },
     "checked_at": "2026-11-11T14:20:35.022148Z"
   },
-  "RYR22EH": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T17:10:35.081488Z"
-  },
   "BBG271": {
     "route": {
       "fromCity": "Berlin",
@@ -3940,17 +3929,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-11T15:30:46.050876Z"
-  },
-  "EJU19XU": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-09T17:15:31.744931Z"
   },
   "BEL3JZ": {
     "route": {
@@ -5055,17 +5033,6 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-11T17:10:32.552533Z"
-  },
-  "BTI6UN": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-09T17:15:31.744931Z"
   },
   "AUA99R": {
     "route": {
@@ -8521,5 +8488,20 @@
   "VJT408": {
     "route": null,
     "checked_at": "2026-11-11T16:40:33.698367Z"
+  },
+  "AFR62AM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "Air France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-11T17:15:33.600966Z"
+  },
+  "AWH91B": {
+    "route": null,
+    "checked_at": "2026-11-11T17:15:33.600966Z"
   }
 }
