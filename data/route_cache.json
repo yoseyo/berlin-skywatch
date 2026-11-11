@@ -3908,10 +3908,6 @@
     },
     "checked_at": "2026-11-11T11:20:31.760504Z"
   },
-  "DMTWH": {
-    "route": null,
-    "checked_at": "2026-11-09T11:40:31.740899Z"
-  },
   "EJU62CM": {
     "route": {
       "fromCity": "Berlin",
@@ -4512,7 +4508,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-09T18:00:59.010781Z"
+    "checked_at": "2026-11-11T11:40:33.245141Z"
   },
   "EZY26YP": {
     "route": {
@@ -5193,39 +5189,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-10T19:30:43.549333Z"
-  },
-  "LZB320": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sofia",
-      "toIata": "SOF",
-      "airlineName": "Bulgaria Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-11-09T11:40:31.740899Z"
-  },
-  "SXS4GV": {
-    "route": {
-      "fromCity": "\u0130zmir",
-      "fromIata": "ADB",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "SunExpress",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-09T11:40:31.740899Z"
-  },
-  "RYR2WK": {
-    "route": {
-      "fromCity": "Palma De Mallorca",
-      "fromIata": "PMI",
-      "toCity": "Sevilla",
-      "toIata": "SVQ",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T11:40:31.740899Z"
   },
   "CHX71": {
     "route": null,
@@ -8130,7 +8093,7 @@
   },
   "IFA6738": {
     "route": null,
-    "checked_at": "2026-11-10T17:15:31.616595Z"
+    "checked_at": "2026-11-11T11:40:33.245141Z"
   },
   "PGT984": {
     "route": {
@@ -8996,5 +8959,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-11T11:25:24.669395Z"
+  },
+  "CKK235": {
+    "route": {
+      "fromCity": "Chongqing",
+      "fromIata": "CKG",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-11T11:40:33.245141Z"
   }
 }
