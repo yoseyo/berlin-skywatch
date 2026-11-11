@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-11T02:05:24.449858Z"
+  "flights": [
+    {
+      "callsign": "MFX7662",
+      "country": "Uzbekistan",
+      "lat": 52.6787,
+      "lon": 13.1505,
+      "altKm": 10.6,
+      "speedKmh": 920,
+      "heading": 71,
+      "vertRateMs": 0,
+      "airline": "My Freighter LLC",
+      "airlineCountry": "Uzbekistan",
+      "fromCity": "Larnaca",
+      "fromIata": "LCA",
+      "toCity": "Tashkent",
+      "toIata": "TAS",
+      "category": "plane"
+    },
+    {
+      "callsign": "AWH95H",
+      "country": "Germany",
+      "lat": 52.3245,
+      "lon": 12.7793,
+      "altKm": 1.9,
+      "speedKmh": 503,
+      "heading": 96,
+      "vertRateMs": -10.1,
+      "category": "jet"
+    }
+  ],
+  "updated_at": "2026-11-11T02:10:31.696817Z"
 }
