@@ -111,7 +111,7 @@
       "airlineName": "Aegean Airlines",
       "airlineCountry": "Greece"
     },
-    "checked_at": "2026-11-10T17:25:25.319548Z"
+    "checked_at": "2026-11-11T17:25:25.173086Z"
   },
   "AEE82B": {
     "route": {
@@ -878,7 +878,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-10T17:20:33.217513Z"
+    "checked_at": "2026-11-11T17:25:25.173086Z"
   },
   "FIN9YA": {
     "route": {
@@ -2009,7 +2009,7 @@
       "airlineName": "Iberia Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-10T17:35:25.955812Z"
+    "checked_at": "2026-11-11T17:25:25.173086Z"
   },
   "RYR48MN": {
     "route": {
@@ -2153,17 +2153,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-11T08:20:34.016847Z"
-  },
-  "SAS95W": {
-    "route": {
-      "fromCity": "Stockholm",
-      "fromIata": "ARN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-09T17:20:37.118247Z"
   },
   "THY3GQ": {
     "route": {
@@ -5044,17 +5033,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-11T17:20:34.246979Z"
-  },
-  "EJU9334": {
-    "route": {
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-09T17:20:37.118247Z"
   },
   "LHX851": {
     "route": {
@@ -8514,5 +8492,16 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-11-11T17:20:34.246979Z"
+  },
+  "RYR353": {
+    "route": {
+      "fromCity": "Eindhoven",
+      "fromIata": "EIN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-11T17:25:25.173086Z"
   }
 }
