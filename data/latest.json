@@ -1,22 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "QTR33X",
-      "country": "Qatar",
-      "lat": 52.2901,
-      "lon": 13.2239,
-      "altKm": 1.0,
-      "speedKmh": 385,
-      "heading": 37,
-      "vertRateMs": -3.6,
-      "airline": "Qatar Airways",
-      "airlineCountry": "Qatar",
-      "fromCity": "Nice",
-      "fromIata": "NCE",
-      "toCity": "Doha",
-      "toIata": "DOH",
+      "callsign": "CAL067",
+      "country": "Taiwan",
+      "lat": 52.5402,
+      "lon": 13.9551,
+      "altKm": 12.1,
+      "speedKmh": 845,
+      "heading": 211,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "KLC80U",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.5032,
+      "lon": 13.9518,
+      "altKm": 9.7,
+      "speedKmh": 661,
+      "heading": 269,
+      "vertRateMs": 0,
+      "airline": "KLM Cityhopper",
+      "airlineCountry": "Netherlands",
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T05:35:24.435866Z"
+  "updated_at": "2026-11-11T05:40:32.041238Z"
 }
