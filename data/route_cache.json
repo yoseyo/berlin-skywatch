@@ -2390,17 +2390,6 @@
     },
     "checked_at": "2026-11-11T16:25:28.034538Z"
   },
-  "SAS2657": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Munich",
-      "toIata": "MUC",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-09T17:55:26.495718Z"
-  },
   "KLM60M": {
     "route": {
       "fromCity": "Warsaw",
@@ -5055,21 +5044,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-10T18:25:25.928262Z"
-  },
-  "WMT4011": {
-    "route": null,
-    "checked_at": "2026-11-09T17:55:26.495718Z"
-  },
-  "EWG8553": {
-    "route": {
-      "fromCity": "Bilbao",
-      "fromIata": "BIO",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T17:55:26.495718Z"
   },
   "EJU82BY": {
     "route": {
@@ -8437,5 +8411,16 @@
       "airlineCountry": "Hungary"
     },
     "checked_at": "2026-11-11T17:55:24.765448Z"
+  },
+  "WZZ5": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "FCO",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-11T18:00:51.249849Z"
   }
 }

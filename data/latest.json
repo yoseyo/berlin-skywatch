@@ -1,48 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "WZZ5R",
+      "callsign": "WZZ5",
       "country": "Hungary",
-      "lat": 52.2477,
-      "lon": 13.4955,
-      "altKm": 10.6,
-      "speedKmh": 860,
-      "heading": 126,
-      "vertRateMs": 0,
+      "lat": 52.2292,
+      "lon": 14.0297,
+      "altKm": 10.9,
+      "speedKmh": 777,
+      "heading": 217,
+      "vertRateMs": -0.3,
       "airline": "Wizz Air",
       "airlineCountry": "Hungary",
-      "fromCity": "Kopitnari",
-      "fromIata": "KUT",
-      "toCity": "Lyon",
-      "toIata": "LYS",
-      "category": "plane"
-    },
-    {
-      "callsign": "EIN33T",
-      "country": "Ireland",
-      "lat": 52.3375,
-      "lon": 13.435,
-      "altKm": 0.2,
-      "speedKmh": 238,
-      "heading": 69,
-      "vertRateMs": -3.6,
-      "airline": "Aer Lingus",
-      "airlineCountry": "Ireland",
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Berlin",
-      "toIata": "BER",
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Rome",
+      "toIata": "FCO",
       "category": "plane"
     },
     {
       "callsign": "LOT3KT",
       "country": "Poland",
-      "lat": 52.3586,
-      "lon": 13.5239,
-      "altKm": 0.2,
-      "speedKmh": 282,
-      "heading": 69,
-      "vertRateMs": 14.3,
+      "lat": 52.2834,
+      "lon": 14.0699,
+      "altKm": 3.7,
+      "speedKmh": 634,
+      "heading": 98,
+      "vertRateMs": 13.3,
       "airline": "LOT Polish Airlines",
       "airlineCountry": "Poland",
       "fromCity": "Berlin",
@@ -52,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T17:55:24.765448Z"
+  "updated_at": "2026-11-11T18:00:51.249849Z"
 }
