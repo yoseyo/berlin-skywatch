@@ -771,7 +771,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T18:50:34.393448Z"
+    "checked_at": "2026-11-11T18:55:24.240563Z"
   },
   "SAS1680": {
     "route": {
@@ -3029,17 +3029,6 @@
     "route": null,
     "checked_at": "2026-11-10T07:20:34.645364Z"
   },
-  "BEL9DL": {
-    "route": {
-      "fromCity": "Brussels",
-      "fromIata": "BRU",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Brussels Airlines",
-      "airlineCountry": "Belgium"
-    },
-    "checked_at": "2026-11-09T18:50:33.953749Z"
-  },
   "VLG22VF": {
     "route": {
       "fromCity": "Barcelona",
@@ -5029,28 +5018,6 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-11T18:35:24.346281Z"
-  },
-  "EJU58RW": {
-    "route": {
-      "fromCity": "Tenerife",
-      "fromIata": "TFS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-09T18:50:33.953749Z"
-  },
-  "RYR245D": {
-    "route": {
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T18:50:33.953749Z"
   },
   "CCA932": {
     "route": {
@@ -8385,5 +8352,27 @@
   "DCHFA": {
     "route": null,
     "checked_at": "2026-11-11T18:30:43.580726Z"
+  },
+  "EWG57T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Graz (Feldkirchen bei Graz)",
+      "toIata": "GRZ",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-11T18:55:24.240563Z"
+  },
+  "SAS35E": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-11T18:55:24.240563Z"
   }
 }
