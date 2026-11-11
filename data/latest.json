@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-11T00:15:29.972752Z"
+  "flights": [
+    {
+      "callsign": "RYR258",
+      "country": "Poland",
+      "lat": 52.449,
+      "lon": 13.7384,
+      "altKm": 12.4,
+      "speedKmh": 899,
+      "heading": 114,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Alicante",
+      "fromIata": "ALC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-11T00:20:34.509382Z"
 }
