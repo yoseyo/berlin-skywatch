@@ -1,4 +1,56 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-11T08:45:32.110753Z"
+  "flights": [
+    {
+      "callsign": "EJU71AJ",
+      "country": "Austria",
+      "lat": 52.2623,
+      "lon": 13.1359,
+      "altKm": 1.2,
+      "speedKmh": 414,
+      "heading": 54,
+      "vertRateMs": -6.5,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
+      "callsign": "CTN480",
+      "country": "Croatia",
+      "lat": 52.1699,
+      "lon": 13.9447,
+      "altKm": 11.5,
+      "speedKmh": 789,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "Croatia Airlines",
+      "airlineCountry": "Croatia",
+      "fromCity": "Zagreb",
+      "fromIata": "ZAG",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR1GE",
+      "country": "Malta",
+      "lat": 52.4,
+      "lon": 13.8893,
+      "altKm": 2.5,
+      "speedKmh": 600,
+      "heading": 108,
+      "vertRateMs": 15.0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Treviso",
+      "fromIata": "TSF",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-11T08:50:33.749084Z"
 }
