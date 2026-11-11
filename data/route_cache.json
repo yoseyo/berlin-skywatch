@@ -2986,7 +2986,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-10T19:10:36.245899Z"
+    "checked_at": "2026-11-11T19:15:31.710506Z"
   },
   "EIN33W": {
     "route": {
@@ -4604,7 +4604,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T19:30:43.549333Z"
+    "checked_at": "2026-11-11T19:15:31.710506Z"
   },
   "CHX71": {
     "route": null,
@@ -8392,5 +8392,27 @@
       "airlineCountry": "Finland"
     },
     "checked_at": "2026-11-11T19:10:34.022092Z"
+  },
+  "WZZ12FM": {
+    "route": {
+      "fromCity": "Gda\u0144sk",
+      "fromIata": "GDN",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-11T19:15:31.710506Z"
+  },
+  "ASL13B": {
+    "route": {
+      "fromCity": "Belgrade",
+      "fromIata": "BEG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Spurling Aviation",
+      "airlineCountry": "United States"
+    },
+    "checked_at": "2026-11-11T19:15:31.710506Z"
   }
 }
