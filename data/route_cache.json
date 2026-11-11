@@ -23,7 +23,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-10T14:20:34.666579Z"
+    "checked_at": "2026-11-11T14:30:45.337686Z"
   },
   "NSZ3302": {
     "route": {
@@ -1729,7 +1729,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T14:25:26.066201Z"
+    "checked_at": "2026-11-11T14:30:45.337686Z"
   },
   "VLG76EN": {
     "route": {
@@ -1751,7 +1751,7 @@
       "airlineName": "Pegasus Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-10T15:15:31.979157Z"
+    "checked_at": "2026-11-11T14:30:45.337686Z"
   },
   "TKJ6JC": {
     "route": {
@@ -3864,17 +3864,6 @@
     },
     "checked_at": "2026-11-11T14:15:29.815526Z"
   },
-  "BTI3FL": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-09T14:25:25.159103Z"
-  },
   "AEE512": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -4769,7 +4758,7 @@
   },
   "SPZON": {
     "route": null,
-    "checked_at": "2026-11-10T16:20:34.968760Z"
+    "checked_at": "2026-11-11T14:30:45.337686Z"
   },
   "DEVCD": {
     "route": null,
@@ -8721,5 +8710,20 @@
       "airlineCountry": "Spain"
     },
     "checked_at": "2026-11-11T14:20:35.022148Z"
+  },
+  "STLON35": {
+    "route": null,
+    "checked_at": "2026-11-11T14:30:45.337686Z"
+  },
+  "EZY58DP": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-11T14:30:45.337686Z"
   }
 }
