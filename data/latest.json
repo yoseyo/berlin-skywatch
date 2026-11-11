@@ -1,22 +1,61 @@
 {
   "flights": [
     {
-      "callsign": "AUA991A",
-      "country": "Austria",
-      "lat": 52.5574,
-      "lon": 13.7689,
-      "altKm": 11.5,
-      "speedKmh": 762,
-      "heading": 346,
+      "callsign": "WZZ173",
+      "country": "Hungary",
+      "lat": 52.1277,
+      "lon": 13.2986,
+      "altKm": 2.0,
+      "speedKmh": 515,
+      "heading": 317,
+      "vertRateMs": -8.1,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Kopitnari",
+      "fromIata": "KUT",
+      "toCity": "Wroc\u0142aw",
+      "toIata": "WRO",
+      "category": "plane"
+    },
+    {
+      "callsign": "BTI7HB",
+      "country": "Latvia",
+      "lat": 52.8352,
+      "lon": 13.3297,
+      "altKm": 10.3,
+      "speedKmh": 677,
+      "heading": 263,
       "vertRateMs": 0,
-      "airline": "Austrian Airlines",
-      "airlineCountry": "Austria",
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
+      "airline": "Air Baltic",
+      "airlineCountry": "Latvia",
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "category": "plane"
+    },
+    {
+      "callsign": "RYR91HD",
+      "country": "Poland",
+      "lat": 52.4932,
+      "lon": 13.9163,
+      "altKm": 10.5,
+      "speedKmh": 739,
+      "heading": 270,
+      "vertRateMs": 5.8,
+      "category": "plane"
+    },
+    {
+      "callsign": "NJE635M",
+      "country": "Portugal",
+      "lat": 52.4228,
+      "lon": 13.4148,
+      "altKm": 5.0,
+      "speedKmh": 508,
+      "heading": 253,
+      "vertRateMs": 15.6,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T07:20:30.924406Z"
+  "updated_at": "2026-11-11T07:25:23.851172Z"
 }
