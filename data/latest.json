@@ -1,16 +1,91 @@
 {
   "flights": [
     {
+      "callsign": "EJU48HQ",
+      "country": "Austria",
+      "lat": 52.3271,
+      "lon": 13.5606,
+      "altKm": 1.1,
+      "speedKmh": 304,
+      "heading": 207,
+      "vertRateMs": 5.2,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "category": "plane"
+    },
+    {
+      "callsign": "BCS3906",
+      "country": "Bulgaria",
+      "lat": 52.8837,
+      "lon": 12.7404,
+      "altKm": 10.7,
+      "speedKmh": 832,
+      "heading": 10,
+      "vertRateMs": 4.9,
+      "airline": "European Air Transport",
+      "airlineCountry": "Germany",
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "\u00d6rebro",
+      "toIata": "ORB",
+      "category": "plane"
+    },
+    {
+      "callsign": "WZZ23XV",
+      "country": "Hungary",
+      "lat": 52.87,
+      "lon": 13.5661,
+      "altKm": 10.9,
+      "speedKmh": 720,
+      "heading": 266,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "London",
+      "toIata": "LTN",
+      "category": "plane"
+    },
+    {
+      "callsign": "PAV684",
+      "country": "Germany",
+      "lat": 52.371,
+      "lon": 13.5213,
+      "altKm": 0.1,
+      "speedKmh": 0,
+      "heading": 0,
+      "vertRateMs": 0,
+      "category": "jet"
+    },
+    {
+      "callsign": "CHH489",
+      "country": "China",
+      "lat": 52.7264,
+      "lon": 13.8345,
+      "altKm": 3.4,
+      "speedKmh": 489,
+      "heading": 234,
+      "vertRateMs": -6.5,
+      "airline": "Hainan Airlines",
+      "airlineCountry": "China",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "SXS4YN",
       "country": "Turkey",
-      "lat": 52.1178,
-      "lon": 13.3623,
-      "altKm": 2.0,
-      "speedKmh": 488,
-      "heading": 317,
-      "vertRateMs": -7.8,
+      "lat": 52.3183,
+      "lon": 13.3543,
+      "altKm": 0.5,
+      "speedKmh": 286,
+      "heading": 69,
+      "vertRateMs": -3.9,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T05:05:24.887025Z"
+  "updated_at": "2026-11-11T05:10:31.712619Z"
 }
