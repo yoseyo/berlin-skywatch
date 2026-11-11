@@ -1190,7 +1190,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T07:55:25.016012Z"
+    "checked_at": "2026-11-11T07:50:32.684102Z"
   },
   "BAW974": {
     "route": {
@@ -4169,17 +4169,6 @@
     },
     "checked_at": "2026-11-10T10:25:27.504164Z"
   },
-  "RYR649T": {
-    "route": {
-      "fromCity": "Valencia",
-      "fromIata": "VLC",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T07:45:31.389654Z"
-  },
   "RYR77LL": {
     "route": {
       "fromCity": "London",
@@ -6786,7 +6775,7 @@
       "airlineName": "easyJet",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-09T15:10:35.179941Z"
+    "checked_at": "2026-11-11T07:50:32.684102Z"
   },
   "RYR32FH": {
     "route": {
@@ -9719,5 +9708,27 @@
   "ATV301": {
     "route": null,
     "checked_at": "2026-11-11T07:45:30.246475Z"
+  },
+  "RYR41SQ": {
+    "route": {
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Porto",
+      "toIata": "OPO",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-11T07:50:32.684102Z"
+  },
+  "EJU42DE": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sta Cruz de la Palma, La Palma Island",
+      "toIata": "SPC",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-11T07:50:32.684102Z"
   }
 }
