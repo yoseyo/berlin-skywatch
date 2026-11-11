@@ -320,7 +320,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-10T08:05:25.693022Z"
+    "checked_at": "2026-11-11T08:15:34.125609Z"
   },
   "SWR2HD": {
     "route": {
@@ -1157,7 +1157,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-09T19:25:25.282008Z"
+    "checked_at": "2026-11-11T08:15:34.125609Z"
   },
   "VLG48LZ": {
     "route": {
@@ -5244,7 +5244,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T08:30:45.717927Z"
+    "checked_at": "2026-11-11T08:15:34.125609Z"
   },
   "AUA991A": {
     "route": {
@@ -9627,5 +9627,27 @@
   "AWH95T": {
     "route": null,
     "checked_at": "2026-11-11T08:00:51.524008Z"
+  },
+  "NOS374": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Punta Cana",
+      "toIata": "PUJ",
+      "airlineName": "Neos",
+      "airlineCountry": "Italy"
+    },
+    "checked_at": "2026-11-11T08:15:34.125609Z"
+  },
+  "VJT467": {
+    "route": {
+      "fromCity": "Rome",
+      "fromIata": "CIA",
+      "toCity": "Milan",
+      "toIata": "LIN",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-11T08:15:34.125609Z"
   }
 }
