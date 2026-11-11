@@ -34,7 +34,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-10T11:00:54.789575Z"
+    "checked_at": "2026-11-11T10:05:26.158013Z"
   },
   "AUA995F": {
     "route": {
@@ -397,7 +397,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-10T10:10:41.077910Z"
+    "checked_at": "2026-11-11T10:05:26.158013Z"
   },
   "AEE8RB": {
     "route": {
@@ -3265,17 +3265,6 @@
     },
     "checked_at": "2026-11-09T10:10:33.655537Z"
   },
-  "EJU42WH": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-09T10:05:24.757805Z"
-  },
   "EJU62UA": {
     "route": {
       "fromCity": "Milan",
@@ -4566,17 +4555,6 @@
     },
     "checked_at": "2026-11-10T18:00:54.782737Z"
   },
-  "RYR37BD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Edinburgh",
-      "toIata": "EDI",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T10:05:24.757805Z"
-  },
   "EZY73YT": {
     "route": {
       "fromCity": "Bristol",
@@ -4763,17 +4741,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-09T16:00:54.225629Z"
-  },
-  "EZY63HL": {
-    "route": {
-      "fromCity": "Zakynthos Island",
-      "fromIata": "ZTH",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-09T10:05:24.757805Z"
   },
   "EJU97CN": {
     "route": {
@@ -5257,29 +5224,6 @@
     },
     "checked_at": "2026-11-10T09:25:24.919521Z"
   },
-  "WUK6ZK": {
-    "route": null,
-    "checked_at": "2026-11-09T10:00:57.142478Z"
-  },
-  "RMB3": {
-    "route": null,
-    "checked_at": "2026-11-09T10:00:57.142478Z"
-  },
-  "BFD09K": {
-    "route": null,
-    "checked_at": "2026-11-09T10:00:57.142478Z"
-  },
-  "BTI9TZ": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Barcelona",
-      "toIata": "BCN",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-09T10:00:57.142478Z"
-  },
   "EUL5R": {
     "route": {
       "fromCity": "Bristol",
@@ -5290,17 +5234,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-10T08:15:33.073521Z"
-  },
-  "RYR55SQ": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WMI",
-      "toCity": "Birmingham",
-      "toIata": "BHX",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T10:05:24.757805Z"
   },
   "ASL19Z": {
     "route": {
@@ -7872,7 +7805,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T10:25:27.504164Z"
+    "checked_at": "2026-11-11T10:05:26.158013Z"
   },
   "RYR99AN": {
     "route": null,
@@ -9336,5 +9269,27 @@
       "airlineCountry": "Latvia"
     },
     "checked_at": "2026-11-11T10:00:49.922170Z"
+  },
+  "CFG3YU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-11T10:05:26.158013Z"
+  },
+  "VJT407": {
+    "route": {
+      "fromCity": "Salzburg",
+      "fromIata": "SZG",
+      "toCity": "Ibiza",
+      "toIata": "IBZ",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-11T10:05:26.158013Z"
   }
 }
