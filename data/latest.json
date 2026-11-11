@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-11T07:15:29.898294Z"
+  "flights": [
+    {
+      "callsign": "AUA991A",
+      "country": "Austria",
+      "lat": 52.5574,
+      "lon": 13.7689,
+      "altKm": 11.5,
+      "speedKmh": 762,
+      "heading": 346,
+      "vertRateMs": 0,
+      "airline": "Austrian Airlines",
+      "airlineCountry": "Austria",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Copenhagen",
+      "toIata": "CPH",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-11T07:20:30.924406Z"
 }
