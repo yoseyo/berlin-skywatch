@@ -3928,7 +3928,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-10T08:20:35.435994Z"
+    "checked_at": "2026-11-11T07:30:46.175219Z"
   },
   "SAS1665": {
     "route": {
@@ -9667,5 +9667,16 @@
   "NJE635M": {
     "route": null,
     "checked_at": "2026-11-11T07:25:23.851172Z"
+  },
+  "FIN1AB": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-11T07:30:46.175219Z"
   }
 }
