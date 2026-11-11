@@ -1546,7 +1546,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-10T12:45:29.519966Z"
+    "checked_at": "2026-11-11T12:10:31.642808Z"
   },
   "DLH4CT": {
     "route": {
@@ -3051,17 +3051,6 @@
     },
     "checked_at": "2026-11-11T10:25:25.419710Z"
   },
-  "TAP31EL": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Lisbon",
-      "toIata": "LIS",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-11-09T12:05:25.317546Z"
-  },
   "CCA939": {
     "route": {
       "fromCity": "Beijing",
@@ -3906,7 +3895,7 @@
       "airlineName": "Qatar Airways",
       "airlineCountry": "Qatar"
     },
-    "checked_at": "2026-11-10T12:30:47.395632Z"
+    "checked_at": "2026-11-11T12:10:31.642808Z"
   },
   "EWG4LK": {
     "route": {
@@ -5203,7 +5192,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T12:10:33.397353Z"
+    "checked_at": "2026-11-11T12:10:31.642808Z"
   },
   "WZZ58": {
     "route": {
@@ -8915,5 +8904,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-11T12:00:50.965408Z"
+  },
+  "LOT29": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Miami",
+      "toIata": "MIA",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-11T12:10:31.642808Z"
   }
 }
