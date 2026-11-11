@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-11T01:10:30.579063Z"
+  "flights": [
+    {
+      "callsign": "THY4",
+      "country": "Turkey",
+      "lat": 52.745,
+      "lon": 13.598,
+      "altKm": 10.6,
+      "speedKmh": 952,
+      "heading": 134,
+      "vertRateMs": 0,
+      "airline": "Turkish Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "New York",
+      "fromIata": "JFK",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-11T01:15:28.915243Z"
 }
