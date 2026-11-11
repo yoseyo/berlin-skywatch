@@ -5218,7 +5218,7 @@
       "airlineName": "Star Air",
       "airlineCountry": "Denmark"
     },
-    "checked_at": "2026-11-10T04:25:23.506351Z"
+    "checked_at": "2026-11-11T04:25:23.937993Z"
   },
   "NJE700E": {
     "route": null,
@@ -9749,5 +9749,16 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-11T04:10:32.785289Z"
+  },
+  "BCS3612": {
+    "route": {
+      "fromCity": "Leipzig",
+      "fromIata": "LEJ",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-11T04:25:23.937993Z"
   }
 }
