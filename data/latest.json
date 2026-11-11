@@ -1,4 +1,33 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-11T04:00:50.428606Z"
+  "flights": [
+    {
+      "callsign": "AEG6912",
+      "country": "Estonia",
+      "lat": 52.2035,
+      "lon": 13.7821,
+      "altKm": 5.8,
+      "speedKmh": 570,
+      "heading": 64,
+      "vertRateMs": -0.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "CCA839",
+      "country": "China",
+      "lat": 52.3637,
+      "lon": 14.0175,
+      "altKm": 11.5,
+      "speedKmh": 827,
+      "heading": 221,
+      "vertRateMs": 0,
+      "airline": "Air China",
+      "airlineCountry": "China",
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-11T04:05:24.630344Z"
 }
