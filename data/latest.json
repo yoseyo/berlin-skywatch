@@ -1,4 +1,31 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-11T21:40:33.143273Z"
+  "flights": [
+    {
+      "callsign": "AEG6911",
+      "country": "Estonia",
+      "lat": 52.287,
+      "lon": 13.8924,
+      "altKm": 5.4,
+      "speedKmh": 439,
+      "heading": 254,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
+      "callsign": "DINFO",
+      "country": "Germany",
+      "lat": 52.1573,
+      "lon": 12.923,
+      "altKm": 1.8,
+      "speedKmh": 460,
+      "heading": 48,
+      "vertRateMs": -6.5,
+      "fromCity": "Mainz",
+      "fromIata": null,
+      "toCity": "T\u00f8nder",
+      "toIata": null,
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-11T21:45:31.236866Z"
 }

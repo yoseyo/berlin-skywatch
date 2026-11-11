@@ -4917,18 +4917,7 @@
   },
   "AEG6911": {
     "route": null,
-    "checked_at": "2026-11-10T23:05:25.532201Z"
-  },
-  "BCS4VA": {
-    "route": {
-      "fromCity": "Leipzig",
-      "fromIata": "LEJ",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "European Air Transport",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T21:40:33.861944Z"
+    "checked_at": "2026-11-11T21:45:31.236866Z"
   },
   "WZZ4133": {
     "route": {
@@ -8209,5 +8198,16 @@
   "RYR45GY": {
     "route": null,
     "checked_at": "2026-11-11T21:35:25.321739Z"
+  },
+  "DINFO": {
+    "route": {
+      "fromCity": "Mainz",
+      "fromIata": null,
+      "toCity": "T\u00f8nder",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-11T21:45:31.236866Z"
   }
 }
