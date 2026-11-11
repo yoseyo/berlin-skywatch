@@ -1619,7 +1619,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-10T14:35:26.452464Z"
+    "checked_at": "2026-11-11T14:45:33.667574Z"
   },
   "DLH3CE": {
     "route": {
@@ -2821,7 +2821,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-10T14:35:26.452464Z"
+    "checked_at": "2026-11-11T14:45:33.667574Z"
   },
   "SXS4FN": {
     "route": {
@@ -5081,25 +5081,6 @@
     },
     "checked_at": "2026-11-10T14:40:34.960035Z"
   },
-  "NSZ5651": {
-    "route": {
-      "fromCity": "Helsinki",
-      "fromIata": "HEL",
-      "toCity": "Palma De Mallorca",
-      "toIata": "PMI",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-09T14:40:35.757258Z"
-  },
-  "VJH715": {
-    "route": null,
-    "checked_at": "2026-11-09T14:40:35.757258Z"
-  },
-  "UAG65F": {
-    "route": null,
-    "checked_at": "2026-11-09T14:40:35.757258Z"
-  },
   "ELG3D": {
     "route": {
       "fromCity": "We\u00dfling",
@@ -5110,17 +5091,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-10T08:00:54.174888Z"
-  },
-  "EZS1569": {
-    "route": {
-      "fromCity": "Geneva",
-      "fromIata": "GVA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Easyjet Switzerland",
-      "airlineCountry": "Switzerland"
-    },
-    "checked_at": "2026-11-09T14:45:31.409554Z"
   },
   "N555DT": {
     "route": null,
@@ -8718,5 +8688,16 @@
   "DCROW": {
     "route": null,
     "checked_at": "2026-11-11T14:40:33.936498Z"
+  },
+  "RYR7YR": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-11T14:45:33.667574Z"
   }
 }
