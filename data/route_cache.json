@@ -2366,7 +2366,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T15:00:56.383479Z"
+    "checked_at": "2026-11-11T15:02:09.313449Z"
   },
   "LOT6NK": {
     "route": {
@@ -3057,17 +3057,6 @@
       "airlineCountry": "United States"
     },
     "checked_at": "2026-11-10T09:05:24.535408Z"
-  },
-  "RYR2WX": {
-    "route": {
-      "fromCity": "Newcastle",
-      "fromIata": "NCL",
-      "toCity": "Dublin",
-      "toIata": "DUB",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T14:55:25.206669Z"
   },
   "WZZ9327": {
     "route": null,
@@ -8710,5 +8699,16 @@
   "N422SS": {
     "route": null,
     "checked_at": "2026-11-11T14:55:24.189476Z"
+  },
+  "EJU14HZ": {
+    "route": {
+      "fromCity": "Giza",
+      "fromIata": "SPX",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-11T15:02:09.313449Z"
   }
 }
