@@ -1370,7 +1370,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-10T09:20:33.908642Z"
+    "checked_at": "2026-11-11T10:15:31.175637Z"
   },
   "AFR12AR": {
     "route": {
@@ -1381,7 +1381,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-10T11:10:34.439093Z"
+    "checked_at": "2026-11-11T10:15:31.175637Z"
   },
   "IBE07AZ": {
     "route": {
@@ -2414,7 +2414,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-10T10:15:33.582455Z"
+    "checked_at": "2026-11-11T10:15:31.175637Z"
   },
   "DLH1MF": {
     "route": {
@@ -3842,17 +3842,6 @@
     },
     "checked_at": "2026-11-09T17:10:35.081488Z"
   },
-  "PGT8AE": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-09T10:13:31.883454Z"
-  },
   "RYR47HV": {
     "route": {
       "fromCity": "Gothenburg",
@@ -5234,17 +5223,6 @@
       "airlineCountry": "Israel"
     },
     "checked_at": "2026-11-11T10:00:49.922170Z"
-  },
-  "CFG2FR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T10:13:31.883454Z"
   },
   "AEE4ED": {
     "route": {
@@ -9269,5 +9247,16 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-11T10:05:26.158013Z"
+  },
+  "NSZ4505": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-11T10:15:31.175637Z"
   }
 }
