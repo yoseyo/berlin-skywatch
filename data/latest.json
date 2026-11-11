@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "THY4QH",
+      "country": "Turkey",
+      "lat": 52.3571,
+      "lon": 13.5374,
+      "altKm": 0.4,
+      "speedKmh": 302,
+      "heading": 113,
+      "vertRateMs": 10.7,
+      "airline": "Turkish Airlines",
+      "airlineCountry": "Turkey",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Arnavutk\u00f6y, Istanbul",
+      "toIata": "IST",
+      "category": "plane"
+    },
+    {
       "callsign": "BAW8RM",
       "country": "United Kingdom",
-      "lat": 52.3492,
-      "lon": 13.5484,
-      "altKm": 0.7,
-      "speedKmh": 226,
-      "heading": 145,
-      "vertRateMs": 14.3,
+      "lat": 52.2778,
+      "lon": 13.1127,
+      "altKm": 5.8,
+      "speedKmh": 546,
+      "heading": 274,
+      "vertRateMs": 26.0,
       "airline": "British Airways",
       "airlineCountry": "United Kingdom",
       "fromCity": "Berlin",
@@ -18,22 +35,16 @@
       "category": "plane"
     },
     {
-      "callsign": "KLC80U",
-      "country": "Kingdom of the Netherlands",
-      "lat": 52.4909,
-      "lon": 13.1233,
-      "altKm": 9.7,
-      "speedKmh": 658,
-      "heading": 268,
-      "vertRateMs": 0,
-      "airline": "KLM Cityhopper",
-      "airlineCountry": "Netherlands",
-      "fromCity": "Pozna\u0144",
-      "fromIata": "POZ",
-      "toCity": "Amsterdam",
-      "toIata": "AMS",
+      "callsign": "CFG553",
+      "country": "Germany",
+      "lat": 52.2359,
+      "lon": 13.1307,
+      "altKm": 1.0,
+      "speedKmh": 437,
+      "heading": 359,
+      "vertRateMs": -4.9,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T05:45:32.040073Z"
+  "updated_at": "2026-11-11T05:50:31.703784Z"
 }
