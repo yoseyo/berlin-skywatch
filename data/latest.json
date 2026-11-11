@@ -1,25 +1,31 @@
 {
   "flights": [
     {
-      "callsign": "CHX100",
-      "country": "Germany",
-      "lat": 52.6298,
-      "lon": 13.5116,
-      "altKm": 0.1,
-      "speedKmh": 11,
-      "heading": 180,
-      "vertRateMs": -2.3,
+      "callsign": "EJU93VY",
+      "country": "Austria",
+      "lat": 52.36,
+      "lon": 13.5445,
+      "altKm": 0.4,
+      "speedKmh": 268,
+      "heading": 102,
+      "vertRateMs": 8.1,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "B\u00e2le/Mulhouse",
+      "toIata": "BSL",
       "category": "plane"
     },
     {
       "callsign": "DLH7HM",
       "country": "Germany",
-      "lat": 52.382,
-      "lon": 13.5468,
-      "altKm": 0.4,
-      "speedKmh": 305,
-      "heading": 70,
-      "vertRateMs": 7.2,
+      "lat": 52.4048,
+      "lon": 13.3588,
+      "altKm": 3.7,
+      "speedKmh": 711,
+      "heading": 232,
+      "vertRateMs": 9.8,
       "airline": "Lufthansa",
       "airlineCountry": "Germany",
       "fromCity": "Berlin",
@@ -29,5 +35,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T18:20:34.243303Z"
+  "updated_at": "2026-11-11T18:25:26.068779Z"
 }
