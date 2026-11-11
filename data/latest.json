@@ -1,14 +1,25 @@
 {
   "flights": [
     {
+      "callsign": "WZZ9327",
+      "country": "Hungary",
+      "lat": 52.7409,
+      "lon": 12.8083,
+      "altKm": 10.6,
+      "speedKmh": 910,
+      "heading": 92,
+      "vertRateMs": 0,
+      "category": "plane"
+    },
+    {
       "callsign": "BEL8CE",
       "country": "Belgium",
-      "lat": 52.3158,
-      "lon": 13.2674,
-      "altKm": 0.9,
-      "speedKmh": 356,
+      "lat": 52.3388,
+      "lon": 13.3633,
+      "altKm": 0.6,
+      "speedKmh": 328,
       "heading": 69,
-      "vertRateMs": -1.6,
+      "vertRateMs": -4.5,
       "airline": "Brussels Airlines",
       "airlineCountry": "Belgium",
       "fromCity": "Brussels",
@@ -20,14 +31,14 @@
     {
       "callsign": "NJE267T",
       "country": "Portugal",
-      "lat": 52.4742,
-      "lon": 13.5673,
-      "altKm": 3.4,
-      "speedKmh": 507,
-      "heading": 259,
-      "vertRateMs": 25.7,
+      "lat": 52.4295,
+      "lon": 13.4317,
+      "altKm": 4.9,
+      "speedKmh": 539,
+      "heading": 240,
+      "vertRateMs": 23.1,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T09:54:13.032334Z"
+  "updated_at": "2026-11-11T09:55:24.690046Z"
 }
