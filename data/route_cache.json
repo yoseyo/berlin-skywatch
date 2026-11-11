@@ -4210,17 +4210,6 @@
     },
     "checked_at": "2026-11-09T13:40:33.837999Z"
   },
-  "CAI62RH": {
-    "route": {
-      "fromCity": "Antalya",
-      "fromIata": "AYT",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Corendon Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-09T10:20:35.123027Z"
-  },
   "EWG5JW": {
     "route": {
       "fromCity": "Zurich",
@@ -4753,17 +4742,6 @@
     },
     "checked_at": "2026-11-10T20:10:34.259448Z"
   },
-  "EZY36QA": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "easyJet",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-09T10:15:32.574254Z"
-  },
   "EJU42RB": {
     "route": {
       "fromCity": "Sharm el-Sheikh",
@@ -5224,28 +5202,6 @@
     },
     "checked_at": "2026-11-11T10:00:49.922170Z"
   },
-  "AEE4ED": {
-    "route": {
-      "fromCity": "Athens",
-      "fromIata": "ATH",
-      "toCity": "Hamburg",
-      "toIata": "HAM",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-11-09T10:15:32.574254Z"
-  },
-  "MEA226": {
-    "route": {
-      "fromCity": "Copenhagen",
-      "fromIata": "CPH",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-11-09T10:15:32.574254Z"
-  },
   "SAS2678": {
     "route": {
       "fromCity": "Berlin",
@@ -5256,17 +5212,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-10T10:20:37.221168Z"
-  },
-  "LZB319": {
-    "route": {
-      "fromCity": "Sofia",
-      "fromIata": "SOF",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Bulgaria Air",
-      "airlineCountry": "Bulgaria"
-    },
-    "checked_at": "2026-11-09T10:20:35.123027Z"
   },
   "NSZ2041": {
     "route": {
@@ -9258,5 +9203,16 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-11T10:15:31.175637Z"
+  },
+  "EWG38M": {
+    "route": {
+      "fromCity": "Cologne",
+      "fromIata": "CGN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-11T10:20:35.293982Z"
   }
 }
