@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "BEL8YE",
+      "country": "Belgium",
+      "lat": 52.2628,
+      "lon": 13.4583,
+      "altKm": 2.0,
+      "speedKmh": 495,
+      "heading": 257,
+      "vertRateMs": 18.2,
+      "airline": "Brussels Airlines",
+      "airlineCountry": "Belgium",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "category": "plane"
+    },
+    {
       "callsign": "DMS2PV",
       "country": "Lithuania",
-      "lat": 52.1269,
-      "lon": 12.9163,
-      "altKm": 2.1,
-      "speedKmh": 476,
-      "heading": 35,
-      "vertRateMs": -7.5,
+      "lat": 52.312,
+      "lon": 13.2511,
+      "altKm": 1.0,
+      "speedKmh": 312,
+      "heading": 68,
+      "vertRateMs": -4.2,
       "airline": "Diamond Sky",
       "airlineCountry": "Estonia",
       "fromCity": "Saarbr\u00fccken",
@@ -18,14 +35,25 @@
       "category": "plane"
     },
     {
+      "callsign": "SXS5RC",
+      "country": "Turkey",
+      "lat": 52.36,
+      "lon": 13.5282,
+      "altKm": 0.2,
+      "speedKmh": 286,
+      "heading": 68,
+      "vertRateMs": 9.8,
+      "category": "plane"
+    },
+    {
       "callsign": "SWR5XL",
       "country": "Switzerland",
-      "lat": 52.5307,
-      "lon": 13.6882,
-      "altKm": 3.3,
-      "speedKmh": 492,
-      "heading": 345,
-      "vertRateMs": 17.2,
+      "lat": 52.3192,
+      "lon": 13.2049,
+      "altKm": 6.8,
+      "speedKmh": 689,
+      "heading": 212,
+      "vertRateMs": 11.7,
       "airline": "Swiss International Air Lines",
       "airlineCountry": "Switzerland",
       "fromCity": "Berlin",
@@ -35,5 +63,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T06:30:44.134514Z"
+  "updated_at": "2026-11-11T06:35:26.396369Z"
 }
