@@ -606,7 +606,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T14:30:46.026833Z"
+    "checked_at": "2026-11-11T14:20:35.022148Z"
   },
   "KLC42X": {
     "route": {
@@ -3564,7 +3564,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-10T14:15:33.897239Z"
+    "checked_at": "2026-11-11T14:20:35.022148Z"
   },
   "RYR22EH": {
     "route": {
@@ -3895,7 +3895,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T14:20:34.666579Z"
+    "checked_at": "2026-11-11T14:20:35.022148Z"
   },
   "WZZ1NH": {
     "route": {
@@ -5103,25 +5103,6 @@
     "route": null,
     "checked_at": "2026-11-10T14:40:34.960035Z"
   },
-  "CFG5ZR": {
-    "route": {
-      "fromCity": "Frankfurt am Main",
-      "fromIata": "FRA",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T14:15:33.699945Z"
-  },
-  "N76B": {
-    "route": null,
-    "checked_at": "2026-11-09T14:20:33.228363Z"
-  },
-  "DIGRK": {
-    "route": null,
-    "checked_at": "2026-11-09T14:20:33.228363Z"
-  },
   "RYR1GE": {
     "route": {
       "fromCity": "Treviso",
@@ -5372,7 +5353,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T15:35:27.647173Z"
+    "checked_at": "2026-11-11T14:20:35.022148Z"
   },
   "EJU5014": {
     "route": {
@@ -8707,5 +8688,38 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-11T14:10:34.119807Z"
+  },
+  "RYR9503": {
+    "route": {
+      "fromCity": "Bristol",
+      "fromIata": "BRS",
+      "toCity": "Bydgoszcz",
+      "toIata": "BZG",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-11T14:20:35.022148Z"
+  },
+  "CFG6JH": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-11T14:20:35.022148Z"
+  },
+  "IBE07FL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LHR",
+      "toCity": "Madrid",
+      "toIata": "MAD",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-11-11T14:20:35.022148Z"
   }
 }
