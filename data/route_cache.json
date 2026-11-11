@@ -3088,17 +3088,6 @@
     "route": null,
     "checked_at": "2026-11-10T07:20:34.645364Z"
   },
-  "EJU68JA": {
-    "route": {
-      "fromCity": "Edinburgh",
-      "fromIata": "EDI",
-      "toCity": "N\u00e1poli",
-      "toIata": "NAP",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-09T14:50:34.806007Z"
-  },
   "EJU35NQ": {
     "route": {
       "fromCity": "Nantes",
@@ -5092,10 +5081,6 @@
     },
     "checked_at": "2026-11-10T08:00:54.174888Z"
   },
-  "N555DT": {
-    "route": null,
-    "checked_at": "2026-11-09T14:50:34.806007Z"
-  },
   "CFE7026": {
     "route": {
       "fromCity": "Berlin",
@@ -5106,17 +5091,6 @@
       "airlineCountry": "United Kingdom"
     },
     "checked_at": "2026-11-11T13:40:35.252472Z"
-  },
-  "RYR6LZ": {
-    "route": {
-      "fromCity": "N\u00e1poli",
-      "fromIata": "NAP",
-      "toCity": "Wroc\u0142aw",
-      "toIata": "WRO",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T14:50:34.806007Z"
   },
   "EJU19UQ": {
     "route": {
@@ -8721,5 +8695,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-11T14:50:34.316800Z"
+  },
+  "RYR9SE": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Aarhus",
+      "toIata": "AAR",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-11T14:55:24.189476Z"
+  },
+  "N422SS": {
+    "route": null,
+    "checked_at": "2026-11-11T14:55:24.189476Z"
   }
 }
