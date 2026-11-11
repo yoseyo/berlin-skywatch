@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "CHX100",
-      "country": "Germany",
-      "lat": 52.5702,
-      "lon": 13.5268,
-      "altKm": 0.1,
-      "speedKmh": 9,
-      "heading": 191,
-      "vertRateMs": -0.7,
+      "callsign": "RYR9UU",
+      "country": "Malta",
+      "lat": 52.8174,
+      "lon": 13.3432,
+      "altKm": 11.1,
+      "speedKmh": 915,
+      "heading": 89,
+      "vertRateMs": -9.1,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Manchester",
+      "toIata": "MAN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T19:30:46.221430Z"
+  "updated_at": "2026-11-11T19:35:25.047169Z"
 }
