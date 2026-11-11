@@ -5074,32 +5074,6 @@
     },
     "checked_at": "2026-11-10T10:00:54.490582Z"
   },
-  "EWG57T": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Graz (Feldkirchen bei Graz)",
-      "toIata": "GRZ",
-      "airlineName": "Eurowings",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T16:05:26.466509Z"
-  },
-  "AFR25KD": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "Air France",
-      "airlineCountry": "France"
-    },
-    "checked_at": "2026-11-09T16:05:26.466509Z"
-  },
-  "NJE813C": {
-    "route": null,
-    "checked_at": "2026-11-09T16:05:26.466509Z"
-  },
   "WZZ8MD": {
     "route": {
       "fromCity": "Gda\u0144sk",
@@ -8611,5 +8585,16 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-11T16:00:58.376774Z"
+  },
+  "CCA957": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-11T16:05:26.836998Z"
   }
 }
