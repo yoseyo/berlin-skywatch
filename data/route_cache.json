@@ -2399,7 +2399,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-10T16:00:57.744221Z"
+    "checked_at": "2026-11-11T16:25:28.034538Z"
   },
   "SAS2657": {
     "route": {
@@ -3840,7 +3840,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-10T16:25:27.999823Z"
+    "checked_at": "2026-11-11T16:25:28.034538Z"
   },
   "LOT3JK": {
     "route": {
@@ -5073,21 +5073,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-11T14:50:34.316800Z"
-  },
-  "BAW84NT": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "British Airways",
-      "airlineCountry": "United Kingdom"
-    },
-    "checked_at": "2026-11-09T16:25:25.668044Z"
-  },
-  "GAF642": {
-    "route": null,
-    "checked_at": "2026-11-09T16:25:25.668044Z"
   },
   "RYR69NL": {
     "route": null,
@@ -8572,5 +8557,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-11T16:20:33.580407Z"
+  },
+  "BEL5XD": {
+    "route": {
+      "fromCity": "Brussels",
+      "fromIata": "BRU",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "Brussels Airlines",
+      "airlineCountry": "Belgium"
+    },
+    "checked_at": "2026-11-11T16:25:28.034538Z"
+  },
+  "BTI9AG": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Zurich",
+      "toIata": "ZRH",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-11T16:25:28.034538Z"
+  },
+  "EJU69ZE": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-11T16:25:28.034538Z"
   }
 }
