@@ -1,31 +1,14 @@
 {
   "flights": [
     {
-      "callsign": "AUA225B",
-      "country": "Austria",
-      "lat": 52.3293,
-      "lon": 13.4006,
-      "altKm": 0.4,
-      "speedKmh": 230,
-      "heading": 69,
-      "vertRateMs": -3.6,
-      "airline": "Austrian Airlines",
-      "airlineCountry": "Austria",
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
       "callsign": "SAS2677",
       "country": "Ireland",
-      "lat": 52.5915,
-      "lon": 13.1182,
-      "altKm": 2.9,
-      "speedKmh": 525,
-      "heading": 183,
-      "vertRateMs": -4.5,
+      "lat": 52.2931,
+      "lon": 13.1921,
+      "altKm": 0.9,
+      "speedKmh": 335,
+      "heading": 89,
+      "vertRateMs": 0.3,
       "airline": "Scandinavian Airlines System",
       "airlineCountry": "Sweden",
       "fromCity": "Stockholm",
@@ -35,14 +18,31 @@
       "category": "plane"
     },
     {
+      "callsign": "RYR8KD",
+      "country": "Ireland",
+      "lat": 52.1591,
+      "lon": 12.9064,
+      "altKm": 2.2,
+      "speedKmh": 510,
+      "heading": 52,
+      "vertRateMs": -2.9,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Marseille",
+      "toIata": "MRS",
+      "category": "plane"
+    },
+    {
       "callsign": "HOP23TP",
       "country": "France",
-      "lat": 52.3127,
-      "lon": 13.5434,
-      "altKm": 1.1,
-      "speedKmh": 360,
-      "heading": 220,
-      "vertRateMs": 2.6,
+      "lat": 52.2227,
+      "lon": 12.9929,
+      "altKm": 4.8,
+      "speedKmh": 520,
+      "heading": 255,
+      "vertRateMs": 11.1,
       "airline": "Air France Hop",
       "airlineCountry": "France",
       "fromCity": "Berlin",
@@ -52,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T09:20:33.516583Z"
+  "updated_at": "2026-11-11T09:25:28.486841Z"
 }
