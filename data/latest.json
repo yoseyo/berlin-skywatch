@@ -1,33 +1,33 @@
 {
   "flights": [
     {
-      "callsign": "PGT1617",
-      "country": "Turkey",
-      "lat": 52.17,
-      "lon": 13.2513,
-      "altKm": 1.5,
-      "speedKmh": 452,
-      "heading": 319,
-      "vertRateMs": -4.5,
-      "category": "plane"
-    },
-    {
-      "callsign": "SRR6228",
-      "country": "Denmark",
-      "lat": 52.341,
-      "lon": 13.3725,
-      "altKm": 0.5,
-      "speedKmh": 269,
-      "heading": 69,
-      "vertRateMs": -4.2,
-      "airline": "Star Air",
-      "airlineCountry": "Denmark",
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
+      "callsign": "ADZ4006",
+      "country": "Bulgaria",
+      "lat": 52.1442,
+      "lon": 12.8784,
+      "altKm": 3.0,
+      "speedKmh": 667,
+      "heading": 45,
+      "vertRateMs": -13,
+      "airline": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
+    },
+    {
+      "callsign": "PGT1617",
+      "country": "Turkey",
+      "lat": 52.3412,
+      "lon": 13.3736,
+      "altKm": 0.5,
+      "speedKmh": 260,
+      "heading": 69,
+      "vertRateMs": -4.9,
+      "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T04:30:42.068275Z"
+  "updated_at": "2026-11-11T04:35:23.388590Z"
 }
