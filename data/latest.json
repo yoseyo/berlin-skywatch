@@ -1,22 +1,55 @@
 {
   "flights": [
     {
-      "callsign": "RYR9UU",
+      "callsign": "FIN7AX",
+      "country": "Finland",
+      "lat": 52.8018,
+      "lon": 12.7655,
+      "altKm": 11.2,
+      "speedKmh": 845,
+      "heading": 34,
+      "vertRateMs": -0.3,
+      "category": "plane"
+    },
+    {
+      "callsign": "DMS2LW",
+      "country": "Lithuania",
+      "lat": 52.3997,
+      "lon": 13.6156,
+      "altKm": 0.9,
+      "speedKmh": 292,
+      "heading": 73,
+      "vertRateMs": 11.1,
+      "airline": "Diamond Sky",
+      "airlineCountry": "Estonia",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Saarbr\u00fccken",
+      "toIata": "SCN",
+      "category": "plane"
+    },
+    {
+      "callsign": "AGR943",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.4117,
+      "lon": 13.395,
+      "altKm": 4.0,
+      "speedKmh": 514,
+      "heading": 257,
+      "vertRateMs": 8.8,
+      "category": "plane"
+    },
+    {
+      "callsign": "KMM376",
       "country": "Malta",
-      "lat": 52.8174,
-      "lon": 13.3432,
-      "altKm": 11.1,
-      "speedKmh": 915,
-      "heading": 89,
-      "vertRateMs": -9.1,
-      "airline": "Ryanair",
-      "airlineCountry": "Ireland",
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Manchester",
-      "toIata": "MAN",
+      "lat": 52.2421,
+      "lon": 13.1731,
+      "altKm": 1.1,
+      "speedKmh": 445,
+      "heading": 31,
+      "vertRateMs": -3.6,
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T19:35:25.047169Z"
+  "updated_at": "2026-11-11T19:40:34.901836Z"
 }
