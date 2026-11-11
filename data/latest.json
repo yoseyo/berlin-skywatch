@@ -1,16 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "AEG6911",
-      "country": "Estonia",
-      "lat": 52.1088,
-      "lon": 12.8759,
-      "altKm": 5.4,
-      "speedKmh": 440,
-      "heading": 254,
+      "callsign": "DLH7CT",
+      "country": "Germany",
+      "lat": 52.5468,
+      "lon": 13.5514,
+      "altKm": 10.6,
+      "speedKmh": 905,
+      "heading": 55,
       "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Valletta",
+      "fromIata": "MLA",
+      "toCity": "Munich",
+      "toIata": "MUC",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T21:55:23.272857Z"
+  "updated_at": "2026-11-11T22:00:52.858884Z"
 }
