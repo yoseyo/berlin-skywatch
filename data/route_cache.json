@@ -2997,7 +2997,7 @@
       "airlineName": "Aer Lingus",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-09T19:20:32.929026Z"
+    "checked_at": "2026-11-11T19:00:51.168204Z"
   },
   "EWG1KG": {
     "route": {
@@ -3793,17 +3793,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-11T16:15:31.430032Z"
-  },
-  "RYR8HW": {
-    "route": {
-      "fromCity": "Dublin",
-      "fromIata": "DUB",
-      "toCity": "Cagliari",
-      "toIata": "CAG",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T18:55:25.665026Z"
   },
   "EWG8MF": {
     "route": {
@@ -5006,7 +4995,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T18:25:25.928262Z"
+    "checked_at": "2026-11-11T19:00:51.168204Z"
   },
   "BTI4UJ": {
     "route": {
@@ -8374,5 +8363,38 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-11T18:55:24.240563Z"
+  },
+  "RYR64HG": {
+    "route": {
+      "fromCity": "Manchester",
+      "fromIata": "MAN",
+      "toCity": "Warsaw",
+      "toIata": "WMI",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-11T19:00:51.168204Z"
+  },
+  "EJU79NE": {
+    "route": {
+      "fromCity": "Barcelona",
+      "fromIata": "BCN",
+      "toCity": "London",
+      "toIata": "LGW",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-11T19:00:51.168204Z"
+  },
+  "LOT2CF": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-11T19:00:51.168204Z"
   }
 }
