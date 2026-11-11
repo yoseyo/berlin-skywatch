@@ -845,7 +845,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T12:20:33.127426Z"
+    "checked_at": "2026-11-11T12:30:44.068308Z"
   },
   "CFE61X": {
     "route": {
@@ -1542,7 +1542,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T12:50:33.433577Z"
+    "checked_at": "2026-11-11T12:30:44.068308Z"
   },
   "DLH9EP": {
     "route": {
@@ -8842,5 +8842,20 @@
   "BPO508": {
     "route": null,
     "checked_at": "2026-11-11T12:20:31.818807Z"
+  },
+  "DFICE": {
+    "route": null,
+    "checked_at": "2026-11-11T12:30:44.068308Z"
+  },
+  "TAP31EL": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "airlineName": "TAP Portugal",
+      "airlineCountry": "Portugal"
+    },
+    "checked_at": "2026-11-11T12:30:44.068308Z"
   }
 }
