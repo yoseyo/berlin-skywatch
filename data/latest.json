@@ -1,39 +1,22 @@
 {
   "flights": [
     {
-      "callsign": "ADZ4006",
-      "country": "Bulgaria",
-      "lat": 52.3442,
-      "lon": 13.3867,
-      "altKm": 0.5,
-      "speedKmh": 267,
-      "heading": 69,
-      "vertRateMs": -4.5,
-      "airline": "Compass Cargo Airlines",
-      "airlineCountry": "Bulgaria",
-      "fromCity": "Paris",
-      "fromIata": "CDG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "category": "plane"
-    },
-    {
-      "callsign": "CCA967",
+      "callsign": "CCA845",
       "country": "China",
-      "lat": 52.3007,
-      "lon": 13.8976,
-      "altKm": 11.4,
-      "speedKmh": 819,
+      "lat": 52.1508,
+      "lon": 13.6376,
+      "altKm": 11.5,
+      "speedKmh": 825,
       "heading": 224,
-      "vertRateMs": 0,
+      "vertRateMs": -0.3,
       "airline": "Air China",
       "airlineCountry": "China",
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Milan",
-      "toIata": "MXP",
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-11T04:40:30.740881Z"
+  "updated_at": "2026-11-11T04:45:30.226247Z"
 }

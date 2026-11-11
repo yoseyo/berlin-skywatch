@@ -5220,10 +5220,6 @@
     },
     "checked_at": "2026-11-11T04:25:23.937993Z"
   },
-  "NJE700E": {
-    "route": null,
-    "checked_at": "2026-11-09T04:40:32.247799Z"
-  },
   "HLF8818": {
     "route": {
       "fromCity": "Paris",
@@ -9775,5 +9771,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-11T04:40:30.740881Z"
+  },
+  "CCA845": {
+    "route": {
+      "fromCity": "Beijing",
+      "fromIata": "PEK",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-11T04:45:30.226247Z"
   }
 }
