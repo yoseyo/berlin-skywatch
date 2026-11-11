@@ -430,7 +430,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T10:30:45.654731Z"
+    "checked_at": "2026-11-11T10:25:25.419710Z"
   },
   "LOT3JA": {
     "route": {
@@ -1348,7 +1348,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-10T09:55:25.167055Z"
+    "checked_at": "2026-11-11T10:25:25.419710Z"
   },
   "RYR8KD": {
     "route": {
@@ -3060,7 +3060,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-09T10:40:42.654108Z"
+    "checked_at": "2026-11-11T10:25:25.419710Z"
   },
   "TAP31EL": {
     "route": {
@@ -5212,32 +5212,6 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-10T10:20:37.221168Z"
-  },
-  "NSZ2041": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Norwegian Air Sweden AOC",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-09T10:25:24.490233Z"
-  },
-  "PWF178": {
-    "route": {
-      "fromCity": "Dresden",
-      "fromIata": "DRS",
-      "toCity": "Manching",
-      "toIata": "IGS",
-      "airlineName": "Private Wings Flugcharter",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-09T10:25:24.490233Z"
-  },
-  "DEGBD": {
-    "route": null,
-    "checked_at": "2026-11-09T10:25:24.490233Z"
   },
   "NSZ5NE": {
     "route": {
@@ -9214,5 +9188,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-11T10:20:35.293982Z"
+  },
+  "EJU14KB": {
+    "route": {
+      "fromCity": "Split",
+      "fromIata": "SPU",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-11T10:25:25.419710Z"
   }
 }
