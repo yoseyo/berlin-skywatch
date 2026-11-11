@@ -1212,7 +1212,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T08:45:31.470505Z"
+    "checked_at": "2026-11-11T08:55:25.425635Z"
   },
   "WZZ1HL": {
     "route": {
@@ -3128,17 +3128,6 @@
     },
     "checked_at": "2026-11-09T19:20:32.929026Z"
   },
-  "RYR9UU": {
-    "route": {
-      "fromCity": "Budapest",
-      "fromIata": "BUD",
-      "toCity": "Manchester",
-      "toIata": "MAN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T08:55:25.008583Z"
-  },
   "EWG1KG": {
     "route": {
       "fromCity": "Lyon",
@@ -3763,7 +3752,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-09T20:30:44.324928Z"
+    "checked_at": "2026-11-11T08:55:25.425635Z"
   },
   "RYR4BP": {
     "route": {
@@ -5230,10 +5219,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-10T15:30:46.484382Z"
-  },
-  "ATV104": {
-    "route": null,
-    "checked_at": "2026-11-09T08:55:25.008583Z"
   },
   "MMF53": {
     "route": null,
@@ -9531,5 +9516,31 @@
       "airlineCountry": "Malta"
     },
     "checked_at": "2026-11-11T08:35:25.690135Z"
+  },
+  "PGT72PN": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-11T08:55:25.425635Z"
+  },
+  "ECA3NT": {
+    "route": {
+      "fromCity": "M\u00f6nchengladbach",
+      "fromIata": "MGL",
+      "toCity": "Gibraltar",
+      "toIata": "GIB",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-11T08:55:25.425635Z"
+  },
+  "ATV302": {
+    "route": null,
+    "checked_at": "2026-11-11T08:55:25.425635Z"
   }
 }
