@@ -474,7 +474,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-10T11:30:45.155477Z"
+    "checked_at": "2026-11-11T11:20:31.760504Z"
   },
   "AEE2WD": {
     "route": {
@@ -1403,7 +1403,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-10T11:55:23.848063Z"
+    "checked_at": "2026-11-11T11:20:31.760504Z"
   },
   "TKJ2BK": {
     "route": {
@@ -3187,10 +3187,6 @@
     },
     "checked_at": "2026-11-09T15:55:26.357016Z"
   },
-  "WUK7877": {
-    "route": null,
-    "checked_at": "2026-11-09T11:15:32.054390Z"
-  },
   "RYR18HB": {
     "route": null,
     "checked_at": "2026-11-10T07:20:34.645364Z"
@@ -3794,17 +3790,6 @@
     },
     "checked_at": "2026-11-10T14:10:33.703618Z"
   },
-  "RYR99FB": {
-    "route": {
-      "fromCity": "Cologne",
-      "fromIata": "CGN",
-      "toCity": "Kaunas",
-      "toIata": "KUN",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T11:15:32.054390Z"
-  },
   "PGT61NK": {
     "route": null,
     "checked_at": "2026-11-09T11:50:31.292802Z"
@@ -3932,7 +3917,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-10T10:15:33.582455Z"
+    "checked_at": "2026-11-11T11:20:31.760504Z"
   },
   "DMTWH": {
     "route": null,
@@ -5186,32 +5171,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-10T11:25:25.426593Z"
-  },
-  "UBD446": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Arbil",
-      "toIata": "EBL",
-      "airlineName": "United Airways",
-      "airlineCountry": "Bangladesh"
-    },
-    "checked_at": "2026-11-09T11:15:32.054390Z"
-  },
-  "SPWBH": {
-    "route": null,
-    "checked_at": "2026-11-09T11:15:32.054390Z"
-  },
-  "RYR18LZ": {
-    "route": {
-      "fromCity": "Paisley, Renfrewshire",
-      "fromIata": "GLA",
-      "toCity": "Krak\u00f3w",
-      "toIata": "KRK",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-09T11:15:32.054390Z"
   },
   "ISR253": {
     "route": {
@@ -9037,5 +8996,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-11T11:15:31.312386Z"
+  },
+  "THY1CU": {
+    "route": {
+      "fromCity": "Arnavutk\u00f6y, Istanbul",
+      "fromIata": "IST",
+      "toCity": "Dublin",
+      "toIata": "DUB",
+      "airlineName": "Turkish Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-11T11:20:31.760504Z"
   }
 }
