@@ -2860,17 +2860,6 @@
     },
     "checked_at": "2026-11-10T20:20:33.631526Z"
   },
-  "CHH489": {
-    "route": {
-      "fromCity": "Beijing",
-      "fromIata": "PEK",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Hainan Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-09T05:00:51.838772Z"
-  },
   "BAW8RM": {
     "route": {
       "fromCity": "Berlin",
@@ -9782,5 +9771,16 @@
       "airlineCountry": "China"
     },
     "checked_at": "2026-11-11T04:45:30.226247Z"
+  },
+  "BCS5780": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "European Air Transport",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-11T05:00:52.885282Z"
   }
 }
