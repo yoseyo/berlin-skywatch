@@ -1,35 +1,29 @@
 {
   "flights": [
     {
-      "callsign": "BTI83L",
-      "country": "Latvia",
-      "lat": 52.7035,
-      "lon": 12.85,
-      "altKm": 10.3,
-      "speedKmh": 753,
-      "heading": 224,
-      "vertRateMs": 0,
-      "airline": "Air Baltic",
-      "airlineCountry": "Latvia",
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
+      "callsign": "BMW55",
+      "country": "Germany",
+      "lat": 52.3925,
+      "lon": 13.5928,
+      "altKm": 1.5,
+      "speedKmh": 409,
+      "heading": 77,
+      "vertRateMs": 24.1,
       "category": "plane"
     },
     {
-      "callsign": "AUA223B",
+      "callsign": "EJU54BP",
       "country": "Austria",
-      "lat": 52.2938,
-      "lon": 13.2486,
+      "lat": 52.2762,
+      "lon": 13.1786,
       "altKm": 1.0,
-      "speedKmh": 401,
-      "heading": 73,
-      "vertRateMs": -7.5,
-      "airline": "Austrian Airlines",
+      "speedKmh": 387,
+      "heading": 67,
+      "vertRateMs": -2.9,
+      "airline": "easyJet Europe",
       "airlineCountry": "Austria",
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
       "toCity": "Berlin",
       "toIata": "BER",
       "category": "plane"
@@ -37,14 +31,14 @@
     {
       "callsign": "DICMK",
       "country": "Germany",
-      "lat": 52.5914,
-      "lon": 13.9371,
+      "lat": 52.5885,
+      "lon": 13.932,
       "altKm": 0.2,
       "speedKmh": 198,
       "heading": 227,
-      "vertRateMs": -3.6,
+      "vertRateMs": -3.2,
       "category": "jet"
     }
   ],
-  "updated_at": "2026-11-11T07:05:25.175965Z"
+  "updated_at": "2026-11-11T07:10:30.723371Z"
 }
