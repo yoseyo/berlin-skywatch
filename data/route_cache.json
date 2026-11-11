@@ -5043,7 +5043,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T17:30:43.286412Z"
+    "checked_at": "2026-11-11T17:20:34.246979Z"
   },
   "EJU9334": {
     "route": {
@@ -6990,7 +6990,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-10T17:25:25.319548Z"
+    "checked_at": "2026-11-11T17:20:34.246979Z"
   },
   "LOT9004": {
     "route": {
@@ -8503,5 +8503,16 @@
   "AWH91B": {
     "route": null,
     "checked_at": "2026-11-11T17:15:33.600966Z"
+  },
+  "ISR256": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Tel Aviv",
+      "toIata": "TLV",
+      "airlineName": "Israir Airlines",
+      "airlineCountry": "Israel"
+    },
+    "checked_at": "2026-11-11T17:20:34.246979Z"
   }
 }
