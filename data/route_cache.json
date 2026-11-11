@@ -5318,7 +5318,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T07:05:25.902204Z"
+    "checked_at": "2026-11-11T07:05:25.175965Z"
   },
   "LOT4HW": {
     "route": {
@@ -9722,5 +9722,16 @@
   "DICMK": {
     "route": null,
     "checked_at": "2026-11-11T06:50:33.199096Z"
+  },
+  "BTI83L": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-11T07:05:25.175965Z"
   }
 }

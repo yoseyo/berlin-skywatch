@@ -1,16 +1,50 @@
 {
   "flights": [
     {
+      "callsign": "BTI83L",
+      "country": "Latvia",
+      "lat": 52.7035,
+      "lon": 12.85,
+      "altKm": 10.3,
+      "speedKmh": 753,
+      "heading": 224,
+      "vertRateMs": 0,
+      "airline": "Air Baltic",
+      "airlineCountry": "Latvia",
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "category": "plane"
+    },
+    {
+      "callsign": "AUA223B",
+      "country": "Austria",
+      "lat": 52.2938,
+      "lon": 13.2486,
+      "altKm": 1.0,
+      "speedKmh": 401,
+      "heading": 73,
+      "vertRateMs": -7.5,
+      "airline": "Austrian Airlines",
+      "airlineCountry": "Austria",
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "DICMK",
       "country": "Germany",
-      "lat": 52.7638,
-      "lon": 14.0857,
-      "altKm": 1.1,
-      "speedKmh": 396,
-      "heading": 124,
-      "vertRateMs": 0,
+      "lat": 52.5914,
+      "lon": 13.9371,
+      "altKm": 0.2,
+      "speedKmh": 198,
+      "heading": 227,
+      "vertRateMs": -3.6,
       "category": "jet"
     }
   ],
-  "updated_at": "2026-11-11T07:00:52.483498Z"
+  "updated_at": "2026-11-11T07:05:25.175965Z"
 }
