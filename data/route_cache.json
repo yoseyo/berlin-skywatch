@@ -801,7 +801,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-11T09:30:43.833268Z"
+    "checked_at": "2026-11-12T09:40:32.952377Z"
   },
   "FIN3YX": {
     "route": {
@@ -4081,7 +4081,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-11T09:20:33.516583Z"
+    "checked_at": "2026-11-12T09:40:32.952377Z"
   },
   "DFEFY": {
     "route": {
@@ -8266,5 +8266,27 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-12T09:30:43.781535Z"
+  },
+  "RYR20XA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Alicante",
+      "toIata": "ALC",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T09:40:32.952377Z"
+  },
+  "AEE4773": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Rhodes Island",
+      "toIata": "RHO",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-12T09:40:32.952377Z"
   }
 }
