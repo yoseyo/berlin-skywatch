@@ -1,4 +1,22 @@
 {
-  "flights": [],
-  "updated_at": "2026-11-12T04:55:23.707232Z"
+  "flights": [
+    {
+      "callsign": "EJU64QM",
+      "country": "Austria",
+      "lat": 52.3353,
+      "lon": 13.441,
+      "altKm": 0.5,
+      "speedKmh": 366,
+      "heading": 236,
+      "vertRateMs": 6.2,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Palma De Mallorca",
+      "toIata": "PMI",
+      "category": "plane"
+    }
+  ],
+  "updated_at": "2026-11-12T05:00:52.747523Z"
 }
