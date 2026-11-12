@@ -364,7 +364,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-11T09:15:30.871499Z"
+    "checked_at": "2026-11-12T09:15:33.115795Z"
   },
   "SWR3TE": {
     "route": {
@@ -2248,7 +2248,7 @@
       "airlineName": "Air France",
       "airlineCountry": "France"
     },
-    "checked_at": "2026-11-10T09:15:33.470601Z"
+    "checked_at": "2026-11-12T09:15:33.115795Z"
   },
   "KLM75C": {
     "route": {
@@ -4910,17 +4910,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T08:55:24.932273Z"
-  },
-  "QTR53W": {
-    "route": {
-      "fromCity": "Doha",
-      "fromIata": "DOH",
-      "toCity": "Copenhagen",
-      "toIata": "CPH",
-      "airlineName": "Qatar Airways",
-      "airlineCountry": "Qatar"
-    },
-    "checked_at": "2026-11-10T09:10:34.635089Z"
   },
   "WZZ2GE": {
     "route": {
@@ -8314,5 +8303,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-12T09:10:32.527355Z"
+  },
+  "RYR745C": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WMI",
+      "toCity": "Shannon",
+      "toIata": "SNN",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T09:15:33.115795Z"
+  },
+  "EWG5HY": {
+    "route": {
+      "fromCity": "Palma De Mallorca",
+      "fromIata": "PMI",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T09:15:33.115795Z"
   }
 }
