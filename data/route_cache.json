@@ -2806,7 +2806,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T09:10:32.089820Z"
+    "checked_at": "2026-11-12T08:55:24.932273Z"
   },
   "TAP532B": {
     "route": {
@@ -4920,7 +4920,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T09:00:50.977570Z"
+    "checked_at": "2026-11-12T08:55:24.932273Z"
   },
   "QTR53W": {
     "route": {
@@ -8273,5 +8273,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T08:50:34.175272Z"
+  },
+  "CKK215": {
+    "route": {
+      "fromCity": "Shanghai (Pudong)",
+      "fromIata": "PVG",
+      "toCity": "Paris",
+      "toIata": "CDG",
+      "airlineName": "China Cargo Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-12T08:55:24.932273Z"
+  },
+  "WZZ1HL": {
+    "route": {
+      "fromCity": "Katowice",
+      "fromIata": "KTW",
+      "toCity": "Tenerife",
+      "toIata": "TFS",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-12T08:55:24.932273Z"
   }
 }
