@@ -2637,7 +2637,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-11T14:45:33.667574Z"
+    "checked_at": "2026-11-12T14:45:32.695433Z"
   },
   "SXS4FN": {
     "route": {
@@ -2806,7 +2806,7 @@
       "airlineName": "Air China",
       "airlineCountry": "China"
     },
-    "checked_at": "2026-11-10T14:50:34.080765Z"
+    "checked_at": "2026-11-12T14:45:32.695433Z"
   },
   "BEL9CK": {
     "route": {
@@ -3339,7 +3339,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T15:20:36.017573Z"
+    "checked_at": "2026-11-12T14:45:32.695433Z"
   },
   "BAW983": {
     "route": {
@@ -4796,17 +4796,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T14:25:25.610803Z"
-  },
-  "DLH9901": {
-    "route": {
-      "fromCity": "Bologna",
-      "fromIata": "BLQ",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-10T14:45:32.645823Z"
   },
   "EJU9053": {
     "route": {
@@ -8646,5 +8635,20 @@
   "ALE85": {
     "route": null,
     "checked_at": "2026-11-12T14:40:38.308881Z"
+  },
+  "EZY32YZ": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "LTN",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet",
+      "airlineCountry": "United Kingdom"
+    },
+    "checked_at": "2026-11-12T14:45:32.695433Z"
+  },
+  "BPOBER": {
+    "route": null,
+    "checked_at": "2026-11-12T14:45:32.695433Z"
   }
 }
