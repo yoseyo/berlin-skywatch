@@ -4103,7 +4103,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-11T07:55:24.672629Z"
+    "checked_at": "2026-11-12T08:10:32.325758Z"
   },
   "SAS2677": {
     "route": {
@@ -4527,7 +4527,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-11T08:50:33.749084Z"
+    "checked_at": "2026-11-12T08:10:32.325758Z"
   },
   "DLH7EL": {
     "route": {
@@ -8258,5 +8258,31 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-12T08:05:27.355782Z"
+  },
+  "NJE328C": {
+    "route": null,
+    "checked_at": "2026-11-12T08:10:32.325758Z"
+  },
+  "DLH4KV": {
+    "route": {
+      "fromCity": "Hannover",
+      "fromIata": "HAJ",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T08:10:32.325758Z"
+  },
+  "AEE4772": {
+    "route": {
+      "fromCity": "Rhodes Island",
+      "fromIata": "RHO",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Aegean Airlines",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-12T08:10:32.325758Z"
   }
 }
