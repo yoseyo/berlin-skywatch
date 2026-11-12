@@ -2731,17 +2731,6 @@
     },
     "checked_at": "2026-11-12T08:55:24.932273Z"
   },
-  "TAP532B": {
-    "route": {
-      "fromCity": "Lisbon",
-      "fromIata": "LIS",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "TAP Portugal",
-      "airlineCountry": "Portugal"
-    },
-    "checked_at": "2026-11-10T14:55:31.598405Z"
-  },
   "TAP53ED": {
     "route": {
       "fromCity": "Berlin",
@@ -3526,7 +3515,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-11T15:30:46.050876Z"
+    "checked_at": "2026-11-12T15:00:55.599245Z"
   },
   "BEL3JZ": {
     "route": {
@@ -4796,43 +4785,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T14:25:25.610803Z"
-  },
-  "EJU9053": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Alghero",
-      "toIata": "AHO",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-10T14:55:31.598405Z"
-  },
-  "OEFGE": {
-    "route": null,
-    "checked_at": "2026-11-10T14:55:31.598405Z"
-  },
-  "BTX3C": {
-    "route": {
-      "fromCity": "Stuttgart",
-      "fromIata": "STR",
-      "toCity": "Paris",
-      "toIata": "LBG",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-10T14:55:31.598405Z"
-  },
-  "UZB201": {
-    "route": {
-      "fromCity": "Tashkent",
-      "fromIata": "TAS",
-      "toCity": "London",
-      "toIata": "LHR",
-      "airlineName": "Uzbekistan Airways",
-      "airlineCountry": "Uzbekistan"
-    },
-    "checked_at": "2026-11-10T14:55:31.598405Z"
   },
   "UZB251": {
     "route": {
@@ -8665,5 +8617,16 @@
   "DCS604": {
     "route": null,
     "checked_at": "2026-11-12T14:50:36.190449Z"
+  },
+  "EJU9382": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-12T15:00:55.599245Z"
   }
 }
