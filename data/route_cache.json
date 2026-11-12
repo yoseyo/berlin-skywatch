@@ -3997,7 +3997,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-11T07:05:25.175965Z"
+    "checked_at": "2026-11-12T07:10:32.567904Z"
   },
   "LOT4HW": {
     "route": {
@@ -4468,7 +4468,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-11T07:55:24.672629Z"
+    "checked_at": "2026-11-12T07:10:32.567904Z"
   },
   "EJU9047": {
     "route": {
@@ -6527,7 +6527,7 @@
       "airlineName": "Air Baltic",
       "airlineCountry": "Latvia"
     },
-    "checked_at": "2026-11-11T07:25:23.851172Z"
+    "checked_at": "2026-11-12T07:10:32.567904Z"
   },
   "NJE635M": {
     "route": null,
@@ -8155,5 +8155,27 @@
   "DIPBB": {
     "route": null,
     "checked_at": "2026-11-12T07:05:25.970152Z"
+  },
+  "NSZ3YT": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Nice",
+      "toIata": "NCE",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-12T07:10:32.567904Z"
+  },
+  "GAF645": {
+    "route": {
+      "fromCity": "Stuttgart",
+      "fromIata": "STR",
+      "toCity": "Cologne",
+      "toIata": "CGN",
+      "airlineName": "German Air Force",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T07:10:32.567904Z"
   }
 }
