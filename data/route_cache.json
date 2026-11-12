@@ -1454,7 +1454,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T12:25:23.844655Z"
+    "checked_at": "2026-11-12T14:05:28.571002Z"
   },
   "SXS60G": {
     "route": {
@@ -4792,21 +4792,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-12T07:35:24.737433Z"
-  },
-  "WZZ432": {
-    "route": {
-      "fromCity": "Funchal",
-      "fromIata": "FNC",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-10T14:05:25.980918Z"
-  },
-  "NJE060E": {
-    "route": null,
-    "checked_at": "2026-11-10T14:05:25.980918Z"
   },
   "EJU5267": {
     "route": {
@@ -8572,5 +8557,27 @@
   "SKV611": {
     "route": null,
     "checked_at": "2026-11-12T13:55:26.714449Z"
+  },
+  "BTI8MT": {
+    "route": {
+      "fromCity": "Prague",
+      "fromIata": "PRG",
+      "toCity": "Riga",
+      "toIata": "RIX",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-12T14:05:28.571002Z"
+  },
+  "VJT426": {
+    "route": {
+      "fromCity": "Jebel Ali",
+      "fromIata": "DWC",
+      "toCity": "Jebel Ali",
+      "toIata": "DWC",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-12T14:05:28.571002Z"
   }
 }
