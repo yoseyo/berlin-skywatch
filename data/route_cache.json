@@ -309,7 +309,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T08:05:25.681817Z"
+    "checked_at": "2026-11-12T07:35:24.737433Z"
   },
   "SAS767": {
     "route": {
@@ -3971,7 +3971,7 @@
       "airlineName": "Spurling Aviation",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-10T07:40:34.915970Z"
+    "checked_at": "2026-11-12T07:35:24.737433Z"
   },
   "EWG7GK": {
     "route": {
@@ -5564,7 +5564,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-11-10T13:50:35.613880Z"
+    "checked_at": "2026-11-12T07:35:24.737433Z"
   },
   "HCX71": {
     "route": null,
@@ -8213,5 +8213,27 @@
       "airlineCountry": "Sweden"
     },
     "checked_at": "2026-11-12T07:25:25.855580Z"
+  },
+  "FIN1DH": {
+    "route": {
+      "fromCity": "Helsinki",
+      "fromIata": "HEL",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-12T07:35:24.737433Z"
+  },
+  "RYR649T": {
+    "route": {
+      "fromCity": "Valencia",
+      "fromIata": "VLC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T07:35:24.737433Z"
   }
 }
