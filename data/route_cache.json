@@ -67,7 +67,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-11T11:25:24.669395Z"
+    "checked_at": "2026-11-12T11:25:24.972874Z"
   },
   "SWR23F": {
     "route": {
@@ -529,7 +529,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-11T11:15:31.312386Z"
+    "checked_at": "2026-11-12T11:25:24.972874Z"
   },
   "KLC21A": {
     "route": {
@@ -1322,7 +1322,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-11T11:20:31.760504Z"
+    "checked_at": "2026-11-12T11:25:24.972874Z"
   },
   "TKJ2BK": {
     "route": {
@@ -8430,5 +8430,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T11:20:33.384021Z"
+  },
+  "NSZ2MP": {
+    "route": {
+      "fromCity": "Nice",
+      "fromIata": "NCE",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-12T11:25:24.972874Z"
+  },
+  "WZZ24TK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-12T11:25:24.972874Z"
+  },
+  "RYR18LZ": {
+    "route": {
+      "fromCity": "Paisley, Renfrewshire",
+      "fromIata": "GLA",
+      "toCity": "Krak\u00f3w",
+      "toIata": "KRK",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T11:25:24.972874Z"
+  },
+  "RYR87GR": {
+    "route": {
+      "fromCity": "Milan",
+      "fromIata": "MXP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T11:25:24.972874Z"
   }
 }
