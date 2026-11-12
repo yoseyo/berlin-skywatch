@@ -276,7 +276,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-11T07:40:32.643203Z"
+    "checked_at": "2026-11-12T07:25:25.855580Z"
   },
   "SWR97Y": {
     "route": {
@@ -1021,7 +1021,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T06:50:33.199096Z"
+    "checked_at": "2026-11-12T07:25:25.855580Z"
   },
   "RYR21VK": {
     "route": {
@@ -2954,10 +2954,6 @@
   "WZZ9327": {
     "route": null,
     "checked_at": "2026-11-11T09:55:24.690046Z"
-  },
-  "RYR18HB": {
-    "route": null,
-    "checked_at": "2026-11-10T07:20:34.645364Z"
   },
   "EWG4JT": {
     "route": {
@@ -4929,17 +4925,6 @@
   "AGR943": {
     "route": null,
     "checked_at": "2026-11-11T19:40:34.901836Z"
-  },
-  "LOT6140": {
-    "route": {
-      "fromCity": "Punta Cana",
-      "fromIata": "PUJ",
-      "toCity": "Warsaw",
-      "toIata": "WAW",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-10T07:25:24.806973Z"
   },
   "WZZ2LF": {
     "route": {
@@ -8184,5 +8169,49 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T07:15:31.228096Z"
+  },
+  "SAS661": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-12T07:25:25.855580Z"
+  },
+  "LOT5KH": {
+    "route": {
+      "fromCity": "Warsaw",
+      "fromIata": "WAW",
+      "toCity": "Brussels",
+      "toIata": "BRU",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-12T07:25:25.855580Z"
+  },
+  "WZZ97YB": {
+    "route": {
+      "fromCity": "Skopje",
+      "fromIata": "SKP",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-12T07:25:25.855580Z"
+  },
+  "SDR34ER": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Gran Canaria Island",
+      "toIata": "LPA",
+      "airlineName": "City Airline",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-12T07:25:25.855580Z"
   }
 }
