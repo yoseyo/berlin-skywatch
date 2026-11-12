@@ -243,7 +243,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T06:40:31.671351Z"
+    "checked_at": "2026-11-12T06:35:31.072440Z"
   },
   "SWR5XL": {
     "route": {
@@ -791,17 +791,6 @@
   "CFG553": {
     "route": null,
     "checked_at": "2026-11-12T06:00:50.046528Z"
-  },
-  "BTI74A": {
-    "route": {
-      "fromCity": "Riga",
-      "fromIata": "RIX",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-10T06:30:43.992054Z"
   },
   "SAS63Z": {
     "route": {
@@ -4930,28 +4919,6 @@
     },
     "checked_at": "2026-11-12T06:15:30.746794Z"
   },
-  "BTI6WU": {
-    "route": {
-      "fromCity": "Vilnius",
-      "fromIata": "VNO",
-      "toCity": "Tenerife",
-      "toIata": "TFS",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-10T06:30:43.992054Z"
-  },
-  "EJU61RG": {
-    "route": {
-      "fromCity": "Marrakech",
-      "fromIata": "RAK",
-      "toCity": "Strasbourg",
-      "toIata": "SXB",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-10T06:30:43.992054Z"
-  },
   "WZZ959": {
     "route": {
       "fromCity": "Larnaca",
@@ -6965,7 +6932,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T12:00:50.965408Z"
+    "checked_at": "2026-11-12T06:35:31.072440Z"
   },
   "LOT29": {
     "route": {
@@ -8115,5 +8082,38 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T06:30:43.862346Z"
+  },
+  "EJU62CM": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Sharm el-Sheikh",
+      "toIata": "SSH",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-12T06:35:31.072440Z"
+  },
+  "EWG56Z": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Arbil",
+      "toIata": "EBL",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T06:35:31.072440Z"
+  },
+  "EWG22MU": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Beirut",
+      "toIata": "BEY",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T06:35:31.072440Z"
   }
 }
