@@ -221,7 +221,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-11T06:35:26.396369Z"
+    "checked_at": "2026-11-12T06:30:43.862346Z"
   },
   "AUA240": {
     "route": {
@@ -4236,7 +4236,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-11T06:00:51.361804Z"
+    "checked_at": "2026-11-12T06:30:43.862346Z"
   },
   "EJU51XV": {
     "route": {
@@ -8093,5 +8093,27 @@
   "GAF878": {
     "route": null,
     "checked_at": "2026-11-12T06:20:31.529935Z"
+  },
+  "RYR83GK": {
+    "route": {
+      "fromCity": "Stockholm",
+      "fromIata": "ARN",
+      "toCity": "Milan",
+      "toIata": "BGY",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T06:30:43.862346Z"
+  },
+  "RYR310V": {
+    "route": {
+      "fromCity": "Palermo",
+      "fromIata": "PMO",
+      "toCity": "Milan",
+      "toIata": "MXP",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T06:30:43.862346Z"
   }
 }
