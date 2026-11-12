@@ -1,18 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "QTR33X",
-      "country": "Qatar",
-      "lat": 52.3743,
-      "lon": 13.5905,
-      "altKm": 0.4,
-      "speedKmh": 264,
-      "heading": 249,
-      "vertRateMs": -4.2,
-      "airline": "Qatar Airways",
-      "airlineCountry": "Qatar",
+      "callsign": "RYR29NN",
+      "country": "Poland",
+      "lat": 52.6755,
+      "lon": 13.8365,
+      "altKm": 11.4,
+      "speedKmh": 738,
+      "heading": 302,
+      "vertRateMs": 0,
+      "airline": "Ryanair",
+      "airlineCountry": "Ireland",
+      "fromCity": "Pozna\u0144",
+      "fromIata": "POZ",
+      "toCity": "Birmingham",
+      "toIata": "BHX",
+      "category": "plane"
+    },
+    {
+      "callsign": "DLH7AL",
+      "country": "Germany",
+      "lat": 52.5339,
+      "lon": 13.423,
+      "altKm": 11.1,
+      "speedKmh": 793,
+      "heading": 171,
+      "vertRateMs": 0,
+      "airline": "Lufthansa",
+      "airlineCountry": "Germany",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-12T05:45:30.672556Z"
+  "updated_at": "2026-11-12T05:50:33.095174Z"
 }
