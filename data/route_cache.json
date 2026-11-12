@@ -23,7 +23,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-11T14:30:45.337686Z"
+    "checked_at": "2026-11-12T14:40:38.308881Z"
   },
   "NSZ3302": {
     "route": {
@@ -2648,7 +2648,7 @@
       "airlineName": "SunExpress",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-11T14:35:25.146731Z"
+    "checked_at": "2026-11-12T14:40:38.308881Z"
   },
   "EWG52K": {
     "route": {
@@ -4248,10 +4248,6 @@
     },
     "checked_at": "2026-11-12T14:20:33.705687Z"
   },
-  "DFHOT": {
-    "route": null,
-    "checked_at": "2026-11-10T14:40:34.960035Z"
-  },
   "RYR1GE": {
     "route": {
       "fromCity": "Treviso",
@@ -4262,17 +4258,6 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T08:10:32.325758Z"
-  },
-  "DLH7EL": {
-    "route": {
-      "fromCity": "Cork",
-      "fromIata": "ORK",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-10T14:40:34.960035Z"
   },
   "CFE7026": {
     "route": {
@@ -8635,5 +8620,31 @@
   "NJE831B": {
     "route": null,
     "checked_at": "2026-11-12T14:25:25.610803Z"
+  },
+  "WMT7KX": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bucharest",
+      "toIata": "OTP",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-12T14:40:38.308881Z"
+  },
+  "SWU602": {
+    "route": {
+      "fromCity": "Bern",
+      "fromIata": "BRN",
+      "toCity": "Bolzano",
+      "toIata": "BZO",
+      "airlineName": "Swiss European Air Lines",
+      "airlineCountry": "Switzerland"
+    },
+    "checked_at": "2026-11-12T14:40:38.308881Z"
+  },
+  "ALE85": {
+    "route": null,
+    "checked_at": "2026-11-12T14:40:38.308881Z"
   }
 }
