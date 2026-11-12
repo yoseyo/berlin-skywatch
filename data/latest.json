@@ -1,18 +1,39 @@
 {
   "flights": [
     {
-      "callsign": "DLH2EE",
-      "country": "Germany",
-      "lat": 52.3315,
-      "lon": 13.4314,
-      "altKm": 0.6,
-      "speedKmh": 318,
-      "heading": 229,
-      "vertRateMs": 9.8,
-      "airline": "Lufthansa",
-      "airlineCountry": "Germany",
+      "callsign": "TAP53EI",
+      "country": "Portugal",
+      "lat": 52.2712,
+      "lon": 13.2438,
+      "altKm": 2.9,
+      "speedKmh": 420,
+      "heading": 254,
+      "vertRateMs": 11.1,
+      "airline": "TAP Portugal",
+      "airlineCountry": "Portugal",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
+      "callsign": "WZZ488",
+      "country": "Malta",
+      "lat": 52.8911,
+      "lon": 13.9376,
+      "altKm": 10.8,
+      "speedKmh": 742,
+      "heading": 259,
+      "vertRateMs": 0,
+      "airline": "Wizz Air",
+      "airlineCountry": "Hungary",
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "London",
+      "toIata": "LTN",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-12T05:20:32.428335Z"
+  "updated_at": "2026-11-12T05:25:25.336965Z"
 }

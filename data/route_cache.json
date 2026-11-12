@@ -856,7 +856,7 @@
       "airlineName": "TAP Portugal",
       "airlineCountry": "Portugal"
     },
-    "checked_at": "2026-11-10T05:35:25.347645Z"
+    "checked_at": "2026-11-12T05:25:25.336965Z"
   },
   "FIN79T": {
     "route": {
@@ -4930,17 +4930,6 @@
     },
     "checked_at": "2026-11-12T04:30:42.603655Z"
   },
-  "EJU41AW": {
-    "route": {
-      "fromCity": "Bordeaux/M\u00e9rignac",
-      "fromIata": "BOD",
-      "toCity": "Lanzarote Island",
-      "toIata": "ACE",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-10T05:20:32.793260Z"
-  },
   "EWG1T": {
     "route": {
       "fromCity": "Thessaloniki",
@@ -8107,5 +8096,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-12T05:00:52.747523Z"
+  },
+  "WZZ488": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "London",
+      "toIata": "LTN",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-12T05:25:25.336965Z"
   }
 }
