@@ -353,7 +353,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T09:15:30.871499Z"
+    "checked_at": "2026-11-12T08:45:34.545570Z"
   },
   "AUA225B": {
     "route": {
@@ -1164,7 +1164,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T08:55:25.425635Z"
+    "checked_at": "2026-11-12T08:45:34.545570Z"
   },
   "RYR13BV": {
     "route": null,
@@ -3448,17 +3448,6 @@
     },
     "checked_at": "2026-11-11T14:15:29.815526Z"
   },
-  "AEE512": {
-    "route": {
-      "fromCity": "Thessaloniki",
-      "fromIata": "SKG",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-11-10T08:45:31.470505Z"
-  },
   "EWG5JW": {
     "route": {
       "fromCity": "Zurich",
@@ -4906,28 +4895,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T06:05:24.521000Z"
-  },
-  "DLH9KM": {
-    "route": {
-      "fromCity": "Munich",
-      "fromIata": "MUC",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Lufthansa",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-10T08:45:31.470505Z"
-  },
-  "WMT74": {
-    "route": {
-      "fromCity": "Vienna",
-      "fromIata": "VIE",
-      "toCity": "Nice",
-      "toIata": "NCE",
-      "airlineName": "Wizz Air Malta",
-      "airlineCountry": "Malta"
-    },
-    "checked_at": "2026-11-10T08:45:31.470505Z"
   },
   "EJU46PA": {
     "route": {
@@ -8262,5 +8229,16 @@
   "AHY063": {
     "route": null,
     "checked_at": "2026-11-12T08:35:26.080982Z"
+  },
+  "EJU72XB": {
+    "route": {
+      "fromCity": "B\u00e2le/Mulhouse",
+      "fromIata": "BSL",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-12T08:45:34.545570Z"
   }
 }
