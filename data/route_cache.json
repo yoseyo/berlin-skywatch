@@ -265,7 +265,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T06:50:33.199096Z"
+    "checked_at": "2026-11-12T06:50:32.742379Z"
   },
   "LOT2CM": {
     "route": {
@@ -2604,7 +2604,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-11T06:50:33.199096Z"
+    "checked_at": "2026-11-12T06:50:32.742379Z"
   },
   "CTN480": {
     "route": {
@@ -8137,5 +8137,27 @@
       "airlineCountry": "France"
     },
     "checked_at": "2026-11-12T06:45:30.980488Z"
+  },
+  "PGT981": {
+    "route": {
+      "fromCity": "Ankara",
+      "fromIata": "ESB",
+      "toCity": "Vienna",
+      "toIata": "VIE",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-12T06:50:32.742379Z"
+  },
+  "LOT4WE": {
+    "route": {
+      "fromCity": "D\u00fcsseldorf",
+      "fromIata": "DUS",
+      "toCity": "Warsaw",
+      "toIata": "WAW",
+      "airlineName": "LOT Polish Airlines",
+      "airlineCountry": "Poland"
+    },
+    "checked_at": "2026-11-12T06:50:32.742379Z"
   }
 }
