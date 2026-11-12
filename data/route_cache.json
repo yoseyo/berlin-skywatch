@@ -232,7 +232,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-11T06:05:25.492301Z"
+    "checked_at": "2026-11-12T06:15:30.746794Z"
   },
   "DLH172": {
     "route": {
@@ -628,7 +628,7 @@
       "airlineName": "United Airlines",
       "airlineCountry": "United States"
     },
-    "checked_at": "2026-11-11T06:25:25.434245Z"
+    "checked_at": "2026-11-12T06:15:30.746794Z"
   },
   "UAL963": {
     "route": {
@@ -3349,17 +3349,6 @@
     },
     "checked_at": "2026-11-11T11:20:31.760504Z"
   },
-  "EJU62CM": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Sharm el-Sheikh",
-      "toIata": "SSH",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-10T06:10:34.687705Z"
-  },
   "QTR66K": {
     "route": {
       "fromCity": "Paris",
@@ -4008,7 +3997,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T06:20:33.064379Z"
+    "checked_at": "2026-11-12T06:15:30.746794Z"
   },
   "AUA223B": {
     "route": {
@@ -4950,7 +4939,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-10T06:25:24.999518Z"
+    "checked_at": "2026-11-12T06:15:30.746794Z"
   },
   "BTI6WU": {
     "route": {
@@ -8074,5 +8063,38 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T05:55:24.207287Z"
+  },
+  "ETD7MF": {
+    "route": {
+      "fromCity": "Abu Dhabi",
+      "fromIata": "AUH",
+      "toCity": "Toronto",
+      "toIata": "YYZ",
+      "airlineName": "Etihad Airways",
+      "airlineCountry": "United Arab Emirates"
+    },
+    "checked_at": "2026-11-12T06:15:30.746794Z"
+  },
+  "RYR158L": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T06:15:30.746794Z"
+  },
+  "CFG2CA": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Frankfurt am Main",
+      "toIata": "FRA",
+      "airlineName": "Condor Flugdienst",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T06:15:30.746794Z"
   }
 }
