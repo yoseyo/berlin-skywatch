@@ -933,7 +933,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-10T17:30:43.286412Z"
+    "checked_at": "2026-11-12T06:45:30.980488Z"
   },
   "DLH2EE": {
     "route": {
@@ -4919,17 +4919,6 @@
     },
     "checked_at": "2026-11-12T06:15:30.746794Z"
   },
-  "WZZ959": {
-    "route": {
-      "fromCity": "Larnaca",
-      "fromIata": "LCA",
-      "toCity": "London",
-      "toIata": "LGW",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-10T06:40:33.228737Z"
-  },
   "SRR901": {
     "route": {
       "fromCity": "Billund",
@@ -8137,5 +8126,16 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-12T06:40:32.579921Z"
+  },
+  "TVF34UB": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "ORY",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-12T06:45:30.980488Z"
   }
 }
