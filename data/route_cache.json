@@ -34,7 +34,7 @@
       "airlineName": "Norwegian Air Sweden AOC",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-11T10:05:26.158013Z"
+    "checked_at": "2026-11-12T10:15:32.276810Z"
   },
   "AUA995F": {
     "route": {
@@ -1223,7 +1223,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-11T10:00:49.922170Z"
+    "checked_at": "2026-11-12T10:15:32.276810Z"
   },
   "EWG6ZR": {
     "route": {
@@ -4294,7 +4294,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T10:40:32.274546Z"
+    "checked_at": "2026-11-12T10:15:32.276810Z"
   },
   "DLH894": {
     "route": {
@@ -4379,7 +4379,7 @@
   },
   "CHX82": {
     "route": null,
-    "checked_at": "2026-11-11T17:10:32.552533Z"
+    "checked_at": "2026-11-12T10:15:32.276810Z"
   },
   "LHX849": {
     "route": {
@@ -4833,32 +4833,6 @@
   "GAF726": {
     "route": null,
     "checked_at": "2026-11-11T12:15:30.802966Z"
-  },
-  "EJU57AV": {
-    "route": {
-      "fromCity": "Prishtina",
-      "fromIata": "PRN",
-      "toCity": "Berlin",
-      "toIata": "BER",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-10T10:10:41.077910Z"
-  },
-  "CFG3WR": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Frankfurt am Main",
-      "toIata": "FRA",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-10T10:10:41.077910Z"
-  },
-  "NJE489B": {
-    "route": null,
-    "checked_at": "2026-11-10T10:10:41.077910Z"
   },
   "BTI8KY": {
     "route": {
@@ -8299,5 +8273,27 @@
   "GAF400": {
     "route": null,
     "checked_at": "2026-11-12T10:10:38.171041Z"
+  },
+  "WZZ8GS": {
+    "route": {
+      "fromCity": "Budapest",
+      "fromIata": "BUD",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Wizz Air",
+      "airlineCountry": "Hungary"
+    },
+    "checked_at": "2026-11-12T10:15:32.276810Z"
+  },
+  "DLH5AW": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T10:15:32.276810Z"
   }
 }
