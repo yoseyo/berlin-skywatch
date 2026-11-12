@@ -3953,7 +3953,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T06:50:33.199096Z"
+    "checked_at": "2026-11-12T07:15:31.228096Z"
   },
   "LOT403": {
     "route": {
@@ -4085,7 +4085,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-11T07:20:30.924406Z"
+    "checked_at": "2026-11-12T07:15:31.228096Z"
   },
   "DLH7EE": {
     "route": {
@@ -4925,21 +4925,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-11T06:10:33.540148Z"
-  },
-  "OEEMH": {
-    "route": {
-      "fromCity": "M\u00fcnster",
-      "fromIata": "FMO",
-      "toCity": "M\u00f6nchengladbach",
-      "toIata": "MGL",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-10T07:10:32.570474Z"
-  },
-  "LEA115D": {
-    "route": null,
-    "checked_at": "2026-11-10T07:15:31.024666Z"
   },
   "AGR943": {
     "route": null,
@@ -8177,5 +8162,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T07:10:32.567904Z"
+  },
+  "WMT7KQ": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Bucharest",
+      "toIata": "BBU",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-12T07:15:31.228096Z"
+  },
+  "RYR857T": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Budapest",
+      "toIata": "BUD",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T07:15:31.228096Z"
   }
 }
