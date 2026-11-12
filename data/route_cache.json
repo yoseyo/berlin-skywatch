@@ -386,7 +386,7 @@
       "airlineName": "Brussels Airlines",
       "airlineCountry": "Belgium"
     },
-    "checked_at": "2026-11-11T09:50:31.371442Z"
+    "checked_at": "2026-11-12T09:55:25.361193Z"
   },
   "SAS85J": {
     "route": {
@@ -397,7 +397,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-11T10:05:26.158013Z"
+    "checked_at": "2026-11-12T09:55:25.361193Z"
   },
   "AEE8RB": {
     "route": {
@@ -1278,7 +1278,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-11T10:25:25.419710Z"
+    "checked_at": "2026-11-12T09:55:25.361193Z"
   },
   "RYR8KD": {
     "route": {
@@ -1366,7 +1366,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-11T15:55:24.353408Z"
+    "checked_at": "2026-11-12T09:55:25.361193Z"
   },
   "PGT39DV": {
     "route": {
@@ -3264,10 +3264,6 @@
     },
     "checked_at": "2026-11-10T10:25:27.504164Z"
   },
-  "AHY064": {
-    "route": null,
-    "checked_at": "2026-11-10T09:50:35.305821Z"
-  },
   "BAW976": {
     "route": {
       "fromCity": "London",
@@ -3491,17 +3487,6 @@
       "airlineCountry": "Poland"
     },
     "checked_at": "2026-11-11T16:40:33.698367Z"
-  },
-  "AEE513": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Thessaloniki",
-      "toIata": "SKG",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-11-10T09:55:25.167055Z"
   },
   "BAW848": {
     "route": {
@@ -4944,7 +4929,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-11-10T10:35:24.822555Z"
+    "checked_at": "2026-11-12T09:55:25.361193Z"
   },
   "FIN1EB": {
     "route": {
@@ -8295,5 +8280,16 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T09:50:32.260535Z"
+  },
+  "KLM38Z": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands"
+    },
+    "checked_at": "2026-11-12T09:55:25.361193Z"
   }
 }
