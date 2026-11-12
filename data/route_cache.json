@@ -889,7 +889,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-11T08:10:35.696051Z"
+    "checked_at": "2026-11-12T08:25:25.020565Z"
   },
   "PGT979": {
     "route": {
@@ -1098,7 +1098,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-11T08:25:23.428151Z"
+    "checked_at": "2026-11-12T08:25:25.020565Z"
   },
   "EJU68CT": {
     "route": {
@@ -4893,17 +4893,6 @@
     },
     "checked_at": "2026-11-12T07:40:33.521189Z"
   },
-  "CFG4LH": {
-    "route": {
-      "fromCity": "Gran Canaria Island",
-      "fromIata": "LPA",
-      "toCity": "Leipzig",
-      "toIata": "LEJ",
-      "airlineName": "Condor Flugdienst",
-      "airlineCountry": "Germany"
-    },
-    "checked_at": "2026-11-10T08:20:35.435994Z"
-  },
   "THY2LX": {
     "route": {
       "fromCity": "Gaziantep",
@@ -8273,5 +8262,20 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T08:20:32.519447Z"
+  },
+  "SAS31T": {
+    "route": {
+      "fromCity": "Copenhagen",
+      "fromIata": "CPH",
+      "toCity": "Venice",
+      "toIata": "VCE",
+      "airlineName": "Scandinavian Airlines System",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-12T08:25:25.020565Z"
+  },
+  "NJE139U": {
+    "route": null,
+    "checked_at": "2026-11-12T08:25:25.020565Z"
   }
 }
