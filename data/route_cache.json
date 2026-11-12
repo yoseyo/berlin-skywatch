@@ -4204,17 +4204,6 @@
     },
     "checked_at": "2026-11-11T12:10:31.642808Z"
   },
-  "SAS58M": {
-    "route": {
-      "fromCity": "Milan",
-      "fromIata": "LIN",
-      "toCity": "Stockholm",
-      "toIata": "ARN",
-      "airlineName": "Scandinavian Airlines System",
-      "airlineCountry": "Sweden"
-    },
-    "checked_at": "2026-11-10T13:20:33.591350Z"
-  },
   "RYR7HM": {
     "route": {
       "fromCity": "Burgas",
@@ -4785,14 +4774,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-12T12:35:24.722940Z"
-  },
-  "NJE569F": {
-    "route": null,
-    "checked_at": "2026-11-10T13:20:33.591350Z"
-  },
-  "VCJ97G": {
-    "route": null,
-    "checked_at": "2026-11-10T13:20:33.591350Z"
   },
   "KAL542": {
     "route": {
@@ -8554,5 +8535,27 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-12T13:20:33.204717Z"
+  },
+  "LHX1955": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Munich",
+      "toIata": "MUC",
+      "airlineName": "City Airlines",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T13:25:26.423946Z"
+  },
+  "DIBEC": {
+    "route": {
+      "fromCity": "Mainz",
+      "fromIata": null,
+      "toCity": "Nuremberg",
+      "toIata": "NUE",
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-12T13:25:26.423946Z"
   }
 }
