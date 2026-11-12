@@ -1267,7 +1267,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T10:10:33.750672Z"
+    "checked_at": "2026-11-12T10:05:26.395726Z"
   },
   "THY2JV": {
     "route": {
@@ -2248,7 +2248,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-11T10:15:31.175637Z"
+    "checked_at": "2026-11-12T10:05:26.395726Z"
   },
   "DLH1MF": {
     "route": {
@@ -2494,7 +2494,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-11T10:50:31.369259Z"
+    "checked_at": "2026-11-12T10:05:26.395726Z"
   },
   "LOT266": {
     "route": {
@@ -2931,7 +2931,7 @@
   },
   "WZZ9327": {
     "route": null,
-    "checked_at": "2026-11-11T09:55:24.690046Z"
+    "checked_at": "2026-11-12T10:05:26.395726Z"
   },
   "EWG4JT": {
     "route": {
@@ -4506,17 +4506,6 @@
     },
     "checked_at": "2026-11-11T16:00:58.376774Z"
   },
-  "VJT453": {
-    "route": {
-      "fromCity": "Amman",
-      "fromIata": "AMM",
-      "toCity": "Amman",
-      "toIata": "AMM",
-      "airlineName": null,
-      "airlineCountry": null
-    },
-    "checked_at": "2026-11-10T10:00:54.490582Z"
-  },
   "VLG18GY": {
     "route": {
       "fromCity": "Barcelona",
@@ -4541,7 +4530,7 @@
   },
   "RYR69NL": {
     "route": null,
-    "checked_at": "2026-11-10T15:40:36.332237Z"
+    "checked_at": "2026-11-12T10:05:26.395726Z"
   },
   "EWG9YR": {
     "route": {
@@ -4844,21 +4833,6 @@
   "GAF726": {
     "route": null,
     "checked_at": "2026-11-11T12:15:30.802966Z"
-  },
-  "PGT87KH": {
-    "route": {
-      "fromCity": "Pendik, Istanbul",
-      "fromIata": "SAW",
-      "toCity": "Oslo",
-      "toIata": "OSL",
-      "airlineName": "Pegasus Airlines",
-      "airlineCountry": "Turkey"
-    },
-    "checked_at": "2026-11-10T10:00:54.490582Z"
-  },
-  "PAV510": {
-    "route": null,
-    "checked_at": "2026-11-10T10:00:54.490582Z"
   },
   "EJU57AV": {
     "route": {
@@ -8295,5 +8269,20 @@
   "T7850": {
     "route": null,
     "checked_at": "2026-11-12T10:00:51.522473Z"
+  },
+  "ENT8KT": {
+    "route": null,
+    "checked_at": "2026-11-12T10:05:26.395726Z"
+  },
+  "TVF10NK": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Paris",
+      "toIata": "ORY",
+      "airlineName": "Transavia France",
+      "airlineCountry": "France"
+    },
+    "checked_at": "2026-11-12T10:05:26.395726Z"
   }
 }
