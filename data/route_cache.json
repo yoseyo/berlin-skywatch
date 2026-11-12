@@ -430,7 +430,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-11T10:25:25.419710Z"
+    "checked_at": "2026-11-12T10:30:45.012455Z"
   },
   "LOT3JA": {
     "route": {
@@ -2086,7 +2086,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-11T08:20:34.016847Z"
+    "checked_at": "2026-11-12T10:30:45.012455Z"
   },
   "THY3GQ": {
     "route": {
@@ -3252,17 +3252,6 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-10T10:50:32.500402Z"
-  },
-  "RYR6SU": {
-    "route": {
-      "fromCity": "Bristol",
-      "fromIata": "BRS",
-      "toCity": "Marseille",
-      "toIata": "MRS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-10T10:25:27.504164Z"
   },
   "BAW976": {
     "route": {
@@ -4929,7 +4918,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-10T11:30:45.155477Z"
+    "checked_at": "2026-11-12T10:30:45.012455Z"
   },
   "EJU51NW": {
     "route": {
@@ -5199,7 +5188,7 @@
   },
   "JDI01": {
     "route": null,
-    "checked_at": "2026-11-10T14:15:33.897239Z"
+    "checked_at": "2026-11-12T10:30:45.012455Z"
   },
   "BMW54": {
     "route": null,
@@ -8328,5 +8317,16 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-12T10:25:26.181909Z"
+  },
+  "NSZ2041": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stockholm",
+      "toIata": "ARN",
+      "airlineName": "Norwegian Air Sweden AOC",
+      "airlineCountry": "Sweden"
+    },
+    "checked_at": "2026-11-12T10:30:45.012455Z"
   }
 }
