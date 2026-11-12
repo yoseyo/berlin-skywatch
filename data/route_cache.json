@@ -1432,7 +1432,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-11T12:10:31.642808Z"
+    "checked_at": "2026-11-12T12:15:31.945636Z"
   },
   "DLH4CT": {
     "route": {
@@ -4217,7 +4217,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T12:20:31.818807Z"
+    "checked_at": "2026-11-12T12:15:31.945636Z"
   },
   "DLH2T": {
     "route": {
@@ -8448,5 +8448,20 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T12:10:33.378194Z"
+  },
+  "GAF701": {
+    "route": null,
+    "checked_at": "2026-11-12T12:15:31.945636Z"
+  },
+  "ICE15M": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Reykjav\u00edk",
+      "toIata": "KEF",
+      "airlineName": "Icelandair",
+      "airlineCountry": "Iceland"
+    },
+    "checked_at": "2026-11-12T12:15:31.945636Z"
   }
 }
