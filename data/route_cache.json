@@ -1509,7 +1509,7 @@
       "airlineName": "KLM Royal Dutch Airlines",
       "airlineCountry": "Netherlands"
     },
-    "checked_at": "2026-11-11T12:40:34.180465Z"
+    "checked_at": "2026-11-12T12:45:33.236259Z"
   },
   "SAS1676": {
     "route": {
@@ -2964,7 +2964,7 @@
       "airlineName": "Scandinavian Airlines System",
       "airlineCountry": "Sweden"
     },
-    "checked_at": "2026-11-10T13:00:52.331079Z"
+    "checked_at": "2026-11-12T12:45:33.236259Z"
   },
   "WZZ692": {
     "route": null,
@@ -6367,7 +6367,7 @@
       "airlineName": "Turkish Airlines",
       "airlineCountry": "Turkey"
     },
-    "checked_at": "2026-11-11T12:55:25.514698Z"
+    "checked_at": "2026-11-12T12:45:33.236259Z"
   },
   "PHMUE": {
     "route": null,
@@ -8495,5 +8495,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T12:35:24.722940Z"
+  },
+  "EJU41NG": {
+    "route": {
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-12T12:45:33.236259Z"
+  },
+  "SEH874": {
+    "route": {
+      "fromCity": "Athens",
+      "fromIata": "ATH",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Sky Express",
+      "airlineCountry": "Greece"
+    },
+    "checked_at": "2026-11-12T12:45:33.236259Z"
   }
 }
