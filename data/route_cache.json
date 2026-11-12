@@ -1520,7 +1520,7 @@
       "airlineName": "Lufthansa",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T13:00:54.255946Z"
+    "checked_at": "2026-11-12T13:20:33.204717Z"
   },
   "SXS7KG": {
     "route": {
@@ -4785,17 +4785,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-12T12:35:24.722940Z"
-  },
-  "AEE757": {
-    "route": {
-      "fromCity": "Oslo",
-      "fromIata": "OSL",
-      "toCity": "Athens",
-      "toIata": "ATH",
-      "airlineName": "Aegean Airlines",
-      "airlineCountry": "Greece"
-    },
-    "checked_at": "2026-11-10T13:15:31.652221Z"
   },
   "NJE569F": {
     "route": null,
@@ -8513,5 +8502,57 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T13:15:31.647380Z"
+  },
+  "DEMHF": {
+    "route": null,
+    "checked_at": "2026-11-12T13:20:33.204717Z"
+  },
+  "WMT788": {
+    "route": {
+      "fromCity": "Cluj-Napoca",
+      "fromIata": "CLJ",
+      "toCity": "Eindhoven",
+      "toIata": "EIN",
+      "airlineName": "Wizz Air Malta",
+      "airlineCountry": "Malta"
+    },
+    "checked_at": "2026-11-12T13:20:33.204717Z"
+  },
+  "BTI98T": {
+    "route": {
+      "fromCity": "Vilnius",
+      "fromIata": "VNO",
+      "toCity": "Amsterdam",
+      "toIata": "AMS",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-12T13:20:33.204717Z"
+  },
+  "DIMIA": {
+    "route": null,
+    "checked_at": "2026-11-12T13:20:33.204717Z"
+  },
+  "CCA966": {
+    "route": {
+      "fromCity": "Frankfurt am Main",
+      "fromIata": "FRA",
+      "toCity": "Beijing",
+      "toIata": "PEK",
+      "airlineName": "Air China",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-12T13:20:33.204717Z"
+  },
+  "TKJ8QS": {
+    "route": {
+      "fromCity": "Mu\u015f",
+      "fromIata": "MSR",
+      "toCity": "Bursa",
+      "toIata": "YEI",
+      "airlineName": "Tarkim Havacilik",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-12T13:20:33.204717Z"
   }
 }
