@@ -1,18 +1,69 @@
 {
   "flights": [
     {
-      "callsign": "EJU48HQ",
+      "callsign": "EJU91XM",
       "country": "Austria",
-      "lat": 52.3105,
-      "lon": 13.3945,
-      "altKm": 1.1,
-      "speedKmh": 408,
-      "heading": 228,
-      "vertRateMs": 20.5,
+      "lat": 52.2366,
+      "lon": 13.2453,
+      "altKm": 2.7,
+      "speedKmh": 433,
+      "heading": 247,
+      "vertRateMs": 6.8,
       "airline": "easyJet Europe",
       "airlineCountry": "Austria",
+      "fromCity": "London",
+      "fromIata": "LGW",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU41UZ",
+      "country": "Austria",
+      "lat": 52.3072,
+      "lon": 13.3868,
+      "altKm": 1.0,
+      "speedKmh": 408,
+      "heading": 228,
+      "vertRateMs": 20.8,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "London",
+      "toIata": "LGW",
+      "category": "plane"
+    },
+    {
+      "callsign": "EJU48HQ",
+      "country": "Austria",
+      "lat": 52.1836,
+      "lon": 12.818,
+      "altKm": 5.1,
+      "speedKmh": 600,
+      "heading": 254,
+      "vertRateMs": 10.4,
+      "airline": "easyJet Europe",
+      "airlineCountry": "Austria",
+      "fromCity": "Lyon",
+      "fromIata": "LYS",
+      "toCity": "Lisbon",
+      "toIata": "LIS",
+      "category": "plane"
+    },
+    {
+      "callsign": "KLM90J",
+      "country": "Kingdom of the Netherlands",
+      "lat": 52.3569,
+      "lon": 13.5167,
+      "altKm": 0.0,
+      "speedKmh": 148,
+      "heading": 248,
+      "vertRateMs": 0,
+      "airline": "KLM Royal Dutch Airlines",
+      "airlineCountry": "Netherlands",
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-12T05:05:27.209002Z"
+  "updated_at": "2026-11-12T05:10:31.816650Z"
 }
