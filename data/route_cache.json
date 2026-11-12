@@ -4158,7 +4158,7 @@
       "airlineName": "easyJet Europe",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-10T22:00:49.757051Z"
+    "checked_at": "2026-11-12T08:50:34.175272Z"
   },
   "LOT4NC": {
     "route": {
@@ -7225,7 +7225,7 @@
   },
   "MOZ309": {
     "route": null,
-    "checked_at": "2026-11-11T16:15:31.430032Z"
+    "checked_at": "2026-11-12T08:50:34.175272Z"
   },
   "AWH91A": {
     "route": null,
@@ -8240,5 +8240,38 @@
       "airlineCountry": "Austria"
     },
     "checked_at": "2026-11-12T08:45:34.545570Z"
+  },
+  "SXS5UZ": {
+    "route": {
+      "fromCity": "Hamburg",
+      "fromIata": "HAM",
+      "toCity": "Antalya",
+      "toIata": "AYT",
+      "airlineName": "SunExpress",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-12T08:50:34.175272Z"
+  },
+  "N358MM": {
+    "route": {
+      "fromCity": "Gie\u00dfen",
+      "fromIata": null,
+      "toCity": "Gie\u00dfen",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-12T08:50:34.175272Z"
+  },
+  "RYR77LL": {
+    "route": {
+      "fromCity": "London",
+      "fromIata": "STN",
+      "toCity": "Brno",
+      "toIata": "BRQ",
+      "airlineName": "Ryanair",
+      "airlineCountry": "Ireland"
+    },
+    "checked_at": "2026-11-12T08:50:34.175272Z"
   }
 }
