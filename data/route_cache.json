@@ -3144,7 +3144,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-11T10:35:25.897707Z"
+    "checked_at": "2026-11-12T10:50:34.332743Z"
   },
   "EJU37WL": {
     "route": {
@@ -3241,17 +3241,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T05:40:33.240788Z"
-  },
-  "EJU35LT": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Gran Canaria Island",
-      "toIata": "LPA",
-      "airlineName": "easyJet Europe",
-      "airlineCountry": "Austria"
-    },
-    "checked_at": "2026-11-10T10:50:32.500402Z"
   },
   "BAW976": {
     "route": {
@@ -8364,5 +8353,31 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T10:45:31.777481Z"
+  },
+  "CES786": {
+    "route": {
+      "fromCity": "Venice",
+      "fromIata": "VCE",
+      "toCity": "Shanghai (Pudong)",
+      "toIata": "PVG",
+      "airlineName": "China Eastern Airlines",
+      "airlineCountry": "China"
+    },
+    "checked_at": "2026-11-12T10:50:34.332743Z"
+  },
+  "PBB17": {
+    "route": null,
+    "checked_at": "2026-11-12T10:50:34.332743Z"
+  },
+  "EWG8G": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Stuttgart",
+      "toIata": "STR",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T10:50:34.332743Z"
   }
 }
