@@ -2505,7 +2505,7 @@
       "airlineName": "LOT Polish Airlines",
       "airlineCountry": "Poland"
     },
-    "checked_at": "2026-11-11T10:55:24.366608Z"
+    "checked_at": "2026-11-12T10:20:35.075682Z"
   },
   "DLH2EJ": {
     "route": {
@@ -3328,7 +3328,7 @@
       "airlineName": "Eurowings",
       "airlineCountry": "Germany"
     },
-    "checked_at": "2026-11-11T10:30:43.562038Z"
+    "checked_at": "2026-11-12T10:20:35.075682Z"
   },
   "BBG272": {
     "route": {
@@ -4833,21 +4833,6 @@
   "GAF726": {
     "route": null,
     "checked_at": "2026-11-11T12:15:30.802966Z"
-  },
-  "BTI8KY": {
-    "route": {
-      "fromCity": "Amsterdam",
-      "fromIata": "AMS",
-      "toCity": "Vilnius",
-      "toIata": "VNO",
-      "airlineName": "Air Baltic",
-      "airlineCountry": "Latvia"
-    },
-    "checked_at": "2026-11-10T10:15:33.582455Z"
-  },
-  "SYR279": {
-    "route": null,
-    "checked_at": "2026-11-10T10:15:33.582455Z"
   },
   "DLH1AE": {
     "route": {
@@ -8295,5 +8280,27 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T10:15:32.276810Z"
+  },
+  "FIN8WB": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Helsinki",
+      "toIata": "HEL",
+      "airlineName": "Finnair",
+      "airlineCountry": "Finland"
+    },
+    "checked_at": "2026-11-12T10:20:35.075682Z"
+  },
+  "BTI9TZ": {
+    "route": {
+      "fromCity": "Riga",
+      "fromIata": "RIX",
+      "toCity": "Barcelona",
+      "toIata": "BCN",
+      "airlineName": "Air Baltic",
+      "airlineCountry": "Latvia"
+    },
+    "checked_at": "2026-11-12T10:20:35.075682Z"
   }
 }
