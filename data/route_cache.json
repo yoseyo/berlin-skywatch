@@ -562,7 +562,7 @@
       "airlineName": "Swiss International Air Lines",
       "airlineCountry": "Switzerland"
     },
-    "checked_at": "2026-11-11T13:05:26.433992Z"
+    "checked_at": "2026-11-12T13:00:53.552144Z"
   },
   "MSC2960": {
     "route": {
@@ -812,7 +812,7 @@
       "airlineName": "Finnair",
       "airlineCountry": "Finland"
     },
-    "checked_at": "2026-11-11T12:40:34.180465Z"
+    "checked_at": "2026-11-12T13:00:53.552144Z"
   },
   "AUA228T": {
     "route": {
@@ -3308,10 +3308,6 @@
     },
     "checked_at": "2026-11-11T07:10:30.723371Z"
   },
-  "VJT943W": {
-    "route": null,
-    "checked_at": "2026-11-10T12:55:27.232532Z"
-  },
   "NOZ1105": {
     "route": {
       "fromCity": "Berlin",
@@ -4219,17 +4215,6 @@
     },
     "checked_at": "2026-11-11T12:10:31.642808Z"
   },
-  "ISR254": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Tel Aviv",
-      "toIata": "TLV",
-      "airlineName": "Israir Airlines",
-      "airlineCountry": "Israel"
-    },
-    "checked_at": "2026-11-10T13:00:52.331079Z"
-  },
   "SAS58M": {
     "route": {
       "fromCity": "Milan",
@@ -4335,7 +4320,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-11T13:40:35.252472Z"
+    "checked_at": "2026-11-12T13:00:53.552144Z"
   },
   "EZY17GF": {
     "route": {
@@ -4811,43 +4796,6 @@
       "airlineCountry": null
     },
     "checked_at": "2026-11-12T12:35:24.722940Z"
-  },
-  "WZZ15YR": {
-    "route": {
-      "fromCity": "Madrid",
-      "fromIata": "MAD",
-      "toCity": "Gda\u0144sk",
-      "toIata": "GDN",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-10T13:00:52.331079Z"
-  },
-  "NJE306Y": {
-    "route": null,
-    "checked_at": "2026-11-10T13:00:52.331079Z"
-  },
-  "RYR35ZX": {
-    "route": {
-      "fromCity": "Sevilla",
-      "fromIata": "SVQ",
-      "toCity": "Trapani (TP)",
-      "toIata": "TPS",
-      "airlineName": "Ryanair",
-      "airlineCountry": "Ireland"
-    },
-    "checked_at": "2026-11-10T13:00:52.331079Z"
-  },
-  "MEA246": {
-    "route": {
-      "fromCity": "Berlin",
-      "fromIata": "BER",
-      "toCity": "Beirut",
-      "toIata": "BEY",
-      "airlineName": "Middle East Airlines",
-      "airlineCountry": "Lebanon"
-    },
-    "checked_at": "2026-11-10T13:00:52.331079Z"
   },
   "PGT1045": {
     "route": {
@@ -8550,5 +8498,16 @@
   "LEA115D": {
     "route": null,
     "checked_at": "2026-11-12T12:55:25.148026Z"
+  },
+  "EWG7T": {
+    "route": {
+      "fromCity": "Nuremberg",
+      "fromIata": "NUE",
+      "toCity": "M\u00e1laga",
+      "toIata": "AGP",
+      "airlineName": "Eurowings",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T13:00:53.552144Z"
   }
 }
