@@ -2615,7 +2615,7 @@
       "airlineName": "BA CityFlyer",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-11T09:45:29.907525Z"
+    "checked_at": "2026-11-12T09:30:43.781535Z"
   },
   "SAS695": {
     "route": {
@@ -3299,7 +3299,7 @@
       "airlineName": "British Airways",
       "airlineCountry": "United Kingdom"
     },
-    "checked_at": "2026-11-11T09:40:31.138779Z"
+    "checked_at": "2026-11-12T09:30:43.781535Z"
   },
   "LOT7VJ": {
     "route": {
@@ -4186,17 +4186,6 @@
     },
     "checked_at": "2026-11-11T21:35:25.321739Z"
   },
-  "LOT1KH": {
-    "route": {
-      "fromCity": "Warsaw",
-      "fromIata": "WAW",
-      "toCity": "Arnavutk\u00f6y, Istanbul",
-      "toIata": "IST",
-      "airlineName": "LOT Polish Airlines",
-      "airlineCountry": "Poland"
-    },
-    "checked_at": "2026-11-10T09:25:24.919521Z"
-  },
   "ELY2372": {
     "route": {
       "fromCity": "Berlin",
@@ -4877,17 +4866,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-12T08:55:24.932273Z"
-  },
-  "WZZ2GE": {
-    "route": {
-      "fromCity": "Nis",
-      "fromIata": "INI",
-      "toCity": "B\u00e2le/Mulhouse",
-      "toIata": "BSL",
-      "airlineName": "Wizz Air",
-      "airlineCountry": "Hungary"
-    },
-    "checked_at": "2026-11-10T09:25:24.919521Z"
   },
   "DLH5AW": {
     "route": {
@@ -7092,7 +7070,7 @@
       "airlineName": "Ryanair",
       "airlineCountry": "Ireland"
     },
-    "checked_at": "2026-11-11T15:50:31.445003Z"
+    "checked_at": "2026-11-12T09:30:43.781535Z"
   },
   "VJT850": {
     "route": {
@@ -8314,5 +8292,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T09:25:24.763907Z"
+  },
+  "IBE07ML": {
+    "route": {
+      "fromCity": "Madrid",
+      "fromIata": "MAD",
+      "toCity": "London",
+      "toIata": "LHR",
+      "airlineName": "Iberia Airlines",
+      "airlineCountry": "Spain"
+    },
+    "checked_at": "2026-11-12T09:30:43.781535Z"
+  },
+  "DFEIC": {
+    "route": {
+      "fromCity": "Vilshofen",
+      "fromIata": null,
+      "toCity": "Vilshofen",
+      "toIata": null,
+      "airlineName": null,
+      "airlineCountry": null
+    },
+    "checked_at": "2026-11-12T09:30:43.781535Z"
   }
 }
