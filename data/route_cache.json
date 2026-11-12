@@ -786,7 +786,7 @@
   },
   "CFG552": {
     "route": null,
-    "checked_at": "2026-11-11T09:10:32.089820Z"
+    "checked_at": "2026-11-12T09:05:25.378090Z"
   },
   "CFG553": {
     "route": null,
@@ -8288,5 +8288,16 @@
   "MJHCI": {
     "route": null,
     "checked_at": "2026-11-12T09:00:53.707066Z"
+  },
+  "EJU46PA": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Larnaca",
+      "toIata": "LCA",
+      "airlineName": "easyJet Europe",
+      "airlineCountry": "Austria"
+    },
+    "checked_at": "2026-11-12T09:05:25.378090Z"
   }
 }
