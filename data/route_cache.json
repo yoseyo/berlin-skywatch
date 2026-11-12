@@ -823,7 +823,7 @@
       "airlineName": "Austrian Airlines",
       "airlineCountry": "Austria"
     },
-    "checked_at": "2026-11-11T12:30:44.068308Z"
+    "checked_at": "2026-11-12T12:35:24.722940Z"
   },
   "CFE61X": {
     "route": {
@@ -4801,14 +4801,6 @@
     "route": null,
     "checked_at": "2026-11-11T11:25:24.669395Z"
   },
-  "N127QS": {
-    "route": null,
-    "checked_at": "2026-11-10T12:30:47.395632Z"
-  },
-  "FHM4723": {
-    "route": null,
-    "checked_at": "2026-11-10T12:30:47.395632Z"
-  },
   "WZZ1858": {
     "route": {
       "fromCity": "Forl\u00ec (FC)",
@@ -4818,7 +4810,7 @@
       "airlineName": null,
       "airlineCountry": null
     },
-    "checked_at": "2026-11-10T12:35:24.737251Z"
+    "checked_at": "2026-11-12T12:35:24.722940Z"
   },
   "DLH9851": {
     "route": {
@@ -8500,5 +8492,27 @@
       "airlineCountry": "Ireland"
     },
     "checked_at": "2026-11-12T12:30:45.080900Z"
+  },
+  "NOZ61C": {
+    "route": {
+      "fromCity": "Berlin",
+      "fromIata": "BER",
+      "toCity": "Bergen",
+      "toIata": "BGO",
+      "airlineName": "Norwegian Air Shuttle AOC AS",
+      "airlineCountry": "Norway"
+    },
+    "checked_at": "2026-11-12T12:35:24.722940Z"
+  },
+  "DLH1952": {
+    "route": {
+      "fromCity": "Munich",
+      "fromIata": "MUC",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "airlineName": "Lufthansa",
+      "airlineCountry": "Germany"
+    },
+    "checked_at": "2026-11-12T12:35:24.722940Z"
   }
 }
