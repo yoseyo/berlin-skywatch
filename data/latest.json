@@ -1,14 +1,31 @@
 {
   "flights": [
     {
+      "callsign": "ADZ4006",
+      "country": "Bulgaria",
+      "lat": 52.2057,
+      "lon": 13.0914,
+      "altKm": 2.0,
+      "speedKmh": 471,
+      "heading": 19,
+      "vertRateMs": -7.8,
+      "airline": "Compass Cargo Airlines",
+      "airlineCountry": "Bulgaria",
+      "fromCity": "Paris",
+      "fromIata": "CDG",
+      "toCity": "Berlin",
+      "toIata": "BER",
+      "category": "plane"
+    },
+    {
       "callsign": "SRR6228",
       "country": "Denmark",
-      "lat": 52.3918,
-      "lon": 12.8323,
-      "altKm": 2.0,
-      "speedKmh": 530,
-      "heading": 150,
-      "vertRateMs": -7.5,
+      "lat": 52.3342,
+      "lon": 13.3445,
+      "altKm": 0.6,
+      "speedKmh": 327,
+      "heading": 69,
+      "vertRateMs": -5.2,
       "airline": "Star Air",
       "airlineCountry": "Denmark",
       "fromCity": "Cologne",
@@ -20,12 +37,12 @@
     {
       "callsign": "BCS15N",
       "country": "Austria",
-      "lat": 52.2742,
-      "lon": 13.2731,
-      "altKm": 8.5,
-      "speedKmh": 859,
+      "lat": 52.7528,
+      "lon": 14.0606,
+      "altKm": 9.9,
+      "speedKmh": 839,
       "heading": 45,
-      "vertRateMs": 11.1,
+      "vertRateMs": 0,
       "airline": "European Air Transport",
       "airlineCountry": "Germany",
       "fromCity": "Leipzig",
@@ -35,5 +52,5 @@
       "category": "plane"
     }
   ],
-  "updated_at": "2026-11-12T04:25:25.215230Z"
+  "updated_at": "2026-11-12T04:30:42.603655Z"
 }
