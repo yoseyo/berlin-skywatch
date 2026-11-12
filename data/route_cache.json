@@ -1120,7 +1120,7 @@
       "airlineName": "Vueling Airlines",
       "airlineCountry": "Spain"
     },
-    "checked_at": "2026-11-11T08:05:25.681817Z"
+    "checked_at": "2026-11-12T08:30:46.262779Z"
   },
   "QTR5G": {
     "route": {
@@ -4197,10 +4197,6 @@
     "route": null,
     "checked_at": "2026-11-11T14:30:45.337686Z"
   },
-  "DEVCD": {
-    "route": null,
-    "checked_at": "2026-11-10T08:25:25.746756Z"
-  },
   "DLH4CF": {
     "route": {
       "fromCity": "Athens",
@@ -4402,10 +4398,6 @@
       "airlineCountry": "Germany"
     },
     "checked_at": "2026-11-11T12:10:31.642808Z"
-  },
-  "DFAFL": {
-    "route": null,
-    "checked_at": "2026-11-10T08:30:45.717927Z"
   },
   "HBKBC": {
     "route": null,
@@ -4903,17 +4895,6 @@
       "airlineCountry": "Turkey"
     },
     "checked_at": "2026-11-12T08:15:31.855219Z"
-  },
-  "CKK215": {
-    "route": {
-      "fromCity": "Shanghai (Pudong)",
-      "fromIata": "PVG",
-      "toCity": "Paris",
-      "toIata": "CDG",
-      "airlineName": "China Cargo Airlines",
-      "airlineCountry": "China"
-    },
-    "checked_at": "2026-11-10T08:25:25.746756Z"
   },
   "QTR54Y": {
     "route": {
@@ -8277,5 +8258,20 @@
   "NJE139U": {
     "route": null,
     "checked_at": "2026-11-12T08:25:25.020565Z"
+  },
+  "PGT982": {
+    "route": {
+      "fromCity": "Vienna",
+      "fromIata": "VIE",
+      "toCity": "Ankara",
+      "toIata": "ESB",
+      "airlineName": "Pegasus Airlines",
+      "airlineCountry": "Turkey"
+    },
+    "checked_at": "2026-11-12T08:30:46.262779Z"
+  },
+  "T7GAHL": {
+    "route": null,
+    "checked_at": "2026-11-12T08:30:46.262779Z"
   }
 }
